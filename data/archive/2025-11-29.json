@@ -3102,6 +3102,54 @@
           "Response_Date": "2025-11-29T17:24:56"
         }
       ]
+    },
+    {
+      "timestamp": "2025-11-29T23:10:05.057010+00:00",
+      "call_count": 7,
+      "calls": [
+        {
+          "Master_Incident_Number": "112925-00395",
+          "Online_Description": "HAZARD",
+          "Address": "US HIGHWAY 19 N / GULF TO BAY BLVD",
+          "Response_Date": "2025-11-29T16:10:39"
+        },
+        {
+          "Master_Incident_Number": "112925-00400",
+          "Online_Description": "TRAFFIC CRASH",
+          "Address": "23600 BLOCK US HIGHWAY 19 N",
+          "Response_Date": "2025-11-29T16:28:04"
+        },
+        {
+          "Master_Incident_Number": "112925-00411",
+          "Online_Description": "UNKNOWN PROBLEM",
+          "Address": "1600 BLOCK DARTMOUTH ST",
+          "Response_Date": "2025-11-29T16:44:23"
+        },
+        {
+          "Master_Incident_Number": "112925-00425",
+          "Online_Description": "911 HANG-UP",
+          "Address": "900 BLOCK TURNER ST",
+          "Response_Date": "2025-11-29T17:05:31"
+        },
+        {
+          "Master_Incident_Number": "112925-00427",
+          "Online_Description": "TRAFFIC CRASH",
+          "Address": "US HIGHWAY 19 N / COUNTRYSIDE BLVD",
+          "Response_Date": "2025-11-29T17:09:22"
+        },
+        {
+          "Master_Incident_Number": "112925-00432",
+          "Online_Description": "CIVIL MATTER",
+          "Address": "3100 BLOCK WOLFE RD",
+          "Response_Date": "2025-11-29T17:22:12"
+        },
+        {
+          "Master_Incident_Number": "112925-00436",
+          "Online_Description": "ASSIST OTHER AGENCY",
+          "Address": "1500 BLOCK GULF BLVD",
+          "Response_Date": "2025-11-29T17:39:54"
+        }
+      ]
     }
   ]
 }

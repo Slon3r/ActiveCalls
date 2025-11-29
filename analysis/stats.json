@@ -1,6 +1,6 @@
 {
-  "total_calls_tracked": 210,
-  "total_resolved": 201,
+  "total_calls_tracked": 211,
+  "total_resolved": 204,
   "call_types": {
     "DIRECTED PATROL": 73,
     "TRAFFIC STOP": 44,
@@ -25,7 +25,7 @@
     "TRAFFIC CRASH": 4,
     "DISABLED VEHICLE": 3,
     "ASSIST CITIZEN": 1,
-    "ASSIST OTHER AGENCY": 2,
+    "ASSIST OTHER AGENCY": 3,
     "FIRE": 2,
     "FRAUD": 1,
     "RECKLESS VEHICLE": 1,
@@ -198,7 +198,8 @@
     "900 BLOCK TURNER ST": 1,
     "N HERCULES AVE / CALUMET ST": 1,
     "3100 BLOCK WOLFE RD": 1,
-    "500 BLOCK PARK ST": 1
+    "500 BLOCK PARK ST": 1,
+    "1500 BLOCK GULF BLVD": 1
   },
   "hourly_distribution": {
     "0": 4,
@@ -218,7 +219,7 @@
     "14": 22,
     "15": 23,
     "16": 21,
-    "17": 9,
+    "17": 10,
     "18": 0,
     "19": 0,
     "20": 0,
@@ -227,7 +228,7 @@
     "23": 0
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-11-29T22:53:33.468879+00:00",
+  "last_updated": "2025-11-29T23:10:05.061420+00:00",
   "peak_active_calls": 14,
-  "total_snapshots": 72
+  "total_snapshots": 73
 }

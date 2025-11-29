@@ -19,12 +19,6 @@
       "Response_Date": "2025-11-29T16:44:23"
     },
     {
-      "Master_Incident_Number": "112925-00416",
-      "Online_Description": "TRAFFIC STOP",
-      "Address": "HAMPTON RD / GULF TO BAY BLVD",
-      "Response_Date": "2025-11-29T16:53:05"
-    },
-    {
       "Master_Incident_Number": "112925-00425",
       "Online_Description": "911 HANG-UP",
       "Address": "900 BLOCK TURNER ST",
@@ -37,24 +31,18 @@
       "Response_Date": "2025-11-29T17:09:22"
     },
     {
-      "Master_Incident_Number": "112925-00429",
-      "Online_Description": "TRAFFIC STOP",
-      "Address": "N HERCULES AVE / CALUMET ST",
-      "Response_Date": "2025-11-29T17:18:12"
-    },
-    {
       "Master_Incident_Number": "112925-00432",
       "Online_Description": "CIVIL MATTER",
       "Address": "3100 BLOCK WOLFE RD",
       "Response_Date": "2025-11-29T17:22:12"
     },
     {
-      "Master_Incident_Number": "112925-00433",
-      "Online_Description": "WELFARE CHECK",
-      "Address": "500 BLOCK PARK ST",
-      "Response_Date": "2025-11-29T17:24:56"
+      "Master_Incident_Number": "112925-00436",
+      "Online_Description": "ASSIST OTHER AGENCY",
+      "Address": "1500 BLOCK GULF BLVD",
+      "Response_Date": "2025-11-29T17:39:54"
     }
   ],
-  "timestamp": "2025-11-29T22:53:33.464353+00:00",
-  "count": 9
+  "timestamp": "2025-11-29T23:10:05.057010+00:00",
+  "count": 7
 }
