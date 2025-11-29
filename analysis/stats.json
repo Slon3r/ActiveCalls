@@ -1,14 +1,14 @@
 {
-  "total_calls_tracked": 43,
-  "total_resolved": 34,
+  "total_calls_tracked": 48,
+  "total_resolved": 37,
   "call_types": {
-    "DIRECTED PATROL": 22,
-    "TRAFFIC STOP": 10,
+    "DIRECTED PATROL": 24,
+    "TRAFFIC STOP": 12,
     "DRUNK DRIVER": 1,
     "DISTURBANCE": 2,
     "BATTERY": 1,
     "CRIMINAL MISCHIEF": 1,
-    "ALARM": 1,
+    "ALARM": 2,
     "KEEP THE PEACE": 1,
     "WELFARE CHECK": 2,
     "PARK WALK AND TALK": 1,
@@ -49,7 +49,12 @@
     "1400 BLOCK LAURA ST": 1,
     "ENTERPRISE RD E / VILLAGE DR": 1,
     "GULF TO BAY BLVD / HAMPTON RD": 1,
-    "2100 BLOCK GULF TO BAY BLVD": 1
+    "2100 BLOCK GULF TO BAY BLVD": 1,
+    "1300 BLOCK CLEVELAND ST": 1,
+    "2100 BLOCK BELCHER RD": 1,
+    "SAND KEY PARK ENTRANCE": 1,
+    "S MISSOURI AVE / LAKEVIEW RD": 1,
+    "23100 BLOCK US HIGHWAY 19 N": 1
   },
   "hourly_distribution": {
     "0": 4,
@@ -60,7 +65,7 @@
     "5": 6,
     "6": 7,
     "7": 8,
-    "8": 7,
+    "8": 12,
     "9": 0,
     "10": 0,
     "11": 0,
@@ -78,7 +83,7 @@
     "23": 0
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-11-29T13:42:24.342972+00:00",
-  "peak_active_calls": 9,
-  "total_snapshots": 30
+  "last_updated": "2025-11-29T13:50:54.748901+00:00",
+  "peak_active_calls": 11,
+  "total_snapshots": 31
 }
