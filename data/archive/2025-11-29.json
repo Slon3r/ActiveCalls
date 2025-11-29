@@ -1951,6 +1951,78 @@
           "Response_Date": "2025-11-29T13:53:40"
         }
       ]
+    },
+    {
+      "timestamp": "2025-11-29T19:27:25.278203+00:00",
+      "call_count": 11,
+      "calls": [
+        {
+          "Master_Incident_Number": "112925-00276",
+          "Online_Description": "FIRE",
+          "Address": "2000 BLOCK N HERCULES AVE",
+          "Response_Date": "2025-11-29T12:57:22"
+        },
+        {
+          "Master_Incident_Number": "112925-00291",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "1000 BLOCK GULF BLVD",
+          "Response_Date": "2025-11-29T13:32:33"
+        },
+        {
+          "Master_Incident_Number": "112925-00294",
+          "Online_Description": "KEEP THE PEACE",
+          "Address": "2200 BLOCK SPRING LAKE CT",
+          "Response_Date": "2025-11-29T13:34:52"
+        },
+        {
+          "Master_Incident_Number": "112925-00300",
+          "Online_Description": "TRESPASS",
+          "Address": "20900 BLOCK US HIGHWAY 19 N",
+          "Response_Date": "2025-11-29T13:53:10"
+        },
+        {
+          "Master_Incident_Number": "112925-00298",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "200 BLOCK WINDWARD PSGE",
+          "Response_Date": "2025-11-29T13:53:40"
+        },
+        {
+          "Master_Incident_Number": "112925-00301",
+          "Online_Description": "PROPERTY FOUND/LOST",
+          "Address": "N KEENE RD / SUNSET POINT RD",
+          "Response_Date": "2025-11-29T13:55:06"
+        },
+        {
+          "Master_Incident_Number": "112925-00303",
+          "Online_Description": "SUSPICIOUS PERSON",
+          "Address": "2900 BLOCK GLEN OAK AVE N",
+          "Response_Date": "2025-11-29T13:57:14"
+        },
+        {
+          "Master_Incident_Number": "112925-00302",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "2100 BLOCK SOULE RD",
+          "Response_Date": "2025-11-29T13:58:49"
+        },
+        {
+          "Master_Incident_Number": "112925-00306",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "S KEENE RD / GULF TO BAY BLVD",
+          "Response_Date": "2025-11-29T14:01:22"
+        },
+        {
+          "Master_Incident_Number": "112925-00307",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "FIFTH ST & HAMDEN DR",
+          "Response_Date": "2025-11-29T14:05:34"
+        },
+        {
+          "Master_Incident_Number": "112925-00308",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "0 BLOCK ACACIA ST",
+          "Response_Date": "2025-11-29T14:06:20"
+        }
+      ]
     }
   ]
 }
