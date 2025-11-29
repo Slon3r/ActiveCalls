@@ -231,3 +231,15 @@ TOTAL ACTIVE CALLS: 3
 --- NEW CALLS (2) ---
 [NEW] 112925-00077 | DIRECTED PATROL | 400 BLOCK S GULFVIEW BLVD | Response: 06:16 AM
 [NEW] 112925-00078 | DIRECTED PATROL | 100 BLOCK S MYRTLE AVE | Response: 06:20 AM
+
+================================================================================
+TIMESTAMP: 2025-11-29T11:53:34.633978+00:00
+TOTAL ACTIVE CALLS: 2
+================================================================================
+
+--- NEW CALLS (1) ---
+[NEW] 112925-00080 | PARK WALK AND TALK | 0 BLOCK CAUSEWAY BLVD | Response: 06:27 AM
+
+--- RESOLVED CALLS (2) ---
+[RESOLVED] 112925-00077 | DIRECTED PATROL | 400 BLOCK S GULFVIEW BLVD | Response: 06:16 AM
+[RESOLVED] 112925-00078 | DIRECTED PATROL | 100 BLOCK S MYRTLE AVE | Response: 06:20 AM
