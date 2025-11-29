@@ -481,6 +481,24 @@
           "Response_Date": "2025-11-29T06:27:44"
         }
       ]
+    },
+    {
+      "timestamp": "2025-11-29T12:18:37.150653+00:00",
+      "call_count": 2,
+      "calls": [
+        {
+          "Master_Incident_Number": "112825-00485",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "400 BLOCK FAIRWOOD AVE",
+          "Response_Date": "2025-11-29T06:36:37.113"
+        },
+        {
+          "Master_Incident_Number": "112925-00085",
+          "Online_Description": "SUSPICIOUS PERSON",
+          "Address": "500 BLOCK S FORT HARRISON AVE",
+          "Response_Date": "2025-11-29T06:57:56"
+        }
+      ]
     }
   ]
 }

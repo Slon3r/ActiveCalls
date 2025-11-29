@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 25,
-  "total_resolved": 23,
+  "total_calls_tracked": 27,
+  "total_resolved": 25,
   "call_types": {
-    "DIRECTED PATROL": 10,
+    "DIRECTED PATROL": 11,
     "TRAFFIC STOP": 6,
     "DRUNK DRIVER": 1,
     "DISTURBANCE": 2,
@@ -11,7 +11,8 @@
     "ALARM": 1,
     "KEEP THE PEACE": 1,
     "WELFARE CHECK": 1,
-    "PARK WALK AND TALK": 1
+    "PARK WALK AND TALK": 1,
+    "SUSPICIOUS PERSON": 1
   },
   "addresses": {
     "MEMORIAL CSWY / ISLAND WAY": 2,
@@ -34,7 +35,9 @@
     "US HIGHWAY 19 N / SR 580": 1,
     "400 BLOCK S GULFVIEW BLVD": 1,
     "100 BLOCK S MYRTLE AVE": 1,
-    "0 BLOCK CAUSEWAY BLVD": 1
+    "0 BLOCK CAUSEWAY BLVD": 1,
+    "400 BLOCK FAIRWOOD AVE": 1,
+    "500 BLOCK S FORT HARRISON AVE": 1
   },
   "hourly_distribution": {
     "0": 4,
@@ -43,7 +46,7 @@
     "3": 4,
     "4": 0,
     "5": 6,
-    "6": 4,
+    "6": 6,
     "7": 0,
     "8": 0,
     "9": 0,
@@ -63,7 +66,7 @@
     "23": 0
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-11-29T11:53:34.635352+00:00",
+  "last_updated": "2025-11-29T12:18:37.152195+00:00",
   "peak_active_calls": 5,
-  "total_snapshots": 26
+  "total_snapshots": 27
 }
