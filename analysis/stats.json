@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 167,
-  "total_resolved": 156,
+  "total_calls_tracked": 173,
+  "total_resolved": 160,
   "call_types": {
-    "DIRECTED PATROL": 63,
-    "TRAFFIC STOP": 35,
+    "DIRECTED PATROL": 65,
+    "TRAFFIC STOP": 36,
     "DRUNK DRIVER": 1,
     "DISTURBANCE": 3,
     "BATTERY": 1,
@@ -11,14 +11,14 @@
     "ALARM": 4,
     "KEEP THE PEACE": 5,
     "WELFARE CHECK": 3,
-    "PARK WALK AND TALK": 15,
-    "SUSPICIOUS PERSON": 8,
+    "PARK WALK AND TALK": 16,
+    "SUSPICIOUS PERSON": 9,
     "TRESPASS": 5,
     "PROPERTY FOUND/LOST": 2,
     "THEFT": 1,
     "NEIGHBOR CALL": 1,
     "911 HANG-UP": 1,
-    "SUSPICIOUS VEHICLE": 1,
+    "SUSPICIOUS VEHICLE": 2,
     "PANHANDLER/SOLICITOR": 1,
     "VEHICLE ILLEGALLY PARKED": 2,
     "SUSPICIOUS EVENT": 2,
@@ -32,7 +32,7 @@
     "JUVENILE CASE": 1
   },
   "addresses": {
-    "MEMORIAL CSWY / ISLAND WAY": 6,
+    "MEMORIAL CSWY / ISLAND WAY": 7,
     "GULF TO BAY BLVD / S BELCHER RD": 3,
     "1900 BLOCK N BETTY LN": 1,
     "1400 BLOCK CLEVELAND ST": 1,
@@ -163,7 +163,12 @@
     "HAMDEN DR / CORONADO DR": 1,
     "2900 BLOCK SWEETGUM WAY S": 1,
     "18600 BLOCK US HIGHWAY 19 N": 1,
-    "-500 BLOCK 598 MANDALAY AVE": 1
+    "-500 BLOCK 598 MANDALAY AVE": 1,
+    "300 BLOCK S GULFVIEW BLVD": 1,
+    "500 BLOCK S HIGHLAND AVE": 1,
+    "1700 BLOCK KINGS HWY": 1,
+    "500 BLOCK MANDALAY AVE": 1,
+    "3000 BLOCK HAVERFORD DR": 1
   },
   "hourly_distribution": {
     "0": 4,
@@ -181,7 +186,7 @@
     "12": 15,
     "13": 20,
     "14": 22,
-    "15": 11,
+    "15": 17,
     "16": 0,
     "17": 0,
     "18": 0,
@@ -192,7 +197,7 @@
     "23": 0
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-11-29T20:44:02.515305+00:00",
+  "last_updated": "2025-11-29T20:52:13.690686+00:00",
   "peak_active_calls": 14,
-  "total_snapshots": 61
+  "total_snapshots": 62
 }

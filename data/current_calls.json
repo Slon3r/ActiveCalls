@@ -7,12 +7,6 @@
       "Response_Date": "2025-11-29T14:21:14"
     },
     {
-      "Master_Incident_Number": "112925-00326",
-      "Online_Description": "WELFARE CHECK",
-      "Address": "1200 BLOCK GROVE ST",
-      "Response_Date": "2025-11-29T14:34:36"
-    },
-    {
       "Master_Incident_Number": "112925-00343",
       "Online_Description": "DIRECTED PATROL",
       "Address": "-1400 BLOCK 1486 OTTEN ST",
@@ -43,30 +37,48 @@
       "Response_Date": "2025-11-29T15:10:57"
     },
     {
-      "Master_Incident_Number": "112925-00354",
-      "Online_Description": "TRAFFIC STOP",
-      "Address": "HAMDEN DR / CORONADO DR",
-      "Response_Date": "2025-11-29T15:20:42"
-    },
-    {
-      "Master_Incident_Number": "112925-00355",
-      "Online_Description": "TRAFFIC STOP",
-      "Address": "2900 BLOCK SWEETGUM WAY S",
-      "Response_Date": "2025-11-29T15:22:12"
-    },
-    {
       "Master_Incident_Number": "112925-00356",
       "Online_Description": "DIRECTED PATROL",
       "Address": "18600 BLOCK US HIGHWAY 19 N",
       "Response_Date": "2025-11-29T15:22:21"
     },
     {
-      "Master_Incident_Number": "112925-00357",
+      "Master_Incident_Number": "112925-00358",
       "Online_Description": "PARK WALK AND TALK",
-      "Address": "-500 BLOCK 598 MANDALAY AVE",
-      "Response_Date": "2025-11-29T15:22:35"
+      "Address": "300 BLOCK S GULFVIEW BLVD",
+      "Response_Date": "2025-11-29T15:24:51"
+    },
+    {
+      "Master_Incident_Number": "112925-00364",
+      "Online_Description": "SUSPICIOUS PERSON",
+      "Address": "500 BLOCK S HIGHLAND AVE",
+      "Response_Date": "2025-11-29T15:25:55"
+    },
+    {
+      "Master_Incident_Number": "112925-00361",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "1700 BLOCK KINGS HWY",
+      "Response_Date": "2025-11-29T15:26:08"
+    },
+    {
+      "Master_Incident_Number": "112925-00362",
+      "Online_Description": "TRAFFIC STOP",
+      "Address": "MEMORIAL CSWY / ISLAND WAY",
+      "Response_Date": "2025-11-29T15:26:28"
+    },
+    {
+      "Master_Incident_Number": "112925-00363",
+      "Online_Description": "SUSPICIOUS VEHICLE",
+      "Address": "500 BLOCK MANDALAY AVE",
+      "Response_Date": "2025-11-29T15:27:50"
+    },
+    {
+      "Master_Incident_Number": "112925-00365",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "3000 BLOCK HAVERFORD DR",
+      "Response_Date": "2025-11-29T15:30:22"
     }
   ],
-  "timestamp": "2025-11-29T20:44:02.511735+00:00",
-  "count": 11
+  "timestamp": "2025-11-29T20:52:13.686995+00:00",
+  "count": 13
 }
