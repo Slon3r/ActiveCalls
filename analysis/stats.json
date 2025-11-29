@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 205,
-  "total_resolved": 196,
+  "total_calls_tracked": 208,
+  "total_resolved": 199,
   "call_types": {
     "DIRECTED PATROL": 73,
-    "TRAFFIC STOP": 43,
+    "TRAFFIC STOP": 44,
     "DRUNK DRIVER": 1,
     "DISTURBANCE": 5,
     "BATTERY": 1,
@@ -11,13 +11,13 @@
     "ALARM": 4,
     "KEEP THE PEACE": 7,
     "WELFARE CHECK": 3,
-    "PARK WALK AND TALK": 18,
+    "PARK WALK AND TALK": 19,
     "SUSPICIOUS PERSON": 9,
     "TRESPASS": 6,
     "PROPERTY FOUND/LOST": 2,
     "THEFT": 2,
     "NEIGHBOR CALL": 1,
-    "911 HANG-UP": 2,
+    "911 HANG-UP": 3,
     "SUSPICIOUS VEHICLE": 2,
     "PANHANDLER/SOLICITOR": 1,
     "VEHICLE ILLEGALLY PARKED": 2,
@@ -182,7 +182,7 @@
     "1000 BLOCK N MADISON AVE": 1,
     "2800 BLOCK DREW ST": 1,
     "US HIGHWAY 19 N / GULF TO BAY BLVD": 1,
-    "300 BLOCK CORONADO DR": 1,
+    "300 BLOCK CORONADO DR": 2,
     "23600 BLOCK US HIGHWAY 19 N": 1,
     "300 BLOCK MANDALAY AVE": 1,
     "JONES ST / FERN AVE": 1,
@@ -193,7 +193,9 @@
     "N HIGHLAND AVE / SUNSET POINT RD": 1,
     "1100 BLOCK TANGERINE ST": 1,
     "N HERCULES AVE / SUNSET POINT RD": 1,
-    "US HIGHWAY 19 N / COUNTRYSIDE BLVD": 1
+    "US HIGHWAY 19 N / COUNTRYSIDE BLVD": 1,
+    "900 BLOCK TURNER ST": 1,
+    "N HERCULES AVE / CALUMET ST": 1
   },
   "hourly_distribution": {
     "0": 4,
@@ -213,7 +215,7 @@
     "14": 22,
     "15": 23,
     "16": 21,
-    "17": 4,
+    "17": 7,
     "18": 0,
     "19": 0,
     "20": 0,
@@ -222,7 +224,7 @@
     "23": 0
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-11-29T22:35:34.844393+00:00",
+  "last_updated": "2025-11-29T22:45:21.219238+00:00",
   "peak_active_calls": 14,
-  "total_snapshots": 70
+  "total_snapshots": 71
 }

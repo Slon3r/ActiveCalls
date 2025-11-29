@@ -2982,6 +2982,66 @@
           "Response_Date": "2025-11-29T17:09:22"
         }
       ]
+    },
+    {
+      "timestamp": "2025-11-29T22:45:21.214986+00:00",
+      "call_count": 9,
+      "calls": [
+        {
+          "Master_Incident_Number": "112925-00395",
+          "Online_Description": "HAZARD",
+          "Address": "US HIGHWAY 19 N / GULF TO BAY BLVD",
+          "Response_Date": "2025-11-29T16:10:39"
+        },
+        {
+          "Master_Incident_Number": "112925-00400",
+          "Online_Description": "TRAFFIC CRASH",
+          "Address": "23600 BLOCK US HIGHWAY 19 N",
+          "Response_Date": "2025-11-29T16:28:04"
+        },
+        {
+          "Master_Incident_Number": "112925-00404",
+          "Online_Description": "SUSPICIOUS EVENT",
+          "Address": "JONES ST / FERN AVE",
+          "Response_Date": "2025-11-29T16:30:15"
+        },
+        {
+          "Master_Incident_Number": "112925-00411",
+          "Online_Description": "UNKNOWN PROBLEM",
+          "Address": "1600 BLOCK DARTMOUTH ST",
+          "Response_Date": "2025-11-29T16:44:23"
+        },
+        {
+          "Master_Incident_Number": "112925-00416",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "HAMPTON RD / GULF TO BAY BLVD",
+          "Response_Date": "2025-11-29T16:53:05"
+        },
+        {
+          "Master_Incident_Number": "112925-00425",
+          "Online_Description": "911 HANG-UP",
+          "Address": "900 BLOCK TURNER ST",
+          "Response_Date": "2025-11-29T17:05:31"
+        },
+        {
+          "Master_Incident_Number": "112925-00427",
+          "Online_Description": "TRAFFIC CRASH",
+          "Address": "US HIGHWAY 19 N / COUNTRYSIDE BLVD",
+          "Response_Date": "2025-11-29T17:09:22"
+        },
+        {
+          "Master_Incident_Number": "112925-00429",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "N HERCULES AVE / CALUMET ST",
+          "Response_Date": "2025-11-29T17:18:12"
+        },
+        {
+          "Master_Incident_Number": "112925-00430",
+          "Online_Description": "PARK WALK AND TALK",
+          "Address": "300 BLOCK CORONADO DR",
+          "Response_Date": "2025-11-29T17:19:14"
+        }
+      ]
     }
   ]
 }
