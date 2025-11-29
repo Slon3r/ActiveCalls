@@ -31,18 +31,18 @@
       "Response_Date": "2025-11-29T09:24:39"
     },
     {
-      "Master_Incident_Number": "112925-00169",
-      "Online_Description": "TRAFFIC STOP",
-      "Address": "1400 BLOCK N HIBISCUS ST",
-      "Response_Date": "2025-11-29T09:30:58"
-    },
-    {
       "Master_Incident_Number": "112925-00170",
       "Online_Description": "PROPERTY FOUND/LOST",
       "Address": "2900 BLOCK DREW ST",
       "Response_Date": "2025-11-29T09:31:23"
+    },
+    {
+      "Master_Incident_Number": "112925-00174",
+      "Online_Description": "PARK WALK AND TALK",
+      "Address": "21200 BLOCK US HIGHWAY 19 N",
+      "Response_Date": "2025-11-29T09:46:48"
     }
   ],
-  "timestamp": "2025-11-29T14:53:19.693448+00:00",
+  "timestamp": "2025-11-29T15:08:59.465185+00:00",
   "count": 7
 }

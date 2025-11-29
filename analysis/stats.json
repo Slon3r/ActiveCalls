@@ -1,6 +1,6 @@
 {
-  "total_calls_tracked": 64,
-  "total_resolved": 57,
+  "total_calls_tracked": 65,
+  "total_resolved": 58,
   "call_types": {
     "DIRECTED PATROL": 29,
     "TRAFFIC STOP": 15,
@@ -11,7 +11,7 @@
     "ALARM": 3,
     "KEEP THE PEACE": 2,
     "WELFARE CHECK": 2,
-    "PARK WALK AND TALK": 2,
+    "PARK WALK AND TALK": 3,
     "SUSPICIOUS PERSON": 3,
     "TRESPASS": 2,
     "PROPERTY FOUND/LOST": 1
@@ -70,7 +70,8 @@
     "CLEVELAND ST/S MADISON AVE": 1,
     "2700 BLOCK GULF TO BAY BLVD": 1,
     "1400 BLOCK N HIBISCUS ST": 1,
-    "2900 BLOCK DREW ST": 1
+    "2900 BLOCK DREW ST": 1,
+    "21200 BLOCK US HIGHWAY 19 N": 1
   },
   "hourly_distribution": {
     "0": 4,
@@ -82,7 +83,7 @@
     "6": 7,
     "7": 8,
     "8": 19,
-    "9": 9,
+    "9": 10,
     "10": 0,
     "11": 0,
     "12": 0,
@@ -99,7 +100,7 @@
     "23": 0
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-11-29T14:53:19.695491+00:00",
+  "last_updated": "2025-11-29T15:08:59.467371+00:00",
   "peak_active_calls": 11,
-  "total_snapshots": 36
+  "total_snapshots": 37
 }
