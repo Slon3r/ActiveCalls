@@ -206,3 +206,11 @@ TOTAL ACTIVE CALLS: 1
 [RESOLVED] 112925-00064 | KEEP THE PEACE | 1900 BLOCK UNION ST | Response: 05:10 AM
 [RESOLVED] 112925-00065 | DIRECTED PATROL | -800 BLOCK 819 NARCISSUS AVE | Response: 05:21 AM
 [RESOLVED] 112925-00066 | DIRECTED PATROL | 0 BLOCK ISLAND WAY | Response: 05:32 AM
+
+================================================================================
+TIMESTAMP: 2025-11-29T11:27:09.410593+00:00
+TOTAL ACTIVE CALLS: 0
+================================================================================
+
+--- RESOLVED CALLS (1) ---
+[RESOLVED] 112925-00063 | DIRECTED PATROL | 200 BLOCK DREW ST | Response: 05:10 AM
