@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 154,
-  "total_resolved": 147,
+  "total_calls_tracked": 163,
+  "total_resolved": 152,
   "call_types": {
-    "DIRECTED PATROL": 58,
-    "TRAFFIC STOP": 30,
+    "DIRECTED PATROL": 62,
+    "TRAFFIC STOP": 33,
     "DRUNK DRIVER": 1,
     "DISTURBANCE": 3,
     "BATTERY": 1,
@@ -11,7 +11,7 @@
     "ALARM": 4,
     "KEEP THE PEACE": 5,
     "WELFARE CHECK": 3,
-    "PARK WALK AND TALK": 13,
+    "PARK WALK AND TALK": 14,
     "SUSPICIOUS PERSON": 8,
     "TRESPASS": 5,
     "PROPERTY FOUND/LOST": 2,
@@ -28,11 +28,12 @@
     "ASSIST OTHER AGENCY": 1,
     "FIRE": 2,
     "FRAUD": 1,
-    "RECKLESS VEHICLE": 1
+    "RECKLESS VEHICLE": 1,
+    "JUVENILE CASE": 1
   },
   "addresses": {
     "MEMORIAL CSWY / ISLAND WAY": 6,
-    "GULF TO BAY BLVD / S BELCHER RD": 2,
+    "GULF TO BAY BLVD / S BELCHER RD": 3,
     "1900 BLOCK N BETTY LN": 1,
     "1400 BLOCK CLEVELAND ST": 1,
     "1000 BLOCK WEST AVE": 1,
@@ -150,7 +151,15 @@
     "400 BLOCK MANDALAY AVE": 1,
     "-3200 BLOCK 3399 COURTNEY CAMPBELL CSWY": 1,
     "1200 BLOCK GROVE ST": 1,
-    "0 BLOCK OLD COACHMAN RD": 1
+    "0 BLOCK OLD COACHMAN RD": 1,
+    "STOCKWOOD DR / LANDMARK DR": 1,
+    "1400 BLOCK SUNSET POINT RD": 1,
+    "-1400 BLOCK 1486 OTTEN ST": 1,
+    "2800 BLOCK GLORIA CT": 1,
+    "DREW ST / N BELCHER RD": 1,
+    "900 BLOCK GULF BLVD": 1,
+    "POINSETTIA AVE / PAPAYA ST": 1,
+    "600 BLOCK CLEVELAND ST": 1
   },
   "hourly_distribution": {
     "0": 4,
@@ -167,8 +176,8 @@
     "11": 14,
     "12": 15,
     "13": 20,
-    "14": 20,
-    "15": 0,
+    "14": 22,
+    "15": 7,
     "16": 0,
     "17": 0,
     "18": 0,
@@ -179,7 +188,7 @@
     "23": 0
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-11-29T20:09:50.125333+00:00",
+  "last_updated": "2025-11-29T20:32:13.872004+00:00",
   "peak_active_calls": 14,
-  "total_snapshots": 59
+  "total_snapshots": 60
 }
