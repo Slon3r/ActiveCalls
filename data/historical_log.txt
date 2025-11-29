@@ -117,3 +117,11 @@ TOTAL ACTIVE CALLS: 0
 --- RESOLVED CALLS (2) ---
 [RESOLVED] 112925-00036 | TRAFFIC STOP | US HIGHWAY 19 N / DREW ST | Response: 03:16 AM
 [RESOLVED] 112925-00038 | TRAFFIC STOP | US HIGHWAY 19 N / DREW ST | Response: 03:22 AM
+
+================================================================================
+TIMESTAMP: 2025-11-29T09:12:37.554705+00:00
+TOTAL ACTIVE CALLS: 1
+================================================================================
+
+--- NEW CALLS (1) ---
+[NEW] 112925-00041 | CRIMINAL MISCHIEF | 1100 BLOCK DRUID RD | Response: 03:35 AM
