@@ -1,6 +1,6 @@
 {
-  "total_calls_tracked": 106,
-  "total_resolved": 97,
+  "total_calls_tracked": 109,
+  "total_resolved": 99,
   "call_types": {
     "DIRECTED PATROL": 46,
     "TRAFFIC STOP": 20,
@@ -11,7 +11,7 @@
     "ALARM": 4,
     "KEEP THE PEACE": 3,
     "WELFARE CHECK": 2,
-    "PARK WALK AND TALK": 6,
+    "PARK WALK AND TALK": 9,
     "SUSPICIOUS PERSON": 5,
     "TRESPASS": 3,
     "PROPERTY FOUND/LOST": 1,
@@ -49,7 +49,7 @@
     "100 BLOCK S MYRTLE AVE": 1,
     "0 BLOCK CAUSEWAY BLVD": 1,
     "400 BLOCK FAIRWOOD AVE": 2,
-    "500 BLOCK S FORT HARRISON AVE": 1,
+    "500 BLOCK S FORT HARRISON AVE": 2,
     "26000 BLOCK US HIGHWAY 19 N": 2,
     "1300 BLOCK S BELCHER RD": 1,
     "200 BLOCK WINDWARD PSGE": 2,
@@ -97,7 +97,7 @@
     "3300 BLOCK COURTNEY CAMPBELL CSWY": 1,
     "1200 BLOCK COURT ST": 1,
     "1400 BLOCK OWEN DR": 1,
-    "200 BLOCK ISLAND WAY": 1,
+    "200 BLOCK ISLAND WAY": 2,
     "-500 BLOCK BLK CLEVELAND ST": 1,
     "0 BLOCK MEMORIAL CSWY": 1,
     "COUNTRYSIDE BLVD / NORTHRIDGE DR": 1,
@@ -117,7 +117,8 @@
     "-1300 BLOCK BLK ADMIRAL WOODSON LN": 1,
     "19300 BLOCK US HIGHWAY 19 N": 1,
     "600 BLOCK PIERCE ST": 1,
-    "0 BLOCK 99 THIRD ST": 1
+    "0 BLOCK 99 THIRD ST": 1,
+    "0 BLOCK 98 THIRD ST": 1
   },
   "hourly_distribution": {
     "0": 4,
@@ -132,7 +133,7 @@
     "9": 14,
     "10": 16,
     "11": 14,
-    "12": 7,
+    "12": 10,
     "13": 0,
     "14": 0,
     "15": 0,
@@ -146,7 +147,7 @@
     "23": 0
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-11-29T17:43:41.540631+00:00",
+  "last_updated": "2025-11-29T17:51:50.630333+00:00",
   "peak_active_calls": 11,
-  "total_snapshots": 48
+  "total_snapshots": 49
 }
