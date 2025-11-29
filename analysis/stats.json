@@ -1,22 +1,22 @@
 {
-  "total_calls_tracked": 34,
-  "total_resolved": 26,
+  "total_calls_tracked": 38,
+  "total_resolved": 32,
   "call_types": {
-    "DIRECTED PATROL": 17,
-    "TRAFFIC STOP": 7,
+    "DIRECTED PATROL": 19,
+    "TRAFFIC STOP": 8,
     "DRUNK DRIVER": 1,
     "DISTURBANCE": 2,
     "BATTERY": 1,
     "CRIMINAL MISCHIEF": 1,
     "ALARM": 1,
     "KEEP THE PEACE": 1,
-    "WELFARE CHECK": 1,
+    "WELFARE CHECK": 2,
     "PARK WALK AND TALK": 1,
     "SUSPICIOUS PERSON": 1
   },
   "addresses": {
     "MEMORIAL CSWY / ISLAND WAY": 2,
-    "GULF TO BAY BLVD / S BELCHER RD": 1,
+    "GULF TO BAY BLVD / S BELCHER RD": 2,
     "1900 BLOCK N BETTY LN": 1,
     "1400 BLOCK CLEVELAND ST": 1,
     "1000 BLOCK WEST AVE": 1,
@@ -32,7 +32,7 @@
     "200 BLOCK DREW ST": 1,
     "-800 BLOCK 819 NARCISSUS AVE": 1,
     "0 BLOCK ISLAND WAY": 1,
-    "US HIGHWAY 19 N / SR 580": 1,
+    "US HIGHWAY 19 N / SR 580": 2,
     "400 BLOCK S GULFVIEW BLVD": 1,
     "100 BLOCK S MYRTLE AVE": 1,
     "0 BLOCK CAUSEWAY BLVD": 1,
@@ -43,7 +43,9 @@
     "200 BLOCK WINDWARD PSGE": 1,
     "2700 BLOCK DREW ST": 1,
     "FLUSHING AVE / HARN BLVD": 1,
-    "S BELCHER RD / BARCELONA DR": 1
+    "S BELCHER RD / BARCELONA DR": 1,
+    "-1400 BLOCK 1417 S MISSOURI AVE": 1,
+    "1000 BLOCK GULF BLVD": 1
   },
   "hourly_distribution": {
     "0": 4,
@@ -52,9 +54,9 @@
     "3": 4,
     "4": 0,
     "5": 6,
-    "6": 6,
-    "7": 7,
-    "8": 0,
+    "6": 7,
+    "7": 8,
+    "8": 2,
     "9": 0,
     "10": 0,
     "11": 0,
@@ -72,7 +74,7 @@
     "23": 0
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-11-29T12:58:26.169708+00:00",
+  "last_updated": "2025-11-29T13:28:01.267020+00:00",
   "peak_active_calls": 8,
-  "total_snapshots": 28
+  "total_snapshots": 29
 }
