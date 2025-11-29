@@ -1,19 +1,20 @@
 {
-  "total_calls_tracked": 61,
-  "total_resolved": 52,
+  "total_calls_tracked": 64,
+  "total_resolved": 57,
   "call_types": {
     "DIRECTED PATROL": 29,
-    "TRAFFIC STOP": 14,
+    "TRAFFIC STOP": 15,
     "DRUNK DRIVER": 1,
     "DISTURBANCE": 2,
     "BATTERY": 1,
     "CRIMINAL MISCHIEF": 1,
-    "ALARM": 2,
+    "ALARM": 3,
     "KEEP THE PEACE": 2,
     "WELFARE CHECK": 2,
     "PARK WALK AND TALK": 2,
     "SUSPICIOUS PERSON": 3,
-    "TRESPASS": 2
+    "TRESPASS": 2,
+    "PROPERTY FOUND/LOST": 1
   },
   "addresses": {
     "MEMORIAL CSWY / ISLAND WAY": 2,
@@ -66,7 +67,10 @@
     "CLEVELAND ST / N MAIN AVE": 1,
     "S MISSOURI AVE / KINGSLEY ST": 1,
     "2200 BLOCK GULF TO BAY BLVD": 1,
-    "CLEVELAND ST/S MADISON AVE": 1
+    "CLEVELAND ST/S MADISON AVE": 1,
+    "2700 BLOCK GULF TO BAY BLVD": 1,
+    "1400 BLOCK N HIBISCUS ST": 1,
+    "2900 BLOCK DREW ST": 1
   },
   "hourly_distribution": {
     "0": 4,
@@ -78,7 +82,7 @@
     "6": 7,
     "7": 8,
     "8": 19,
-    "9": 6,
+    "9": 9,
     "10": 0,
     "11": 0,
     "12": 0,
@@ -95,7 +99,7 @@
     "23": 0
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-11-29T14:45:01.006264+00:00",
+  "last_updated": "2025-11-29T14:53:19.695491+00:00",
   "peak_active_calls": 11,
-  "total_snapshots": 35
+  "total_snapshots": 36
 }
