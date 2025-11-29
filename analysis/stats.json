@@ -1,17 +1,17 @@
 {
-  "total_calls_tracked": 211,
-  "total_resolved": 204,
+  "total_calls_tracked": 217,
+  "total_resolved": 208,
   "call_types": {
-    "DIRECTED PATROL": 73,
-    "TRAFFIC STOP": 44,
+    "DIRECTED PATROL": 75,
+    "TRAFFIC STOP": 45,
     "DRUNK DRIVER": 1,
     "DISTURBANCE": 5,
     "BATTERY": 1,
     "CRIMINAL MISCHIEF": 1,
-    "ALARM": 4,
+    "ALARM": 5,
     "KEEP THE PEACE": 7,
     "WELFARE CHECK": 4,
-    "PARK WALK AND TALK": 19,
+    "PARK WALK AND TALK": 20,
     "SUSPICIOUS PERSON": 9,
     "TRESPASS": 6,
     "PROPERTY FOUND/LOST": 2,
@@ -21,7 +21,7 @@
     "SUSPICIOUS VEHICLE": 2,
     "PANHANDLER/SOLICITOR": 1,
     "VEHICLE ILLEGALLY PARKED": 2,
-    "SUSPICIOUS EVENT": 3,
+    "SUSPICIOUS EVENT": 4,
     "TRAFFIC CRASH": 4,
     "DISABLED VEHICLE": 3,
     "ASSIST CITIZEN": 1,
@@ -199,7 +199,13 @@
     "N HERCULES AVE / CALUMET ST": 1,
     "3100 BLOCK WOLFE RD": 1,
     "500 BLOCK PARK ST": 1,
-    "1500 BLOCK GULF BLVD": 1
+    "1500 BLOCK GULF BLVD": 1,
+    "1300 BLOCK S FORT HARRISON AVE": 1,
+    "HOLT AVE / RUSSELL ST": 1,
+    "S GULFVIEW BLVD / SECOND ST": 1,
+    "2500 BLOCK COUNTRYSIDE BLVD": 1,
+    "-300 BLOCK 339 CORONADO DR": 1,
+    "-600 BLOCK 698 CLEVELAND ST": 1
   },
   "hourly_distribution": {
     "0": 4,
@@ -219,8 +225,8 @@
     "14": 22,
     "15": 23,
     "16": 21,
-    "17": 10,
-    "18": 0,
+    "17": 14,
+    "18": 2,
     "19": 0,
     "20": 0,
     "21": 0,
@@ -228,7 +234,7 @@
     "23": 0
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-11-29T23:10:05.061420+00:00",
+  "last_updated": "2025-11-29T23:28:43.924138+00:00",
   "peak_active_calls": 14,
-  "total_snapshots": 73
+  "total_snapshots": 74
 }
