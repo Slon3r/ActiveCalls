@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 173,
-  "total_resolved": 160,
+  "total_calls_tracked": 175,
+  "total_resolved": 164,
   "call_types": {
-    "DIRECTED PATROL": 65,
-    "TRAFFIC STOP": 36,
+    "DIRECTED PATROL": 66,
+    "TRAFFIC STOP": 37,
     "DRUNK DRIVER": 1,
     "DISTURBANCE": 3,
     "BATTERY": 1,
@@ -74,7 +74,7 @@
     "23100 BLOCK US HIGHWAY 19 N": 1,
     "1200 BLOCK N BETTY LN": 1,
     "MCMULLEN BOOTH RD / SR 590": 1,
-    "LAKEVIEW RD / S MISSOURI AVE": 1,
+    "LAKEVIEW RD / S MISSOURI AVE": 2,
     "2400 BLOCK MELLOW LN": 1,
     "1200 BLOCK GULF BLVD": 1,
     "1900 BLOCK N BELCHER RD": 1,
@@ -168,7 +168,8 @@
     "500 BLOCK S HIGHLAND AVE": 1,
     "1700 BLOCK KINGS HWY": 1,
     "500 BLOCK MANDALAY AVE": 1,
-    "3000 BLOCK HAVERFORD DR": 1
+    "3000 BLOCK HAVERFORD DR": 1,
+    "DREW ST / OLD COACHMAN RD": 1
   },
   "hourly_distribution": {
     "0": 4,
@@ -186,7 +187,7 @@
     "12": 15,
     "13": 20,
     "14": 22,
-    "15": 17,
+    "15": 19,
     "16": 0,
     "17": 0,
     "18": 0,
@@ -197,7 +198,7 @@
     "23": 0
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-11-29T20:52:13.690686+00:00",
+  "last_updated": "2025-11-29T21:00:04.302166+00:00",
   "peak_active_calls": 14,
-  "total_snapshots": 62
+  "total_snapshots": 63
 }

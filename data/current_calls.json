@@ -19,12 +19,6 @@
       "Response_Date": "2025-11-29T15:00:52"
     },
     {
-      "Master_Incident_Number": "112925-00348",
-      "Online_Description": "TRAFFIC STOP",
-      "Address": "DREW ST / N BELCHER RD",
-      "Response_Date": "2025-11-29T15:04:41"
-    },
-    {
       "Master_Incident_Number": "112925-00349",
       "Online_Description": "DIRECTED PATROL",
       "Address": "900 BLOCK GULF BLVD",
@@ -55,30 +49,24 @@
       "Response_Date": "2025-11-29T15:25:55"
     },
     {
-      "Master_Incident_Number": "112925-00361",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "1700 BLOCK KINGS HWY",
-      "Response_Date": "2025-11-29T15:26:08"
-    },
-    {
-      "Master_Incident_Number": "112925-00362",
-      "Online_Description": "TRAFFIC STOP",
-      "Address": "MEMORIAL CSWY / ISLAND WAY",
-      "Response_Date": "2025-11-29T15:26:28"
-    },
-    {
       "Master_Incident_Number": "112925-00363",
       "Online_Description": "SUSPICIOUS VEHICLE",
       "Address": "500 BLOCK MANDALAY AVE",
       "Response_Date": "2025-11-29T15:27:50"
     },
     {
-      "Master_Incident_Number": "112925-00365",
+      "Master_Incident_Number": "112925-00370",
+      "Online_Description": "TRAFFIC STOP",
+      "Address": "LAKEVIEW RD / S MISSOURI AVE",
+      "Response_Date": "2025-11-29T15:36:27"
+    },
+    {
+      "Master_Incident_Number": "112925-00372",
       "Online_Description": "DIRECTED PATROL",
-      "Address": "3000 BLOCK HAVERFORD DR",
-      "Response_Date": "2025-11-29T15:30:22"
+      "Address": "DREW ST / OLD COACHMAN RD",
+      "Response_Date": "2025-11-29T15:37:09"
     }
   ],
-  "timestamp": "2025-11-29T20:52:13.686995+00:00",
-  "count": 13
+  "timestamp": "2025-11-29T21:00:04.298323+00:00",
+  "count": 11
 }
