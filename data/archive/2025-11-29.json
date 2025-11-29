@@ -302,6 +302,18 @@
           "Response_Date": "2025-11-29T03:35:57"
         }
       ]
+    },
+    {
+      "timestamp": "2025-11-29T10:21:03.065673+00:00",
+      "call_count": 1,
+      "calls": [
+        {
+          "Master_Incident_Number": "112925-00041",
+          "Online_Description": "CRIMINAL MISCHIEF",
+          "Address": "1100 BLOCK DRUID RD",
+          "Response_Date": "2025-11-29T03:35:57"
+        }
+      ]
     }
   ]
 }
