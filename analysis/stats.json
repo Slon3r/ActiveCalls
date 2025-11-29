@@ -1,14 +1,15 @@
 {
-  "total_calls_tracked": 15,
+  "total_calls_tracked": 19,
   "total_resolved": 14,
   "call_types": {
-    "DIRECTED PATROL": 3,
+    "DIRECTED PATROL": 6,
     "TRAFFIC STOP": 6,
     "DRUNK DRIVER": 1,
     "DISTURBANCE": 2,
     "BATTERY": 1,
     "CRIMINAL MISCHIEF": 1,
-    "ALARM": 1
+    "ALARM": 1,
+    "KEEP THE PEACE": 1
   },
   "addresses": {
     "MEMORIAL CSWY / ISLAND WAY": 2,
@@ -21,7 +22,11 @@
     "US HIGHWAY 19 N / DREW ST": 4,
     "US HIGHWAY 19 N / SR 590": 1,
     "1100 BLOCK DRUID RD": 1,
-    "2100 BLOCK RANGE RD": 1
+    "2100 BLOCK RANGE RD": 1,
+    "0 BLOCK ACACIA ST": 1,
+    "-600 BLOCK 647 BAY ESPLANADE": 1,
+    "1900 BLOCK UNION ST": 1,
+    "200 BLOCK DREW ST": 1
   },
   "hourly_distribution": {
     "0": 4,
@@ -29,7 +34,7 @@
     "2": 3,
     "3": 4,
     "4": 0,
-    "5": 0,
+    "5": 4,
     "6": 0,
     "7": 0,
     "8": 0,
@@ -50,7 +55,7 @@
     "23": 0
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-11-29T10:21:03.066834+00:00",
+  "last_updated": "2025-11-29T10:39:05.132717+00:00",
   "peak_active_calls": 5,
-  "total_snapshots": 18
+  "total_snapshots": 19
 }
