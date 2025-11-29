@@ -2118,6 +2118,90 @@
           "Response_Date": "2025-11-29T14:23:38"
         }
       ]
+    },
+    {
+      "timestamp": "2025-11-29T19:52:57.252323+00:00",
+      "call_count": 13,
+      "calls": [
+        {
+          "Master_Incident_Number": "112925-00294",
+          "Online_Description": "KEEP THE PEACE",
+          "Address": "2200 BLOCK SPRING LAKE CT",
+          "Response_Date": "2025-11-29T13:34:52"
+        },
+        {
+          "Master_Incident_Number": "112925-00300",
+          "Online_Description": "TRESPASS",
+          "Address": "20900 BLOCK US HIGHWAY 19 N",
+          "Response_Date": "2025-11-29T13:53:10"
+        },
+        {
+          "Master_Incident_Number": "112925-00303",
+          "Online_Description": "SUSPICIOUS PERSON",
+          "Address": "2900 BLOCK GLEN OAK AVE N",
+          "Response_Date": "2025-11-29T13:57:14"
+        },
+        {
+          "Master_Incident_Number": "112925-00302",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "2100 BLOCK SOULE RD",
+          "Response_Date": "2025-11-29T13:58:49"
+        },
+        {
+          "Master_Incident_Number": "112925-00307",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "FIFTH ST / HAMDEN DR",
+          "Response_Date": "2025-11-29T14:05:34"
+        },
+        {
+          "Master_Incident_Number": "112925-00310",
+          "Online_Description": "TRAFFIC CRASH",
+          "Address": "27000 BLOCK US HIGHWAY 19 N",
+          "Response_Date": "2025-11-29T14:06:01"
+        },
+        {
+          "Master_Incident_Number": "112925-00312",
+          "Online_Description": "PARK WALK AND TALK",
+          "Address": "300 BLOCK CLEVELAND ST",
+          "Response_Date": "2025-11-29T14:09:42"
+        },
+        {
+          "Master_Incident_Number": "112925-00314",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "MEMORIAL CSWY / ISLAND WAY",
+          "Response_Date": "2025-11-29T14:11:32"
+        },
+        {
+          "Master_Incident_Number": "112925-00318",
+          "Online_Description": "RECKLESS VEHICLE",
+          "Address": "-400 BLOCK BLK BLANCHE B LITTLEJOHN TRL",
+          "Response_Date": "2025-11-29T14:22:10"
+        },
+        {
+          "Master_Incident_Number": "112925-00319",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "2600 BLOCK GULF TO BAY BLVD",
+          "Response_Date": "2025-11-29T14:27:21"
+        },
+        {
+          "Master_Incident_Number": "112925-00320",
+          "Online_Description": "PARK WALK AND TALK",
+          "Address": "400 BLOCK MANDALAY AVE",
+          "Response_Date": "2025-11-29T14:28:01"
+        },
+        {
+          "Master_Incident_Number": "112925-00322",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "-3200 BLOCK 3399 COURTNEY CAMPBELL CSWY",
+          "Response_Date": "2025-11-29T14:31:26"
+        },
+        {
+          "Master_Incident_Number": "112925-00323",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "MEMORIAL CSWY / ISLAND WAY",
+          "Response_Date": "2025-11-29T14:31:45"
+        }
+      ]
     }
   ]
 }

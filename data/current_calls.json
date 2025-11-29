@@ -1,12 +1,6 @@
 {
   "calls": [
     {
-      "Master_Incident_Number": "112925-00276",
-      "Online_Description": "FIRE",
-      "Address": "2000 BLOCK N HERCULES AVE",
-      "Response_Date": "2025-11-29T12:57:22"
-    },
-    {
       "Master_Incident_Number": "112925-00294",
       "Online_Description": "KEEP THE PEACE",
       "Address": "2200 BLOCK SPRING LAKE CT",
@@ -31,12 +25,6 @@
       "Response_Date": "2025-11-29T13:58:49"
     },
     {
-      "Master_Incident_Number": "112925-00306",
-      "Online_Description": "TRAFFIC STOP",
-      "Address": "S KEENE RD / GULF TO BAY BLVD",
-      "Response_Date": "2025-11-29T14:01:22"
-    },
-    {
       "Master_Incident_Number": "112925-00307",
       "Online_Description": "DIRECTED PATROL",
       "Address": "FIFTH ST / HAMDEN DR",
@@ -49,22 +37,10 @@
       "Response_Date": "2025-11-29T14:06:01"
     },
     {
-      "Master_Incident_Number": "112925-00311",
-      "Online_Description": "TRAFFIC CRASH",
-      "Address": "E WORLD PARKWAY BLVD / BELCHER RD",
-      "Response_Date": "2025-11-29T14:07:41"
-    },
-    {
       "Master_Incident_Number": "112925-00312",
       "Online_Description": "PARK WALK AND TALK",
       "Address": "300 BLOCK CLEVELAND ST",
       "Response_Date": "2025-11-29T14:09:42"
-    },
-    {
-      "Master_Incident_Number": "112925-00313",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "MEMORIAL CSWY / ISLAND WAY",
-      "Response_Date": "2025-11-29T14:11:03"
     },
     {
       "Master_Incident_Number": "112925-00314",
@@ -73,18 +49,36 @@
       "Response_Date": "2025-11-29T14:11:32"
     },
     {
-      "Master_Incident_Number": "112925-00315",
-      "Online_Description": "TRAFFIC STOP",
-      "Address": "GULF TO BAY BLVD / S LAKE DR",
-      "Response_Date": "2025-11-29T14:23:13"
+      "Master_Incident_Number": "112925-00318",
+      "Online_Description": "RECKLESS VEHICLE",
+      "Address": "-400 BLOCK BLK BLANCHE B LITTLEJOHN TRL",
+      "Response_Date": "2025-11-29T14:22:10"
     },
     {
-      "Master_Incident_Number": "112925-00316",
+      "Master_Incident_Number": "112925-00319",
+      "Online_Description": "TRAFFIC STOP",
+      "Address": "2600 BLOCK GULF TO BAY BLVD",
+      "Response_Date": "2025-11-29T14:27:21"
+    },
+    {
+      "Master_Incident_Number": "112925-00320",
+      "Online_Description": "PARK WALK AND TALK",
+      "Address": "400 BLOCK MANDALAY AVE",
+      "Response_Date": "2025-11-29T14:28:01"
+    },
+    {
+      "Master_Incident_Number": "112925-00322",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "-3200 BLOCK 3399 COURTNEY CAMPBELL CSWY",
+      "Response_Date": "2025-11-29T14:31:26"
+    },
+    {
+      "Master_Incident_Number": "112925-00323",
       "Online_Description": "TRAFFIC STOP",
       "Address": "MEMORIAL CSWY / ISLAND WAY",
-      "Response_Date": "2025-11-29T14:23:38"
+      "Response_Date": "2025-11-29T14:31:45"
     }
   ],
-  "timestamp": "2025-11-29T19:44:43.830119+00:00",
-  "count": 14
+  "timestamp": "2025-11-29T19:52:57.252323+00:00",
+  "count": 13
 }

@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 146,
-  "total_resolved": 132,
+  "total_calls_tracked": 151,
+  "total_resolved": 138,
   "call_types": {
-    "DIRECTED PATROL": 56,
-    "TRAFFIC STOP": 28,
+    "DIRECTED PATROL": 57,
+    "TRAFFIC STOP": 30,
     "DRUNK DRIVER": 1,
     "DISTURBANCE": 3,
     "BATTERY": 1,
@@ -11,7 +11,7 @@
     "ALARM": 4,
     "KEEP THE PEACE": 5,
     "WELFARE CHECK": 2,
-    "PARK WALK AND TALK": 12,
+    "PARK WALK AND TALK": 13,
     "SUSPICIOUS PERSON": 8,
     "TRESPASS": 5,
     "PROPERTY FOUND/LOST": 2,
@@ -27,10 +27,11 @@
     "ASSIST CITIZEN": 1,
     "ASSIST OTHER AGENCY": 1,
     "FIRE": 2,
-    "FRAUD": 1
+    "FRAUD": 1,
+    "RECKLESS VEHICLE": 1
   },
   "addresses": {
-    "MEMORIAL CSWY / ISLAND WAY": 5,
+    "MEMORIAL CSWY / ISLAND WAY": 6,
     "GULF TO BAY BLVD / S BELCHER RD": 2,
     "1900 BLOCK N BETTY LN": 1,
     "1400 BLOCK CLEVELAND ST": 1,
@@ -143,7 +144,11 @@
     "FIFTH ST / HAMDEN DR": 1,
     "E WORLD PARKWAY BLVD / BELCHER RD": 1,
     "300 BLOCK CLEVELAND ST": 1,
-    "GULF TO BAY BLVD / S LAKE DR": 1
+    "GULF TO BAY BLVD / S LAKE DR": 1,
+    "-400 BLOCK BLK BLANCHE B LITTLEJOHN TRL": 1,
+    "2600 BLOCK GULF TO BAY BLVD": 1,
+    "400 BLOCK MANDALAY AVE": 1,
+    "-3200 BLOCK 3399 COURTNEY CAMPBELL CSWY": 1
   },
   "hourly_distribution": {
     "0": 4,
@@ -160,7 +165,7 @@
     "11": 14,
     "12": 15,
     "13": 20,
-    "14": 12,
+    "14": 17,
     "15": 0,
     "16": 0,
     "17": 0,
@@ -172,7 +177,7 @@
     "23": 0
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-11-29T19:44:43.833389+00:00",
+  "last_updated": "2025-11-29T19:52:57.255727+00:00",
   "peak_active_calls": 14,
-  "total_snapshots": 57
+  "total_snapshots": 58
 }
