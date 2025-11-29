@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 58,
-  "total_resolved": 50,
+  "total_calls_tracked": 61,
+  "total_resolved": 52,
   "call_types": {
-    "DIRECTED PATROL": 27,
+    "DIRECTED PATROL": 29,
     "TRAFFIC STOP": 14,
     "DRUNK DRIVER": 1,
     "DISTURBANCE": 2,
@@ -12,7 +12,7 @@
     "KEEP THE PEACE": 2,
     "WELFARE CHECK": 2,
     "PARK WALK AND TALK": 2,
-    "SUSPICIOUS PERSON": 2,
+    "SUSPICIOUS PERSON": 3,
     "TRESPASS": 2
   },
   "addresses": {
@@ -63,7 +63,10 @@
     "1200 BLOCK GULF BLVD": 1,
     "1900 BLOCK N BELCHER RD": 1,
     "20100 BLOCK US HIGHWAY 19 N": 1,
-    "CLEVELAND ST / N MAIN AVE": 1
+    "CLEVELAND ST / N MAIN AVE": 1,
+    "S MISSOURI AVE / KINGSLEY ST": 1,
+    "2200 BLOCK GULF TO BAY BLVD": 1,
+    "CLEVELAND ST/S MADISON AVE": 1
   },
   "hourly_distribution": {
     "0": 4,
@@ -75,7 +78,7 @@
     "6": 7,
     "7": 8,
     "8": 19,
-    "9": 3,
+    "9": 6,
     "10": 0,
     "11": 0,
     "12": 0,
@@ -92,7 +95,7 @@
     "23": 0
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-11-29T14:35:13.439993+00:00",
+  "last_updated": "2025-11-29T14:45:01.006264+00:00",
   "peak_active_calls": 11,
-  "total_snapshots": 34
+  "total_snapshots": 35
 }
