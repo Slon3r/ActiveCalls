@@ -1909,6 +1909,48 @@
           "Response_Date": "2025-11-29T13:35:09"
         }
       ]
+    },
+    {
+      "timestamp": "2025-11-29T19:16:10.915898+00:00",
+      "call_count": 6,
+      "calls": [
+        {
+          "Master_Incident_Number": "112925-00275",
+          "Online_Description": "ASSIST OTHER AGENCY",
+          "Address": "GULF TO BAY BLVD / PARK PLACE BLVD",
+          "Response_Date": "2025-11-29T12:53:59"
+        },
+        {
+          "Master_Incident_Number": "112925-00276",
+          "Online_Description": "FIRE",
+          "Address": "2000 BLOCK N HERCULES AVE",
+          "Response_Date": "2025-11-29T12:57:22"
+        },
+        {
+          "Master_Incident_Number": "112925-00291",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "1000 BLOCK GULF BLVD",
+          "Response_Date": "2025-11-29T13:32:33"
+        },
+        {
+          "Master_Incident_Number": "112925-00296",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "GULF TO BAY BLVD / BROOKSIDE DR",
+          "Response_Date": "2025-11-29T13:50:32"
+        },
+        {
+          "Master_Incident_Number": "112925-00297",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "2800 BLOCK SR 580",
+          "Response_Date": "2025-11-29T13:52:44"
+        },
+        {
+          "Master_Incident_Number": "112925-00298",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "200 BLOCK WINDWARD PSGE",
+          "Response_Date": "2025-11-29T13:53:40"
+        }
+      ]
     }
   ]
 }
