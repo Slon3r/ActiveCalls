@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 100,
-  "total_resolved": 95,
+  "total_calls_tracked": 103,
+  "total_resolved": 96,
   "call_types": {
-    "DIRECTED PATROL": 44,
+    "DIRECTED PATROL": 45,
     "TRAFFIC STOP": 20,
     "DRUNK DRIVER": 1,
     "DISTURBANCE": 3,
@@ -12,8 +12,8 @@
     "KEEP THE PEACE": 3,
     "WELFARE CHECK": 2,
     "PARK WALK AND TALK": 6,
-    "SUSPICIOUS PERSON": 3,
-    "TRESPASS": 2,
+    "SUSPICIOUS PERSON": 4,
+    "TRESPASS": 3,
     "PROPERTY FOUND/LOST": 1,
     "THEFT": 1,
     "NEIGHBOR CALL": 1,
@@ -111,7 +111,10 @@
     "2400 BLOCK COUNTRYSIDE BLVD": 1,
     "1200 BLOCK S MISSOURI AVE": 1,
     "2000 BLOCK N HIGHLAND AVE": 1,
-    "N DUNCAN AVE / DREW ST": 1
+    "N DUNCAN AVE / DREW ST": 1,
+    "1100 BLOCK COURT ST": 1,
+    "-1300 BLOCK BLK ADMIRAL WOODSON LN": 1,
+    "19300 BLOCK US HIGHWAY 19 N": 1
   },
   "hourly_distribution": {
     "0": 4,
@@ -126,7 +129,7 @@
     "9": 14,
     "10": 16,
     "11": 14,
-    "12": 1,
+    "12": 4,
     "13": 0,
     "14": 0,
     "15": 0,
@@ -140,7 +143,7 @@
     "23": 0
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-11-29T17:22:46.698126+00:00",
+  "last_updated": "2025-11-29T17:35:18.493031+00:00",
   "peak_active_calls": 11,
-  "total_snapshots": 46
+  "total_snapshots": 47
 }
