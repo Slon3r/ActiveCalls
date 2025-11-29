@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 48,
-  "total_resolved": 37,
+  "total_calls_tracked": 51,
+  "total_resolved": 40,
   "call_types": {
     "DIRECTED PATROL": 24,
-    "TRAFFIC STOP": 12,
+    "TRAFFIC STOP": 14,
     "DRUNK DRIVER": 1,
     "DISTURBANCE": 2,
     "BATTERY": 1,
@@ -12,7 +12,8 @@
     "KEEP THE PEACE": 1,
     "WELFARE CHECK": 2,
     "PARK WALK AND TALK": 1,
-    "SUSPICIOUS PERSON": 1
+    "SUSPICIOUS PERSON": 1,
+    "TRESPASS": 1
   },
   "addresses": {
     "MEMORIAL CSWY / ISLAND WAY": 2,
@@ -54,7 +55,10 @@
     "2100 BLOCK BELCHER RD": 1,
     "SAND KEY PARK ENTRANCE": 1,
     "S MISSOURI AVE / LAKEVIEW RD": 1,
-    "23100 BLOCK US HIGHWAY 19 N": 1
+    "23100 BLOCK US HIGHWAY 19 N": 1,
+    "1200 BLOCK N BETTY LN": 1,
+    "MCMULLEN BOOTH RD / SR 590": 1,
+    "LAKEVIEW RD / S MISSOURI AVE": 1
   },
   "hourly_distribution": {
     "0": 4,
@@ -65,7 +69,7 @@
     "5": 6,
     "6": 7,
     "7": 8,
-    "8": 12,
+    "8": 15,
     "9": 0,
     "10": 0,
     "11": 0,
@@ -83,7 +87,7 @@
     "23": 0
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-11-29T13:50:54.748901+00:00",
+  "last_updated": "2025-11-29T13:58:19.592857+00:00",
   "peak_active_calls": 11,
-  "total_snapshots": 31
+  "total_snapshots": 32
 }

@@ -25,22 +25,10 @@
       "Response_Date": "2025-11-29T08:08:04"
     },
     {
-      "Master_Incident_Number": "112925-00135",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "200 BLOCK WINDWARD PSGE",
-      "Response_Date": "2025-11-29T08:18:56"
-    },
-    {
       "Master_Incident_Number": "112925-00136",
       "Online_Description": "DIRECTED PATROL",
       "Address": "2100 BLOCK GULF TO BAY BLVD",
       "Response_Date": "2025-11-29T08:20:54"
-    },
-    {
-      "Master_Incident_Number": "112925-00139",
-      "Online_Description": "ALARM",
-      "Address": "1300 BLOCK CLEVELAND ST",
-      "Response_Date": "2025-11-29T08:22:30"
     },
     {
       "Master_Incident_Number": "112925-00138",
@@ -55,18 +43,30 @@
       "Response_Date": "2025-11-29T08:25:19"
     },
     {
-      "Master_Incident_Number": "112925-00142",
-      "Online_Description": "TRAFFIC STOP",
-      "Address": "S MISSOURI AVE / LAKEVIEW RD",
-      "Response_Date": "2025-11-29T08:27:55"
-    },
-    {
       "Master_Incident_Number": "112925-00143",
       "Online_Description": "DIRECTED PATROL",
       "Address": "23100 BLOCK US HIGHWAY 19 N",
       "Response_Date": "2025-11-29T08:29:41"
+    },
+    {
+      "Master_Incident_Number": "112925-00147",
+      "Online_Description": "TRESPASS",
+      "Address": "1200 BLOCK N BETTY LN",
+      "Response_Date": "2025-11-29T08:32:43"
+    },
+    {
+      "Master_Incident_Number": "112925-00145",
+      "Online_Description": "TRAFFIC STOP",
+      "Address": "MCMULLEN BOOTH RD / SR 590",
+      "Response_Date": "2025-11-29T08:34:16"
+    },
+    {
+      "Master_Incident_Number": "112925-00146",
+      "Online_Description": "TRAFFIC STOP",
+      "Address": "LAKEVIEW RD / S MISSOURI AVE",
+      "Response_Date": "2025-11-29T08:34:48"
     }
   ],
-  "timestamp": "2025-11-29T13:50:54.747247+00:00",
+  "timestamp": "2025-11-29T13:58:19.591173+00:00",
   "count": 11
 }
