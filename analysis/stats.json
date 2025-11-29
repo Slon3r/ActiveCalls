@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 190,
-  "total_resolved": 179,
+  "total_calls_tracked": 194,
+  "total_resolved": 182,
   "call_types": {
-    "DIRECTED PATROL": 70,
+    "DIRECTED PATROL": 71,
     "TRAFFIC STOP": 40,
     "DRUNK DRIVER": 1,
     "DISTURBANCE": 4,
@@ -17,7 +17,7 @@
     "PROPERTY FOUND/LOST": 2,
     "THEFT": 2,
     "NEIGHBOR CALL": 1,
-    "911 HANG-UP": 1,
+    "911 HANG-UP": 2,
     "SUSPICIOUS VEHICLE": 2,
     "PANHANDLER/SOLICITOR": 1,
     "VEHICLE ILLEGALLY PARKED": 2,
@@ -29,7 +29,9 @@
     "FIRE": 2,
     "FRAUD": 1,
     "RECKLESS VEHICLE": 1,
-    "JUVENILE CASE": 1
+    "JUVENILE CASE": 1,
+    "HAZARD": 1,
+    "UNKNOWN PROBLEM": 1
   },
   "addresses": {
     "MEMORIAL CSWY / ISLAND WAY": 8,
@@ -120,7 +122,7 @@
     "N DUNCAN AVE / DREW ST": 1,
     "1100 BLOCK COURT ST": 1,
     "-1300 BLOCK BLK ADMIRAL WOODSON LN": 1,
-    "19300 BLOCK US HIGHWAY 19 N": 1,
+    "19300 BLOCK US HIGHWAY 19 N": 2,
     "600 BLOCK PIERCE ST": 1,
     "0 BLOCK 99 THIRD ST": 2,
     "0 BLOCK 98 THIRD ST": 1,
@@ -177,7 +179,10 @@
     "1800 BLOCK GULF TO BAY BLVD": 1,
     "S MAIN AVE / RAINBOW DR": 1,
     "1000 BLOCK N MADISON AVE": 1,
-    "2800 BLOCK DREW ST": 1
+    "2800 BLOCK DREW ST": 1,
+    "US HIGHWAY 19 N / GULF TO BAY BLVD": 1,
+    "300 BLOCK CORONADO DR": 1,
+    "23600 BLOCK US HIGHWAY 19 N": 1
   },
   "hourly_distribution": {
     "0": 4,
@@ -196,7 +201,7 @@
     "13": 20,
     "14": 22,
     "15": 23,
-    "16": 10,
+    "16": 14,
     "17": 0,
     "18": 0,
     "19": 0,
@@ -206,7 +211,7 @@
     "23": 0
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-11-29T21:41:40.696544+00:00",
+  "last_updated": "2025-11-29T21:49:36.746082+00:00",
   "peak_active_calls": 14,
-  "total_snapshots": 66
+  "total_snapshots": 67
 }
