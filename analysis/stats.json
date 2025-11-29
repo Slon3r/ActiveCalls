@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 103,
-  "total_resolved": 96,
+  "total_calls_tracked": 106,
+  "total_resolved": 97,
   "call_types": {
-    "DIRECTED PATROL": 45,
+    "DIRECTED PATROL": 46,
     "TRAFFIC STOP": 20,
     "DRUNK DRIVER": 1,
     "DISTURBANCE": 3,
@@ -12,7 +12,7 @@
     "KEEP THE PEACE": 3,
     "WELFARE CHECK": 2,
     "PARK WALK AND TALK": 6,
-    "SUSPICIOUS PERSON": 4,
+    "SUSPICIOUS PERSON": 5,
     "TRESPASS": 3,
     "PROPERTY FOUND/LOST": 1,
     "THEFT": 1,
@@ -23,7 +23,8 @@
     "VEHICLE ILLEGALLY PARKED": 1,
     "SUSPICIOUS EVENT": 1,
     "TRAFFIC CRASH": 1,
-    "DISABLED VEHICLE": 1
+    "DISABLED VEHICLE": 1,
+    "ASSIST CITIZEN": 1
   },
   "addresses": {
     "MEMORIAL CSWY / ISLAND WAY": 2,
@@ -88,7 +89,7 @@
     "27000 BLOCK US HIGHWAY 19 N": 2,
     "DRIVEWAY PARKING": 1,
     "1100 BLOCK GULF BLVD": 1,
-    "2500 BLOCK GULF TO BAY BLVD": 1,
+    "2500 BLOCK GULF TO BAY BLVD": 2,
     "1600 BLOCK N MCMULLEN BOOTH RD": 1,
     "1200 BLOCK DREW ST": 1,
     "2400 BLOCK DREW ST": 1,
@@ -114,7 +115,9 @@
     "N DUNCAN AVE / DREW ST": 1,
     "1100 BLOCK COURT ST": 1,
     "-1300 BLOCK BLK ADMIRAL WOODSON LN": 1,
-    "19300 BLOCK US HIGHWAY 19 N": 1
+    "19300 BLOCK US HIGHWAY 19 N": 1,
+    "600 BLOCK PIERCE ST": 1,
+    "0 BLOCK 99 THIRD ST": 1
   },
   "hourly_distribution": {
     "0": 4,
@@ -129,7 +132,7 @@
     "9": 14,
     "10": 16,
     "11": 14,
-    "12": 4,
+    "12": 7,
     "13": 0,
     "14": 0,
     "15": 0,
@@ -143,7 +146,7 @@
     "23": 0
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-11-29T17:35:18.493031+00:00",
+  "last_updated": "2025-11-29T17:43:41.540631+00:00",
   "peak_active_calls": 11,
-  "total_snapshots": 47
+  "total_snapshots": 48
 }

@@ -581,3 +581,16 @@ TOTAL ACTIVE CALLS: 7
 
 --- RESOLVED CALLS (1) ---
 [RESOLVED] 112925-00252 | DISABLED VEHICLE | N DUNCAN AVE / DREW ST | Response: 12:01 PM
+
+================================================================================
+TIMESTAMP: 2025-11-29T17:43:41.537797+00:00
+TOTAL ACTIVE CALLS: 9
+================================================================================
+
+--- NEW CALLS (3) ---
+[NEW] 112925-00257 | ASSIST CITIZEN | 600 BLOCK PIERCE ST | Response: 12:03 PM
+[NEW] 112925-00261 | DIRECTED PATROL | 0 BLOCK 99 THIRD ST | Response: 12:15 PM
+[NEW] 112925-00263 | SUSPICIOUS PERSON | 2500 BLOCK GULF TO BAY BLVD | Response: 12:18 PM
+
+--- RESOLVED CALLS (1) ---
+[RESOLVED] 112925-00259 | DIRECTED PATROL | 19300 BLOCK US HIGHWAY 19 N | Response: 12:11 PM
