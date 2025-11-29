@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 194,
-  "total_resolved": 182,
+  "total_calls_tracked": 197,
+  "total_resolved": 186,
   "call_types": {
     "DIRECTED PATROL": 71,
-    "TRAFFIC STOP": 40,
+    "TRAFFIC STOP": 41,
     "DRUNK DRIVER": 1,
     "DISTURBANCE": 4,
     "BATTERY": 1,
@@ -21,7 +21,7 @@
     "SUSPICIOUS VEHICLE": 2,
     "PANHANDLER/SOLICITOR": 1,
     "VEHICLE ILLEGALLY PARKED": 2,
-    "SUSPICIOUS EVENT": 2,
+    "SUSPICIOUS EVENT": 3,
     "TRAFFIC CRASH": 3,
     "DISABLED VEHICLE": 3,
     "ASSIST CITIZEN": 1,
@@ -31,7 +31,8 @@
     "RECKLESS VEHICLE": 1,
     "JUVENILE CASE": 1,
     "HAZARD": 1,
-    "UNKNOWN PROBLEM": 1
+    "UNKNOWN PROBLEM": 1,
+    "NOISE COMPLAINT": 1
   },
   "addresses": {
     "MEMORIAL CSWY / ISLAND WAY": 8,
@@ -182,7 +183,10 @@
     "2800 BLOCK DREW ST": 1,
     "US HIGHWAY 19 N / GULF TO BAY BLVD": 1,
     "300 BLOCK CORONADO DR": 1,
-    "23600 BLOCK US HIGHWAY 19 N": 1
+    "23600 BLOCK US HIGHWAY 19 N": 1,
+    "300 BLOCK MANDALAY AVE": 1,
+    "JONES ST / FERN AVE": 1,
+    "1600 BLOCK GULF TO BAY BLVD": 1
   },
   "hourly_distribution": {
     "0": 4,
@@ -201,7 +205,7 @@
     "13": 20,
     "14": 22,
     "15": 23,
-    "16": 14,
+    "16": 17,
     "17": 0,
     "18": 0,
     "19": 0,
@@ -211,7 +215,7 @@
     "23": 0
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-11-29T21:49:36.746082+00:00",
+  "last_updated": "2025-11-29T21:57:30.637524+00:00",
   "peak_active_calls": 14,
-  "total_snapshots": 67
+  "total_snapshots": 68
 }
