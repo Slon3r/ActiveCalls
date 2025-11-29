@@ -41,3 +41,15 @@ TOTAL ACTIVE CALLS: 4
 ================================================================================
 
 No changes since last check.
+
+================================================================================
+TIMESTAMP: 2025-11-29T07:15:55.305521+00:00
+TOTAL ACTIVE CALLS: 3
+================================================================================
+
+--- NEW CALLS (1) ---
+[NEW] 112925-00027 | DIRECTED PATROL | -800 BLOCK 1099 MARSHALL ST | Response: 01:51 AM
+
+--- RESOLVED CALLS (2) ---
+[RESOLVED] 112925-00010 | TRESPASS | 1400 BLOCK CLEVELAND ST | Response: 12:18 AM
+[RESOLVED] 112925-00021 | DISTURBANCE | 1000 BLOCK WEST AVE | Response: 01:16 AM

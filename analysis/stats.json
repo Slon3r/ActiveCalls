@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 7,
-  "total_resolved": 3,
+  "total_calls_tracked": 8,
+  "total_resolved": 5,
   "call_types": {
-    "DIRECTED PATROL": 2,
+    "DIRECTED PATROL": 3,
     "TRAFFIC STOP": 1,
     "DRUNK DRIVER": 1,
     "DISTURBANCE": 2,
@@ -14,11 +14,12 @@
     "1900 BLOCK N BETTY LN": 1,
     "1400 BLOCK CLEVELAND ST": 1,
     "1000 BLOCK WEST AVE": 1,
-    "600 BLOCK S GULFVIEW BLVD": 1
+    "600 BLOCK S GULFVIEW BLVD": 1,
+    "-800 BLOCK 1099 MARSHALL ST": 1
   },
   "hourly_distribution": {
     "0": 4,
-    "1": 2,
+    "1": 3,
     "2": 0,
     "3": 0,
     "4": 0,
@@ -43,7 +44,7 @@
     "23": 0
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-11-29T06:56:25.921263+00:00",
+  "last_updated": "2025-11-29T07:15:55.306546+00:00",
   "peak_active_calls": 5,
-  "total_snapshots": 4
+  "total_snapshots": 5
 }
