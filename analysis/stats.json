@@ -1,11 +1,11 @@
 {
-  "total_calls_tracked": 98,
-  "total_resolved": 89,
+  "total_calls_tracked": 100,
+  "total_resolved": 95,
   "call_types": {
     "DIRECTED PATROL": 44,
     "TRAFFIC STOP": 20,
     "DRUNK DRIVER": 1,
-    "DISTURBANCE": 2,
+    "DISTURBANCE": 3,
     "BATTERY": 1,
     "CRIMINAL MISCHIEF": 1,
     "ALARM": 4,
@@ -22,7 +22,8 @@
     "PANHANDLER/SOLICITOR": 1,
     "VEHICLE ILLEGALLY PARKED": 1,
     "SUSPICIOUS EVENT": 1,
-    "TRAFFIC CRASH": 1
+    "TRAFFIC CRASH": 1,
+    "DISABLED VEHICLE": 1
   },
   "addresses": {
     "MEMORIAL CSWY / ISLAND WAY": 2,
@@ -108,7 +109,9 @@
     "COUNTRYSIDE BLVD / ENDICOTT CT": 1,
     "3000 BLOCK DREW ST": 1,
     "2400 BLOCK COUNTRYSIDE BLVD": 1,
-    "1200 BLOCK S MISSOURI AVE": 1
+    "1200 BLOCK S MISSOURI AVE": 1,
+    "2000 BLOCK N HIGHLAND AVE": 1,
+    "N DUNCAN AVE / DREW ST": 1
   },
   "hourly_distribution": {
     "0": 4,
@@ -122,8 +125,8 @@
     "8": 19,
     "9": 14,
     "10": 16,
-    "11": 13,
-    "12": 0,
+    "11": 14,
+    "12": 1,
     "13": 0,
     "14": 0,
     "15": 0,
@@ -137,7 +140,7 @@
     "23": 0
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-11-29T17:00:29.474616+00:00",
+  "last_updated": "2025-11-29T17:22:46.698126+00:00",
   "peak_active_calls": 11,
-  "total_snapshots": 45
+  "total_snapshots": 46
 }

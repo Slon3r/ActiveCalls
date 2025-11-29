@@ -1495,6 +1495,42 @@
           "Response_Date": "2025-11-29T11:34:57"
         }
       ]
+    },
+    {
+      "timestamp": "2025-11-29T17:22:46.695450+00:00",
+      "call_count": 5,
+      "calls": [
+        {
+          "Master_Incident_Number": "112925-00212",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "-500 BLOCK BLK CLEVELAND ST",
+          "Response_Date": "2025-11-29T10:58:27"
+        },
+        {
+          "Master_Incident_Number": "112925-00228",
+          "Online_Description": "DISTURBANCE",
+          "Address": "2000 BLOCK N HIGHLAND AVE",
+          "Response_Date": "2025-11-29T11:26:29"
+        },
+        {
+          "Master_Incident_Number": "112925-00229",
+          "Online_Description": "KEEP THE PEACE",
+          "Address": "400 BLOCK FAIRWOOD AVE",
+          "Response_Date": "2025-11-29T11:28:01"
+        },
+        {
+          "Master_Incident_Number": "112925-00232",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "3000 BLOCK DREW ST",
+          "Response_Date": "2025-11-29T11:31:24"
+        },
+        {
+          "Master_Incident_Number": "112925-00252",
+          "Online_Description": "DISABLED VEHICLE",
+          "Address": "N DUNCAN AVE / DREW ST",
+          "Response_Date": "2025-11-29T12:01:53"
+        }
+      ]
     }
   ]
 }
