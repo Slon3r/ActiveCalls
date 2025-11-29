@@ -1,18 +1,5 @@
 {
-  "calls": [
-    {
-      "Master_Incident_Number": "112925-00036",
-      "Online_Description": "TRAFFIC STOP",
-      "Address": "US HIGHWAY 19 N / DREW ST",
-      "Response_Date": "2025-11-29T03:16:03"
-    },
-    {
-      "Master_Incident_Number": "112925-00038",
-      "Online_Description": "TRAFFIC STOP",
-      "Address": "US HIGHWAY 19 N / DREW ST",
-      "Response_Date": "2025-11-29T03:22:49"
-    }
-  ],
-  "timestamp": "2025-11-29T08:43:33.305938+00:00",
-  "count": 2
+  "calls": [],
+  "timestamp": "2025-11-29T08:54:30.783989+00:00",
+  "count": 0
 }

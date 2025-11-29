@@ -108,3 +108,12 @@ TOTAL ACTIVE CALLS: 2
 --- NEW CALLS (2) ---
 [NEW] 112925-00036 | TRAFFIC STOP | US HIGHWAY 19 N / DREW ST | Response: 03:16 AM
 [NEW] 112925-00038 | TRAFFIC STOP | US HIGHWAY 19 N / DREW ST | Response: 03:22 AM
+
+================================================================================
+TIMESTAMP: 2025-11-29T08:54:30.783989+00:00
+TOTAL ACTIVE CALLS: 0
+================================================================================
+
+--- RESOLVED CALLS (2) ---
+[RESOLVED] 112925-00036 | TRAFFIC STOP | US HIGHWAY 19 N / DREW ST | Response: 03:16 AM
+[RESOLVED] 112925-00038 | TRAFFIC STOP | US HIGHWAY 19 N / DREW ST | Response: 03:22 AM
