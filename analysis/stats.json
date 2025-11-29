@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 220,
-  "total_resolved": 210,
+  "total_calls_tracked": 222,
+  "total_resolved": 214,
   "call_types": {
-    "DIRECTED PATROL": 75,
+    "DIRECTED PATROL": 76,
     "TRAFFIC STOP": 45,
     "DRUNK DRIVER": 1,
     "DISTURBANCE": 5,
@@ -22,7 +22,7 @@
     "PANHANDLER/SOLICITOR": 1,
     "VEHICLE ILLEGALLY PARKED": 2,
     "SUSPICIOUS EVENT": 4,
-    "TRAFFIC CRASH": 5,
+    "TRAFFIC CRASH": 6,
     "DISABLED VEHICLE": 3,
     "ASSIST CITIZEN": 1,
     "ASSIST OTHER AGENCY": 3,
@@ -56,7 +56,7 @@
     "US HIGHWAY 19 N / SR 580": 2,
     "400 BLOCK S GULFVIEW BLVD": 1,
     "100 BLOCK S MYRTLE AVE": 1,
-    "0 BLOCK CAUSEWAY BLVD": 2,
+    "0 BLOCK CAUSEWAY BLVD": 3,
     "400 BLOCK FAIRWOOD AVE": 2,
     "500 BLOCK S FORT HARRISON AVE": 2,
     "26000 BLOCK US HIGHWAY 19 N": 2,
@@ -206,7 +206,8 @@
     "2500 BLOCK COUNTRYSIDE BLVD": 1,
     "-300 BLOCK 339 CORONADO DR": 1,
     "-600 BLOCK 698 CLEVELAND ST": 1,
-    "1500 BLOCK S HIGHLAND AVE": 1
+    "1500 BLOCK S HIGHLAND AVE": 1,
+    "PINELLAS ST / S FORT HARRISON AVE": 1
   },
   "hourly_distribution": {
     "0": 4,
@@ -227,7 +228,7 @@
     "15": 23,
     "16": 21,
     "17": 14,
-    "18": 5,
+    "18": 7,
     "19": 0,
     "20": 0,
     "21": 0,
@@ -235,7 +236,7 @@
     "23": 0
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-11-29T23:48:11.578998+00:00",
+  "last_updated": "2025-11-29T23:56:25.818679+00:00",
   "peak_active_calls": 14,
-  "total_snapshots": 76
+  "total_snapshots": 77
 }
