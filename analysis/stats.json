@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 65,
-  "total_resolved": 58,
+  "total_calls_tracked": 70,
+  "total_resolved": 62,
   "call_types": {
-    "DIRECTED PATROL": 29,
+    "DIRECTED PATROL": 33,
     "TRAFFIC STOP": 15,
     "DRUNK DRIVER": 1,
     "DISTURBANCE": 2,
@@ -14,7 +14,8 @@
     "PARK WALK AND TALK": 3,
     "SUSPICIOUS PERSON": 3,
     "TRESPASS": 2,
-    "PROPERTY FOUND/LOST": 1
+    "PROPERTY FOUND/LOST": 1,
+    "THEFT": 1
   },
   "addresses": {
     "MEMORIAL CSWY / ISLAND WAY": 2,
@@ -71,7 +72,12 @@
     "2700 BLOCK GULF TO BAY BLVD": 1,
     "1400 BLOCK N HIBISCUS ST": 1,
     "2900 BLOCK DREW ST": 1,
-    "21200 BLOCK US HIGHWAY 19 N": 1
+    "21200 BLOCK US HIGHWAY 19 N": 1,
+    "1700 BLOCK SUNSET POINT RD": 1,
+    "2300 BLOCK GULF TO BAY BLVD": 1,
+    "1200 BLOCK CLEVELAND ST": 1,
+    "-500 BLOCK 549 MANDALAY AVE": 1,
+    "27000 BLOCK US HIGHWAY 19 N": 1
   },
   "hourly_distribution": {
     "0": 4,
@@ -83,8 +89,8 @@
     "6": 7,
     "7": 8,
     "8": 19,
-    "9": 10,
-    "10": 0,
+    "9": 14,
+    "10": 1,
     "11": 0,
     "12": 0,
     "13": 0,
@@ -100,7 +106,7 @@
     "23": 0
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-11-29T15:08:59.467371+00:00",
+  "last_updated": "2025-11-29T15:28:49.766160+00:00",
   "peak_active_calls": 11,
-  "total_snapshots": 37
+  "total_snapshots": 38
 }
