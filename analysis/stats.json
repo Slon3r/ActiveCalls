@@ -1,6 +1,6 @@
 {
-  "total_calls_tracked": 110,
-  "total_resolved": 105,
+  "total_calls_tracked": 114,
+  "total_resolved": 107,
   "call_types": {
     "DIRECTED PATROL": 46,
     "TRAFFIC STOP": 20,
@@ -12,7 +12,7 @@
     "KEEP THE PEACE": 3,
     "WELFARE CHECK": 2,
     "PARK WALK AND TALK": 10,
-    "SUSPICIOUS PERSON": 5,
+    "SUSPICIOUS PERSON": 6,
     "TRESPASS": 3,
     "PROPERTY FOUND/LOST": 1,
     "THEFT": 1,
@@ -21,10 +21,12 @@
     "SUSPICIOUS VEHICLE": 1,
     "PANHANDLER/SOLICITOR": 1,
     "VEHICLE ILLEGALLY PARKED": 1,
-    "SUSPICIOUS EVENT": 1,
+    "SUSPICIOUS EVENT": 2,
     "TRAFFIC CRASH": 1,
     "DISABLED VEHICLE": 1,
-    "ASSIST CITIZEN": 1
+    "ASSIST CITIZEN": 1,
+    "ASSIST OTHER AGENCY": 1,
+    "FIRE": 1
   },
   "addresses": {
     "MEMORIAL CSWY / ISLAND WAY": 2,
@@ -111,14 +113,17 @@
     "3000 BLOCK DREW ST": 1,
     "2400 BLOCK COUNTRYSIDE BLVD": 1,
     "1200 BLOCK S MISSOURI AVE": 1,
-    "2000 BLOCK N HIGHLAND AVE": 1,
+    "2000 BLOCK N HIGHLAND AVE": 2,
     "N DUNCAN AVE / DREW ST": 1,
     "1100 BLOCK COURT ST": 1,
     "-1300 BLOCK BLK ADMIRAL WOODSON LN": 1,
     "19300 BLOCK US HIGHWAY 19 N": 1,
     "600 BLOCK PIERCE ST": 1,
     "0 BLOCK 99 THIRD ST": 2,
-    "0 BLOCK 98 THIRD ST": 1
+    "0 BLOCK 98 THIRD ST": 1,
+    "100 BLOCK HAMPTON RD": 1,
+    "GULF TO BAY BLVD / PARK PLACE BLVD": 1,
+    "2000 BLOCK N HERCULES AVE": 1
   },
   "hourly_distribution": {
     "0": 4,
@@ -133,8 +138,8 @@
     "9": 14,
     "10": 16,
     "11": 14,
-    "12": 11,
-    "13": 0,
+    "12": 14,
+    "13": 1,
     "14": 0,
     "15": 0,
     "16": 0,
@@ -147,7 +152,7 @@
     "23": 0
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-11-29T17:59:24.607758+00:00",
+  "last_updated": "2025-11-29T18:33:08.598079+00:00",
   "peak_active_calls": 11,
-  "total_snapshots": 50
+  "total_snapshots": 51
 }
