@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 38,
-  "total_resolved": 32,
+  "total_calls_tracked": 43,
+  "total_resolved": 34,
   "call_types": {
-    "DIRECTED PATROL": 19,
-    "TRAFFIC STOP": 8,
+    "DIRECTED PATROL": 22,
+    "TRAFFIC STOP": 10,
     "DRUNK DRIVER": 1,
     "DISTURBANCE": 2,
     "BATTERY": 1,
@@ -40,12 +40,16 @@
     "500 BLOCK S FORT HARRISON AVE": 1,
     "26000 BLOCK US HIGHWAY 19 N": 2,
     "1300 BLOCK S BELCHER RD": 1,
-    "200 BLOCK WINDWARD PSGE": 1,
+    "200 BLOCK WINDWARD PSGE": 2,
     "2700 BLOCK DREW ST": 1,
     "FLUSHING AVE / HARN BLVD": 1,
     "S BELCHER RD / BARCELONA DR": 1,
     "-1400 BLOCK 1417 S MISSOURI AVE": 1,
-    "1000 BLOCK GULF BLVD": 1
+    "1000 BLOCK GULF BLVD": 1,
+    "1400 BLOCK LAURA ST": 1,
+    "ENTERPRISE RD E / VILLAGE DR": 1,
+    "GULF TO BAY BLVD / HAMPTON RD": 1,
+    "2100 BLOCK GULF TO BAY BLVD": 1
   },
   "hourly_distribution": {
     "0": 4,
@@ -56,7 +60,7 @@
     "5": 6,
     "6": 7,
     "7": 8,
-    "8": 2,
+    "8": 7,
     "9": 0,
     "10": 0,
     "11": 0,
@@ -74,7 +78,7 @@
     "23": 0
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-11-29T13:28:01.267020+00:00",
-  "peak_active_calls": 8,
-  "total_snapshots": 29
+  "last_updated": "2025-11-29T13:42:24.342972+00:00",
+  "peak_active_calls": 9,
+  "total_snapshots": 30
 }
