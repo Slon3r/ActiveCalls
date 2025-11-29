@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 163,
-  "total_resolved": 152,
+  "total_calls_tracked": 167,
+  "total_resolved": 156,
   "call_types": {
-    "DIRECTED PATROL": 62,
-    "TRAFFIC STOP": 33,
+    "DIRECTED PATROL": 63,
+    "TRAFFIC STOP": 35,
     "DRUNK DRIVER": 1,
     "DISTURBANCE": 3,
     "BATTERY": 1,
@@ -11,7 +11,7 @@
     "ALARM": 4,
     "KEEP THE PEACE": 5,
     "WELFARE CHECK": 3,
-    "PARK WALK AND TALK": 14,
+    "PARK WALK AND TALK": 15,
     "SUSPICIOUS PERSON": 8,
     "TRESPASS": 5,
     "PROPERTY FOUND/LOST": 2,
@@ -159,7 +159,11 @@
     "DREW ST / N BELCHER RD": 1,
     "900 BLOCK GULF BLVD": 1,
     "POINSETTIA AVE / PAPAYA ST": 1,
-    "600 BLOCK CLEVELAND ST": 1
+    "600 BLOCK CLEVELAND ST": 1,
+    "HAMDEN DR / CORONADO DR": 1,
+    "2900 BLOCK SWEETGUM WAY S": 1,
+    "18600 BLOCK US HIGHWAY 19 N": 1,
+    "-500 BLOCK 598 MANDALAY AVE": 1
   },
   "hourly_distribution": {
     "0": 4,
@@ -177,7 +181,7 @@
     "12": 15,
     "13": 20,
     "14": 22,
-    "15": 7,
+    "15": 11,
     "16": 0,
     "17": 0,
     "18": 0,
@@ -188,7 +192,7 @@
     "23": 0
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-11-29T20:32:13.872004+00:00",
+  "last_updated": "2025-11-29T20:44:02.515305+00:00",
   "peak_active_calls": 14,
-  "total_snapshots": 60
+  "total_snapshots": 61
 }

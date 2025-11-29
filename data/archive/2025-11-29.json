@@ -2322,6 +2322,78 @@
           "Response_Date": "2025-11-29T15:10:57"
         }
       ]
+    },
+    {
+      "timestamp": "2025-11-29T20:44:02.511735+00:00",
+      "call_count": 11,
+      "calls": [
+        {
+          "Master_Incident_Number": "112925-00317",
+          "Online_Description": "JUVENILE CASE",
+          "Address": "STOCKWOOD DR / LANDMARK DR",
+          "Response_Date": "2025-11-29T14:21:14"
+        },
+        {
+          "Master_Incident_Number": "112925-00326",
+          "Online_Description": "WELFARE CHECK",
+          "Address": "1200 BLOCK GROVE ST",
+          "Response_Date": "2025-11-29T14:34:36"
+        },
+        {
+          "Master_Incident_Number": "112925-00343",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "-1400 BLOCK 1486 OTTEN ST",
+          "Response_Date": "2025-11-29T15:00:34"
+        },
+        {
+          "Master_Incident_Number": "112925-00344",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "GULF TO BAY BLVD / S BELCHER RD",
+          "Response_Date": "2025-11-29T15:00:52"
+        },
+        {
+          "Master_Incident_Number": "112925-00348",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "DREW ST / N BELCHER RD",
+          "Response_Date": "2025-11-29T15:04:41"
+        },
+        {
+          "Master_Incident_Number": "112925-00349",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "900 BLOCK GULF BLVD",
+          "Response_Date": "2025-11-29T15:06:55"
+        },
+        {
+          "Master_Incident_Number": "112925-00351",
+          "Online_Description": "PARK WALK AND TALK",
+          "Address": "600 BLOCK CLEVELAND ST",
+          "Response_Date": "2025-11-29T15:10:57"
+        },
+        {
+          "Master_Incident_Number": "112925-00354",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "HAMDEN DR / CORONADO DR",
+          "Response_Date": "2025-11-29T15:20:42"
+        },
+        {
+          "Master_Incident_Number": "112925-00355",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "2900 BLOCK SWEETGUM WAY S",
+          "Response_Date": "2025-11-29T15:22:12"
+        },
+        {
+          "Master_Incident_Number": "112925-00356",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "18600 BLOCK US HIGHWAY 19 N",
+          "Response_Date": "2025-11-29T15:22:21"
+        },
+        {
+          "Master_Incident_Number": "112925-00357",
+          "Online_Description": "PARK WALK AND TALK",
+          "Address": "-500 BLOCK 598 MANDALAY AVE",
+          "Response_Date": "2025-11-29T15:22:35"
+        }
+      ]
     }
   ]
 }
