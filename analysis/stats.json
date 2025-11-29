@@ -1,11 +1,11 @@
 {
-  "total_calls_tracked": 186,
-  "total_resolved": 178,
+  "total_calls_tracked": 190,
+  "total_resolved": 179,
   "call_types": {
-    "DIRECTED PATROL": 68,
+    "DIRECTED PATROL": 70,
     "TRAFFIC STOP": 40,
     "DRUNK DRIVER": 1,
-    "DISTURBANCE": 3,
+    "DISTURBANCE": 4,
     "BATTERY": 1,
     "CRIMINAL MISCHIEF": 1,
     "ALARM": 4,
@@ -25,7 +25,7 @@
     "TRAFFIC CRASH": 3,
     "DISABLED VEHICLE": 3,
     "ASSIST CITIZEN": 1,
-    "ASSIST OTHER AGENCY": 1,
+    "ASSIST OTHER AGENCY": 2,
     "FIRE": 2,
     "FRAUD": 1,
     "RECKLESS VEHICLE": 1,
@@ -37,7 +37,7 @@
     "1900 BLOCK N BETTY LN": 1,
     "1400 BLOCK CLEVELAND ST": 1,
     "1000 BLOCK WEST AVE": 1,
-    "600 BLOCK S GULFVIEW BLVD": 1,
+    "600 BLOCK S GULFVIEW BLVD": 2,
     "-800 BLOCK 1099 MARSHALL ST": 1,
     "US HIGHWAY 19 N / DREW ST": 4,
     "US HIGHWAY 19 N / SR 590": 1,
@@ -174,7 +174,10 @@
     "1000 BLOCK MCMULLEN BOOTH RD": 1,
     "1200 BLOCK S MARTIN LUTHER KING JR AVE": 1,
     "2000 BLOCK PARAGON CIR W": 1,
-    "1800 BLOCK GULF TO BAY BLVD": 1
+    "1800 BLOCK GULF TO BAY BLVD": 1,
+    "S MAIN AVE / RAINBOW DR": 1,
+    "1000 BLOCK N MADISON AVE": 1,
+    "2800 BLOCK DREW ST": 1
   },
   "hourly_distribution": {
     "0": 4,
@@ -193,7 +196,7 @@
     "13": 20,
     "14": 22,
     "15": 23,
-    "16": 6,
+    "16": 10,
     "17": 0,
     "18": 0,
     "19": 0,
@@ -203,7 +206,7 @@
     "23": 0
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-11-29T21:32:14.493275+00:00",
+  "last_updated": "2025-11-29T21:41:40.696544+00:00",
   "peak_active_calls": 14,
-  "total_snapshots": 65
+  "total_snapshots": 66
 }
