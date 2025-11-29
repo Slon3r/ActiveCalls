@@ -1,6 +1,6 @@
 {
-  "total_calls_tracked": 208,
-  "total_resolved": 199,
+  "total_calls_tracked": 210,
+  "total_resolved": 201,
   "call_types": {
     "DIRECTED PATROL": 73,
     "TRAFFIC STOP": 44,
@@ -10,7 +10,7 @@
     "CRIMINAL MISCHIEF": 1,
     "ALARM": 4,
     "KEEP THE PEACE": 7,
-    "WELFARE CHECK": 3,
+    "WELFARE CHECK": 4,
     "PARK WALK AND TALK": 19,
     "SUSPICIOUS PERSON": 9,
     "TRESPASS": 6,
@@ -32,7 +32,8 @@
     "JUVENILE CASE": 1,
     "HAZARD": 1,
     "UNKNOWN PROBLEM": 2,
-    "NOISE COMPLAINT": 1
+    "NOISE COMPLAINT": 1,
+    "CIVIL MATTER": 1
   },
   "addresses": {
     "MEMORIAL CSWY / ISLAND WAY": 8,
@@ -195,7 +196,9 @@
     "N HERCULES AVE / SUNSET POINT RD": 1,
     "US HIGHWAY 19 N / COUNTRYSIDE BLVD": 1,
     "900 BLOCK TURNER ST": 1,
-    "N HERCULES AVE / CALUMET ST": 1
+    "N HERCULES AVE / CALUMET ST": 1,
+    "3100 BLOCK WOLFE RD": 1,
+    "500 BLOCK PARK ST": 1
   },
   "hourly_distribution": {
     "0": 4,
@@ -215,7 +218,7 @@
     "14": 22,
     "15": 23,
     "16": 21,
-    "17": 7,
+    "17": 9,
     "18": 0,
     "19": 0,
     "20": 0,
@@ -224,7 +227,7 @@
     "23": 0
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-11-29T22:45:21.219238+00:00",
+  "last_updated": "2025-11-29T22:53:33.468879+00:00",
   "peak_active_calls": 14,
-  "total_snapshots": 71
+  "total_snapshots": 72
 }

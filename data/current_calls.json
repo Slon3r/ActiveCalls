@@ -13,12 +13,6 @@
       "Response_Date": "2025-11-29T16:28:04"
     },
     {
-      "Master_Incident_Number": "112925-00404",
-      "Online_Description": "SUSPICIOUS EVENT",
-      "Address": "JONES ST / FERN AVE",
-      "Response_Date": "2025-11-29T16:30:15"
-    },
-    {
       "Master_Incident_Number": "112925-00411",
       "Online_Description": "UNKNOWN PROBLEM",
       "Address": "1600 BLOCK DARTMOUTH ST",
@@ -49,12 +43,18 @@
       "Response_Date": "2025-11-29T17:18:12"
     },
     {
-      "Master_Incident_Number": "112925-00430",
-      "Online_Description": "PARK WALK AND TALK",
-      "Address": "300 BLOCK CORONADO DR",
-      "Response_Date": "2025-11-29T17:19:14"
+      "Master_Incident_Number": "112925-00432",
+      "Online_Description": "CIVIL MATTER",
+      "Address": "3100 BLOCK WOLFE RD",
+      "Response_Date": "2025-11-29T17:22:12"
+    },
+    {
+      "Master_Incident_Number": "112925-00433",
+      "Online_Description": "WELFARE CHECK",
+      "Address": "500 BLOCK PARK ST",
+      "Response_Date": "2025-11-29T17:24:56"
     }
   ],
-  "timestamp": "2025-11-29T22:45:21.214986+00:00",
+  "timestamp": "2025-11-29T22:53:33.464353+00:00",
   "count": 9
 }
