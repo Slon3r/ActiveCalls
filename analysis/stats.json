@@ -1,6 +1,6 @@
 {
-  "total_calls_tracked": 109,
-  "total_resolved": 99,
+  "total_calls_tracked": 110,
+  "total_resolved": 105,
   "call_types": {
     "DIRECTED PATROL": 46,
     "TRAFFIC STOP": 20,
@@ -11,7 +11,7 @@
     "ALARM": 4,
     "KEEP THE PEACE": 3,
     "WELFARE CHECK": 2,
-    "PARK WALK AND TALK": 9,
+    "PARK WALK AND TALK": 10,
     "SUSPICIOUS PERSON": 5,
     "TRESPASS": 3,
     "PROPERTY FOUND/LOST": 1,
@@ -117,7 +117,7 @@
     "-1300 BLOCK BLK ADMIRAL WOODSON LN": 1,
     "19300 BLOCK US HIGHWAY 19 N": 1,
     "600 BLOCK PIERCE ST": 1,
-    "0 BLOCK 99 THIRD ST": 1,
+    "0 BLOCK 99 THIRD ST": 2,
     "0 BLOCK 98 THIRD ST": 1
   },
   "hourly_distribution": {
@@ -133,7 +133,7 @@
     "9": 14,
     "10": 16,
     "11": 14,
-    "12": 10,
+    "12": 11,
     "13": 0,
     "14": 0,
     "15": 0,
@@ -147,7 +147,7 @@
     "23": 0
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-11-29T17:51:50.630333+00:00",
+  "last_updated": "2025-11-29T17:59:24.607758+00:00",
   "peak_active_calls": 11,
-  "total_snapshots": 49
+  "total_snapshots": 50
 }
