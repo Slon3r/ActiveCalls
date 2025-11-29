@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 182,
-  "total_resolved": 175,
+  "total_calls_tracked": 186,
+  "total_resolved": 178,
   "call_types": {
-    "DIRECTED PATROL": 67,
-    "TRAFFIC STOP": 38,
+    "DIRECTED PATROL": 68,
+    "TRAFFIC STOP": 40,
     "DRUNK DRIVER": 1,
     "DISTURBANCE": 3,
     "BATTERY": 1,
@@ -11,7 +11,7 @@
     "ALARM": 4,
     "KEEP THE PEACE": 7,
     "WELFARE CHECK": 3,
-    "PARK WALK AND TALK": 17,
+    "PARK WALK AND TALK": 18,
     "SUSPICIOUS PERSON": 9,
     "TRESPASS": 5,
     "PROPERTY FOUND/LOST": 2,
@@ -32,7 +32,7 @@
     "JUVENILE CASE": 1
   },
   "addresses": {
-    "MEMORIAL CSWY / ISLAND WAY": 7,
+    "MEMORIAL CSWY / ISLAND WAY": 8,
     "GULF TO BAY BLVD / S BELCHER RD": 3,
     "1900 BLOCK N BETTY LN": 1,
     "1400 BLOCK CLEVELAND ST": 1,
@@ -52,7 +52,7 @@
     "US HIGHWAY 19 N / SR 580": 2,
     "400 BLOCK S GULFVIEW BLVD": 1,
     "100 BLOCK S MYRTLE AVE": 1,
-    "0 BLOCK CAUSEWAY BLVD": 1,
+    "0 BLOCK CAUSEWAY BLVD": 2,
     "400 BLOCK FAIRWOOD AVE": 2,
     "500 BLOCK S FORT HARRISON AVE": 2,
     "26000 BLOCK US HIGHWAY 19 N": 2,
@@ -67,7 +67,7 @@
     "ENTERPRISE RD E / VILLAGE DR": 1,
     "GULF TO BAY BLVD / HAMPTON RD": 1,
     "2100 BLOCK GULF TO BAY BLVD": 3,
-    "1300 BLOCK CLEVELAND ST": 1,
+    "1300 BLOCK CLEVELAND ST": 2,
     "2100 BLOCK BELCHER RD": 1,
     "SAND KEY PARK ENTRANCE": 1,
     "S MISSOURI AVE / LAKEVIEW RD": 1,
@@ -173,7 +173,8 @@
     "2500 BLOCK HARN BLVD": 1,
     "1000 BLOCK MCMULLEN BOOTH RD": 1,
     "1200 BLOCK S MARTIN LUTHER KING JR AVE": 1,
-    "2000 BLOCK PARAGON CIR W": 1
+    "2000 BLOCK PARAGON CIR W": 1,
+    "1800 BLOCK GULF TO BAY BLVD": 1
   },
   "hourly_distribution": {
     "0": 4,
@@ -192,7 +193,7 @@
     "13": 20,
     "14": 22,
     "15": 23,
-    "16": 2,
+    "16": 6,
     "17": 0,
     "18": 0,
     "19": 0,
@@ -202,7 +203,7 @@
     "23": 0
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-11-29T21:22:31.918292+00:00",
+  "last_updated": "2025-11-29T21:32:14.493275+00:00",
   "peak_active_calls": 14,
-  "total_snapshots": 64
+  "total_snapshots": 65
 }
