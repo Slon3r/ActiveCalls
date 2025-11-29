@@ -1375,6 +1375,66 @@
           "Response_Date": "2025-11-29T11:19:49"
         }
       ]
+    },
+    {
+      "timestamp": "2025-11-29T16:52:28.382781+00:00",
+      "call_count": 9,
+      "calls": [
+        {
+          "Master_Incident_Number": "112925-00177",
+          "Online_Description": "THEFT",
+          "Address": "1700 BLOCK SUNSET POINT RD",
+          "Response_Date": "2025-11-29T09:49:41"
+        },
+        {
+          "Master_Incident_Number": "112925-00212",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "-500 BLOCK BLK CLEVELAND ST",
+          "Response_Date": "2025-11-29T10:58:27"
+        },
+        {
+          "Master_Incident_Number": "112925-00220",
+          "Online_Description": "VEHICLE ILLEGALLY PARKED",
+          "Address": "LOTUS PATH / BAY AVE",
+          "Response_Date": "2025-11-29T11:13:10"
+        },
+        {
+          "Master_Incident_Number": "112925-00222",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "MEMORIAL CSWY",
+          "Response_Date": "2025-11-29T11:19:49"
+        },
+        {
+          "Master_Incident_Number": "112925-00224",
+          "Online_Description": "SUSPICIOUS EVENT",
+          "Address": "1300 BLOCK ADMIRAL WOODSON LN",
+          "Response_Date": "2025-11-29T11:21:10"
+        },
+        {
+          "Master_Incident_Number": "112925-00223",
+          "Online_Description": "TRAFFIC CRASH",
+          "Address": "DREW ST / N SATURN AVE",
+          "Response_Date": "2025-11-29T11:21:52"
+        },
+        {
+          "Master_Incident_Number": "112925-00226",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "GULF TO BAY BLVD / THORTON RD",
+          "Response_Date": "2025-11-29T11:28:57"
+        },
+        {
+          "Master_Incident_Number": "112925-00231",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "COUNTRYSIDE BLVD / ENDICOTT CT",
+          "Response_Date": "2025-11-29T11:31:08"
+        },
+        {
+          "Master_Incident_Number": "112925-00232",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "3000 BLOCK DREW ST",
+          "Response_Date": "2025-11-29T11:31:24"
+        }
+      ]
     }
   ]
 }
