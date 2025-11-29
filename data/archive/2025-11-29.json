@@ -380,6 +380,36 @@
           "Response_Date": "2025-11-29T05:21:09"
         }
       ]
+    },
+    {
+      "timestamp": "2025-11-29T10:56:25.472744+00:00",
+      "call_count": 4,
+      "calls": [
+        {
+          "Master_Incident_Number": "112925-00064",
+          "Online_Description": "KEEP THE PEACE",
+          "Address": "1900 BLOCK UNION ST",
+          "Response_Date": "2025-11-29T05:10:15"
+        },
+        {
+          "Master_Incident_Number": "112925-00063",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "200 BLOCK DREW ST",
+          "Response_Date": "2025-11-29T05:10:48"
+        },
+        {
+          "Master_Incident_Number": "112925-00065",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "-800 BLOCK 819 NARCISSUS AVE",
+          "Response_Date": "2025-11-29T05:21:09"
+        },
+        {
+          "Master_Incident_Number": "112925-00066",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "0 BLOCK ISLAND WAY",
+          "Response_Date": "2025-11-29T05:32:39"
+        }
+      ]
     }
   ]
 }

@@ -185,3 +185,14 @@ TOTAL ACTIVE CALLS: 4
 --- RESOLVED CALLS (2) ---
 [RESOLVED] 112925-00060 | DIRECTED PATROL | 0 BLOCK ACACIA ST | Response: 05:02 AM
 [RESOLVED] 112925-00061 | DIRECTED PATROL | -600 BLOCK 647 BAY ESPLANADE | Response: 05:03 AM
+
+================================================================================
+TIMESTAMP: 2025-11-29T10:56:25.472744+00:00
+TOTAL ACTIVE CALLS: 4
+================================================================================
+
+--- NEW CALLS (1) ---
+[NEW] 112925-00066 | DIRECTED PATROL | 0 BLOCK ISLAND WAY | Response: 05:32 AM
+
+--- RESOLVED CALLS (1) ---
+[RESOLVED] 112925-00041 | CRIMINAL MISCHIEF | 1100 BLOCK PINE ST N | Response: 03:35 AM
