@@ -1,17 +1,17 @@
 {
-  "total_calls_tracked": 70,
-  "total_resolved": 62,
+  "total_calls_tracked": 75,
+  "total_resolved": 65,
   "call_types": {
-    "DIRECTED PATROL": 33,
-    "TRAFFIC STOP": 15,
+    "DIRECTED PATROL": 35,
+    "TRAFFIC STOP": 16,
     "DRUNK DRIVER": 1,
     "DISTURBANCE": 2,
     "BATTERY": 1,
     "CRIMINAL MISCHIEF": 1,
-    "ALARM": 3,
+    "ALARM": 4,
     "KEEP THE PEACE": 2,
     "WELFARE CHECK": 2,
-    "PARK WALK AND TALK": 3,
+    "PARK WALK AND TALK": 4,
     "SUSPICIOUS PERSON": 3,
     "TRESPASS": 2,
     "PROPERTY FOUND/LOST": 1,
@@ -77,7 +77,11 @@
     "2300 BLOCK GULF TO BAY BLVD": 1,
     "1200 BLOCK CLEVELAND ST": 1,
     "-500 BLOCK 549 MANDALAY AVE": 1,
-    "27000 BLOCK US HIGHWAY 19 N": 1
+    "27000 BLOCK US HIGHWAY 19 N": 2,
+    "DRIVEWAY PARKING": 1,
+    "1100 BLOCK GULF BLVD": 1,
+    "2500 BLOCK GULF TO BAY BLVD": 1,
+    "1600 BLOCK N MCMULLEN BOOTH RD": 1
   },
   "hourly_distribution": {
     "0": 4,
@@ -90,7 +94,7 @@
     "7": 8,
     "8": 19,
     "9": 14,
-    "10": 1,
+    "10": 6,
     "11": 0,
     "12": 0,
     "13": 0,
@@ -106,7 +110,7 @@
     "23": 0
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-11-29T15:28:49.766160+00:00",
+  "last_updated": "2025-11-29T15:39:56.225672+00:00",
   "peak_active_calls": 11,
-  "total_snapshots": 38
+  "total_snapshots": 39
 }
