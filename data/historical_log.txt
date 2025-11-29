@@ -214,3 +214,11 @@ TOTAL ACTIVE CALLS: 0
 
 --- RESOLVED CALLS (1) ---
 [RESOLVED] 112925-00063 | DIRECTED PATROL | 200 BLOCK DREW ST | Response: 05:10 AM
+
+================================================================================
+TIMESTAMP: 2025-11-29T11:36:53.668452+00:00
+TOTAL ACTIVE CALLS: 1
+================================================================================
+
+--- NEW CALLS (1) ---
+[NEW] 112925-00076 | WELFARE CHECK | US HIGHWAY 19 N / SR 580 | Response: 06:13 AM
