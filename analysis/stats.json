@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 19,
-  "total_resolved": 14,
+  "total_calls_tracked": 20,
+  "total_resolved": 16,
   "call_types": {
-    "DIRECTED PATROL": 6,
+    "DIRECTED PATROL": 7,
     "TRAFFIC STOP": 6,
     "DRUNK DRIVER": 1,
     "DISTURBANCE": 2,
@@ -26,7 +26,8 @@
     "0 BLOCK ACACIA ST": 1,
     "-600 BLOCK 647 BAY ESPLANADE": 1,
     "1900 BLOCK UNION ST": 1,
-    "200 BLOCK DREW ST": 1
+    "200 BLOCK DREW ST": 1,
+    "-800 BLOCK 819 NARCISSUS AVE": 1
   },
   "hourly_distribution": {
     "0": 4,
@@ -34,7 +35,7 @@
     "2": 3,
     "3": 4,
     "4": 0,
-    "5": 4,
+    "5": 5,
     "6": 0,
     "7": 0,
     "8": 0,
@@ -55,7 +56,7 @@
     "23": 0
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-11-29T10:39:05.132717+00:00",
+  "last_updated": "2025-11-29T10:48:33.975496+00:00",
   "peak_active_calls": 5,
-  "total_snapshots": 19
+  "total_snapshots": 20
 }

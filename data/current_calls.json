@@ -3,20 +3,8 @@
     {
       "Master_Incident_Number": "112925-00041",
       "Online_Description": "CRIMINAL MISCHIEF",
-      "Address": "1100 BLOCK DRUID RD",
+      "Address": "1100 BLOCK PINE ST N",
       "Response_Date": "2025-11-29T03:35:57"
-    },
-    {
-      "Master_Incident_Number": "112925-00060",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "0 BLOCK ACACIA ST",
-      "Response_Date": "2025-11-29T05:02:51"
-    },
-    {
-      "Master_Incident_Number": "112925-00061",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "-600 BLOCK 647 BAY ESPLANADE",
-      "Response_Date": "2025-11-29T05:03:50"
     },
     {
       "Master_Incident_Number": "112925-00064",
@@ -29,8 +17,14 @@
       "Online_Description": "DIRECTED PATROL",
       "Address": "200 BLOCK DREW ST",
       "Response_Date": "2025-11-29T05:10:48"
+    },
+    {
+      "Master_Incident_Number": "112925-00065",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "-800 BLOCK 819 NARCISSUS AVE",
+      "Response_Date": "2025-11-29T05:21:09"
     }
   ],
-  "timestamp": "2025-11-29T10:39:05.131469+00:00",
-  "count": 5
+  "timestamp": "2025-11-29T10:48:33.974266+00:00",
+  "count": 4
 }
