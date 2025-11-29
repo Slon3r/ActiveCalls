@@ -74,3 +74,12 @@ TOTAL ACTIVE CALLS: 0
 --- RESOLVED CALLS (2) ---
 [RESOLVED] 112925-00027 | DIRECTED PATROL | -800 BLOCK 1099 MARSHALL ST | Response: 01:51 AM
 [RESOLVED] 112925-00030 | TRAFFIC STOP | US HIGHWAY 19 N / DREW ST | Response: 02:09 AM
+
+================================================================================
+TIMESTAMP: 2025-11-29T07:49:26.430978+00:00
+TOTAL ACTIVE CALLS: 2
+================================================================================
+
+--- NEW CALLS (2) ---
+[NEW] 112925-00031 | TRAFFIC STOP | US HIGHWAY 19 N / SR 590 | Response: 02:15 AM
+[NEW] 112925-00032 | TRAFFIC STOP | US HIGHWAY 19 N / DREW ST | Response: 02:25 AM
