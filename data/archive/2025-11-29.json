@@ -1315,6 +1315,66 @@
           "Response_Date": "2025-11-29T10:53:53"
         }
       ]
+    },
+    {
+      "timestamp": "2025-11-29T16:41:24.891173+00:00",
+      "call_count": 9,
+      "calls": [
+        {
+          "Master_Incident_Number": "112925-00177",
+          "Online_Description": "THEFT",
+          "Address": "1700 BLOCK SUNSET POINT RD",
+          "Response_Date": "2025-11-29T09:49:41"
+        },
+        {
+          "Master_Incident_Number": "112925-00200",
+          "Online_Description": "DOMESTIC",
+          "Address": "3300 BLOCK COURTNEY CAMPBELL CSWY",
+          "Response_Date": "2025-11-29T10:35:51"
+        },
+        {
+          "Master_Incident_Number": "112925-00211",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "1200 BLOCK CLEVELAND ST",
+          "Response_Date": "2025-11-29T10:53:53"
+        },
+        {
+          "Master_Incident_Number": "112925-00212",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "-500 BLOCK BLK CLEVELAND ST",
+          "Response_Date": "2025-11-29T10:58:27"
+        },
+        {
+          "Master_Incident_Number": "112925-00216",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "0 BLOCK MEMORIAL CSWY",
+          "Response_Date": "2025-11-29T11:09:23"
+        },
+        {
+          "Master_Incident_Number": "112925-00217",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "COUNTRYSIDE BLVD / NORTHRIDGE DR",
+          "Response_Date": "2025-11-29T11:11:43"
+        },
+        {
+          "Master_Incident_Number": "112925-00218",
+          "Online_Description": "PANHANDLER/SOLICITOR",
+          "Address": "NE COACHMAN RD / US HIGHWAY 19 N",
+          "Response_Date": "2025-11-29T11:12:03"
+        },
+        {
+          "Master_Incident_Number": "112925-00220",
+          "Online_Description": "VEHICLE ILLEGALLY PARKED",
+          "Address": "LOTUS PATH / BAY AVE",
+          "Response_Date": "2025-11-29T11:13:10"
+        },
+        {
+          "Master_Incident_Number": "112925-00222",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "MEMORIAL CSWY",
+          "Response_Date": "2025-11-29T11:19:49"
+        }
+      ]
     }
   ]
 }

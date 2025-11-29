@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 84,
-  "total_resolved": 78,
+  "total_calls_tracked": 90,
+  "total_resolved": 81,
   "call_types": {
-    "DIRECTED PATROL": 39,
-    "TRAFFIC STOP": 17,
+    "DIRECTED PATROL": 41,
+    "TRAFFIC STOP": 19,
     "DRUNK DRIVER": 1,
     "DISTURBANCE": 2,
     "BATTERY": 1,
@@ -18,7 +18,9 @@
     "THEFT": 1,
     "NEIGHBOR CALL": 1,
     "911 HANG-UP": 1,
-    "SUSPICIOUS VEHICLE": 1
+    "SUSPICIOUS VEHICLE": 1,
+    "PANHANDLER/SOLICITOR": 1,
+    "VEHICLE ILLEGALLY PARKED": 1
   },
   "addresses": {
     "MEMORIAL CSWY / ISLAND WAY": 2,
@@ -91,7 +93,13 @@
     "3300 BLOCK COURTNEY CAMPBELL CSWY": 1,
     "1200 BLOCK COURT ST": 1,
     "1400 BLOCK OWEN DR": 1,
-    "200 BLOCK ISLAND WAY": 1
+    "200 BLOCK ISLAND WAY": 1,
+    "-500 BLOCK BLK CLEVELAND ST": 1,
+    "0 BLOCK MEMORIAL CSWY": 1,
+    "COUNTRYSIDE BLVD / NORTHRIDGE DR": 1,
+    "NE COACHMAN RD / US HIGHWAY 19 N": 1,
+    "LOTUS PATH / BAY AVE": 1,
+    "MEMORIAL CSWY": 1
   },
   "hourly_distribution": {
     "0": 4,
@@ -104,8 +112,8 @@
     "7": 8,
     "8": 19,
     "9": 14,
-    "10": 15,
-    "11": 0,
+    "10": 16,
+    "11": 5,
     "12": 0,
     "13": 0,
     "14": 0,
@@ -120,7 +128,7 @@
     "23": 0
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-11-29T16:18:43.736281+00:00",
+  "last_updated": "2025-11-29T16:41:24.893637+00:00",
   "peak_active_calls": 11,
-  "total_snapshots": 42
+  "total_snapshots": 43
 }
