@@ -2874,6 +2874,54 @@
           "Response_Date": "2025-11-29T16:33:34"
         }
       ]
+    },
+    {
+      "timestamp": "2025-11-29T22:17:57.626671+00:00",
+      "call_count": 7,
+      "calls": [
+        {
+          "Master_Incident_Number": "112925-00395",
+          "Online_Description": "HAZARD",
+          "Address": "US HIGHWAY 19 N / GULF TO BAY BLVD",
+          "Response_Date": "2025-11-29T16:10:39"
+        },
+        {
+          "Master_Incident_Number": "112925-00400",
+          "Online_Description": "TRAFFIC CRASH",
+          "Address": "23600 BLOCK US HIGHWAY 19 N",
+          "Response_Date": "2025-11-29T16:28:04"
+        },
+        {
+          "Master_Incident_Number": "112925-00404",
+          "Online_Description": "SUSPICIOUS EVENT",
+          "Address": "JONES ST / FERN AVE",
+          "Response_Date": "2025-11-29T16:30:15"
+        },
+        {
+          "Master_Incident_Number": "112925-00411",
+          "Online_Description": "UNKNOWN PROBLEM",
+          "Address": "1600 BLOCK DARTMOUTH ST",
+          "Response_Date": "2025-11-29T16:44:23"
+        },
+        {
+          "Master_Incident_Number": "112925-00415",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "HAMDEN DR / BRIGHTWATER DR",
+          "Response_Date": "2025-11-29T16:47:06"
+        },
+        {
+          "Master_Incident_Number": "112925-00416",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "HAMPTON RD / GULF TO BAY BLVD",
+          "Response_Date": "2025-11-29T16:53:05"
+        },
+        {
+          "Master_Incident_Number": "112925-00417",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "N HIGHLAND AVE / SUNSET POINT RD",
+          "Response_Date": "2025-11-29T16:56:57"
+        }
+      ]
     }
   ]
 }
