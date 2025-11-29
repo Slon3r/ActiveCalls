@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 151,
-  "total_resolved": 138,
+  "total_calls_tracked": 154,
+  "total_resolved": 147,
   "call_types": {
-    "DIRECTED PATROL": 57,
+    "DIRECTED PATROL": 58,
     "TRAFFIC STOP": 30,
     "DRUNK DRIVER": 1,
     "DISTURBANCE": 3,
@@ -10,7 +10,7 @@
     "CRIMINAL MISCHIEF": 1,
     "ALARM": 4,
     "KEEP THE PEACE": 5,
-    "WELFARE CHECK": 2,
+    "WELFARE CHECK": 3,
     "PARK WALK AND TALK": 13,
     "SUSPICIOUS PERSON": 8,
     "TRESPASS": 5,
@@ -23,7 +23,7 @@
     "VEHICLE ILLEGALLY PARKED": 2,
     "SUSPICIOUS EVENT": 2,
     "TRAFFIC CRASH": 3,
-    "DISABLED VEHICLE": 1,
+    "DISABLED VEHICLE": 2,
     "ASSIST CITIZEN": 1,
     "ASSIST OTHER AGENCY": 1,
     "FIRE": 2,
@@ -105,7 +105,7 @@
     "-500 BLOCK BLK CLEVELAND ST": 1,
     "0 BLOCK MEMORIAL CSWY": 1,
     "COUNTRYSIDE BLVD / NORTHRIDGE DR": 1,
-    "NE COACHMAN RD / US HIGHWAY 19 N": 1,
+    "NE COACHMAN RD / US HIGHWAY 19 N": 2,
     "LOTUS PATH / BAY AVE": 1,
     "MEMORIAL CSWY": 1,
     "1300 BLOCK ADMIRAL WOODSON LN": 1,
@@ -148,7 +148,9 @@
     "-400 BLOCK BLK BLANCHE B LITTLEJOHN TRL": 1,
     "2600 BLOCK GULF TO BAY BLVD": 1,
     "400 BLOCK MANDALAY AVE": 1,
-    "-3200 BLOCK 3399 COURTNEY CAMPBELL CSWY": 1
+    "-3200 BLOCK 3399 COURTNEY CAMPBELL CSWY": 1,
+    "1200 BLOCK GROVE ST": 1,
+    "0 BLOCK OLD COACHMAN RD": 1
   },
   "hourly_distribution": {
     "0": 4,
@@ -165,7 +167,7 @@
     "11": 14,
     "12": 15,
     "13": 20,
-    "14": 17,
+    "14": 20,
     "15": 0,
     "16": 0,
     "17": 0,
@@ -177,7 +179,7 @@
     "23": 0
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-11-29T19:52:57.255727+00:00",
+  "last_updated": "2025-11-29T20:09:50.125333+00:00",
   "peak_active_calls": 14,
-  "total_snapshots": 58
+  "total_snapshots": 59
 }
