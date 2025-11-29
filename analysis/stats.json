@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 79,
-  "total_resolved": 75,
+  "total_calls_tracked": 84,
+  "total_resolved": 78,
   "call_types": {
-    "DIRECTED PATROL": 37,
+    "DIRECTED PATROL": 39,
     "TRAFFIC STOP": 17,
     "DRUNK DRIVER": 1,
     "DISTURBANCE": 2,
@@ -11,12 +11,14 @@
     "ALARM": 4,
     "KEEP THE PEACE": 2,
     "WELFARE CHECK": 2,
-    "PARK WALK AND TALK": 4,
+    "PARK WALK AND TALK": 5,
     "SUSPICIOUS PERSON": 3,
     "TRESPASS": 2,
     "PROPERTY FOUND/LOST": 1,
     "THEFT": 1,
-    "NEIGHBOR CALL": 1
+    "NEIGHBOR CALL": 1,
+    "911 HANG-UP": 1,
+    "SUSPICIOUS VEHICLE": 1
   },
   "addresses": {
     "MEMORIAL CSWY / ISLAND WAY": 2,
@@ -76,7 +78,7 @@
     "21200 BLOCK US HIGHWAY 19 N": 1,
     "1700 BLOCK SUNSET POINT RD": 1,
     "2300 BLOCK GULF TO BAY BLVD": 1,
-    "1200 BLOCK CLEVELAND ST": 1,
+    "1200 BLOCK CLEVELAND ST": 2,
     "-500 BLOCK 549 MANDALAY AVE": 1,
     "27000 BLOCK US HIGHWAY 19 N": 2,
     "DRIVEWAY PARKING": 1,
@@ -85,7 +87,11 @@
     "1600 BLOCK N MCMULLEN BOOTH RD": 1,
     "1200 BLOCK DREW ST": 1,
     "2400 BLOCK DREW ST": 1,
-    "-1100 BLOCK 1582 GULF BLVD": 1
+    "-1100 BLOCK 1582 GULF BLVD": 1,
+    "3300 BLOCK COURTNEY CAMPBELL CSWY": 1,
+    "1200 BLOCK COURT ST": 1,
+    "1400 BLOCK OWEN DR": 1,
+    "200 BLOCK ISLAND WAY": 1
   },
   "hourly_distribution": {
     "0": 4,
@@ -98,7 +104,7 @@
     "7": 8,
     "8": 19,
     "9": 14,
-    "10": 10,
+    "10": 15,
     "11": 0,
     "12": 0,
     "13": 0,
@@ -114,7 +120,7 @@
     "23": 0
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-11-29T15:55:59.779976+00:00",
+  "last_updated": "2025-11-29T16:18:43.736281+00:00",
   "peak_active_calls": 11,
-  "total_snapshots": 41
+  "total_snapshots": 42
 }
