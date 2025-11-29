@@ -25,24 +25,36 @@
       "Response_Date": "2025-11-29T16:44:23"
     },
     {
-      "Master_Incident_Number": "112925-00415",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "HAMDEN DR / BRIGHTWATER DR",
-      "Response_Date": "2025-11-29T16:47:06"
-    },
-    {
       "Master_Incident_Number": "112925-00416",
       "Online_Description": "TRAFFIC STOP",
       "Address": "HAMPTON RD / GULF TO BAY BLVD",
       "Response_Date": "2025-11-29T16:53:05"
     },
     {
-      "Master_Incident_Number": "112925-00417",
-      "Online_Description": "TRAFFIC STOP",
-      "Address": "N HIGHLAND AVE / SUNSET POINT RD",
-      "Response_Date": "2025-11-29T16:56:57"
+      "Master_Incident_Number": "112925-00420",
+      "Online_Description": "DISTURBANCE",
+      "Address": "1100 BLOCK TANGERINE ST",
+      "Response_Date": "2025-11-29T17:00:01"
+    },
+    {
+      "Master_Incident_Number": "112925-00421",
+      "Online_Description": "TRESPASS",
+      "Address": "2600 BLOCK GULF TO BAY BLVD",
+      "Response_Date": "2025-11-29T17:00:16"
+    },
+    {
+      "Master_Incident_Number": "112925-00424",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "N HERCULES AVE / SUNSET POINT RD",
+      "Response_Date": "2025-11-29T17:05:26"
+    },
+    {
+      "Master_Incident_Number": "112925-00427",
+      "Online_Description": "TRAFFIC CRASH",
+      "Address": "US HIGHWAY 19 N / COUNTRYSIDE BLVD",
+      "Response_Date": "2025-11-29T17:09:22"
     }
   ],
-  "timestamp": "2025-11-29T22:17:57.626671+00:00",
-  "count": 7
+  "timestamp": "2025-11-29T22:35:34.840309+00:00",
+  "count": 9
 }
