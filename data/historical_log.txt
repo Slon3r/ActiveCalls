@@ -196,3 +196,13 @@ TOTAL ACTIVE CALLS: 4
 
 --- RESOLVED CALLS (1) ---
 [RESOLVED] 112925-00041 | CRIMINAL MISCHIEF | 1100 BLOCK PINE ST N | Response: 03:35 AM
+
+================================================================================
+TIMESTAMP: 2025-11-29T11:13:16.872093+00:00
+TOTAL ACTIVE CALLS: 1
+================================================================================
+
+--- RESOLVED CALLS (3) ---
+[RESOLVED] 112925-00064 | KEEP THE PEACE | 1900 BLOCK UNION ST | Response: 05:10 AM
+[RESOLVED] 112925-00065 | DIRECTED PATROL | -800 BLOCK 819 NARCISSUS AVE | Response: 05:21 AM
+[RESOLVED] 112925-00066 | DIRECTED PATROL | 0 BLOCK ISLAND WAY | Response: 05:32 AM
