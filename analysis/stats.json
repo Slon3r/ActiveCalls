@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 27,
-  "total_resolved": 25,
+  "total_calls_tracked": 34,
+  "total_resolved": 26,
   "call_types": {
-    "DIRECTED PATROL": 11,
-    "TRAFFIC STOP": 6,
+    "DIRECTED PATROL": 17,
+    "TRAFFIC STOP": 7,
     "DRUNK DRIVER": 1,
     "DISTURBANCE": 2,
     "BATTERY": 1,
@@ -37,7 +37,13 @@
     "100 BLOCK S MYRTLE AVE": 1,
     "0 BLOCK CAUSEWAY BLVD": 1,
     "400 BLOCK FAIRWOOD AVE": 1,
-    "500 BLOCK S FORT HARRISON AVE": 1
+    "500 BLOCK S FORT HARRISON AVE": 1,
+    "26000 BLOCK US HIGHWAY 19 N": 2,
+    "1300 BLOCK S BELCHER RD": 1,
+    "200 BLOCK WINDWARD PSGE": 1,
+    "2700 BLOCK DREW ST": 1,
+    "FLUSHING AVE / HARN BLVD": 1,
+    "S BELCHER RD / BARCELONA DR": 1
   },
   "hourly_distribution": {
     "0": 4,
@@ -47,7 +53,7 @@
     "4": 0,
     "5": 6,
     "6": 6,
-    "7": 0,
+    "7": 7,
     "8": 0,
     "9": 0,
     "10": 0,
@@ -66,7 +72,7 @@
     "23": 0
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-11-29T12:18:37.152195+00:00",
-  "peak_active_calls": 5,
-  "total_snapshots": 27
+  "last_updated": "2025-11-29T12:58:26.169708+00:00",
+  "peak_active_calls": 8,
+  "total_snapshots": 28
 }
