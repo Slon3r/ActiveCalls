@@ -1058,3 +1058,12 @@ TOTAL ACTIVE CALLS: 8
 --- RESOLVED CALLS (2) ---
 [RESOLVED] 112925-00439 | ALARM | 1300 BLOCK S FORT HARRISON AVE | Response: 05:48 PM
 [RESOLVED] 112925-00442 | DIRECTED PATROL | HOLT AVE / RUSSELL ST | Response: 05:53 PM
+
+================================================================================
+TIMESTAMP: 2025-11-29T23:48:11.574440+00:00
+TOTAL ACTIVE CALLS: 10
+================================================================================
+
+--- NEW CALLS (2) ---
+[NEW] 112925-00460 | TRAFFIC CRASH | 2200 BLOCK GULF TO BAY BLVD | Response: 06:20 PM
+[NEW] 112925-00465 | ALARM | 2100 BLOCK GULF TO BAY BLVD | Response: 06:25 PM

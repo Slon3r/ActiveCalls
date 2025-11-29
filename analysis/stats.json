@@ -1,5 +1,5 @@
 {
-  "total_calls_tracked": 218,
+  "total_calls_tracked": 220,
   "total_resolved": 210,
   "call_types": {
     "DIRECTED PATROL": 75,
@@ -8,7 +8,7 @@
     "DISTURBANCE": 5,
     "BATTERY": 1,
     "CRIMINAL MISCHIEF": 1,
-    "ALARM": 5,
+    "ALARM": 6,
     "KEEP THE PEACE": 7,
     "WELFARE CHECK": 4,
     "PARK WALK AND TALK": 21,
@@ -22,7 +22,7 @@
     "PANHANDLER/SOLICITOR": 1,
     "VEHICLE ILLEGALLY PARKED": 2,
     "SUSPICIOUS EVENT": 4,
-    "TRAFFIC CRASH": 4,
+    "TRAFFIC CRASH": 5,
     "DISABLED VEHICLE": 3,
     "ASSIST CITIZEN": 1,
     "ASSIST OTHER AGENCY": 3,
@@ -70,7 +70,7 @@
     "1400 BLOCK LAURA ST": 1,
     "ENTERPRISE RD E / VILLAGE DR": 1,
     "GULF TO BAY BLVD / HAMPTON RD": 1,
-    "2100 BLOCK GULF TO BAY BLVD": 3,
+    "2100 BLOCK GULF TO BAY BLVD": 4,
     "1300 BLOCK CLEVELAND ST": 2,
     "2100 BLOCK BELCHER RD": 1,
     "SAND KEY PARK ENTRANCE": 1,
@@ -85,7 +85,7 @@
     "20100 BLOCK US HIGHWAY 19 N": 1,
     "CLEVELAND ST / N MAIN AVE": 1,
     "S MISSOURI AVE / KINGSLEY ST": 1,
-    "2200 BLOCK GULF TO BAY BLVD": 1,
+    "2200 BLOCK GULF TO BAY BLVD": 2,
     "CLEVELAND ST/S MADISON AVE": 1,
     "2700 BLOCK GULF TO BAY BLVD": 1,
     "1400 BLOCK N HIBISCUS ST": 1,
@@ -227,7 +227,7 @@
     "15": 23,
     "16": 21,
     "17": 14,
-    "18": 3,
+    "18": 5,
     "19": 0,
     "20": 0,
     "21": 0,
@@ -235,7 +235,7 @@
     "23": 0
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-11-29T23:39:43.565906+00:00",
+  "last_updated": "2025-11-29T23:48:11.578998+00:00",
   "peak_active_calls": 14,
-  "total_snapshots": 75
+  "total_snapshots": 76
 }
