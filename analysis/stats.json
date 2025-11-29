@@ -1,22 +1,24 @@
 {
-  "total_calls_tracked": 5,
-  "total_resolved": 0,
+  "total_calls_tracked": 7,
+  "total_resolved": 3,
   "call_types": {
-    "DIRECTED PATROL": 1,
+    "DIRECTED PATROL": 2,
     "TRAFFIC STOP": 1,
     "DRUNK DRIVER": 1,
-    "DISTURBANCE": 1,
+    "DISTURBANCE": 2,
     "BATTERY": 1
   },
   "addresses": {
     "MEMORIAL CSWY / ISLAND WAY": 2,
     "GULF TO BAY BLVD / S BELCHER RD": 1,
     "1900 BLOCK N BETTY LN": 1,
-    "1400 BLOCK CLEVELAND ST": 1
+    "1400 BLOCK CLEVELAND ST": 1,
+    "1000 BLOCK WEST AVE": 1,
+    "600 BLOCK S GULFVIEW BLVD": 1
   },
   "hourly_distribution": {
     "0": 4,
-    "1": 0,
+    "1": 2,
     "2": 0,
     "3": 0,
     "4": 0,
@@ -41,7 +43,7 @@
     "23": 0
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-11-29T06:13:46.846417+00:00",
+  "last_updated": "2025-11-29T06:44:12.506868+00:00",
   "peak_active_calls": 5,
-  "total_snapshots": 2
+  "total_snapshots": 3
 }

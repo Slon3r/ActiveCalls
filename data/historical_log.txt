@@ -20,3 +20,17 @@ TOTAL ACTIVE CALLS: 5
 ================================================================================
 
 No changes since last check.
+
+================================================================================
+TIMESTAMP: 2025-11-29T06:44:12.505958+00:00
+TOTAL ACTIVE CALLS: 4
+================================================================================
+
+--- NEW CALLS (2) ---
+[NEW] 112925-00021 | DISTURBANCE | 1000 BLOCK WEST AVE | Response: 01:16 AM
+[NEW] 112925-00022 | DIRECTED PATROL | 600 BLOCK S GULFVIEW BLVD | Response: 01:23 AM
+
+--- RESOLVED CALLS (3) ---
+[RESOLVED] 112825-00471 | DIRECTED PATROL | MEMORIAL CSWY / ISLAND WAY | Response: 10:09 PM
+[RESOLVED] 112925-00003 | TRAFFIC STOP | MEMORIAL CSWY / ISLAND WAY | Response: 12:06 AM
+[RESOLVED] 112925-00006 | DISTURBANCE | 1900 BLOCK N BETTY LN | Response: 12:14 AM
