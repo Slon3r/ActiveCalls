@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 114,
-  "total_resolved": 107,
+  "total_calls_tracked": 117,
+  "total_resolved": 108,
   "call_types": {
-    "DIRECTED PATROL": 46,
+    "DIRECTED PATROL": 47,
     "TRAFFIC STOP": 20,
     "DRUNK DRIVER": 1,
     "DISTURBANCE": 3,
@@ -20,13 +20,14 @@
     "911 HANG-UP": 1,
     "SUSPICIOUS VEHICLE": 1,
     "PANHANDLER/SOLICITOR": 1,
-    "VEHICLE ILLEGALLY PARKED": 1,
+    "VEHICLE ILLEGALLY PARKED": 2,
     "SUSPICIOUS EVENT": 2,
     "TRAFFIC CRASH": 1,
     "DISABLED VEHICLE": 1,
     "ASSIST CITIZEN": 1,
     "ASSIST OTHER AGENCY": 1,
-    "FIRE": 1
+    "FIRE": 1,
+    "FRAUD": 1
   },
   "addresses": {
     "MEMORIAL CSWY / ISLAND WAY": 2,
@@ -123,7 +124,10 @@
     "0 BLOCK 98 THIRD ST": 1,
     "100 BLOCK HAMPTON RD": 1,
     "GULF TO BAY BLVD / PARK PLACE BLVD": 1,
-    "2000 BLOCK N HERCULES AVE": 1
+    "2000 BLOCK N HERCULES AVE": 1,
+    "1300 BLOCK FRANKLIN ST": 1,
+    "SUNSET MEADOW DR / COLONY REED LN": 1,
+    "0 BLOCK BAY ESPLANADE": 1
   },
   "hourly_distribution": {
     "0": 4,
@@ -139,7 +143,7 @@
     "10": 16,
     "11": 14,
     "12": 14,
-    "13": 1,
+    "13": 4,
     "14": 0,
     "15": 0,
     "16": 0,
@@ -152,7 +156,7 @@
     "23": 0
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-11-29T18:33:08.598079+00:00",
+  "last_updated": "2025-11-29T18:50:21.093684+00:00",
   "peak_active_calls": 11,
-  "total_snapshots": 51
+  "total_snapshots": 52
 }
