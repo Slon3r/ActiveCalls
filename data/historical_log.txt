@@ -1,0 +1,15 @@
+CLEARWATER PD ACTIVE CALLS - HISTORICAL LOG
+Tracking started: 2025-11-29T06:12:22.007165+00:00
+================================================================================
+
+================================================================================
+TIMESTAMP: 2025-11-29T06:12:23.430969+00:00
+TOTAL ACTIVE CALLS: 5
+================================================================================
+
+--- NEW CALLS (5) ---
+[NEW] 112825-00471 | DIRECTED PATROL | MEMORIAL CSWY / ISLAND WAY | Response: 10:09 PM
+[NEW] 112925-00003 | TRAFFIC STOP | MEMORIAL CSWY / ISLAND WAY | Response: 12:06 AM
+[NEW] 112925-00005 | DRUNK DRIVER | GULF TO BAY BLVD / S BELCHER RD | Response: 12:12 AM
+[NEW] 112925-00006 | DISTURBANCE | 1900 BLOCK N BETTY LN | Response: 12:14 AM
+[NEW] 112925-00010 | BATTERY | 1400 BLOCK CLEVELAND ST | Response: 12:18 AM
