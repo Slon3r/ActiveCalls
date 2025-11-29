@@ -1,17 +1,17 @@
 {
-  "total_calls_tracked": 95,
-  "total_resolved": 86,
+  "total_calls_tracked": 98,
+  "total_resolved": 89,
   "call_types": {
-    "DIRECTED PATROL": 43,
+    "DIRECTED PATROL": 44,
     "TRAFFIC STOP": 20,
     "DRUNK DRIVER": 1,
     "DISTURBANCE": 2,
     "BATTERY": 1,
     "CRIMINAL MISCHIEF": 1,
     "ALARM": 4,
-    "KEEP THE PEACE": 2,
+    "KEEP THE PEACE": 3,
     "WELFARE CHECK": 2,
-    "PARK WALK AND TALK": 5,
+    "PARK WALK AND TALK": 6,
     "SUSPICIOUS PERSON": 3,
     "TRESPASS": 2,
     "PROPERTY FOUND/LOST": 1,
@@ -46,7 +46,7 @@
     "400 BLOCK S GULFVIEW BLVD": 1,
     "100 BLOCK S MYRTLE AVE": 1,
     "0 BLOCK CAUSEWAY BLVD": 1,
-    "400 BLOCK FAIRWOOD AVE": 1,
+    "400 BLOCK FAIRWOOD AVE": 2,
     "500 BLOCK S FORT HARRISON AVE": 1,
     "26000 BLOCK US HIGHWAY 19 N": 2,
     "1300 BLOCK S BELCHER RD": 1,
@@ -106,7 +106,9 @@
     "DREW ST / N SATURN AVE": 1,
     "GULF TO BAY BLVD / THORTON RD": 1,
     "COUNTRYSIDE BLVD / ENDICOTT CT": 1,
-    "3000 BLOCK DREW ST": 1
+    "3000 BLOCK DREW ST": 1,
+    "2400 BLOCK COUNTRYSIDE BLVD": 1,
+    "1200 BLOCK S MISSOURI AVE": 1
   },
   "hourly_distribution": {
     "0": 4,
@@ -120,7 +122,7 @@
     "8": 19,
     "9": 14,
     "10": 16,
-    "11": 10,
+    "11": 13,
     "12": 0,
     "13": 0,
     "14": 0,
@@ -135,7 +137,7 @@
     "23": 0
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-11-29T16:52:28.385197+00:00",
+  "last_updated": "2025-11-29T17:00:29.474616+00:00",
   "peak_active_calls": 11,
-  "total_snapshots": 44
+  "total_snapshots": 45
 }

@@ -13,12 +13,6 @@
       "Response_Date": "2025-11-29T10:58:27"
     },
     {
-      "Master_Incident_Number": "112925-00220",
-      "Online_Description": "VEHICLE ILLEGALLY PARKED",
-      "Address": "LOTUS PATH / BAY AVE",
-      "Response_Date": "2025-11-29T11:13:10"
-    },
-    {
       "Master_Incident_Number": "112925-00222",
       "Online_Description": "DIRECTED PATROL",
       "Address": "MEMORIAL CSWY",
@@ -37,24 +31,30 @@
       "Response_Date": "2025-11-29T11:21:52"
     },
     {
-      "Master_Incident_Number": "112925-00226",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "GULF TO BAY BLVD / THORTON RD",
-      "Response_Date": "2025-11-29T11:28:57"
-    },
-    {
-      "Master_Incident_Number": "112925-00231",
-      "Online_Description": "TRAFFIC STOP",
-      "Address": "COUNTRYSIDE BLVD / ENDICOTT CT",
-      "Response_Date": "2025-11-29T11:31:08"
+      "Master_Incident_Number": "112925-00229",
+      "Online_Description": "KEEP THE PEACE",
+      "Address": "400 BLOCK FAIRWOOD AVE",
+      "Response_Date": "2025-11-29T11:28:01"
     },
     {
       "Master_Incident_Number": "112925-00232",
       "Online_Description": "DIRECTED PATROL",
       "Address": "3000 BLOCK DREW ST",
       "Response_Date": "2025-11-29T11:31:24"
+    },
+    {
+      "Master_Incident_Number": "112925-00235",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "2400 BLOCK COUNTRYSIDE BLVD",
+      "Response_Date": "2025-11-29T11:34:29"
+    },
+    {
+      "Master_Incident_Number": "112925-00236",
+      "Online_Description": "PARK WALK AND TALK",
+      "Address": "1200 BLOCK S MISSOURI AVE",
+      "Response_Date": "2025-11-29T11:34:57"
     }
   ],
-  "timestamp": "2025-11-29T16:52:28.382781+00:00",
+  "timestamp": "2025-11-29T17:00:29.471972+00:00",
   "count": 9
 }
