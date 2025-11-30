@@ -7,18 +7,12 @@
       "Response_Date": "2025-11-30T02:02:17"
     },
     {
-      "Master_Incident_Number": "113025-00052",
-      "Online_Description": "TRAFFIC STOP",
-      "Address": "US HIGHWAY 19 N / DRUID RD",
-      "Response_Date": "2025-11-30T03:14:15"
-    },
-    {
       "Master_Incident_Number": "113025-00064",
       "Online_Description": "DIRECTED PATROL",
       "Address": "BELLEAIR BLVD / US HIGHWAY 19 N",
       "Response_Date": "2025-11-30T04:02:17"
     }
   ],
-  "timestamp": "2025-11-30T09:35:02.570816+00:00",
-  "count": 3
+  "timestamp": "2025-11-30T09:43:36.577283+00:00",
+  "count": 2
 }
