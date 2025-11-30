@@ -1,11 +1,11 @@
 {
-  "total_calls_tracked": 274,
-  "total_resolved": 267,
+  "total_calls_tracked": 275,
+  "total_resolved": 270,
   "call_types": {
     "DIRECTED PATROL": 85,
     "TRAFFIC STOP": 54,
     "DRUNK DRIVER": 4,
-    "DISTURBANCE": 7,
+    "DISTURBANCE": 8,
     "BATTERY": 1,
     "CRIMINAL MISCHIEF": 1,
     "ALARM": 6,
@@ -96,7 +96,7 @@
     "21200 BLOCK US HIGHWAY 19 N": 1,
     "1700 BLOCK SUNSET POINT RD": 1,
     "2300 BLOCK GULF TO BAY BLVD": 1,
-    "1200 BLOCK CLEVELAND ST": 2,
+    "1200 BLOCK CLEVELAND ST": 3,
     "-500 BLOCK 549 MANDALAY AVE": 1,
     "27000 BLOCK US HIGHWAY 19 N": 3,
     "DRIVEWAY PARKING": 1,
@@ -244,7 +244,7 @@
   "hourly_distribution": {
     "0": 14,
     "1": 14,
-    "2": 7,
+    "2": 8,
     "3": 4,
     "4": 0,
     "5": 6,
@@ -268,7 +268,7 @@
     "23": 7
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-11-30T07:55:44.829224+00:00",
+  "last_updated": "2025-11-30T08:18:39.506099+00:00",
   "peak_active_calls": 14,
-  "total_snapshots": 94
+  "total_snapshots": 95
 }
