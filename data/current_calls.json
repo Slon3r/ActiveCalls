@@ -7,28 +7,10 @@
       "Response_Date": "2025-11-29T21:23:06"
     },
     {
-      "Master_Incident_Number": "112925-00599",
-      "Online_Description": "ANIMAL CASE",
-      "Address": "1500 BLOCK EWING AVE",
-      "Response_Date": "2025-11-29T23:50:24"
-    },
-    {
       "Master_Incident_Number": "113025-00018",
       "Online_Description": "MISSING PERSON",
       "Address": "1000 BLOCK MARSHALL ST",
       "Response_Date": "2025-11-30T00:41:53"
-    },
-    {
-      "Master_Incident_Number": "113025-00022",
-      "Online_Description": "TRAFFIC STOP",
-      "Address": "BAYSIDE BRG / BAYSIDE BRG SERVICE RD",
-      "Response_Date": "2025-11-30T00:57:41"
-    },
-    {
-      "Master_Incident_Number": "113025-00024",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "-500 BLOCK 699 S GULFVIEW BLVD",
-      "Response_Date": "2025-11-30T01:04:55"
     },
     {
       "Master_Incident_Number": "113025-00027",
@@ -37,12 +19,24 @@
       "Response_Date": "2025-11-30T01:13:18"
     },
     {
-      "Master_Incident_Number": "113025-00029",
-      "Online_Description": "NOISE COMPLAINT",
-      "Address": "0 BLOCK BAYMONT ST",
-      "Response_Date": "2025-11-30T01:31:49"
+      "Master_Incident_Number": "113025-00030",
+      "Online_Description": "SUSPICIOUS VEHICLE",
+      "Address": "1500 BLOCK ROSEMERE RD",
+      "Response_Date": "2025-11-30T01:35:07"
+    },
+    {
+      "Master_Incident_Number": "113025-00032",
+      "Online_Description": "TRAFFIC STOP",
+      "Address": "-3400 BLOCK BLK COURTNEY CAMPBELL CSWY",
+      "Response_Date": "2025-11-30T01:48:06"
+    },
+    {
+      "Master_Incident_Number": "113025-00034",
+      "Online_Description": "ASSIST CITIZEN",
+      "Address": "500 BLOCK S GULFVIEW BLVD",
+      "Response_Date": "2025-11-30T01:59:35"
     }
   ],
-  "timestamp": "2025-11-30T06:58:57.519180+00:00",
-  "count": 7
+  "timestamp": "2025-11-30T07:20:52.468096+00:00",
+  "count": 6
 }

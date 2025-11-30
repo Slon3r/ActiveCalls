@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 262,
-  "total_resolved": 255,
+  "total_calls_tracked": 265,
+  "total_resolved": 259,
   "call_types": {
     "DIRECTED PATROL": 85,
-    "TRAFFIC STOP": 53,
+    "TRAFFIC STOP": 54,
     "DRUNK DRIVER": 3,
     "DISTURBANCE": 6,
     "BATTERY": 1,
@@ -18,13 +18,13 @@
     "THEFT": 2,
     "NEIGHBOR CALL": 1,
     "911 HANG-UP": 3,
-    "SUSPICIOUS VEHICLE": 3,
+    "SUSPICIOUS VEHICLE": 4,
     "PANHANDLER/SOLICITOR": 1,
     "VEHICLE ILLEGALLY PARKED": 2,
     "SUSPICIOUS EVENT": 4,
     "TRAFFIC CRASH": 7,
     "DISABLED VEHICLE": 4,
-    "ASSIST CITIZEN": 3,
+    "ASSIST CITIZEN": 4,
     "ASSIST OTHER AGENCY": 3,
     "FIRE": 2,
     "FRAUD": 1,
@@ -235,11 +235,14 @@
     "800 BLOCK S MISSOURI AVE": 1,
     "-500 BLOCK 699 S GULFVIEW BLVD": 1,
     "1000 BLOCK MARSHALL ST": 1,
-    "0 BLOCK BAYMONT ST": 1
+    "0 BLOCK BAYMONT ST": 1,
+    "1500 BLOCK ROSEMERE RD": 1,
+    "-3400 BLOCK BLK COURTNEY CAMPBELL CSWY": 1,
+    "500 BLOCK S GULFVIEW BLVD": 1
   },
   "hourly_distribution": {
     "0": 13,
-    "1": 7,
+    "1": 10,
     "2": 3,
     "3": 4,
     "4": 0,
@@ -264,7 +267,7 @@
     "23": 7
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-11-30T06:58:57.520809+00:00",
+  "last_updated": "2025-11-30T07:20:52.469783+00:00",
   "peak_active_calls": 14,
-  "total_snapshots": 89
+  "total_snapshots": 90
 }
