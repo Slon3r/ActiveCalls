@@ -504,6 +504,48 @@
           "Response_Date": "2025-11-30T00:20:09"
         }
       ]
+    },
+    {
+      "timestamp": "2025-11-30T06:27:56.814962+00:00",
+      "call_count": 6,
+      "calls": [
+        {
+          "Master_Incident_Number": "112925-00530",
+          "Online_Description": "TRAFFIC CRASH",
+          "Address": "GULF TO BAY BLVD / S NIMBUS AVE",
+          "Response_Date": "2025-11-29T21:23:06"
+        },
+        {
+          "Master_Incident_Number": "112925-00599",
+          "Online_Description": "ANIMAL CASE",
+          "Address": "1500 BLOCK EWING AVE",
+          "Response_Date": "2025-11-29T23:50:24"
+        },
+        {
+          "Master_Incident_Number": "113025-00019",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "MEMORIAL CSWY",
+          "Response_Date": "2025-11-30T00:48:51"
+        },
+        {
+          "Master_Incident_Number": "113025-00022",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "BAYSIDE BRG / BAYSIDE BRG SERVICE RD",
+          "Response_Date": "2025-11-30T00:57:41"
+        },
+        {
+          "Master_Incident_Number": "113025-00023",
+          "Online_Description": "PARK WALK AND TALK",
+          "Address": "800 BLOCK S MISSOURI AVE",
+          "Response_Date": "2025-11-30T01:01:09"
+        },
+        {
+          "Master_Incident_Number": "113025-00024",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "-500 BLOCK 699 S GULFVIEW BLVD",
+          "Response_Date": "2025-11-30T01:04:55"
+        }
+      ]
     }
   ]
 }
