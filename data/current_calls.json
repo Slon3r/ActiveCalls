@@ -25,24 +25,24 @@
       "Response_Date": "2025-11-30T13:40:17"
     },
     {
-      "Master_Incident_Number": "113025-00291",
-      "Online_Description": "ASSIST CITIZEN",
-      "Address": "1400 BLOCK N MADISON AVE",
-      "Response_Date": "2025-11-30T13:42:03"
-    },
-    {
-      "Master_Incident_Number": "113025-00294",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "MANDALAY PASS",
-      "Response_Date": "2025-11-30T13:55:53"
-    },
-    {
       "Master_Incident_Number": "113025-00303",
       "Online_Description": "NEIGHBOR CALL",
       "Address": "2700 BLOCK COTTONWOOD CT",
       "Response_Date": "2025-11-30T14:17:50"
+    },
+    {
+      "Master_Incident_Number": "113025-00307",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "200 BLOCK SEMINOLE ST",
+      "Response_Date": "2025-11-30T14:34:31"
+    },
+    {
+      "Master_Incident_Number": "113025-00308",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "27000 BLOCK US HIGHWAY 19 N",
+      "Response_Date": "2025-11-30T14:37:27"
     }
   ],
-  "timestamp": "2025-11-30T19:51:26.984090+00:00",
+  "timestamp": "2025-11-30T19:59:10.142189+00:00",
   "count": 7
 }

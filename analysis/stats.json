@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 400,
-  "total_resolved": 393,
+  "total_calls_tracked": 402,
+  "total_resolved": 395,
   "call_types": {
-    "DIRECTED PATROL": 135,
+    "DIRECTED PATROL": 137,
     "TRAFFIC STOP": 72,
     "DRUNK DRIVER": 4,
     "DISTURBANCE": 9,
@@ -100,7 +100,7 @@
     "2300 BLOCK GULF TO BAY BLVD": 1,
     "1200 BLOCK CLEVELAND ST": 5,
     "-500 BLOCK 549 MANDALAY AVE": 1,
-    "27000 BLOCK US HIGHWAY 19 N": 4,
+    "27000 BLOCK US HIGHWAY 19 N": 5,
     "DRIVEWAY PARKING": 1,
     "1100 BLOCK GULF BLVD": 2,
     "2500 BLOCK GULF TO BAY BLVD": 3,
@@ -316,7 +316,8 @@
     "1400 BLOCK N MADISON AVE": 1,
     "600 BLOCK GULF BLVD": 1,
     "DREW ST / MCMULLEN BOOTH RD": 1,
-    "2700 BLOCK COTTONWOOD CT": 1
+    "2700 BLOCK COTTONWOOD CT": 1,
+    "200 BLOCK SEMINOLE ST": 1
   },
   "hourly_distribution": {
     "0": 14,
@@ -333,7 +334,7 @@
     "11": 29,
     "12": 31,
     "13": 37,
-    "14": 27,
+    "14": 29,
     "15": 23,
     "16": 21,
     "17": 14,
@@ -345,7 +346,7 @@
     "23": 7
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-11-30T19:51:26.988483+00:00",
+  "last_updated": "2025-11-30T19:59:10.146547+00:00",
   "peak_active_calls": 14,
-  "total_snapshots": 144
+  "total_snapshots": 145
 }
