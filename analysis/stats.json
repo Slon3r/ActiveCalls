@@ -1,16 +1,16 @@
 {
-  "total_calls_tracked": 239,
-  "total_resolved": 229,
+  "total_calls_tracked": 246,
+  "total_resolved": 234,
   "call_types": {
     "DIRECTED PATROL": 80,
-    "TRAFFIC STOP": 47,
+    "TRAFFIC STOP": 50,
     "DRUNK DRIVER": 3,
     "DISTURBANCE": 6,
     "BATTERY": 1,
     "CRIMINAL MISCHIEF": 1,
     "ALARM": 6,
     "KEEP THE PEACE": 7,
-    "WELFARE CHECK": 4,
+    "WELFARE CHECK": 5,
     "PARK WALK AND TALK": 23,
     "SUSPICIOUS PERSON": 9,
     "TRESPASS": 6,
@@ -24,7 +24,7 @@
     "SUSPICIOUS EVENT": 4,
     "TRAFFIC CRASH": 7,
     "DISABLED VEHICLE": 4,
-    "ASSIST CITIZEN": 2,
+    "ASSIST CITIZEN": 3,
     "ASSIST OTHER AGENCY": 3,
     "FIRE": 2,
     "FRAUD": 1,
@@ -33,7 +33,8 @@
     "HAZARD": 1,
     "UNKNOWN PROBLEM": 2,
     "NOISE COMPLAINT": 2,
-    "CIVIL MATTER": 2
+    "CIVIL MATTER": 2,
+    "DOMESTIC": 2
   },
   "addresses": {
     "MEMORIAL CSWY / ISLAND WAY": 11,
@@ -103,7 +104,7 @@
     "1200 BLOCK DREW ST": 1,
     "2400 BLOCK DREW ST": 1,
     "-1100 BLOCK 1582 GULF BLVD": 1,
-    "3300 BLOCK COURTNEY CAMPBELL CSWY": 2,
+    "3300 BLOCK COURTNEY CAMPBELL CSWY": 3,
     "1200 BLOCK COURT ST": 1,
     "1400 BLOCK OWEN DR": 1,
     "200 BLOCK ISLAND WAY": 2,
@@ -216,7 +217,13 @@
     "GULF TO BAY BLVD / S NIMBUS AVE": 1,
     "-300 BLOCK 437 MANDALAY AVE": 1,
     "600 BLOCK LEMBO CIR": 1,
-    "1500 BLOCK RIDGEWOOD ST": 1
+    "1500 BLOCK RIDGEWOOD ST": 1,
+    "2500 BLOCK FOREST RUN CT": 1,
+    "1800 BLOCK SUNSET POINT RD": 1,
+    "1100 BLOCK GRANT ST": 1,
+    "COURTNEY CAMPBELL CSWY / DR KIRAN C PATEL BLVD": 1,
+    "2000 BLOCK PLATEAU RD": 1,
+    "DREW ST / N HIGHLAND AVE": 1
   },
   "hourly_distribution": {
     "0": 4,
@@ -241,11 +248,11 @@
     "19": 4,
     "20": 3,
     "21": 4,
-    "22": 7,
-    "23": 0
+    "22": 10,
+    "23": 4
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-11-30T04:04:42.859296+00:00",
+  "last_updated": "2025-11-30T04:42:07.356651+00:00",
   "peak_active_calls": 14,
-  "total_snapshots": 80
+  "total_snapshots": 81
 }
