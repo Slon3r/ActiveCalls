@@ -1,6 +1,6 @@
 {
-  "total_calls_tracked": 259,
-  "total_resolved": 253,
+  "total_calls_tracked": 261,
+  "total_resolved": 255,
   "call_types": {
     "DIRECTED PATROL": 85,
     "TRAFFIC STOP": 53,
@@ -34,8 +34,9 @@
     "UNKNOWN PROBLEM": 2,
     "NOISE COMPLAINT": 3,
     "CIVIL MATTER": 2,
-    "DOMESTIC": 2,
-    "ANIMAL CASE": 1
+    "DOMESTIC": 3,
+    "ANIMAL CASE": 1,
+    "MISSING PERSON": 1
   },
   "addresses": {
     "MEMORIAL CSWY / ISLAND WAY": 11,
@@ -223,7 +224,7 @@
     "1800 BLOCK SUNSET POINT RD": 1,
     "1100 BLOCK GRANT ST": 1,
     "COURTNEY CAMPBELL CSWY / DR KIRAN C PATEL BLVD": 2,
-    "2000 BLOCK PLATEAU RD": 1,
+    "2000 BLOCK PLATEAU RD": 2,
     "DREW ST / N HIGHLAND AVE": 1,
     "-400 BLOCK 498 S GULFVIEW BLVD": 1,
     "1500 BLOCK EWING AVE": 1,
@@ -232,11 +233,12 @@
     "2000 BLOCK MADRID CT N": 1,
     "BAYSIDE BRG / BAYSIDE BRG SERVICE RD": 1,
     "800 BLOCK S MISSOURI AVE": 1,
-    "-500 BLOCK 699 S GULFVIEW BLVD": 1
+    "-500 BLOCK 699 S GULFVIEW BLVD": 1,
+    "1000 BLOCK MARSHALL ST": 1
   },
   "hourly_distribution": {
-    "0": 12,
-    "1": 5,
+    "0": 13,
+    "1": 6,
     "2": 3,
     "3": 4,
     "4": 0,
@@ -261,7 +263,7 @@
     "23": 7
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-11-30T06:27:56.816518+00:00",
+  "last_updated": "2025-11-30T06:50:50.288015+00:00",
   "peak_active_calls": 14,
-  "total_snapshots": 87
+  "total_snapshots": 88
 }
