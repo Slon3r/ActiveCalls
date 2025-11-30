@@ -2019,6 +2019,96 @@
           "Response_Date": "2025-11-30T10:37:44"
         }
       ]
+    },
+    {
+      "timestamp": "2025-11-30T16:25:35.759534+00:00",
+      "call_count": 14,
+      "calls": [
+        {
+          "Master_Incident_Number": "113025-00198",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "2300 BLOCK STAG RUN BLVD",
+          "Response_Date": "2025-11-30T10:44:48.717"
+        },
+        {
+          "Master_Incident_Number": "113025-00168",
+          "Online_Description": "BATTERY",
+          "Address": "300 BLOCK PINELLAS ST",
+          "Response_Date": "2025-11-30T09:40:47"
+        },
+        {
+          "Master_Incident_Number": "113025-00177",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "2200 BLOCK DREW ST",
+          "Response_Date": "2025-11-30T09:55:24"
+        },
+        {
+          "Master_Incident_Number": "113025-00181",
+          "Online_Description": "SUSPICIOUS PERSON",
+          "Address": "200 BLOCK S MARS AVE",
+          "Response_Date": "2025-11-30T09:59:06"
+        },
+        {
+          "Master_Incident_Number": "113025-00183",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "20500 BLOCK US HIGHWAY 19 N",
+          "Response_Date": "2025-11-30T10:03:05"
+        },
+        {
+          "Master_Incident_Number": "113025-00184",
+          "Online_Description": "TRESPASS",
+          "Address": "2700 BLOCK GULF TO BAY BLVD",
+          "Response_Date": "2025-11-30T10:03:29"
+        },
+        {
+          "Master_Incident_Number": "113025-00189",
+          "Online_Description": "SUSPICIOUS PERSON",
+          "Address": "600 BLOCK MCLENNAN ST",
+          "Response_Date": "2025-11-30T10:13:00"
+        },
+        {
+          "Master_Incident_Number": "113025-00194",
+          "Online_Description": "PARK WALK AND TALK",
+          "Address": "-100 BLOCK 218 S GULFVIEW BLVD",
+          "Response_Date": "2025-11-30T10:25:32"
+        },
+        {
+          "Master_Incident_Number": "113025-00203",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "2500 BLOCK GULF TO BAY BLVD",
+          "Response_Date": "2025-11-30T10:37:44"
+        },
+        {
+          "Master_Incident_Number": "113025-00210",
+          "Online_Description": "911 HANG-UP",
+          "Address": "700 BLOCK S MADISON AVE",
+          "Response_Date": "2025-11-30T10:43:04"
+        },
+        {
+          "Master_Incident_Number": "113025-00213",
+          "Online_Description": "TRAFFIC CRASH",
+          "Address": "N MYRTLE AVE / ELDRIDGE ST",
+          "Response_Date": "2025-11-30T10:49:48"
+        },
+        {
+          "Master_Incident_Number": "113025-00219",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "GRANGER DR / N BELCHER RD",
+          "Response_Date": "2025-11-30T10:57:53"
+        },
+        {
+          "Master_Incident_Number": "113025-00222",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "NE COACHMAN RD / MARILYN ST",
+          "Response_Date": "2025-11-30T11:00:58"
+        },
+        {
+          "Master_Incident_Number": "113025-00223",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "26500 BLOCK US HIGHWAY 19 N",
+          "Response_Date": "2025-11-30T11:01:16"
+        }
+      ]
     }
   ]
 }
