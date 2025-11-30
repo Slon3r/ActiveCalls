@@ -3925,6 +3925,72 @@
           "Response_Date": "2025-11-30T17:26:19"
         }
       ]
+    },
+    {
+      "timestamp": "2025-11-30T23:11:45.235204+00:00",
+      "call_count": 10,
+      "calls": [
+        {
+          "Master_Incident_Number": "113025-00348",
+          "Online_Description": "TRAFFIC CRASH",
+          "Address": "GULF TO BAY BLVD / BYPASS DR",
+          "Response_Date": "2025-11-30T16:06:20"
+        },
+        {
+          "Master_Incident_Number": "113025-00350",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "300 BLOCK CLEVELAND ST",
+          "Response_Date": "2025-11-30T16:13:09"
+        },
+        {
+          "Master_Incident_Number": "113025-00357",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "MEMORIAL CSWY",
+          "Response_Date": "2025-11-30T16:22:51"
+        },
+        {
+          "Master_Incident_Number": "113025-00365",
+          "Online_Description": "DISTURBANCE",
+          "Address": "1900 BLOCK UNION ST",
+          "Response_Date": "2025-11-30T16:29:53"
+        },
+        {
+          "Master_Incident_Number": "113025-00377",
+          "Online_Description": "ASSIST CITIZEN",
+          "Address": "1800 BLOCK N BELCHER RD",
+          "Response_Date": "2025-11-30T17:04:27"
+        },
+        {
+          "Master_Incident_Number": "113025-00382",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "1400 BLOCK SUNSET POINT RD",
+          "Response_Date": "2025-11-30T17:11:12"
+        },
+        {
+          "Master_Incident_Number": "113025-00384",
+          "Online_Description": "TRAFFIC CRASH",
+          "Address": "600 BLOCK S GULFVIEW BLVD",
+          "Response_Date": "2025-11-30T17:13:48"
+        },
+        {
+          "Master_Incident_Number": "113025-00390",
+          "Online_Description": "TRESPASS",
+          "Address": "21200 BLOCK US HIGHWAY 19 N",
+          "Response_Date": "2025-11-30T17:26:19"
+        },
+        {
+          "Master_Incident_Number": "113025-00394",
+          "Online_Description": "NEIGHBOR CALL",
+          "Address": "2300 BLOCK GLENMOOR RD N",
+          "Response_Date": "2025-11-30T17:31:00"
+        },
+        {
+          "Master_Incident_Number": "113025-00395",
+          "Online_Description": "911 HANG-UP",
+          "Address": "400 BLOCK S GULFVIEW BLVD",
+          "Response_Date": "2025-11-30T17:31:23"
+        }
+      ]
     }
   ]
 }

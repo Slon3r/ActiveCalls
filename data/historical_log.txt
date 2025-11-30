@@ -2210,3 +2210,15 @@ TOTAL ACTIVE CALLS: 9
 
 --- RESOLVED CALLS (1) ---
 [RESOLVED] 113025-00388 | TRAFFIC STOP | US HIGHWAY 19 N / DREW ST | Response: 05:24 PM
+
+================================================================================
+TIMESTAMP: 2025-11-30T23:11:45.235204+00:00
+TOTAL ACTIVE CALLS: 10
+================================================================================
+
+--- NEW CALLS (2) ---
+[NEW] 113025-00394 | NEIGHBOR CALL | 2300 BLOCK GLENMOOR RD N | Response: 05:31 PM
+[NEW] 113025-00395 | 911 HANG-UP | 400 BLOCK S GULFVIEW BLVD | Response: 05:31 PM
+
+--- RESOLVED CALLS (1) ---
+[RESOLVED] 113025-00383 | DIRECTED PATROL | -100 BLOCK 129 ISLAND WAY | Response: 05:12 PM

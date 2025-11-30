@@ -1,6 +1,6 @@
 {
-  "total_calls_tracked": 446,
-  "total_resolved": 437,
+  "total_calls_tracked": 448,
+  "total_resolved": 438,
   "call_types": {
     "DIRECTED PATROL": 155,
     "TRAFFIC STOP": 79,
@@ -16,8 +16,8 @@
     "TRESPASS": 9,
     "PROPERTY FOUND/LOST": 4,
     "THEFT": 4,
-    "NEIGHBOR CALL": 2,
-    "911 HANG-UP": 14,
+    "NEIGHBOR CALL": 3,
+    "911 HANG-UP": 15,
     "SUSPICIOUS VEHICLE": 6,
     "PANHANDLER/SOLICITOR": 1,
     "VEHICLE ILLEGALLY PARKED": 3,
@@ -60,7 +60,7 @@
     "-800 BLOCK 819 NARCISSUS AVE": 1,
     "0 BLOCK ISLAND WAY": 3,
     "US HIGHWAY 19 N / SR 580": 2,
-    "400 BLOCK S GULFVIEW BLVD": 1,
+    "400 BLOCK S GULFVIEW BLVD": 2,
     "100 BLOCK S MYRTLE AVE": 1,
     "0 BLOCK CAUSEWAY BLVD": 4,
     "400 BLOCK FAIRWOOD AVE": 3,
@@ -338,7 +338,8 @@
     "200 BLOCK PIERCE ST": 1,
     "GULF TO BAY BLVD / BYPASS DR": 1,
     "1800 BLOCK N BELCHER RD": 1,
-    "-100 BLOCK 129 ISLAND WAY": 1
+    "-100 BLOCK 129 ISLAND WAY": 1,
+    "2300 BLOCK GLENMOOR RD N": 1
   },
   "hourly_distribution": {
     "0": 14,
@@ -358,7 +359,7 @@
     "14": 35,
     "15": 39,
     "16": 36,
-    "17": 20,
+    "17": 22,
     "18": 7,
     "19": 4,
     "20": 3,
@@ -367,7 +368,7 @@
     "23": 7
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-11-30T22:54:33.910330+00:00",
+  "last_updated": "2025-11-30T23:11:45.240739+00:00",
   "peak_active_calls": 14,
-  "total_snapshots": 158
+  "total_snapshots": 159
 }
