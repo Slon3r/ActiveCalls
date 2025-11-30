@@ -1,5 +1,5 @@
 {
-  "total_calls_tracked": 265,
+  "total_calls_tracked": 266,
   "total_resolved": 259,
   "call_types": {
     "DIRECTED PATROL": 85,
@@ -15,7 +15,7 @@
     "SUSPICIOUS PERSON": 10,
     "TRESPASS": 6,
     "PROPERTY FOUND/LOST": 2,
-    "THEFT": 2,
+    "THEFT": 3,
     "NEIGHBOR CALL": 1,
     "911 HANG-UP": 3,
     "SUSPICIOUS VEHICLE": 4,
@@ -190,7 +190,7 @@
     "23600 BLOCK US HIGHWAY 19 N": 1,
     "300 BLOCK MANDALAY AVE": 1,
     "JONES ST / FERN AVE": 1,
-    "1600 BLOCK GULF TO BAY BLVD": 1,
+    "1600 BLOCK GULF TO BAY BLVD": 2,
     "1600 BLOCK DARTMOUTH ST": 1,
     "HAMDEN DR / BRIGHTWATER DR": 1,
     "HAMPTON RD / GULF TO BAY BLVD": 1,
@@ -243,7 +243,7 @@
   "hourly_distribution": {
     "0": 13,
     "1": 10,
-    "2": 3,
+    "2": 4,
     "3": 4,
     "4": 0,
     "5": 6,
@@ -267,7 +267,7 @@
     "23": 7
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-11-30T07:20:52.469783+00:00",
+  "last_updated": "2025-11-30T07:30:54.137719+00:00",
   "peak_active_calls": 14,
-  "total_snapshots": 90
+  "total_snapshots": 91
 }
