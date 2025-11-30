@@ -1,16 +1,16 @@
 {
-  "total_calls_tracked": 410,
-  "total_resolved": 396,
+  "total_calls_tracked": 415,
+  "total_resolved": 403,
   "call_types": {
-    "DIRECTED PATROL": 141,
-    "TRAFFIC STOP": 72,
+    "DIRECTED PATROL": 142,
+    "TRAFFIC STOP": 74,
     "DRUNK DRIVER": 4,
     "DISTURBANCE": 10,
     "BATTERY": 3,
     "CRIMINAL MISCHIEF": 1,
     "ALARM": 6,
     "KEEP THE PEACE": 9,
-    "WELFARE CHECK": 8,
+    "WELFARE CHECK": 9,
     "PARK WALK AND TALK": 37,
     "SUSPICIOUS PERSON": 16,
     "TRESPASS": 7,
@@ -38,7 +38,7 @@
     "ANIMAL CASE": 2,
     "MISSING PERSON": 3,
     "BUILDING CHECK": 1,
-    "SHOPLIFTING": 1
+    "SHOPLIFTING": 2
   },
   "addresses": {
     "MEMORIAL CSWY / ISLAND WAY": 11,
@@ -80,7 +80,7 @@
     "2100 BLOCK BELCHER RD": 1,
     "SAND KEY PARK ENTRANCE": 1,
     "S MISSOURI AVE / LAKEVIEW RD": 3,
-    "23100 BLOCK US HIGHWAY 19 N": 1,
+    "23100 BLOCK US HIGHWAY 19 N": 2,
     "1200 BLOCK N BETTY LN": 1,
     "MCMULLEN BOOTH RD / SR 590": 1,
     "LAKEVIEW RD / S MISSOURI AVE": 2,
@@ -90,7 +90,7 @@
     "20100 BLOCK US HIGHWAY 19 N": 1,
     "CLEVELAND ST / N MAIN AVE": 1,
     "S MISSOURI AVE / KINGSLEY ST": 1,
-    "2200 BLOCK GULF TO BAY BLVD": 2,
+    "2200 BLOCK GULF TO BAY BLVD": 3,
     "CLEVELAND ST/S MADISON AVE": 1,
     "2700 BLOCK GULF TO BAY BLVD": 3,
     "1400 BLOCK N HIBISCUS ST": 1,
@@ -321,7 +321,10 @@
     "1400 BLOCK N FORT HARRISON AVE": 1,
     "400 BLOCK S MISSOURI AVE": 1,
     "-1700 BLOCK 1748 WESTON DR": 1,
-    "1300 BLOCK GULF BLVD": 1
+    "1300 BLOCK GULF BLVD": 1,
+    "0 BLOCK N NEPTUNE AVE": 1,
+    "S MYRTLE AVE / COURT ST": 1,
+    "OLD COACHMAN RD / GULF TO BAY BLVD": 1
   },
   "hourly_distribution": {
     "0": 14,
@@ -339,7 +342,7 @@
     "12": 31,
     "13": 37,
     "14": 35,
-    "15": 25,
+    "15": 30,
     "16": 21,
     "17": 14,
     "18": 7,
@@ -350,7 +353,7 @@
     "23": 7
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-11-30T20:26:04.808837+00:00",
+  "last_updated": "2025-11-30T20:40:19.673705+00:00",
   "peak_active_calls": 14,
-  "total_snapshots": 146
+  "total_snapshots": 147
 }
