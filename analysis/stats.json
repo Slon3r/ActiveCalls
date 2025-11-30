@@ -1,6 +1,6 @@
 {
-  "total_calls_tracked": 397,
-  "total_resolved": 388,
+  "total_calls_tracked": 399,
+  "total_resolved": 390,
   "call_types": {
     "DIRECTED PATROL": 135,
     "TRAFFIC STOP": 72,
@@ -20,7 +20,7 @@
     "911 HANG-UP": 13,
     "SUSPICIOUS VEHICLE": 6,
     "PANHANDLER/SOLICITOR": 1,
-    "VEHICLE ILLEGALLY PARKED": 2,
+    "VEHICLE ILLEGALLY PARKED": 3,
     "SUSPICIOUS EVENT": 4,
     "TRAFFIC CRASH": 13,
     "DISABLED VEHICLE": 4,
@@ -31,7 +31,7 @@
     "RECKLESS VEHICLE": 2,
     "JUVENILE CASE": 1,
     "HAZARD": 1,
-    "UNKNOWN PROBLEM": 2,
+    "UNKNOWN PROBLEM": 3,
     "NOISE COMPLAINT": 4,
     "CIVIL MATTER": 4,
     "DOMESTIC": 3,
@@ -75,7 +75,7 @@
     "1400 BLOCK LAURA ST": 1,
     "ENTERPRISE RD E / VILLAGE DR": 1,
     "GULF TO BAY BLVD / HAMPTON RD": 1,
-    "2100 BLOCK GULF TO BAY BLVD": 6,
+    "2100 BLOCK GULF TO BAY BLVD": 7,
     "1300 BLOCK CLEVELAND ST": 2,
     "2100 BLOCK BELCHER RD": 1,
     "SAND KEY PARK ENTRANCE": 1,
@@ -314,7 +314,8 @@
     "MANDALAY PASS": 1,
     "GULF TO BAY BLVD / LANDRY AVE": 1,
     "1400 BLOCK N MADISON AVE": 1,
-    "600 BLOCK GULF BLVD": 1
+    "600 BLOCK GULF BLVD": 1,
+    "DREW ST / MCMULLEN BOOTH RD": 1
   },
   "hourly_distribution": {
     "0": 14,
@@ -331,7 +332,7 @@
     "11": 29,
     "12": 31,
     "13": 37,
-    "14": 24,
+    "14": 26,
     "15": 23,
     "16": 21,
     "17": 14,
@@ -343,7 +344,7 @@
     "23": 7
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-11-30T19:35:02.245137+00:00",
+  "last_updated": "2025-11-30T19:43:23.319622+00:00",
   "peak_active_calls": 14,
-  "total_snapshots": 142
+  "total_snapshots": 143
 }
