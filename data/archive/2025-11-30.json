@@ -1091,6 +1091,24 @@
           "Response_Date": "2025-11-30T04:37:10"
         }
       ]
+    },
+    {
+      "timestamp": "2025-11-30T10:24:16.388405+00:00",
+      "call_count": 2,
+      "calls": [
+        {
+          "Master_Incident_Number": "113025-00036",
+          "Online_Description": "BATTERY",
+          "Address": "1600 BLOCK GULF TO BAY BLVD",
+          "Response_Date": "2025-11-30T02:02:17"
+        },
+        {
+          "Master_Incident_Number": "113025-00074",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "0 BLOCK ACACIA ST",
+          "Response_Date": "2025-11-30T05:01:45"
+        }
+      ]
     }
   ]
 }

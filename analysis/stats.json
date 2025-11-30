@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 284,
-  "total_resolved": 281,
+  "total_calls_tracked": 285,
+  "total_resolved": 283,
   "call_types": {
-    "DIRECTED PATROL": 89,
+    "DIRECTED PATROL": 90,
     "TRAFFIC STOP": 56,
     "DRUNK DRIVER": 4,
     "DISTURBANCE": 8,
@@ -51,7 +51,7 @@
     "US HIGHWAY 19 N / SR 590": 1,
     "1100 BLOCK DRUID RD": 1,
     "2100 BLOCK RANGE RD": 1,
-    "0 BLOCK ACACIA ST": 2,
+    "0 BLOCK ACACIA ST": 3,
     "-600 BLOCK 647 BAY ESPLANADE": 1,
     "1900 BLOCK UNION ST": 1,
     "200 BLOCK DREW ST": 1,
@@ -255,7 +255,7 @@
     "2": 9,
     "3": 10,
     "4": 2,
-    "5": 6,
+    "5": 7,
     "6": 7,
     "7": 8,
     "8": 19,
@@ -276,7 +276,7 @@
     "23": 7
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-11-30T09:59:31.910429+00:00",
+  "last_updated": "2025-11-30T10:24:16.390532+00:00",
   "peak_active_calls": 14,
-  "total_snapshots": 103
+  "total_snapshots": 104
 }

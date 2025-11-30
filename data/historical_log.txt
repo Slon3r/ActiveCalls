@@ -1427,3 +1427,15 @@ TOTAL ACTIVE CALLS: 3
 
 --- NEW CALLS (1) ---
 [NEW] 113025-00068 | DIRECTED PATROL | -1200 BLOCK 1353 COURT ST | Response: 04:37 AM
+
+================================================================================
+TIMESTAMP: 2025-11-30T10:24:16.388405+00:00
+TOTAL ACTIVE CALLS: 2
+================================================================================
+
+--- NEW CALLS (1) ---
+[NEW] 113025-00074 | DIRECTED PATROL | 0 BLOCK ACACIA ST | Response: 05:01 AM
+
+--- RESOLVED CALLS (2) ---
+[RESOLVED] 113025-00064 | DIRECTED PATROL | BELLEAIR BLVD / US HIGHWAY 19 N | Response: 04:02 AM
+[RESOLVED] 113025-00068 | DIRECTED PATROL | -1200 BLOCK 1353 COURT ST | Response: 04:37 AM
