@@ -276,6 +276,54 @@
           "Response_Date": "2025-11-29T23:19:02"
         }
       ]
+    },
+    {
+      "timestamp": "2025-11-30T05:20:20.048909+00:00",
+      "call_count": 7,
+      "calls": [
+        {
+          "Master_Incident_Number": "112925-00530",
+          "Online_Description": "TRAFFIC CRASH",
+          "Address": "GULF TO BAY BLVD / S NIMBUS AVE",
+          "Response_Date": "2025-11-29T21:23:06"
+        },
+        {
+          "Master_Incident_Number": "112925-00574",
+          "Online_Description": "ASSIST CITIZEN",
+          "Address": "1800 BLOCK SUNSET POINT RD",
+          "Response_Date": "2025-11-29T22:42:40"
+        },
+        {
+          "Master_Incident_Number": "112925-00576",
+          "Online_Description": "DOMESTIC",
+          "Address": "1100 BLOCK GRANT ST",
+          "Response_Date": "2025-11-29T22:49:04"
+        },
+        {
+          "Master_Incident_Number": "112925-00583",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "COURTNEY CAMPBELL CSWY / DR KIRAN C PATEL BLVD",
+          "Response_Date": "2025-11-29T23:01:40"
+        },
+        {
+          "Master_Incident_Number": "112925-00589",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "3300 BLOCK COURTNEY CAMPBELL CSWY",
+          "Response_Date": "2025-11-29T23:15:27"
+        },
+        {
+          "Master_Incident_Number": "112925-00590",
+          "Online_Description": "DOMESTIC",
+          "Address": "2000 BLOCK PLATEAU RD",
+          "Response_Date": "2025-11-29T23:19:02"
+        },
+        {
+          "Master_Incident_Number": "112925-00594",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "-400 BLOCK 498 S GULFVIEW BLVD",
+          "Response_Date": "2025-11-29T23:41:35"
+        }
+      ]
     }
   ]
 }

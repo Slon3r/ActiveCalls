@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 246,
-  "total_resolved": 238,
+  "total_calls_tracked": 247,
+  "total_resolved": 240,
   "call_types": {
-    "DIRECTED PATROL": 80,
+    "DIRECTED PATROL": 81,
     "TRAFFIC STOP": 50,
     "DRUNK DRIVER": 3,
     "DISTURBANCE": 6,
@@ -223,7 +223,8 @@
     "1100 BLOCK GRANT ST": 1,
     "COURTNEY CAMPBELL CSWY / DR KIRAN C PATEL BLVD": 1,
     "2000 BLOCK PLATEAU RD": 1,
-    "DREW ST / N HIGHLAND AVE": 1
+    "DREW ST / N HIGHLAND AVE": 1,
+    "-400 BLOCK 498 S GULFVIEW BLVD": 1
   },
   "hourly_distribution": {
     "0": 4,
@@ -249,10 +250,10 @@
     "20": 3,
     "21": 4,
     "22": 10,
-    "23": 4
+    "23": 5
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-11-30T04:57:50.049357+00:00",
+  "last_updated": "2025-11-30T05:20:20.050205+00:00",
   "peak_active_calls": 14,
-  "total_snapshots": 82
+  "total_snapshots": 83
 }
