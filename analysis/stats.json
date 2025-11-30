@@ -1,6 +1,6 @@
 {
-  "total_calls_tracked": 301,
-  "total_resolved": 297,
+  "total_calls_tracked": 302,
+  "total_resolved": 298,
   "call_types": {
     "DIRECTED PATROL": 101,
     "TRAFFIC STOP": 56,
@@ -11,7 +11,7 @@
     "ALARM": 6,
     "KEEP THE PEACE": 7,
     "WELFARE CHECK": 7,
-    "PARK WALK AND TALK": 26,
+    "PARK WALK AND TALK": 27,
     "SUSPICIOUS PERSON": 10,
     "TRESPASS": 6,
     "PROPERTY FOUND/LOST": 2,
@@ -257,7 +257,8 @@
     "1400 BLOCK N BETTY LN": 1,
     "CLEVELAND ST / S MADISON AVE": 1,
     "900 BLOCK BAY ESPLANADE": 1,
-    "3000 BLOCK EASTLAND BLVD": 1
+    "3000 BLOCK EASTLAND BLVD": 1,
+    "-2300 BLOCK 2373 GULF TO BAY BLVD": 1
   },
   "hourly_distribution": {
     "0": 14,
@@ -268,7 +269,7 @@
     "5": 12,
     "6": 10,
     "7": 13,
-    "8": 21,
+    "8": 22,
     "9": 14,
     "10": 16,
     "11": 14,
@@ -286,7 +287,7 @@
     "23": 7
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-11-30T13:45:58.915731+00:00",
+  "last_updated": "2025-11-30T13:54:27.355568+00:00",
   "peak_active_calls": 14,
-  "total_snapshots": 117
+  "total_snapshots": 118
 }
