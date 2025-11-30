@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 424,
+  "total_calls_tracked": 426,
   "total_resolved": 417,
   "call_types": {
     "DIRECTED PATROL": 145,
-    "TRAFFIC STOP": 74,
+    "TRAFFIC STOP": 75,
     "DRUNK DRIVER": 4,
     "DISTURBANCE": 10,
     "BATTERY": 3,
@@ -22,7 +22,7 @@
     "PANHANDLER/SOLICITOR": 1,
     "VEHICLE ILLEGALLY PARKED": 3,
     "SUSPICIOUS EVENT": 4,
-    "TRAFFIC CRASH": 13,
+    "TRAFFIC CRASH": 14,
     "DISABLED VEHICLE": 4,
     "ASSIST CITIZEN": 10,
     "ASSIST OTHER AGENCY": 3,
@@ -332,7 +332,9 @@
     "100 BLOCK S GULFVIEW BLVD": 1,
     "DREW ST / N NIMBUS AVE": 1,
     "2500 BLOCK NE COACHMAN RD": 1,
-    "NE CLEVELAND ST / GROVE ST": 1
+    "NE CLEVELAND ST / GROVE ST": 1,
+    "18400 BLOCK US HIGHWAY 19 N": 1,
+    "MCMULLEN BOOTH RD / MARSHALL ST": 1
   },
   "hourly_distribution": {
     "0": 14,
@@ -350,8 +352,8 @@
     "12": 31,
     "13": 37,
     "14": 35,
-    "15": 38,
-    "16": 21,
+    "15": 39,
+    "16": 22,
     "17": 14,
     "18": 7,
     "19": 4,
@@ -361,7 +363,7 @@
     "23": 7
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-11-30T21:16:53.154132+00:00",
+  "last_updated": "2025-11-30T21:31:06.252071+00:00",
   "peak_active_calls": 14,
-  "total_snapshots": 150
+  "total_snapshots": 151
 }

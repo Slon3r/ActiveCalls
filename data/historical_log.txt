@@ -2104,3 +2104,12 @@ TOTAL ACTIVE CALLS: 7
 [RESOLVED] 113025-00328 | TRAFFIC STOP | OLD COACHMAN RD / GULF TO BAY BLVD | Response: 03:15 PM
 [RESOLVED] 113025-00335 | 911 HANG-UP | 100 BLOCK S GULFVIEW BLVD | Response: 03:25 PM
 [RESOLVED] 113025-00334 | DIRECTED PATROL | DREW ST / N NIMBUS AVE | Response: 03:26 PM
+
+================================================================================
+TIMESTAMP: 2025-11-30T21:31:06.247286+00:00
+TOTAL ACTIVE CALLS: 9
+================================================================================
+
+--- NEW CALLS (2) ---
+[NEW] 113025-00344 | TRAFFIC CRASH | 18400 BLOCK US HIGHWAY 19 N | Response: 03:55 PM
+[NEW] 113025-00349 | TRAFFIC STOP | MCMULLEN BOOTH RD / MARSHALL ST | Response: 04:08 PM
