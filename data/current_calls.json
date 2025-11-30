@@ -1,34 +1,16 @@
 {
   "calls": [
     {
-      "Master_Incident_Number": "112925-00522",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "MEMORIAL CSWY / ISLAND WAY",
-      "Response_Date": "2025-11-29T21:05:27"
-    },
-    {
       "Master_Incident_Number": "112925-00530",
       "Online_Description": "TRAFFIC CRASH",
       "Address": "GULF TO BAY BLVD / S NIMBUS AVE",
       "Response_Date": "2025-11-29T21:23:06"
     },
     {
-      "Master_Incident_Number": "112925-00558",
-      "Online_Description": "TRAFFIC STOP",
-      "Address": "MEMORIAL CSWY / ISLAND WAY",
-      "Response_Date": "2025-11-29T22:10:04"
-    },
-    {
       "Master_Incident_Number": "112925-00560",
       "Online_Description": "DIRECTED PATROL",
       "Address": "-300 BLOCK 437 MANDALAY AVE",
       "Response_Date": "2025-11-29T22:14:44"
-    },
-    {
-      "Master_Incident_Number": "112925-00572",
-      "Online_Description": "TRESPASS",
-      "Address": "1500 BLOCK RIDGEWOOD ST",
-      "Response_Date": "2025-11-29T22:35:58"
     },
     {
       "Master_Incident_Number": "112925-00573",
@@ -65,14 +47,8 @@
       "Online_Description": "DOMESTIC",
       "Address": "2000 BLOCK PLATEAU RD",
       "Response_Date": "2025-11-29T23:19:02"
-    },
-    {
-      "Master_Incident_Number": "112925-00591",
-      "Online_Description": "TRAFFIC STOP",
-      "Address": "DREW ST / N HIGHLAND AVE",
-      "Response_Date": "2025-11-29T23:20:45"
     }
   ],
-  "timestamp": "2025-11-30T04:42:07.355484+00:00",
-  "count": 12
+  "timestamp": "2025-11-30T04:57:50.048033+00:00",
+  "count": 8
 }
