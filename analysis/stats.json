@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 291,
+  "total_calls_tracked": 293,
   "total_resolved": 291,
   "call_types": {
-    "DIRECTED PATROL": 93,
+    "DIRECTED PATROL": 95,
     "TRAFFIC STOP": 56,
     "DRUNK DRIVER": 4,
     "DISTURBANCE": 8,
@@ -70,7 +70,7 @@
     "FLUSHING AVE / HARN BLVD": 1,
     "S BELCHER RD / BARCELONA DR": 1,
     "-1400 BLOCK 1417 S MISSOURI AVE": 1,
-    "1000 BLOCK GULF BLVD": 3,
+    "1000 BLOCK GULF BLVD": 4,
     "1400 BLOCK LAURA ST": 1,
     "ENTERPRISE RD E / VILLAGE DR": 1,
     "GULF TO BAY BLVD / HAMPTON RD": 1,
@@ -207,7 +207,7 @@
     "1300 BLOCK S FORT HARRISON AVE": 1,
     "HOLT AVE / RUSSELL ST": 1,
     "S GULFVIEW BLVD / SECOND ST": 1,
-    "2500 BLOCK COUNTRYSIDE BLVD": 1,
+    "2500 BLOCK COUNTRYSIDE BLVD": 2,
     "-300 BLOCK 339 CORONADO DR": 1,
     "-600 BLOCK 698 CLEVELAND ST": 1,
     "1500 BLOCK S HIGHLAND AVE": 1,
@@ -260,7 +260,7 @@
     "3": 10,
     "4": 2,
     "5": 12,
-    "6": 8,
+    "6": 10,
     "7": 8,
     "8": 19,
     "9": 14,
@@ -280,7 +280,7 @@
     "23": 7
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-11-30T11:43:50.867857+00:00",
+  "last_updated": "2025-11-30T11:51:49.114731+00:00",
   "peak_active_calls": 14,
-  "total_snapshots": 111
+  "total_snapshots": 112
 }
