@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 281,
-  "total_resolved": 276,
+  "total_calls_tracked": 283,
+  "total_resolved": 279,
   "call_types": {
-    "DIRECTED PATROL": 86,
+    "DIRECTED PATROL": 88,
     "TRAFFIC STOP": 56,
     "DRUNK DRIVER": 4,
     "DISTURBANCE": 8,
@@ -244,14 +244,16 @@
     "US HIGHWAY 19 N / DRUID RD": 1,
     "S MISSOURI AVE/COURT ST": 1,
     "1500 BLOCK S MARTIN LUTHER KING JR AVE": 1,
-    "3100 BLOCK GULF TO BAY BLVD": 1
+    "3100 BLOCK GULF TO BAY BLVD": 1,
+    "1800 BLOCK N HIGHLAND AVE": 1,
+    "BELLEAIR BLVD / US HIGHWAY 19 N": 1
   },
   "hourly_distribution": {
     "0": 14,
     "1": 14,
     "2": 9,
-    "3": 9,
-    "4": 0,
+    "3": 10,
+    "4": 1,
     "5": 6,
     "6": 7,
     "7": 8,
@@ -273,7 +275,7 @@
     "23": 7
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-11-30T08:59:41.575723+00:00",
+  "last_updated": "2025-11-30T09:23:31.594760+00:00",
   "peak_active_calls": 14,
-  "total_snapshots": 98
+  "total_snapshots": 99
 }
