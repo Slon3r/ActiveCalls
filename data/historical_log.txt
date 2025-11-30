@@ -1370,3 +1370,15 @@ TOTAL ACTIVE CALLS: 6
 
 --- RESOLVED CALLS (1) ---
 [RESOLVED] 113025-00046 | BUILDING CHECK | 1100 BLOCK GULF BLVD | Response: 02:59 AM
+
+================================================================================
+TIMESTAMP: 2025-11-30T08:59:41.573733+00:00
+TOTAL ACTIVE CALLS: 5
+================================================================================
+
+--- NEW CALLS (1) ---
+[NEW] 113025-00060 | TRAFFIC STOP | 3100 BLOCK GULF TO BAY BLVD | Response: 03:32 AM
+
+--- RESOLVED CALLS (2) ---
+[RESOLVED] 113025-00049 | SUSPICIOUS VEHICLE | 2500 BLOCK GULF TO BAY BLVD | Response: 03:06 AM
+[RESOLVED] 113025-00059 | PARK WALK AND TALK | 1500 BLOCK S MARTIN LUTHER KING JR AVE | Response: 03:30 AM
