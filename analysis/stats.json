@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 287,
-  "total_resolved": 283,
+  "total_calls_tracked": 288,
+  "total_resolved": 285,
   "call_types": {
-    "DIRECTED PATROL": 91,
+    "DIRECTED PATROL": 92,
     "TRAFFIC STOP": 56,
     "DRUNK DRIVER": 4,
     "DISTURBANCE": 8,
@@ -248,7 +248,8 @@
     "1800 BLOCK N HIGHLAND AVE": 1,
     "BELLEAIR BLVD / US HIGHWAY 19 N": 1,
     "-1200 BLOCK 1353 COURT ST": 1,
-    "-500 BLOCK 642 BAY ESPLANADE": 1
+    "-500 BLOCK 642 BAY ESPLANADE": 1,
+    "-800 BLOCK 818 BAY ESPLANADE": 1
   },
   "hourly_distribution": {
     "0": 14,
@@ -256,7 +257,7 @@
     "2": 9,
     "3": 10,
     "4": 2,
-    "5": 9,
+    "5": 10,
     "6": 7,
     "7": 8,
     "8": 19,
@@ -277,7 +278,7 @@
     "23": 7
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-11-30T10:39:46.322065+00:00",
+  "last_updated": "2025-11-30T10:47:29.950809+00:00",
   "peak_active_calls": 14,
-  "total_snapshots": 105
+  "total_snapshots": 106
 }
