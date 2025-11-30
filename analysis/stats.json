@@ -1,6 +1,6 @@
 {
-  "total_calls_tracked": 456,
-  "total_resolved": 446,
+  "total_calls_tracked": 459,
+  "total_resolved": 451,
   "call_types": {
     "DIRECTED PATROL": 156,
     "TRAFFIC STOP": 82,
@@ -11,7 +11,7 @@
     "ALARM": 6,
     "KEEP THE PEACE": 10,
     "WELFARE CHECK": 10,
-    "PARK WALK AND TALK": 38,
+    "PARK WALK AND TALK": 40,
     "SUSPICIOUS PERSON": 17,
     "TRESPASS": 10,
     "PROPERTY FOUND/LOST": 4,
@@ -40,7 +40,8 @@
     "BUILDING CHECK": 1,
     "SHOPLIFTING": 2,
     "DECEASED PERSON": 1,
-    "BURGLARY": 1
+    "BURGLARY": 1,
+    "SHOTS FIRED": 1
   },
   "addresses": {
     "MEMORIAL CSWY / ISLAND WAY": 11,
@@ -344,7 +345,10 @@
     "1100 BLOCK GRANADA ST": 1,
     "1400 BLOCK FRANKLIN ST": 1,
     "0 BLOCK 69 BAY ESPLANADE": 1,
-    "GULF TO BAY BLVD / BAYVIEW AVE": 1
+    "GULF TO BAY BLVD / BAYVIEW AVE": 1,
+    "500 BLOCK MOSS AVE": 1,
+    "-1000 BLOCK 1170 GULF BLVD": 1,
+    "27000 BLOCK US 19": 1
   },
   "hourly_distribution": {
     "0": 14,
@@ -365,7 +369,7 @@
     "15": 39,
     "16": 36,
     "17": 25,
-    "18": 12,
+    "18": 15,
     "19": 4,
     "20": 3,
     "21": 4,
@@ -373,7 +377,7 @@
     "23": 7
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-11-30T23:41:00.934682+00:00",
+  "last_updated": "2025-11-30T23:49:21.835387+00:00",
   "peak_active_calls": 14,
-  "total_snapshots": 161
+  "total_snapshots": 162
 }
