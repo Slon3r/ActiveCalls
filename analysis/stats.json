@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 395,
-  "total_resolved": 385,
+  "total_calls_tracked": 397,
+  "total_resolved": 388,
   "call_types": {
     "DIRECTED PATROL": 135,
-    "TRAFFIC STOP": 71,
+    "TRAFFIC STOP": 72,
     "DRUNK DRIVER": 4,
     "DISTURBANCE": 9,
     "BATTERY": 3,
@@ -24,7 +24,7 @@
     "SUSPICIOUS EVENT": 4,
     "TRAFFIC CRASH": 13,
     "DISABLED VEHICLE": 4,
-    "ASSIST CITIZEN": 8,
+    "ASSIST CITIZEN": 9,
     "ASSIST OTHER AGENCY": 3,
     "FIRE": 2,
     "FRAUD": 1,
@@ -312,7 +312,9 @@
     "1700 BLOCK GULF TO BAY BLVD": 1,
     "600 BLOCK SIREN WIND LN": 1,
     "MANDALAY PASS": 1,
-    "GULF TO BAY BLVD / LANDRY AVE": 1
+    "GULF TO BAY BLVD / LANDRY AVE": 1,
+    "1400 BLOCK N MADISON AVE": 1,
+    "600 BLOCK GULF BLVD": 1
   },
   "hourly_distribution": {
     "0": 14,
@@ -328,8 +330,8 @@
     "10": 36,
     "11": 29,
     "12": 31,
-    "13": 36,
-    "14": 23,
+    "13": 37,
+    "14": 24,
     "15": 23,
     "16": 21,
     "17": 14,
@@ -341,7 +343,7 @@
     "23": 7
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-11-30T19:25:10.631833+00:00",
+  "last_updated": "2025-11-30T19:35:02.245137+00:00",
   "peak_active_calls": 14,
-  "total_snapshots": 141
+  "total_snapshots": 142
 }
