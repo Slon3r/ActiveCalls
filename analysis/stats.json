@@ -1,11 +1,11 @@
 {
-  "total_calls_tracked": 233,
-  "total_resolved": 227,
+  "total_calls_tracked": 239,
+  "total_resolved": 229,
   "call_types": {
-    "DIRECTED PATROL": 78,
-    "TRAFFIC STOP": 46,
+    "DIRECTED PATROL": 80,
+    "TRAFFIC STOP": 47,
     "DRUNK DRIVER": 3,
-    "DISTURBANCE": 5,
+    "DISTURBANCE": 6,
     "BATTERY": 1,
     "CRIMINAL MISCHIEF": 1,
     "ALARM": 6,
@@ -32,11 +32,11 @@
     "JUVENILE CASE": 1,
     "HAZARD": 1,
     "UNKNOWN PROBLEM": 2,
-    "NOISE COMPLAINT": 1,
-    "CIVIL MATTER": 1
+    "NOISE COMPLAINT": 2,
+    "CIVIL MATTER": 2
   },
   "addresses": {
-    "MEMORIAL CSWY / ISLAND WAY": 9,
+    "MEMORIAL CSWY / ISLAND WAY": 11,
     "GULF TO BAY BLVD / S BELCHER RD": 3,
     "1900 BLOCK N BETTY LN": 1,
     "1400 BLOCK CLEVELAND ST": 1,
@@ -174,7 +174,7 @@
     "500 BLOCK MANDALAY AVE": 1,
     "3000 BLOCK HAVERFORD DR": 1,
     "DREW ST / OLD COACHMAN RD": 1,
-    "2500 BLOCK HARN BLVD": 1,
+    "2500 BLOCK HARN BLVD": 2,
     "1000 BLOCK MCMULLEN BOOTH RD": 1,
     "1200 BLOCK S MARTIN LUTHER KING JR AVE": 1,
     "2000 BLOCK PARAGON CIR W": 1,
@@ -213,7 +213,10 @@
     "PAPAYA ST / MANDALAY AVE": 1,
     "CLEVELAND ST / N MISSOURI AVE": 1,
     "600 BLOCK COURT ST": 1,
-    "GULF TO BAY BLVD / S NIMBUS AVE": 1
+    "GULF TO BAY BLVD / S NIMBUS AVE": 1,
+    "-300 BLOCK 437 MANDALAY AVE": 1,
+    "600 BLOCK LEMBO CIR": 1,
+    "1500 BLOCK RIDGEWOOD ST": 1
   },
   "hourly_distribution": {
     "0": 4,
@@ -238,11 +241,11 @@
     "19": 4,
     "20": 3,
     "21": 4,
-    "22": 1,
+    "22": 7,
     "23": 0
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-11-30T03:13:11.240837+00:00",
+  "last_updated": "2025-11-30T04:04:42.859296+00:00",
   "peak_active_calls": 14,
-  "total_snapshots": 79
+  "total_snapshots": 80
 }

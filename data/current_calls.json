@@ -25,18 +25,42 @@
       "Response_Date": "2025-11-29T21:23:06"
     },
     {
-      "Master_Incident_Number": "112925-00543",
-      "Online_Description": "RECKLESS VEHICLE",
-      "Address": "300 BLOCK S GULFVIEW BLVD",
-      "Response_Date": "2025-11-29T21:33:40"
+      "Master_Incident_Number": "112925-00558",
+      "Online_Description": "TRAFFIC STOP",
+      "Address": "MEMORIAL CSWY / ISLAND WAY",
+      "Response_Date": "2025-11-29T22:10:04"
     },
     {
-      "Master_Incident_Number": "112925-00547",
-      "Online_Description": "PARK WALK AND TALK",
-      "Address": "300 BLOCK CORONADO DR",
-      "Response_Date": "2025-11-29T21:50:26"
+      "Master_Incident_Number": "112925-00560",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "-300 BLOCK 437 MANDALAY AVE",
+      "Response_Date": "2025-11-29T22:14:44"
+    },
+    {
+      "Master_Incident_Number": "112925-00562",
+      "Online_Description": "NOISE COMPLAINT",
+      "Address": "2500 BLOCK HARN BLVD",
+      "Response_Date": "2025-11-29T22:16:02"
+    },
+    {
+      "Master_Incident_Number": "112925-00564",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "MEMORIAL CSWY / ISLAND WAY",
+      "Response_Date": "2025-11-29T22:21:56"
+    },
+    {
+      "Master_Incident_Number": "112925-00570",
+      "Online_Description": "CIVIL MATTER",
+      "Address": "600 BLOCK LEMBO CIR",
+      "Response_Date": "2025-11-29T22:31:37"
+    },
+    {
+      "Master_Incident_Number": "112925-00572",
+      "Online_Description": "DISTURBANCE",
+      "Address": "1500 BLOCK RIDGEWOOD ST",
+      "Response_Date": "2025-11-29T22:35:58"
     }
   ],
-  "timestamp": "2025-11-30T03:13:11.239816+00:00",
-  "count": 6
+  "timestamp": "2025-11-30T04:04:42.858173+00:00",
+  "count": 10
 }
