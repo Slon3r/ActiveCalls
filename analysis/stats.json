@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 338,
-  "total_resolved": 328,
+  "total_calls_tracked": 341,
+  "total_resolved": 329,
   "call_types": {
-    "DIRECTED PATROL": 118,
-    "TRAFFIC STOP": 61,
+    "DIRECTED PATROL": 119,
+    "TRAFFIC STOP": 62,
     "DRUNK DRIVER": 4,
     "DISTURBANCE": 8,
     "BATTERY": 2,
@@ -12,7 +12,7 @@
     "KEEP THE PEACE": 7,
     "WELFARE CHECK": 7,
     "PARK WALK AND TALK": 29,
-    "SUSPICIOUS PERSON": 13,
+    "SUSPICIOUS PERSON": 14,
     "TRESPASS": 7,
     "PROPERTY FOUND/LOST": 2,
     "THEFT": 4,
@@ -156,7 +156,7 @@
     "GULF TO BAY BLVD / S LAKE DR": 1,
     "-400 BLOCK BLK BLANCHE B LITTLEJOHN TRL": 1,
     "2600 BLOCK GULF TO BAY BLVD": 2,
-    "400 BLOCK MANDALAY AVE": 2,
+    "400 BLOCK MANDALAY AVE": 3,
     "-3200 BLOCK 3399 COURTNEY CAMPBELL CSWY": 1,
     "1200 BLOCK GROVE ST": 1,
     "0 BLOCK OLD COACHMAN RD": 1,
@@ -278,7 +278,9 @@
     "S MARTIN LUTHER KING JR AVE / TUSKAWILLA DR": 1,
     "600 BLOCK MCLENNAN ST": 1,
     "1300 BLOCK N MADISON AVE": 1,
-    "-100 BLOCK 218 S GULFVIEW BLVD": 1
+    "-100 BLOCK 218 S GULFVIEW BLVD": 1,
+    "N BELCHER RD / NE COACHMAN RD": 1,
+    "SAMS CLUB": 1
   },
   "hourly_distribution": {
     "0": 14,
@@ -291,7 +293,7 @@
     "7": 13,
     "8": 30,
     "9": 33,
-    "10": 25,
+    "10": 28,
     "11": 14,
     "12": 17,
     "13": 20,
@@ -307,7 +309,7 @@
     "23": 7
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-11-30T15:50:38.119466+00:00",
+  "last_updated": "2025-11-30T15:58:16.795724+00:00",
   "peak_active_calls": 14,
-  "total_snapshots": 127
+  "total_snapshots": 128
 }
