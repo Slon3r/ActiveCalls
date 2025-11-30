@@ -2188,3 +2188,14 @@ TOTAL ACTIVE CALLS: 9
 [NEW] 113025-00382 | DIRECTED PATROL | 1400 BLOCK SUNSET POINT RD | Response: 05:11 PM
 [NEW] 113025-00383 | DIRECTED PATROL | -100 BLOCK 129 ISLAND WAY | Response: 05:12 PM
 [NEW] 113025-00384 | TRAFFIC CRASH | 600 BLOCK S GULFVIEW BLVD | Response: 05:13 PM
+
+================================================================================
+TIMESTAMP: 2025-11-30T22:46:43.131953+00:00
+TOTAL ACTIVE CALLS: 9
+================================================================================
+
+--- NEW CALLS (1) ---
+[NEW] 113025-00388 | TRAFFIC STOP | US HIGHWAY 19 N / DREW ST | Response: 05:24 PM
+
+--- RESOLVED CALLS (1) ---
+[RESOLVED] 113025-00358 | DIRECTED PATROL | 1300 BLOCK CLEVELAND ST | Response: 04:25 PM

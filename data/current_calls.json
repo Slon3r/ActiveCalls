@@ -19,12 +19,6 @@
       "Response_Date": "2025-11-30T16:22:51"
     },
     {
-      "Master_Incident_Number": "113025-00358",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "1300 BLOCK CLEVELAND ST",
-      "Response_Date": "2025-11-30T16:25:19"
-    },
-    {
       "Master_Incident_Number": "113025-00365",
       "Online_Description": "DISTURBANCE",
       "Address": "1900 BLOCK UNION ST",
@@ -53,8 +47,14 @@
       "Online_Description": "TRAFFIC CRASH",
       "Address": "600 BLOCK S GULFVIEW BLVD",
       "Response_Date": "2025-11-30T17:13:48"
+    },
+    {
+      "Master_Incident_Number": "113025-00388",
+      "Online_Description": "TRAFFIC STOP",
+      "Address": "US HIGHWAY 19 N / DREW ST",
+      "Response_Date": "2025-11-30T17:24:32"
     }
   ],
-  "timestamp": "2025-11-30T22:36:56.810213+00:00",
+  "timestamp": "2025-11-30T22:46:43.131953+00:00",
   "count": 9
 }

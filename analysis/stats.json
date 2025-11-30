@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 444,
-  "total_resolved": 435,
+  "total_calls_tracked": 445,
+  "total_resolved": 436,
   "call_types": {
     "DIRECTED PATROL": 155,
-    "TRAFFIC STOP": 78,
+    "TRAFFIC STOP": 79,
     "DRUNK DRIVER": 4,
     "DISTURBANCE": 11,
     "BATTERY": 3,
@@ -49,7 +49,7 @@
     "1000 BLOCK WEST AVE": 1,
     "600 BLOCK S GULFVIEW BLVD": 4,
     "-800 BLOCK 1099 MARSHALL ST": 1,
-    "US HIGHWAY 19 N / DREW ST": 4,
+    "US HIGHWAY 19 N / DREW ST": 5,
     "US HIGHWAY 19 N / SR 590": 1,
     "1100 BLOCK DRUID RD": 1,
     "2100 BLOCK RANGE RD": 1,
@@ -358,7 +358,7 @@
     "14": 35,
     "15": 39,
     "16": 36,
-    "17": 18,
+    "17": 19,
     "18": 7,
     "19": 4,
     "20": 3,
@@ -367,7 +367,7 @@
     "23": 7
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-11-30T22:36:56.815390+00:00",
+  "last_updated": "2025-11-30T22:46:43.137173+00:00",
   "peak_active_calls": 14,
-  "total_snapshots": 156
+  "total_snapshots": 157
 }
