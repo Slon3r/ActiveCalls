@@ -13,6 +13,12 @@
       "Response_Date": "2025-11-29T21:23:06"
     },
     {
+      "Master_Incident_Number": "112925-00587",
+      "Online_Description": "NOISE COMPLAINT",
+      "Address": "2000 BLOCK MADRID CT N",
+      "Response_Date": "2025-11-29T23:09:14"
+    },
+    {
       "Master_Incident_Number": "112925-00589",
       "Online_Description": "DRUNK DRIVER",
       "Address": "3300 BLOCK COURTNEY CAMPBELL CSWY",
@@ -47,20 +53,8 @@
       "Online_Description": "SUSPICIOUS VEHICLE",
       "Address": "300 BLOCK S GULFVIEW BLVD",
       "Response_Date": "2025-11-30T00:20:09"
-    },
-    {
-      "Master_Incident_Number": "113025-00012",
-      "Online_Description": "TRAFFIC STOP",
-      "Address": "MCMULLEN BOOTH RD / DREW ST",
-      "Response_Date": "2025-11-30T00:25:17"
-    },
-    {
-      "Master_Incident_Number": "113025-00013",
-      "Online_Description": "TRAFFIC STOP",
-      "Address": "COURTNEY CAMPBELL CSWY / DR KIRAN C PATEL BLVD",
-      "Response_Date": "2025-11-30T00:25:53"
     }
   ],
-  "timestamp": "2025-11-30T05:48:48.820906+00:00",
-  "count": 10
+  "timestamp": "2025-11-30T05:56:59.918329+00:00",
+  "count": 9
 }

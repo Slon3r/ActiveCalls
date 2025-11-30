@@ -444,6 +444,66 @@
           "Response_Date": "2025-11-30T00:25:53"
         }
       ]
+    },
+    {
+      "timestamp": "2025-11-30T05:56:59.918329+00:00",
+      "call_count": 9,
+      "calls": [
+        {
+          "Master_Incident_Number": "112925-00580",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "200 BLOCK S GLENWOOD AVE",
+          "Response_Date": "2025-11-30T00:24:06.663"
+        },
+        {
+          "Master_Incident_Number": "112925-00530",
+          "Online_Description": "TRAFFIC CRASH",
+          "Address": "GULF TO BAY BLVD / S NIMBUS AVE",
+          "Response_Date": "2025-11-29T21:23:06"
+        },
+        {
+          "Master_Incident_Number": "112925-00587",
+          "Online_Description": "NOISE COMPLAINT",
+          "Address": "2000 BLOCK MADRID CT N",
+          "Response_Date": "2025-11-29T23:09:14"
+        },
+        {
+          "Master_Incident_Number": "112925-00589",
+          "Online_Description": "DRUNK DRIVER",
+          "Address": "3300 BLOCK COURTNEY CAMPBELL CSWY",
+          "Response_Date": "2025-11-29T23:15:27"
+        },
+        {
+          "Master_Incident_Number": "112925-00590",
+          "Online_Description": "DOMESTIC",
+          "Address": "2000 BLOCK PLATEAU RD",
+          "Response_Date": "2025-11-29T23:19:02"
+        },
+        {
+          "Master_Incident_Number": "112925-00599",
+          "Online_Description": "ANIMAL CASE",
+          "Address": "1500 BLOCK EWING AVE",
+          "Response_Date": "2025-11-29T23:50:24"
+        },
+        {
+          "Master_Incident_Number": "113025-00007",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "300 BLOCK S GULFVIEW BLVD",
+          "Response_Date": "2025-11-30T00:17:25"
+        },
+        {
+          "Master_Incident_Number": "113025-00010",
+          "Online_Description": "SUSPICIOUS PERSON",
+          "Address": "600 BLOCK S MARTIN LUTHER KING JR AVE",
+          "Response_Date": "2025-11-30T00:20:06"
+        },
+        {
+          "Master_Incident_Number": "113025-00008",
+          "Online_Description": "SUSPICIOUS VEHICLE",
+          "Address": "300 BLOCK S GULFVIEW BLVD",
+          "Response_Date": "2025-11-30T00:20:09"
+        }
+      ]
     }
   ]
 }

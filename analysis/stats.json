@@ -1,6 +1,6 @@
 {
-  "total_calls_tracked": 254,
-  "total_resolved": 244,
+  "total_calls_tracked": 255,
+  "total_resolved": 246,
   "call_types": {
     "DIRECTED PATROL": 83,
     "TRAFFIC STOP": 52,
@@ -32,7 +32,7 @@
     "JUVENILE CASE": 1,
     "HAZARD": 1,
     "UNKNOWN PROBLEM": 2,
-    "NOISE COMPLAINT": 2,
+    "NOISE COMPLAINT": 3,
     "CIVIL MATTER": 2,
     "DOMESTIC": 2,
     "ANIMAL CASE": 1
@@ -228,7 +228,8 @@
     "-400 BLOCK 498 S GULFVIEW BLVD": 1,
     "1500 BLOCK EWING AVE": 1,
     "600 BLOCK S MARTIN LUTHER KING JR AVE": 1,
-    "MCMULLEN BOOTH RD / DREW ST": 1
+    "MCMULLEN BOOTH RD / DREW ST": 1,
+    "2000 BLOCK MADRID CT N": 1
   },
   "hourly_distribution": {
     "0": 10,
@@ -254,10 +255,10 @@
     "20": 3,
     "21": 4,
     "22": 10,
-    "23": 6
+    "23": 7
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-11-30T05:48:48.822333+00:00",
+  "last_updated": "2025-11-30T05:56:59.919842+00:00",
   "peak_active_calls": 14,
-  "total_snapshots": 85
+  "total_snapshots": 86
 }
