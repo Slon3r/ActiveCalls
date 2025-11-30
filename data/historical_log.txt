@@ -1475,3 +1475,14 @@ TOTAL ACTIVE CALLS: 4
 
 --- NEW CALLS (1) ---
 [NEW] 113025-00083 | DIRECTED PATROL | 0 BLOCK ISLAND WAY | Response: 05:48 AM
+
+================================================================================
+TIMESTAMP: 2025-11-30T11:25:56.161856+00:00
+TOTAL ACTIVE CALLS: 4
+================================================================================
+
+--- NEW CALLS (1) ---
+[NEW] 113025-00075 | 911 HANG-UP | 200 BLOCK N MARS AVE | Response: 05:08 AM
+
+--- RESOLVED CALLS (1) ---
+[RESOLVED] 113025-00036 | BATTERY | 1600 BLOCK GULF TO BAY BLVD | Response: 02:02 AM

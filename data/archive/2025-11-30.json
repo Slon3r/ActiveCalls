@@ -1217,6 +1217,36 @@
           "Response_Date": "2025-11-30T05:48:23"
         }
       ]
+    },
+    {
+      "timestamp": "2025-11-30T11:25:56.161856+00:00",
+      "call_count": 4,
+      "calls": [
+        {
+          "Master_Incident_Number": "113025-00075",
+          "Online_Description": "911 HANG-UP",
+          "Address": "200 BLOCK N MARS AVE",
+          "Response_Date": "2025-11-30T05:08:37"
+        },
+        {
+          "Master_Incident_Number": "113025-00077",
+          "Online_Description": "PARK WALK AND TALK",
+          "Address": "200 BLOCK DREW ST",
+          "Response_Date": "2025-11-30T05:10:22"
+        },
+        {
+          "Master_Incident_Number": "113025-00081",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "-800 BLOCK 818 BAY ESPLANADE",
+          "Response_Date": "2025-11-30T05:26:00"
+        },
+        {
+          "Master_Incident_Number": "113025-00083",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "0 BLOCK ISLAND WAY",
+          "Response_Date": "2025-11-30T05:48:23"
+        }
+      ]
     }
   ]
 }
