@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 391,
-  "total_resolved": 382,
+  "total_calls_tracked": 395,
+  "total_resolved": 385,
   "call_types": {
-    "DIRECTED PATROL": 133,
-    "TRAFFIC STOP": 69,
+    "DIRECTED PATROL": 135,
+    "TRAFFIC STOP": 71,
     "DRUNK DRIVER": 4,
     "DISTURBANCE": 9,
     "BATTERY": 3,
@@ -246,7 +246,7 @@
     "S MISSOURI AVE/COURT ST": 1,
     "1500 BLOCK S MARTIN LUTHER KING JR AVE": 1,
     "3100 BLOCK GULF TO BAY BLVD": 1,
-    "1800 BLOCK N HIGHLAND AVE": 2,
+    "1800 BLOCK N HIGHLAND AVE": 3,
     "BELLEAIR BLVD / US HIGHWAY 19 N": 1,
     "-1200 BLOCK 1353 COURT ST": 1,
     "-500 BLOCK 642 BAY ESPLANADE": 1,
@@ -258,7 +258,7 @@
     "1400 BLOCK N BETTY LN": 1,
     "CLEVELAND ST / S MADISON AVE": 1,
     "900 BLOCK BAY ESPLANADE": 2,
-    "3000 BLOCK EASTLAND BLVD": 1,
+    "3000 BLOCK EASTLAND BLVD": 2,
     "-2300 BLOCK 2373 GULF TO BAY BLVD": 1,
     "1800 BLOCK MONTCLAIR RD": 1,
     "20500 BLOCK US HIGHWAY 19 N": 2,
@@ -310,7 +310,9 @@
     "300 BLOCK N HIGHLAND AVE": 1,
     "2700 BLOCK WINDING WOOD DR": 1,
     "1700 BLOCK GULF TO BAY BLVD": 1,
-    "600 BLOCK SIREN WIND LN": 1
+    "600 BLOCK SIREN WIND LN": 1,
+    "MANDALAY PASS": 1,
+    "GULF TO BAY BLVD / LANDRY AVE": 1
   },
   "hourly_distribution": {
     "0": 14,
@@ -326,8 +328,8 @@
     "10": 36,
     "11": 29,
     "12": 31,
-    "13": 33,
-    "14": 22,
+    "13": 36,
+    "14": 23,
     "15": 23,
     "16": 21,
     "17": 14,
@@ -339,7 +341,7 @@
     "23": 7
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-11-30T19:10:43.432071+00:00",
+  "last_updated": "2025-11-30T19:25:10.631833+00:00",
   "peak_active_calls": 14,
-  "total_snapshots": 140
+  "total_snapshots": 141
 }

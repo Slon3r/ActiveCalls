@@ -19,12 +19,6 @@
       "Response_Date": "2025-11-30T12:21:40"
     },
     {
-      "Master_Incident_Number": "113025-00271",
-      "Online_Description": "911 HANG-UP",
-      "Address": "1400 BLOCK S BELCHER RD",
-      "Response_Date": "2025-11-30T13:14:21"
-    },
-    {
       "Master_Incident_Number": "113025-00285",
       "Online_Description": "SHOPLIFTING",
       "Address": "27000 BLOCK US HIGHWAY 19 N",
@@ -32,7 +26,7 @@
     },
     {
       "Master_Incident_Number": "113025-00284",
-      "Online_Description": "ASSIST CITIZEN",
+      "Online_Description": "TRAFFIC CRASH",
       "Address": "1200 BLOCK GULF BLVD",
       "Response_Date": "2025-11-30T13:38:41"
     },
@@ -43,18 +37,30 @@
       "Response_Date": "2025-11-30T13:40:17"
     },
     {
-      "Master_Incident_Number": "113025-00288",
-      "Online_Description": "SUSPICIOUS PERSON",
-      "Address": "600 BLOCK SIREN WIND LN",
-      "Response_Date": "2025-11-30T13:40:29"
+      "Master_Incident_Number": "113025-00293",
+      "Online_Description": "TRAFFIC STOP",
+      "Address": "1800 BLOCK N HIGHLAND AVE",
+      "Response_Date": "2025-11-30T13:54:31"
     },
     {
-      "Master_Incident_Number": "113025-00289",
-      "Online_Description": "PARK WALK AND TALK",
-      "Address": "1800 BLOCK N HIGHLAND AVE",
-      "Response_Date": "2025-11-30T13:44:14"
+      "Master_Incident_Number": "113025-00294",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "MANDALAY PASS",
+      "Response_Date": "2025-11-30T13:55:53"
+    },
+    {
+      "Master_Incident_Number": "113025-00296",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "3000 BLOCK EASTLAND BLVD",
+      "Response_Date": "2025-11-30T13:57:14"
+    },
+    {
+      "Master_Incident_Number": "113025-00299",
+      "Online_Description": "TRAFFIC STOP",
+      "Address": "GULF TO BAY BLVD / LANDRY AVE",
+      "Response_Date": "2025-11-30T14:03:32"
     }
   ],
-  "timestamp": "2025-11-30T19:10:43.427969+00:00",
-  "count": 9
+  "timestamp": "2025-11-30T19:25:10.627465+00:00",
+  "count": 10
 }
