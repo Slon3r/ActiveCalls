@@ -2193,6 +2193,66 @@
           "Response_Date": "2025-11-30T11:19:56"
         }
       ]
+    },
+    {
+      "timestamp": "2025-11-30T16:53:19.760627+00:00",
+      "call_count": 9,
+      "calls": [
+        {
+          "Master_Incident_Number": "113025-00177",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "2200 BLOCK DREW ST",
+          "Response_Date": "2025-11-30T09:55:24"
+        },
+        {
+          "Master_Incident_Number": "113025-00183",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "20500 BLOCK US HIGHWAY 19 N",
+          "Response_Date": "2025-11-30T10:03:05"
+        },
+        {
+          "Master_Incident_Number": "113025-00184",
+          "Online_Description": "TRESPASS",
+          "Address": "2700 BLOCK GULF TO BAY BLVD",
+          "Response_Date": "2025-11-30T10:03:29"
+        },
+        {
+          "Master_Incident_Number": "113025-00189",
+          "Online_Description": "SUSPICIOUS PERSON",
+          "Address": "600 BLOCK MCLENNAN ST",
+          "Response_Date": "2025-11-30T10:13:00"
+        },
+        {
+          "Master_Incident_Number": "113025-00201",
+          "Online_Description": "DISTURBANCE",
+          "Address": "1200 BLOCK S MISSOURI AVE",
+          "Response_Date": "2025-11-30T10:34:04"
+        },
+        {
+          "Master_Incident_Number": "113025-00213",
+          "Online_Description": "TRAFFIC CRASH",
+          "Address": "N MYRTLE AVE / ELDRIDGE ST",
+          "Response_Date": "2025-11-30T10:49:48"
+        },
+        {
+          "Master_Incident_Number": "113025-00233",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "600 BLOCK OLD COACHMAN RD",
+          "Response_Date": "2025-11-30T11:24:18"
+        },
+        {
+          "Master_Incident_Number": "113025-00234",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "2900 BLOCK DREW ST",
+          "Response_Date": "2025-11-30T11:25:10"
+        },
+        {
+          "Master_Incident_Number": "113025-00235",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "DREW ST / PINEWOOD AVE",
+          "Response_Date": "2025-11-30T11:30:25"
+        }
+      ]
     }
   ]
 }

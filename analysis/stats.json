@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 353,
-  "total_resolved": 340,
+  "total_calls_tracked": 356,
+  "total_resolved": 347,
   "call_types": {
-    "DIRECTED PATROL": 123,
-    "TRAFFIC STOP": 65,
+    "DIRECTED PATROL": 125,
+    "TRAFFIC STOP": 66,
     "DRUNK DRIVER": 4,
     "DISTURBANCE": 9,
     "BATTERY": 2,
@@ -93,7 +93,7 @@
     "CLEVELAND ST/S MADISON AVE": 1,
     "2700 BLOCK GULF TO BAY BLVD": 3,
     "1400 BLOCK N HIBISCUS ST": 1,
-    "2900 BLOCK DREW ST": 1,
+    "2900 BLOCK DREW ST": 2,
     "21200 BLOCK US HIGHWAY 19 N": 1,
     "1700 BLOCK SUNSET POINT RD": 1,
     "2300 BLOCK GULF TO BAY BLVD": 1,
@@ -289,7 +289,9 @@
     "26500 BLOCK US HIGHWAY 19 N": 1,
     "600 BLOCK DREW ST": 1,
     "200 BLOCK DOLPHIN PT": 1,
-    "DEVON DR  / CORONADO DR": 1
+    "DEVON DR  / CORONADO DR": 1,
+    "600 BLOCK OLD COACHMAN RD": 1,
+    "DREW ST / PINEWOOD AVE": 1
   },
   "hourly_distribution": {
     "0": 14,
@@ -303,7 +305,7 @@
     "8": 30,
     "9": 33,
     "10": 34,
-    "11": 20,
+    "11": 23,
     "12": 17,
     "13": 20,
     "14": 22,
@@ -318,7 +320,7 @@
     "23": 7
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-11-30T16:43:40.463682+00:00",
+  "last_updated": "2025-11-30T16:53:19.764107+00:00",
   "peak_active_calls": 14,
-  "total_snapshots": 130
+  "total_snapshots": 131
 }
