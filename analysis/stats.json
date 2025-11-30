@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 448,
-  "total_resolved": 438,
+  "total_calls_tracked": 452,
+  "total_resolved": 445,
   "call_types": {
     "DIRECTED PATROL": 155,
-    "TRAFFIC STOP": 79,
+    "TRAFFIC STOP": 80,
     "DRUNK DRIVER": 4,
     "DISTURBANCE": 11,
     "BATTERY": 3,
@@ -13,10 +13,10 @@
     "WELFARE CHECK": 10,
     "PARK WALK AND TALK": 37,
     "SUSPICIOUS PERSON": 17,
-    "TRESPASS": 9,
+    "TRESPASS": 10,
     "PROPERTY FOUND/LOST": 4,
     "THEFT": 4,
-    "NEIGHBOR CALL": 3,
+    "NEIGHBOR CALL": 4,
     "911 HANG-UP": 15,
     "SUSPICIOUS VEHICLE": 6,
     "PANHANDLER/SOLICITOR": 1,
@@ -39,7 +39,8 @@
     "MISSING PERSON": 3,
     "BUILDING CHECK": 1,
     "SHOPLIFTING": 2,
-    "DECEASED PERSON": 1
+    "DECEASED PERSON": 1,
+    "BURGLARY": 1
   },
   "addresses": {
     "MEMORIAL CSWY / ISLAND WAY": 11,
@@ -49,7 +50,7 @@
     "1000 BLOCK WEST AVE": 1,
     "600 BLOCK S GULFVIEW BLVD": 4,
     "-800 BLOCK 1099 MARSHALL ST": 1,
-    "US HIGHWAY 19 N / DREW ST": 5,
+    "US HIGHWAY 19 N / DREW ST": 6,
     "US HIGHWAY 19 N / SR 590": 1,
     "1100 BLOCK DRUID RD": 1,
     "2100 BLOCK RANGE RD": 1,
@@ -101,7 +102,7 @@
     "2300 BLOCK GULF TO BAY BLVD": 1,
     "1200 BLOCK CLEVELAND ST": 5,
     "-500 BLOCK 549 MANDALAY AVE": 1,
-    "27000 BLOCK US HIGHWAY 19 N": 5,
+    "27000 BLOCK US HIGHWAY 19 N": 6,
     "DRIVEWAY PARKING": 1,
     "1100 BLOCK GULF BLVD": 2,
     "2500 BLOCK GULF TO BAY BLVD": 3,
@@ -339,7 +340,9 @@
     "GULF TO BAY BLVD / BYPASS DR": 1,
     "1800 BLOCK N BELCHER RD": 1,
     "-100 BLOCK 129 ISLAND WAY": 1,
-    "2300 BLOCK GLENMOOR RD N": 1
+    "2300 BLOCK GLENMOOR RD N": 1,
+    "1100 BLOCK GRANADA ST": 1,
+    "1400 BLOCK FRANKLIN ST": 1
   },
   "hourly_distribution": {
     "0": 14,
@@ -359,8 +362,8 @@
     "14": 35,
     "15": 39,
     "16": 36,
-    "17": 22,
-    "18": 7,
+    "17": 25,
+    "18": 8,
     "19": 4,
     "20": 3,
     "21": 4,
@@ -368,7 +371,7 @@
     "23": 7
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-11-30T23:11:45.240739+00:00",
+  "last_updated": "2025-11-30T23:29:21.641797+00:00",
   "peak_active_calls": 14,
-  "total_snapshots": 159
+  "total_snapshots": 160
 }

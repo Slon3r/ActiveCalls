@@ -3991,6 +3991,54 @@
           "Response_Date": "2025-11-30T17:31:23"
         }
       ]
+    },
+    {
+      "timestamp": "2025-11-30T23:29:21.636225+00:00",
+      "call_count": 7,
+      "calls": [
+        {
+          "Master_Incident_Number": "113025-00350",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "300 BLOCK CLEVELAND ST",
+          "Response_Date": "2025-11-30T16:13:09"
+        },
+        {
+          "Master_Incident_Number": "113025-00365",
+          "Online_Description": "DISTURBANCE",
+          "Address": "1900 BLOCK UNION ST",
+          "Response_Date": "2025-11-30T16:29:53"
+        },
+        {
+          "Master_Incident_Number": "113025-00384",
+          "Online_Description": "TRAFFIC CRASH",
+          "Address": "600 BLOCK S GULFVIEW BLVD",
+          "Response_Date": "2025-11-30T17:13:48"
+        },
+        {
+          "Master_Incident_Number": "113025-00387",
+          "Online_Description": "NEIGHBOR CALL",
+          "Address": "1100 BLOCK GRANADA ST",
+          "Response_Date": "2025-11-30T17:22:26"
+        },
+        {
+          "Master_Incident_Number": "113025-00393",
+          "Online_Description": "BURGLARY",
+          "Address": "1400 BLOCK FRANKLIN ST",
+          "Response_Date": "2025-11-30T17:30:56"
+        },
+        {
+          "Master_Incident_Number": "113025-00406",
+          "Online_Description": "TRESPASS",
+          "Address": "27000 BLOCK US HIGHWAY 19 N",
+          "Response_Date": "2025-11-30T17:56:04"
+        },
+        {
+          "Master_Incident_Number": "113025-00410",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "US HIGHWAY 19 N / DREW ST",
+          "Response_Date": "2025-11-30T18:04:12"
+        }
+      ]
     }
   ]
 }
