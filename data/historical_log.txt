@@ -1396,3 +1396,11 @@ TOTAL ACTIVE CALLS: 4
 [RESOLVED] 113025-00032 | DRUNK DRIVER | -3400 BLOCK BLK COURTNEY CAMPBELL CSWY | Response: 01:48 AM
 [RESOLVED] 113025-00056 | DIRECTED PATROL | S MISSOURI AVE / COURT ST | Response: 03:25 AM
 [RESOLVED] 113025-00060 | TRAFFIC STOP | 3100 BLOCK GULF TO BAY BLVD | Response: 03:32 AM
+
+================================================================================
+TIMESTAMP: 2025-11-30T09:35:02.570816+00:00
+TOTAL ACTIVE CALLS: 3
+================================================================================
+
+--- RESOLVED CALLS (1) ---
+[RESOLVED] 113025-00062 | DIRECTED PATROL | 1800 BLOCK N HIGHLAND AVE | Response: 03:54 AM

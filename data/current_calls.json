@@ -2,7 +2,7 @@
   "calls": [
     {
       "Master_Incident_Number": "113025-00036",
-      "Online_Description": "THEFT",
+      "Online_Description": "BATTERY",
       "Address": "1600 BLOCK GULF TO BAY BLVD",
       "Response_Date": "2025-11-30T02:02:17"
     },
@@ -13,18 +13,12 @@
       "Response_Date": "2025-11-30T03:14:15"
     },
     {
-      "Master_Incident_Number": "113025-00062",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "1800 BLOCK N HIGHLAND AVE",
-      "Response_Date": "2025-11-30T03:54:13"
-    },
-    {
       "Master_Incident_Number": "113025-00064",
       "Online_Description": "DIRECTED PATROL",
       "Address": "BELLEAIR BLVD / US HIGHWAY 19 N",
       "Response_Date": "2025-11-30T04:02:17"
     }
   ],
-  "timestamp": "2025-11-30T09:23:31.592701+00:00",
-  "count": 4
+  "timestamp": "2025-11-30T09:35:02.570816+00:00",
+  "count": 3
 }
