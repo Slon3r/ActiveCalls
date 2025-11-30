@@ -31,12 +31,6 @@
       "Response_Date": "2025-11-30T17:30:56"
     },
     {
-      "Master_Incident_Number": "113025-00422",
-      "Online_Description": "SHOTS FIRED",
-      "Address": "500 BLOCK MOSS AVE",
-      "Response_Date": "2025-11-30T18:24:09"
-    },
-    {
       "Master_Incident_Number": "113025-00421",
       "Online_Description": "PARK WALK AND TALK",
       "Address": "-1000 BLOCK 1170 GULF BLVD",
@@ -45,10 +39,28 @@
     {
       "Master_Incident_Number": "113025-00423",
       "Online_Description": "PARK WALK AND TALK",
-      "Address": "27000 BLOCK US 19",
+      "Address": "27000 BLOCK US HIGHWAY 19 N",
       "Response_Date": "2025-11-30T18:28:48"
+    },
+    {
+      "Master_Incident_Number": "113025-00424",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "-1100 BLOCK 1582 GULF BLVD",
+      "Response_Date": "2025-11-30T18:29:33"
+    },
+    {
+      "Master_Incident_Number": "113025-00425",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "500 BLOCK N BETTY LN",
+      "Response_Date": "2025-11-30T18:32:43"
+    },
+    {
+      "Master_Incident_Number": "113025-00426",
+      "Online_Description": "TRAFFIC STOP",
+      "Address": "1300 BLOCK GULF BLVD",
+      "Response_Date": "2025-11-30T18:33:55"
     }
   ],
-  "timestamp": "2025-11-30T23:49:21.829780+00:00",
-  "count": 8
+  "timestamp": "2025-11-30T23:57:37.830388+00:00",
+  "count": 10
 }
