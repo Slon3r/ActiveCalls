@@ -31,30 +31,30 @@
       "Response_Date": "2025-11-30T15:33:36"
     },
     {
-      "Master_Incident_Number": "113025-00342",
-      "Online_Description": "JUVENILE CASE",
-      "Address": "300 BLOCK S GULFVIEW BLVD",
-      "Response_Date": "2025-11-30T15:49:08"
-    },
-    {
-      "Master_Incident_Number": "113025-00343",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "NE CLEVELAND ST / GROVE ST",
-      "Response_Date": "2025-11-30T15:55:34"
-    },
-    {
       "Master_Incident_Number": "113025-00344",
       "Online_Description": "TRAFFIC CRASH",
       "Address": "18400 BLOCK US HIGHWAY 19 N",
       "Response_Date": "2025-11-30T15:55:45"
     },
     {
-      "Master_Incident_Number": "113025-00349",
-      "Online_Description": "TRAFFIC STOP",
-      "Address": "MCMULLEN BOOTH RD / MARSHALL ST",
-      "Response_Date": "2025-11-30T16:08:31"
+      "Master_Incident_Number": "113025-00350",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "300 BLOCK CLEVELAND ST",
+      "Response_Date": "2025-11-30T16:13:09"
+    },
+    {
+      "Master_Incident_Number": "113025-00355",
+      "Online_Description": "TRESPASS",
+      "Address": "200 BLOCK PIERCE ST",
+      "Response_Date": "2025-11-30T16:18:18"
+    },
+    {
+      "Master_Incident_Number": "113025-00356",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "MEMORIAL CSWY",
+      "Response_Date": "2025-11-30T16:19:51"
     }
   ],
-  "timestamp": "2025-11-30T21:31:06.247286+00:00",
+  "timestamp": "2025-11-30T21:41:37.637835+00:00",
   "count": 9
 }

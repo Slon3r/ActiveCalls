@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 426,
-  "total_resolved": 417,
+  "total_calls_tracked": 429,
+  "total_resolved": 420,
   "call_types": {
-    "DIRECTED PATROL": 145,
+    "DIRECTED PATROL": 147,
     "TRAFFIC STOP": 75,
     "DRUNK DRIVER": 4,
     "DISTURBANCE": 10,
@@ -13,7 +13,7 @@
     "WELFARE CHECK": 10,
     "PARK WALK AND TALK": 37,
     "SUSPICIOUS PERSON": 17,
-    "TRESPASS": 7,
+    "TRESPASS": 8,
     "PROPERTY FOUND/LOST": 4,
     "THEFT": 4,
     "NEIGHBOR CALL": 2,
@@ -118,7 +118,7 @@
     "COUNTRYSIDE BLVD / NORTHRIDGE DR": 1,
     "NE COACHMAN RD / US HIGHWAY 19 N": 2,
     "LOTUS PATH / BAY AVE": 1,
-    "MEMORIAL CSWY": 2,
+    "MEMORIAL CSWY": 3,
     "1300 BLOCK ADMIRAL WOODSON LN": 1,
     "DREW ST / N SATURN AVE": 2,
     "GULF TO BAY BLVD / THORTON RD": 1,
@@ -154,7 +154,7 @@
     "FIFTH ST & HAMDEN DR": 1,
     "FIFTH ST / HAMDEN DR": 1,
     "E WORLD PARKWAY BLVD / BELCHER RD": 1,
-    "300 BLOCK CLEVELAND ST": 1,
+    "300 BLOCK CLEVELAND ST": 2,
     "GULF TO BAY BLVD / S LAKE DR": 1,
     "-400 BLOCK BLK BLANCHE B LITTLEJOHN TRL": 1,
     "2600 BLOCK GULF TO BAY BLVD": 2,
@@ -334,7 +334,8 @@
     "2500 BLOCK NE COACHMAN RD": 1,
     "NE CLEVELAND ST / GROVE ST": 1,
     "18400 BLOCK US HIGHWAY 19 N": 1,
-    "MCMULLEN BOOTH RD / MARSHALL ST": 1
+    "MCMULLEN BOOTH RD / MARSHALL ST": 1,
+    "200 BLOCK PIERCE ST": 1
   },
   "hourly_distribution": {
     "0": 14,
@@ -353,7 +354,7 @@
     "13": 37,
     "14": 35,
     "15": 39,
-    "16": 22,
+    "16": 25,
     "17": 14,
     "18": 7,
     "19": 4,
@@ -363,7 +364,7 @@
     "23": 7
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-11-30T21:31:06.252071+00:00",
+  "last_updated": "2025-11-30T21:41:37.642730+00:00",
   "peak_active_calls": 14,
-  "total_snapshots": 151
+  "total_snapshots": 152
 }
