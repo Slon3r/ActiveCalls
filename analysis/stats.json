@@ -1,6 +1,6 @@
 {
-  "total_calls_tracked": 299,
-  "total_resolved": 296,
+  "total_calls_tracked": 300,
+  "total_resolved": 297,
   "call_types": {
     "DIRECTED PATROL": 100,
     "TRAFFIC STOP": 56,
@@ -17,7 +17,7 @@
     "PROPERTY FOUND/LOST": 2,
     "THEFT": 4,
     "NEIGHBOR CALL": 1,
-    "911 HANG-UP": 5,
+    "911 HANG-UP": 6,
     "SUSPICIOUS VEHICLE": 6,
     "PANHANDLER/SOLICITOR": 1,
     "VEHICLE ILLEGALLY PARKED": 2,
@@ -255,7 +255,8 @@
     "-200 BLOCK 298 WINDWARD PSGE": 1,
     "2600 BLOCK LANDMARK DR": 1,
     "1400 BLOCK N BETTY LN": 1,
-    "CLEVELAND ST / S MADISON AVE": 1
+    "CLEVELAND ST / S MADISON AVE": 1,
+    "900 BLOCK BAY ESPLANADE": 1
   },
   "hourly_distribution": {
     "0": 14,
@@ -266,7 +267,7 @@
     "5": 12,
     "6": 10,
     "7": 13,
-    "8": 19,
+    "8": 20,
     "9": 14,
     "10": 16,
     "11": 14,
@@ -284,7 +285,7 @@
     "23": 7
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-11-30T13:15:32.565851+00:00",
+  "last_updated": "2025-11-30T13:36:45.367095+00:00",
   "peak_active_calls": 14,
-  "total_snapshots": 115
+  "total_snapshots": 116
 }
