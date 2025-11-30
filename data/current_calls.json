@@ -25,12 +25,6 @@
       "Response_Date": "2025-11-30T15:21:33"
     },
     {
-      "Master_Incident_Number": "113025-00338",
-      "Online_Description": "WELFARE CHECK",
-      "Address": "2500 BLOCK NE COACHMAN RD",
-      "Response_Date": "2025-11-30T15:33:36"
-    },
-    {
       "Master_Incident_Number": "113025-00344",
       "Online_Description": "TRAFFIC CRASH",
       "Address": "18400 BLOCK US HIGHWAY 19 N",
@@ -53,8 +47,44 @@
       "Online_Description": "DIRECTED PATROL",
       "Address": "MEMORIAL CSWY",
       "Response_Date": "2025-11-30T16:19:51"
+    },
+    {
+      "Master_Incident_Number": "113025-00357",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "MEMORIAL CSWY",
+      "Response_Date": "2025-11-30T16:22:51"
+    },
+    {
+      "Master_Incident_Number": "113025-00358",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "1300 BLOCK CLEVELAND ST",
+      "Response_Date": "2025-11-30T16:25:19"
+    },
+    {
+      "Master_Incident_Number": "113025-00359",
+      "Online_Description": "TRAFFIC STOP",
+      "Address": "0 BLOCK MEMORIAL CSWY",
+      "Response_Date": "2025-11-30T16:25:55"
+    },
+    {
+      "Master_Incident_Number": "113025-00360",
+      "Online_Description": "TRAFFIC STOP",
+      "Address": "0 BLOCK MEMORIAL CSWY",
+      "Response_Date": "2025-11-30T16:26:22"
+    },
+    {
+      "Master_Incident_Number": "113025-00361",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "1000 BLOCK GULF BLVD",
+      "Response_Date": "2025-11-30T16:27:06"
+    },
+    {
+      "Master_Incident_Number": "113025-00362",
+      "Online_Description": "TRAFFIC STOP",
+      "Address": "DEVON DR  / CORONADO DR",
+      "Response_Date": "2025-11-30T16:27:25"
     }
   ],
-  "timestamp": "2025-11-30T21:41:37.637835+00:00",
-  "count": 9
+  "timestamp": "2025-11-30T21:49:45.663090+00:00",
+  "count": 14
 }
