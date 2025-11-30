@@ -31,18 +31,42 @@
       "Response_Date": "2025-11-30T08:56:37"
     },
     {
-      "Master_Incident_Number": "113025-00143",
+      "Master_Incident_Number": "113025-00150",
       "Online_Description": "DIRECTED PATROL",
-      "Address": "2100 BLOCK GULF TO BAY BLVD",
-      "Response_Date": "2025-11-30T08:59:35"
+      "Address": "2400 BLOCK COUNTRYSIDE BLVD",
+      "Response_Date": "2025-11-30T09:11:23"
     },
     {
-      "Master_Incident_Number": "113025-00146",
+      "Master_Incident_Number": "113025-00152",
+      "Online_Description": "TRAFFIC CRASH",
+      "Address": "COURT ST / S MISSOURI AVE",
+      "Response_Date": "2025-11-30T09:11:27"
+    },
+    {
+      "Master_Incident_Number": "113025-00156",
       "Online_Description": "DIRECTED PATROL",
-      "Address": "-1100 BLOCK 1582 GULF BLVD",
-      "Response_Date": "2025-11-30T09:01:03"
+      "Address": "-500 BLOCK 1068 GULF BLVD",
+      "Response_Date": "2025-11-30T09:15:26"
+    },
+    {
+      "Master_Incident_Number": "113025-00157",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "26300 BLOCK US HIGHWAY 19 N",
+      "Response_Date": "2025-11-30T09:16:10"
+    },
+    {
+      "Master_Incident_Number": "113025-00158",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "1300 BLOCK S BELCHER RD",
+      "Response_Date": "2025-11-30T09:16:12"
+    },
+    {
+      "Master_Incident_Number": "113025-00160",
+      "Online_Description": "TRAFFIC STOP",
+      "Address": "DREW ST / BAYVIEW AVE",
+      "Response_Date": "2025-11-30T09:19:09"
     }
   ],
-  "timestamp": "2025-11-30T14:30:55.354920+00:00",
-  "count": 7
+  "timestamp": "2025-11-30T14:43:14.027099+00:00",
+  "count": 11
 }

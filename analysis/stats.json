@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 311,
-  "total_resolved": 304,
+  "total_calls_tracked": 317,
+  "total_resolved": 306,
   "call_types": {
-    "DIRECTED PATROL": 108,
-    "TRAFFIC STOP": 56,
+    "DIRECTED PATROL": 112,
+    "TRAFFIC STOP": 57,
     "DRUNK DRIVER": 4,
     "DISTURBANCE": 8,
     "BATTERY": 1,
@@ -22,7 +22,7 @@
     "PANHANDLER/SOLICITOR": 1,
     "VEHICLE ILLEGALLY PARKED": 2,
     "SUSPICIOUS EVENT": 4,
-    "TRAFFIC CRASH": 7,
+    "TRAFFIC CRASH": 8,
     "DISABLED VEHICLE": 4,
     "ASSIST CITIZEN": 5,
     "ASSIST OTHER AGENCY": 3,
@@ -64,7 +64,7 @@
     "400 BLOCK FAIRWOOD AVE": 3,
     "500 BLOCK S FORT HARRISON AVE": 2,
     "26000 BLOCK US HIGHWAY 19 N": 2,
-    "1300 BLOCK S BELCHER RD": 1,
+    "1300 BLOCK S BELCHER RD": 2,
     "200 BLOCK WINDWARD PSGE": 3,
     "2700 BLOCK DREW ST": 1,
     "FLUSHING AVE / HARN BLVD": 1,
@@ -122,7 +122,7 @@
     "GULF TO BAY BLVD / THORTON RD": 1,
     "COUNTRYSIDE BLVD / ENDICOTT CT": 1,
     "3000 BLOCK DREW ST": 1,
-    "2400 BLOCK COUNTRYSIDE BLVD": 1,
+    "2400 BLOCK COUNTRYSIDE BLVD": 2,
     "1200 BLOCK S MISSOURI AVE": 1,
     "2000 BLOCK N HIGHLAND AVE": 2,
     "N DUNCAN AVE / DREW ST": 1,
@@ -261,7 +261,11 @@
     "-2300 BLOCK 2373 GULF TO BAY BLVD": 1,
     "1800 BLOCK MONTCLAIR RD": 1,
     "20500 BLOCK US HIGHWAY 19 N": 2,
-    "200 BLOCK LARBOARD WAY": 1
+    "200 BLOCK LARBOARD WAY": 1,
+    "COURT ST / S MISSOURI AVE": 1,
+    "-500 BLOCK 1068 GULF BLVD": 1,
+    "26300 BLOCK US HIGHWAY 19 N": 1,
+    "DREW ST / BAYVIEW AVE": 1
   },
   "hourly_distribution": {
     "0": 14,
@@ -273,7 +277,7 @@
     "6": 10,
     "7": 13,
     "8": 30,
-    "9": 15,
+    "9": 21,
     "10": 16,
     "11": 14,
     "12": 17,
@@ -290,7 +294,7 @@
     "23": 7
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-11-30T14:30:55.357622+00:00",
+  "last_updated": "2025-11-30T14:43:14.029914+00:00",
   "peak_active_calls": 14,
-  "total_snapshots": 120
+  "total_snapshots": 121
 }
