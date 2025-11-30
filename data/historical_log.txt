@@ -1259,3 +1259,11 @@ TOTAL ACTIVE CALLS: 6
 --- RESOLVED CALLS (2) ---
 [RESOLVED] 113025-00019 | DIRECTED PATROL | MEMORIAL CSWY | Response: 12:48 AM
 [RESOLVED] 113025-00023 | PARK WALK AND TALK | 800 BLOCK S MISSOURI AVE | Response: 01:01 AM
+
+================================================================================
+TIMESTAMP: 2025-11-30T06:58:57.519180+00:00
+TOTAL ACTIVE CALLS: 7
+================================================================================
+
+--- NEW CALLS (1) ---
+[NEW] 113025-00029 | NOISE COMPLAINT | 0 BLOCK BAYMONT ST | Response: 01:31 AM

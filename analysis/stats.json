@@ -1,5 +1,5 @@
 {
-  "total_calls_tracked": 261,
+  "total_calls_tracked": 262,
   "total_resolved": 255,
   "call_types": {
     "DIRECTED PATROL": 85,
@@ -32,7 +32,7 @@
     "JUVENILE CASE": 1,
     "HAZARD": 1,
     "UNKNOWN PROBLEM": 2,
-    "NOISE COMPLAINT": 3,
+    "NOISE COMPLAINT": 4,
     "CIVIL MATTER": 2,
     "DOMESTIC": 3,
     "ANIMAL CASE": 1,
@@ -234,11 +234,12 @@
     "BAYSIDE BRG / BAYSIDE BRG SERVICE RD": 1,
     "800 BLOCK S MISSOURI AVE": 1,
     "-500 BLOCK 699 S GULFVIEW BLVD": 1,
-    "1000 BLOCK MARSHALL ST": 1
+    "1000 BLOCK MARSHALL ST": 1,
+    "0 BLOCK BAYMONT ST": 1
   },
   "hourly_distribution": {
     "0": 13,
-    "1": 6,
+    "1": 7,
     "2": 3,
     "3": 4,
     "4": 0,
@@ -263,7 +264,7 @@
     "23": 7
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-11-30T06:50:50.288015+00:00",
+  "last_updated": "2025-11-30T06:58:57.520809+00:00",
   "peak_active_calls": 14,
-  "total_snapshots": 88
+  "total_snapshots": 89
 }
