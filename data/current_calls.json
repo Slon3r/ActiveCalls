@@ -49,18 +49,6 @@
       "Response_Date": "2025-11-30T12:21:40"
     },
     {
-      "Master_Incident_Number": "113025-00253",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "900 BLOCK N MCMULLEN BOOTH RD",
-      "Response_Date": "2025-11-30T12:22:35"
-    },
-    {
-      "Master_Incident_Number": "113025-00254",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "2400 BLOCK COUNTRYSIDE BLVD",
-      "Response_Date": "2025-11-30T12:23:22"
-    },
-    {
       "Master_Incident_Number": "113025-00255",
       "Online_Description": "PARK WALK AND TALK",
       "Address": "0 BLOCK 98 THIRD ST",
@@ -71,8 +59,20 @@
       "Online_Description": "PARK WALK AND TALK",
       "Address": "0 BLOCK 98 THIRD ST",
       "Response_Date": "2025-11-30T12:25:32"
+    },
+    {
+      "Master_Incident_Number": "113025-00260",
+      "Online_Description": "TRAFFIC STOP",
+      "Address": "GULF TO BAY BLVD / S GLENWOOD AVE",
+      "Response_Date": "2025-11-30T12:29:00"
+    },
+    {
+      "Master_Incident_Number": "113025-00261",
+      "Online_Description": "CIVIL MATTER",
+      "Address": "300 BLOCK ISLAND WAY",
+      "Response_Date": "2025-11-30T12:30:37"
     }
   ],
-  "timestamp": "2025-11-30T17:48:18.990341+00:00",
+  "timestamp": "2025-11-30T17:56:21.938592+00:00",
   "count": 12
 }

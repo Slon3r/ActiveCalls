@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 372,
-  "total_resolved": 360,
+  "total_calls_tracked": 374,
+  "total_resolved": 362,
   "call_types": {
     "DIRECTED PATROL": 130,
-    "TRAFFIC STOP": 67,
+    "TRAFFIC STOP": 68,
     "DRUNK DRIVER": 4,
     "DISTURBANCE": 9,
     "BATTERY": 3,
@@ -33,7 +33,7 @@
     "HAZARD": 1,
     "UNKNOWN PROBLEM": 2,
     "NOISE COMPLAINT": 4,
-    "CIVIL MATTER": 3,
+    "CIVIL MATTER": 4,
     "DOMESTIC": 3,
     "ANIMAL CASE": 1,
     "MISSING PERSON": 3,
@@ -297,7 +297,9 @@
     "1200 BLOCK S HIGHLAND AVE": 1,
     "1200 BLOCK TURNER ST": 1,
     "THIRD ST / CORONADO DR": 1,
-    "900 BLOCK N MCMULLEN BOOTH RD": 1
+    "900 BLOCK N MCMULLEN BOOTH RD": 1,
+    "GULF TO BAY BLVD / S GLENWOOD AVE": 1,
+    "300 BLOCK ISLAND WAY": 1
   },
   "hourly_distribution": {
     "0": 14,
@@ -312,7 +314,7 @@
     "9": 33,
     "10": 36,
     "11": 29,
-    "12": 25,
+    "12": 27,
     "13": 20,
     "14": 22,
     "15": 23,
@@ -326,7 +328,7 @@
     "23": 7
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-11-30T17:48:18.994020+00:00",
+  "last_updated": "2025-11-30T17:56:21.942403+00:00",
   "peak_active_calls": 14,
-  "total_snapshots": 135
+  "total_snapshots": 136
 }

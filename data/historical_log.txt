@@ -1860,3 +1860,16 @@ TOTAL ACTIVE CALLS: 12
 
 --- RESOLVED CALLS (1) ---
 [RESOLVED] 113025-00243 | 911 HANG-UP | 1200 BLOCK TURNER ST | Response: 11:54 AM
+
+================================================================================
+TIMESTAMP: 2025-11-30T17:56:21.938592+00:00
+TOTAL ACTIVE CALLS: 12
+================================================================================
+
+--- NEW CALLS (2) ---
+[NEW] 113025-00260 | TRAFFIC STOP | GULF TO BAY BLVD / S GLENWOOD AVE | Response: 12:29 PM
+[NEW] 113025-00261 | CIVIL MATTER | 300 BLOCK ISLAND WAY | Response: 12:30 PM
+
+--- RESOLVED CALLS (2) ---
+[RESOLVED] 113025-00253 | DIRECTED PATROL | 900 BLOCK N MCMULLEN BOOTH RD | Response: 12:22 PM
+[RESOLVED] 113025-00254 | DIRECTED PATROL | 2400 BLOCK COUNTRYSIDE BLVD | Response: 12:23 PM
