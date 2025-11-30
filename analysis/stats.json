@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 317,
-  "total_resolved": 306,
+  "total_calls_tracked": 318,
+  "total_resolved": 311,
   "call_types": {
-    "DIRECTED PATROL": 112,
+    "DIRECTED PATROL": 113,
     "TRAFFIC STOP": 57,
     "DRUNK DRIVER": 4,
     "DISTURBANCE": 8,
@@ -265,7 +265,8 @@
     "COURT ST / S MISSOURI AVE": 1,
     "-500 BLOCK 1068 GULF BLVD": 1,
     "26300 BLOCK US HIGHWAY 19 N": 1,
-    "DREW ST / BAYVIEW AVE": 1
+    "DREW ST / BAYVIEW AVE": 1,
+    "2800 BLOCK APPLEWOOD DRIVE": 1
   },
   "hourly_distribution": {
     "0": 14,
@@ -277,7 +278,7 @@
     "6": 10,
     "7": 13,
     "8": 30,
-    "9": 21,
+    "9": 22,
     "10": 16,
     "11": 14,
     "12": 17,
@@ -294,7 +295,7 @@
     "23": 7
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-11-30T14:43:14.029914+00:00",
+  "last_updated": "2025-11-30T14:51:18.308607+00:00",
   "peak_active_calls": 14,
-  "total_snapshots": 121
+  "total_snapshots": 122
 }
