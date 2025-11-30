@@ -1,6 +1,6 @@
 {
-  "total_calls_tracked": 266,
-  "total_resolved": 259,
+  "total_calls_tracked": 267,
+  "total_resolved": 260,
   "call_types": {
     "DIRECTED PATROL": 85,
     "TRAFFIC STOP": 54,
@@ -10,7 +10,7 @@
     "CRIMINAL MISCHIEF": 1,
     "ALARM": 6,
     "KEEP THE PEACE": 7,
-    "WELFARE CHECK": 5,
+    "WELFARE CHECK": 6,
     "PARK WALK AND TALK": 24,
     "SUSPICIOUS PERSON": 10,
     "TRESPASS": 6,
@@ -238,12 +238,13 @@
     "0 BLOCK BAYMONT ST": 1,
     "1500 BLOCK ROSEMERE RD": 1,
     "-3400 BLOCK BLK COURTNEY CAMPBELL CSWY": 1,
-    "500 BLOCK S GULFVIEW BLVD": 1
+    "500 BLOCK S GULFVIEW BLVD": 1,
+    "S FORT HARRISON AVE / PINELLAS ST": 1
   },
   "hourly_distribution": {
     "0": 13,
     "1": 10,
-    "2": 4,
+    "2": 5,
     "3": 4,
     "4": 0,
     "5": 6,
@@ -267,7 +268,7 @@
     "23": 7
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-11-30T07:30:54.137719+00:00",
+  "last_updated": "2025-11-30T07:39:49.796549+00:00",
   "peak_active_calls": 14,
-  "total_snapshots": 91
+  "total_snapshots": 92
 }

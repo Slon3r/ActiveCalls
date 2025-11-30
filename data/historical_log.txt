@@ -1291,3 +1291,14 @@ TOTAL ACTIVE CALLS: 7
 
 --- NEW CALLS (1) ---
 [NEW] 113025-00036 | THEFT | 1600 BLOCK GULF TO BAY BLVD | Response: 02:02 AM
+
+================================================================================
+TIMESTAMP: 2025-11-30T07:39:49.794880+00:00
+TOTAL ACTIVE CALLS: 7
+================================================================================
+
+--- NEW CALLS (1) ---
+[NEW] 113025-00038 | WELFARE CHECK | S FORT HARRISON AVE / PINELLAS ST | Response: 02:10 AM
+
+--- RESOLVED CALLS (1) ---
+[RESOLVED] 112925-00530 | TRAFFIC CRASH | GULF TO BAY BLVD / S NIMBUS AVE | Response: 09:23 PM
