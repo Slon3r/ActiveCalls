@@ -1439,3 +1439,12 @@ TOTAL ACTIVE CALLS: 2
 --- RESOLVED CALLS (2) ---
 [RESOLVED] 113025-00064 | DIRECTED PATROL | BELLEAIR BLVD / US HIGHWAY 19 N | Response: 04:02 AM
 [RESOLVED] 113025-00068 | DIRECTED PATROL | -1200 BLOCK 1353 COURT ST | Response: 04:37 AM
+
+================================================================================
+TIMESTAMP: 2025-11-30T10:39:46.319915+00:00
+TOTAL ACTIVE CALLS: 4
+================================================================================
+
+--- NEW CALLS (2) ---
+[NEW] 113025-00077 | PARK WALK AND TALK | 200 BLOCK DREW ST | Response: 05:10 AM
+[NEW] 113025-00080 | DIRECTED PATROL | -500 BLOCK 642 BAY ESPLANADE | Response: 05:13 AM

@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 285,
+  "total_calls_tracked": 287,
   "total_resolved": 283,
   "call_types": {
-    "DIRECTED PATROL": 90,
+    "DIRECTED PATROL": 91,
     "TRAFFIC STOP": 56,
     "DRUNK DRIVER": 4,
     "DISTURBANCE": 8,
@@ -11,7 +11,7 @@
     "ALARM": 6,
     "KEEP THE PEACE": 7,
     "WELFARE CHECK": 7,
-    "PARK WALK AND TALK": 25,
+    "PARK WALK AND TALK": 26,
     "SUSPICIOUS PERSON": 10,
     "TRESPASS": 6,
     "PROPERTY FOUND/LOST": 2,
@@ -54,7 +54,7 @@
     "0 BLOCK ACACIA ST": 3,
     "-600 BLOCK 647 BAY ESPLANADE": 1,
     "1900 BLOCK UNION ST": 1,
-    "200 BLOCK DREW ST": 1,
+    "200 BLOCK DREW ST": 2,
     "-800 BLOCK 819 NARCISSUS AVE": 1,
     "0 BLOCK ISLAND WAY": 2,
     "US HIGHWAY 19 N / SR 580": 2,
@@ -247,7 +247,8 @@
     "3100 BLOCK GULF TO BAY BLVD": 1,
     "1800 BLOCK N HIGHLAND AVE": 1,
     "BELLEAIR BLVD / US HIGHWAY 19 N": 1,
-    "-1200 BLOCK 1353 COURT ST": 1
+    "-1200 BLOCK 1353 COURT ST": 1,
+    "-500 BLOCK 642 BAY ESPLANADE": 1
   },
   "hourly_distribution": {
     "0": 14,
@@ -255,7 +256,7 @@
     "2": 9,
     "3": 10,
     "4": 2,
-    "5": 7,
+    "5": 9,
     "6": 7,
     "7": 8,
     "8": 19,
@@ -276,7 +277,7 @@
     "23": 7
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-11-30T10:24:16.390532+00:00",
+  "last_updated": "2025-11-30T10:39:46.322065+00:00",
   "peak_active_calls": 14,
-  "total_snapshots": 104
+  "total_snapshots": 105
 }
