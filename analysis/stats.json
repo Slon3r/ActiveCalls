@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 356,
-  "total_resolved": 347,
+  "total_calls_tracked": 359,
+  "total_resolved": 351,
   "call_types": {
-    "DIRECTED PATROL": 125,
-    "TRAFFIC STOP": 66,
+    "DIRECTED PATROL": 126,
+    "TRAFFIC STOP": 67,
     "DRUNK DRIVER": 4,
     "DISTURBANCE": 9,
     "BATTERY": 2,
@@ -22,7 +22,7 @@
     "PANHANDLER/SOLICITOR": 1,
     "VEHICLE ILLEGALLY PARKED": 2,
     "SUSPICIOUS EVENT": 4,
-    "TRAFFIC CRASH": 11,
+    "TRAFFIC CRASH": 12,
     "DISABLED VEHICLE": 4,
     "ASSIST CITIZEN": 6,
     "ASSIST OTHER AGENCY": 3,
@@ -97,7 +97,7 @@
     "21200 BLOCK US HIGHWAY 19 N": 1,
     "1700 BLOCK SUNSET POINT RD": 1,
     "2300 BLOCK GULF TO BAY BLVD": 1,
-    "1200 BLOCK CLEVELAND ST": 3,
+    "1200 BLOCK CLEVELAND ST": 4,
     "-500 BLOCK 549 MANDALAY AVE": 1,
     "27000 BLOCK US HIGHWAY 19 N": 3,
     "DRIVEWAY PARKING": 1,
@@ -284,14 +284,15 @@
     "2300 BLOCK STAG RUN BLVD": 1,
     "700 BLOCK S MADISON AVE": 1,
     "N MYRTLE AVE / ELDRIDGE ST": 1,
-    "GRANGER DR / N BELCHER RD": 1,
+    "GRANGER DR / N BELCHER RD": 2,
     "NE COACHMAN RD / MARILYN ST": 1,
     "26500 BLOCK US HIGHWAY 19 N": 1,
     "600 BLOCK DREW ST": 1,
     "200 BLOCK DOLPHIN PT": 1,
     "DEVON DR  / CORONADO DR": 1,
     "600 BLOCK OLD COACHMAN RD": 1,
-    "DREW ST / PINEWOOD AVE": 1
+    "DREW ST / PINEWOOD AVE": 1,
+    "2800 BLOCK GULF TO BAY BLVD": 1
   },
   "hourly_distribution": {
     "0": 14,
@@ -304,8 +305,8 @@
     "7": 13,
     "8": 30,
     "9": 33,
-    "10": 34,
-    "11": 23,
+    "10": 35,
+    "11": 25,
     "12": 17,
     "13": 20,
     "14": 22,
@@ -320,7 +321,7 @@
     "23": 7
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-11-30T16:53:19.764107+00:00",
+  "last_updated": "2025-11-30T17:08:14.638307+00:00",
   "peak_active_calls": 14,
-  "total_snapshots": 131
+  "total_snapshots": 132
 }
