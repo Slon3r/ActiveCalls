@@ -1,17 +1,17 @@
 {
-  "total_calls_tracked": 367,
-  "total_resolved": 359,
+  "total_calls_tracked": 372,
+  "total_resolved": 360,
   "call_types": {
-    "DIRECTED PATROL": 128,
+    "DIRECTED PATROL": 130,
     "TRAFFIC STOP": 67,
     "DRUNK DRIVER": 4,
     "DISTURBANCE": 9,
-    "BATTERY": 2,
+    "BATTERY": 3,
     "CRIMINAL MISCHIEF": 1,
     "ALARM": 6,
     "KEEP THE PEACE": 8,
     "WELFARE CHECK": 8,
-    "PARK WALK AND TALK": 31,
+    "PARK WALK AND TALK": 33,
     "SUSPICIOUS PERSON": 15,
     "TRESPASS": 7,
     "PROPERTY FOUND/LOST": 2,
@@ -74,7 +74,7 @@
     "1400 BLOCK LAURA ST": 1,
     "ENTERPRISE RD E / VILLAGE DR": 1,
     "GULF TO BAY BLVD / HAMPTON RD": 1,
-    "2100 BLOCK GULF TO BAY BLVD": 5,
+    "2100 BLOCK GULF TO BAY BLVD": 6,
     "1300 BLOCK CLEVELAND ST": 2,
     "2100 BLOCK BELCHER RD": 1,
     "SAND KEY PARK ENTRANCE": 1,
@@ -122,7 +122,7 @@
     "GULF TO BAY BLVD / THORTON RD": 1,
     "COUNTRYSIDE BLVD / ENDICOTT CT": 1,
     "3000 BLOCK DREW ST": 1,
-    "2400 BLOCK COUNTRYSIDE BLVD": 2,
+    "2400 BLOCK COUNTRYSIDE BLVD": 3,
     "1200 BLOCK S MISSOURI AVE": 3,
     "2000 BLOCK N HIGHLAND AVE": 2,
     "N DUNCAN AVE / DREW ST": 1,
@@ -131,7 +131,7 @@
     "19300 BLOCK US HIGHWAY 19 N": 2,
     "600 BLOCK PIERCE ST": 1,
     "0 BLOCK 99 THIRD ST": 2,
-    "0 BLOCK 98 THIRD ST": 1,
+    "0 BLOCK 98 THIRD ST": 3,
     "100 BLOCK HAMPTON RD": 1,
     "GULF TO BAY BLVD / PARK PLACE BLVD": 1,
     "2000 BLOCK N HERCULES AVE": 2,
@@ -296,7 +296,8 @@
     "19100 BLOCK US HIGHWAY 19 N": 1,
     "1200 BLOCK S HIGHLAND AVE": 1,
     "1200 BLOCK TURNER ST": 1,
-    "THIRD ST / CORONADO DR": 1
+    "THIRD ST / CORONADO DR": 1,
+    "900 BLOCK N MCMULLEN BOOTH RD": 1
   },
   "hourly_distribution": {
     "0": 14,
@@ -311,7 +312,7 @@
     "9": 33,
     "10": 36,
     "11": 29,
-    "12": 20,
+    "12": 25,
     "13": 20,
     "14": 22,
     "15": 23,
@@ -325,7 +326,7 @@
     "23": 7
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-11-30T17:39:53.855554+00:00",
+  "last_updated": "2025-11-30T17:48:18.994020+00:00",
   "peak_active_calls": 14,
-  "total_snapshots": 134
+  "total_snapshots": 135
 }

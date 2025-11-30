@@ -25,12 +25,6 @@
       "Response_Date": "2025-11-30T11:53:16"
     },
     {
-      "Master_Incident_Number": "113025-00243",
-      "Online_Description": "911 HANG-UP",
-      "Address": "1200 BLOCK TURNER ST",
-      "Response_Date": "2025-11-30T11:54:04"
-    },
-    {
       "Master_Incident_Number": "113025-00247",
       "Online_Description": "DIRECTED PATROL",
       "Address": "THIRD ST / CORONADO DR",
@@ -47,8 +41,38 @@
       "Online_Description": "PARK WALK AND TALK",
       "Address": "300 BLOCK CORONADO DR",
       "Response_Date": "2025-11-30T12:18:11"
+    },
+    {
+      "Master_Incident_Number": "113025-00256",
+      "Online_Description": "BATTERY",
+      "Address": "2100 BLOCK GULF TO BAY BLVD",
+      "Response_Date": "2025-11-30T12:21:40"
+    },
+    {
+      "Master_Incident_Number": "113025-00253",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "900 BLOCK N MCMULLEN BOOTH RD",
+      "Response_Date": "2025-11-30T12:22:35"
+    },
+    {
+      "Master_Incident_Number": "113025-00254",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "2400 BLOCK COUNTRYSIDE BLVD",
+      "Response_Date": "2025-11-30T12:23:22"
+    },
+    {
+      "Master_Incident_Number": "113025-00255",
+      "Online_Description": "PARK WALK AND TALK",
+      "Address": "0 BLOCK 98 THIRD ST",
+      "Response_Date": "2025-11-30T12:23:45"
+    },
+    {
+      "Master_Incident_Number": "113025-00257",
+      "Online_Description": "PARK WALK AND TALK",
+      "Address": "0 BLOCK 98 THIRD ST",
+      "Response_Date": "2025-11-30T12:25:32"
     }
   ],
-  "timestamp": "2025-11-30T17:39:53.851988+00:00",
-  "count": 8
+  "timestamp": "2025-11-30T17:48:18.990341+00:00",
+  "count": 12
 }
