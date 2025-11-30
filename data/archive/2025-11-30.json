@@ -1282,6 +1282,24 @@
           "Response_Date": "2025-11-30T06:28:12"
         }
       ]
+    },
+    {
+      "timestamp": "2025-11-30T11:59:31.809743+00:00",
+      "call_count": 2,
+      "calls": [
+        {
+          "Master_Incident_Number": "113025-00095",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "2500 BLOCK COUNTRYSIDE BLVD",
+          "Response_Date": "2025-11-30T06:24:16"
+        },
+        {
+          "Master_Incident_Number": "113025-00096",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "1000 BLOCK GULF BLVD",
+          "Response_Date": "2025-11-30T06:28:12"
+        }
+      ]
     }
   ]
 }
