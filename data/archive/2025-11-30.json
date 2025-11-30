@@ -1330,6 +1330,30 @@
           "Response_Date": "2025-11-30T07:19:14"
         }
       ]
+    },
+    {
+      "timestamp": "2025-11-30T13:15:32.563441+00:00",
+      "call_count": 3,
+      "calls": [
+        {
+          "Master_Incident_Number": "113025-00107",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "-200 BLOCK 298 WINDWARD PSGE",
+          "Response_Date": "2025-11-30T07:15:53"
+        },
+        {
+          "Master_Incident_Number": "113025-00113",
+          "Online_Description": "MISSING PERSON",
+          "Address": "1400 BLOCK N BETTY LN",
+          "Response_Date": "2025-11-30T07:35:44"
+        },
+        {
+          "Master_Incident_Number": "113025-00118",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "CLEVELAND ST / S MADISON AVE",
+          "Response_Date": "2025-11-30T07:46:01"
+        }
+      ]
     }
   ]
 }

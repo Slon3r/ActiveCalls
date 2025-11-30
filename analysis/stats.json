@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 297,
-  "total_resolved": 293,
+  "total_calls_tracked": 299,
+  "total_resolved": 296,
   "call_types": {
-    "DIRECTED PATROL": 99,
+    "DIRECTED PATROL": 100,
     "TRAFFIC STOP": 56,
     "DRUNK DRIVER": 4,
     "DISTURBANCE": 8,
@@ -36,7 +36,7 @@
     "CIVIL MATTER": 2,
     "DOMESTIC": 3,
     "ANIMAL CASE": 1,
-    "MISSING PERSON": 2,
+    "MISSING PERSON": 3,
     "BUILDING CHECK": 1
   },
   "addresses": {
@@ -253,7 +253,9 @@
     "200 BLOCK N MARS AVE": 1,
     "700 BLOCK BLANCHE B LITTLEJOHN TRL": 1,
     "-200 BLOCK 298 WINDWARD PSGE": 1,
-    "2600 BLOCK LANDMARK DR": 1
+    "2600 BLOCK LANDMARK DR": 1,
+    "1400 BLOCK N BETTY LN": 1,
+    "CLEVELAND ST / S MADISON AVE": 1
   },
   "hourly_distribution": {
     "0": 14,
@@ -263,7 +265,7 @@
     "4": 2,
     "5": 12,
     "6": 10,
-    "7": 11,
+    "7": 13,
     "8": 19,
     "9": 14,
     "10": 16,
@@ -282,7 +284,7 @@
     "23": 7
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-11-30T12:46:18.462295+00:00",
+  "last_updated": "2025-11-30T13:15:32.565851+00:00",
   "peak_active_calls": 14,
-  "total_snapshots": 114
+  "total_snapshots": 115
 }
