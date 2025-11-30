@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 383,
-  "total_resolved": 369,
+  "total_calls_tracked": 386,
+  "total_resolved": 377,
   "call_types": {
-    "DIRECTED PATROL": 132,
+    "DIRECTED PATROL": 133,
     "TRAFFIC STOP": 69,
     "DRUNK DRIVER": 4,
     "DISTURBANCE": 9,
@@ -17,7 +17,7 @@
     "PROPERTY FOUND/LOST": 3,
     "THEFT": 4,
     "NEIGHBOR CALL": 1,
-    "911 HANG-UP": 12,
+    "911 HANG-UP": 13,
     "SUSPICIOUS VEHICLE": 6,
     "PANHANDLER/SOLICITOR": 1,
     "VEHICLE ILLEGALLY PARKED": 2,
@@ -35,7 +35,7 @@
     "NOISE COMPLAINT": 4,
     "CIVIL MATTER": 4,
     "DOMESTIC": 3,
-    "ANIMAL CASE": 1,
+    "ANIMAL CASE": 2,
     "MISSING PERSON": 3,
     "BUILDING CHECK": 1
   },
@@ -207,7 +207,7 @@
     "1300 BLOCK S FORT HARRISON AVE": 1,
     "HOLT AVE / RUSSELL ST": 1,
     "S GULFVIEW BLVD / SECOND ST": 1,
-    "2500 BLOCK COUNTRYSIDE BLVD": 2,
+    "2500 BLOCK COUNTRYSIDE BLVD": 3,
     "-300 BLOCK 339 CORONADO DR": 1,
     "-600 BLOCK 698 CLEVELAND ST": 1,
     "1500 BLOCK S HIGHLAND AVE": 1,
@@ -305,7 +305,9 @@
     "1000 BLOCK S MISSOURI AVE": 1,
     "1400 BLOCK S BELCHER RD": 1,
     "-500 BLOCK BLK ISLAND WAY": 1,
-    "3200 BLOCK COURTNEY CAMPBELL CSWY": 1
+    "3200 BLOCK COURTNEY CAMPBELL CSWY": 1,
+    "300 BLOCK N HIGHLAND AVE": 1,
+    "2700 BLOCK WINDING WOOD DR": 1
   },
   "hourly_distribution": {
     "0": 14,
@@ -321,7 +323,7 @@
     "10": 36,
     "11": 29,
     "12": 31,
-    "13": 25,
+    "13": 28,
     "14": 22,
     "15": 23,
     "16": 21,
@@ -334,7 +336,7 @@
     "23": 7
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-11-30T18:44:21.042094+00:00",
+  "last_updated": "2025-11-30T18:54:53.601027+00:00",
   "peak_active_calls": 14,
-  "total_snapshots": 138
+  "total_snapshots": 139
 }

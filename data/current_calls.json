@@ -13,40 +13,10 @@
       "Response_Date": "2025-11-30T11:53:16"
     },
     {
-      "Master_Incident_Number": "113025-00247",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "THIRD ST / CORONADO DR",
-      "Response_Date": "2025-11-30T12:10:28"
-    },
-    {
-      "Master_Incident_Number": "113025-00251",
-      "Online_Description": "PARK WALK AND TALK",
-      "Address": "300 BLOCK CORONADO DR",
-      "Response_Date": "2025-11-30T12:18:11"
-    },
-    {
       "Master_Incident_Number": "113025-00256",
       "Online_Description": "BATTERY",
       "Address": "2100 BLOCK GULF TO BAY BLVD",
       "Response_Date": "2025-11-30T12:21:40"
-    },
-    {
-      "Master_Incident_Number": "113025-00255",
-      "Online_Description": "PARK WALK AND TALK",
-      "Address": "0 BLOCK 98 THIRD ST",
-      "Response_Date": "2025-11-30T12:23:45"
-    },
-    {
-      "Master_Incident_Number": "113025-00258",
-      "Online_Description": "PROPERTY FOUND/LOST",
-      "Address": "2900 BLOCK GULF TO BAY BLVD",
-      "Response_Date": "2025-11-30T12:24:12"
-    },
-    {
-      "Master_Incident_Number": "113025-00257",
-      "Online_Description": "PARK WALK AND TALK",
-      "Address": "0 BLOCK 98 THIRD ST",
-      "Response_Date": "2025-11-30T12:25:32"
     },
     {
       "Master_Incident_Number": "113025-00263",
@@ -55,36 +25,36 @@
       "Response_Date": "2025-11-30T12:41:20"
     },
     {
-      "Master_Incident_Number": "113025-00267",
-      "Online_Description": "PARK WALK AND TALK",
-      "Address": "0 BLOCK 98 THIRD ST",
-      "Response_Date": "2025-11-30T13:01:25"
-    },
-    {
-      "Master_Incident_Number": "113025-00270",
-      "Online_Description": "KEEP THE PEACE",
-      "Address": "2000 BLOCK N HIGHLAND AVE",
-      "Response_Date": "2025-11-30T13:06:39"
-    },
-    {
       "Master_Incident_Number": "113025-00271",
       "Online_Description": "911 HANG-UP",
       "Address": "1400 BLOCK S BELCHER RD",
       "Response_Date": "2025-11-30T13:14:21"
     },
     {
-      "Master_Incident_Number": "113025-00275",
-      "Online_Description": "TRAFFIC STOP",
-      "Address": "-500 BLOCK BLK ISLAND WAY",
-      "Response_Date": "2025-11-30T13:22:36"
+      "Master_Incident_Number": "113025-00273",
+      "Online_Description": "911 HANG-UP",
+      "Address": "300 BLOCK N HIGHLAND AVE",
+      "Response_Date": "2025-11-30T13:16:23"
     },
     {
       "Master_Incident_Number": "113025-00276",
       "Online_Description": "ASSIST CITIZEN",
       "Address": "3200 BLOCK COURTNEY CAMPBELL CSWY",
       "Response_Date": "2025-11-30T13:23:10"
+    },
+    {
+      "Master_Incident_Number": "113025-00282",
+      "Online_Description": "ANIMAL CASE",
+      "Address": "2500 BLOCK COUNTRYSIDE BLVD",
+      "Response_Date": "2025-11-30T13:26:32"
+    },
+    {
+      "Master_Incident_Number": "113025-00281",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "2700 BLOCK WINDING WOOD DR",
+      "Response_Date": "2025-11-30T13:27:27"
     }
   ],
-  "timestamp": "2025-11-30T18:44:21.038186+00:00",
-  "count": 14
+  "timestamp": "2025-11-30T18:54:53.596999+00:00",
+  "count": 9
 }
