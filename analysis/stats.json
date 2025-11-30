@@ -1,6 +1,6 @@
 {
-  "total_calls_tracked": 420,
-  "total_resolved": 406,
+  "total_calls_tracked": 421,
+  "total_resolved": 411,
   "call_types": {
     "DIRECTED PATROL": 144,
     "TRAFFIC STOP": 74,
@@ -38,7 +38,8 @@
     "ANIMAL CASE": 2,
     "MISSING PERSON": 3,
     "BUILDING CHECK": 1,
-    "SHOPLIFTING": 2
+    "SHOPLIFTING": 2,
+    "DECEASED PERSON": 1
   },
   "addresses": {
     "MEMORIAL CSWY / ISLAND WAY": 11,
@@ -295,7 +296,7 @@
     "DREW ST / PINEWOOD AVE": 1,
     "2800 BLOCK GULF TO BAY BLVD": 1,
     "19100 BLOCK US HIGHWAY 19 N": 1,
-    "1200 BLOCK S HIGHLAND AVE": 1,
+    "1200 BLOCK S HIGHLAND AVE": 2,
     "1200 BLOCK TURNER ST": 1,
     "THIRD ST / CORONADO DR": 1,
     "900 BLOCK N MCMULLEN BOOTH RD": 1,
@@ -343,7 +344,7 @@
     "8": 30,
     "9": 33,
     "10": 36,
-    "11": 29,
+    "11": 30,
     "12": 31,
     "13": 37,
     "14": 35,
@@ -358,7 +359,7 @@
     "23": 7
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-11-30T20:49:20.979629+00:00",
+  "last_updated": "2025-11-30T20:57:18.757225+00:00",
   "peak_active_calls": 14,
-  "total_snapshots": 148
+  "total_snapshots": 149
 }
