@@ -1,12 +1,5 @@
 {
-  "calls": [
-    {
-      "Master_Incident_Number": "113025-00092",
-      "Online_Description": "911 HANG-UP",
-      "Address": "700 BLOCK BLANCHE B LITTLEJOHN TRL",
-      "Response_Date": "2025-11-30T06:03:21"
-    }
-  ],
-  "timestamp": "2025-11-30T11:35:45.803539+00:00",
-  "count": 1
+  "calls": [],
+  "timestamp": "2025-11-30T11:43:50.865639+00:00",
+  "count": 0
 }
