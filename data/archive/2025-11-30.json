@@ -899,6 +899,48 @@
           "Response_Date": "2025-11-30T03:14:15"
         }
       ]
+    },
+    {
+      "timestamp": "2025-11-30T08:51:30.301744+00:00",
+      "call_count": 6,
+      "calls": [
+        {
+          "Master_Incident_Number": "113025-00032",
+          "Online_Description": "DRUNK DRIVER",
+          "Address": "-3400 BLOCK BLK COURTNEY CAMPBELL CSWY",
+          "Response_Date": "2025-11-30T01:48:06"
+        },
+        {
+          "Master_Incident_Number": "113025-00036",
+          "Online_Description": "THEFT",
+          "Address": "1600 BLOCK GULF TO BAY BLVD",
+          "Response_Date": "2025-11-30T02:02:17"
+        },
+        {
+          "Master_Incident_Number": "113025-00049",
+          "Online_Description": "SUSPICIOUS VEHICLE",
+          "Address": "2500 BLOCK GULF TO BAY BLVD",
+          "Response_Date": "2025-11-30T03:06:43"
+        },
+        {
+          "Master_Incident_Number": "113025-00052",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "US HIGHWAY 19 N / DRUID RD",
+          "Response_Date": "2025-11-30T03:14:15"
+        },
+        {
+          "Master_Incident_Number": "113025-00056",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "S MISSOURI AVE/COURT ST",
+          "Response_Date": "2025-11-30T03:25:44"
+        },
+        {
+          "Master_Incident_Number": "113025-00059",
+          "Online_Description": "PARK WALK AND TALK",
+          "Address": "1500 BLOCK S MARTIN LUTHER KING JR AVE",
+          "Response_Date": "2025-11-30T03:30:45"
+        }
+      ]
     }
   ]
 }
