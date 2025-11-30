@@ -1,17 +1,17 @@
 {
-  "total_calls_tracked": 348,
-  "total_resolved": 334,
+  "total_calls_tracked": 353,
+  "total_resolved": 340,
   "call_types": {
-    "DIRECTED PATROL": 121,
-    "TRAFFIC STOP": 64,
+    "DIRECTED PATROL": 123,
+    "TRAFFIC STOP": 65,
     "DRUNK DRIVER": 4,
-    "DISTURBANCE": 8,
+    "DISTURBANCE": 9,
     "BATTERY": 2,
     "CRIMINAL MISCHIEF": 1,
     "ALARM": 6,
     "KEEP THE PEACE": 7,
     "WELFARE CHECK": 7,
-    "PARK WALK AND TALK": 29,
+    "PARK WALK AND TALK": 30,
     "SUSPICIOUS PERSON": 15,
     "TRESPASS": 7,
     "PROPERTY FOUND/LOST": 2,
@@ -51,7 +51,7 @@
     "US HIGHWAY 19 N / SR 590": 1,
     "1100 BLOCK DRUID RD": 1,
     "2100 BLOCK RANGE RD": 1,
-    "0 BLOCK ACACIA ST": 3,
+    "0 BLOCK ACACIA ST": 4,
     "-600 BLOCK 647 BAY ESPLANADE": 1,
     "1900 BLOCK UNION ST": 1,
     "200 BLOCK DREW ST": 2,
@@ -123,7 +123,7 @@
     "COUNTRYSIDE BLVD / ENDICOTT CT": 1,
     "3000 BLOCK DREW ST": 1,
     "2400 BLOCK COUNTRYSIDE BLVD": 2,
-    "1200 BLOCK S MISSOURI AVE": 2,
+    "1200 BLOCK S MISSOURI AVE": 3,
     "2000 BLOCK N HIGHLAND AVE": 2,
     "N DUNCAN AVE / DREW ST": 1,
     "1100 BLOCK COURT ST": 1,
@@ -286,7 +286,10 @@
     "N MYRTLE AVE / ELDRIDGE ST": 1,
     "GRANGER DR / N BELCHER RD": 1,
     "NE COACHMAN RD / MARILYN ST": 1,
-    "26500 BLOCK US HIGHWAY 19 N": 1
+    "26500 BLOCK US HIGHWAY 19 N": 1,
+    "600 BLOCK DREW ST": 1,
+    "200 BLOCK DOLPHIN PT": 1,
+    "DEVON DR  / CORONADO DR": 1
   },
   "hourly_distribution": {
     "0": 14,
@@ -299,8 +302,8 @@
     "7": 13,
     "8": 30,
     "9": 33,
-    "10": 33,
-    "11": 16,
+    "10": 34,
+    "11": 20,
     "12": 17,
     "13": 20,
     "14": 22,
@@ -315,7 +318,7 @@
     "23": 7
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-11-30T16:25:35.762908+00:00",
+  "last_updated": "2025-11-30T16:43:40.463682+00:00",
   "peak_active_calls": 14,
-  "total_snapshots": 129
+  "total_snapshots": 130
 }

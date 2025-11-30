@@ -2109,6 +2109,90 @@
           "Response_Date": "2025-11-30T11:01:16"
         }
       ]
+    },
+    {
+      "timestamp": "2025-11-30T16:43:40.460172+00:00",
+      "call_count": 13,
+      "calls": [
+        {
+          "Master_Incident_Number": "113025-00177",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "2200 BLOCK DREW ST",
+          "Response_Date": "2025-11-30T09:55:24"
+        },
+        {
+          "Master_Incident_Number": "113025-00181",
+          "Online_Description": "SUSPICIOUS PERSON",
+          "Address": "200 BLOCK S MARS AVE",
+          "Response_Date": "2025-11-30T09:59:06"
+        },
+        {
+          "Master_Incident_Number": "113025-00183",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "20500 BLOCK US HIGHWAY 19 N",
+          "Response_Date": "2025-11-30T10:03:05"
+        },
+        {
+          "Master_Incident_Number": "113025-00184",
+          "Online_Description": "TRESPASS",
+          "Address": "2700 BLOCK GULF TO BAY BLVD",
+          "Response_Date": "2025-11-30T10:03:29"
+        },
+        {
+          "Master_Incident_Number": "113025-00189",
+          "Online_Description": "SUSPICIOUS PERSON",
+          "Address": "600 BLOCK MCLENNAN ST",
+          "Response_Date": "2025-11-30T10:13:00"
+        },
+        {
+          "Master_Incident_Number": "113025-00201",
+          "Online_Description": "DISTURBANCE",
+          "Address": "1200 BLOCK S MISSOURI AVE",
+          "Response_Date": "2025-11-30T10:34:04"
+        },
+        {
+          "Master_Incident_Number": "113025-00203",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "2500 BLOCK GULF TO BAY BLVD",
+          "Response_Date": "2025-11-30T10:37:44"
+        },
+        {
+          "Master_Incident_Number": "113025-00213",
+          "Online_Description": "TRAFFIC CRASH",
+          "Address": "N MYRTLE AVE / ELDRIDGE ST",
+          "Response_Date": "2025-11-30T10:49:48"
+        },
+        {
+          "Master_Incident_Number": "113025-00219",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "GRANGER DR / N BELCHER RD",
+          "Response_Date": "2025-11-30T10:57:53"
+        },
+        {
+          "Master_Incident_Number": "113025-00227",
+          "Online_Description": "PARK WALK AND TALK",
+          "Address": "600 BLOCK DREW ST",
+          "Response_Date": "2025-11-30T11:11:15"
+        },
+        {
+          "Master_Incident_Number": "113025-00228",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "0 BLOCK ACACIA ST",
+          "Response_Date": "2025-11-30T11:12:32"
+        },
+        {
+          "Master_Incident_Number": "113025-00231",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "200 BLOCK DOLPHIN PT",
+          "Response_Date": "2025-11-30T11:19:47"
+        },
+        {
+          "Master_Incident_Number": "113025-00232",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "DEVON DR  / CORONADO DR",
+          "Response_Date": "2025-11-30T11:19:56"
+        }
+      ]
     }
   ]
 }
