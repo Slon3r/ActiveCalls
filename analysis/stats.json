@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 283,
+  "total_calls_tracked": 284,
   "total_resolved": 281,
   "call_types": {
-    "DIRECTED PATROL": 88,
+    "DIRECTED PATROL": 89,
     "TRAFFIC STOP": 56,
     "DRUNK DRIVER": 4,
     "DISTURBANCE": 8,
@@ -246,14 +246,15 @@
     "1500 BLOCK S MARTIN LUTHER KING JR AVE": 1,
     "3100 BLOCK GULF TO BAY BLVD": 1,
     "1800 BLOCK N HIGHLAND AVE": 1,
-    "BELLEAIR BLVD / US HIGHWAY 19 N": 1
+    "BELLEAIR BLVD / US HIGHWAY 19 N": 1,
+    "-1200 BLOCK 1353 COURT ST": 1
   },
   "hourly_distribution": {
     "0": 14,
     "1": 14,
     "2": 9,
     "3": 10,
-    "4": 1,
+    "4": 2,
     "5": 6,
     "6": 7,
     "7": 8,
@@ -275,7 +276,7 @@
     "23": 7
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-11-30T09:51:57.011221+00:00",
+  "last_updated": "2025-11-30T09:59:31.910429+00:00",
   "peak_active_calls": 14,
-  "total_snapshots": 102
+  "total_snapshots": 103
 }

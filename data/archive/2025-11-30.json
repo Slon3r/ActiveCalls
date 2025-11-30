@@ -1067,6 +1067,30 @@
           "Response_Date": "2025-11-30T04:02:17"
         }
       ]
+    },
+    {
+      "timestamp": "2025-11-30T09:59:31.908038+00:00",
+      "call_count": 3,
+      "calls": [
+        {
+          "Master_Incident_Number": "113025-00036",
+          "Online_Description": "BATTERY",
+          "Address": "1600 BLOCK GULF TO BAY BLVD",
+          "Response_Date": "2025-11-30T02:02:17"
+        },
+        {
+          "Master_Incident_Number": "113025-00064",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "BELLEAIR BLVD / US HIGHWAY 19 N",
+          "Response_Date": "2025-11-30T04:02:17"
+        },
+        {
+          "Master_Incident_Number": "113025-00068",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "-1200 BLOCK 1353 COURT ST",
+          "Response_Date": "2025-11-30T04:37:10"
+        }
+      ]
     }
   ]
 }
