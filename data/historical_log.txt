@@ -1524,3 +1524,18 @@ TOTAL ACTIVE CALLS: 2
 ================================================================================
 
 No changes since last check.
+
+================================================================================
+TIMESTAMP: 2025-11-30T12:46:18.459945+00:00
+TOTAL ACTIVE CALLS: 4
+================================================================================
+
+--- NEW CALLS (4) ---
+[NEW] 112925-00581 | DIRECTED PATROL | 400 BLOCK FAIRWOOD AVE | Response: 07:19 AM
+[NEW] 112725-00204 | DIRECTED PATROL | 2500 BLOCK HARN BLVD | Response: 12:27 PM
+[NEW] 113025-00107 | DIRECTED PATROL | -200 BLOCK 298 WINDWARD PSGE | Response: 07:15 AM
+[NEW] 113025-00109 | DIRECTED PATROL | 2600 BLOCK LANDMARK DR | Response: 07:19 AM
+
+--- RESOLVED CALLS (2) ---
+[RESOLVED] 113025-00095 | DIRECTED PATROL | 2500 BLOCK COUNTRYSIDE BLVD | Response: 06:24 AM
+[RESOLVED] 113025-00096 | DIRECTED PATROL | 1000 BLOCK GULF BLVD | Response: 06:28 AM
