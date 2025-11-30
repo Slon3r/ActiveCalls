@@ -55,24 +55,36 @@
       "Response_Date": "2025-11-30T12:41:20"
     },
     {
-      "Master_Incident_Number": "113025-00264",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "MONTCLAIR RD / N HERCULES AVE",
-      "Response_Date": "2025-11-30T12:45:26"
-    },
-    {
-      "Master_Incident_Number": "113025-00266",
-      "Online_Description": "PARK WALK AND TALK",
-      "Address": "1000 BLOCK S MISSOURI AVE",
-      "Response_Date": "2025-11-30T12:54:28"
-    },
-    {
       "Master_Incident_Number": "113025-00267",
       "Online_Description": "PARK WALK AND TALK",
       "Address": "0 BLOCK 98 THIRD ST",
       "Response_Date": "2025-11-30T13:01:25"
+    },
+    {
+      "Master_Incident_Number": "113025-00270",
+      "Online_Description": "KEEP THE PEACE",
+      "Address": "2000 BLOCK N HIGHLAND AVE",
+      "Response_Date": "2025-11-30T13:06:39"
+    },
+    {
+      "Master_Incident_Number": "113025-00271",
+      "Online_Description": "911 HANG-UP",
+      "Address": "1400 BLOCK S BELCHER RD",
+      "Response_Date": "2025-11-30T13:14:21"
+    },
+    {
+      "Master_Incident_Number": "113025-00275",
+      "Online_Description": "TRAFFIC STOP",
+      "Address": "-500 BLOCK BLK ISLAND WAY",
+      "Response_Date": "2025-11-30T13:22:36"
+    },
+    {
+      "Master_Incident_Number": "113025-00276",
+      "Online_Description": "ASSIST CITIZEN",
+      "Address": "3200 BLOCK COURTNEY CAMPBELL CSWY",
+      "Response_Date": "2025-11-30T13:23:10"
     }
   ],
-  "timestamp": "2025-11-30T18:22:10.199131+00:00",
-  "count": 12
+  "timestamp": "2025-11-30T18:44:21.038186+00:00",
+  "count": 14
 }

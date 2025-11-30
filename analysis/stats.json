@@ -1,15 +1,15 @@
 {
-  "total_calls_tracked": 379,
-  "total_resolved": 367,
+  "total_calls_tracked": 383,
+  "total_resolved": 369,
   "call_types": {
     "DIRECTED PATROL": 132,
-    "TRAFFIC STOP": 68,
+    "TRAFFIC STOP": 69,
     "DRUNK DRIVER": 4,
     "DISTURBANCE": 9,
     "BATTERY": 3,
     "CRIMINAL MISCHIEF": 1,
     "ALARM": 6,
-    "KEEP THE PEACE": 8,
+    "KEEP THE PEACE": 9,
     "WELFARE CHECK": 8,
     "PARK WALK AND TALK": 35,
     "SUSPICIOUS PERSON": 15,
@@ -17,14 +17,14 @@
     "PROPERTY FOUND/LOST": 3,
     "THEFT": 4,
     "NEIGHBOR CALL": 1,
-    "911 HANG-UP": 11,
+    "911 HANG-UP": 12,
     "SUSPICIOUS VEHICLE": 6,
     "PANHANDLER/SOLICITOR": 1,
     "VEHICLE ILLEGALLY PARKED": 2,
     "SUSPICIOUS EVENT": 4,
     "TRAFFIC CRASH": 13,
     "DISABLED VEHICLE": 4,
-    "ASSIST CITIZEN": 6,
+    "ASSIST CITIZEN": 7,
     "ASSIST OTHER AGENCY": 3,
     "FIRE": 2,
     "FRAUD": 1,
@@ -124,7 +124,7 @@
     "3000 BLOCK DREW ST": 1,
     "2400 BLOCK COUNTRYSIDE BLVD": 3,
     "1200 BLOCK S MISSOURI AVE": 3,
-    "2000 BLOCK N HIGHLAND AVE": 2,
+    "2000 BLOCK N HIGHLAND AVE": 3,
     "N DUNCAN AVE / DREW ST": 1,
     "1100 BLOCK COURT ST": 1,
     "-1300 BLOCK BLK ADMIRAL WOODSON LN": 1,
@@ -302,7 +302,10 @@
     "300 BLOCK ISLAND WAY": 1,
     "2900 BLOCK GULF TO BAY BLVD": 1,
     "MONTCLAIR RD / N HERCULES AVE": 1,
-    "1000 BLOCK S MISSOURI AVE": 1
+    "1000 BLOCK S MISSOURI AVE": 1,
+    "1400 BLOCK S BELCHER RD": 1,
+    "-500 BLOCK BLK ISLAND WAY": 1,
+    "3200 BLOCK COURTNEY CAMPBELL CSWY": 1
   },
   "hourly_distribution": {
     "0": 14,
@@ -318,7 +321,7 @@
     "10": 36,
     "11": 29,
     "12": 31,
-    "13": 21,
+    "13": 25,
     "14": 22,
     "15": 23,
     "16": 21,
@@ -331,7 +334,7 @@
     "23": 7
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-11-30T18:22:10.203035+00:00",
+  "last_updated": "2025-11-30T18:44:21.042094+00:00",
   "peak_active_calls": 14,
-  "total_snapshots": 137
+  "total_snapshots": 138
 }
