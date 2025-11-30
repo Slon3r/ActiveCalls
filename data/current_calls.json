@@ -13,18 +13,6 @@
       "Response_Date": "2025-11-30T07:35:44"
     },
     {
-      "Master_Incident_Number": "113025-00132",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "2700 BLOCK GULF TO BAY BLVD",
-      "Response_Date": "2025-11-30T08:37:23"
-    },
-    {
-      "Master_Incident_Number": "113025-00133",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "1800 BLOCK MONTCLAIR RD",
-      "Response_Date": "2025-11-30T08:40:03"
-    },
-    {
       "Master_Incident_Number": "113025-00135",
       "Online_Description": "DIRECTED PATROL",
       "Address": "20500 BLOCK US HIGHWAY 19 N",
@@ -37,12 +25,24 @@
       "Response_Date": "2025-11-30T08:48:46"
     },
     {
-      "Master_Incident_Number": "113025-00137",
-      "Online_Description": "PARK WALK AND TALK",
-      "Address": "0 BLOCK CAUSEWAY BLVD",
-      "Response_Date": "2025-11-30T08:49:45"
+      "Master_Incident_Number": "113025-00141",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "200 BLOCK LARBOARD WAY",
+      "Response_Date": "2025-11-30T08:56:37"
+    },
+    {
+      "Master_Incident_Number": "113025-00143",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "2100 BLOCK GULF TO BAY BLVD",
+      "Response_Date": "2025-11-30T08:59:35"
+    },
+    {
+      "Master_Incident_Number": "113025-00146",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "-1100 BLOCK 1582 GULF BLVD",
+      "Response_Date": "2025-11-30T09:01:03"
     }
   ],
-  "timestamp": "2025-11-30T14:11:04.506744+00:00",
+  "timestamp": "2025-11-30T14:30:55.354920+00:00",
   "count": 7
 }

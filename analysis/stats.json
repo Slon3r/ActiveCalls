@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 308,
-  "total_resolved": 301,
+  "total_calls_tracked": 311,
+  "total_resolved": 304,
   "call_types": {
-    "DIRECTED PATROL": 105,
+    "DIRECTED PATROL": 108,
     "TRAFFIC STOP": 56,
     "DRUNK DRIVER": 4,
     "DISTURBANCE": 8,
@@ -74,7 +74,7 @@
     "1400 BLOCK LAURA ST": 1,
     "ENTERPRISE RD E / VILLAGE DR": 1,
     "GULF TO BAY BLVD / HAMPTON RD": 1,
-    "2100 BLOCK GULF TO BAY BLVD": 4,
+    "2100 BLOCK GULF TO BAY BLVD": 5,
     "1300 BLOCK CLEVELAND ST": 2,
     "2100 BLOCK BELCHER RD": 1,
     "SAND KEY PARK ENTRANCE": 1,
@@ -106,7 +106,7 @@
     "1600 BLOCK N MCMULLEN BOOTH RD": 1,
     "1200 BLOCK DREW ST": 1,
     "2400 BLOCK DREW ST": 1,
-    "-1100 BLOCK 1582 GULF BLVD": 1,
+    "-1100 BLOCK 1582 GULF BLVD": 2,
     "3300 BLOCK COURTNEY CAMPBELL CSWY": 3,
     "1200 BLOCK COURT ST": 1,
     "1400 BLOCK OWEN DR": 1,
@@ -260,7 +260,8 @@
     "3000 BLOCK EASTLAND BLVD": 1,
     "-2300 BLOCK 2373 GULF TO BAY BLVD": 1,
     "1800 BLOCK MONTCLAIR RD": 1,
-    "20500 BLOCK US HIGHWAY 19 N": 2
+    "20500 BLOCK US HIGHWAY 19 N": 2,
+    "200 BLOCK LARBOARD WAY": 1
   },
   "hourly_distribution": {
     "0": 14,
@@ -271,8 +272,8 @@
     "5": 12,
     "6": 10,
     "7": 13,
-    "8": 28,
-    "9": 14,
+    "8": 30,
+    "9": 15,
     "10": 16,
     "11": 14,
     "12": 17,
@@ -289,7 +290,7 @@
     "23": 7
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-11-30T14:11:04.509321+00:00",
+  "last_updated": "2025-11-30T14:30:55.357622+00:00",
   "peak_active_calls": 14,
-  "total_snapshots": 119
+  "total_snapshots": 120
 }
