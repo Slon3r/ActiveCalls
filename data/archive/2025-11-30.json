@@ -2312,6 +2312,60 @@
       "timestamp": "2025-11-30T17:28:06.199826+00:00",
       "call_count": 0,
       "calls": []
+    },
+    {
+      "timestamp": "2025-11-30T17:39:53.851988+00:00",
+      "call_count": 8,
+      "calls": [
+        {
+          "Master_Incident_Number": "113025-00213",
+          "Online_Description": "TRAFFIC CRASH",
+          "Address": "N MYRTLE AVE / ELDRIDGE ST",
+          "Response_Date": "2025-11-30T10:49:48"
+        },
+        {
+          "Master_Incident_Number": "113025-00239",
+          "Online_Description": "KEEP THE PEACE",
+          "Address": "19100 BLOCK US HIGHWAY 19 N",
+          "Response_Date": "2025-11-30T11:41:55"
+        },
+        {
+          "Master_Incident_Number": "113025-00236",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "1200 BLOCK CLEVELAND ST",
+          "Response_Date": "2025-11-30T11:41:30"
+        },
+        {
+          "Master_Incident_Number": "113025-00244",
+          "Online_Description": "WELFARE CHECK",
+          "Address": "1200 BLOCK S HIGHLAND AVE",
+          "Response_Date": "2025-11-30T11:53:16"
+        },
+        {
+          "Master_Incident_Number": "113025-00243",
+          "Online_Description": "911 HANG-UP",
+          "Address": "1200 BLOCK TURNER ST",
+          "Response_Date": "2025-11-30T11:54:04"
+        },
+        {
+          "Master_Incident_Number": "113025-00247",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "THIRD ST / CORONADO DR",
+          "Response_Date": "2025-11-30T12:10:28"
+        },
+        {
+          "Master_Incident_Number": "113025-00249",
+          "Online_Description": "911 HANG-UP",
+          "Address": "900 BLOCK BAY ESPLANADE",
+          "Response_Date": "2025-11-30T12:12:39"
+        },
+        {
+          "Master_Incident_Number": "113025-00251",
+          "Online_Description": "PARK WALK AND TALK",
+          "Address": "300 BLOCK CORONADO DR",
+          "Response_Date": "2025-11-30T12:18:11"
+        }
+      ]
     }
   ]
 }
