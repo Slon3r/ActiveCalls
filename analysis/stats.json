@@ -1,6 +1,6 @@
 {
-  "total_calls_tracked": 399,
-  "total_resolved": 390,
+  "total_calls_tracked": 400,
+  "total_resolved": 393,
   "call_types": {
     "DIRECTED PATROL": 135,
     "TRAFFIC STOP": 72,
@@ -16,7 +16,7 @@
     "TRESPASS": 7,
     "PROPERTY FOUND/LOST": 4,
     "THEFT": 4,
-    "NEIGHBOR CALL": 1,
+    "NEIGHBOR CALL": 2,
     "911 HANG-UP": 13,
     "SUSPICIOUS VEHICLE": 6,
     "PANHANDLER/SOLICITOR": 1,
@@ -315,7 +315,8 @@
     "GULF TO BAY BLVD / LANDRY AVE": 1,
     "1400 BLOCK N MADISON AVE": 1,
     "600 BLOCK GULF BLVD": 1,
-    "DREW ST / MCMULLEN BOOTH RD": 1
+    "DREW ST / MCMULLEN BOOTH RD": 1,
+    "2700 BLOCK COTTONWOOD CT": 1
   },
   "hourly_distribution": {
     "0": 14,
@@ -332,7 +333,7 @@
     "11": 29,
     "12": 31,
     "13": 37,
-    "14": 26,
+    "14": 27,
     "15": 23,
     "16": 21,
     "17": 14,
@@ -344,7 +345,7 @@
     "23": 7
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-11-30T19:43:23.319622+00:00",
+  "last_updated": "2025-11-30T19:51:26.988483+00:00",
   "peak_active_calls": 14,
-  "total_snapshots": 143
+  "total_snapshots": 144
 }
