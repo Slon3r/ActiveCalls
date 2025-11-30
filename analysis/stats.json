@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 452,
-  "total_resolved": 445,
+  "total_calls_tracked": 456,
+  "total_resolved": 446,
   "call_types": {
-    "DIRECTED PATROL": 155,
-    "TRAFFIC STOP": 80,
+    "DIRECTED PATROL": 156,
+    "TRAFFIC STOP": 82,
     "DRUNK DRIVER": 4,
     "DISTURBANCE": 11,
     "BATTERY": 3,
@@ -11,7 +11,7 @@
     "ALARM": 6,
     "KEEP THE PEACE": 10,
     "WELFARE CHECK": 10,
-    "PARK WALK AND TALK": 37,
+    "PARK WALK AND TALK": 38,
     "SUSPICIOUS PERSON": 17,
     "TRESPASS": 10,
     "PROPERTY FOUND/LOST": 4,
@@ -50,7 +50,7 @@
     "1000 BLOCK WEST AVE": 1,
     "600 BLOCK S GULFVIEW BLVD": 4,
     "-800 BLOCK 1099 MARSHALL ST": 1,
-    "US HIGHWAY 19 N / DREW ST": 6,
+    "US HIGHWAY 19 N / DREW ST": 7,
     "US HIGHWAY 19 N / SR 590": 1,
     "1100 BLOCK DRUID RD": 1,
     "2100 BLOCK RANGE RD": 1,
@@ -164,7 +164,7 @@
     "1200 BLOCK GROVE ST": 1,
     "0 BLOCK OLD COACHMAN RD": 1,
     "STOCKWOOD DR / LANDMARK DR": 1,
-    "1400 BLOCK SUNSET POINT RD": 2,
+    "1400 BLOCK SUNSET POINT RD": 3,
     "-1400 BLOCK 1486 OTTEN ST": 1,
     "2800 BLOCK GLORIA CT": 2,
     "DREW ST / N BELCHER RD": 1,
@@ -342,7 +342,9 @@
     "-100 BLOCK 129 ISLAND WAY": 1,
     "2300 BLOCK GLENMOOR RD N": 1,
     "1100 BLOCK GRANADA ST": 1,
-    "1400 BLOCK FRANKLIN ST": 1
+    "1400 BLOCK FRANKLIN ST": 1,
+    "0 BLOCK 69 BAY ESPLANADE": 1,
+    "GULF TO BAY BLVD / BAYVIEW AVE": 1
   },
   "hourly_distribution": {
     "0": 14,
@@ -363,7 +365,7 @@
     "15": 39,
     "16": 36,
     "17": 25,
-    "18": 8,
+    "18": 12,
     "19": 4,
     "20": 3,
     "21": 4,
@@ -371,7 +373,7 @@
     "23": 7
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-11-30T23:29:21.641797+00:00",
+  "last_updated": "2025-11-30T23:41:00.934682+00:00",
   "peak_active_calls": 14,
-  "total_snapshots": 160
+  "total_snapshots": 161
 }

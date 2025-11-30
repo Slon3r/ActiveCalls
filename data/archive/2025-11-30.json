@@ -4039,6 +4039,72 @@
           "Response_Date": "2025-11-30T18:04:12"
         }
       ]
+    },
+    {
+      "timestamp": "2025-11-30T23:41:00.929427+00:00",
+      "call_count": 10,
+      "calls": [
+        {
+          "Master_Incident_Number": "113025-00350",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "300 BLOCK CLEVELAND ST",
+          "Response_Date": "2025-11-30T16:13:09"
+        },
+        {
+          "Master_Incident_Number": "113025-00365",
+          "Online_Description": "DISTURBANCE",
+          "Address": "1900 BLOCK UNION ST",
+          "Response_Date": "2025-11-30T16:29:53"
+        },
+        {
+          "Master_Incident_Number": "113025-00384",
+          "Online_Description": "TRAFFIC CRASH",
+          "Address": "600 BLOCK S GULFVIEW BLVD",
+          "Response_Date": "2025-11-30T17:13:48"
+        },
+        {
+          "Master_Incident_Number": "113025-00387",
+          "Online_Description": "NEIGHBOR CALL",
+          "Address": "1100 BLOCK GRANADA ST",
+          "Response_Date": "2025-11-30T17:22:26"
+        },
+        {
+          "Master_Incident_Number": "113025-00393",
+          "Online_Description": "BURGLARY",
+          "Address": "1400 BLOCK FRANKLIN ST",
+          "Response_Date": "2025-11-30T17:30:56"
+        },
+        {
+          "Master_Incident_Number": "113025-00406",
+          "Online_Description": "TRESPASS",
+          "Address": "27000 BLOCK US HIGHWAY 19 N",
+          "Response_Date": "2025-11-30T17:56:04"
+        },
+        {
+          "Master_Incident_Number": "113025-00412",
+          "Online_Description": "PARK WALK AND TALK",
+          "Address": "0 BLOCK 69 BAY ESPLANADE",
+          "Response_Date": "2025-11-30T18:11:21"
+        },
+        {
+          "Master_Incident_Number": "113025-00414",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "1400 BLOCK SUNSET POINT RD",
+          "Response_Date": "2025-11-30T18:14:04"
+        },
+        {
+          "Master_Incident_Number": "113025-00416",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "US HIGHWAY 19 N / DREW ST",
+          "Response_Date": "2025-11-30T18:16:17"
+        },
+        {
+          "Master_Incident_Number": "113025-00420",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "GULF TO BAY BLVD / BAYVIEW AVE",
+          "Response_Date": "2025-11-30T18:18:23"
+        }
+      ]
     }
   ]
 }
