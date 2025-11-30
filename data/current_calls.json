@@ -1,48 +1,5 @@
 {
-  "calls": [
-    {
-      "Master_Incident_Number": "113025-00113",
-      "Online_Description": "MISSING PERSON",
-      "Address": "1400 BLOCK N BETTY LN",
-      "Response_Date": "2025-11-30T07:35:44"
-    },
-    {
-      "Master_Incident_Number": "113025-00141",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "200 BLOCK LARBOARD WAY",
-      "Response_Date": "2025-11-30T08:56:37"
-    },
-    {
-      "Master_Incident_Number": "113025-00152",
-      "Online_Description": "TRAFFIC CRASH",
-      "Address": "COURT ST / S MISSOURI AVE",
-      "Response_Date": "2025-11-30T09:11:27"
-    },
-    {
-      "Master_Incident_Number": "113025-00156",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "-500 BLOCK 1068 GULF BLVD",
-      "Response_Date": "2025-11-30T09:15:26"
-    },
-    {
-      "Master_Incident_Number": "113025-00157",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "26300 BLOCK US HIGHWAY 19 N",
-      "Response_Date": "2025-11-30T09:16:10"
-    },
-    {
-      "Master_Incident_Number": "113025-00158",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "1300 BLOCK S BELCHER RD",
-      "Response_Date": "2025-11-30T09:16:12"
-    },
-    {
-      "Master_Incident_Number": "113025-00163",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "2800 BLOCK APPLEWOOD DRIVE",
-      "Response_Date": "2025-11-30T09:31:01"
-    }
-  ],
-  "timestamp": "2025-11-30T14:51:18.305804+00:00",
-  "count": 7
+  "calls": [],
+  "timestamp": "2025-11-30T14:59:06.413512+00:00",
+  "count": 0
 }
