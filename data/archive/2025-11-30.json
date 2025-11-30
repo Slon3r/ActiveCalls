@@ -1875,6 +1875,72 @@
           "Response_Date": "2025-11-30T10:18:26"
         }
       ]
+    },
+    {
+      "timestamp": "2025-11-30T15:50:38.116367+00:00",
+      "call_count": 10,
+      "calls": [
+        {
+          "Master_Incident_Number": "113025-00152",
+          "Online_Description": "TRAFFIC CRASH",
+          "Address": "COURT ST / S MISSOURI AVE",
+          "Response_Date": "2025-11-30T09:11:27"
+        },
+        {
+          "Master_Incident_Number": "113025-00168",
+          "Online_Description": "BATTERY",
+          "Address": "300 BLOCK PINELLAS ST",
+          "Response_Date": "2025-11-30T09:40:47"
+        },
+        {
+          "Master_Incident_Number": "113025-00177",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "2200 BLOCK DREW ST",
+          "Response_Date": "2025-11-30T09:55:24"
+        },
+        {
+          "Master_Incident_Number": "113025-00181",
+          "Online_Description": "SUSPICIOUS PERSON",
+          "Address": "200 BLOCK S MARS AVE",
+          "Response_Date": "2025-11-30T09:59:06"
+        },
+        {
+          "Master_Incident_Number": "113025-00183",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "20500 BLOCK US HIGHWAY 19 N",
+          "Response_Date": "2025-11-30T10:03:05"
+        },
+        {
+          "Master_Incident_Number": "113025-00184",
+          "Online_Description": "TRESPASS",
+          "Address": "2700 BLOCK GULF TO BAY BLVD",
+          "Response_Date": "2025-11-30T10:03:29"
+        },
+        {
+          "Master_Incident_Number": "113025-00191",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "S MISSOURI AVE / LAKEVIEW RD",
+          "Response_Date": "2025-11-30T10:18:26"
+        },
+        {
+          "Master_Incident_Number": "113025-00192",
+          "Online_Description": "911 HANG-UP",
+          "Address": "1300 BLOCK N MADISON AVE",
+          "Response_Date": "2025-11-30T10:21:43"
+        },
+        {
+          "Master_Incident_Number": "113025-00194",
+          "Online_Description": "PARK WALK AND TALK",
+          "Address": "-100 BLOCK 218 S GULFVIEW BLVD",
+          "Response_Date": "2025-11-30T10:25:32"
+        },
+        {
+          "Master_Incident_Number": "113025-00196",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "400 BLOCK MANDALAY AVE",
+          "Response_Date": "2025-11-30T10:27:26"
+        }
+      ]
     }
   ]
 }
