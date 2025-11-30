@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 374,
-  "total_resolved": 362,
+  "total_calls_tracked": 379,
+  "total_resolved": 367,
   "call_types": {
-    "DIRECTED PATROL": 130,
+    "DIRECTED PATROL": 132,
     "TRAFFIC STOP": 68,
     "DRUNK DRIVER": 4,
     "DISTURBANCE": 9,
@@ -11,10 +11,10 @@
     "ALARM": 6,
     "KEEP THE PEACE": 8,
     "WELFARE CHECK": 8,
-    "PARK WALK AND TALK": 33,
+    "PARK WALK AND TALK": 35,
     "SUSPICIOUS PERSON": 15,
     "TRESPASS": 7,
-    "PROPERTY FOUND/LOST": 2,
+    "PROPERTY FOUND/LOST": 3,
     "THEFT": 4,
     "NEIGHBOR CALL": 1,
     "911 HANG-UP": 11,
@@ -131,7 +131,7 @@
     "19300 BLOCK US HIGHWAY 19 N": 2,
     "600 BLOCK PIERCE ST": 1,
     "0 BLOCK 99 THIRD ST": 2,
-    "0 BLOCK 98 THIRD ST": 3,
+    "0 BLOCK 98 THIRD ST": 4,
     "100 BLOCK HAMPTON RD": 1,
     "GULF TO BAY BLVD / PARK PLACE BLVD": 1,
     "2000 BLOCK N HERCULES AVE": 2,
@@ -157,7 +157,7 @@
     "-400 BLOCK BLK BLANCHE B LITTLEJOHN TRL": 1,
     "2600 BLOCK GULF TO BAY BLVD": 2,
     "400 BLOCK MANDALAY AVE": 3,
-    "-3200 BLOCK 3399 COURTNEY CAMPBELL CSWY": 1,
+    "-3200 BLOCK 3399 COURTNEY CAMPBELL CSWY": 2,
     "1200 BLOCK GROVE ST": 1,
     "0 BLOCK OLD COACHMAN RD": 1,
     "STOCKWOOD DR / LANDMARK DR": 1,
@@ -299,7 +299,10 @@
     "THIRD ST / CORONADO DR": 1,
     "900 BLOCK N MCMULLEN BOOTH RD": 1,
     "GULF TO BAY BLVD / S GLENWOOD AVE": 1,
-    "300 BLOCK ISLAND WAY": 1
+    "300 BLOCK ISLAND WAY": 1,
+    "2900 BLOCK GULF TO BAY BLVD": 1,
+    "MONTCLAIR RD / N HERCULES AVE": 1,
+    "1000 BLOCK S MISSOURI AVE": 1
   },
   "hourly_distribution": {
     "0": 14,
@@ -314,8 +317,8 @@
     "9": 33,
     "10": 36,
     "11": 29,
-    "12": 27,
-    "13": 20,
+    "12": 31,
+    "13": 21,
     "14": 22,
     "15": 23,
     "16": 21,
@@ -328,7 +331,7 @@
     "23": 7
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-11-30T17:56:21.942403+00:00",
+  "last_updated": "2025-11-30T18:22:10.203035+00:00",
   "peak_active_calls": 14,
-  "total_snapshots": 136
+  "total_snapshots": 137
 }

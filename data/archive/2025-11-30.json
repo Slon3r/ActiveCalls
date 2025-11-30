@@ -2522,6 +2522,84 @@
           "Response_Date": "2025-11-30T12:30:37"
         }
       ]
+    },
+    {
+      "timestamp": "2025-11-30T18:22:10.199131+00:00",
+      "call_count": 12,
+      "calls": [
+        {
+          "Master_Incident_Number": "113025-00239",
+          "Online_Description": "DOMESTIC",
+          "Address": "19100 BLOCK US HIGHWAY 19 N",
+          "Response_Date": "2025-11-30T11:41:55"
+        },
+        {
+          "Master_Incident_Number": "113025-00244",
+          "Online_Description": "WELFARE CHECK",
+          "Address": "1200 BLOCK S HIGHLAND AVE",
+          "Response_Date": "2025-11-30T11:53:16"
+        },
+        {
+          "Master_Incident_Number": "113025-00247",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "THIRD ST / CORONADO DR",
+          "Response_Date": "2025-11-30T12:10:28"
+        },
+        {
+          "Master_Incident_Number": "113025-00251",
+          "Online_Description": "PARK WALK AND TALK",
+          "Address": "300 BLOCK CORONADO DR",
+          "Response_Date": "2025-11-30T12:18:11"
+        },
+        {
+          "Master_Incident_Number": "113025-00256",
+          "Online_Description": "BATTERY",
+          "Address": "2100 BLOCK GULF TO BAY BLVD",
+          "Response_Date": "2025-11-30T12:21:40"
+        },
+        {
+          "Master_Incident_Number": "113025-00255",
+          "Online_Description": "PARK WALK AND TALK",
+          "Address": "0 BLOCK 98 THIRD ST",
+          "Response_Date": "2025-11-30T12:23:45"
+        },
+        {
+          "Master_Incident_Number": "113025-00258",
+          "Online_Description": "PROPERTY FOUND/LOST",
+          "Address": "2900 BLOCK GULF TO BAY BLVD",
+          "Response_Date": "2025-11-30T12:24:12"
+        },
+        {
+          "Master_Incident_Number": "113025-00257",
+          "Online_Description": "PARK WALK AND TALK",
+          "Address": "0 BLOCK 98 THIRD ST",
+          "Response_Date": "2025-11-30T12:25:32"
+        },
+        {
+          "Master_Incident_Number": "113025-00263",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "-3200 BLOCK 3399 COURTNEY CAMPBELL CSWY",
+          "Response_Date": "2025-11-30T12:41:20"
+        },
+        {
+          "Master_Incident_Number": "113025-00264",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "MONTCLAIR RD / N HERCULES AVE",
+          "Response_Date": "2025-11-30T12:45:26"
+        },
+        {
+          "Master_Incident_Number": "113025-00266",
+          "Online_Description": "PARK WALK AND TALK",
+          "Address": "1000 BLOCK S MISSOURI AVE",
+          "Response_Date": "2025-11-30T12:54:28"
+        },
+        {
+          "Master_Incident_Number": "113025-00267",
+          "Online_Description": "PARK WALK AND TALK",
+          "Address": "0 BLOCK 98 THIRD ST",
+          "Response_Date": "2025-11-30T13:01:25"
+        }
+      ]
     }
   ]
 }
