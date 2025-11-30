@@ -1,0 +1,41 @@
+{
+  "date": "2025-11-30",
+  "snapshots": [
+    {
+      "timestamp": "2025-11-30T01:27:37.637398+00:00",
+      "call_count": 5,
+      "calls": [
+        {
+          "Master_Incident_Number": "112925-00485",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "1600 BLOCK N ARCTURAS AVE",
+          "Response_Date": "2025-11-29T19:12:00"
+        },
+        {
+          "Master_Incident_Number": "112925-00497",
+          "Online_Description": "ASSIST CITIZEN",
+          "Address": "1100 BLOCK BECKETT ST",
+          "Response_Date": "2025-11-29T19:51:36"
+        },
+        {
+          "Master_Incident_Number": "112925-00496",
+          "Online_Description": "DISABLED VEHICLE",
+          "Address": "3300 BLOCK COURTNEY CAMPBELL CSWY",
+          "Response_Date": "2025-11-29T19:53:04"
+        },
+        {
+          "Master_Incident_Number": "112925-00498",
+          "Online_Description": "PARK WALK AND TALK",
+          "Address": "300 BLOCK CORONADO DR",
+          "Response_Date": "2025-11-29T19:57:50"
+        },
+        {
+          "Master_Incident_Number": "112925-00499",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "PAPAYA ST / MANDALAY AVE",
+          "Response_Date": "2025-11-29T20:03:38"
+        }
+      ]
+    }
+  ]
+}

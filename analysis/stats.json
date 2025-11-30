@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 222,
-  "total_resolved": 214,
+  "total_calls_tracked": 227,
+  "total_resolved": 222,
   "call_types": {
-    "DIRECTED PATROL": 76,
-    "TRAFFIC STOP": 45,
+    "DIRECTED PATROL": 77,
+    "TRAFFIC STOP": 46,
     "DRUNK DRIVER": 1,
     "DISTURBANCE": 5,
     "BATTERY": 1,
@@ -11,7 +11,7 @@
     "ALARM": 6,
     "KEEP THE PEACE": 7,
     "WELFARE CHECK": 4,
-    "PARK WALK AND TALK": 21,
+    "PARK WALK AND TALK": 22,
     "SUSPICIOUS PERSON": 9,
     "TRESPASS": 6,
     "PROPERTY FOUND/LOST": 2,
@@ -23,8 +23,8 @@
     "VEHICLE ILLEGALLY PARKED": 2,
     "SUSPICIOUS EVENT": 4,
     "TRAFFIC CRASH": 6,
-    "DISABLED VEHICLE": 3,
-    "ASSIST CITIZEN": 1,
+    "DISABLED VEHICLE": 4,
+    "ASSIST CITIZEN": 2,
     "ASSIST OTHER AGENCY": 3,
     "FIRE": 2,
     "FRAUD": 1,
@@ -103,7 +103,7 @@
     "1200 BLOCK DREW ST": 1,
     "2400 BLOCK DREW ST": 1,
     "-1100 BLOCK 1582 GULF BLVD": 1,
-    "3300 BLOCK COURTNEY CAMPBELL CSWY": 1,
+    "3300 BLOCK COURTNEY CAMPBELL CSWY": 2,
     "1200 BLOCK COURT ST": 1,
     "1400 BLOCK OWEN DR": 1,
     "200 BLOCK ISLAND WAY": 2,
@@ -183,7 +183,7 @@
     "1000 BLOCK N MADISON AVE": 1,
     "2800 BLOCK DREW ST": 1,
     "US HIGHWAY 19 N / GULF TO BAY BLVD": 1,
-    "300 BLOCK CORONADO DR": 2,
+    "300 BLOCK CORONADO DR": 3,
     "23600 BLOCK US HIGHWAY 19 N": 1,
     "300 BLOCK MANDALAY AVE": 1,
     "JONES ST / FERN AVE": 1,
@@ -207,7 +207,10 @@
     "-300 BLOCK 339 CORONADO DR": 1,
     "-600 BLOCK 698 CLEVELAND ST": 1,
     "1500 BLOCK S HIGHLAND AVE": 1,
-    "PINELLAS ST / S FORT HARRISON AVE": 1
+    "PINELLAS ST / S FORT HARRISON AVE": 1,
+    "1600 BLOCK N ARCTURAS AVE": 1,
+    "1100 BLOCK BECKETT ST": 1,
+    "PAPAYA ST / MANDALAY AVE": 1
   },
   "hourly_distribution": {
     "0": 4,
@@ -229,14 +232,14 @@
     "16": 21,
     "17": 14,
     "18": 7,
-    "19": 0,
-    "20": 0,
+    "19": 4,
+    "20": 1,
     "21": 0,
     "22": 1,
     "23": 0
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-11-29T23:56:25.818679+00:00",
+  "last_updated": "2025-11-30T01:27:37.638308+00:00",
   "peak_active_calls": 14,
-  "total_snapshots": 77
+  "total_snapshots": 78
 }
