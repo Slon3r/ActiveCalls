@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 329,
-  "total_resolved": 318,
+  "total_calls_tracked": 333,
+  "total_resolved": 321,
   "call_types": {
-    "DIRECTED PATROL": 117,
-    "TRAFFIC STOP": 58,
+    "DIRECTED PATROL": 118,
+    "TRAFFIC STOP": 59,
     "DRUNK DRIVER": 4,
     "DISTURBANCE": 8,
     "BATTERY": 2,
@@ -12,8 +12,8 @@
     "KEEP THE PEACE": 7,
     "WELFARE CHECK": 7,
     "PARK WALK AND TALK": 28,
-    "SUSPICIOUS PERSON": 11,
-    "TRESPASS": 6,
+    "SUSPICIOUS PERSON": 12,
+    "TRESPASS": 7,
     "PROPERTY FOUND/LOST": 2,
     "THEFT": 4,
     "NEIGHBOR CALL": 1,
@@ -91,7 +91,7 @@
     "S MISSOURI AVE / KINGSLEY ST": 1,
     "2200 BLOCK GULF TO BAY BLVD": 2,
     "CLEVELAND ST/S MADISON AVE": 1,
-    "2700 BLOCK GULF TO BAY BLVD": 2,
+    "2700 BLOCK GULF TO BAY BLVD": 3,
     "1400 BLOCK N HIBISCUS ST": 1,
     "2900 BLOCK DREW ST": 1,
     "21200 BLOCK US HIGHWAY 19 N": 1,
@@ -272,7 +272,10 @@
     "1700 BLOCK EL TAIR TRL": 1,
     "SETON DR / MONTCLAIR RD": 1,
     "700 BLOCK S GULFVIEW BLVD": 1,
-    "2200 BLOCK DREW ST": 1
+    "2200 BLOCK DREW ST": 1,
+    "200 BLOCK S MARS AVE": 1,
+    "CLEARWATER MALL": 1,
+    "S MARTIN LUTHER KING JR AVE / TUSKAWILLA DR": 1
   },
   "hourly_distribution": {
     "0": 14,
@@ -284,8 +287,8 @@
     "6": 10,
     "7": 13,
     "8": 30,
-    "9": 32,
-    "10": 17,
+    "9": 33,
+    "10": 20,
     "11": 14,
     "12": 17,
     "13": 20,
@@ -301,7 +304,7 @@
     "23": 7
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-11-30T15:21:37.150945+00:00",
+  "last_updated": "2025-11-30T15:33:32.511409+00:00",
   "peak_active_calls": 14,
-  "total_snapshots": 124
+  "total_snapshots": 125
 }
