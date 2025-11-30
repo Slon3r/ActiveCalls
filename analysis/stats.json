@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 249,
-  "total_resolved": 241,
+  "total_calls_tracked": 254,
+  "total_resolved": 244,
   "call_types": {
-    "DIRECTED PATROL": 82,
-    "TRAFFIC STOP": 50,
+    "DIRECTED PATROL": 83,
+    "TRAFFIC STOP": 52,
     "DRUNK DRIVER": 3,
     "DISTURBANCE": 6,
     "BATTERY": 1,
@@ -12,13 +12,13 @@
     "KEEP THE PEACE": 7,
     "WELFARE CHECK": 5,
     "PARK WALK AND TALK": 23,
-    "SUSPICIOUS PERSON": 9,
+    "SUSPICIOUS PERSON": 10,
     "TRESPASS": 6,
     "PROPERTY FOUND/LOST": 2,
     "THEFT": 2,
     "NEIGHBOR CALL": 1,
     "911 HANG-UP": 3,
-    "SUSPICIOUS VEHICLE": 2,
+    "SUSPICIOUS VEHICLE": 3,
     "PANHANDLER/SOLICITOR": 1,
     "VEHICLE ILLEGALLY PARKED": 2,
     "SUSPICIOUS EVENT": 4,
@@ -136,7 +136,7 @@
     "1300 BLOCK FRANKLIN ST": 1,
     "SUNSET MEADOW DR / COLONY REED LN": 1,
     "0 BLOCK BAY ESPLANADE": 1,
-    "200 BLOCK S GLENWOOD AVE": 1,
+    "200 BLOCK S GLENWOOD AVE": 2,
     "S KEENE RD / DRUID RD": 1,
     "GULF TO BAY BLVD / BAMBOO LN": 1,
     "GULF TO BAY BLVD / BROOKSIDE DR": 1,
@@ -170,7 +170,7 @@
     "2900 BLOCK SWEETGUM WAY S": 1,
     "18600 BLOCK US HIGHWAY 19 N": 1,
     "-500 BLOCK 598 MANDALAY AVE": 1,
-    "300 BLOCK S GULFVIEW BLVD": 3,
+    "300 BLOCK S GULFVIEW BLVD": 4,
     "500 BLOCK S HIGHLAND AVE": 1,
     "1700 BLOCK KINGS HWY": 1,
     "500 BLOCK MANDALAY AVE": 1,
@@ -222,14 +222,16 @@
     "2500 BLOCK FOREST RUN CT": 1,
     "1800 BLOCK SUNSET POINT RD": 1,
     "1100 BLOCK GRANT ST": 1,
-    "COURTNEY CAMPBELL CSWY / DR KIRAN C PATEL BLVD": 1,
+    "COURTNEY CAMPBELL CSWY / DR KIRAN C PATEL BLVD": 2,
     "2000 BLOCK PLATEAU RD": 1,
     "DREW ST / N HIGHLAND AVE": 1,
     "-400 BLOCK 498 S GULFVIEW BLVD": 1,
-    "1500 BLOCK EWING AVE": 1
+    "1500 BLOCK EWING AVE": 1,
+    "600 BLOCK S MARTIN LUTHER KING JR AVE": 1,
+    "MCMULLEN BOOTH RD / DREW ST": 1
   },
   "hourly_distribution": {
-    "0": 5,
+    "0": 10,
     "1": 3,
     "2": 3,
     "3": 4,
@@ -255,7 +257,7 @@
     "23": 6
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-11-30T05:38:58.838976+00:00",
+  "last_updated": "2025-11-30T05:48:48.822333+00:00",
   "peak_active_calls": 14,
-  "total_snapshots": 84
+  "total_snapshots": 85
 }

@@ -378,6 +378,72 @@
           "Response_Date": "2025-11-30T00:17:25"
         }
       ]
+    },
+    {
+      "timestamp": "2025-11-30T05:48:48.820906+00:00",
+      "call_count": 10,
+      "calls": [
+        {
+          "Master_Incident_Number": "112925-00580",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "200 BLOCK S GLENWOOD AVE",
+          "Response_Date": "2025-11-30T00:24:06.663"
+        },
+        {
+          "Master_Incident_Number": "112925-00530",
+          "Online_Description": "TRAFFIC CRASH",
+          "Address": "GULF TO BAY BLVD / S NIMBUS AVE",
+          "Response_Date": "2025-11-29T21:23:06"
+        },
+        {
+          "Master_Incident_Number": "112925-00589",
+          "Online_Description": "DRUNK DRIVER",
+          "Address": "3300 BLOCK COURTNEY CAMPBELL CSWY",
+          "Response_Date": "2025-11-29T23:15:27"
+        },
+        {
+          "Master_Incident_Number": "112925-00590",
+          "Online_Description": "DOMESTIC",
+          "Address": "2000 BLOCK PLATEAU RD",
+          "Response_Date": "2025-11-29T23:19:02"
+        },
+        {
+          "Master_Incident_Number": "112925-00599",
+          "Online_Description": "ANIMAL CASE",
+          "Address": "1500 BLOCK EWING AVE",
+          "Response_Date": "2025-11-29T23:50:24"
+        },
+        {
+          "Master_Incident_Number": "113025-00007",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "300 BLOCK S GULFVIEW BLVD",
+          "Response_Date": "2025-11-30T00:17:25"
+        },
+        {
+          "Master_Incident_Number": "113025-00010",
+          "Online_Description": "SUSPICIOUS PERSON",
+          "Address": "600 BLOCK S MARTIN LUTHER KING JR AVE",
+          "Response_Date": "2025-11-30T00:20:06"
+        },
+        {
+          "Master_Incident_Number": "113025-00008",
+          "Online_Description": "SUSPICIOUS VEHICLE",
+          "Address": "300 BLOCK S GULFVIEW BLVD",
+          "Response_Date": "2025-11-30T00:20:09"
+        },
+        {
+          "Master_Incident_Number": "113025-00012",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "MCMULLEN BOOTH RD / DREW ST",
+          "Response_Date": "2025-11-30T00:25:17"
+        },
+        {
+          "Master_Incident_Number": "113025-00013",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "COURTNEY CAMPBELL CSWY / DR KIRAN C PATEL BLVD",
+          "Response_Date": "2025-11-30T00:25:53"
+        }
+      ]
     }
   ]
 }
