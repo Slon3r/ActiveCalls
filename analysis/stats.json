@@ -1,6 +1,6 @@
 {
-  "total_calls_tracked": 445,
-  "total_resolved": 436,
+  "total_calls_tracked": 446,
+  "total_resolved": 437,
   "call_types": {
     "DIRECTED PATROL": 155,
     "TRAFFIC STOP": 79,
@@ -13,7 +13,7 @@
     "WELFARE CHECK": 10,
     "PARK WALK AND TALK": 37,
     "SUSPICIOUS PERSON": 17,
-    "TRESPASS": 8,
+    "TRESPASS": 9,
     "PROPERTY FOUND/LOST": 4,
     "THEFT": 4,
     "NEIGHBOR CALL": 2,
@@ -96,7 +96,7 @@
     "2700 BLOCK GULF TO BAY BLVD": 3,
     "1400 BLOCK N HIBISCUS ST": 1,
     "2900 BLOCK DREW ST": 2,
-    "21200 BLOCK US HIGHWAY 19 N": 1,
+    "21200 BLOCK US HIGHWAY 19 N": 2,
     "1700 BLOCK SUNSET POINT RD": 1,
     "2300 BLOCK GULF TO BAY BLVD": 1,
     "1200 BLOCK CLEVELAND ST": 5,
@@ -358,7 +358,7 @@
     "14": 35,
     "15": 39,
     "16": 36,
-    "17": 19,
+    "17": 20,
     "18": 7,
     "19": 4,
     "20": 3,
@@ -367,7 +367,7 @@
     "23": 7
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-11-30T22:46:43.137173+00:00",
+  "last_updated": "2025-11-30T22:54:33.910330+00:00",
   "peak_active_calls": 14,
-  "total_snapshots": 157
+  "total_snapshots": 158
 }
