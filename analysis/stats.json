@@ -1,23 +1,23 @@
 {
-  "total_calls_tracked": 415,
-  "total_resolved": 403,
+  "total_calls_tracked": 420,
+  "total_resolved": 406,
   "call_types": {
-    "DIRECTED PATROL": 142,
+    "DIRECTED PATROL": 144,
     "TRAFFIC STOP": 74,
     "DRUNK DRIVER": 4,
     "DISTURBANCE": 10,
     "BATTERY": 3,
     "CRIMINAL MISCHIEF": 1,
     "ALARM": 6,
-    "KEEP THE PEACE": 9,
+    "KEEP THE PEACE": 10,
     "WELFARE CHECK": 9,
     "PARK WALK AND TALK": 37,
-    "SUSPICIOUS PERSON": 16,
+    "SUSPICIOUS PERSON": 17,
     "TRESPASS": 7,
     "PROPERTY FOUND/LOST": 4,
     "THEFT": 4,
     "NEIGHBOR CALL": 2,
-    "911 HANG-UP": 13,
+    "911 HANG-UP": 14,
     "SUSPICIOUS VEHICLE": 6,
     "PANHANDLER/SOLICITOR": 1,
     "VEHICLE ILLEGALLY PARKED": 3,
@@ -324,7 +324,12 @@
     "1300 BLOCK GULF BLVD": 1,
     "0 BLOCK N NEPTUNE AVE": 1,
     "S MYRTLE AVE / COURT ST": 1,
-    "OLD COACHMAN RD / GULF TO BAY BLVD": 1
+    "OLD COACHMAN RD / GULF TO BAY BLVD": 1,
+    "700 BLOCK ELDORADO AVE": 1,
+    "700 BLOCK COURT ST": 1,
+    "2500 BLOCK DRUID RD": 1,
+    "100 BLOCK S GULFVIEW BLVD": 1,
+    "DREW ST / N NIMBUS AVE": 1
   },
   "hourly_distribution": {
     "0": 14,
@@ -342,7 +347,7 @@
     "12": 31,
     "13": 37,
     "14": 35,
-    "15": 30,
+    "15": 35,
     "16": 21,
     "17": 14,
     "18": 7,
@@ -353,7 +358,7 @@
     "23": 7
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-11-30T20:40:19.673705+00:00",
+  "last_updated": "2025-11-30T20:49:20.979629+00:00",
   "peak_active_calls": 14,
-  "total_snapshots": 147
+  "total_snapshots": 148
 }
