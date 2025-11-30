@@ -1,12 +1,6 @@
 {
   "calls": [
     {
-      "Master_Incident_Number": "113025-00244",
-      "Online_Description": "DECEASED PERSON",
-      "Address": "1200 BLOCK S HIGHLAND AVE",
-      "Response_Date": "2025-11-30T11:53:16"
-    },
-    {
       "Master_Incident_Number": "113025-00310",
       "Online_Description": "FRAUD",
       "Address": "1800 BLOCK GULF TO BAY BLVD",
@@ -37,12 +31,6 @@
       "Response_Date": "2025-11-30T16:13:09"
     },
     {
-      "Master_Incident_Number": "113025-00355",
-      "Online_Description": "TRESPASS",
-      "Address": "200 BLOCK PIERCE ST",
-      "Response_Date": "2025-11-30T16:18:18"
-    },
-    {
       "Master_Incident_Number": "113025-00356",
       "Online_Description": "DIRECTED PATROL",
       "Address": "MEMORIAL CSWY",
@@ -67,24 +55,12 @@
       "Response_Date": "2025-11-30T16:25:55"
     },
     {
-      "Master_Incident_Number": "113025-00360",
-      "Online_Description": "TRAFFIC STOP",
-      "Address": "0 BLOCK MEMORIAL CSWY",
-      "Response_Date": "2025-11-30T16:26:22"
-    },
-    {
       "Master_Incident_Number": "113025-00361",
       "Online_Description": "DIRECTED PATROL",
       "Address": "1000 BLOCK GULF BLVD",
       "Response_Date": "2025-11-30T16:27:06"
-    },
-    {
-      "Master_Incident_Number": "113025-00362",
-      "Online_Description": "TRAFFIC STOP",
-      "Address": "DEVON DR  / CORONADO DR",
-      "Response_Date": "2025-11-30T16:27:25"
     }
   ],
-  "timestamp": "2025-11-30T21:49:45.663090+00:00",
-  "count": 14
+  "timestamp": "2025-11-30T21:57:48.284659+00:00",
+  "count": 10
 }

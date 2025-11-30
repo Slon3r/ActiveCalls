@@ -3674,6 +3674,72 @@
           "Response_Date": "2025-11-30T16:27:25"
         }
       ]
+    },
+    {
+      "timestamp": "2025-11-30T21:57:48.284659+00:00",
+      "call_count": 10,
+      "calls": [
+        {
+          "Master_Incident_Number": "113025-00310",
+          "Online_Description": "FRAUD",
+          "Address": "1800 BLOCK GULF TO BAY BLVD",
+          "Response_Date": "2025-11-30T14:43:14"
+        },
+        {
+          "Master_Incident_Number": "113025-00325",
+          "Online_Description": "SHOPLIFTING",
+          "Address": "23100 BLOCK US HIGHWAY 19 N",
+          "Response_Date": "2025-11-30T15:08:13"
+        },
+        {
+          "Master_Incident_Number": "113025-00330",
+          "Online_Description": "KEEP THE PEACE",
+          "Address": "2500 BLOCK DRUID RD",
+          "Response_Date": "2025-11-30T15:21:33"
+        },
+        {
+          "Master_Incident_Number": "113025-00344",
+          "Online_Description": "TRAFFIC CRASH",
+          "Address": "18400 BLOCK US HIGHWAY 19 N",
+          "Response_Date": "2025-11-30T15:55:45"
+        },
+        {
+          "Master_Incident_Number": "113025-00350",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "300 BLOCK CLEVELAND ST",
+          "Response_Date": "2025-11-30T16:13:09"
+        },
+        {
+          "Master_Incident_Number": "113025-00356",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "MEMORIAL CSWY",
+          "Response_Date": "2025-11-30T16:19:51"
+        },
+        {
+          "Master_Incident_Number": "113025-00357",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "MEMORIAL CSWY",
+          "Response_Date": "2025-11-30T16:22:51"
+        },
+        {
+          "Master_Incident_Number": "113025-00358",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "1300 BLOCK CLEVELAND ST",
+          "Response_Date": "2025-11-30T16:25:19"
+        },
+        {
+          "Master_Incident_Number": "113025-00359",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "0 BLOCK MEMORIAL CSWY",
+          "Response_Date": "2025-11-30T16:25:55"
+        },
+        {
+          "Master_Incident_Number": "113025-00361",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "1000 BLOCK GULF BLVD",
+          "Response_Date": "2025-11-30T16:27:06"
+        }
+      ]
     }
   ]
 }
