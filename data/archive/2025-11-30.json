@@ -3092,6 +3092,96 @@
           "Response_Date": "2025-11-30T14:37:27"
         }
       ]
+    },
+    {
+      "timestamp": "2025-11-30T20:26:04.804344+00:00",
+      "call_count": 14,
+      "calls": [
+        {
+          "Master_Incident_Number": "113025-00297",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "2800 BLOCK GLORIA CT",
+          "Response_Date": "2025-11-30T14:56:58.033"
+        },
+        {
+          "Master_Incident_Number": "113025-00244",
+          "Online_Description": "WELFARE CHECK",
+          "Address": "1200 BLOCK S HIGHLAND AVE",
+          "Response_Date": "2025-11-30T11:53:16"
+        },
+        {
+          "Master_Incident_Number": "113025-00256",
+          "Online_Description": "BATTERY",
+          "Address": "2100 BLOCK GULF TO BAY BLVD",
+          "Response_Date": "2025-11-30T12:21:40"
+        },
+        {
+          "Master_Incident_Number": "113025-00285",
+          "Online_Description": "SHOPLIFTING",
+          "Address": "27000 BLOCK US HIGHWAY 19 N",
+          "Response_Date": "2025-11-30T13:37:27"
+        },
+        {
+          "Master_Incident_Number": "113025-00287",
+          "Online_Description": "PROPERTY FOUND/LOST",
+          "Address": "1700 BLOCK GULF TO BAY BLVD",
+          "Response_Date": "2025-11-30T13:40:17"
+        },
+        {
+          "Master_Incident_Number": "113025-00303",
+          "Online_Description": "NEIGHBOR CALL",
+          "Address": "2700 BLOCK COTTONWOOD CT",
+          "Response_Date": "2025-11-30T14:17:50"
+        },
+        {
+          "Master_Incident_Number": "113025-00308",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "27000 BLOCK US HIGHWAY 19 N",
+          "Response_Date": "2025-11-30T14:37:27"
+        },
+        {
+          "Master_Incident_Number": "113025-00311",
+          "Online_Description": "ASSIST CITIZEN",
+          "Address": "1400 BLOCK N FORT HARRISON AVE",
+          "Response_Date": "2025-11-30T14:45:13"
+        },
+        {
+          "Master_Incident_Number": "113025-00310",
+          "Online_Description": "FRAUD",
+          "Address": "1800 BLOCK GULF TO BAY BLVD",
+          "Response_Date": "2025-11-30T14:43:14"
+        },
+        {
+          "Master_Incident_Number": "113025-00312",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "600 BLOCK S GULFVIEW BLVD",
+          "Response_Date": "2025-11-30T14:48:54"
+        },
+        {
+          "Master_Incident_Number": "113025-00316",
+          "Online_Description": "DISTURBANCE",
+          "Address": "400 BLOCK S MISSOURI AVE",
+          "Response_Date": "2025-11-30T14:55:21"
+        },
+        {
+          "Master_Incident_Number": "113025-00315",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "2800 BLOCK DREW ST",
+          "Response_Date": "2025-11-30T14:56:23"
+        },
+        {
+          "Master_Incident_Number": "113025-00321",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "-1700 BLOCK 1748 WESTON DR",
+          "Response_Date": "2025-11-30T15:01:01"
+        },
+        {
+          "Master_Incident_Number": "113025-00323",
+          "Online_Description": "PARK WALK AND TALK",
+          "Address": "1300 BLOCK GULF BLVD",
+          "Response_Date": "2025-11-30T15:02:08"
+        }
+      ]
     }
   ]
 }
