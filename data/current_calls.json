@@ -7,34 +7,10 @@
       "Response_Date": "2025-11-30T09:11:27"
     },
     {
-      "Master_Incident_Number": "113025-00157",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "26300 BLOCK US HIGHWAY 19 N",
-      "Response_Date": "2025-11-30T09:16:10"
-    },
-    {
-      "Master_Incident_Number": "113025-00167",
-      "Online_Description": "CIVIL MATTER",
-      "Address": "1500 BLOCK EXCALIBER DR",
-      "Response_Date": "2025-11-30T09:30:19"
-    },
-    {
       "Master_Incident_Number": "113025-00168",
       "Online_Description": "BATTERY",
       "Address": "300 BLOCK PINELLAS ST",
       "Response_Date": "2025-11-30T09:40:47"
-    },
-    {
-      "Master_Incident_Number": "113025-00173",
-      "Online_Description": "TRAFFIC CRASH",
-      "Address": "1700 BLOCK EL TAIR TRL",
-      "Response_Date": "2025-11-30T09:46:51"
-    },
-    {
-      "Master_Incident_Number": "113025-00174",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "SETON DR / MONTCLAIR RD",
-      "Response_Date": "2025-11-30T09:49:52"
     },
     {
       "Master_Incident_Number": "113025-00176",
@@ -57,7 +33,7 @@
     {
       "Master_Incident_Number": "113025-00183",
       "Online_Description": "DIRECTED PATROL",
-      "Address": "CLEARWATER MALL",
+      "Address": "20500 BLOCK US HIGHWAY 19 N",
       "Response_Date": "2025-11-30T10:03:05"
     },
     {
@@ -71,8 +47,20 @@
       "Online_Description": "TRAFFIC STOP",
       "Address": "S MARTIN LUTHER KING JR AVE / TUSKAWILLA DR",
       "Response_Date": "2025-11-30T10:08:49"
+    },
+    {
+      "Master_Incident_Number": "113025-00189",
+      "Online_Description": "SUSPICIOUS PERSON",
+      "Address": "600 BLOCK MCLENNAN ST",
+      "Response_Date": "2025-11-30T10:13:00"
+    },
+    {
+      "Master_Incident_Number": "113025-00191",
+      "Online_Description": "TRAFFIC STOP",
+      "Address": "S MISSOURI AVE / LAKEVIEW RD",
+      "Response_Date": "2025-11-30T10:18:26"
     }
   ],
-  "timestamp": "2025-11-30T15:33:32.508404+00:00",
-  "count": 12
+  "timestamp": "2025-11-30T15:42:49.700391+00:00",
+  "count": 10
 }

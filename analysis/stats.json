@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 333,
-  "total_resolved": 321,
+  "total_calls_tracked": 335,
+  "total_resolved": 325,
   "call_types": {
     "DIRECTED PATROL": 118,
-    "TRAFFIC STOP": 59,
+    "TRAFFIC STOP": 60,
     "DRUNK DRIVER": 4,
     "DISTURBANCE": 8,
     "BATTERY": 2,
@@ -12,7 +12,7 @@
     "KEEP THE PEACE": 7,
     "WELFARE CHECK": 7,
     "PARK WALK AND TALK": 28,
-    "SUSPICIOUS PERSON": 12,
+    "SUSPICIOUS PERSON": 13,
     "TRESPASS": 7,
     "PROPERTY FOUND/LOST": 2,
     "THEFT": 4,
@@ -78,7 +78,7 @@
     "1300 BLOCK CLEVELAND ST": 2,
     "2100 BLOCK BELCHER RD": 1,
     "SAND KEY PARK ENTRANCE": 1,
-    "S MISSOURI AVE / LAKEVIEW RD": 2,
+    "S MISSOURI AVE / LAKEVIEW RD": 3,
     "23100 BLOCK US HIGHWAY 19 N": 1,
     "1200 BLOCK N BETTY LN": 1,
     "MCMULLEN BOOTH RD / SR 590": 1,
@@ -275,7 +275,8 @@
     "2200 BLOCK DREW ST": 1,
     "200 BLOCK S MARS AVE": 1,
     "CLEARWATER MALL": 1,
-    "S MARTIN LUTHER KING JR AVE / TUSKAWILLA DR": 1
+    "S MARTIN LUTHER KING JR AVE / TUSKAWILLA DR": 1,
+    "600 BLOCK MCLENNAN ST": 1
   },
   "hourly_distribution": {
     "0": 14,
@@ -288,7 +289,7 @@
     "7": 13,
     "8": 30,
     "9": 33,
-    "10": 20,
+    "10": 22,
     "11": 14,
     "12": 17,
     "13": 20,
@@ -304,7 +305,7 @@
     "23": 7
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-11-30T15:33:32.511409+00:00",
+  "last_updated": "2025-11-30T15:42:49.703460+00:00",
   "peak_active_calls": 14,
-  "total_snapshots": 125
+  "total_snapshots": 126
 }
