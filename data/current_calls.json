@@ -13,12 +13,6 @@
       "Response_Date": "2025-12-01T12:07:46"
     },
     {
-      "Master_Incident_Number": "120125-00267",
-      "Online_Description": "TRAFFIC CRASH",
-      "Address": "FERNWOOD AVE / GULF TO BAY BLVD",
-      "Response_Date": "2025-12-01T13:49:05"
-    },
-    {
       "Master_Incident_Number": "120125-00274",
       "Online_Description": "SCHOOL CROSSING",
       "Address": "DREW ST / FAIRWOOD AVE",
@@ -49,12 +43,30 @@
       "Response_Date": "2025-12-01T14:52:35"
     },
     {
+      "Master_Incident_Number": "120125-00313",
+      "Online_Description": "ASSIST OTHER AGENCY",
+      "Address": "1100 BLOCK LAKEVIEW RD",
+      "Response_Date": "2025-12-01T15:07:22"
+    },
+    {
       "Master_Incident_Number": "120125-00312",
       "Online_Description": "SUSPICIOUS PERSON",
       "Address": "1600 BLOCK N HIGHLAND AVE",
       "Response_Date": "2025-12-01T15:05:58"
+    },
+    {
+      "Master_Incident_Number": "120125-00314",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "21400 BLOCK US HIGHWAY 19 N",
+      "Response_Date": "2025-12-01T15:12:17"
+    },
+    {
+      "Master_Incident_Number": "120125-00317",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "0 BLOCK 98 S MAIN AVE",
+      "Response_Date": "2025-12-01T15:19:05"
     }
   ],
-  "timestamp": "2025-12-01T20:32:34.859608+00:00",
-  "count": 9
+  "timestamp": "2025-12-01T20:42:49.220251+00:00",
+  "count": 11
 }

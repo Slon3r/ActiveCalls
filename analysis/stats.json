@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 631,
-  "total_resolved": 622,
+  "total_calls_tracked": 634,
+  "total_resolved": 623,
   "call_types": {
-    "DIRECTED PATROL": 219,
+    "DIRECTED PATROL": 221,
     "TRAFFIC STOP": 102,
     "DRUNK DRIVER": 4,
     "DISTURBANCE": 14,
@@ -25,7 +25,7 @@
     "TRAFFIC CRASH": 26,
     "DISABLED VEHICLE": 7,
     "ASSIST CITIZEN": 16,
-    "ASSIST OTHER AGENCY": 4,
+    "ASSIST OTHER AGENCY": 5,
     "FIRE": 2,
     "FRAUD": 3,
     "RECKLESS VEHICLE": 2,
@@ -451,7 +451,10 @@
     "1600 BLOCK MISTY PLATEAU TRL": 1,
     "BAYMONT ST / MANDALAY AVE": 1,
     "3300 BLOCK SAN GABRIEL ST": 1,
-    "700 BLOCK ISLAND WAY": 1
+    "700 BLOCK ISLAND WAY": 1,
+    "1100 BLOCK LAKEVIEW RD": 1,
+    "21400 BLOCK US HIGHWAY 19 N": 1,
+    "0 BLOCK 98 S MAIN AVE": 1
   },
   "hourly_distribution": {
     "0": 20,
@@ -469,7 +472,7 @@
     "12": 46,
     "13": 52,
     "14": 57,
-    "15": 41,
+    "15": 44,
     "16": 36,
     "17": 25,
     "18": 19,
@@ -480,7 +483,7 @@
     "23": 10
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-01T20:32:34.863027+00:00",
+  "last_updated": "2025-12-01T20:42:49.223657+00:00",
   "peak_active_calls": 15,
-  "total_snapshots": 211
+  "total_snapshots": 212
 }
