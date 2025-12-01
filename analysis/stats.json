@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 678,
-  "total_resolved": 670,
+  "total_calls_tracked": 682,
+  "total_resolved": 671,
   "call_types": {
-    "DIRECTED PATROL": 232,
+    "DIRECTED PATROL": 235,
     "TRAFFIC STOP": 105,
     "DRUNK DRIVER": 4,
     "DISTURBANCE": 15,
@@ -13,7 +13,7 @@
     "WELFARE CHECK": 16,
     "PARK WALK AND TALK": 53,
     "SUSPICIOUS PERSON": 27,
-    "TRESPASS": 17,
+    "TRESPASS": 18,
     "PROPERTY FOUND/LOST": 4,
     "THEFT": 7,
     "NEIGHBOR CALL": 5,
@@ -480,7 +480,11 @@
     "US HIGHWAY 19 N / MCCORMICK DR": 1,
     "700 BLOCK BAYWAY BLVD": 1,
     "BAYMONT ST / POINSETTIA AVE": 1,
-    "-600 BLOCK 887 HARBOR IS": 1
+    "-600 BLOCK 887 HARBOR IS": 1,
+    "2500 BLOCK SANDS TER S": 1,
+    "-600 BLOCK 804 SNUG IS": 1,
+    "700 BLOCK DREW ST": 1,
+    "0 BLOCK 98 N MYRTLE AVE": 1
   },
   "hourly_distribution": {
     "0": 20,
@@ -501,7 +505,7 @@
     "15": 54,
     "16": 54,
     "17": 37,
-    "18": 23,
+    "18": 27,
     "19": 8,
     "20": 5,
     "21": 8,
@@ -509,7 +513,7 @@
     "23": 10
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-01T23:31:27.422930+00:00",
+  "last_updated": "2025-12-01T23:43:40.589276+00:00",
   "peak_active_calls": 15,
-  "total_snapshots": 225
+  "total_snapshots": 226
 }

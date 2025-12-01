@@ -2995,6 +2995,78 @@
           "Response_Date": "2025-12-01T18:10:44"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-01T23:43:40.584889+00:00",
+      "call_count": 11,
+      "calls": [
+        {
+          "Master_Incident_Number": "120125-00313",
+          "Online_Description": "DECEASED PERSON",
+          "Address": "1100 BLOCK LAKEVIEW RD",
+          "Response_Date": "2025-12-01T15:07:22"
+        },
+        {
+          "Master_Incident_Number": "120125-00376",
+          "Online_Description": "WELFARE CHECK",
+          "Address": "2500 BLOCK FOREST RUN CT",
+          "Response_Date": "2025-12-01T17:17:38"
+        },
+        {
+          "Master_Incident_Number": "120125-00377",
+          "Online_Description": "ASSIST OTHER AGENCY",
+          "Address": "22900 BLOCK US HIGHWAY 19 N",
+          "Response_Date": "2025-12-01T17:18:26"
+        },
+        {
+          "Master_Incident_Number": "120125-00404",
+          "Online_Description": "CIVIL MATTER",
+          "Address": "2900 BLOCK GULF TO BAY BLVD",
+          "Response_Date": "2025-12-01T17:59:18"
+        },
+        {
+          "Master_Incident_Number": "120125-00408",
+          "Online_Description": "TRAFFIC CRASH",
+          "Address": "US HIGHWAY 19 N / DRUID RD",
+          "Response_Date": "2025-12-01T18:03:55"
+        },
+        {
+          "Master_Incident_Number": "120125-00411",
+          "Online_Description": "PARK WALK AND TALK",
+          "Address": "1200 BLOCK S HIGHLAND AVE",
+          "Response_Date": "2025-12-01T18:07:55"
+        },
+        {
+          "Master_Incident_Number": "120125-00415",
+          "Online_Description": "TRESPASS",
+          "Address": "2500 BLOCK SANDS TER S",
+          "Response_Date": "2025-12-01T18:10:14"
+        },
+        {
+          "Master_Incident_Number": "120125-00412",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "1800 BLOCK N HIGHLAND AVE",
+          "Response_Date": "2025-12-01T18:10:26"
+        },
+        {
+          "Master_Incident_Number": "120125-00418",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "-600 BLOCK 804 SNUG IS",
+          "Response_Date": "2025-12-01T18:15:29"
+        },
+        {
+          "Master_Incident_Number": "120125-00420",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "700 BLOCK DREW ST",
+          "Response_Date": "2025-12-01T18:20:53"
+        },
+        {
+          "Master_Incident_Number": "120125-00421",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "0 BLOCK 98 N MYRTLE AVE",
+          "Response_Date": "2025-12-01T18:22:54"
+        }
+      ]
     }
   ]
 }
