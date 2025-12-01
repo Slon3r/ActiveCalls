@@ -2463,3 +2463,15 @@ TOTAL ACTIVE CALLS: 1
 ================================================================================
 
 No changes since last check.
+
+================================================================================
+TIMESTAMP: 2025-12-01T08:21:25.183039+00:00
+TOTAL ACTIVE CALLS: 2
+================================================================================
+
+--- NEW CALLS (2) ---
+[NEW] 120125-00030 | TRESPASS | 20000 BLOCK US HIGHWAY 19 N | Response: 02:45 AM
+[NEW] 120125-00031 | DIRECTED PATROL | 0 BLOCK 33 BAY ESPLANADE | Response: 02:57 AM
+
+--- RESOLVED CALLS (1) ---
+[RESOLVED] 120125-00027 | DISTURBANCE | 1700 BLOCK FLAGLER DR | Response: 02:00 AM

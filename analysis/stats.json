@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 497,
-  "total_resolved": 496,
+  "total_calls_tracked": 499,
+  "total_resolved": 497,
   "call_types": {
-    "DIRECTED PATROL": 172,
+    "DIRECTED PATROL": 173,
     "TRAFFIC STOP": 89,
     "DRUNK DRIVER": 4,
     "DISTURBANCE": 13,
@@ -13,7 +13,7 @@
     "WELFARE CHECK": 13,
     "PARK WALK AND TALK": 42,
     "SUSPICIOUS PERSON": 19,
-    "TRESPASS": 10,
+    "TRESPASS": 11,
     "PROPERTY FOUND/LOST": 4,
     "THEFT": 4,
     "NEIGHBOR CALL": 4,
@@ -368,12 +368,14 @@
     "1500 BLOCK DRUID RD": 1,
     "GULF TO BAY BLVD / S HIGHLAND AVE": 1,
     "1600 BLOCK N HIGHLAND AVE": 1,
-    "1700 BLOCK FLAGLER DR": 1
+    "1700 BLOCK FLAGLER DR": 1,
+    "20000 BLOCK US HIGHWAY 19 N": 1,
+    "0 BLOCK 33 BAY ESPLANADE": 1
   },
   "hourly_distribution": {
     "0": 20,
     "1": 19,
-    "2": 10,
+    "2": 12,
     "3": 10,
     "4": 2,
     "5": 12,
@@ -397,7 +399,7 @@
     "23": 10
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-01T07:54:48.823860+00:00",
+  "last_updated": "2025-12-01T08:21:25.184536+00:00",
   "peak_active_calls": 14,
-  "total_snapshots": 175
+  "total_snapshots": 176
 }
