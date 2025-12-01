@@ -13,28 +13,10 @@
       "Response_Date": "2025-12-01T07:57:24"
     },
     {
-      "Master_Incident_Number": "120125-00112",
-      "Online_Description": "TRAFFIC CRASH",
-      "Address": "MONTCLAIR RD / N BELCHER RD",
-      "Response_Date": "2025-12-01T08:24:18"
-    },
-    {
-      "Master_Incident_Number": "120125-00115",
-      "Online_Description": "PARK WALK AND TALK",
-      "Address": "300 BLOCK CLEVELAND ST",
-      "Response_Date": "2025-12-01T08:27:43"
-    },
-    {
       "Master_Incident_Number": "120125-00117",
       "Online_Description": "TRAFFIC CRASH",
       "Address": "GULF TO BAY BLVD / MCMULLEN BOOTH RD S",
       "Response_Date": "2025-12-01T08:29:41"
-    },
-    {
-      "Master_Incident_Number": "120125-00119",
-      "Online_Description": "ASSIST CITIZEN",
-      "Address": "300 BLOCK PINELLAS ST",
-      "Response_Date": "2025-12-01T08:34:06"
     },
     {
       "Master_Incident_Number": "120125-00122",
@@ -49,12 +31,24 @@
       "Response_Date": "2025-12-01T08:49:24"
     },
     {
-      "Master_Incident_Number": "120125-00125",
-      "Online_Description": "TRAFFIC STOP",
-      "Address": "DREW ST / N BETTY LN",
-      "Response_Date": "2025-12-01T08:50:50"
+      "Master_Incident_Number": "120125-00130",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "2400 BLOCK DREW ST",
+      "Response_Date": "2025-12-01T09:02:37"
+    },
+    {
+      "Master_Incident_Number": "120125-00131",
+      "Online_Description": "ASSIST CITIZEN",
+      "Address": "1300 BLOCK N MARTIN LUTHER KING JR AVE",
+      "Response_Date": "2025-12-01T09:02:50"
+    },
+    {
+      "Master_Incident_Number": "120125-00137",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "600 BLOCK MANDALAY AVE",
+      "Response_Date": "2025-12-01T09:19:35"
     }
   ],
-  "timestamp": "2025-12-01T14:12:54.992164+00:00",
-  "count": 9
+  "timestamp": "2025-12-01T14:40:13.631354+00:00",
+  "count": 8
 }
