@@ -1567,6 +1567,42 @@
           "Response_Date": "2025-12-01T12:30:18"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-01T18:28:31.146619+00:00",
+      "call_count": 5,
+      "calls": [
+        {
+          "Master_Incident_Number": "120125-00094",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "1300 BLOCK N MARTIN LUTHER KING JR AVE",
+          "Response_Date": "2025-12-01T07:57:24"
+        },
+        {
+          "Master_Incident_Number": "120125-00131",
+          "Online_Description": "ASSIST CITIZEN",
+          "Address": "1300 BLOCK N MARTIN LUTHER KING JR AVE",
+          "Response_Date": "2025-12-01T09:02:50"
+        },
+        {
+          "Master_Incident_Number": "120125-00219",
+          "Online_Description": "TRESPASS",
+          "Address": "400 BLOCK EAST SHORE DR",
+          "Response_Date": "2025-12-01T12:07:46"
+        },
+        {
+          "Master_Incident_Number": "120125-00243",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "1800 BLOCK SUNSET POINT RD",
+          "Response_Date": "2025-12-01T12:53:40"
+        },
+        {
+          "Master_Incident_Number": "120125-00247",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "300 BLOCK CORONADO DR",
+          "Response_Date": "2025-12-01T12:59:33"
+        }
+      ]
     }
   ]
 }

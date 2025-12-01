@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 590,
-  "total_resolved": 575,
+  "total_calls_tracked": 592,
+  "total_resolved": 587,
   "call_types": {
-    "DIRECTED PATROL": 211,
+    "DIRECTED PATROL": 213,
     "TRAFFIC STOP": 97,
     "DRUNK DRIVER": 4,
     "DISTURBANCE": 14,
@@ -192,7 +192,7 @@
     "1000 BLOCK N MADISON AVE": 1,
     "2800 BLOCK DREW ST": 2,
     "US HIGHWAY 19 N / GULF TO BAY BLVD": 1,
-    "300 BLOCK CORONADO DR": 6,
+    "300 BLOCK CORONADO DR": 7,
     "23600 BLOCK US HIGHWAY 19 N": 1,
     "300 BLOCK MANDALAY AVE": 1,
     "JONES ST / FERN AVE": 1,
@@ -227,7 +227,7 @@
     "600 BLOCK LEMBO CIR": 1,
     "1500 BLOCK RIDGEWOOD ST": 1,
     "2500 BLOCK FOREST RUN CT": 1,
-    "1800 BLOCK SUNSET POINT RD": 1,
+    "1800 BLOCK SUNSET POINT RD": 2,
     "1100 BLOCK GRANT ST": 1,
     "COURTNEY CAMPBELL CSWY / DR KIRAN C PATEL BLVD": 2,
     "2000 BLOCK PLATEAU RD": 3,
@@ -435,7 +435,7 @@
     "9": 50,
     "10": 50,
     "11": 42,
-    "12": 43,
+    "12": 45,
     "13": 38,
     "14": 35,
     "15": 39,
@@ -449,7 +449,7 @@
     "23": 10
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-01T17:56:12.845403+00:00",
+  "last_updated": "2025-12-01T18:28:31.149516+00:00",
   "peak_active_calls": 15,
-  "total_snapshots": 203
+  "total_snapshots": 204
 }
