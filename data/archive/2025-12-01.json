@@ -710,6 +710,66 @@
           "Response_Date": "2025-12-01T08:29:41"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-01T14:12:54.992164+00:00",
+      "call_count": 9,
+      "calls": [
+        {
+          "Master_Incident_Number": "120125-00096",
+          "Online_Description": "PARK WALK AND TALK",
+          "Address": "1300 BLOCK PARK ST",
+          "Response_Date": "2025-12-01T08:00:10.607"
+        },
+        {
+          "Master_Incident_Number": "120125-00094",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "1300 BLOCK N MARTIN LUTHER KING JR AVE",
+          "Response_Date": "2025-12-01T07:57:24"
+        },
+        {
+          "Master_Incident_Number": "120125-00112",
+          "Online_Description": "TRAFFIC CRASH",
+          "Address": "MONTCLAIR RD / N BELCHER RD",
+          "Response_Date": "2025-12-01T08:24:18"
+        },
+        {
+          "Master_Incident_Number": "120125-00115",
+          "Online_Description": "PARK WALK AND TALK",
+          "Address": "300 BLOCK CLEVELAND ST",
+          "Response_Date": "2025-12-01T08:27:43"
+        },
+        {
+          "Master_Incident_Number": "120125-00117",
+          "Online_Description": "TRAFFIC CRASH",
+          "Address": "GULF TO BAY BLVD / MCMULLEN BOOTH RD S",
+          "Response_Date": "2025-12-01T08:29:41"
+        },
+        {
+          "Master_Incident_Number": "120125-00119",
+          "Online_Description": "ASSIST CITIZEN",
+          "Address": "300 BLOCK PINELLAS ST",
+          "Response_Date": "2025-12-01T08:34:06"
+        },
+        {
+          "Master_Incident_Number": "120125-00122",
+          "Online_Description": "SUSPICIOUS EVENT",
+          "Address": "1400 BLOCK FAIRMONT ST",
+          "Response_Date": "2025-12-01T08:43:36"
+        },
+        {
+          "Master_Incident_Number": "120125-00124",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "1000 BLOCK GULF BLVD",
+          "Response_Date": "2025-12-01T08:49:24"
+        },
+        {
+          "Master_Incident_Number": "120125-00125",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "DREW ST / N BETTY LN",
+          "Response_Date": "2025-12-01T08:50:50"
+        }
+      ]
     }
   ]
 }

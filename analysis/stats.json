@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 529,
-  "total_resolved": 521,
+  "total_calls_tracked": 533,
+  "total_resolved": 524,
   "call_types": {
-    "DIRECTED PATROL": 188,
-    "TRAFFIC STOP": 92,
+    "DIRECTED PATROL": 189,
+    "TRAFFIC STOP": 93,
     "DRUNK DRIVER": 4,
     "DISTURBANCE": 14,
     "BATTERY": 3,
@@ -21,10 +21,10 @@
     "SUSPICIOUS VEHICLE": 6,
     "PANHANDLER/SOLICITOR": 1,
     "VEHICLE ILLEGALLY PARKED": 3,
-    "SUSPICIOUS EVENT": 5,
+    "SUSPICIOUS EVENT": 6,
     "TRAFFIC CRASH": 19,
     "DISABLED VEHICLE": 4,
-    "ASSIST CITIZEN": 12,
+    "ASSIST CITIZEN": 13,
     "ASSIST OTHER AGENCY": 4,
     "FIRE": 2,
     "FRAUD": 2,
@@ -74,7 +74,7 @@
     "FLUSHING AVE / HARN BLVD": 1,
     "S BELCHER RD / BARCELONA DR": 1,
     "-1400 BLOCK 1417 S MISSOURI AVE": 1,
-    "1000 BLOCK GULF BLVD": 5,
+    "1000 BLOCK GULF BLVD": 6,
     "1400 BLOCK LAURA ST": 1,
     "ENTERPRISE RD E / VILLAGE DR": 1,
     "GULF TO BAY BLVD / HAMPTON RD": 1,
@@ -272,7 +272,7 @@
     "DREW ST / BAYVIEW AVE": 1,
     "2800 BLOCK APPLEWOOD DRIVE": 1,
     "1500 BLOCK EXCALIBER DR": 1,
-    "300 BLOCK PINELLAS ST": 1,
+    "300 BLOCK PINELLAS ST": 2,
     "1700 BLOCK EL TAIR TRL": 1,
     "SETON DR / MONTCLAIR RD": 1,
     "700 BLOCK S GULFVIEW BLVD": 1,
@@ -387,7 +387,9 @@
     "600 BLOCK S FORT HARRISON AVE": 1,
     "MONTCLAIR RD / N BELCHER RD": 1,
     "MCMULLEN BOOTH RD / RUTH ECKERD HALL DR": 1,
-    "GULF TO BAY BLVD / MCMULLEN BOOTH RD S": 1
+    "GULF TO BAY BLVD / MCMULLEN BOOTH RD S": 1,
+    "1400 BLOCK FAIRMONT ST": 1,
+    "DREW ST / N BETTY LN": 1
   },
   "hourly_distribution": {
     "0": 20,
@@ -398,7 +400,7 @@
     "5": 15,
     "6": 20,
     "7": 18,
-    "8": 39,
+    "8": 43,
     "9": 33,
     "10": 36,
     "11": 30,
@@ -416,7 +418,7 @@
     "23": 10
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-01T13:53:41.522849+00:00",
+  "last_updated": "2025-12-01T14:12:54.993948+00:00",
   "peak_active_calls": 14,
-  "total_snapshots": 191
+  "total_snapshots": 192
 }
