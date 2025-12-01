@@ -1,6 +1,6 @@
 {
   "total_calls_tracked": 504,
-  "total_resolved": 503,
+  "total_resolved": 504,
   "call_types": {
     "DIRECTED PATROL": 176,
     "TRAFFIC STOP": 89,
@@ -401,7 +401,7 @@
     "23": 10
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-01T10:55:14.767628+00:00",
+  "last_updated": "2025-12-01T11:13:38.881907+00:00",
   "peak_active_calls": 14,
-  "total_snapshots": 183
+  "total_snapshots": 184
 }
