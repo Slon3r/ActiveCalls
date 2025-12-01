@@ -1,11 +1,11 @@
 {
-  "total_calls_tracked": 505,
-  "total_resolved": 504,
+  "total_calls_tracked": 508,
+  "total_resolved": 505,
   "call_types": {
-    "DIRECTED PATROL": 176,
+    "DIRECTED PATROL": 177,
     "TRAFFIC STOP": 89,
     "DRUNK DRIVER": 4,
-    "DISTURBANCE": 13,
+    "DISTURBANCE": 14,
     "BATTERY": 3,
     "CRIMINAL MISCHIEF": 1,
     "ALARM": 7,
@@ -13,7 +13,7 @@
     "WELFARE CHECK": 13,
     "PARK WALK AND TALK": 43,
     "SUSPICIOUS PERSON": 19,
-    "TRESPASS": 11,
+    "TRESPASS": 12,
     "PROPERTY FOUND/LOST": 4,
     "THEFT": 4,
     "NEIGHBOR CALL": 4,
@@ -249,7 +249,7 @@
     "S MISSOURI AVE/COURT ST": 1,
     "1500 BLOCK S MARTIN LUTHER KING JR AVE": 1,
     "3100 BLOCK GULF TO BAY BLVD": 2,
-    "1800 BLOCK N HIGHLAND AVE": 4,
+    "1800 BLOCK N HIGHLAND AVE": 5,
     "BELLEAIR BLVD / US HIGHWAY 19 N": 1,
     "-1200 BLOCK 1353 COURT ST": 2,
     "-500 BLOCK 642 BAY ESPLANADE": 1,
@@ -372,7 +372,9 @@
     "20000 BLOCK US HIGHWAY 19 N": 1,
     "0 BLOCK 33 BAY ESPLANADE": 1,
     "1100 BLOCK N BAYSHORE BLVD": 1,
-    "1700 BLOCK DREW ST": 1
+    "1700 BLOCK DREW ST": 1,
+    "1200 BLOCK ROGERS ST": 1,
+    "S MYRTLE AVE / LAKEVIEW RD": 1
   },
   "hourly_distribution": {
     "0": 20,
@@ -381,7 +383,7 @@
     "3": 11,
     "4": 3,
     "5": 15,
-    "6": 11,
+    "6": 14,
     "7": 13,
     "8": 30,
     "9": 33,
@@ -401,7 +403,7 @@
     "23": 10
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-01T11:30:27.006319+00:00",
+  "last_updated": "2025-12-01T11:42:57.090967+00:00",
   "peak_active_calls": 14,
-  "total_snapshots": 185
+  "total_snapshots": 186
 }

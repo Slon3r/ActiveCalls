@@ -488,6 +488,30 @@
           "Response_Date": "2025-12-01T06:07:42"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-01T11:42:57.089496+00:00",
+      "call_count": 3,
+      "calls": [
+        {
+          "Master_Incident_Number": "120125-00060",
+          "Online_Description": "DISTURBANCE",
+          "Address": "1200 BLOCK ROGERS ST",
+          "Response_Date": "2025-12-01T06:07:49"
+        },
+        {
+          "Master_Incident_Number": "120125-00062",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "S MYRTLE AVE / LAKEVIEW RD",
+          "Response_Date": "2025-12-01T06:19:49"
+        },
+        {
+          "Master_Incident_Number": "120125-00063",
+          "Online_Description": "TRESPASS",
+          "Address": "1800 BLOCK N HIGHLAND AVE",
+          "Response_Date": "2025-12-01T06:20:12"
+        }
+      ]
     }
   ]
 }
