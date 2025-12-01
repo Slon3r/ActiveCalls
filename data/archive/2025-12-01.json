@@ -590,6 +590,72 @@
           "Response_Date": "2025-12-01T07:34:28"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-01T13:31:48.810617+00:00",
+      "call_count": 10,
+      "calls": [
+        {
+          "Master_Incident_Number": "120125-00096",
+          "Online_Description": "PARK WALK AND TALK",
+          "Address": "1300 BLOCK PARK ST",
+          "Response_Date": "2025-12-01T08:00:10.607"
+        },
+        {
+          "Master_Incident_Number": "112725-00204",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "2500 BLOCK HARN BLVD",
+          "Response_Date": "2025-11-27T12:27:28"
+        },
+        {
+          "Master_Incident_Number": "120125-00083",
+          "Online_Description": "ASSIST OTHER AGENCY",
+          "Address": "1300 BLOCK PARK ST",
+          "Response_Date": "2025-12-01T07:37:03"
+        },
+        {
+          "Master_Incident_Number": "120125-00086",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "2100 BLOCK GULF TO BAY BLVD",
+          "Response_Date": "2025-12-01T07:39:11"
+        },
+        {
+          "Master_Incident_Number": "120125-00091",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "DREW ST / US HIGHWAY 19 N",
+          "Response_Date": "2025-12-01T07:55:13"
+        },
+        {
+          "Master_Incident_Number": "120125-00094",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "1300 BLOCK N MARTIN LUTHER KING JR AVE",
+          "Response_Date": "2025-12-01T07:57:24"
+        },
+        {
+          "Master_Incident_Number": "120125-00097",
+          "Online_Description": "TRAFFIC CRASH",
+          "Address": "N BELCHER RD / OLD COACHMAN RD",
+          "Response_Date": "2025-12-01T08:00:59"
+        },
+        {
+          "Master_Incident_Number": "120125-00100",
+          "Online_Description": "WELFARE CHECK",
+          "Address": "600 BLOCK S FORT HARRISON AVE",
+          "Response_Date": "2025-12-01T08:05:52"
+        },
+        {
+          "Master_Incident_Number": "120125-00101",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "HAMDEN DR / BRIGHTWATER DR",
+          "Response_Date": "2025-12-01T08:07:03"
+        },
+        {
+          "Master_Incident_Number": "120125-00102",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "2100 BLOCK GULF TO BAY BLVD",
+          "Response_Date": "2025-12-01T08:10:21"
+        }
+      ]
     }
   ]
 }
