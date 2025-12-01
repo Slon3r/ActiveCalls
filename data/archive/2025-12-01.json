@@ -2263,6 +2263,78 @@
           "Response_Date": "2025-12-01T15:34:11"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-01T21:20:13.005155+00:00",
+      "call_count": 11,
+      "calls": [
+        {
+          "Master_Incident_Number": "120125-00219",
+          "Online_Description": "BURGLARY",
+          "Address": "400 BLOCK EAST SHORE DR",
+          "Response_Date": "2025-12-01T12:07:46"
+        },
+        {
+          "Master_Incident_Number": "120125-00296",
+          "Online_Description": "TRAFFIC CRASH",
+          "Address": "DREW ST / OLD COACHMAN RD",
+          "Response_Date": "2025-12-01T14:35:44"
+        },
+        {
+          "Master_Incident_Number": "120125-00309",
+          "Online_Description": "CHILD ABUSE",
+          "Address": "2300 BLOCK GULF TO BAY BLVD",
+          "Response_Date": "2025-12-01T14:52:35"
+        },
+        {
+          "Master_Incident_Number": "120125-00313",
+          "Online_Description": "ASSIST OTHER AGENCY",
+          "Address": "1100 BLOCK LAKEVIEW RD",
+          "Response_Date": "2025-12-01T15:07:22"
+        },
+        {
+          "Master_Incident_Number": "120125-00321",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "TURNER ST / S FORT HARRISON AVE",
+          "Response_Date": "2025-12-01T15:34:11"
+        },
+        {
+          "Master_Incident_Number": "120125-00322",
+          "Online_Description": "DISTURBANCE",
+          "Address": "24800 BLOCK US HIGHWAY 19 N",
+          "Response_Date": "2025-12-01T15:36:50"
+        },
+        {
+          "Master_Incident_Number": "120125-00324",
+          "Online_Description": "THEFT",
+          "Address": "2500 BLOCK COUNTRYSIDE BLVD",
+          "Response_Date": "2025-12-01T15:38:24"
+        },
+        {
+          "Master_Incident_Number": "120125-00325",
+          "Online_Description": "DISABLED VEHICLE",
+          "Address": "COUNTRYSIDE BLVD / US HIGHWAY 19 N",
+          "Response_Date": "2025-12-01T15:40:00"
+        },
+        {
+          "Master_Incident_Number": "120125-00331",
+          "Online_Description": "PARK WALK AND TALK",
+          "Address": "1700 BLOCK DREW ST",
+          "Response_Date": "2025-12-01T15:45:15"
+        },
+        {
+          "Master_Incident_Number": "120125-00337",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "CLEARWATER PASS",
+          "Response_Date": "2025-12-01T15:50:44"
+        },
+        {
+          "Master_Incident_Number": "120125-00339",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "1100 BLOCK MANDALAY POINT RD",
+          "Response_Date": "2025-12-01T15:55:51"
+        }
+      ]
     }
   ]
 }
