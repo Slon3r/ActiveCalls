@@ -1,6 +1,6 @@
 {
-  "total_calls_tracked": 536,
-  "total_resolved": 528,
+  "total_calls_tracked": 537,
+  "total_resolved": 531,
   "call_types": {
     "DIRECTED PATROL": 191,
     "TRAFFIC STOP": 93,
@@ -16,7 +16,7 @@
     "TRESPASS": 12,
     "PROPERTY FOUND/LOST": 4,
     "THEFT": 4,
-    "NEIGHBOR CALL": 4,
+    "NEIGHBOR CALL": 5,
     "911 HANG-UP": 16,
     "SUSPICIOUS VEHICLE": 6,
     "PANHANDLER/SOLICITOR": 1,
@@ -254,7 +254,7 @@
     "-1200 BLOCK 1353 COURT ST": 2,
     "-500 BLOCK 642 BAY ESPLANADE": 1,
     "-800 BLOCK 818 BAY ESPLANADE": 1,
-    "200 BLOCK N MARS AVE": 1,
+    "200 BLOCK N MARS AVE": 2,
     "700 BLOCK BLANCHE B LITTLEJOHN TRL": 1,
     "-200 BLOCK 298 WINDWARD PSGE": 1,
     "2600 BLOCK LANDMARK DR": 1,
@@ -401,7 +401,7 @@
     "5": 15,
     "6": 20,
     "7": 18,
-    "8": 43,
+    "8": 44,
     "9": 36,
     "10": 36,
     "11": 30,
@@ -419,7 +419,7 @@
     "23": 10
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-01T14:40:13.633391+00:00",
+  "last_updated": "2025-12-01T14:55:12.759914+00:00",
   "peak_active_calls": 14,
-  "total_snapshots": 193
+  "total_snapshots": 194
 }

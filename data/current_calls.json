@@ -13,12 +13,6 @@
       "Response_Date": "2025-12-01T07:57:24"
     },
     {
-      "Master_Incident_Number": "120125-00117",
-      "Online_Description": "TRAFFIC CRASH",
-      "Address": "GULF TO BAY BLVD / MCMULLEN BOOTH RD S",
-      "Response_Date": "2025-12-01T08:29:41"
-    },
-    {
       "Master_Incident_Number": "120125-00122",
       "Online_Description": "SUSPICIOUS EVENT",
       "Address": "1400 BLOCK FAIRMONT ST",
@@ -31,24 +25,18 @@
       "Response_Date": "2025-12-01T08:49:24"
     },
     {
-      "Master_Incident_Number": "120125-00130",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "2400 BLOCK DREW ST",
-      "Response_Date": "2025-12-01T09:02:37"
+      "Master_Incident_Number": "120125-00126",
+      "Online_Description": "NEIGHBOR CALL",
+      "Address": "200 BLOCK N MARS AVE",
+      "Response_Date": "2025-12-01T08:51:04"
     },
     {
       "Master_Incident_Number": "120125-00131",
       "Online_Description": "ASSIST CITIZEN",
       "Address": "1300 BLOCK N MARTIN LUTHER KING JR AVE",
       "Response_Date": "2025-12-01T09:02:50"
-    },
-    {
-      "Master_Incident_Number": "120125-00137",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "600 BLOCK MANDALAY AVE",
-      "Response_Date": "2025-12-01T09:19:35"
     }
   ],
-  "timestamp": "2025-12-01T14:40:13.631354+00:00",
-  "count": 8
+  "timestamp": "2025-12-01T14:55:12.758074+00:00",
+  "count": 6
 }
