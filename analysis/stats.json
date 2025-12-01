@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 603,
-  "total_resolved": 592,
+  "total_calls_tracked": 608,
+  "total_resolved": 598,
   "call_types": {
     "DIRECTED PATROL": 216,
-    "TRAFFIC STOP": 97,
+    "TRAFFIC STOP": 98,
     "DRUNK DRIVER": 4,
     "DISTURBANCE": 14,
     "BATTERY": 3,
@@ -12,7 +12,7 @@
     "KEEP THE PEACE": 12,
     "WELFARE CHECK": 14,
     "PARK WALK AND TALK": 48,
-    "SUSPICIOUS PERSON": 22,
+    "SUSPICIOUS PERSON": 23,
     "TRESPASS": 16,
     "PROPERTY FOUND/LOST": 4,
     "THEFT": 6,
@@ -22,7 +22,7 @@
     "PANHANDLER/SOLICITOR": 1,
     "VEHICLE ILLEGALLY PARKED": 3,
     "SUSPICIOUS EVENT": 9,
-    "TRAFFIC CRASH": 23,
+    "TRAFFIC CRASH": 24,
     "DISABLED VEHICLE": 7,
     "ASSIST CITIZEN": 16,
     "ASSIST OTHER AGENCY": 4,
@@ -42,7 +42,8 @@
     "DECEASED PERSON": 1,
     "BURGLARY": 2,
     "SHOTS FIRED": 1,
-    "HIT & RUN": 1
+    "HIT & RUN": 2,
+    "SCHOOL CROSSING": 1
   },
   "addresses": {
     "MEMORIAL CSWY / ISLAND WAY": 13,
@@ -62,7 +63,7 @@
     "200 BLOCK DREW ST": 2,
     "-800 BLOCK 819 NARCISSUS AVE": 1,
     "0 BLOCK ISLAND WAY": 3,
-    "US HIGHWAY 19 N / SR 580": 2,
+    "US HIGHWAY 19 N / SR 580": 3,
     "400 BLOCK S GULFVIEW BLVD": 2,
     "100 BLOCK S MYRTLE AVE": 1,
     "0 BLOCK CAUSEWAY BLVD": 5,
@@ -317,7 +318,7 @@
     "600 BLOCK SIREN WIND LN": 1,
     "MANDALAY PASS": 1,
     "GULF TO BAY BLVD / LANDRY AVE": 1,
-    "1400 BLOCK N MADISON AVE": 4,
+    "1400 BLOCK N MADISON AVE": 5,
     "600 BLOCK GULF BLVD": 1,
     "DREW ST / MCMULLEN BOOTH RD": 1,
     "2700 BLOCK COTTONWOOD CT": 1,
@@ -428,7 +429,10 @@
     "400 BLOCK S MARTIN LUTHER KING JR AVE": 1,
     "600 BLOCK BAYWAY BLVD": 1,
     "1600 BLOCK N BELCHER RD": 1,
-    "-1100 BLOCK 1148 PIERCE ST": 1
+    "-1100 BLOCK 1148 PIERCE ST": 1,
+    "FERNWOOD AVE / GULF TO BAY BLVD": 1,
+    "N BELCHER RD / CLEVELAND ST": 1,
+    "DREW ST / FAIRWOOD AVE": 1
   },
   "hourly_distribution": {
     "0": 20,
@@ -444,8 +448,8 @@
     "10": 50,
     "11": 42,
     "12": 46,
-    "13": 48,
-    "14": 35,
+    "13": 50,
+    "14": 38,
     "15": 39,
     "16": 36,
     "17": 25,
@@ -457,7 +461,7 @@
     "23": 10
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-01T19:21:04.460399+00:00",
+  "last_updated": "2025-12-01T19:37:47.069329+00:00",
   "peak_active_calls": 15,
-  "total_snapshots": 206
+  "total_snapshots": 207
 }
