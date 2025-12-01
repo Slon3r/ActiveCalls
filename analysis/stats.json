@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 626,
-  "total_resolved": 614,
+  "total_calls_tracked": 631,
+  "total_resolved": 622,
   "call_types": {
-    "DIRECTED PATROL": 218,
+    "DIRECTED PATROL": 219,
     "TRAFFIC STOP": 102,
     "DRUNK DRIVER": 4,
     "DISTURBANCE": 14,
@@ -12,7 +12,7 @@
     "KEEP THE PEACE": 12,
     "WELFARE CHECK": 14,
     "PARK WALK AND TALK": 49,
-    "SUSPICIOUS PERSON": 24,
+    "SUSPICIOUS PERSON": 25,
     "TRESPASS": 17,
     "PROPERTY FOUND/LOST": 4,
     "THEFT": 6,
@@ -22,12 +22,12 @@
     "PANHANDLER/SOLICITOR": 1,
     "VEHICLE ILLEGALLY PARKED": 3,
     "SUSPICIOUS EVENT": 10,
-    "TRAFFIC CRASH": 25,
+    "TRAFFIC CRASH": 26,
     "DISABLED VEHICLE": 7,
     "ASSIST CITIZEN": 16,
     "ASSIST OTHER AGENCY": 4,
     "FIRE": 2,
-    "FRAUD": 2,
+    "FRAUD": 3,
     "RECKLESS VEHICLE": 2,
     "JUVENILE CASE": 2,
     "HAZARD": 1,
@@ -45,7 +45,8 @@
     "HIT & RUN": 3,
     "SCHOOL CROSSING": 1,
     "ORDINANCE VIOLATION": 1,
-    "ABANDONED VEHICLE": 1
+    "ABANDONED VEHICLE": 1,
+    "CHILD ABUSE": 1
   },
   "addresses": {
     "MEMORIAL CSWY / ISLAND WAY": 13,
@@ -104,7 +105,7 @@
     "2900 BLOCK DREW ST": 3,
     "21200 BLOCK US HIGHWAY 19 N": 3,
     "1700 BLOCK SUNSET POINT RD": 1,
-    "2300 BLOCK GULF TO BAY BLVD": 1,
+    "2300 BLOCK GULF TO BAY BLVD": 2,
     "1200 BLOCK CLEVELAND ST": 5,
     "-500 BLOCK 549 MANDALAY AVE": 1,
     "27000 BLOCK US HIGHWAY 19 N": 8,
@@ -371,7 +372,7 @@
     "-1100 BLOCK 1198 N MARTIN LUTHER KING JR AVE": 1,
     "1500 BLOCK DRUID RD": 1,
     "GULF TO BAY BLVD / S HIGHLAND AVE": 1,
-    "1600 BLOCK N HIGHLAND AVE": 1,
+    "1600 BLOCK N HIGHLAND AVE": 2,
     "1700 BLOCK FLAGLER DR": 1,
     "20000 BLOCK US HIGHWAY 19 N": 1,
     "0 BLOCK 33 BAY ESPLANADE": 1,
@@ -432,7 +433,7 @@
     "600 BLOCK BAYWAY BLVD": 1,
     "1600 BLOCK N BELCHER RD": 1,
     "-1100 BLOCK 1148 PIERCE ST": 1,
-    "FERNWOOD AVE / GULF TO BAY BLVD": 1,
+    "FERNWOOD AVE / GULF TO BAY BLVD": 2,
     "N BELCHER RD / CLEVELAND ST": 1,
     "DREW ST / FAIRWOOD AVE": 1,
     "300 BLOCK N JUPITER AVE": 1,
@@ -448,7 +449,9 @@
     "26900 BLOCK US HIGHWAY 19 N": 1,
     "1400 BLOCK GROVE CIRCLE CT": 1,
     "1600 BLOCK MISTY PLATEAU TRL": 1,
-    "BAYMONT ST / MANDALAY AVE": 1
+    "BAYMONT ST / MANDALAY AVE": 1,
+    "3300 BLOCK SAN GABRIEL ST": 1,
+    "700 BLOCK ISLAND WAY": 1
   },
   "hourly_distribution": {
     "0": 20,
@@ -464,9 +467,9 @@
     "10": 50,
     "11": 42,
     "12": 46,
-    "13": 51,
-    "14": 55,
-    "15": 39,
+    "13": 52,
+    "14": 57,
+    "15": 41,
     "16": 36,
     "17": 25,
     "18": 19,
@@ -477,7 +480,7 @@
     "23": 10
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-01T20:13:57.473846+00:00",
+  "last_updated": "2025-12-01T20:32:34.863027+00:00",
   "peak_active_calls": 15,
-  "total_snapshots": 210
+  "total_snapshots": 211
 }
