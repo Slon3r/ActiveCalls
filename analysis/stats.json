@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 512,
-  "total_resolved": 507,
+  "total_calls_tracked": 515,
+  "total_resolved": 512,
   "call_types": {
-    "DIRECTED PATROL": 180,
+    "DIRECTED PATROL": 183,
     "TRAFFIC STOP": 90,
     "DRUNK DRIVER": 4,
     "DISTURBANCE": 14,
@@ -65,7 +65,7 @@
     "400 BLOCK S GULFVIEW BLVD": 2,
     "100 BLOCK S MYRTLE AVE": 1,
     "0 BLOCK CAUSEWAY BLVD": 4,
-    "400 BLOCK FAIRWOOD AVE": 3,
+    "400 BLOCK FAIRWOOD AVE": 4,
     "500 BLOCK S FORT HARRISON AVE": 2,
     "26000 BLOCK US HIGHWAY 19 N": 2,
     "1300 BLOCK S BELCHER RD": 3,
@@ -377,7 +377,9 @@
     "S MYRTLE AVE / LAKEVIEW RD": 1,
     "S SAN REMO AVE/ GULF TO BAY BLVD": 1,
     "1300 BLOCK S HIGHLAND AVE": 1,
-    "CLEVELAND ST / GULF TO BAY BLVD": 1
+    "CLEVELAND ST / GULF TO BAY BLVD": 1,
+    "1400 BLOCK GULF TO BAY BLVD": 1,
+    "2200 BLOCK BELLEAIR RD": 1
   },
   "hourly_distribution": {
     "0": 20,
@@ -386,8 +388,8 @@
     "3": 11,
     "4": 3,
     "5": 15,
-    "6": 18,
-    "7": 13,
+    "6": 20,
+    "7": 14,
     "8": 30,
     "9": 33,
     "10": 36,
@@ -406,7 +408,7 @@
     "23": 10
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-01T11:59:42.491907+00:00",
+  "last_updated": "2025-12-01T12:55:21.152409+00:00",
   "peak_active_calls": 14,
-  "total_snapshots": 188
+  "total_snapshots": 189
 }
