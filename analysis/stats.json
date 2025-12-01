@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 509,
+  "total_calls_tracked": 512,
   "total_resolved": 507,
   "call_types": {
-    "DIRECTED PATROL": 178,
-    "TRAFFIC STOP": 89,
+    "DIRECTED PATROL": 180,
+    "TRAFFIC STOP": 90,
     "DRUNK DRIVER": 4,
     "DISTURBANCE": 14,
     "BATTERY": 3,
@@ -79,7 +79,7 @@
     "ENTERPRISE RD E / VILLAGE DR": 1,
     "GULF TO BAY BLVD / HAMPTON RD": 1,
     "2100 BLOCK GULF TO BAY BLVD": 7,
-    "1300 BLOCK CLEVELAND ST": 4,
+    "1300 BLOCK CLEVELAND ST": 5,
     "2100 BLOCK BELCHER RD": 1,
     "SAND KEY PARK ENTRANCE": 1,
     "S MISSOURI AVE / LAKEVIEW RD": 3,
@@ -375,7 +375,9 @@
     "1700 BLOCK DREW ST": 1,
     "1200 BLOCK ROGERS ST": 1,
     "S MYRTLE AVE / LAKEVIEW RD": 1,
-    "S SAN REMO AVE/ GULF TO BAY BLVD": 1
+    "S SAN REMO AVE/ GULF TO BAY BLVD": 1,
+    "1300 BLOCK S HIGHLAND AVE": 1,
+    "CLEVELAND ST / GULF TO BAY BLVD": 1
   },
   "hourly_distribution": {
     "0": 20,
@@ -384,7 +386,7 @@
     "3": 11,
     "4": 3,
     "5": 15,
-    "6": 15,
+    "6": 18,
     "7": 13,
     "8": 30,
     "9": 33,
@@ -404,7 +406,7 @@
     "23": 10
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-01T11:51:37.794030+00:00",
+  "last_updated": "2025-12-01T11:59:42.491907+00:00",
   "peak_active_calls": 14,
-  "total_snapshots": 187
+  "total_snapshots": 188
 }

@@ -2580,3 +2580,13 @@ TOTAL ACTIVE CALLS: 2
 --- RESOLVED CALLS (2) ---
 [RESOLVED] 120125-00060 | DISTURBANCE | 1200 BLOCK ROGERS ST | Response: 06:07 AM
 [RESOLVED] 120125-00062 | DIRECTED PATROL | S MYRTLE AVE / LAKEVIEW RD | Response: 06:19 AM
+
+================================================================================
+TIMESTAMP: 2025-12-01T11:59:42.490184+00:00
+TOTAL ACTIVE CALLS: 5
+================================================================================
+
+--- NEW CALLS (3) ---
+[NEW] 120125-00067 | DIRECTED PATROL | 1300 BLOCK S HIGHLAND AVE | Response: 06:35 AM
+[NEW] 120125-00068 | TRAFFIC STOP | CLEVELAND ST / GULF TO BAY BLVD | Response: 06:36 AM
+[NEW] 120125-00069 | DIRECTED PATROL | 1300 BLOCK CLEVELAND ST | Response: 06:38 AM
