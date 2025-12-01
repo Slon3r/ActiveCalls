@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 570,
-  "total_resolved": 557,
+  "total_calls_tracked": 575,
+  "total_resolved": 560,
   "call_types": {
-    "DIRECTED PATROL": 202,
-    "TRAFFIC STOP": 95,
+    "DIRECTED PATROL": 204,
+    "TRAFFIC STOP": 96,
     "DRUNK DRIVER": 4,
     "DISTURBANCE": 14,
     "BATTERY": 3,
@@ -11,7 +11,7 @@
     "ALARM": 7,
     "KEEP THE PEACE": 12,
     "WELFARE CHECK": 14,
-    "PARK WALK AND TALK": 45,
+    "PARK WALK AND TALK": 46,
     "SUSPICIOUS PERSON": 21,
     "TRESPASS": 14,
     "PROPERTY FOUND/LOST": 4,
@@ -21,7 +21,7 @@
     "SUSPICIOUS VEHICLE": 6,
     "PANHANDLER/SOLICITOR": 1,
     "VEHICLE ILLEGALLY PARKED": 3,
-    "SUSPICIOUS EVENT": 8,
+    "SUSPICIOUS EVENT": 9,
     "TRAFFIC CRASH": 22,
     "DISABLED VEHICLE": 6,
     "ASSIST CITIZEN": 15,
@@ -81,7 +81,7 @@
     "2100 BLOCK GULF TO BAY BLVD": 9,
     "1300 BLOCK CLEVELAND ST": 5,
     "2100 BLOCK BELCHER RD": 1,
-    "SAND KEY PARK ENTRANCE": 1,
+    "SAND KEY PARK ENTRANCE": 2,
     "S MISSOURI AVE / LAKEVIEW RD": 3,
     "23100 BLOCK US HIGHWAY 19 N": 3,
     "1200 BLOCK N BETTY LN": 1,
@@ -324,7 +324,7 @@
     "1400 BLOCK N FORT HARRISON AVE": 1,
     "400 BLOCK S MISSOURI AVE": 1,
     "-1700 BLOCK 1748 WESTON DR": 1,
-    "1300 BLOCK GULF BLVD": 2,
+    "1300 BLOCK GULF BLVD": 3,
     "0 BLOCK N NEPTUNE AVE": 1,
     "S MYRTLE AVE / COURT ST": 1,
     "OLD COACHMAN RD / GULF TO BAY BLVD": 1,
@@ -406,7 +406,10 @@
     "18900 BLOCK US HIGHWAY 19 N": 1,
     "400 BLOCK BAY AVE": 1,
     "GULF TO BAY BLVD / US HIGHWAY 19 N": 1,
-    "1400 BLOCK GULF BLVD": 1
+    "1400 BLOCK GULF BLVD": 1,
+    "900 BLOCK NARCISSUS AVE": 1,
+    "GARDEN AVE/ CLEVELAND ST": 1,
+    "S MARTIN LUTHER KING JR AVE / KINGSLEY ST": 1
   },
   "hourly_distribution": {
     "0": 20,
@@ -420,7 +423,7 @@
     "8": 44,
     "9": 50,
     "10": 50,
-    "11": 34,
+    "11": 39,
     "12": 32,
     "13": 37,
     "14": 35,
@@ -435,7 +438,7 @@
     "23": 10
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-01T16:36:13.813833+00:00",
-  "peak_active_calls": 14,
-  "total_snapshots": 199
+  "last_updated": "2025-12-01T16:56:41.009663+00:00",
+  "peak_active_calls": 15,
+  "total_snapshots": 200
 }

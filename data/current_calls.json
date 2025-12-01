@@ -13,12 +13,6 @@
       "Response_Date": "2025-12-01T09:02:50"
     },
     {
-      "Master_Incident_Number": "120125-00142",
-      "Online_Description": "SUSPICIOUS PERSON",
-      "Address": "1400 BLOCK N MADISON AVE",
-      "Response_Date": "2025-12-01T09:35:59"
-    },
-    {
       "Master_Incident_Number": "120125-00165",
       "Online_Description": "KEEP THE PEACE",
       "Address": "3000 BLOCK SR 590",
@@ -45,7 +39,7 @@
     {
       "Master_Incident_Number": "120125-00182",
       "Online_Description": "TRAFFIC CRASH",
-      "Address": "US HIGHWAY 19 N / NURSERY RD",
+      "Address": "US HIGHWAY 19 N / BELLEAIR RD",
       "Response_Date": "2025-12-01T10:57:40"
     },
     {
@@ -53,12 +47,6 @@
       "Online_Description": "SUSPICIOUS EVENT",
       "Address": "18900 BLOCK US HIGHWAY 19 N",
       "Response_Date": "2025-12-01T10:59:23"
-    },
-    {
-      "Master_Incident_Number": "120125-00187",
-      "Online_Description": "911 HANG-UP",
-      "Address": "400 BLOCK BAY AVE",
-      "Response_Date": "2025-12-01T11:05:20"
     },
     {
       "Master_Incident_Number": "120125-00193",
@@ -73,12 +61,36 @@
       "Response_Date": "2025-12-01T11:10:06"
     },
     {
-      "Master_Incident_Number": "120125-00195",
+      "Master_Incident_Number": "120125-00198",
       "Online_Description": "DIRECTED PATROL",
-      "Address": "1400 BLOCK GULF BLVD",
-      "Response_Date": "2025-12-01T11:13:35"
+      "Address": "1300 BLOCK GULF BLVD",
+      "Response_Date": "2025-12-01T11:21:05"
+    },
+    {
+      "Master_Incident_Number": "120125-00200",
+      "Online_Description": "SUSPICIOUS EVENT",
+      "Address": "900 BLOCK NARCISSUS AVE",
+      "Response_Date": "2025-12-01T11:25:05"
+    },
+    {
+      "Master_Incident_Number": "120125-00202",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "GARDEN AVE/ CLEVELAND ST",
+      "Response_Date": "2025-12-01T11:30:54"
+    },
+    {
+      "Master_Incident_Number": "120125-00205",
+      "Online_Description": "PARK WALK AND TALK",
+      "Address": "SAND KEY PARK ENTRANCE",
+      "Response_Date": "2025-12-01T11:35:42"
+    },
+    {
+      "Master_Incident_Number": "120125-00206",
+      "Online_Description": "TRAFFIC STOP",
+      "Address": "S MARTIN LUTHER KING JR AVE / KINGSLEY ST",
+      "Response_Date": "2025-12-01T11:35:49"
     }
   ],
-  "timestamp": "2025-12-01T16:36:13.811543+00:00",
-  "count": 13
+  "timestamp": "2025-12-01T16:56:41.007250+00:00",
+  "count": 15
 }
