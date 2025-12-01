@@ -7,18 +7,6 @@
       "Response_Date": "2025-12-01T12:07:46"
     },
     {
-      "Master_Incident_Number": "120125-00254",
-      "Online_Description": "TRAFFIC CRASH",
-      "Address": "MORNINGSIDE DR / WILLIAMS DR",
-      "Response_Date": "2025-12-01T13:31:49"
-    },
-    {
-      "Master_Incident_Number": "120125-00267",
-      "Online_Description": "TRAFFIC CRASH",
-      "Address": "FERNWOOD AVE / GULF TO BAY BLVD",
-      "Response_Date": "2025-12-01T13:49:05"
-    },
-    {
       "Master_Incident_Number": "120125-00270",
       "Online_Description": "ORDINANCE VIOLATION",
       "Address": "1100 BLOCK ENGMAN ST",
@@ -31,36 +19,60 @@
       "Response_Date": "2025-12-01T14:10:36"
     },
     {
-      "Master_Incident_Number": "120125-00277",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "1700 BLOCK N HERCULES AVE",
-      "Response_Date": "2025-12-01T14:18:06"
+      "Master_Incident_Number": "120125-00295",
+      "Online_Description": "TRESPASS",
+      "Address": "1400 BLOCK S BELCHER RD",
+      "Response_Date": "2025-12-01T14:35:20"
     },
     {
-      "Master_Incident_Number": "120125-00280",
-      "Online_Description": "CIVIL MATTER",
-      "Address": "300 BLOCK N JUPITER AVE",
-      "Response_Date": "2025-12-01T14:18:25"
+      "Master_Incident_Number": "120125-00296",
+      "Online_Description": "HIT & RUN",
+      "Address": "DREW ST / OLD COACHMAN RD",
+      "Response_Date": "2025-12-01T14:35:44"
     },
     {
-      "Master_Incident_Number": "120125-00286",
-      "Online_Description": "911 HANG-UP",
-      "Address": "2500 BLOCK GULF TO BAY BLVD",
-      "Response_Date": "2025-12-01T14:24:47"
-    },
-    {
-      "Master_Incident_Number": "120125-00285",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "-100 BLOCK 103 N EAST AVE",
-      "Response_Date": "2025-12-01T14:25:09"
-    },
-    {
-      "Master_Incident_Number": "120125-00294",
+      "Master_Incident_Number": "120125-00300",
       "Online_Description": "BUILDING CHECK",
-      "Address": "600 BLOCK COURT",
-      "Response_Date": "2025-12-01T14:32:58"
+      "Address": "1600 BLOCK PINE PL",
+      "Response_Date": "2025-12-01T14:38:51"
+    },
+    {
+      "Master_Incident_Number": "120125-00298",
+      "Online_Description": "SUSPICIOUS EVENT",
+      "Address": "1500 BLOCK SCRANTON AVE",
+      "Response_Date": "2025-12-01T14:39:19"
+    },
+    {
+      "Master_Incident_Number": "120125-00299",
+      "Online_Description": "SUSPICIOUS PERSON",
+      "Address": "1600 BLOCK S HIGHLAND AVE",
+      "Response_Date": "2025-12-01T14:40:02"
+    },
+    {
+      "Master_Incident_Number": "120125-00302",
+      "Online_Description": "TRAFFIC CRASH",
+      "Address": "26900 BLOCK US HIGHWAY 19 N",
+      "Response_Date": "2025-12-01T14:43:18"
+    },
+    {
+      "Master_Incident_Number": "120125-00303",
+      "Online_Description": "ABANDONED VEHICLE",
+      "Address": "1400 BLOCK GROVE CIRCLE CT",
+      "Response_Date": "2025-12-01T14:44:17"
+    },
+    {
+      "Master_Incident_Number": "120125-00304",
+      "Online_Description": "PARK WALK AND TALK",
+      "Address": "1600 BLOCK MISTY PLATEAU TRL",
+      "Response_Date": "2025-12-01T14:50:05"
+    },
+    {
+      "Master_Incident_Number": "120125-00306",
+      "Online_Description": "TRAFFIC STOP",
+      "Address": "BAYMONT ST / MANDALAY AVE",
+      "Response_Date": "2025-12-01T14:50:32"
     }
   ],
-  "timestamp": "2025-12-01T19:54:42.574433+00:00",
-  "count": 10
+  "timestamp": "2025-12-01T20:13:57.470499+00:00",
+  "count": 12
 }

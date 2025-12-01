@@ -1933,6 +1933,84 @@
           "Response_Date": "2025-12-01T14:32:58"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-01T20:13:57.470499+00:00",
+      "call_count": 12,
+      "calls": [
+        {
+          "Master_Incident_Number": "120125-00219",
+          "Online_Description": "TRESPASS",
+          "Address": "400 BLOCK EAST SHORE DR",
+          "Response_Date": "2025-12-01T12:07:46"
+        },
+        {
+          "Master_Incident_Number": "120125-00270",
+          "Online_Description": "ORDINANCE VIOLATION",
+          "Address": "1100 BLOCK ENGMAN ST",
+          "Response_Date": "2025-12-01T13:55:43"
+        },
+        {
+          "Master_Incident_Number": "120125-00274",
+          "Online_Description": "SCHOOL CROSSING",
+          "Address": "DREW ST / FAIRWOOD AVE",
+          "Response_Date": "2025-12-01T14:10:36"
+        },
+        {
+          "Master_Incident_Number": "120125-00295",
+          "Online_Description": "TRESPASS",
+          "Address": "1400 BLOCK S BELCHER RD",
+          "Response_Date": "2025-12-01T14:35:20"
+        },
+        {
+          "Master_Incident_Number": "120125-00296",
+          "Online_Description": "HIT & RUN",
+          "Address": "DREW ST / OLD COACHMAN RD",
+          "Response_Date": "2025-12-01T14:35:44"
+        },
+        {
+          "Master_Incident_Number": "120125-00300",
+          "Online_Description": "BUILDING CHECK",
+          "Address": "1600 BLOCK PINE PL",
+          "Response_Date": "2025-12-01T14:38:51"
+        },
+        {
+          "Master_Incident_Number": "120125-00298",
+          "Online_Description": "SUSPICIOUS EVENT",
+          "Address": "1500 BLOCK SCRANTON AVE",
+          "Response_Date": "2025-12-01T14:39:19"
+        },
+        {
+          "Master_Incident_Number": "120125-00299",
+          "Online_Description": "SUSPICIOUS PERSON",
+          "Address": "1600 BLOCK S HIGHLAND AVE",
+          "Response_Date": "2025-12-01T14:40:02"
+        },
+        {
+          "Master_Incident_Number": "120125-00302",
+          "Online_Description": "TRAFFIC CRASH",
+          "Address": "26900 BLOCK US HIGHWAY 19 N",
+          "Response_Date": "2025-12-01T14:43:18"
+        },
+        {
+          "Master_Incident_Number": "120125-00303",
+          "Online_Description": "ABANDONED VEHICLE",
+          "Address": "1400 BLOCK GROVE CIRCLE CT",
+          "Response_Date": "2025-12-01T14:44:17"
+        },
+        {
+          "Master_Incident_Number": "120125-00304",
+          "Online_Description": "PARK WALK AND TALK",
+          "Address": "1600 BLOCK MISTY PLATEAU TRL",
+          "Response_Date": "2025-12-01T14:50:05"
+        },
+        {
+          "Master_Incident_Number": "120125-00306",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "BAYMONT ST / MANDALAY AVE",
+          "Response_Date": "2025-12-01T14:50:32"
+        }
+      ]
     }
   ]
 }

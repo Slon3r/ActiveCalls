@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 617,
-  "total_resolved": 607,
+  "total_calls_tracked": 626,
+  "total_resolved": 614,
   "call_types": {
     "DIRECTED PATROL": 218,
-    "TRAFFIC STOP": 101,
+    "TRAFFIC STOP": 102,
     "DRUNK DRIVER": 4,
     "DISTURBANCE": 14,
     "BATTERY": 3,
@@ -11,9 +11,9 @@
     "ALARM": 8,
     "KEEP THE PEACE": 12,
     "WELFARE CHECK": 14,
-    "PARK WALK AND TALK": 48,
-    "SUSPICIOUS PERSON": 23,
-    "TRESPASS": 16,
+    "PARK WALK AND TALK": 49,
+    "SUSPICIOUS PERSON": 24,
+    "TRESPASS": 17,
     "PROPERTY FOUND/LOST": 4,
     "THEFT": 6,
     "NEIGHBOR CALL": 5,
@@ -21,8 +21,8 @@
     "SUSPICIOUS VEHICLE": 6,
     "PANHANDLER/SOLICITOR": 1,
     "VEHICLE ILLEGALLY PARKED": 3,
-    "SUSPICIOUS EVENT": 9,
-    "TRAFFIC CRASH": 24,
+    "SUSPICIOUS EVENT": 10,
+    "TRAFFIC CRASH": 25,
     "DISABLED VEHICLE": 7,
     "ASSIST CITIZEN": 16,
     "ASSIST OTHER AGENCY": 4,
@@ -37,14 +37,15 @@
     "DOMESTIC": 6,
     "ANIMAL CASE": 2,
     "MISSING PERSON": 4,
-    "BUILDING CHECK": 3,
+    "BUILDING CHECK": 4,
     "SHOPLIFTING": 2,
     "DECEASED PERSON": 1,
     "BURGLARY": 2,
     "SHOTS FIRED": 1,
-    "HIT & RUN": 2,
+    "HIT & RUN": 3,
     "SCHOOL CROSSING": 1,
-    "ORDINANCE VIOLATION": 1
+    "ORDINANCE VIOLATION": 1,
+    "ABANDONED VEHICLE": 1
   },
   "addresses": {
     "MEMORIAL CSWY / ISLAND WAY": 13,
@@ -184,7 +185,7 @@
     "1700 BLOCK KINGS HWY": 1,
     "500 BLOCK MANDALAY AVE": 1,
     "3000 BLOCK HAVERFORD DR": 1,
-    "DREW ST / OLD COACHMAN RD": 1,
+    "DREW ST / OLD COACHMAN RD": 2,
     "2500 BLOCK HARN BLVD": 4,
     "1000 BLOCK MCMULLEN BOOTH RD": 1,
     "1200 BLOCK S MARTIN LUTHER KING JR AVE": 1,
@@ -310,7 +311,7 @@
     "2900 BLOCK GULF TO BAY BLVD": 1,
     "MONTCLAIR RD / N HERCULES AVE": 1,
     "1000 BLOCK S MISSOURI AVE": 1,
-    "1400 BLOCK S BELCHER RD": 1,
+    "1400 BLOCK S BELCHER RD": 2,
     "-500 BLOCK BLK ISLAND WAY": 1,
     "3200 BLOCK COURTNEY CAMPBELL CSWY": 2,
     "300 BLOCK N HIGHLAND AVE": 1,
@@ -440,7 +441,14 @@
     "OLD COACHMAN RD / NE COACHMAN RD": 1,
     "-100 BLOCK 103 N EAST AVE": 1,
     "1100 BLOCK ENGMAN ST": 1,
-    "600 BLOCK COURT": 1
+    "600 BLOCK COURT": 1,
+    "1600 BLOCK PINE PL": 1,
+    "1500 BLOCK SCRANTON AVE": 1,
+    "1600 BLOCK S HIGHLAND AVE": 1,
+    "26900 BLOCK US HIGHWAY 19 N": 1,
+    "1400 BLOCK GROVE CIRCLE CT": 1,
+    "1600 BLOCK MISTY PLATEAU TRL": 1,
+    "BAYMONT ST / MANDALAY AVE": 1
   },
   "hourly_distribution": {
     "0": 20,
@@ -457,7 +465,7 @@
     "11": 42,
     "12": 46,
     "13": 51,
-    "14": 46,
+    "14": 55,
     "15": 39,
     "16": 36,
     "17": 25,
@@ -469,7 +477,7 @@
     "23": 10
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-01T19:54:42.577611+00:00",
+  "last_updated": "2025-12-01T20:13:57.473846+00:00",
   "peak_active_calls": 15,
-  "total_snapshots": 209
+  "total_snapshots": 210
 }
