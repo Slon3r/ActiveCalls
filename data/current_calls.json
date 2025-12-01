@@ -7,54 +7,18 @@
       "Response_Date": "2025-11-30T19:40:57"
     },
     {
-      "Master_Incident_Number": "113025-00465",
-      "Online_Description": "DRUNK DRIVER",
-      "Address": "CHESTNUT ST / S GARDEN AVE",
-      "Response_Date": "2025-11-30T20:33:48"
-    },
-    {
       "Master_Incident_Number": "113025-00509",
       "Online_Description": "DIRECTED PATROL",
       "Address": "MEMORIAL CSWY / ISLAND WAY",
       "Response_Date": "2025-11-30T21:54:02"
     },
     {
-      "Master_Incident_Number": "113025-00535",
-      "Online_Description": "911 HANG-UP",
-      "Address": "1000 BLOCK MOHAWK ST",
-      "Response_Date": "2025-11-30T22:30:30"
-    },
-    {
       "Master_Incident_Number": "113025-00544",
       "Online_Description": "DOMESTIC",
       "Address": "400 BLOCK S HILLCREST AVE",
       "Response_Date": "2025-11-30T22:45:12"
-    },
-    {
-      "Master_Incident_Number": "113025-00543",
-      "Online_Description": "TRAFFIC STOP",
-      "Address": "3100 BLOCK GULF TO BAY BLVD",
-      "Response_Date": "2025-11-30T22:47:30"
-    },
-    {
-      "Master_Incident_Number": "113025-00546",
-      "Online_Description": "PARK WALK AND TALK",
-      "Address": "-300 BLOCK 338 CORONADO DR",
-      "Response_Date": "2025-11-30T22:52:03"
-    },
-    {
-      "Master_Incident_Number": "113025-00557",
-      "Online_Description": "TRAFFIC STOP",
-      "Address": "3200 BLOCK COURTNEY CAMPBELL CSWY",
-      "Response_Date": "2025-11-30T23:10:19"
-    },
-    {
-      "Master_Incident_Number": "113025-00559",
-      "Online_Description": "TRAFFIC STOP",
-      "Address": "GULF TO BAY BLVD / BAY ST",
-      "Response_Date": "2025-11-30T23:15:23"
     }
   ],
-  "timestamp": "2025-12-01T04:38:47.913903+00:00",
-  "count": 9
+  "timestamp": "2025-12-01T05:05:52.816406+00:00",
+  "count": 3
 }
