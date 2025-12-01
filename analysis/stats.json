@@ -1,6 +1,6 @@
 {
-  "total_calls_tracked": 561,
-  "total_resolved": 547,
+  "total_calls_tracked": 562,
+  "total_resolved": 549,
   "call_types": {
     "DIRECTED PATROL": 200,
     "TRAFFIC STOP": 95,
@@ -13,7 +13,7 @@
     "WELFARE CHECK": 14,
     "PARK WALK AND TALK": 45,
     "SUSPICIOUS PERSON": 21,
-    "TRESPASS": 13,
+    "TRESPASS": 14,
     "PROPERTY FOUND/LOST": 4,
     "THEFT": 4,
     "NEIGHBOR CALL": 5,
@@ -400,7 +400,8 @@
     "3000 BLOCK SR 590": 1,
     "1500 BLOCK N BELCHER RD": 1,
     "-100 BLOCK 299 S MAIN AVE": 1,
-    "CHARLES AVE / SR 580": 1
+    "CHARLES AVE / SR 580": 1,
+    "1600 BLOCK N WASHINGTON AVE": 1
   },
   "hourly_distribution": {
     "0": 20,
@@ -413,7 +414,7 @@
     "7": 19,
     "8": 44,
     "9": 50,
-    "10": 45,
+    "10": 46,
     "11": 30,
     "12": 32,
     "13": 37,
@@ -429,7 +430,7 @@
     "23": 10
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-01T15:51:11.803028+00:00",
+  "last_updated": "2025-12-01T15:59:45.229827+00:00",
   "peak_active_calls": 14,
-  "total_snapshots": 197
+  "total_snapshots": 198
 }

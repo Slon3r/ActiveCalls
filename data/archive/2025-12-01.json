@@ -1051,6 +1051,90 @@
           "Response_Date": "2025-12-01T10:29:59"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-01T15:59:45.227402+00:00",
+      "call_count": 13,
+      "calls": [
+        {
+          "Master_Incident_Number": "120125-00094",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "1300 BLOCK N MARTIN LUTHER KING JR AVE",
+          "Response_Date": "2025-12-01T07:57:24"
+        },
+        {
+          "Master_Incident_Number": "120125-00131",
+          "Online_Description": "ASSIST CITIZEN",
+          "Address": "1300 BLOCK N MARTIN LUTHER KING JR AVE",
+          "Response_Date": "2025-12-01T09:02:50"
+        },
+        {
+          "Master_Incident_Number": "120125-00139",
+          "Online_Description": "KEEP THE PEACE",
+          "Address": "WEST AVE / PALM BLUFF ST",
+          "Response_Date": "2025-12-01T09:29:16"
+        },
+        {
+          "Master_Incident_Number": "120125-00142",
+          "Online_Description": "SUSPICIOUS PERSON",
+          "Address": "1400 BLOCK N MADISON AVE",
+          "Response_Date": "2025-12-01T09:35:59"
+        },
+        {
+          "Master_Incident_Number": "120125-00152",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "1000 BLOCK GULF BLVD",
+          "Response_Date": "2025-12-01T09:45:35"
+        },
+        {
+          "Master_Incident_Number": "120125-00158",
+          "Online_Description": "TRAFFIC CRASH",
+          "Address": "N MYRTLE AVE / DREW ST",
+          "Response_Date": "2025-12-01T10:02:52"
+        },
+        {
+          "Master_Incident_Number": "120125-00161",
+          "Online_Description": "TRESPASS",
+          "Address": "2600 BLOCK GULF TO BAY BLVD",
+          "Response_Date": "2025-12-01T10:06:06"
+        },
+        {
+          "Master_Incident_Number": "120125-00165",
+          "Online_Description": "KEEP THE PEACE",
+          "Address": "3000 BLOCK SR 590",
+          "Response_Date": "2025-12-01T10:18:44"
+        },
+        {
+          "Master_Incident_Number": "120125-00166",
+          "Online_Description": "DISABLED VEHICLE",
+          "Address": "600 BLOCK PIERCE ST",
+          "Response_Date": "2025-12-01T10:21:30"
+        },
+        {
+          "Master_Incident_Number": "120125-00169",
+          "Online_Description": "TRESPASS",
+          "Address": "1600 BLOCK N WASHINGTON AVE",
+          "Response_Date": "2025-12-01T10:25:24"
+        },
+        {
+          "Master_Incident_Number": "120125-00172",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "300 BLOCK CLEVELAND ST",
+          "Response_Date": "2025-12-01T10:27:36"
+        },
+        {
+          "Master_Incident_Number": "120125-00173",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "-100 BLOCK 299 S MAIN AVE",
+          "Response_Date": "2025-12-01T10:28:54"
+        },
+        {
+          "Master_Incident_Number": "120125-00175",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "CHARLES AVE / SR 580",
+          "Response_Date": "2025-12-01T10:29:59"
+        }
+      ]
     }
   ]
 }

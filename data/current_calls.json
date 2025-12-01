@@ -55,16 +55,10 @@
       "Response_Date": "2025-12-01T10:21:30"
     },
     {
-      "Master_Incident_Number": "120125-00167",
-      "Online_Description": "911 HANG-UP",
-      "Address": "1500 BLOCK N BELCHER RD",
-      "Response_Date": "2025-12-01T10:23:13"
-    },
-    {
-      "Master_Incident_Number": "120125-00168",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "0 BLOCK CAUSEWAY BLVD",
-      "Response_Date": "2025-12-01T10:25:20"
+      "Master_Incident_Number": "120125-00169",
+      "Online_Description": "TRESPASS",
+      "Address": "1600 BLOCK N WASHINGTON AVE",
+      "Response_Date": "2025-12-01T10:25:24"
     },
     {
       "Master_Incident_Number": "120125-00172",
@@ -85,6 +79,6 @@
       "Response_Date": "2025-12-01T10:29:59"
     }
   ],
-  "timestamp": "2025-12-01T15:51:11.800843+00:00",
-  "count": 14
+  "timestamp": "2025-12-01T15:59:45.227402+00:00",
+  "count": 13
 }
