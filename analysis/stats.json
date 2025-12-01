@@ -1,14 +1,14 @@
 {
-  "total_calls_tracked": 684,
-  "total_resolved": 676,
+  "total_calls_tracked": 690,
+  "total_resolved": 680,
   "call_types": {
-    "DIRECTED PATROL": 236,
-    "TRAFFIC STOP": 105,
+    "DIRECTED PATROL": 239,
+    "TRAFFIC STOP": 107,
     "DRUNK DRIVER": 4,
     "DISTURBANCE": 15,
     "BATTERY": 3,
     "CRIMINAL MISCHIEF": 1,
-    "ALARM": 9,
+    "ALARM": 10,
     "KEEP THE PEACE": 15,
     "WELFARE CHECK": 16,
     "PARK WALK AND TALK": 54,
@@ -49,7 +49,7 @@
     "CHILD ABUSE": 1
   },
   "addresses": {
-    "MEMORIAL CSWY / ISLAND WAY": 13,
+    "MEMORIAL CSWY / ISLAND WAY": 14,
     "GULF TO BAY BLVD / S BELCHER RD": 3,
     "1900 BLOCK N BETTY LN": 1,
     "1400 BLOCK CLEVELAND ST": 1,
@@ -67,7 +67,7 @@
     "-800 BLOCK 819 NARCISSUS AVE": 1,
     "0 BLOCK ISLAND WAY": 3,
     "US HIGHWAY 19 N / SR 580": 3,
-    "400 BLOCK S GULFVIEW BLVD": 2,
+    "400 BLOCK S GULFVIEW BLVD": 3,
     "100 BLOCK S MYRTLE AVE": 1,
     "0 BLOCK CAUSEWAY BLVD": 6,
     "400 BLOCK FAIRWOOD AVE": 4,
@@ -484,7 +484,11 @@
     "2500 BLOCK SANDS TER S": 1,
     "-600 BLOCK 804 SNUG IS": 1,
     "700 BLOCK DREW ST": 1,
-    "0 BLOCK 98 N MYRTLE AVE": 1
+    "0 BLOCK 98 N MYRTLE AVE": 1,
+    "2000 BLOCK GULF TO BAY BLVD": 1,
+    "-3100 BLOCK 3195 SANDY RIDGE DR": 1,
+    "COURT ST / S HILLCREST AVE ": 1,
+    "700 BLOCK BRUCE AVE": 1
   },
   "hourly_distribution": {
     "0": 20,
@@ -505,7 +509,7 @@
     "15": 54,
     "16": 54,
     "17": 37,
-    "18": 29,
+    "18": 35,
     "19": 8,
     "20": 5,
     "21": 8,
@@ -513,7 +517,7 @@
     "23": 10
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-01T23:51:48.159956+00:00",
+  "last_updated": "2025-12-01T23:59:40.934716+00:00",
   "peak_active_calls": 15,
-  "total_snapshots": 227
+  "total_snapshots": 228
 }

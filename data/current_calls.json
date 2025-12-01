@@ -19,36 +19,48 @@
       "Response_Date": "2025-12-01T17:18:26"
     },
     {
-      "Master_Incident_Number": "120125-00404",
-      "Online_Description": "CIVIL MATTER",
-      "Address": "2900 BLOCK GULF TO BAY BLVD",
-      "Response_Date": "2025-12-01T17:59:18"
-    },
-    {
       "Master_Incident_Number": "120125-00408",
       "Online_Description": "TRAFFIC CRASH",
       "Address": "US HIGHWAY 19 N / DRUID RD",
       "Response_Date": "2025-12-01T18:03:55"
     },
     {
-      "Master_Incident_Number": "120125-00421",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "0 BLOCK 98 N MYRTLE AVE",
-      "Response_Date": "2025-12-01T18:22:54"
+      "Master_Incident_Number": "120125-00429",
+      "Online_Description": "ALARM",
+      "Address": "2000 BLOCK GULF TO BAY BLVD",
+      "Response_Date": "2025-12-01T18:31:31"
     },
     {
-      "Master_Incident_Number": "120125-00423",
+      "Master_Incident_Number": "120125-00430",
       "Online_Description": "DIRECTED PATROL",
-      "Address": "0 BLOCK CAUSEWAY BLVD",
-      "Response_Date": "2025-12-01T18:27:02"
+      "Address": "-3100 BLOCK 3195 SANDY RIDGE DR",
+      "Response_Date": "2025-12-01T18:34:16"
     },
     {
-      "Master_Incident_Number": "120125-00426",
-      "Online_Description": "PARK WALK AND TALK",
-      "Address": "1800 BLOCK N HIGHLAND AVE",
-      "Response_Date": "2025-12-01T18:30:45"
+      "Master_Incident_Number": "120125-00432",
+      "Online_Description": "TRAFFIC STOP",
+      "Address": "400 BLOCK S GULFVIEW BLVD",
+      "Response_Date": "2025-12-01T18:34:45"
+    },
+    {
+      "Master_Incident_Number": "120125-00433",
+      "Online_Description": "TRAFFIC STOP",
+      "Address": "MEMORIAL CSWY / ISLAND WAY",
+      "Response_Date": "2025-12-01T18:35:14"
+    },
+    {
+      "Master_Incident_Number": "120125-00434",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "COURT ST / S HILLCREST AVE ",
+      "Response_Date": "2025-12-01T18:37:51"
+    },
+    {
+      "Master_Incident_Number": "120125-00435",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "700 BLOCK BRUCE AVE",
+      "Response_Date": "2025-12-01T18:38:40"
     }
   ],
-  "timestamp": "2025-12-01T23:51:48.155615+00:00",
-  "count": 8
+  "timestamp": "2025-12-01T23:59:40.930201+00:00",
+  "count": 10
 }
