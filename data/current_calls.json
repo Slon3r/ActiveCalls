@@ -13,48 +13,30 @@
       "Response_Date": "2025-12-01T15:38:28"
     },
     {
-      "Master_Incident_Number": "120125-00348",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "23600 BLOCK US HIGHWAY 19 N",
-      "Response_Date": "2025-12-01T16:15:12"
-    },
-    {
       "Master_Incident_Number": "120125-00352",
       "Online_Description": "SUSPICIOUS EVENT",
       "Address": "1100 BLOCK LA SALLE ST",
       "Response_Date": "2025-12-01T16:22:20"
     },
     {
-      "Master_Incident_Number": "120125-00364",
-      "Online_Description": "KEEP THE PEACE",
-      "Address": "200 BLOCK MCMULLEN BOOTH RD S",
-      "Response_Date": "2025-12-01T16:33:47"
-    },
-    {
-      "Master_Incident_Number": "120125-00358",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "1100 BLOCK GULF BLVD",
-      "Response_Date": "2025-12-01T16:33:56"
-    },
-    {
-      "Master_Incident_Number": "120125-00366",
-      "Online_Description": "ANIMAL CASE",
-      "Address": "COURTNEY CAMPBELL CSWY / DR KIRAN C PATEL BLVD",
-      "Response_Date": "2025-12-01T16:45:28"
-    },
-    {
-      "Master_Incident_Number": "120125-00369",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "300 BLOCK CLEVELAND ST",
-      "Response_Date": "2025-12-01T16:56:12"
-    },
-    {
       "Master_Incident_Number": "120125-00374",
       "Online_Description": "MISSING PERSON",
       "Address": "1500 BLOCK S WASHINGTON AVE",
       "Response_Date": "2025-12-01T17:11:17"
+    },
+    {
+      "Master_Incident_Number": "120125-00377",
+      "Online_Description": "ASSIST OTHER AGENCY",
+      "Address": "22900 BLOCK US HIGHWAY 19 N",
+      "Response_Date": "2025-12-01T17:18:26"
+    },
+    {
+      "Master_Incident_Number": "120125-00382",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "-2800 BLOCK 2865 MEADOW HILL DR S",
+      "Response_Date": "2025-12-01T17:24:01"
     }
   ],
-  "timestamp": "2025-12-01T22:35:14.034725+00:00",
-  "count": 9
+  "timestamp": "2025-12-01T22:46:54.834638+00:00",
+  "count": 6
 }
