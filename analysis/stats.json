@@ -1,6 +1,6 @@
 {
-  "total_calls_tracked": 654,
-  "total_resolved": 643,
+  "total_calls_tracked": 659,
+  "total_resolved": 648,
   "call_types": {
     "DIRECTED PATROL": 227,
     "TRAFFIC STOP": 103,
@@ -9,9 +9,9 @@
     "BATTERY": 3,
     "CRIMINAL MISCHIEF": 1,
     "ALARM": 8,
-    "KEEP THE PEACE": 13,
+    "KEEP THE PEACE": 14,
     "WELFARE CHECK": 15,
-    "PARK WALK AND TALK": 51,
+    "PARK WALK AND TALK": 52,
     "SUSPICIOUS PERSON": 27,
     "TRESPASS": 17,
     "PROPERTY FOUND/LOST": 4,
@@ -21,10 +21,10 @@
     "SUSPICIOUS VEHICLE": 7,
     "PANHANDLER/SOLICITOR": 1,
     "VEHICLE ILLEGALLY PARKED": 3,
-    "SUSPICIOUS EVENT": 11,
+    "SUSPICIOUS EVENT": 13,
     "TRAFFIC CRASH": 26,
     "DISABLED VEHICLE": 8,
-    "ASSIST CITIZEN": 16,
+    "ASSIST CITIZEN": 17,
     "ASSIST OTHER AGENCY": 5,
     "FIRE": 2,
     "FRAUD": 3,
@@ -467,7 +467,12 @@
     "300 BLOCK S HIGHLAND AVE": 1,
     "26200 BLOCK US HIGHWAY 19 N": 1,
     "N KEENE RD / DREW ST": 1,
-    "100 BLOCK N JEFFERSON AVE": 1
+    "100 BLOCK N JEFFERSON AVE": 1,
+    "1500 BLOCK JEFFORDS ST": 1,
+    "1100 BLOCK LA SALLE ST": 1,
+    "200 BLOCK MCMULLEN BOOTH RD S": 1,
+    "0 BLOCK N EVERGREEN AVE": 1,
+    "-200 BLOCK 299 CORONADO DR": 1
   },
   "hourly_distribution": {
     "0": 20,
@@ -486,7 +491,7 @@
     "13": 52,
     "14": 57,
     "15": 54,
-    "16": 46,
+    "16": 51,
     "17": 25,
     "18": 19,
     "19": 8,
@@ -496,7 +501,7 @@
     "23": 10
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-01T21:56:10.229891+00:00",
+  "last_updated": "2025-12-01T22:14:39.955868+00:00",
   "peak_active_calls": 15,
-  "total_snapshots": 219
+  "total_snapshots": 220
 }
