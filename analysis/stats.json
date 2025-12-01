@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 575,
-  "total_resolved": 560,
+  "total_calls_tracked": 578,
+  "total_resolved": 567,
   "call_types": {
-    "DIRECTED PATROL": 204,
-    "TRAFFIC STOP": 96,
+    "DIRECTED PATROL": 205,
+    "TRAFFIC STOP": 97,
     "DRUNK DRIVER": 4,
     "DISTURBANCE": 14,
     "BATTERY": 3,
@@ -41,7 +41,8 @@
     "SHOPLIFTING": 2,
     "DECEASED PERSON": 1,
     "BURGLARY": 2,
-    "SHOTS FIRED": 1
+    "SHOTS FIRED": 1,
+    "HIT & RUN": 1
   },
   "addresses": {
     "MEMORIAL CSWY / ISLAND WAY": 13,
@@ -93,7 +94,7 @@
     "20100 BLOCK US HIGHWAY 19 N": 1,
     "CLEVELAND ST / N MAIN AVE": 1,
     "S MISSOURI AVE / KINGSLEY ST": 1,
-    "2200 BLOCK GULF TO BAY BLVD": 3,
+    "2200 BLOCK GULF TO BAY BLVD": 4,
     "CLEVELAND ST/S MADISON AVE": 1,
     "2700 BLOCK GULF TO BAY BLVD": 3,
     "1400 BLOCK N HIBISCUS ST": 1,
@@ -409,7 +410,9 @@
     "1400 BLOCK GULF BLVD": 1,
     "900 BLOCK NARCISSUS AVE": 1,
     "GARDEN AVE/ CLEVELAND ST": 1,
-    "S MARTIN LUTHER KING JR AVE / KINGSLEY ST": 1
+    "S MARTIN LUTHER KING JR AVE / KINGSLEY ST": 1,
+    "800 BLOCK S HIGHLAND AVE": 1,
+    "S MISSOURI AVE / JASMINE WAY": 1
   },
   "hourly_distribution": {
     "0": 20,
@@ -423,7 +426,7 @@
     "8": 44,
     "9": 50,
     "10": 50,
-    "11": 39,
+    "11": 42,
     "12": 32,
     "13": 37,
     "14": 35,
@@ -438,7 +441,7 @@
     "23": 10
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-01T16:56:41.009663+00:00",
+  "last_updated": "2025-12-01T17:19:44.222302+00:00",
   "peak_active_calls": 15,
-  "total_snapshots": 200
+  "total_snapshots": 201
 }

@@ -25,24 +25,6 @@
       "Response_Date": "2025-12-01T10:21:30"
     },
     {
-      "Master_Incident_Number": "120125-00180",
-      "Online_Description": "SUSPICIOUS EVENT",
-      "Address": "2600 BLOCK GULF TO BAY BLVD",
-      "Response_Date": "2025-12-01T10:38:56"
-    },
-    {
-      "Master_Incident_Number": "120125-00177",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "200 BLOCK WINDWARD PSGE",
-      "Response_Date": "2025-12-01T10:40:13"
-    },
-    {
-      "Master_Incident_Number": "120125-00182",
-      "Online_Description": "TRAFFIC CRASH",
-      "Address": "US HIGHWAY 19 N / BELLEAIR RD",
-      "Response_Date": "2025-12-01T10:57:40"
-    },
-    {
       "Master_Incident_Number": "120125-00186",
       "Online_Description": "SUSPICIOUS EVENT",
       "Address": "18900 BLOCK US HIGHWAY 19 N",
@@ -55,42 +37,36 @@
       "Response_Date": "2025-12-01T11:09:29"
     },
     {
-      "Master_Incident_Number": "120125-00191",
-      "Online_Description": "TRAFFIC CRASH",
-      "Address": "GULF TO BAY BLVD / US HIGHWAY 19 N",
-      "Response_Date": "2025-12-01T11:10:06"
-    },
-    {
-      "Master_Incident_Number": "120125-00198",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "1300 BLOCK GULF BLVD",
-      "Response_Date": "2025-12-01T11:21:05"
-    },
-    {
       "Master_Incident_Number": "120125-00200",
-      "Online_Description": "SUSPICIOUS EVENT",
+      "Online_Description": "TRESPASS",
       "Address": "900 BLOCK NARCISSUS AVE",
       "Response_Date": "2025-12-01T11:25:05"
     },
     {
       "Master_Incident_Number": "120125-00202",
       "Online_Description": "DIRECTED PATROL",
-      "Address": "GARDEN AVE/ CLEVELAND ST",
+      "Address": "N GARDEN AVE / CLEVELAND ST",
       "Response_Date": "2025-12-01T11:30:54"
     },
     {
-      "Master_Incident_Number": "120125-00205",
-      "Online_Description": "PARK WALK AND TALK",
-      "Address": "SAND KEY PARK ENTRANCE",
-      "Response_Date": "2025-12-01T11:35:42"
+      "Master_Incident_Number": "120125-00207",
+      "Online_Description": "HIT & RUN",
+      "Address": "800 BLOCK S HIGHLAND AVE",
+      "Response_Date": "2025-12-01T11:38:21"
     },
     {
-      "Master_Incident_Number": "120125-00206",
+      "Master_Incident_Number": "120125-00209",
       "Online_Description": "TRAFFIC STOP",
-      "Address": "S MARTIN LUTHER KING JR AVE / KINGSLEY ST",
-      "Response_Date": "2025-12-01T11:35:49"
+      "Address": "S MISSOURI AVE / JASMINE WAY",
+      "Response_Date": "2025-12-01T11:53:36"
+    },
+    {
+      "Master_Incident_Number": "120125-00210",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "2200 BLOCK GULF TO BAY BLVD",
+      "Response_Date": "2025-12-01T11:58:21"
     }
   ],
-  "timestamp": "2025-12-01T16:56:41.007250+00:00",
-  "count": 15
+  "timestamp": "2025-12-01T17:19:44.219836+00:00",
+  "count": 11
 }
