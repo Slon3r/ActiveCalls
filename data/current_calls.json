@@ -13,34 +13,10 @@
       "Response_Date": "2025-12-01T09:02:50"
     },
     {
-      "Master_Incident_Number": "120125-00139",
-      "Online_Description": "KEEP THE PEACE",
-      "Address": "WEST AVE / PALM BLUFF ST",
-      "Response_Date": "2025-12-01T09:29:16"
-    },
-    {
       "Master_Incident_Number": "120125-00142",
       "Online_Description": "SUSPICIOUS PERSON",
       "Address": "1400 BLOCK N MADISON AVE",
       "Response_Date": "2025-12-01T09:35:59"
-    },
-    {
-      "Master_Incident_Number": "120125-00152",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "1000 BLOCK GULF BLVD",
-      "Response_Date": "2025-12-01T09:45:35"
-    },
-    {
-      "Master_Incident_Number": "120125-00158",
-      "Online_Description": "TRAFFIC CRASH",
-      "Address": "N MYRTLE AVE / DREW ST",
-      "Response_Date": "2025-12-01T10:02:52"
-    },
-    {
-      "Master_Incident_Number": "120125-00161",
-      "Online_Description": "TRESPASS",
-      "Address": "2600 BLOCK GULF TO BAY BLVD",
-      "Response_Date": "2025-12-01T10:06:06"
     },
     {
       "Master_Incident_Number": "120125-00165",
@@ -55,30 +31,54 @@
       "Response_Date": "2025-12-01T10:21:30"
     },
     {
-      "Master_Incident_Number": "120125-00169",
-      "Online_Description": "TRESPASS",
-      "Address": "1600 BLOCK N WASHINGTON AVE",
-      "Response_Date": "2025-12-01T10:25:24"
+      "Master_Incident_Number": "120125-00180",
+      "Online_Description": "SUSPICIOUS EVENT",
+      "Address": "2600 BLOCK GULF TO BAY BLVD",
+      "Response_Date": "2025-12-01T10:38:56"
     },
     {
-      "Master_Incident_Number": "120125-00172",
+      "Master_Incident_Number": "120125-00177",
       "Online_Description": "DIRECTED PATROL",
-      "Address": "300 BLOCK CLEVELAND ST",
-      "Response_Date": "2025-12-01T10:27:36"
+      "Address": "200 BLOCK WINDWARD PSGE",
+      "Response_Date": "2025-12-01T10:40:13"
     },
     {
-      "Master_Incident_Number": "120125-00173",
+      "Master_Incident_Number": "120125-00182",
+      "Online_Description": "TRAFFIC CRASH",
+      "Address": "US HIGHWAY 19 N / NURSERY RD",
+      "Response_Date": "2025-12-01T10:57:40"
+    },
+    {
+      "Master_Incident_Number": "120125-00186",
+      "Online_Description": "SUSPICIOUS EVENT",
+      "Address": "18900 BLOCK US HIGHWAY 19 N",
+      "Response_Date": "2025-12-01T10:59:23"
+    },
+    {
+      "Master_Incident_Number": "120125-00187",
+      "Online_Description": "911 HANG-UP",
+      "Address": "400 BLOCK BAY AVE",
+      "Response_Date": "2025-12-01T11:05:20"
+    },
+    {
+      "Master_Incident_Number": "120125-00193",
+      "Online_Description": "THEFT",
+      "Address": "27000 BLOCK US HIGHWAY 19 N",
+      "Response_Date": "2025-12-01T11:09:29"
+    },
+    {
+      "Master_Incident_Number": "120125-00191",
+      "Online_Description": "TRAFFIC CRASH",
+      "Address": "GULF TO BAY BLVD / US HIGHWAY 19 N",
+      "Response_Date": "2025-12-01T11:10:06"
+    },
+    {
+      "Master_Incident_Number": "120125-00195",
       "Online_Description": "DIRECTED PATROL",
-      "Address": "-100 BLOCK 299 S MAIN AVE",
-      "Response_Date": "2025-12-01T10:28:54"
-    },
-    {
-      "Master_Incident_Number": "120125-00175",
-      "Online_Description": "TRAFFIC STOP",
-      "Address": "CHARLES AVE / SR 580",
-      "Response_Date": "2025-12-01T10:29:59"
+      "Address": "1400 BLOCK GULF BLVD",
+      "Response_Date": "2025-12-01T11:13:35"
     }
   ],
-  "timestamp": "2025-12-01T15:59:45.227402+00:00",
+  "timestamp": "2025-12-01T16:36:13.811543+00:00",
   "count": 13
 }
