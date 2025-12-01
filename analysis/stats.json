@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 651,
-  "total_resolved": 639,
+  "total_calls_tracked": 654,
+  "total_resolved": 643,
   "call_types": {
-    "DIRECTED PATROL": 226,
+    "DIRECTED PATROL": 227,
     "TRAFFIC STOP": 103,
     "DRUNK DRIVER": 4,
     "DISTURBANCE": 15,
@@ -18,10 +18,10 @@
     "THEFT": 7,
     "NEIGHBOR CALL": 5,
     "911 HANG-UP": 24,
-    "SUSPICIOUS VEHICLE": 6,
+    "SUSPICIOUS VEHICLE": 7,
     "PANHANDLER/SOLICITOR": 1,
     "VEHICLE ILLEGALLY PARKED": 3,
-    "SUSPICIOUS EVENT": 10,
+    "SUSPICIOUS EVENT": 11,
     "TRAFFIC CRASH": 26,
     "DISABLED VEHICLE": 8,
     "ASSIST CITIZEN": 16,
@@ -110,7 +110,7 @@
     "-500 BLOCK 549 MANDALAY AVE": 1,
     "27000 BLOCK US HIGHWAY 19 N": 8,
     "DRIVEWAY PARKING": 1,
-    "1100 BLOCK GULF BLVD": 3,
+    "1100 BLOCK GULF BLVD": 4,
     "2500 BLOCK GULF TO BAY BLVD": 5,
     "1600 BLOCK N MCMULLEN BOOTH RD": 1,
     "1200 BLOCK DREW ST": 1,
@@ -465,7 +465,9 @@
     "800 BLOCK CHESTNUT ST": 1,
     "1500 BLOCK MURRAY AVE": 1,
     "300 BLOCK S HIGHLAND AVE": 1,
-    "26200 BLOCK US HIGHWAY 19 N": 1
+    "26200 BLOCK US HIGHWAY 19 N": 1,
+    "N KEENE RD / DREW ST": 1,
+    "100 BLOCK N JEFFERSON AVE": 1
   },
   "hourly_distribution": {
     "0": 20,
@@ -483,8 +485,8 @@
     "12": 46,
     "13": 52,
     "14": 57,
-    "15": 53,
-    "16": 44,
+    "15": 54,
+    "16": 46,
     "17": 25,
     "18": 19,
     "19": 8,
@@ -494,7 +496,7 @@
     "23": 10
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-01T21:48:19.192858+00:00",
+  "last_updated": "2025-12-01T21:56:10.229891+00:00",
   "peak_active_calls": 15,
-  "total_snapshots": 218
+  "total_snapshots": 219
 }

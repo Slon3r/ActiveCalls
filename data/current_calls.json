@@ -13,10 +13,10 @@
       "Response_Date": "2025-12-01T15:07:22"
     },
     {
-      "Master_Incident_Number": "120125-00316",
-      "Online_Description": "WELFARE CHECK",
-      "Address": "700 BLOCK BLANCHE B LITTLEJOHN TRL",
-      "Response_Date": "2025-12-01T15:16:55"
+      "Master_Incident_Number": "120125-00323",
+      "Online_Description": "SUSPICIOUS EVENT",
+      "Address": "N KEENE RD / DREW ST",
+      "Response_Date": "2025-12-01T15:38:05"
     },
     {
       "Master_Incident_Number": "120125-00326",
@@ -37,22 +37,10 @@
       "Response_Date": "2025-12-01T15:45:15"
     },
     {
-      "Master_Incident_Number": "120125-00337",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "CLEARWATER PASS",
-      "Response_Date": "2025-12-01T15:50:44"
-    },
-    {
       "Master_Incident_Number": "120125-00343",
       "Online_Description": "HIT & RUN",
       "Address": "2500 BLOCK GULF TO BAY BLVD",
       "Response_Date": "2025-12-01T16:02:15"
-    },
-    {
-      "Master_Incident_Number": "120125-00345",
-      "Online_Description": "PARK WALK AND TALK",
-      "Address": "600 BLOCK S FORT HARRISON AVE",
-      "Response_Date": "2025-12-01T16:08:42"
     },
     {
       "Master_Incident_Number": "120125-00348",
@@ -61,18 +49,24 @@
       "Response_Date": "2025-12-01T16:15:12"
     },
     {
-      "Master_Incident_Number": "120125-00349",
-      "Online_Description": "TRAFFIC STOP",
-      "Address": "300 BLOCK S HIGHLAND AVE",
-      "Response_Date": "2025-12-01T16:17:39"
-    },
-    {
       "Master_Incident_Number": "120125-00351",
       "Online_Description": "SUSPICIOUS PERSON",
       "Address": "26200 BLOCK US HIGHWAY 19 N",
       "Response_Date": "2025-12-01T16:20:13"
+    },
+    {
+      "Master_Incident_Number": "120125-00355",
+      "Online_Description": "SUSPICIOUS VEHICLE",
+      "Address": "100 BLOCK N JEFFERSON AVE",
+      "Response_Date": "2025-12-01T16:28:20"
+    },
+    {
+      "Master_Incident_Number": "120125-00358",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "1100 BLOCK GULF BLVD",
+      "Response_Date": "2025-12-01T16:33:56"
     }
   ],
-  "timestamp": "2025-12-01T21:48:19.188961+00:00",
-  "count": 12
+  "timestamp": "2025-12-01T21:56:10.225456+00:00",
+  "count": 11
 }
