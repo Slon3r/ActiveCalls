@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 585,
-  "total_resolved": 572,
+  "total_calls_tracked": 590,
+  "total_resolved": 575,
   "call_types": {
-    "DIRECTED PATROL": 209,
+    "DIRECTED PATROL": 211,
     "TRAFFIC STOP": 97,
     "DRUNK DRIVER": 4,
     "DISTURBANCE": 14,
@@ -11,9 +11,9 @@
     "ALARM": 7,
     "KEEP THE PEACE": 12,
     "WELFARE CHECK": 14,
-    "PARK WALK AND TALK": 46,
+    "PARK WALK AND TALK": 47,
     "SUSPICIOUS PERSON": 21,
-    "TRESPASS": 15,
+    "TRESPASS": 16,
     "PROPERTY FOUND/LOST": 4,
     "THEFT": 6,
     "NEIGHBOR CALL": 5,
@@ -37,7 +37,7 @@
     "DOMESTIC": 5,
     "ANIMAL CASE": 2,
     "MISSING PERSON": 4,
-    "BUILDING CHECK": 1,
+    "BUILDING CHECK": 2,
     "SHOPLIFTING": 2,
     "DECEASED PERSON": 1,
     "BURGLARY": 2,
@@ -79,7 +79,7 @@
     "1400 BLOCK LAURA ST": 1,
     "ENTERPRISE RD E / VILLAGE DR": 1,
     "GULF TO BAY BLVD / HAMPTON RD": 1,
-    "2100 BLOCK GULF TO BAY BLVD": 9,
+    "2100 BLOCK GULF TO BAY BLVD": 10,
     "1300 BLOCK CLEVELAND ST": 5,
     "2100 BLOCK BELCHER RD": 1,
     "SAND KEY PARK ENTRANCE": 2,
@@ -385,7 +385,7 @@
     "DREW ST / US HIGHWAY 19 N": 1,
     "1300 BLOCK N MARTIN LUTHER KING JR AVE": 4,
     "N BELCHER RD / OLD COACHMAN RD": 1,
-    "600 BLOCK S FORT HARRISON AVE": 1,
+    "600 BLOCK S FORT HARRISON AVE": 2,
     "MONTCLAIR RD / N BELCHER RD": 1,
     "MCMULLEN BOOTH RD / RUTH ECKERD HALL DR": 1,
     "GULF TO BAY BLVD / MCMULLEN BOOTH RD S": 1,
@@ -417,7 +417,10 @@
     "400 BLOCK EAST SHORE DR": 1,
     "2500 BLOCK DREW ST": 1,
     "600 BLOCK N FORT HARRISON AVE": 1,
-    "200 BLOCK S BETTY LN": 1
+    "200 BLOCK S BETTY LN": 1,
+    "2400 BLOCK HARN BLVD": 1,
+    "1400 BLOCK S MARTIN LUTHER KING JR AVE": 1,
+    "OTIS C GREEN DR / N BETTY LN": 1
   },
   "hourly_distribution": {
     "0": 20,
@@ -432,7 +435,7 @@
     "9": 50,
     "10": 50,
     "11": 42,
-    "12": 38,
+    "12": 43,
     "13": 38,
     "14": 35,
     "15": 39,
@@ -446,7 +449,7 @@
     "23": 10
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-01T17:44:14.459873+00:00",
+  "last_updated": "2025-12-01T17:56:12.845403+00:00",
   "peak_active_calls": 15,
-  "total_snapshots": 202
+  "total_snapshots": 203
 }
