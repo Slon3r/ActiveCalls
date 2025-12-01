@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 641,
-  "total_resolved": 630,
+  "total_calls_tracked": 645,
+  "total_resolved": 633,
   "call_types": {
-    "DIRECTED PATROL": 224,
+    "DIRECTED PATROL": 225,
     "TRAFFIC STOP": 102,
     "DRUNK DRIVER": 4,
     "DISTURBANCE": 15,
@@ -11,8 +11,8 @@
     "ALARM": 8,
     "KEEP THE PEACE": 12,
     "WELFARE CHECK": 14,
-    "PARK WALK AND TALK": 50,
-    "SUSPICIOUS PERSON": 25,
+    "PARK WALK AND TALK": 51,
+    "SUSPICIOUS PERSON": 26,
     "TRESPASS": 17,
     "PROPERTY FOUND/LOST": 4,
     "THEFT": 7,
@@ -36,7 +36,7 @@
     "CIVIL MATTER": 5,
     "DOMESTIC": 6,
     "ANIMAL CASE": 2,
-    "MISSING PERSON": 4,
+    "MISSING PERSON": 5,
     "BUILDING CHECK": 4,
     "SHOPLIFTING": 2,
     "DECEASED PERSON": 1,
@@ -423,7 +423,7 @@
     "600 BLOCK N FORT HARRISON AVE": 1,
     "200 BLOCK S BETTY LN": 1,
     "2400 BLOCK HARN BLVD": 2,
-    "1400 BLOCK S MARTIN LUTHER KING JR AVE": 1,
+    "1400 BLOCK S MARTIN LUTHER KING JR AVE": 2,
     "OTIS C GREEN DR / N BETTY LN": 1,
     "2600 BLOCK MCMULLEN BOOTH RD": 1,
     "S MADISON AVE / PIERCE ST": 1,
@@ -459,7 +459,10 @@
     "24800 BLOCK US HIGHWAY 19 N": 1,
     "COUNTRYSIDE BLVD / US HIGHWAY 19 N": 1,
     "CLEARWATER PASS": 1,
-    "1100 BLOCK MANDALAY POINT RD": 1
+    "1100 BLOCK MANDALAY POINT RD": 1,
+    "THIRD ST / HAMDEN DR": 1,
+    "PUBLIX": 1,
+    "800 BLOCK CHESTNUT ST": 1
   },
   "hourly_distribution": {
     "0": 20,
@@ -477,8 +480,8 @@
     "12": 46,
     "13": 52,
     "14": 57,
-    "15": 51,
-    "16": 36,
+    "15": 52,
+    "16": 39,
     "17": 25,
     "18": 19,
     "19": 8,
@@ -488,7 +491,7 @@
     "23": 10
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-01T21:20:13.008853+00:00",
+  "last_updated": "2025-12-01T21:30:32.505662+00:00",
   "peak_active_calls": 15,
-  "total_snapshots": 215
+  "total_snapshots": 216
 }
