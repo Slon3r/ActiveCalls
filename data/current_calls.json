@@ -13,22 +13,16 @@
       "Response_Date": "2025-12-01T13:31:49"
     },
     {
-      "Master_Incident_Number": "120125-00261",
-      "Online_Description": "SUSPICIOUS PERSON",
-      "Address": "600 BLOCK BAYWAY BLVD",
-      "Response_Date": "2025-12-01T13:45:09"
-    },
-    {
       "Master_Incident_Number": "120125-00267",
       "Online_Description": "TRAFFIC CRASH",
       "Address": "FERNWOOD AVE / GULF TO BAY BLVD",
       "Response_Date": "2025-12-01T13:49:05"
     },
     {
-      "Master_Incident_Number": "120125-00272",
-      "Online_Description": "SUSPICIOUS PERSON",
-      "Address": "1400 BLOCK N MADISON AVE",
-      "Response_Date": "2025-12-01T14:04:42"
+      "Master_Incident_Number": "120125-00270",
+      "Online_Description": "ORDINANCE VIOLATION",
+      "Address": "1100 BLOCK ENGMAN ST",
+      "Response_Date": "2025-12-01T13:55:43"
     },
     {
       "Master_Incident_Number": "120125-00274",
@@ -49,30 +43,24 @@
       "Response_Date": "2025-12-01T14:18:25"
     },
     {
-      "Master_Incident_Number": "120125-00279",
-      "Online_Description": "TRAFFIC STOP",
-      "Address": "SR 580 / US HIGHWAY 19 N",
-      "Response_Date": "2025-12-01T14:20:28"
-    },
-    {
-      "Master_Incident_Number": "120125-00282",
-      "Online_Description": "TRAFFIC STOP",
-      "Address": "PIERCE ST / S MARTIN LUTHER KING JR AVE",
-      "Response_Date": "2025-12-01T14:23:19"
-    },
-    {
-      "Master_Incident_Number": "120125-00284",
-      "Online_Description": "TRAFFIC STOP",
-      "Address": "OLD COACHMAN RD / NE COACHMAN RD",
-      "Response_Date": "2025-12-01T14:24:28"
+      "Master_Incident_Number": "120125-00286",
+      "Online_Description": "911 HANG-UP",
+      "Address": "2500 BLOCK GULF TO BAY BLVD",
+      "Response_Date": "2025-12-01T14:24:47"
     },
     {
       "Master_Incident_Number": "120125-00285",
       "Online_Description": "DIRECTED PATROL",
       "Address": "-100 BLOCK 103 N EAST AVE",
       "Response_Date": "2025-12-01T14:25:09"
+    },
+    {
+      "Master_Incident_Number": "120125-00294",
+      "Online_Description": "BUILDING CHECK",
+      "Address": "600 BLOCK COURT",
+      "Response_Date": "2025-12-01T14:32:58"
     }
   ],
-  "timestamp": "2025-12-01T19:46:55.895054+00:00",
-  "count": 12
+  "timestamp": "2025-12-01T19:54:42.574433+00:00",
+  "count": 10
 }

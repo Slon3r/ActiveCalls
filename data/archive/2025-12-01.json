@@ -1867,6 +1867,72 @@
           "Response_Date": "2025-12-01T14:25:09"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-01T19:54:42.574433+00:00",
+      "call_count": 10,
+      "calls": [
+        {
+          "Master_Incident_Number": "120125-00219",
+          "Online_Description": "TRESPASS",
+          "Address": "400 BLOCK EAST SHORE DR",
+          "Response_Date": "2025-12-01T12:07:46"
+        },
+        {
+          "Master_Incident_Number": "120125-00254",
+          "Online_Description": "TRAFFIC CRASH",
+          "Address": "MORNINGSIDE DR / WILLIAMS DR",
+          "Response_Date": "2025-12-01T13:31:49"
+        },
+        {
+          "Master_Incident_Number": "120125-00267",
+          "Online_Description": "TRAFFIC CRASH",
+          "Address": "FERNWOOD AVE / GULF TO BAY BLVD",
+          "Response_Date": "2025-12-01T13:49:05"
+        },
+        {
+          "Master_Incident_Number": "120125-00270",
+          "Online_Description": "ORDINANCE VIOLATION",
+          "Address": "1100 BLOCK ENGMAN ST",
+          "Response_Date": "2025-12-01T13:55:43"
+        },
+        {
+          "Master_Incident_Number": "120125-00274",
+          "Online_Description": "SCHOOL CROSSING",
+          "Address": "DREW ST / FAIRWOOD AVE",
+          "Response_Date": "2025-12-01T14:10:36"
+        },
+        {
+          "Master_Incident_Number": "120125-00277",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "1700 BLOCK N HERCULES AVE",
+          "Response_Date": "2025-12-01T14:18:06"
+        },
+        {
+          "Master_Incident_Number": "120125-00280",
+          "Online_Description": "CIVIL MATTER",
+          "Address": "300 BLOCK N JUPITER AVE",
+          "Response_Date": "2025-12-01T14:18:25"
+        },
+        {
+          "Master_Incident_Number": "120125-00286",
+          "Online_Description": "911 HANG-UP",
+          "Address": "2500 BLOCK GULF TO BAY BLVD",
+          "Response_Date": "2025-12-01T14:24:47"
+        },
+        {
+          "Master_Incident_Number": "120125-00285",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "-100 BLOCK 103 N EAST AVE",
+          "Response_Date": "2025-12-01T14:25:09"
+        },
+        {
+          "Master_Incident_Number": "120125-00294",
+          "Online_Description": "BUILDING CHECK",
+          "Address": "600 BLOCK COURT",
+          "Response_Date": "2025-12-01T14:32:58"
+        }
+      ]
     }
   ]
 }

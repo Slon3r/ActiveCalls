@@ -1,6 +1,6 @@
 {
-  "total_calls_tracked": 614,
-  "total_resolved": 602,
+  "total_calls_tracked": 617,
+  "total_resolved": 607,
   "call_types": {
     "DIRECTED PATROL": 218,
     "TRAFFIC STOP": 101,
@@ -17,7 +17,7 @@
     "PROPERTY FOUND/LOST": 4,
     "THEFT": 6,
     "NEIGHBOR CALL": 5,
-    "911 HANG-UP": 23,
+    "911 HANG-UP": 24,
     "SUSPICIOUS VEHICLE": 6,
     "PANHANDLER/SOLICITOR": 1,
     "VEHICLE ILLEGALLY PARKED": 3,
@@ -37,13 +37,14 @@
     "DOMESTIC": 6,
     "ANIMAL CASE": 2,
     "MISSING PERSON": 4,
-    "BUILDING CHECK": 2,
+    "BUILDING CHECK": 3,
     "SHOPLIFTING": 2,
     "DECEASED PERSON": 1,
     "BURGLARY": 2,
     "SHOTS FIRED": 1,
     "HIT & RUN": 2,
-    "SCHOOL CROSSING": 1
+    "SCHOOL CROSSING": 1,
+    "ORDINANCE VIOLATION": 1
   },
   "addresses": {
     "MEMORIAL CSWY / ISLAND WAY": 13,
@@ -108,7 +109,7 @@
     "27000 BLOCK US HIGHWAY 19 N": 8,
     "DRIVEWAY PARKING": 1,
     "1100 BLOCK GULF BLVD": 3,
-    "2500 BLOCK GULF TO BAY BLVD": 3,
+    "2500 BLOCK GULF TO BAY BLVD": 4,
     "1600 BLOCK N MCMULLEN BOOTH RD": 1,
     "1200 BLOCK DREW ST": 1,
     "2400 BLOCK DREW ST": 2,
@@ -437,7 +438,9 @@
     "SR 580 / US HIGHWAY 19 N": 1,
     "PIERCE ST / S MARTIN LUTHER KING JR AVE": 1,
     "OLD COACHMAN RD / NE COACHMAN RD": 1,
-    "-100 BLOCK 103 N EAST AVE": 1
+    "-100 BLOCK 103 N EAST AVE": 1,
+    "1100 BLOCK ENGMAN ST": 1,
+    "600 BLOCK COURT": 1
   },
   "hourly_distribution": {
     "0": 20,
@@ -453,8 +456,8 @@
     "10": 50,
     "11": 42,
     "12": 46,
-    "13": 50,
-    "14": 44,
+    "13": 51,
+    "14": 46,
     "15": 39,
     "16": 36,
     "17": 25,
@@ -466,7 +469,7 @@
     "23": 10
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-01T19:46:55.898278+00:00",
+  "last_updated": "2025-12-01T19:54:42.577611+00:00",
   "peak_active_calls": 15,
-  "total_snapshots": 208
+  "total_snapshots": 209
 }
