@@ -1,12 +1,6 @@
 {
   "calls": [
     {
-      "Master_Incident_Number": "120125-00131",
-      "Online_Description": "ASSIST CITIZEN",
-      "Address": "1300 BLOCK N MARTIN LUTHER KING JR AVE",
-      "Response_Date": "2025-12-01T09:02:50"
-    },
-    {
       "Master_Incident_Number": "120125-00219",
       "Online_Description": "TRESPASS",
       "Address": "400 BLOCK EAST SHORE DR",
@@ -17,12 +11,6 @@
       "Online_Description": "TRAFFIC CRASH",
       "Address": "MORNINGSIDE DR / WILLIAMS DR",
       "Response_Date": "2025-12-01T13:31:49"
-    },
-    {
-      "Master_Incident_Number": "120125-00263",
-      "Online_Description": "HIT & RUN",
-      "Address": "US HIGHWAY 19 N / SR 580",
-      "Response_Date": "2025-12-01T13:42:53"
     },
     {
       "Master_Incident_Number": "120125-00261",
@@ -37,30 +25,54 @@
       "Response_Date": "2025-12-01T13:49:05"
     },
     {
-      "Master_Incident_Number": "120125-00269",
-      "Online_Description": "PARK WALK AND TALK",
-      "Address": "2600 BLOCK GULF TO BAY BLVD",
-      "Response_Date": "2025-12-01T13:53:07"
-    },
-    {
       "Master_Incident_Number": "120125-00272",
       "Online_Description": "SUSPICIOUS PERSON",
       "Address": "1400 BLOCK N MADISON AVE",
       "Response_Date": "2025-12-01T14:04:42"
     },
     {
-      "Master_Incident_Number": "120125-00273",
-      "Online_Description": "TRAFFIC STOP",
-      "Address": "N BELCHER RD / CLEVELAND ST",
-      "Response_Date": "2025-12-01T14:09:39"
-    },
-    {
       "Master_Incident_Number": "120125-00274",
       "Online_Description": "SCHOOL CROSSING",
       "Address": "DREW ST / FAIRWOOD AVE",
       "Response_Date": "2025-12-01T14:10:36"
+    },
+    {
+      "Master_Incident_Number": "120125-00277",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "1700 BLOCK N HERCULES AVE",
+      "Response_Date": "2025-12-01T14:18:06"
+    },
+    {
+      "Master_Incident_Number": "120125-00280",
+      "Online_Description": "CIVIL MATTER",
+      "Address": "300 BLOCK N JUPITER AVE",
+      "Response_Date": "2025-12-01T14:18:25"
+    },
+    {
+      "Master_Incident_Number": "120125-00279",
+      "Online_Description": "TRAFFIC STOP",
+      "Address": "SR 580 / US HIGHWAY 19 N",
+      "Response_Date": "2025-12-01T14:20:28"
+    },
+    {
+      "Master_Incident_Number": "120125-00282",
+      "Online_Description": "TRAFFIC STOP",
+      "Address": "PIERCE ST / S MARTIN LUTHER KING JR AVE",
+      "Response_Date": "2025-12-01T14:23:19"
+    },
+    {
+      "Master_Incident_Number": "120125-00284",
+      "Online_Description": "TRAFFIC STOP",
+      "Address": "OLD COACHMAN RD / NE COACHMAN RD",
+      "Response_Date": "2025-12-01T14:24:28"
+    },
+    {
+      "Master_Incident_Number": "120125-00285",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "-100 BLOCK 103 N EAST AVE",
+      "Response_Date": "2025-12-01T14:25:09"
     }
   ],
-  "timestamp": "2025-12-01T19:37:47.066204+00:00",
-  "count": 10
+  "timestamp": "2025-12-01T19:46:55.895054+00:00",
+  "count": 12
 }
