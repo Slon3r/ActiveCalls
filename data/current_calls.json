@@ -13,12 +13,6 @@
       "Response_Date": "2025-12-01T12:07:46"
     },
     {
-      "Master_Incident_Number": "120125-00274",
-      "Online_Description": "SCHOOL CROSSING",
-      "Address": "DREW ST / FAIRWOOD AVE",
-      "Response_Date": "2025-12-01T14:10:36"
-    },
-    {
       "Master_Incident_Number": "120125-00296",
       "Online_Description": "HIT & RUN",
       "Address": "DREW ST / OLD COACHMAN RD",
@@ -43,24 +37,18 @@
       "Response_Date": "2025-12-01T15:07:22"
     },
     {
-      "Master_Incident_Number": "120125-00312",
-      "Online_Description": "SUSPICIOUS PERSON",
-      "Address": "1600 BLOCK N HIGHLAND AVE",
-      "Response_Date": "2025-12-01T15:05:58"
-    },
-    {
-      "Master_Incident_Number": "120125-00314",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "21400 BLOCK US HIGHWAY 19 N",
-      "Response_Date": "2025-12-01T15:12:17"
-    },
-    {
       "Master_Incident_Number": "120125-00317",
       "Online_Description": "DIRECTED PATROL",
       "Address": "0 BLOCK 98 S MAIN AVE",
       "Response_Date": "2025-12-01T15:19:05"
+    },
+    {
+      "Master_Incident_Number": "120125-00321",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "TURNER ST / S FORT HARRISON AVE",
+      "Response_Date": "2025-12-01T15:34:11"
     }
   ],
-  "timestamp": "2025-12-01T20:51:09.436540+00:00",
-  "count": 10
+  "timestamp": "2025-12-01T20:59:12.199968+00:00",
+  "count": 8
 }
