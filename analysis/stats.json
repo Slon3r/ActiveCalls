@@ -1,6 +1,6 @@
 {
-  "total_calls_tracked": 650,
-  "total_resolved": 638,
+  "total_calls_tracked": 651,
+  "total_resolved": 639,
   "call_types": {
     "DIRECTED PATROL": 226,
     "TRAFFIC STOP": 103,
@@ -12,7 +12,7 @@
     "KEEP THE PEACE": 13,
     "WELFARE CHECK": 15,
     "PARK WALK AND TALK": 51,
-    "SUSPICIOUS PERSON": 26,
+    "SUSPICIOUS PERSON": 27,
     "TRESPASS": 17,
     "PROPERTY FOUND/LOST": 4,
     "THEFT": 7,
@@ -464,7 +464,8 @@
     "PUBLIX": 1,
     "800 BLOCK CHESTNUT ST": 1,
     "1500 BLOCK MURRAY AVE": 1,
-    "300 BLOCK S HIGHLAND AVE": 1
+    "300 BLOCK S HIGHLAND AVE": 1,
+    "26200 BLOCK US HIGHWAY 19 N": 1
   },
   "hourly_distribution": {
     "0": 20,
@@ -483,7 +484,7 @@
     "13": 52,
     "14": 57,
     "15": 53,
-    "16": 43,
+    "16": 44,
     "17": 25,
     "18": 19,
     "19": 8,
@@ -493,7 +494,7 @@
     "23": 10
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-01T21:39:57.276106+00:00",
+  "last_updated": "2025-12-01T21:48:19.192858+00:00",
   "peak_active_calls": 15,
-  "total_snapshots": 217
+  "total_snapshots": 218
 }
