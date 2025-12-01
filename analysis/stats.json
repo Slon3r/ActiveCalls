@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 578,
-  "total_resolved": 567,
+  "total_calls_tracked": 585,
+  "total_resolved": 572,
   "call_types": {
-    "DIRECTED PATROL": 205,
+    "DIRECTED PATROL": 209,
     "TRAFFIC STOP": 97,
     "DRUNK DRIVER": 4,
     "DISTURBANCE": 14,
@@ -13,9 +13,9 @@
     "WELFARE CHECK": 14,
     "PARK WALK AND TALK": 46,
     "SUSPICIOUS PERSON": 21,
-    "TRESPASS": 14,
+    "TRESPASS": 15,
     "PROPERTY FOUND/LOST": 4,
-    "THEFT": 5,
+    "THEFT": 6,
     "NEIGHBOR CALL": 5,
     "911 HANG-UP": 21,
     "SUSPICIOUS VEHICLE": 6,
@@ -23,7 +23,7 @@
     "VEHICLE ILLEGALLY PARKED": 3,
     "SUSPICIOUS EVENT": 9,
     "TRAFFIC CRASH": 22,
-    "DISABLED VEHICLE": 6,
+    "DISABLED VEHICLE": 7,
     "ASSIST CITIZEN": 15,
     "ASSIST OTHER AGENCY": 4,
     "FIRE": 2,
@@ -215,7 +215,7 @@
     "2500 BLOCK COUNTRYSIDE BLVD": 3,
     "-300 BLOCK 339 CORONADO DR": 1,
     "-600 BLOCK 698 CLEVELAND ST": 1,
-    "1500 BLOCK S HIGHLAND AVE": 1,
+    "1500 BLOCK S HIGHLAND AVE": 2,
     "PINELLAS ST / S FORT HARRISON AVE": 1,
     "1600 BLOCK N ARCTURAS AVE": 1,
     "1100 BLOCK BECKETT ST": 1,
@@ -299,7 +299,7 @@
     "DREW ST / PINEWOOD AVE": 1,
     "2800 BLOCK GULF TO BAY BLVD": 1,
     "19100 BLOCK US HIGHWAY 19 N": 1,
-    "1200 BLOCK S HIGHLAND AVE": 2,
+    "1200 BLOCK S HIGHLAND AVE": 3,
     "1200 BLOCK TURNER ST": 1,
     "THIRD ST / CORONADO DR": 1,
     "900 BLOCK N MCMULLEN BOOTH RD": 1,
@@ -412,7 +412,12 @@
     "GARDEN AVE/ CLEVELAND ST": 1,
     "S MARTIN LUTHER KING JR AVE / KINGSLEY ST": 1,
     "800 BLOCK S HIGHLAND AVE": 1,
-    "S MISSOURI AVE / JASMINE WAY": 1
+    "S MISSOURI AVE / JASMINE WAY": 1,
+    "1700 BLOCK N HERCULES AVE": 1,
+    "400 BLOCK EAST SHORE DR": 1,
+    "2500 BLOCK DREW ST": 1,
+    "600 BLOCK N FORT HARRISON AVE": 1,
+    "200 BLOCK S BETTY LN": 1
   },
   "hourly_distribution": {
     "0": 20,
@@ -427,8 +432,8 @@
     "9": 50,
     "10": 50,
     "11": 42,
-    "12": 32,
-    "13": 37,
+    "12": 38,
+    "13": 38,
     "14": 35,
     "15": 39,
     "16": 36,
@@ -441,7 +446,7 @@
     "23": 10
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-01T17:19:44.222302+00:00",
+  "last_updated": "2025-12-01T17:44:14.459873+00:00",
   "peak_active_calls": 15,
-  "total_snapshots": 201
+  "total_snapshots": 202
 }
