@@ -1,6 +1,6 @@
 {
-  "total_calls_tracked": 499,
-  "total_resolved": 497,
+  "total_calls_tracked": 500,
+  "total_resolved": 499,
   "call_types": {
     "DIRECTED PATROL": 173,
     "TRAFFIC STOP": 89,
@@ -24,7 +24,7 @@
     "SUSPICIOUS EVENT": 5,
     "TRAFFIC CRASH": 16,
     "DISABLED VEHICLE": 4,
-    "ASSIST CITIZEN": 11,
+    "ASSIST CITIZEN": 12,
     "ASSIST OTHER AGENCY": 3,
     "FIRE": 2,
     "FRAUD": 2,
@@ -370,13 +370,14 @@
     "1600 BLOCK N HIGHLAND AVE": 1,
     "1700 BLOCK FLAGLER DR": 1,
     "20000 BLOCK US HIGHWAY 19 N": 1,
-    "0 BLOCK 33 BAY ESPLANADE": 1
+    "0 BLOCK 33 BAY ESPLANADE": 1,
+    "1100 BLOCK N BAYSHORE BLVD": 1
   },
   "hourly_distribution": {
     "0": 20,
     "1": 19,
     "2": 12,
-    "3": 10,
+    "3": 11,
     "4": 2,
     "5": 12,
     "6": 10,
@@ -399,7 +400,7 @@
     "23": 10
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-01T08:21:25.184536+00:00",
+  "last_updated": "2025-12-01T08:49:12.923490+00:00",
   "peak_active_calls": 14,
-  "total_snapshots": 176
+  "total_snapshots": 177
 }

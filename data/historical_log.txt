@@ -2475,3 +2475,15 @@ TOTAL ACTIVE CALLS: 2
 
 --- RESOLVED CALLS (1) ---
 [RESOLVED] 120125-00027 | DISTURBANCE | 1700 BLOCK FLAGLER DR | Response: 02:00 AM
+
+================================================================================
+TIMESTAMP: 2025-12-01T08:49:12.922126+00:00
+TOTAL ACTIVE CALLS: 1
+================================================================================
+
+--- NEW CALLS (1) ---
+[NEW] 120125-00033 | ASSIST CITIZEN | 1100 BLOCK N BAYSHORE BLVD | Response: 03:06 AM
+
+--- RESOLVED CALLS (2) ---
+[RESOLVED] 120125-00030 | TRESPASS | 20000 BLOCK US HIGHWAY 19 N | Response: 02:45 AM
+[RESOLVED] 120125-00031 | DIRECTED PATROL | 0 BLOCK 33 BAY ESPLANADE | Response: 02:57 AM
