@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 659,
-  "total_resolved": 648,
+  "total_calls_tracked": 662,
+  "total_resolved": 653,
   "call_types": {
-    "DIRECTED PATROL": 227,
+    "DIRECTED PATROL": 228,
     "TRAFFIC STOP": 103,
     "DRUNK DRIVER": 4,
     "DISTURBANCE": 15,
@@ -35,8 +35,8 @@
     "NOISE COMPLAINT": 4,
     "CIVIL MATTER": 5,
     "DOMESTIC": 6,
-    "ANIMAL CASE": 2,
-    "MISSING PERSON": 5,
+    "ANIMAL CASE": 3,
+    "MISSING PERSON": 6,
     "BUILDING CHECK": 4,
     "SHOPLIFTING": 2,
     "DECEASED PERSON": 1,
@@ -161,7 +161,7 @@
     "FIFTH ST & HAMDEN DR": 1,
     "FIFTH ST / HAMDEN DR": 1,
     "E WORLD PARKWAY BLVD / BELCHER RD": 1,
-    "300 BLOCK CLEVELAND ST": 6,
+    "300 BLOCK CLEVELAND ST": 7,
     "GULF TO BAY BLVD / S LAKE DR": 1,
     "-400 BLOCK BLK BLANCHE B LITTLEJOHN TRL": 1,
     "2600 BLOCK GULF TO BAY BLVD": 5,
@@ -233,7 +233,7 @@
     "2500 BLOCK FOREST RUN CT": 1,
     "1800 BLOCK SUNSET POINT RD": 2,
     "1100 BLOCK GRANT ST": 1,
-    "COURTNEY CAMPBELL CSWY / DR KIRAN C PATEL BLVD": 2,
+    "COURTNEY CAMPBELL CSWY / DR KIRAN C PATEL BLVD": 3,
     "2000 BLOCK PLATEAU RD": 3,
     "DREW ST / N HIGHLAND AVE": 1,
     "-400 BLOCK 498 S GULFVIEW BLVD": 1,
@@ -472,7 +472,8 @@
     "1100 BLOCK LA SALLE ST": 1,
     "200 BLOCK MCMULLEN BOOTH RD S": 1,
     "0 BLOCK N EVERGREEN AVE": 1,
-    "-200 BLOCK 299 CORONADO DR": 1
+    "-200 BLOCK 299 CORONADO DR": 1,
+    "1500 BLOCK S WASHINGTON AVE": 1
   },
   "hourly_distribution": {
     "0": 20,
@@ -491,8 +492,8 @@
     "13": 52,
     "14": 57,
     "15": 54,
-    "16": 51,
-    "17": 25,
+    "16": 53,
+    "17": 26,
     "18": 19,
     "19": 8,
     "20": 5,
@@ -501,7 +502,7 @@
     "23": 10
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-01T22:14:39.955868+00:00",
+  "last_updated": "2025-12-01T22:35:14.038761+00:00",
   "peak_active_calls": 15,
-  "total_snapshots": 220
+  "total_snapshots": 221
 }
