@@ -1,11 +1,11 @@
 {
-  "total_calls_tracked": 496,
-  "total_resolved": 494,
+  "total_calls_tracked": 497,
+  "total_resolved": 496,
   "call_types": {
     "DIRECTED PATROL": 172,
     "TRAFFIC STOP": 89,
     "DRUNK DRIVER": 4,
-    "DISTURBANCE": 12,
+    "DISTURBANCE": 13,
     "BATTERY": 3,
     "CRIMINAL MISCHIEF": 1,
     "ALARM": 6,
@@ -367,12 +367,13 @@
     "-1100 BLOCK 1198 N MARTIN LUTHER KING JR AVE": 1,
     "1500 BLOCK DRUID RD": 1,
     "GULF TO BAY BLVD / S HIGHLAND AVE": 1,
-    "1600 BLOCK N HIGHLAND AVE": 1
+    "1600 BLOCK N HIGHLAND AVE": 1,
+    "1700 BLOCK FLAGLER DR": 1
   },
   "hourly_distribution": {
     "0": 20,
     "1": 19,
-    "2": 9,
+    "2": 10,
     "3": 10,
     "4": 2,
     "5": 12,
@@ -396,7 +397,7 @@
     "23": 10
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-01T07:34:31.966143+00:00",
+  "last_updated": "2025-12-01T07:46:33.037421+00:00",
   "peak_active_calls": 14,
-  "total_snapshots": 173
+  "total_snapshots": 174
 }
