@@ -1,24 +1,5 @@
 {
-  "calls": [
-    {
-      "Master_Incident_Number": "113025-00447",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "MEMORIAL CSWY",
-      "Response_Date": "2025-11-30T19:40:57"
-    },
-    {
-      "Master_Incident_Number": "113025-00509",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "MEMORIAL CSWY / ISLAND WAY",
-      "Response_Date": "2025-11-30T21:54:02"
-    },
-    {
-      "Master_Incident_Number": "113025-00544",
-      "Online_Description": "DOMESTIC",
-      "Address": "400 BLOCK S HILLCREST AVE",
-      "Response_Date": "2025-11-30T22:45:12"
-    }
-  ],
-  "timestamp": "2025-12-01T05:05:52.816406+00:00",
-  "count": 3
+  "calls": [],
+  "timestamp": "2025-12-01T05:39:08.793167+00:00",
+  "count": 0
 }
