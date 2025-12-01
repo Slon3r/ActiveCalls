@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 485,
-  "total_resolved": 482,
+  "total_calls_tracked": 491,
+  "total_resolved": 484,
   "call_types": {
-    "DIRECTED PATROL": 166,
+    "DIRECTED PATROL": 170,
     "TRAFFIC STOP": 88,
     "DRUNK DRIVER": 4,
     "DISTURBANCE": 11,
@@ -12,7 +12,7 @@
     "KEEP THE PEACE": 10,
     "WELFARE CHECK": 13,
     "PARK WALK AND TALK": 41,
-    "SUSPICIOUS PERSON": 17,
+    "SUSPICIOUS PERSON": 19,
     "TRESPASS": 10,
     "PROPERTY FOUND/LOST": 4,
     "THEFT": 4,
@@ -176,7 +176,7 @@
     "2900 BLOCK SWEETGUM WAY S": 1,
     "18600 BLOCK US HIGHWAY 19 N": 1,
     "-500 BLOCK 598 MANDALAY AVE": 1,
-    "300 BLOCK S GULFVIEW BLVD": 5,
+    "300 BLOCK S GULFVIEW BLVD": 7,
     "500 BLOCK S HIGHLAND AVE": 1,
     "1700 BLOCK KINGS HWY": 1,
     "500 BLOCK MANDALAY AVE": 1,
@@ -266,7 +266,7 @@
     "1800 BLOCK MONTCLAIR RD": 1,
     "20500 BLOCK US HIGHWAY 19 N": 2,
     "200 BLOCK LARBOARD WAY": 1,
-    "COURT ST / S MISSOURI AVE": 2,
+    "COURT ST / S MISSOURI AVE": 3,
     "-500 BLOCK 1068 GULF BLVD": 1,
     "26300 BLOCK US HIGHWAY 19 N": 2,
     "DREW ST / BAYVIEW AVE": 1,
@@ -362,10 +362,13 @@
     "1000 BLOCK MOHAWK ST": 1,
     "400 BLOCK S HILLCREST AVE": 2,
     "-300 BLOCK 338 CORONADO DR": 1,
-    "GULF TO BAY BLVD / BAY ST": 1
+    "GULF TO BAY BLVD / BAY ST": 1,
+    "700 BLOCK BAYVIEW AVE": 1,
+    "-1100 BLOCK 1198 N MARTIN LUTHER KING JR AVE": 1,
+    "1500 BLOCK DRUID RD": 1
   },
   "hourly_distribution": {
-    "0": 14,
+    "0": 20,
     "1": 14,
     "2": 9,
     "3": 10,
@@ -391,7 +394,7 @@
     "23": 10
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-01T05:53:08.812696+00:00",
+  "last_updated": "2025-12-01T06:17:19.620332+00:00",
   "peak_active_calls": 14,
-  "total_snapshots": 169
+  "total_snapshots": 170
 }
