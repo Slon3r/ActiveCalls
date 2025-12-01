@@ -19,12 +19,6 @@
       "Response_Date": "2025-12-01T14:10:36"
     },
     {
-      "Master_Incident_Number": "120125-00295",
-      "Online_Description": "TRESPASS",
-      "Address": "1400 BLOCK S BELCHER RD",
-      "Response_Date": "2025-12-01T14:35:20"
-    },
-    {
       "Master_Incident_Number": "120125-00296",
       "Online_Description": "HIT & RUN",
       "Address": "DREW ST / OLD COACHMAN RD",
@@ -67,6 +61,6 @@
       "Response_Date": "2025-12-01T15:19:05"
     }
   ],
-  "timestamp": "2025-12-01T20:42:49.220251+00:00",
-  "count": 11
+  "timestamp": "2025-12-01T20:51:09.436540+00:00",
+  "count": 10
 }
