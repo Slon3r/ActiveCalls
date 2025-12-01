@@ -2502,3 +2502,11 @@ TOTAL ACTIVE CALLS: 0
 
 --- RESOLVED CALLS (1) ---
 [RESOLVED] 120125-00033 | ASSIST CITIZEN | 1100 BLOCK N BAYSHORE BLVD | Response: 03:06 AM
+
+================================================================================
+TIMESTAMP: 2025-12-01T09:53:09.652863+00:00
+TOTAL ACTIVE CALLS: 1
+================================================================================
+
+--- NEW CALLS (1) ---
+[NEW] 120125-00037 | DIRECTED PATROL | -1200 BLOCK 1353 COURT ST | Response: 04:26 AM
