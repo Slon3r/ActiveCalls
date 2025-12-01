@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 476,
-  "total_resolved": 467,
+  "total_calls_tracked": 482,
+  "total_resolved": 473,
   "call_types": {
     "DIRECTED PATROL": 165,
-    "TRAFFIC STOP": 85,
+    "TRAFFIC STOP": 88,
     "DRUNK DRIVER": 4,
     "DISTURBANCE": 11,
     "BATTERY": 3,
@@ -11,13 +11,13 @@
     "ALARM": 6,
     "KEEP THE PEACE": 10,
     "WELFARE CHECK": 13,
-    "PARK WALK AND TALK": 40,
+    "PARK WALK AND TALK": 41,
     "SUSPICIOUS PERSON": 17,
     "TRESPASS": 10,
     "PROPERTY FOUND/LOST": 4,
     "THEFT": 4,
     "NEIGHBOR CALL": 4,
-    "911 HANG-UP": 15,
+    "911 HANG-UP": 16,
     "SUSPICIOUS VEHICLE": 6,
     "PANHANDLER/SOLICITOR": 1,
     "VEHICLE ILLEGALLY PARKED": 3,
@@ -34,7 +34,7 @@
     "UNKNOWN PROBLEM": 3,
     "NOISE COMPLAINT": 4,
     "CIVIL MATTER": 4,
-    "DOMESTIC": 3,
+    "DOMESTIC": 4,
     "ANIMAL CASE": 2,
     "MISSING PERSON": 3,
     "BUILDING CHECK": 1,
@@ -248,7 +248,7 @@
     "US HIGHWAY 19 N / DRUID RD": 1,
     "S MISSOURI AVE/COURT ST": 1,
     "1500 BLOCK S MARTIN LUTHER KING JR AVE": 1,
-    "3100 BLOCK GULF TO BAY BLVD": 1,
+    "3100 BLOCK GULF TO BAY BLVD": 2,
     "1800 BLOCK N HIGHLAND AVE": 3,
     "BELLEAIR BLVD / US HIGHWAY 19 N": 1,
     "-1200 BLOCK 1353 COURT ST": 1,
@@ -309,7 +309,7 @@
     "1000 BLOCK S MISSOURI AVE": 1,
     "1400 BLOCK S BELCHER RD": 1,
     "-500 BLOCK BLK ISLAND WAY": 1,
-    "3200 BLOCK COURTNEY CAMPBELL CSWY": 1,
+    "3200 BLOCK COURTNEY CAMPBELL CSWY": 2,
     "300 BLOCK N HIGHLAND AVE": 1,
     "2700 BLOCK WINDING WOOD DR": 1,
     "1700 BLOCK GULF TO BAY BLVD": 1,
@@ -358,7 +358,11 @@
     "COURT ST / S MADISON AVE": 1,
     "600 BLOCK N MYRTLE AVE": 1,
     "MCMULLEN BOOTH RD / SUNSET POINT RD": 1,
-    "1400 BLOCK S MISSOURI": 1
+    "1400 BLOCK S MISSOURI": 1,
+    "1000 BLOCK MOHAWK ST": 1,
+    "400 BLOCK S HILLCREST AVE": 1,
+    "-300 BLOCK 338 CORONADO DR": 1,
+    "GULF TO BAY BLVD / BAY ST": 1
   },
   "hourly_distribution": {
     "0": 14,
@@ -383,11 +387,11 @@
     "19": 8,
     "20": 5,
     "21": 7,
-    "22": 14,
-    "23": 7
+    "22": 18,
+    "23": 9
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-01T03:45:15.593410+00:00",
+  "last_updated": "2025-12-01T04:38:47.915098+00:00",
   "peak_active_calls": 14,
-  "total_snapshots": 165
+  "total_snapshots": 166
 }

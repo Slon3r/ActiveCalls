@@ -13,48 +13,48 @@
       "Response_Date": "2025-11-30T20:33:48"
     },
     {
-      "Master_Incident_Number": "113025-00486",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "1300 BLOCK COURT ST",
-      "Response_Date": "2025-11-30T21:15:59"
-    },
-    {
       "Master_Incident_Number": "113025-00509",
       "Online_Description": "DIRECTED PATROL",
       "Address": "MEMORIAL CSWY / ISLAND WAY",
       "Response_Date": "2025-11-30T21:54:02"
     },
     {
-      "Master_Incident_Number": "113025-00511",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "COURT ST / S MADISON AVE",
-      "Response_Date": "2025-11-30T21:54:18"
+      "Master_Incident_Number": "113025-00535",
+      "Online_Description": "911 HANG-UP",
+      "Address": "1000 BLOCK MOHAWK ST",
+      "Response_Date": "2025-11-30T22:30:30"
     },
     {
-      "Master_Incident_Number": "113025-00525",
-      "Online_Description": "SUSPICIOUS EVENT",
-      "Address": "27000 BLOCK US HIGHWAY 19 N",
-      "Response_Date": "2025-11-30T22:07:01"
+      "Master_Incident_Number": "113025-00544",
+      "Online_Description": "DOMESTIC",
+      "Address": "400 BLOCK S HILLCREST AVE",
+      "Response_Date": "2025-11-30T22:45:12"
     },
     {
-      "Master_Incident_Number": "113025-00521",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "600 BLOCK N MYRTLE AVE",
-      "Response_Date": "2025-11-30T22:07:21"
-    },
-    {
-      "Master_Incident_Number": "113025-00522",
+      "Master_Incident_Number": "113025-00543",
       "Online_Description": "TRAFFIC STOP",
-      "Address": "MCMULLEN BOOTH RD / SUNSET POINT RD",
-      "Response_Date": "2025-11-30T22:08:46"
+      "Address": "3100 BLOCK GULF TO BAY BLVD",
+      "Response_Date": "2025-11-30T22:47:30"
     },
     {
-      "Master_Incident_Number": "113025-00529",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "1400 BLOCK S MISSOURI",
-      "Response_Date": "2025-11-30T22:20:19"
+      "Master_Incident_Number": "113025-00546",
+      "Online_Description": "PARK WALK AND TALK",
+      "Address": "-300 BLOCK 338 CORONADO DR",
+      "Response_Date": "2025-11-30T22:52:03"
+    },
+    {
+      "Master_Incident_Number": "113025-00557",
+      "Online_Description": "TRAFFIC STOP",
+      "Address": "3200 BLOCK COURTNEY CAMPBELL CSWY",
+      "Response_Date": "2025-11-30T23:10:19"
+    },
+    {
+      "Master_Incident_Number": "113025-00559",
+      "Online_Description": "TRAFFIC STOP",
+      "Address": "GULF TO BAY BLVD / BAY ST",
+      "Response_Date": "2025-11-30T23:15:23"
     }
   ],
-  "timestamp": "2025-12-01T03:45:15.592224+00:00",
+  "timestamp": "2025-12-01T04:38:47.913903+00:00",
   "count": 9
 }
