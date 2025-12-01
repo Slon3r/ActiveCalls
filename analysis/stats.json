@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 501,
+  "total_calls_tracked": 503,
   "total_resolved": 501,
   "call_types": {
-    "DIRECTED PATROL": 174,
+    "DIRECTED PATROL": 176,
     "TRAFFIC STOP": 89,
     "DRUNK DRIVER": 4,
     "DISTURBANCE": 13,
@@ -142,7 +142,7 @@
     "1300 BLOCK FRANKLIN ST": 1,
     "SUNSET MEADOW DR / COLONY REED LN": 1,
     "0 BLOCK BAY ESPLANADE": 1,
-    "200 BLOCK S GLENWOOD AVE": 4,
+    "200 BLOCK S GLENWOOD AVE": 5,
     "S KEENE RD / DRUID RD": 1,
     "GULF TO BAY BLVD / BAMBOO LN": 1,
     "GULF TO BAY BLVD / BROOKSIDE DR": 1,
@@ -249,7 +249,7 @@
     "S MISSOURI AVE/COURT ST": 1,
     "1500 BLOCK S MARTIN LUTHER KING JR AVE": 1,
     "3100 BLOCK GULF TO BAY BLVD": 2,
-    "1800 BLOCK N HIGHLAND AVE": 3,
+    "1800 BLOCK N HIGHLAND AVE": 4,
     "BELLEAIR BLVD / US HIGHWAY 19 N": 1,
     "-1200 BLOCK 1353 COURT ST": 2,
     "-500 BLOCK 642 BAY ESPLANADE": 1,
@@ -379,7 +379,7 @@
     "2": 12,
     "3": 11,
     "4": 3,
-    "5": 12,
+    "5": 14,
     "6": 10,
     "7": 13,
     "8": 30,
@@ -400,7 +400,7 @@
     "23": 10
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-01T10:12:34.635615+00:00",
+  "last_updated": "2025-12-01T10:42:49.706443+00:00",
   "peak_active_calls": 14,
-  "total_snapshots": 181
+  "total_snapshots": 182
 }
