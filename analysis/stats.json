@@ -1,14 +1,14 @@
 {
-  "total_calls_tracked": 592,
-  "total_resolved": 587,
+  "total_calls_tracked": 597,
+  "total_resolved": 590,
   "call_types": {
-    "DIRECTED PATROL": 213,
+    "DIRECTED PATROL": 215,
     "TRAFFIC STOP": 97,
     "DRUNK DRIVER": 4,
     "DISTURBANCE": 14,
     "BATTERY": 3,
     "CRIMINAL MISCHIEF": 1,
-    "ALARM": 7,
+    "ALARM": 8,
     "KEEP THE PEACE": 12,
     "WELFARE CHECK": 14,
     "PARK WALK AND TALK": 47,
@@ -22,7 +22,7 @@
     "PANHANDLER/SOLICITOR": 1,
     "VEHICLE ILLEGALLY PARKED": 3,
     "SUSPICIOUS EVENT": 9,
-    "TRAFFIC CRASH": 22,
+    "TRAFFIC CRASH": 23,
     "DISABLED VEHICLE": 7,
     "ASSIST CITIZEN": 15,
     "ASSIST OTHER AGENCY": 4,
@@ -34,7 +34,7 @@
     "UNKNOWN PROBLEM": 3,
     "NOISE COMPLAINT": 4,
     "CIVIL MATTER": 4,
-    "DOMESTIC": 5,
+    "DOMESTIC": 6,
     "ANIMAL CASE": 2,
     "MISSING PERSON": 4,
     "BUILDING CHECK": 2,
@@ -418,9 +418,13 @@
     "2500 BLOCK DREW ST": 1,
     "600 BLOCK N FORT HARRISON AVE": 1,
     "200 BLOCK S BETTY LN": 1,
-    "2400 BLOCK HARN BLVD": 1,
+    "2400 BLOCK HARN BLVD": 2,
     "1400 BLOCK S MARTIN LUTHER KING JR AVE": 1,
-    "OTIS C GREEN DR / N BETTY LN": 1
+    "OTIS C GREEN DR / N BETTY LN": 1,
+    "2600 BLOCK MCMULLEN BOOTH RD": 1,
+    "S MADISON AVE / PIERCE ST": 1,
+    "1000 BLOCK VINE AVE": 1,
+    "2200 BLOCK MORNINGSIDE DR": 1
   },
   "hourly_distribution": {
     "0": 20,
@@ -435,8 +439,8 @@
     "9": 50,
     "10": 50,
     "11": 42,
-    "12": 45,
-    "13": 38,
+    "12": 46,
+    "13": 42,
     "14": 35,
     "15": 39,
     "16": 36,
@@ -449,7 +453,7 @@
     "23": 10
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-01T18:28:31.149516+00:00",
+  "last_updated": "2025-12-01T18:56:59.797979+00:00",
   "peak_active_calls": 15,
-  "total_snapshots": 204
+  "total_snapshots": 205
 }
