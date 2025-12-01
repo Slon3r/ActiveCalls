@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 469,
-  "total_resolved": 460,
+  "total_calls_tracked": 476,
+  "total_resolved": 467,
   "call_types": {
-    "DIRECTED PATROL": 160,
-    "TRAFFIC STOP": 84,
+    "DIRECTED PATROL": 165,
+    "TRAFFIC STOP": 85,
     "DRUNK DRIVER": 4,
     "DISTURBANCE": 11,
     "BATTERY": 3,
@@ -21,7 +21,7 @@
     "SUSPICIOUS VEHICLE": 6,
     "PANHANDLER/SOLICITOR": 1,
     "VEHICLE ILLEGALLY PARKED": 3,
-    "SUSPICIOUS EVENT": 4,
+    "SUSPICIOUS EVENT": 5,
     "TRAFFIC CRASH": 16,
     "DISABLED VEHICLE": 4,
     "ASSIST CITIZEN": 11,
@@ -44,7 +44,7 @@
     "SHOTS FIRED": 1
   },
   "addresses": {
-    "MEMORIAL CSWY / ISLAND WAY": 11,
+    "MEMORIAL CSWY / ISLAND WAY": 12,
     "GULF TO BAY BLVD / S BELCHER RD": 3,
     "1900 BLOCK N BETTY LN": 1,
     "1400 BLOCK CLEVELAND ST": 1,
@@ -103,7 +103,7 @@
     "2300 BLOCK GULF TO BAY BLVD": 1,
     "1200 BLOCK CLEVELAND ST": 5,
     "-500 BLOCK 549 MANDALAY AVE": 1,
-    "27000 BLOCK US HIGHWAY 19 N": 6,
+    "27000 BLOCK US HIGHWAY 19 N": 7,
     "DRIVEWAY PARKING": 1,
     "1100 BLOCK GULF BLVD": 2,
     "2500 BLOCK GULF TO BAY BLVD": 3,
@@ -353,7 +353,12 @@
     "600 BLOCK ELDRIDGE ST": 1,
     "2100 BLOCK MONTCLAIR RD": 1,
     "700 BLOCK S KEENE RD": 1,
-    "CHESTNUT ST / S GARDEN AVE": 1
+    "CHESTNUT ST / S GARDEN AVE": 1,
+    "1300 BLOCK COURT ST": 1,
+    "COURT ST / S MADISON AVE": 1,
+    "600 BLOCK N MYRTLE AVE": 1,
+    "MCMULLEN BOOTH RD / SUNSET POINT RD": 1,
+    "1400 BLOCK S MISSOURI": 1
   },
   "hourly_distribution": {
     "0": 14,
@@ -377,12 +382,12 @@
     "18": 19,
     "19": 8,
     "20": 5,
-    "21": 4,
-    "22": 10,
+    "21": 7,
+    "22": 14,
     "23": 7
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-01T01:54:54.965020+00:00",
+  "last_updated": "2025-12-01T03:45:15.593410+00:00",
   "peak_active_calls": 14,
-  "total_snapshots": 164
+  "total_snapshots": 165
 }

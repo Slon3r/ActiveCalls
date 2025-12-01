@@ -60,6 +60,66 @@
           "Response_Date": "2025-11-30T20:33:48"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-01T03:45:15.592224+00:00",
+      "call_count": 9,
+      "calls": [
+        {
+          "Master_Incident_Number": "113025-00447",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "MEMORIAL CSWY",
+          "Response_Date": "2025-11-30T19:40:57"
+        },
+        {
+          "Master_Incident_Number": "113025-00465",
+          "Online_Description": "DRUNK DRIVER",
+          "Address": "CHESTNUT ST / S GARDEN AVE",
+          "Response_Date": "2025-11-30T20:33:48"
+        },
+        {
+          "Master_Incident_Number": "113025-00486",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "1300 BLOCK COURT ST",
+          "Response_Date": "2025-11-30T21:15:59"
+        },
+        {
+          "Master_Incident_Number": "113025-00509",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "MEMORIAL CSWY / ISLAND WAY",
+          "Response_Date": "2025-11-30T21:54:02"
+        },
+        {
+          "Master_Incident_Number": "113025-00511",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "COURT ST / S MADISON AVE",
+          "Response_Date": "2025-11-30T21:54:18"
+        },
+        {
+          "Master_Incident_Number": "113025-00525",
+          "Online_Description": "SUSPICIOUS EVENT",
+          "Address": "27000 BLOCK US HIGHWAY 19 N",
+          "Response_Date": "2025-11-30T22:07:01"
+        },
+        {
+          "Master_Incident_Number": "113025-00521",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "600 BLOCK N MYRTLE AVE",
+          "Response_Date": "2025-11-30T22:07:21"
+        },
+        {
+          "Master_Incident_Number": "113025-00522",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "MCMULLEN BOOTH RD / SUNSET POINT RD",
+          "Response_Date": "2025-11-30T22:08:46"
+        },
+        {
+          "Master_Incident_Number": "113025-00529",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "1400 BLOCK S MISSOURI",
+          "Response_Date": "2025-11-30T22:20:19"
+        }
+      ]
     }
   ]
 }
