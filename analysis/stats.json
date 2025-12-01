@@ -1,16 +1,16 @@
 {
-  "total_calls_tracked": 667,
-  "total_resolved": 659,
+  "total_calls_tracked": 673,
+  "total_resolved": 662,
   "call_types": {
-    "DIRECTED PATROL": 230,
-    "TRAFFIC STOP": 103,
+    "DIRECTED PATROL": 231,
+    "TRAFFIC STOP": 104,
     "DRUNK DRIVER": 4,
     "DISTURBANCE": 15,
     "BATTERY": 3,
     "CRIMINAL MISCHIEF": 1,
-    "ALARM": 8,
+    "ALARM": 9,
     "KEEP THE PEACE": 15,
-    "WELFARE CHECK": 15,
+    "WELFARE CHECK": 16,
     "PARK WALK AND TALK": 52,
     "SUSPICIOUS PERSON": 27,
     "TRESPASS": 17,
@@ -23,8 +23,8 @@
     "VEHICLE ILLEGALLY PARKED": 3,
     "SUSPICIOUS EVENT": 13,
     "TRAFFIC CRASH": 27,
-    "DISABLED VEHICLE": 8,
-    "ASSIST CITIZEN": 17,
+    "DISABLED VEHICLE": 9,
+    "ASSIST CITIZEN": 18,
     "ASSIST OTHER AGENCY": 6,
     "FIRE": 2,
     "FRAUD": 3,
@@ -181,7 +181,7 @@
     "2900 BLOCK SWEETGUM WAY S": 1,
     "18600 BLOCK US HIGHWAY 19 N": 1,
     "-500 BLOCK 598 MANDALAY AVE": 1,
-    "300 BLOCK S GULFVIEW BLVD": 7,
+    "300 BLOCK S GULFVIEW BLVD": 8,
     "500 BLOCK S HIGHLAND AVE": 1,
     "1700 BLOCK KINGS HWY": 1,
     "500 BLOCK MANDALAY AVE": 1,
@@ -230,7 +230,7 @@
     "-300 BLOCK 437 MANDALAY AVE": 1,
     "600 BLOCK LEMBO CIR": 1,
     "1500 BLOCK RIDGEWOOD ST": 1,
-    "2500 BLOCK FOREST RUN CT": 1,
+    "2500 BLOCK FOREST RUN CT": 2,
     "1800 BLOCK SUNSET POINT RD": 2,
     "1100 BLOCK GRANT ST": 1,
     "COURTNEY CAMPBELL CSWY / DR KIRAN C PATEL BLVD": 3,
@@ -475,7 +475,11 @@
     "-200 BLOCK 299 CORONADO DR": 1,
     "1500 BLOCK S WASHINGTON AVE": 1,
     "22900 BLOCK US HIGHWAY 19 N": 1,
-    "-2800 BLOCK 2865 MEADOW HILL DR S": 1
+    "-2800 BLOCK 2865 MEADOW HILL DR S": 1,
+    "1000 BLOCK PENNSYLVANIA AVE": 1,
+    "US HIGHWAY 19 N / MCCORMICK DR": 1,
+    "700 BLOCK BAYWAY BLVD": 1,
+    "BAYMONT ST / POINSETTIA AVE": 1
   },
   "hourly_distribution": {
     "0": 20,
@@ -495,7 +499,7 @@
     "14": 57,
     "15": 54,
     "16": 54,
-    "17": 30,
+    "17": 36,
     "18": 19,
     "19": 8,
     "20": 5,
@@ -504,7 +508,7 @@
     "23": 10
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-01T22:54:35.124122+00:00",
+  "last_updated": "2025-12-01T23:12:56.158890+00:00",
   "peak_active_calls": 15,
-  "total_snapshots": 223
+  "total_snapshots": 224
 }

@@ -2869,6 +2869,78 @@
           "Response_Date": "2025-12-01T17:28:50"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-01T23:12:56.154470+00:00",
+      "call_count": 11,
+      "calls": [
+        {
+          "Master_Incident_Number": "120125-00313",
+          "Online_Description": "ASSIST OTHER AGENCY",
+          "Address": "1100 BLOCK LAKEVIEW RD",
+          "Response_Date": "2025-12-01T15:07:22"
+        },
+        {
+          "Master_Incident_Number": "120125-00326",
+          "Online_Description": "MISSING PERSON",
+          "Address": "1400 BLOCK S MARTIN LUTHER KING JR AVE",
+          "Response_Date": "2025-12-01T15:38:28"
+        },
+        {
+          "Master_Incident_Number": "120125-00347",
+          "Online_Description": "KEEP THE PEACE",
+          "Address": "1500 BLOCK MURRAY AVE",
+          "Response_Date": "2025-12-01T16:11:08"
+        },
+        {
+          "Master_Incident_Number": "120125-00376",
+          "Online_Description": "WELFARE CHECK",
+          "Address": "2500 BLOCK FOREST RUN CT",
+          "Response_Date": "2025-12-01T17:17:38"
+        },
+        {
+          "Master_Incident_Number": "120125-00377",
+          "Online_Description": "ASSIST OTHER AGENCY",
+          "Address": "22900 BLOCK US HIGHWAY 19 N",
+          "Response_Date": "2025-12-01T17:18:26"
+        },
+        {
+          "Master_Incident_Number": "120125-00385",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "200 BLOCK DREW ST",
+          "Response_Date": "2025-12-01T17:28:50"
+        },
+        {
+          "Master_Incident_Number": "120125-00389",
+          "Online_Description": "ALARM",
+          "Address": "1000 BLOCK PENNSYLVANIA AVE",
+          "Response_Date": "2025-12-01T17:38:37"
+        },
+        {
+          "Master_Incident_Number": "120125-00393",
+          "Online_Description": "DISABLED VEHICLE",
+          "Address": "US HIGHWAY 19 N / MCCORMICK DR",
+          "Response_Date": "2025-12-01T17:45:26"
+        },
+        {
+          "Master_Incident_Number": "120125-00394",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "300 BLOCK S GULFVIEW BLVD",
+          "Response_Date": "2025-12-01T17:45:56"
+        },
+        {
+          "Master_Incident_Number": "120125-00395",
+          "Online_Description": "ASSIST CITIZEN",
+          "Address": "700 BLOCK BAYWAY BLVD",
+          "Response_Date": "2025-12-01T17:48:52"
+        },
+        {
+          "Master_Incident_Number": "120125-00396",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "BAYMONT ST / POINSETTIA AVE",
+          "Response_Date": "2025-12-01T17:51:36"
+        }
+      ]
     }
   ]
 }
