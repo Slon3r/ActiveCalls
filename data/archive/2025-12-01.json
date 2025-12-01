@@ -656,6 +656,60 @@
           "Response_Date": "2025-12-01T08:10:21"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-01T13:53:41.521154+00:00",
+      "call_count": 8,
+      "calls": [
+        {
+          "Master_Incident_Number": "120125-00096",
+          "Online_Description": "PARK WALK AND TALK",
+          "Address": "1300 BLOCK PARK ST",
+          "Response_Date": "2025-12-01T08:00:10.607"
+        },
+        {
+          "Master_Incident_Number": "120125-00091",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "DREW ST / US HIGHWAY 19 N",
+          "Response_Date": "2025-12-01T07:55:13"
+        },
+        {
+          "Master_Incident_Number": "120125-00094",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "1300 BLOCK N MARTIN LUTHER KING JR AVE",
+          "Response_Date": "2025-12-01T07:57:24"
+        },
+        {
+          "Master_Incident_Number": "120125-00097",
+          "Online_Description": "TRAFFIC CRASH",
+          "Address": "N BELCHER RD / OLD COACHMAN RD",
+          "Response_Date": "2025-12-01T08:00:59"
+        },
+        {
+          "Master_Incident_Number": "120125-00112",
+          "Online_Description": "TRAFFIC CRASH",
+          "Address": "MONTCLAIR RD / N BELCHER RD",
+          "Response_Date": "2025-12-01T08:24:18"
+        },
+        {
+          "Master_Incident_Number": "120125-00115",
+          "Online_Description": "PARK WALK AND TALK",
+          "Address": "300 BLOCK CLEVELAND ST",
+          "Response_Date": "2025-12-01T08:27:43"
+        },
+        {
+          "Master_Incident_Number": "120125-00116",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "MCMULLEN BOOTH RD / RUTH ECKERD HALL DR",
+          "Response_Date": "2025-12-01T08:28:36"
+        },
+        {
+          "Master_Incident_Number": "120125-00117",
+          "Online_Description": "TRAFFIC CRASH",
+          "Address": "GULF TO BAY BLVD / MCMULLEN BOOTH RD S",
+          "Response_Date": "2025-12-01T08:29:41"
+        }
+      ]
     }
   ]
 }

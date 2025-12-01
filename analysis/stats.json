@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 525,
-  "total_resolved": 515,
+  "total_calls_tracked": 529,
+  "total_resolved": 521,
   "call_types": {
     "DIRECTED PATROL": 188,
-    "TRAFFIC STOP": 91,
+    "TRAFFIC STOP": 92,
     "DRUNK DRIVER": 4,
     "DISTURBANCE": 14,
     "BATTERY": 3,
@@ -11,7 +11,7 @@
     "ALARM": 7,
     "KEEP THE PEACE": 10,
     "WELFARE CHECK": 14,
-    "PARK WALK AND TALK": 44,
+    "PARK WALK AND TALK": 45,
     "SUSPICIOUS PERSON": 19,
     "TRESPASS": 12,
     "PROPERTY FOUND/LOST": 4,
@@ -22,7 +22,7 @@
     "PANHANDLER/SOLICITOR": 1,
     "VEHICLE ILLEGALLY PARKED": 3,
     "SUSPICIOUS EVENT": 5,
-    "TRAFFIC CRASH": 17,
+    "TRAFFIC CRASH": 19,
     "DISABLED VEHICLE": 4,
     "ASSIST CITIZEN": 12,
     "ASSIST OTHER AGENCY": 4,
@@ -156,7 +156,7 @@
     "FIFTH ST & HAMDEN DR": 1,
     "FIFTH ST / HAMDEN DR": 1,
     "E WORLD PARKWAY BLVD / BELCHER RD": 1,
-    "300 BLOCK CLEVELAND ST": 4,
+    "300 BLOCK CLEVELAND ST": 5,
     "GULF TO BAY BLVD / S LAKE DR": 1,
     "-400 BLOCK BLK BLANCHE B LITTLEJOHN TRL": 1,
     "2600 BLOCK GULF TO BAY BLVD": 2,
@@ -384,7 +384,10 @@
     "DREW ST / US HIGHWAY 19 N": 1,
     "1300 BLOCK N MARTIN LUTHER KING JR AVE": 1,
     "N BELCHER RD / OLD COACHMAN RD": 1,
-    "600 BLOCK S FORT HARRISON AVE": 1
+    "600 BLOCK S FORT HARRISON AVE": 1,
+    "MONTCLAIR RD / N BELCHER RD": 1,
+    "MCMULLEN BOOTH RD / RUTH ECKERD HALL DR": 1,
+    "GULF TO BAY BLVD / MCMULLEN BOOTH RD S": 1
   },
   "hourly_distribution": {
     "0": 20,
@@ -395,7 +398,7 @@
     "5": 15,
     "6": 20,
     "7": 18,
-    "8": 35,
+    "8": 39,
     "9": 33,
     "10": 36,
     "11": 30,
@@ -413,7 +416,7 @@
     "23": 10
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-01T13:31:48.812304+00:00",
+  "last_updated": "2025-12-01T13:53:41.522849+00:00",
   "peak_active_calls": 14,
-  "total_snapshots": 190
+  "total_snapshots": 191
 }
