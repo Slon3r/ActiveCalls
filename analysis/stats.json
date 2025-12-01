@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 482,
+  "total_calls_tracked": 485,
   "total_resolved": 482,
   "call_types": {
-    "DIRECTED PATROL": 165,
+    "DIRECTED PATROL": 166,
     "TRAFFIC STOP": 88,
     "DRUNK DRIVER": 4,
     "DISTURBANCE": 11,
@@ -34,9 +34,9 @@
     "UNKNOWN PROBLEM": 3,
     "NOISE COMPLAINT": 4,
     "CIVIL MATTER": 4,
-    "DOMESTIC": 4,
+    "DOMESTIC": 5,
     "ANIMAL CASE": 2,
-    "MISSING PERSON": 3,
+    "MISSING PERSON": 4,
     "BUILDING CHECK": 1,
     "SHOPLIFTING": 2,
     "DECEASED PERSON": 1,
@@ -44,7 +44,7 @@
     "SHOTS FIRED": 1
   },
   "addresses": {
-    "MEMORIAL CSWY / ISLAND WAY": 12,
+    "MEMORIAL CSWY / ISLAND WAY": 13,
     "GULF TO BAY BLVD / S BELCHER RD": 3,
     "1900 BLOCK N BETTY LN": 1,
     "1400 BLOCK CLEVELAND ST": 1,
@@ -352,7 +352,7 @@
     "500 BLOCK N BETTY LN": 1,
     "600 BLOCK ELDRIDGE ST": 1,
     "2100 BLOCK MONTCLAIR RD": 1,
-    "700 BLOCK S KEENE RD": 1,
+    "700 BLOCK S KEENE RD": 2,
     "CHESTNUT ST / S GARDEN AVE": 1,
     "1300 BLOCK COURT ST": 1,
     "COURT ST / S MADISON AVE": 1,
@@ -360,7 +360,7 @@
     "MCMULLEN BOOTH RD / SUNSET POINT RD": 1,
     "1400 BLOCK S MISSOURI": 1,
     "1000 BLOCK MOHAWK ST": 1,
-    "400 BLOCK S HILLCREST AVE": 1,
+    "400 BLOCK S HILLCREST AVE": 2,
     "-300 BLOCK 338 CORONADO DR": 1,
     "GULF TO BAY BLVD / BAY ST": 1
   },
@@ -386,12 +386,12 @@
     "18": 19,
     "19": 8,
     "20": 5,
-    "21": 7,
-    "22": 18,
-    "23": 9
+    "21": 8,
+    "22": 19,
+    "23": 10
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-01T05:39:08.794385+00:00",
+  "last_updated": "2025-12-01T05:53:08.812696+00:00",
   "peak_active_calls": 14,
-  "total_snapshots": 168
+  "total_snapshots": 169
 }
