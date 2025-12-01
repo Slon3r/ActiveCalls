@@ -1,16 +1,16 @@
 {
-  "total_calls_tracked": 462,
-  "total_resolved": 452,
+  "total_calls_tracked": 469,
+  "total_resolved": 460,
   "call_types": {
-    "DIRECTED PATROL": 158,
-    "TRAFFIC STOP": 83,
+    "DIRECTED PATROL": 160,
+    "TRAFFIC STOP": 84,
     "DRUNK DRIVER": 4,
     "DISTURBANCE": 11,
     "BATTERY": 3,
     "CRIMINAL MISCHIEF": 1,
     "ALARM": 6,
     "KEEP THE PEACE": 10,
-    "WELFARE CHECK": 10,
+    "WELFARE CHECK": 13,
     "PARK WALK AND TALK": 40,
     "SUSPICIOUS PERSON": 17,
     "TRESPASS": 10,
@@ -40,7 +40,7 @@
     "BUILDING CHECK": 1,
     "SHOPLIFTING": 2,
     "DECEASED PERSON": 1,
-    "BURGLARY": 1,
+    "BURGLARY": 2,
     "SHOTS FIRED": 1
   },
   "addresses": {
@@ -120,7 +120,7 @@
     "COUNTRYSIDE BLVD / NORTHRIDGE DR": 1,
     "NE COACHMAN RD / US HIGHWAY 19 N": 2,
     "LOTUS PATH / BAY AVE": 1,
-    "MEMORIAL CSWY": 5,
+    "MEMORIAL CSWY": 6,
     "1300 BLOCK ADMIRAL WOODSON LN": 1,
     "DREW ST / N SATURN AVE": 2,
     "GULF TO BAY BLVD / THORTON RD": 1,
@@ -156,7 +156,7 @@
     "FIFTH ST & HAMDEN DR": 1,
     "FIFTH ST / HAMDEN DR": 1,
     "E WORLD PARKWAY BLVD / BELCHER RD": 1,
-    "300 BLOCK CLEVELAND ST": 3,
+    "300 BLOCK CLEVELAND ST": 4,
     "GULF TO BAY BLVD / S LAKE DR": 1,
     "-400 BLOCK BLK BLANCHE B LITTLEJOHN TRL": 1,
     "2600 BLOCK GULF TO BAY BLVD": 2,
@@ -291,7 +291,7 @@
     "GRANGER DR / N BELCHER RD": 2,
     "NE COACHMAN RD / MARILYN ST": 1,
     "26500 BLOCK US HIGHWAY 19 N": 1,
-    "600 BLOCK DREW ST": 1,
+    "600 BLOCK DREW ST": 2,
     "200 BLOCK DOLPHIN PT": 1,
     "DEVON DR  / CORONADO DR": 2,
     "600 BLOCK OLD COACHMAN RD": 1,
@@ -349,7 +349,11 @@
     "500 BLOCK MOSS AVE": 1,
     "-1000 BLOCK 1170 GULF BLVD": 1,
     "27000 BLOCK US 19": 1,
-    "500 BLOCK N BETTY LN": 1
+    "500 BLOCK N BETTY LN": 1,
+    "600 BLOCK ELDRIDGE ST": 1,
+    "2100 BLOCK MONTCLAIR RD": 1,
+    "700 BLOCK S KEENE RD": 1,
+    "CHESTNUT ST / S GARDEN AVE": 1
   },
   "hourly_distribution": {
     "0": 14,
@@ -370,15 +374,15 @@
     "15": 39,
     "16": 36,
     "17": 25,
-    "18": 18,
-    "19": 4,
-    "20": 3,
+    "18": 19,
+    "19": 8,
+    "20": 5,
     "21": 4,
     "22": 10,
     "23": 7
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-11-30T23:57:37.836070+00:00",
+  "last_updated": "2025-12-01T01:54:54.965020+00:00",
   "peak_active_calls": 14,
-  "total_snapshots": 163
+  "total_snapshots": 164
 }

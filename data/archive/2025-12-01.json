@@ -1,0 +1,65 @@
+{
+  "date": "2025-12-01",
+  "snapshots": [
+    {
+      "timestamp": "2025-12-01T01:54:54.963948+00:00",
+      "call_count": 9,
+      "calls": [
+        {
+          "Master_Incident_Number": "113025-00350",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "300 BLOCK CLEVELAND ST",
+          "Response_Date": "2025-11-30T16:13:09"
+        },
+        {
+          "Master_Incident_Number": "113025-00384",
+          "Online_Description": "TRAFFIC CRASH",
+          "Address": "600 BLOCK S GULFVIEW BLVD",
+          "Response_Date": "2025-11-30T17:13:48"
+        },
+        {
+          "Master_Incident_Number": "113025-00428",
+          "Online_Description": "BURGLARY",
+          "Address": "600 BLOCK DREW ST",
+          "Response_Date": "2025-11-30T18:38:08"
+        },
+        {
+          "Master_Incident_Number": "113025-00440",
+          "Online_Description": "WELFARE CHECK",
+          "Address": "600 BLOCK ELDRIDGE ST",
+          "Response_Date": "2025-11-30T19:03:27"
+        },
+        {
+          "Master_Incident_Number": "113025-00446",
+          "Online_Description": "WELFARE CHECK",
+          "Address": "2100 BLOCK MONTCLAIR RD",
+          "Response_Date": "2025-11-30T19:35:30"
+        },
+        {
+          "Master_Incident_Number": "113025-00447",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "MEMORIAL CSWY",
+          "Response_Date": "2025-11-30T19:40:57"
+        },
+        {
+          "Master_Incident_Number": "113025-00450",
+          "Online_Description": "WELFARE CHECK",
+          "Address": "700 BLOCK S KEENE RD",
+          "Response_Date": "2025-11-30T19:50:17"
+        },
+        {
+          "Master_Incident_Number": "113025-00460",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "300 BLOCK CLEVELAND ST",
+          "Response_Date": "2025-11-30T20:10:17"
+        },
+        {
+          "Master_Incident_Number": "113025-00465",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "CHESTNUT ST / S GARDEN AVE",
+          "Response_Date": "2025-11-30T20:33:48"
+        }
+      ]
+    }
+  ]
+}
