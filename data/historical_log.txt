@@ -3426,3 +3426,14 @@ TOTAL ACTIVE CALLS: 4
 --- RESOLVED CALLS (2) ---
 [RESOLVED] 120125-00612 | DISABLED VEHICLE | US HIGHWAY 19 N / NURSERY RD | Response: 11:30 PM
 [RESOLVED] 120125-00614 | THEFT | 600 BLOCK PIERCE ST | Response: 11:39 PM
+
+================================================================================
+TIMESTAMP: 2025-12-02T05:47:34.722235+00:00
+TOTAL ACTIVE CALLS: 4
+================================================================================
+
+--- NEW CALLS (1) ---
+[NEW] 120225-00008 | PARK WALK AND TALK | 600 BLOCK BAYWAY BLVD | Response: 12:23 AM
+
+--- RESOLVED CALLS (1) ---
+[RESOLVED] 120125-00620 | HIT & RUN | US HIGHWAY 19 N / NURSERY RD | Response: 11:50 PM
