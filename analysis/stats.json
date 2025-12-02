@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 748,
-  "total_resolved": 745,
+  "total_calls_tracked": 752,
+  "total_resolved": 748,
   "call_types": {
-    "DIRECTED PATROL": 259,
+    "DIRECTED PATROL": 260,
     "TRAFFIC STOP": 112,
     "DRUNK DRIVER": 4,
     "DISTURBANCE": 16,
@@ -11,9 +11,9 @@
     "ALARM": 11,
     "KEEP THE PEACE": 15,
     "WELFARE CHECK": 16,
-    "PARK WALK AND TALK": 61,
+    "PARK WALK AND TALK": 63,
     "SUSPICIOUS PERSON": 30,
-    "TRESPASS": 18,
+    "TRESPASS": 19,
     "PROPERTY FOUND/LOST": 4,
     "THEFT": 8,
     "NEIGHBOR CALL": 6,
@@ -127,7 +127,7 @@
     "COUNTRYSIDE BLVD / NORTHRIDGE DR": 1,
     "NE COACHMAN RD / US HIGHWAY 19 N": 2,
     "LOTUS PATH / BAY AVE": 1,
-    "MEMORIAL CSWY": 7,
+    "MEMORIAL CSWY": 8,
     "1300 BLOCK ADMIRAL WOODSON LN": 1,
     "DREW ST / N SATURN AVE": 2,
     "GULF TO BAY BLVD / THORTON RD": 1,
@@ -176,7 +176,7 @@
     "-1400 BLOCK 1486 OTTEN ST": 1,
     "2800 BLOCK GLORIA CT": 2,
     "DREW ST / N BELCHER RD": 1,
-    "900 BLOCK GULF BLVD": 1,
+    "900 BLOCK GULF BLVD": 2,
     "POINSETTIA AVE / PAPAYA ST": 1,
     "600 BLOCK CLEVELAND ST": 1,
     "HAMDEN DR / CORONADO DR": 1,
@@ -376,7 +376,7 @@
     "GULF TO BAY BLVD / S HIGHLAND AVE": 1,
     "1600 BLOCK N HIGHLAND AVE": 2,
     "1700 BLOCK FLAGLER DR": 1,
-    "20000 BLOCK US HIGHWAY 19 N": 1,
+    "20000 BLOCK US HIGHWAY 19 N": 2,
     "0 BLOCK 33 BAY ESPLANADE": 1,
     "1100 BLOCK N BAYSHORE BLVD": 1,
     "1700 BLOCK DREW ST": 2,
@@ -516,15 +516,16 @@
     "600 BLOCK N BETTY LN": 1,
     "N MARTIN LUTHER KING JR AVE / GRANT ST": 1,
     "N MARTIN LUTHER KING JR AVE / SEMINOLE ST": 1,
-    "-100 BLOCK 148 S GULFVIEW BLVD": 1
+    "-100 BLOCK 148 S GULFVIEW BLVD": 1,
+    "300 BLOCK S HAMDEN DR": 1
   },
   "hourly_distribution": {
     "0": 22,
     "1": 30,
     "2": 16,
     "3": 18,
-    "4": 6,
-    "5": 15,
+    "4": 7,
+    "5": 18,
     "6": 20,
     "7": 19,
     "8": 44,
@@ -545,7 +546,7 @@
     "23": 19
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-02T10:00:10.716610+00:00",
+  "last_updated": "2025-12-02T10:31:07.982157+00:00",
   "peak_active_calls": 15,
-  "total_snapshots": 249
+  "total_snapshots": 250
 }
