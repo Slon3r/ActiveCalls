@@ -366,6 +366,30 @@
           "Response_Date": "2025-12-02T00:23:42"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-02T05:55:40.516620+00:00",
+      "call_count": 3,
+      "calls": [
+        {
+          "Master_Incident_Number": "120125-00548",
+          "Online_Description": "CRIMINAL MISCHIEF",
+          "Address": "1500 BLOCK JEFFORDS ST",
+          "Response_Date": "2025-12-01T21:38:42"
+        },
+        {
+          "Master_Incident_Number": "120125-00617",
+          "Online_Description": "DOMESTIC",
+          "Address": "1900 BLOCK RADCLIFFE DR N",
+          "Response_Date": "2025-12-01T23:48:08"
+        },
+        {
+          "Master_Incident_Number": "120125-00619",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "0 BLOCK BAY ESPLANADE",
+          "Response_Date": "2025-12-01T23:50:17"
+        }
+      ]
     }
   ]
 }
