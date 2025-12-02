@@ -3445,3 +3445,15 @@ TOTAL ACTIVE CALLS: 3
 
 --- RESOLVED CALLS (1) ---
 [RESOLVED] 120225-00008 | PARK WALK AND TALK | 600 BLOCK BAYWAY BLVD | Response: 12:23 AM
+
+================================================================================
+TIMESTAMP: 2025-12-02T06:25:18.217085+00:00
+TOTAL ACTIVE CALLS: 4
+================================================================================
+
+--- NEW CALLS (2) ---
+[NEW] 120225-00009 | ASSIST CITIZEN | 600 BLOCK PIERCE ST | Response: 12:30 AM
+[NEW] 120225-00017 | DIRECTED PATROL | SAND KEY PARK ENTRANCE | Response: 01:03 AM
+
+--- RESOLVED CALLS (1) ---
+[RESOLVED] 120125-00619 | DIRECTED PATROL | 0 BLOCK BAY ESPLANADE | Response: 11:50 PM
