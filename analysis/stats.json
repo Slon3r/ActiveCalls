@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 914,
-  "total_resolved": 903,
+  "total_calls_tracked": 917,
+  "total_resolved": 906,
   "call_types": {
-    "DIRECTED PATROL": 322,
+    "DIRECTED PATROL": 325,
     "TRAFFIC STOP": 129,
     "DRUNK DRIVER": 4,
     "DISTURBANCE": 19,
@@ -163,7 +163,7 @@
     "FIFTH ST & HAMDEN DR": 1,
     "FIFTH ST / HAMDEN DR": 1,
     "E WORLD PARKWAY BLVD / BELCHER RD": 1,
-    "300 BLOCK CLEVELAND ST": 7,
+    "300 BLOCK CLEVELAND ST": 8,
     "GULF TO BAY BLVD / S LAKE DR": 1,
     "-400 BLOCK BLK BLANCHE B LITTLEJOHN TRL": 1,
     "2600 BLOCK GULF TO BAY BLVD": 5,
@@ -487,7 +487,7 @@
     "-600 BLOCK 804 SNUG IS": 1,
     "700 BLOCK DREW ST": 1,
     "0 BLOCK 98 N MYRTLE AVE": 1,
-    "2000 BLOCK GULF TO BAY BLVD": 1,
+    "2000 BLOCK GULF TO BAY BLVD": 2,
     "-3100 BLOCK 3195 SANDY RIDGE DR": 1,
     "COURT ST / S HILLCREST AVE ": 1,
     "700 BLOCK BRUCE AVE": 1,
@@ -592,7 +592,8 @@
     "700 BLOCK LAKEVIEW RD": 1,
     "1500 BLOCK N BETTY LN": 1,
     "COURTNEY CAMPBELL CSWY / BAYSHORE BLVD": 1,
-    "25300 BLOCK US HIGHWAY 19 N": 1
+    "25300 BLOCK US HIGHWAY 19 N": 1,
+    "-3100 BLOCK 3161 MASTERS DR": 1
   },
   "hourly_distribution": {
     "0": 22,
@@ -613,7 +614,7 @@
     "15": 64,
     "16": 65,
     "17": 55,
-    "18": 38,
+    "18": 41,
     "19": 10,
     "20": 12,
     "21": 13,
@@ -621,7 +622,7 @@
     "23": 19
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-02T23:29:26.441178+00:00",
+  "last_updated": "2025-12-02T23:41:29.058852+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 292
+  "total_snapshots": 293
 }

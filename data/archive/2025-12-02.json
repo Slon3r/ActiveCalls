@@ -3107,6 +3107,78 @@
           "Response_Date": "2025-12-02T18:07:08"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-02T23:41:29.054207+00:00",
+      "call_count": 11,
+      "calls": [
+        {
+          "Master_Incident_Number": "120225-00445",
+          "Online_Description": "PROPERTY FOUND/LOST",
+          "Address": "1700 BLOCK GROVE DR",
+          "Response_Date": "2025-12-02T17:15:56"
+        },
+        {
+          "Master_Incident_Number": "120225-00454",
+          "Online_Description": "ASSIST OTHER AGENCY",
+          "Address": "DREW ST / MCMULLEN BOOTH RD",
+          "Response_Date": "2025-12-02T17:29:17"
+        },
+        {
+          "Master_Incident_Number": "120225-00456",
+          "Online_Description": "TRESPASS",
+          "Address": "700 BLOCK LAKEVIEW RD",
+          "Response_Date": "2025-12-02T17:38:03"
+        },
+        {
+          "Master_Incident_Number": "120225-00462",
+          "Online_Description": "HIT & RUN",
+          "Address": "2100 BLOCK GULF TO BAY BLVD",
+          "Response_Date": "2025-12-02T17:52:09"
+        },
+        {
+          "Master_Incident_Number": "120225-00464",
+          "Online_Description": "DISTURBANCE",
+          "Address": "1500 BLOCK N BETTY LN",
+          "Response_Date": "2025-12-02T17:55:19"
+        },
+        {
+          "Master_Incident_Number": "120225-00470",
+          "Online_Description": "TRAFFIC CRASH",
+          "Address": "COURTNEY CAMPBELL CSWY / BAYSHORE BLVD",
+          "Response_Date": "2025-12-02T17:59:56"
+        },
+        {
+          "Master_Incident_Number": "120225-00472",
+          "Online_Description": "KEEP THE PEACE",
+          "Address": "25300 BLOCK US HIGHWAY 19 N",
+          "Response_Date": "2025-12-02T18:04:09"
+        },
+        {
+          "Master_Incident_Number": "120225-00473",
+          "Online_Description": "SUSPICIOUS PERSON",
+          "Address": "1400 BLOCK S MARTIN LUTHER KING JR AVE",
+          "Response_Date": "2025-12-02T18:07:08"
+        },
+        {
+          "Master_Incident_Number": "120225-00475",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "2000 BLOCK GULF TO BAY BLVD",
+          "Response_Date": "2025-12-02T18:09:49"
+        },
+        {
+          "Master_Incident_Number": "120225-00477",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "300 BLOCK CLEVELAND ST",
+          "Response_Date": "2025-12-02T18:14:42"
+        },
+        {
+          "Master_Incident_Number": "120225-00478",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "-3100 BLOCK 3161 MASTERS DR",
+          "Response_Date": "2025-12-02T18:15:50"
+        }
+      ]
     }
   ]
 }

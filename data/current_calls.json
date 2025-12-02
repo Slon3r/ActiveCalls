@@ -1,12 +1,6 @@
 {
   "calls": [
     {
-      "Master_Incident_Number": "120225-00447",
-      "Online_Description": "SUSPICIOUS PERSON",
-      "Address": "NURSERY RD / LAUREL CIR",
-      "Response_Date": "2025-12-02T17:14:25"
-    },
-    {
       "Master_Incident_Number": "120225-00445",
       "Online_Description": "PROPERTY FOUND/LOST",
       "Address": "1700 BLOCK GROVE DR",
@@ -31,12 +25,6 @@
       "Response_Date": "2025-12-02T17:52:09"
     },
     {
-      "Master_Incident_Number": "120225-00466",
-      "Online_Description": "SUSPICIOUS PERSON",
-      "Address": "2700 BLOCK GULF TO BAY BLVD",
-      "Response_Date": "2025-12-02T17:53:01"
-    },
-    {
       "Master_Incident_Number": "120225-00464",
       "Online_Description": "DISTURBANCE",
       "Address": "1500 BLOCK N BETTY LN",
@@ -49,12 +37,6 @@
       "Response_Date": "2025-12-02T17:59:56"
     },
     {
-      "Master_Incident_Number": "120225-00471",
-      "Online_Description": "TRAFFIC STOP",
-      "Address": "300 BLOCK S GULFVIEW BLVD",
-      "Response_Date": "2025-12-02T18:02:58"
-    },
-    {
       "Master_Incident_Number": "120225-00472",
       "Online_Description": "KEEP THE PEACE",
       "Address": "25300 BLOCK US HIGHWAY 19 N",
@@ -65,8 +47,26 @@
       "Online_Description": "SUSPICIOUS PERSON",
       "Address": "1400 BLOCK S MARTIN LUTHER KING JR AVE",
       "Response_Date": "2025-12-02T18:07:08"
+    },
+    {
+      "Master_Incident_Number": "120225-00475",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "2000 BLOCK GULF TO BAY BLVD",
+      "Response_Date": "2025-12-02T18:09:49"
+    },
+    {
+      "Master_Incident_Number": "120225-00477",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "300 BLOCK CLEVELAND ST",
+      "Response_Date": "2025-12-02T18:14:42"
+    },
+    {
+      "Master_Incident_Number": "120225-00478",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "-3100 BLOCK 3161 MASTERS DR",
+      "Response_Date": "2025-12-02T18:15:50"
     }
   ],
-  "timestamp": "2025-12-02T23:29:26.436619+00:00",
+  "timestamp": "2025-12-02T23:41:29.054207+00:00",
   "count": 11
 }
