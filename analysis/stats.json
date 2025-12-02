@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 752,
-  "total_resolved": 748,
+  "total_calls_tracked": 756,
+  "total_resolved": 751,
   "call_types": {
-    "DIRECTED PATROL": 260,
+    "DIRECTED PATROL": 263,
     "TRAFFIC STOP": 112,
     "DRUNK DRIVER": 4,
     "DISTURBANCE": 16,
@@ -40,7 +40,7 @@
     "BUILDING CHECK": 4,
     "SHOPLIFTING": 2,
     "DECEASED PERSON": 1,
-    "BURGLARY": 3,
+    "BURGLARY": 4,
     "SHOTS FIRED": 1,
     "HIT & RUN": 5,
     "SCHOOL CROSSING": 1,
@@ -517,15 +517,19 @@
     "N MARTIN LUTHER KING JR AVE / GRANT ST": 1,
     "N MARTIN LUTHER KING JR AVE / SEMINOLE ST": 1,
     "-100 BLOCK 148 S GULFVIEW BLVD": 1,
-    "300 BLOCK S HAMDEN DR": 1
+    "300 BLOCK S HAMDEN DR": 1,
+    "1300 BLOCK WOODBINE ST": 1,
+    "N KEENE RD / FLAGLER DR": 1,
+    "23200 BLOCK US HIGHWAY 19 N": 1,
+    "900 BLOCK COURT ST": 1
   },
   "hourly_distribution": {
     "0": 22,
     "1": 30,
     "2": 16,
     "3": 18,
-    "4": 7,
-    "5": 18,
+    "4": 8,
+    "5": 21,
     "6": 20,
     "7": 19,
     "8": 44,
@@ -546,7 +550,7 @@
     "23": 19
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-02T10:31:07.982157+00:00",
+  "last_updated": "2025-12-02T10:49:45.072321+00:00",
   "peak_active_calls": 15,
-  "total_snapshots": 250
+  "total_snapshots": 251
 }
