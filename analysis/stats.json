@@ -1,14 +1,14 @@
 {
-  "total_calls_tracked": 756,
-  "total_resolved": 752,
+  "total_calls_tracked": 758,
+  "total_resolved": 755,
   "call_types": {
     "DIRECTED PATROL": 263,
     "TRAFFIC STOP": 112,
     "DRUNK DRIVER": 4,
-    "DISTURBANCE": 16,
+    "DISTURBANCE": 17,
     "BATTERY": 3,
     "CRIMINAL MISCHIEF": 2,
-    "ALARM": 11,
+    "ALARM": 12,
     "KEEP THE PEACE": 15,
     "WELFARE CHECK": 16,
     "PARK WALK AND TALK": 63,
@@ -71,7 +71,7 @@
     "US HIGHWAY 19 N / SR 580": 3,
     "400 BLOCK S GULFVIEW BLVD": 3,
     "100 BLOCK S MYRTLE AVE": 1,
-    "0 BLOCK CAUSEWAY BLVD": 7,
+    "0 BLOCK CAUSEWAY BLVD": 8,
     "400 BLOCK FAIRWOOD AVE": 4,
     "500 BLOCK S FORT HARRISON AVE": 2,
     "26000 BLOCK US HIGHWAY 19 N": 2,
@@ -521,7 +521,8 @@
     "1300 BLOCK WOODBINE ST": 1,
     "N KEENE RD / FLAGLER DR": 1,
     "23200 BLOCK US HIGHWAY 19 N": 1,
-    "900 BLOCK COURT ST": 1
+    "900 BLOCK COURT ST": 1,
+    "GULF TO BAY BLVD / THORNTON RD": 1
   },
   "hourly_distribution": {
     "0": 22,
@@ -529,7 +530,7 @@
     "2": 16,
     "3": 18,
     "4": 8,
-    "5": 21,
+    "5": 23,
     "6": 20,
     "7": 19,
     "8": 44,
@@ -550,7 +551,7 @@
     "23": 19
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-02T10:58:15.938757+00:00",
+  "last_updated": "2025-12-02T11:20:56.285897+00:00",
   "peak_active_calls": 15,
-  "total_snapshots": 252
+  "total_snapshots": 253
 }
