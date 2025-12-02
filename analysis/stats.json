@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 764,
-  "total_resolved": 759,
+  "total_calls_tracked": 767,
+  "total_resolved": 761,
   "call_types": {
-    "DIRECTED PATROL": 265,
+    "DIRECTED PATROL": 267,
     "TRAFFIC STOP": 112,
     "DRUNK DRIVER": 4,
     "DISTURBANCE": 17,
@@ -10,7 +10,7 @@
     "CRIMINAL MISCHIEF": 2,
     "ALARM": 12,
     "KEEP THE PEACE": 15,
-    "WELFARE CHECK": 16,
+    "WELFARE CHECK": 17,
     "PARK WALK AND TALK": 63,
     "SUSPICIOUS PERSON": 30,
     "TRESPASS": 20,
@@ -149,7 +149,7 @@
     "1300 BLOCK FRANKLIN ST": 1,
     "SUNSET MEADOW DR / COLONY REED LN": 1,
     "0 BLOCK BAY ESPLANADE": 3,
-    "200 BLOCK S GLENWOOD AVE": 6,
+    "200 BLOCK S GLENWOOD AVE": 7,
     "S KEENE RD / DRUID RD": 1,
     "GULF TO BAY BLVD / BAMBOO LN": 1,
     "GULF TO BAY BLVD / BROOKSIDE DR": 1,
@@ -383,7 +383,7 @@
     "1200 BLOCK ROGERS ST": 1,
     "S MYRTLE AVE / LAKEVIEW RD": 1,
     "S SAN REMO AVE/ GULF TO BAY BLVD": 1,
-    "1300 BLOCK S HIGHLAND AVE": 1,
+    "1300 BLOCK S HIGHLAND AVE": 2,
     "CLEVELAND ST / GULF TO BAY BLVD": 1,
     "1400 BLOCK GULF TO BAY BLVD": 1,
     "2200 BLOCK BELLEAIR RD": 1,
@@ -524,7 +524,8 @@
     "900 BLOCK COURT ST": 1,
     "GULF TO BAY BLVD / THORNTON RD": 1,
     "1100 BLOCK WOODLAWN ST": 1,
-    "200 BLOCK S STARCREST DR": 1
+    "200 BLOCK S STARCREST DR": 1,
+    "3000 BLOCK GULF TO BAY BLVD": 1
   },
   "hourly_distribution": {
     "0": 22,
@@ -533,7 +534,7 @@
     "3": 18,
     "4": 8,
     "5": 24,
-    "6": 24,
+    "6": 27,
     "7": 19,
     "8": 44,
     "9": 50,
@@ -553,7 +554,7 @@
     "23": 19
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-02T11:45:47.121400+00:00",
+  "last_updated": "2025-12-02T11:54:13.824443+00:00",
   "peak_active_calls": 15,
-  "total_snapshots": 255
+  "total_snapshots": 256
 }
