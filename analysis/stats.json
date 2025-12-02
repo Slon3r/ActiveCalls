@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 717,
-  "total_resolved": 709,
+  "total_calls_tracked": 720,
+  "total_resolved": 715,
   "call_types": {
-    "DIRECTED PATROL": 245,
+    "DIRECTED PATROL": 246,
     "TRAFFIC STOP": 110,
     "DRUNK DRIVER": 4,
     "DISTURBANCE": 15,
@@ -15,7 +15,7 @@
     "SUSPICIOUS PERSON": 29,
     "TRESPASS": 18,
     "PROPERTY FOUND/LOST": 4,
-    "THEFT": 7,
+    "THEFT": 8,
     "NEIGHBOR CALL": 6,
     "911 HANG-UP": 26,
     "SUSPICIOUS VEHICLE": 7,
@@ -34,7 +34,7 @@
     "UNKNOWN PROBLEM": 4,
     "NOISE COMPLAINT": 4,
     "CIVIL MATTER": 6,
-    "DOMESTIC": 6,
+    "DOMESTIC": 7,
     "ANIMAL CASE": 3,
     "MISSING PERSON": 7,
     "BUILDING CHECK": 4,
@@ -140,7 +140,7 @@
     "1100 BLOCK COURT ST": 1,
     "-1300 BLOCK BLK ADMIRAL WOODSON LN": 1,
     "19300 BLOCK US HIGHWAY 19 N": 2,
-    "600 BLOCK PIERCE ST": 4,
+    "600 BLOCK PIERCE ST": 5,
     "0 BLOCK 99 THIRD ST": 2,
     "0 BLOCK 98 THIRD ST": 4,
     "100 BLOCK HAMPTON RD": 1,
@@ -148,7 +148,7 @@
     "2000 BLOCK N HERCULES AVE": 2,
     "1300 BLOCK FRANKLIN ST": 1,
     "SUNSET MEADOW DR / COLONY REED LN": 1,
-    "0 BLOCK BAY ESPLANADE": 2,
+    "0 BLOCK BAY ESPLANADE": 3,
     "200 BLOCK S GLENWOOD AVE": 5,
     "S KEENE RD / DRUID RD": 1,
     "GULF TO BAY BLVD / BAMBOO LN": 1,
@@ -501,7 +501,8 @@
     "1400 BLOCK SPRINGDALE ST": 1,
     "-2000 BLOCK 2098 SUNSET GROVE LN": 1,
     "2300 BLOCK DREW ST": 1,
-    "23000 BLOCK US HIGHWAY 19 N": 1
+    "23000 BLOCK US HIGHWAY 19 N": 1,
+    "1900 BLOCK RADCLIFFE DR N": 1
   },
   "hourly_distribution": {
     "0": 20,
@@ -527,10 +528,10 @@
     "20": 12,
     "21": 13,
     "22": 27,
-    "23": 15
+    "23": 18
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-02T04:54:20.167209+00:00",
+  "last_updated": "2025-12-02T05:13:31.713803+00:00",
   "peak_active_calls": 15,
-  "total_snapshots": 233
+  "total_snapshots": 234
 }

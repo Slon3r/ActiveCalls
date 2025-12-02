@@ -270,6 +270,42 @@
           "Response_Date": "2025-12-01T23:30:08"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-02T05:13:31.712390+00:00",
+      "call_count": 5,
+      "calls": [
+        {
+          "Master_Incident_Number": "120125-00548",
+          "Online_Description": "CRIMINAL MISCHIEF",
+          "Address": "1500 BLOCK JEFFORDS ST",
+          "Response_Date": "2025-12-01T21:38:42"
+        },
+        {
+          "Master_Incident_Number": "120125-00612",
+          "Online_Description": "DISABLED VEHICLE",
+          "Address": "US HIGHWAY 19 N / NURSERY RD",
+          "Response_Date": "2025-12-01T23:30:08"
+        },
+        {
+          "Master_Incident_Number": "120125-00614",
+          "Online_Description": "THEFT",
+          "Address": "600 BLOCK PIERCE ST",
+          "Response_Date": "2025-12-01T23:39:03"
+        },
+        {
+          "Master_Incident_Number": "120125-00617",
+          "Online_Description": "DOMESTIC",
+          "Address": "1900 BLOCK RADCLIFFE DR N",
+          "Response_Date": "2025-12-01T23:48:08"
+        },
+        {
+          "Master_Incident_Number": "120125-00619",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "0 BLOCK BAY ESPLANADE",
+          "Response_Date": "2025-12-01T23:50:17"
+        }
+      ]
     }
   ]
 }
