@@ -870,6 +870,36 @@
           "Response_Date": "2025-12-02T05:24:15"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-02T10:58:15.936814+00:00",
+      "call_count": 4,
+      "calls": [
+        {
+          "Master_Incident_Number": "120225-00081",
+          "Online_Description": "BURGLARY",
+          "Address": "1300 BLOCK WOODBINE ST",
+          "Response_Date": "2025-12-02T04:37:44"
+        },
+        {
+          "Master_Incident_Number": "120225-00089",
+          "Online_Description": "PARK WALK AND TALK",
+          "Address": "900 BLOCK GULF BLVD",
+          "Response_Date": "2025-12-02T05:06:20"
+        },
+        {
+          "Master_Incident_Number": "120225-00096",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "N KEENE RD / FLAGLER DR",
+          "Response_Date": "2025-12-02T05:20:06"
+        },
+        {
+          "Master_Incident_Number": "120225-00098",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "900 BLOCK COURT ST",
+          "Response_Date": "2025-12-02T05:24:15"
+        }
+      ]
     }
   ]
 }
