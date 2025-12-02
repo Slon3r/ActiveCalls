@@ -3669,3 +3669,15 @@ TOTAL ACTIVE CALLS: 6
 --- RESOLVED CALLS (2) ---
 [RESOLVED] 120225-00102 | DISTURBANCE | GULF TO BAY BLVD / THORNTON RD | Response: 05:41 AM
 [RESOLVED] 120225-00104 | ALARM | 0 BLOCK CAUSEWAY BLVD | Response: 05:48 AM
+
+================================================================================
+TIMESTAMP: 2025-12-02T11:45:47.119333+00:00
+TOTAL ACTIVE CALLS: 5
+================================================================================
+
+--- NEW CALLS (1) ---
+[NEW] 120225-00116 | TRESPASS | 1300 BLOCK PARK ST | Response: 06:17 AM
+
+--- RESOLVED CALLS (2) ---
+[RESOLVED] 120225-00112 | 911 HANG-UP | 200 BLOCK S STARCREST DR | Response: 06:02 AM
+[RESOLVED] 120225-00115 | DIRECTED PATROL | S FORT HARRISON AVE / PINELLAS ST | Response: 06:08 AM

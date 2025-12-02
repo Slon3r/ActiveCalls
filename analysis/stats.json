@@ -1,6 +1,6 @@
 {
-  "total_calls_tracked": 763,
-  "total_resolved": 757,
+  "total_calls_tracked": 764,
+  "total_resolved": 759,
   "call_types": {
     "DIRECTED PATROL": 265,
     "TRAFFIC STOP": 112,
@@ -13,7 +13,7 @@
     "WELFARE CHECK": 16,
     "PARK WALK AND TALK": 63,
     "SUSPICIOUS PERSON": 30,
-    "TRESPASS": 19,
+    "TRESPASS": 20,
     "PROPERTY FOUND/LOST": 4,
     "THEFT": 9,
     "NEIGHBOR CALL": 6,
@@ -387,7 +387,7 @@
     "CLEVELAND ST / GULF TO BAY BLVD": 1,
     "1400 BLOCK GULF TO BAY BLVD": 1,
     "2200 BLOCK BELLEAIR RD": 1,
-    "1300 BLOCK PARK ST": 2,
+    "1300 BLOCK PARK ST": 3,
     "DREW ST / US HIGHWAY 19 N": 1,
     "1300 BLOCK N MARTIN LUTHER KING JR AVE": 4,
     "N BELCHER RD / OLD COACHMAN RD": 1,
@@ -533,7 +533,7 @@
     "3": 18,
     "4": 8,
     "5": 24,
-    "6": 23,
+    "6": 24,
     "7": 19,
     "8": 44,
     "9": 50,
@@ -553,7 +553,7 @@
     "23": 19
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-02T11:35:22.970768+00:00",
+  "last_updated": "2025-12-02T11:45:47.121400+00:00",
   "peak_active_calls": 15,
-  "total_snapshots": 254
+  "total_snapshots": 255
 }
