@@ -2969,6 +2969,36 @@
           "Response_Date": "2025-12-02T17:24:23"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-02T22:54:09.223277+00:00",
+      "call_count": 4,
+      "calls": [
+        {
+          "Master_Incident_Number": "120225-00442",
+          "Online_Description": "ASSIST OTHER AGENCY",
+          "Address": "600 BLOCK PIERCE ST",
+          "Response_Date": "2025-12-02T17:11:46"
+        },
+        {
+          "Master_Incident_Number": "120225-00445",
+          "Online_Description": "ASSIST CITIZEN",
+          "Address": "1700 BLOCK GROVE DR",
+          "Response_Date": "2025-12-02T17:15:56"
+        },
+        {
+          "Master_Incident_Number": "120225-00446",
+          "Online_Description": "DISABLED VEHICLE",
+          "Address": "BAYSHORE BLVD / GULF TO BAY BLVD",
+          "Response_Date": "2025-12-02T17:17:41"
+        },
+        {
+          "Master_Incident_Number": "120225-00454",
+          "Online_Description": "ASSIST OTHER AGENCY",
+          "Address": "DREW ST / MCMULLEN BOOTH RD",
+          "Response_Date": "2025-12-02T17:29:17"
+        }
+      ]
     }
   ]
 }

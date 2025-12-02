@@ -1,6 +1,6 @@
 {
-  "total_calls_tracked": 902,
-  "total_resolved": 894,
+  "total_calls_tracked": 904,
+  "total_resolved": 900,
   "call_types": {
     "DIRECTED PATROL": 322,
     "TRAFFIC STOP": 127,
@@ -24,8 +24,8 @@
     "SUSPICIOUS EVENT": 18,
     "TRAFFIC CRASH": 36,
     "DISABLED VEHICLE": 12,
-    "ASSIST CITIZEN": 27,
-    "ASSIST OTHER AGENCY": 11,
+    "ASSIST CITIZEN": 28,
+    "ASSIST OTHER AGENCY": 12,
     "FIRE": 2,
     "FRAUD": 5,
     "RECKLESS VEHICLE": 2,
@@ -325,7 +325,7 @@
     "GULF TO BAY BLVD / LANDRY AVE": 1,
     "1400 BLOCK N MADISON AVE": 5,
     "600 BLOCK GULF BLVD": 1,
-    "DREW ST / MCMULLEN BOOTH RD": 1,
+    "DREW ST / MCMULLEN BOOTH RD": 2,
     "2700 BLOCK COTTONWOOD CT": 1,
     "200 BLOCK SEMINOLE ST": 2,
     "1400 BLOCK N FORT HARRISON AVE": 1,
@@ -586,7 +586,8 @@
     "600 BLOCK DRUID RD": 1,
     "1800 BLOCK BELLEMEADE DR": 1,
     "-2500 BLOCK 2578 VILLAGE DR": 1,
-    "-2800 BLOCK 2899 EAGLE ESTATES CIR N": 1
+    "-2800 BLOCK 2899 EAGLE ESTATES CIR N": 1,
+    "1700 BLOCK GROVE DR": 1
   },
   "hourly_distribution": {
     "0": 22,
@@ -606,7 +607,7 @@
     "14": 76,
     "15": 64,
     "16": 65,
-    "17": 46,
+    "17": 48,
     "18": 35,
     "19": 10,
     "20": 12,
@@ -615,7 +616,7 @@
     "23": 19
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-02T22:45:50.235374+00:00",
+  "last_updated": "2025-12-02T22:54:09.227575+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 289
+  "total_snapshots": 290
 }
