@@ -3580,3 +3580,11 @@ TOTAL ACTIVE CALLS: 4
 [RESOLVED] 120225-00052 | DIRECTED PATROL | -1200 BLOCK 1352 COURT ST | Response: 02:58 AM
 [RESOLVED] 120225-00069 | TRAFFIC STOP | N MARTIN LUTHER KING JR AVE / SEMINOLE ST | Response: 03:38 AM
 [RESOLVED] 120225-00070 | TRAFFIC STOP | S KEENE RD / GULF TO BAY BLVD | Response: 03:40 AM
+
+================================================================================
+TIMESTAMP: 2025-12-02T09:52:27.808988+00:00
+TOTAL ACTIVE CALLS: 3
+================================================================================
+
+--- RESOLVED CALLS (1) ---
+[RESOLVED] 120225-00076 | DIRECTED PATROL | -100 BLOCK 148 S GULFVIEW BLVD | Response: 04:12 AM
