@@ -1212,6 +1212,48 @@
           "Response_Date": "2025-12-02T08:38:44"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-02T14:28:00.062765+00:00",
+      "call_count": 6,
+      "calls": [
+        {
+          "Master_Incident_Number": "120225-00149",
+          "Online_Description": "PARK WALK AND TALK",
+          "Address": "1300 BLOCK PARK ST",
+          "Response_Date": "2025-12-02T08:04:42.627"
+        },
+        {
+          "Master_Incident_Number": "120225-00159",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "1100 BLOCK BECKETT ST",
+          "Response_Date": "2025-12-02T08:22:51"
+        },
+        {
+          "Master_Incident_Number": "120225-00162",
+          "Online_Description": "SUSPICIOUS EVENT",
+          "Address": "1600 BLOCK N WASHINGTON AVE",
+          "Response_Date": "2025-12-02T08:30:30"
+        },
+        {
+          "Master_Incident_Number": "120225-00161",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "1000 BLOCK GULF BLVD",
+          "Response_Date": "2025-12-02T08:33:24"
+        },
+        {
+          "Master_Incident_Number": "120225-00166",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "300 BLOCK DREW ST",
+          "Response_Date": "2025-12-02T08:47:49"
+        },
+        {
+          "Master_Incident_Number": "120225-00174",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "US HIGHWAY 19 N / DREW ST",
+          "Response_Date": "2025-12-02T09:02:39"
+        }
+      ]
     }
   ]
 }

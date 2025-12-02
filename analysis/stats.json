@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 783,
-  "total_resolved": 776,
+  "total_calls_tracked": 786,
+  "total_resolved": 780,
   "call_types": {
-    "DIRECTED PATROL": 274,
-    "TRAFFIC STOP": 113,
+    "DIRECTED PATROL": 275,
+    "TRAFFIC STOP": 114,
     "DRUNK DRIVER": 4,
     "DISTURBANCE": 17,
     "BATTERY": 3,
@@ -21,7 +21,7 @@
     "SUSPICIOUS VEHICLE": 7,
     "PANHANDLER/SOLICITOR": 1,
     "VEHICLE ILLEGALLY PARKED": 3,
-    "SUSPICIOUS EVENT": 14,
+    "SUSPICIOUS EVENT": 15,
     "TRAFFIC CRASH": 31,
     "DISABLED VEHICLE": 10,
     "ASSIST CITIZEN": 23,
@@ -58,7 +58,7 @@
     "1000 BLOCK WEST AVE": 1,
     "600 BLOCK S GULFVIEW BLVD": 4,
     "-800 BLOCK 1099 MARSHALL ST": 1,
-    "US HIGHWAY 19 N / DREW ST": 7,
+    "US HIGHWAY 19 N / DREW ST": 8,
     "US HIGHWAY 19 N / SR 590": 1,
     "1100 BLOCK DRUID RD": 1,
     "2100 BLOCK RANGE RD": 1,
@@ -408,7 +408,7 @@
     "1500 BLOCK N BELCHER RD": 1,
     "-100 BLOCK 299 S MAIN AVE": 1,
     "CHARLES AVE / SR 580": 1,
-    "1600 BLOCK N WASHINGTON AVE": 1,
+    "1600 BLOCK N WASHINGTON AVE": 2,
     "US HIGHWAY 19 N / NURSERY RD": 3,
     "18900 BLOCK US HIGHWAY 19 N": 1,
     "400 BLOCK BAY AVE": 1,
@@ -534,7 +534,8 @@
     "2600 BLOCK SR 590": 1,
     "2400 BLOCK GULF TO BAY BLVD": 1,
     "2800 BLOCK MCMULLEN BOOTH RD": 1,
-    "SABAL SPRINGS CIR / SR 580": 1
+    "SABAL SPRINGS CIR / SR 580": 1,
+    "300 BLOCK DREW ST": 1
   },
   "hourly_distribution": {
     "0": 22,
@@ -545,8 +546,8 @@
     "5": 24,
     "6": 29,
     "7": 25,
-    "8": 52,
-    "9": 50,
+    "8": 54,
+    "9": 51,
     "10": 50,
     "11": 42,
     "12": 47,
@@ -563,7 +564,7 @@
     "23": 19
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-02T13:59:38.308563+00:00",
+  "last_updated": "2025-12-02T14:28:00.065182+00:00",
   "peak_active_calls": 15,
-  "total_snapshots": 260
+  "total_snapshots": 261
 }
