@@ -1470,6 +1470,54 @@
           "Response_Date": "2025-12-02T10:07:33"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-02T15:47:41.485321+00:00",
+      "call_count": 7,
+      "calls": [
+        {
+          "Master_Incident_Number": "120225-00159",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "1100 BLOCK BECKETT ST",
+          "Response_Date": "2025-12-02T08:22:51"
+        },
+        {
+          "Master_Incident_Number": "120225-00161",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "1000 BLOCK GULF BLVD",
+          "Response_Date": "2025-12-02T08:33:24"
+        },
+        {
+          "Master_Incident_Number": "120225-00183",
+          "Online_Description": "TRAFFIC CRASH",
+          "Address": "3300 BLOCK COURTNEY CAMPBELL CSWY",
+          "Response_Date": "2025-12-02T09:17:58"
+        },
+        {
+          "Master_Incident_Number": "120225-00189",
+          "Online_Description": "CHILD PROTECTION INVESTIGATION",
+          "Address": "1400 BLOCK FAIRMONT ST",
+          "Response_Date": "2025-12-02T09:24:42"
+        },
+        {
+          "Master_Incident_Number": "120225-00205",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "0 BLOCK 299 S GLENWOOD AVE",
+          "Response_Date": "2025-12-02T10:03:39"
+        },
+        {
+          "Master_Incident_Number": "120225-00210",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "200 BLOCK SEMINOLE ST",
+          "Response_Date": "2025-12-02T10:10:28"
+        },
+        {
+          "Master_Incident_Number": "120225-00215",
+          "Online_Description": "SUSPICIOUS PERSON",
+          "Address": "US HIGHWAY 19 N / DREW ST",
+          "Response_Date": "2025-12-02T10:16:14"
+        }
+      ]
     }
   ]
 }

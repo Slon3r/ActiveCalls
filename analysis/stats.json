@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 801,
-  "total_resolved": 787,
+  "total_calls_tracked": 803,
+  "total_resolved": 796,
   "call_types": {
-    "DIRECTED PATROL": 280,
+    "DIRECTED PATROL": 281,
     "TRAFFIC STOP": 116,
     "DRUNK DRIVER": 4,
     "DISTURBANCE": 17,
@@ -12,7 +12,7 @@
     "KEEP THE PEACE": 15,
     "WELFARE CHECK": 17,
     "PARK WALK AND TALK": 67,
-    "SUSPICIOUS PERSON": 32,
+    "SUSPICIOUS PERSON": 33,
     "TRESPASS": 20,
     "PROPERTY FOUND/LOST": 4,
     "THEFT": 9,
@@ -58,7 +58,7 @@
     "1000 BLOCK WEST AVE": 1,
     "600 BLOCK S GULFVIEW BLVD": 4,
     "-800 BLOCK 1099 MARSHALL ST": 1,
-    "US HIGHWAY 19 N / DREW ST": 9,
+    "US HIGHWAY 19 N / DREW ST": 10,
     "US HIGHWAY 19 N / SR 590": 1,
     "1100 BLOCK DRUID RD": 1,
     "2100 BLOCK RANGE RD": 1,
@@ -327,7 +327,7 @@
     "600 BLOCK GULF BLVD": 1,
     "DREW ST / MCMULLEN BOOTH RD": 1,
     "2700 BLOCK COTTONWOOD CT": 1,
-    "200 BLOCK SEMINOLE ST": 1,
+    "200 BLOCK SEMINOLE ST": 2,
     "1400 BLOCK N FORT HARRISON AVE": 1,
     "400 BLOCK S MISSOURI AVE": 1,
     "-1700 BLOCK 1748 WESTON DR": 1,
@@ -555,7 +555,7 @@
     "7": 25,
     "8": 54,
     "9": 61,
-    "10": 55,
+    "10": 57,
     "11": 42,
     "12": 47,
     "13": 52,
@@ -571,7 +571,7 @@
     "23": 19
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-02T15:28:36.926608+00:00",
+  "last_updated": "2025-12-02T15:47:41.488133+00:00",
   "peak_active_calls": 15,
-  "total_snapshots": 264
+  "total_snapshots": 265
 }
