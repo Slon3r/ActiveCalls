@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 724,
-  "total_resolved": 720,
+  "total_calls_tracked": 729,
+  "total_resolved": 722,
   "call_types": {
-    "DIRECTED PATROL": 247,
+    "DIRECTED PATROL": 249,
     "TRAFFIC STOP": 110,
     "DRUNK DRIVER": 4,
     "DISTURBANCE": 15,
@@ -11,7 +11,7 @@
     "ALARM": 10,
     "KEEP THE PEACE": 15,
     "WELFARE CHECK": 16,
-    "PARK WALK AND TALK": 56,
+    "PARK WALK AND TALK": 57,
     "SUSPICIOUS PERSON": 29,
     "TRESPASS": 18,
     "PROPERTY FOUND/LOST": 4,
@@ -24,7 +24,7 @@
     "SUSPICIOUS EVENT": 14,
     "TRAFFIC CRASH": 30,
     "DISABLED VEHICLE": 10,
-    "ASSIST CITIZEN": 21,
+    "ASSIST CITIZEN": 22,
     "ASSIST OTHER AGENCY": 6,
     "FIRE": 2,
     "FRAUD": 3,
@@ -34,7 +34,7 @@
     "UNKNOWN PROBLEM": 4,
     "NOISE COMPLAINT": 4,
     "CIVIL MATTER": 6,
-    "DOMESTIC": 7,
+    "DOMESTIC": 8,
     "ANIMAL CASE": 3,
     "MISSING PERSON": 7,
     "BUILDING CHECK": 4,
@@ -283,7 +283,7 @@
     "1700 BLOCK EL TAIR TRL": 1,
     "SETON DR / MONTCLAIR RD": 1,
     "700 BLOCK S GULFVIEW BLVD": 1,
-    "2200 BLOCK DREW ST": 1,
+    "2200 BLOCK DREW ST": 2,
     "200 BLOCK S MARS AVE": 1,
     "CLEARWATER MALL": 1,
     "S MARTIN LUTHER KING JR AVE / TUSKAWILLA DR": 1,
@@ -502,11 +502,15 @@
     "-2000 BLOCK 2098 SUNSET GROVE LN": 1,
     "2300 BLOCK DREW ST": 1,
     "23000 BLOCK US HIGHWAY 19 N": 1,
-    "1900 BLOCK RADCLIFFE DR N": 1
+    "1900 BLOCK RADCLIFFE DR N": 1,
+    "1100 BLOCK GROVE ST": 1,
+    "1300 BLOCK AMBLE LN": 1,
+    "1000 BLOCK ELDORADO AVE": 1,
+    "-3300 BLOCK 3348 HYDE PARK DR": 1
   },
   "hourly_distribution": {
     "0": 22,
-    "1": 20,
+    "1": 25,
     "2": 12,
     "3": 11,
     "4": 3,
@@ -531,7 +535,7 @@
     "23": 19
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-02T06:25:18.218617+00:00",
+  "last_updated": "2025-12-02T06:53:20.712931+00:00",
   "peak_active_calls": 15,
-  "total_snapshots": 238
+  "total_snapshots": 239
 }

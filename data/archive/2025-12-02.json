@@ -420,6 +420,54 @@
           "Response_Date": "2025-12-02T01:03:05"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-02T06:53:20.711387+00:00",
+      "call_count": 7,
+      "calls": [
+        {
+          "Master_Incident_Number": "120125-00548",
+          "Online_Description": "CRIMINAL MISCHIEF",
+          "Address": "1500 BLOCK JEFFORDS ST",
+          "Response_Date": "2025-12-01T21:38:42"
+        },
+        {
+          "Master_Incident_Number": "120125-00617",
+          "Online_Description": "DOMESTIC",
+          "Address": "1900 BLOCK RADCLIFFE DR N",
+          "Response_Date": "2025-12-01T23:48:08"
+        },
+        {
+          "Master_Incident_Number": "120225-00018",
+          "Online_Description": "DOMESTIC",
+          "Address": "1100 BLOCK GROVE ST",
+          "Response_Date": "2025-12-02T01:02:26"
+        },
+        {
+          "Master_Incident_Number": "120225-00023",
+          "Online_Description": "ASSIST CITIZEN",
+          "Address": "1300 BLOCK AMBLE LN",
+          "Response_Date": "2025-12-02T01:16:01"
+        },
+        {
+          "Master_Incident_Number": "120225-00028",
+          "Online_Description": "PARK WALK AND TALK",
+          "Address": "1000 BLOCK ELDORADO AVE",
+          "Response_Date": "2025-12-02T01:29:43"
+        },
+        {
+          "Master_Incident_Number": "120225-00029",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "-3300 BLOCK 3348 HYDE PARK DR",
+          "Response_Date": "2025-12-02T01:30:42"
+        },
+        {
+          "Master_Incident_Number": "120225-00030",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "2200 BLOCK DREW ST",
+          "Response_Date": "2025-12-02T01:32:17"
+        }
+      ]
     }
   ]
 }
