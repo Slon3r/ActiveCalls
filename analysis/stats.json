@@ -1,17 +1,17 @@
 {
-  "total_calls_tracked": 729,
-  "total_resolved": 722,
+  "total_calls_tracked": 733,
+  "total_resolved": 727,
   "call_types": {
-    "DIRECTED PATROL": 249,
+    "DIRECTED PATROL": 251,
     "TRAFFIC STOP": 110,
     "DRUNK DRIVER": 4,
     "DISTURBANCE": 15,
     "BATTERY": 3,
     "CRIMINAL MISCHIEF": 2,
-    "ALARM": 10,
+    "ALARM": 11,
     "KEEP THE PEACE": 15,
     "WELFARE CHECK": 16,
-    "PARK WALK AND TALK": 57,
+    "PARK WALK AND TALK": 58,
     "SUSPICIOUS PERSON": 29,
     "TRESPASS": 18,
     "PROPERTY FOUND/LOST": 4,
@@ -149,7 +149,7 @@
     "1300 BLOCK FRANKLIN ST": 1,
     "SUNSET MEADOW DR / COLONY REED LN": 1,
     "0 BLOCK BAY ESPLANADE": 3,
-    "200 BLOCK S GLENWOOD AVE": 5,
+    "200 BLOCK S GLENWOOD AVE": 6,
     "S KEENE RD / DRUID RD": 1,
     "GULF TO BAY BLVD / BAMBOO LN": 1,
     "GULF TO BAY BLVD / BROOKSIDE DR": 1,
@@ -223,7 +223,7 @@
     "-600 BLOCK 698 CLEVELAND ST": 1,
     "1500 BLOCK S HIGHLAND AVE": 2,
     "PINELLAS ST / S FORT HARRISON AVE": 1,
-    "1600 BLOCK N ARCTURAS AVE": 1,
+    "1600 BLOCK N ARCTURAS AVE": 2,
     "1100 BLOCK BECKETT ST": 1,
     "PAPAYA ST / MANDALAY AVE": 1,
     "CLEVELAND ST / N MISSOURI AVE": 1,
@@ -506,11 +506,13 @@
     "1100 BLOCK GROVE ST": 1,
     "1300 BLOCK AMBLE LN": 1,
     "1000 BLOCK ELDORADO AVE": 1,
-    "-3300 BLOCK 3348 HYDE PARK DR": 1
+    "-3300 BLOCK 3348 HYDE PARK DR": 1,
+    "1400 BLOCK N MARTIN LUTHER KING JR AVE": 1,
+    "600 BLOCK BLANCHE B LITTLEJOHN TRL": 1
   },
   "hourly_distribution": {
     "0": 22,
-    "1": 25,
+    "1": 29,
     "2": 12,
     "3": 11,
     "4": 3,
@@ -535,7 +537,7 @@
     "23": 19
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-02T06:53:20.712931+00:00",
+  "last_updated": "2025-12-02T07:13:26.430170+00:00",
   "peak_active_calls": 15,
-  "total_snapshots": 239
+  "total_snapshots": 240
 }

@@ -468,6 +468,48 @@
           "Response_Date": "2025-12-02T01:32:17"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-02T07:13:26.428284+00:00",
+      "call_count": 6,
+      "calls": [
+        {
+          "Master_Incident_Number": "120125-00602",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "200 BLOCK S GLENWOOD AVE",
+          "Response_Date": "2025-12-02T01:37:32.797"
+        },
+        {
+          "Master_Incident_Number": "120125-00548",
+          "Online_Description": "CRIMINAL MISCHIEF",
+          "Address": "1500 BLOCK JEFFORDS ST",
+          "Response_Date": "2025-12-01T21:38:42"
+        },
+        {
+          "Master_Incident_Number": "120125-00617",
+          "Online_Description": "DOMESTIC",
+          "Address": "1900 BLOCK RADCLIFFE DR N",
+          "Response_Date": "2025-12-01T23:48:08"
+        },
+        {
+          "Master_Incident_Number": "120225-00033",
+          "Online_Description": "PARK WALK AND TALK",
+          "Address": "1400 BLOCK N MARTIN LUTHER KING JR AVE",
+          "Response_Date": "2025-12-02T01:38:16"
+        },
+        {
+          "Master_Incident_Number": "120225-00038",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "600 BLOCK BLANCHE B LITTLEJOHN TRL",
+          "Response_Date": "2025-12-02T01:45:43"
+        },
+        {
+          "Master_Incident_Number": "120225-00039",
+          "Online_Description": "ALARM",
+          "Address": "1600 BLOCK N ARCTURAS AVE",
+          "Response_Date": "2025-12-02T01:47:46"
+        }
+      ]
     }
   ]
 }
