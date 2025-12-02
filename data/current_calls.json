@@ -13,22 +13,10 @@
       "Response_Date": "2025-12-02T08:22:51"
     },
     {
-      "Master_Incident_Number": "120225-00162",
-      "Online_Description": "TRESPASS",
-      "Address": "1600 BLOCK N WASHINGTON AVE",
-      "Response_Date": "2025-12-02T08:30:30"
-    },
-    {
       "Master_Incident_Number": "120225-00161",
       "Online_Description": "DIRECTED PATROL",
       "Address": "1000 BLOCK GULF BLVD",
       "Response_Date": "2025-12-02T08:33:24"
-    },
-    {
-      "Master_Incident_Number": "120225-00175",
-      "Online_Description": "TRAFFIC CRASH",
-      "Address": "S FORT HARRISON AVE / WOODLAWN ST",
-      "Response_Date": "2025-12-02T09:07:27"
     },
     {
       "Master_Incident_Number": "120225-00183",
@@ -49,12 +37,54 @@
       "Response_Date": "2025-12-02T09:19:39"
     },
     {
-      "Master_Incident_Number": "120225-00191",
+      "Master_Incident_Number": "120225-00189",
+      "Online_Description": "CHILD PROTECTION INVESTIGATION",
+      "Address": "1300 BLOCK FAIRMONT ST",
+      "Response_Date": "2025-12-02T09:24:42"
+    },
+    {
+      "Master_Incident_Number": "120225-00196",
+      "Online_Description": "TRAFFIC STOP",
+      "Address": "MCMULLEN BOOTH RD / CHAMBLEE LN",
+      "Response_Date": "2025-12-02T09:44:02"
+    },
+    {
+      "Master_Incident_Number": "120225-00199",
+      "Online_Description": "SUSPICIOUS PERSON",
+      "Address": "3000 BLOCK GULF TO BAY BLVD",
+      "Response_Date": "2025-12-02T09:50:19"
+    },
+    {
+      "Master_Incident_Number": "120225-00202",
+      "Online_Description": "TRAFFIC STOP",
+      "Address": "CLEVELAND ST / GULF TO BAY BLVD",
+      "Response_Date": "2025-12-02T10:01:01"
+    },
+    {
+      "Master_Incident_Number": "120225-00204",
+      "Online_Description": "ALARM",
+      "Address": "900 BLOCK ELDRIDGE ST",
+      "Response_Date": "2025-12-02T10:02:02"
+    },
+    {
+      "Master_Incident_Number": "120225-00203",
       "Online_Description": "DIRECTED PATROL",
-      "Address": "1500 BLOCK GULF BLVD",
-      "Response_Date": "2025-12-02T09:30:48"
+      "Address": "2800 BLOCK CURLEW RD",
+      "Response_Date": "2025-12-02T10:02:51"
+    },
+    {
+      "Master_Incident_Number": "120225-00205",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "0 BLOCK 299 S GLENWOOD AVE",
+      "Response_Date": "2025-12-02T10:03:39"
+    },
+    {
+      "Master_Incident_Number": "120225-00207",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "1200 BLOCK GULF BLVD",
+      "Response_Date": "2025-12-02T10:07:33"
     }
   ],
-  "timestamp": "2025-12-02T14:59:13.102917+00:00",
-  "count": 9
+  "timestamp": "2025-12-02T15:28:36.924126+00:00",
+  "count": 14
 }

@@ -1,18 +1,18 @@
 {
-  "total_calls_tracked": 793,
-  "total_resolved": 784,
+  "total_calls_tracked": 801,
+  "total_resolved": 787,
   "call_types": {
-    "DIRECTED PATROL": 277,
-    "TRAFFIC STOP": 114,
+    "DIRECTED PATROL": 280,
+    "TRAFFIC STOP": 116,
     "DRUNK DRIVER": 4,
     "DISTURBANCE": 17,
     "BATTERY": 3,
     "CRIMINAL MISCHIEF": 2,
-    "ALARM": 12,
+    "ALARM": 13,
     "KEEP THE PEACE": 15,
     "WELFARE CHECK": 17,
     "PARK WALK AND TALK": 67,
-    "SUSPICIOUS PERSON": 31,
+    "SUSPICIOUS PERSON": 32,
     "TRESPASS": 20,
     "PROPERTY FOUND/LOST": 4,
     "THEFT": 9,
@@ -48,7 +48,7 @@
     "ABANDONED VEHICLE": 1,
     "CHILD ABUSE": 1,
     "FIGHT": 1,
-    "CHILD PROTECTION INVESTIGATION": 1
+    "CHILD PROTECTION INVESTIGATION": 2
   },
   "addresses": {
     "MEMORIAL CSWY / ISLAND WAY": 14,
@@ -95,7 +95,7 @@
     "MCMULLEN BOOTH RD / SR 590": 1,
     "LAKEVIEW RD / S MISSOURI AVE": 2,
     "2400 BLOCK MELLOW LN": 1,
-    "1200 BLOCK GULF BLVD": 3,
+    "1200 BLOCK GULF BLVD": 4,
     "1900 BLOCK N BELCHER RD": 1,
     "20100 BLOCK US HIGHWAY 19 N": 1,
     "CLEVELAND ST / N MAIN AVE": 1,
@@ -384,7 +384,7 @@
     "S MYRTLE AVE / LAKEVIEW RD": 1,
     "S SAN REMO AVE/ GULF TO BAY BLVD": 1,
     "1300 BLOCK S HIGHLAND AVE": 2,
-    "CLEVELAND ST / GULF TO BAY BLVD": 1,
+    "CLEVELAND ST / GULF TO BAY BLVD": 2,
     "1400 BLOCK GULF TO BAY BLVD": 1,
     "2200 BLOCK BELLEAIR RD": 1,
     "1300 BLOCK PARK ST": 4,
@@ -525,7 +525,7 @@
     "GULF TO BAY BLVD / THORNTON RD": 1,
     "1100 BLOCK WOODLAWN ST": 1,
     "200 BLOCK S STARCREST DR": 1,
-    "3000 BLOCK GULF TO BAY BLVD": 1,
+    "3000 BLOCK GULF TO BAY BLVD": 2,
     "-2000 BLOCK 2198 PALMETTO ST": 1,
     "US HIGHWAY 19 N / SEVILLE BLVD": 1,
     "WOODBINE ST / ROLLEN RD": 1,
@@ -537,7 +537,12 @@
     "SABAL SPRINGS CIR / SR 580": 1,
     "300 BLOCK DREW ST": 1,
     "S FORT HARRISON AVE / WOODLAWN ST": 1,
-    "LAKEVIEW RD / S WASHINGTON AVE": 1
+    "LAKEVIEW RD / S WASHINGTON AVE": 1,
+    "1300 BLOCK FAIRMONT ST": 1,
+    "MCMULLEN BOOTH RD / CHAMBLEE LN": 1,
+    "900 BLOCK ELDRIDGE ST": 1,
+    "2800 BLOCK CURLEW RD": 1,
+    "0 BLOCK 299 S GLENWOOD AVE": 1
   },
   "hourly_distribution": {
     "0": 22,
@@ -549,8 +554,8 @@
     "6": 29,
     "7": 25,
     "8": 54,
-    "9": 58,
-    "10": 50,
+    "9": 61,
+    "10": 55,
     "11": 42,
     "12": 47,
     "13": 52,
@@ -566,7 +571,7 @@
     "23": 19
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-02T14:59:13.105522+00:00",
+  "last_updated": "2025-12-02T15:28:36.926608+00:00",
   "peak_active_calls": 15,
-  "total_snapshots": 263
+  "total_snapshots": 264
 }
