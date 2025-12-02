@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 889,
-  "total_resolved": 884,
+  "total_calls_tracked": 891,
+  "total_resolved": 888,
   "call_types": {
-    "DIRECTED PATROL": 317,
+    "DIRECTED PATROL": 318,
     "TRAFFIC STOP": 127,
     "DRUNK DRIVER": 4,
     "DISTURBANCE": 18,
@@ -11,7 +11,7 @@
     "ALARM": 15,
     "KEEP THE PEACE": 15,
     "WELFARE CHECK": 20,
-    "PARK WALK AND TALK": 69,
+    "PARK WALK AND TALK": 70,
     "SUSPICIOUS PERSON": 40,
     "TRESPASS": 21,
     "PROPERTY FOUND/LOST": 5,
@@ -127,7 +127,7 @@
     "COUNTRYSIDE BLVD / NORTHRIDGE DR": 1,
     "NE COACHMAN RD / US HIGHWAY 19 N": 2,
     "LOTUS PATH / BAY AVE": 1,
-    "MEMORIAL CSWY": 8,
+    "MEMORIAL CSWY": 9,
     "1300 BLOCK ADMIRAL WOODSON LN": 1,
     "DREW ST / N SATURN AVE": 2,
     "GULF TO BAY BLVD / THORTON RD": 1,
@@ -141,7 +141,7 @@
     "-1300 BLOCK BLK ADMIRAL WOODSON LN": 1,
     "19300 BLOCK US HIGHWAY 19 N": 2,
     "600 BLOCK PIERCE ST": 9,
-    "0 BLOCK 99 THIRD ST": 2,
+    "0 BLOCK 99 THIRD ST": 3,
     "0 BLOCK 98 THIRD ST": 4,
     "100 BLOCK HAMPTON RD": 1,
     "GULF TO BAY BLVD / PARK PLACE BLVD": 1,
@@ -600,7 +600,7 @@
     "13": 69,
     "14": 76,
     "15": 64,
-    "16": 61,
+    "16": 63,
     "17": 37,
     "18": 35,
     "19": 10,
@@ -610,7 +610,7 @@
     "23": 19
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-02T21:57:54.742810+00:00",
+  "last_updated": "2025-12-02T22:18:06.621241+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 286
+  "total_snapshots": 287
 }
