@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 864,
+  "total_calls_tracked": 867,
   "total_resolved": 849,
   "call_types": {
-    "DIRECTED PATROL": 308,
+    "DIRECTED PATROL": 310,
     "TRAFFIC STOP": 124,
     "DRUNK DRIVER": 4,
     "DISTURBANCE": 18,
@@ -10,7 +10,7 @@
     "CRIMINAL MISCHIEF": 2,
     "ALARM": 14,
     "KEEP THE PEACE": 15,
-    "WELFARE CHECK": 18,
+    "WELFARE CHECK": 19,
     "PARK WALK AND TALK": 69,
     "SUSPICIOUS PERSON": 38,
     "TRESPASS": 20,
@@ -60,7 +60,7 @@
     "-800 BLOCK 1099 MARSHALL ST": 1,
     "US HIGHWAY 19 N / DREW ST": 10,
     "US HIGHWAY 19 N / SR 590": 1,
-    "1100 BLOCK DRUID RD": 1,
+    "1100 BLOCK DRUID RD": 2,
     "2100 BLOCK RANGE RD": 1,
     "0 BLOCK ACACIA ST": 4,
     "-600 BLOCK 647 BAY ESPLANADE": 1,
@@ -505,7 +505,7 @@
     "1900 BLOCK RADCLIFFE DR N": 1,
     "1100 BLOCK GROVE ST": 1,
     "1300 BLOCK AMBLE LN": 1,
-    "1000 BLOCK ELDORADO AVE": 1,
+    "1000 BLOCK ELDORADO AVE": 2,
     "-3300 BLOCK 3348 HYDE PARK DR": 1,
     "1400 BLOCK N MARTIN LUTHER KING JR AVE": 1,
     "600 BLOCK BLANCHE B LITTLEJOHN TRL": 1,
@@ -571,7 +571,8 @@
     "N BETTY LN / ENGMAN ST": 1,
     "1000 BLOCK APACHE TRAIL": 1,
     "N FORT HARRISON AVE / PALM BLUFF ST": 1,
-    "MCMULLEN BOOTH/ALLEN AVE": 1
+    "MCMULLEN BOOTH/ALLEN AVE": 1,
+    "SUNSET POINT RD/US HWY 19": 1
   },
   "hourly_distribution": {
     "0": 22,
@@ -588,7 +589,7 @@
     "11": 56,
     "12": 59,
     "13": 69,
-    "14": 68,
+    "14": 71,
     "15": 54,
     "16": 54,
     "17": 37,
@@ -600,7 +601,7 @@
     "23": 19
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-02T19:42:04.966723+00:00",
-  "peak_active_calls": 15,
-  "total_snapshots": 276
+  "last_updated": "2025-12-02T19:50:32.883330+00:00",
+  "peak_active_calls": 18,
+  "total_snapshots": 277
 }

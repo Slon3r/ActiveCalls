@@ -2249,6 +2249,120 @@
           "Response_Date": "2025-12-02T14:20:42"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-02T19:50:32.879503+00:00",
+      "call_count": 18,
+      "calls": [
+        {
+          "Master_Incident_Number": "120225-00232",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "1000 BLOCK GULF BLVD",
+          "Response_Date": "2025-12-02T10:55:36"
+        },
+        {
+          "Master_Incident_Number": "120225-00283",
+          "Online_Description": "TRAFFIC CRASH",
+          "Address": "1200 BLOCK S MISSOURI AVE",
+          "Response_Date": "2025-12-02T12:20:32"
+        },
+        {
+          "Master_Incident_Number": "120225-00317",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "S MADISON AVE / CLEVELAND ST",
+          "Response_Date": "2025-12-02T13:37:00"
+        },
+        {
+          "Master_Incident_Number": "120225-00318",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "WOODBINE ST / CARLOS AVE",
+          "Response_Date": "2025-12-02T13:38:05"
+        },
+        {
+          "Master_Incident_Number": "120225-00323",
+          "Online_Description": "DISABLED VEHICLE",
+          "Address": "600 BLOCK PIERCE ST",
+          "Response_Date": "2025-12-02T13:43:27"
+        },
+        {
+          "Master_Incident_Number": "120225-00324",
+          "Online_Description": "ABANDONED VEHICLE",
+          "Address": "600 BLOCK WILDWOOD WAY",
+          "Response_Date": "2025-12-02T13:43:48"
+        },
+        {
+          "Master_Incident_Number": "120225-00335",
+          "Online_Description": "WELFARE CHECK",
+          "Address": "1100 BLOCK DRUID RD",
+          "Response_Date": "2025-12-02T14:01:31"
+        },
+        {
+          "Master_Incident_Number": "120225-00337",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "US HIGHWAY 19 N / SUNSET POINT RD",
+          "Response_Date": "2025-12-02T14:03:40"
+        },
+        {
+          "Master_Incident_Number": "120225-00339",
+          "Online_Description": "DISTURBANCE",
+          "Address": "900 BLOCK N MARTIN LUTHER KING JR AVE",
+          "Response_Date": "2025-12-02T14:06:51"
+        },
+        {
+          "Master_Incident_Number": "120225-00340",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "1500 BLOCK GULF BLVD",
+          "Response_Date": "2025-12-02T14:08:34"
+        },
+        {
+          "Master_Incident_Number": "120225-00341",
+          "Online_Description": "ASSIST OTHER AGENCY",
+          "Address": "1800 BLOCK MCMULLEN BOOTH RD",
+          "Response_Date": "2025-12-02T14:09:09"
+        },
+        {
+          "Master_Incident_Number": "120225-00344",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "N BETTY LN / ENGMAN ST",
+          "Response_Date": "2025-12-02T14:12:12"
+        },
+        {
+          "Master_Incident_Number": "120225-00345",
+          "Online_Description": "FRAUD",
+          "Address": "1000 BLOCK APACHE TRL",
+          "Response_Date": "2025-12-02T14:13:34"
+        },
+        {
+          "Master_Incident_Number": "120225-00348",
+          "Online_Description": "ORDINANCE VIOLATION",
+          "Address": "N OSCEOLA AVE / PALM BLUFF ST",
+          "Response_Date": "2025-12-02T14:19:31"
+        },
+        {
+          "Master_Incident_Number": "120225-00347",
+          "Online_Description": "SUSPICIOUS PERSON",
+          "Address": "1400 BLOCK GULF TO BAY BLVD",
+          "Response_Date": "2025-12-02T14:19:43"
+        },
+        {
+          "Master_Incident_Number": "120225-00349",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "MCMULLEN BOOTH RD / ALLEN AVE",
+          "Response_Date": "2025-12-02T14:20:42"
+        },
+        {
+          "Master_Incident_Number": "120225-00350",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "SUNSET POINT RD/US HWY 19",
+          "Response_Date": "2025-12-02T14:23:09"
+        },
+        {
+          "Master_Incident_Number": "120225-00351",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "1000 BLOCK ELDORADO AVE",
+          "Response_Date": "2025-12-02T14:24:56"
+        }
+      ]
     }
   ]
 }
