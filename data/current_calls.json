@@ -19,6 +19,12 @@
       "Response_Date": "2025-12-02T15:46:05"
     },
     {
+      "Master_Incident_Number": "120225-00396",
+      "Online_Description": "911 HANG-UP",
+      "Address": "1800 BLOCK GULF TO BAY BLVD",
+      "Response_Date": "2025-12-02T15:48:01"
+    },
+    {
       "Master_Incident_Number": "120225-00397",
       "Online_Description": "PANHANDLER/SOLICITOR",
       "Address": "400 BLOCK MANDALAY AVE",
@@ -29,8 +35,20 @@
       "Online_Description": "DIRECTED PATROL",
       "Address": "-100 BLOCK 299 S MAIN AVE",
       "Response_Date": "2025-12-02T16:00:20"
+    },
+    {
+      "Master_Incident_Number": "120225-00407",
+      "Online_Description": "SUSPICIOUS PERSON",
+      "Address": "BOYLAN AVE / BELLEVUE BLVD",
+      "Response_Date": "2025-12-02T16:13:20"
+    },
+    {
+      "Master_Incident_Number": "120225-00412",
+      "Online_Description": "TRAFFIC STOP",
+      "Address": "SR 590 / US HIGHWAY 19 N",
+      "Response_Date": "2025-12-02T16:20:54"
     }
   ],
-  "timestamp": "2025-12-02T21:30:08.121365+00:00",
-  "count": 5
+  "timestamp": "2025-12-02T21:41:36.908506+00:00",
+  "count": 8
 }

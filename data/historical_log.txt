@@ -4163,3 +4163,13 @@ TOTAL ACTIVE CALLS: 5
 --- RESOLVED CALLS (2) ---
 [RESOLVED] 120225-00365 | DIRECTED PATROL | 1300 BLOCK COURT ST | Response: 02:56 PM
 [RESOLVED] 120225-00372 | TRESPASS | 2000 BLOCK GLASS LOOP | Response: 03:01 PM
+
+================================================================================
+TIMESTAMP: 2025-12-02T21:41:36.908506+00:00
+TOTAL ACTIVE CALLS: 8
+================================================================================
+
+--- NEW CALLS (3) ---
+[NEW] 120225-00396 | 911 HANG-UP | 1800 BLOCK GULF TO BAY BLVD | Response: 03:48 PM
+[NEW] 120225-00407 | SUSPICIOUS PERSON | BOYLAN AVE / BELLEVUE BLVD | Response: 04:13 PM
+[NEW] 120225-00412 | TRAFFIC STOP | SR 590 / US HIGHWAY 19 N | Response: 04:20 PM

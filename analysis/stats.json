@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 882,
+  "total_calls_tracked": 885,
   "total_resolved": 877,
   "call_types": {
     "DIRECTED PATROL": 316,
-    "TRAFFIC STOP": 126,
+    "TRAFFIC STOP": 127,
     "DRUNK DRIVER": 4,
     "DISTURBANCE": 18,
     "BATTERY": 3,
@@ -12,12 +12,12 @@
     "KEEP THE PEACE": 15,
     "WELFARE CHECK": 19,
     "PARK WALK AND TALK": 69,
-    "SUSPICIOUS PERSON": 38,
+    "SUSPICIOUS PERSON": 39,
     "TRESPASS": 21,
     "PROPERTY FOUND/LOST": 5,
     "THEFT": 11,
     "NEIGHBOR CALL": 6,
-    "911 HANG-UP": 29,
+    "911 HANG-UP": 30,
     "SUSPICIOUS VEHICLE": 7,
     "PANHANDLER/SOLICITOR": 2,
     "VEHICLE ILLEGALLY PARKED": 3,
@@ -193,7 +193,7 @@
     "1000 BLOCK MCMULLEN BOOTH RD": 1,
     "1200 BLOCK S MARTIN LUTHER KING JR AVE": 1,
     "2000 BLOCK PARAGON CIR W": 1,
-    "1800 BLOCK GULF TO BAY BLVD": 2,
+    "1800 BLOCK GULF TO BAY BLVD": 3,
     "S MAIN AVE / RAINBOW DR": 2,
     "1000 BLOCK N MADISON AVE": 1,
     "2800 BLOCK DREW ST": 2,
@@ -578,7 +578,9 @@
     "22000 BLOCK US HIGHWAY 19 N": 1,
     "2000 BLOCK GLASS LOOP": 1,
     "500 BLOCK WOODLAWN ST": 1,
-    "900 BLOCK SEMINOLE ST": 1
+    "900 BLOCK SEMINOLE ST": 1,
+    "BOYLAN AVE / BELLEVUE BLVD": 1,
+    "SR 590 / US HIGHWAY 19 N": 1
   },
   "hourly_distribution": {
     "0": 22,
@@ -596,8 +598,8 @@
     "12": 59,
     "13": 69,
     "14": 76,
-    "15": 63,
-    "16": 55,
+    "15": 64,
+    "16": 57,
     "17": 37,
     "18": 35,
     "19": 10,
@@ -607,7 +609,7 @@
     "23": 19
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-02T21:30:08.125604+00:00",
+  "last_updated": "2025-12-02T21:41:36.912554+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 283
+  "total_snapshots": 284
 }
