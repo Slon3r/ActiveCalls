@@ -1,6 +1,6 @@
 {
-  "total_calls_tracked": 891,
-  "total_resolved": 888,
+  "total_calls_tracked": 895,
+  "total_resolved": 890,
   "call_types": {
     "DIRECTED PATROL": 318,
     "TRAFFIC STOP": 127,
@@ -11,8 +11,8 @@
     "ALARM": 15,
     "KEEP THE PEACE": 15,
     "WELFARE CHECK": 20,
-    "PARK WALK AND TALK": 70,
-    "SUSPICIOUS PERSON": 40,
+    "PARK WALK AND TALK": 71,
+    "SUSPICIOUS PERSON": 41,
     "TRESPASS": 21,
     "PROPERTY FOUND/LOST": 5,
     "THEFT": 11,
@@ -22,10 +22,10 @@
     "PANHANDLER/SOLICITOR": 2,
     "VEHICLE ILLEGALLY PARKED": 3,
     "SUSPICIOUS EVENT": 17,
-    "TRAFFIC CRASH": 35,
+    "TRAFFIC CRASH": 36,
     "DISABLED VEHICLE": 11,
     "ASSIST CITIZEN": 27,
-    "ASSIST OTHER AGENCY": 10,
+    "ASSIST OTHER AGENCY": 11,
     "FIRE": 2,
     "FRAUD": 5,
     "RECKLESS VEHICLE": 2,
@@ -56,7 +56,7 @@
     "1900 BLOCK N BETTY LN": 1,
     "1400 BLOCK CLEVELAND ST": 1,
     "1000 BLOCK WEST AVE": 1,
-    "600 BLOCK S GULFVIEW BLVD": 4,
+    "600 BLOCK S GULFVIEW BLVD": 5,
     "-800 BLOCK 1099 MARSHALL ST": 1,
     "US HIGHWAY 19 N / DREW ST": 11,
     "US HIGHWAY 19 N / SR 590": 2,
@@ -140,7 +140,7 @@
     "1100 BLOCK COURT ST": 1,
     "-1300 BLOCK BLK ADMIRAL WOODSON LN": 1,
     "19300 BLOCK US HIGHWAY 19 N": 2,
-    "600 BLOCK PIERCE ST": 9,
+    "600 BLOCK PIERCE ST": 10,
     "0 BLOCK 99 THIRD ST": 3,
     "0 BLOCK 98 THIRD ST": 4,
     "100 BLOCK HAMPTON RD": 1,
@@ -581,7 +581,9 @@
     "900 BLOCK SEMINOLE ST": 1,
     "BOYLAN AVE / BELLEVUE BLVD": 1,
     "SR 590 / US HIGHWAY 19 N": 1,
-    "CLEVELAND ST / N BELCHER RD": 1
+    "CLEVELAND ST / N BELCHER RD": 1,
+    "BAYSHORE BLVD / GULF TO BAY BLVD": 1,
+    "600 BLOCK DRUID RD": 1
   },
   "hourly_distribution": {
     "0": 22,
@@ -600,8 +602,8 @@
     "13": 69,
     "14": 76,
     "15": 64,
-    "16": 63,
-    "17": 37,
+    "16": 64,
+    "17": 40,
     "18": 35,
     "19": 10,
     "20": 12,
@@ -610,7 +612,7 @@
     "23": 19
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-02T22:18:06.621241+00:00",
+  "last_updated": "2025-12-02T22:34:49.411856+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 287
+  "total_snapshots": 288
 }
