@@ -1,6 +1,6 @@
 {
-  "total_calls_tracked": 831,
-  "total_resolved": 817,
+  "total_calls_tracked": 832,
+  "total_resolved": 820,
   "call_types": {
     "DIRECTED PATROL": 295,
     "TRAFFIC STOP": 121,
@@ -10,7 +10,7 @@
     "CRIMINAL MISCHIEF": 2,
     "ALARM": 14,
     "KEEP THE PEACE": 15,
-    "WELFARE CHECK": 17,
+    "WELFARE CHECK": 18,
     "PARK WALK AND TALK": 68,
     "SUSPICIOUS PERSON": 34,
     "TRESPASS": 20,
@@ -115,7 +115,7 @@
     "1100 BLOCK GULF BLVD": 4,
     "2500 BLOCK GULF TO BAY BLVD": 5,
     "1600 BLOCK N MCMULLEN BOOTH RD": 1,
-    "1200 BLOCK DREW ST": 1,
+    "1200 BLOCK DREW ST": 2,
     "2400 BLOCK DREW ST": 2,
     "-1100 BLOCK 1582 GULF BLVD": 3,
     "3300 BLOCK COURTNEY CAMPBELL CSWY": 4,
@@ -569,7 +569,7 @@
     "9": 61,
     "10": 62,
     "11": 56,
-    "12": 56,
+    "12": 57,
     "13": 52,
     "14": 57,
     "15": 54,
@@ -583,7 +583,7 @@
     "23": 19
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-02T17:42:46.406011+00:00",
+  "last_updated": "2025-12-02T17:53:45.066800+00:00",
   "peak_active_calls": 15,
-  "total_snapshots": 270
+  "total_snapshots": 271
 }
