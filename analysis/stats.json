@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 781,
-  "total_resolved": 772,
+  "total_calls_tracked": 783,
+  "total_resolved": 776,
   "call_types": {
-    "DIRECTED PATROL": 273,
-    "TRAFFIC STOP": 112,
+    "DIRECTED PATROL": 274,
+    "TRAFFIC STOP": 113,
     "DRUNK DRIVER": 4,
     "DISTURBANCE": 17,
     "BATTERY": 3,
@@ -81,7 +81,7 @@
     "FLUSHING AVE / HARN BLVD": 1,
     "S BELCHER RD / BARCELONA DR": 1,
     "-1400 BLOCK 1417 S MISSOURI AVE": 1,
-    "1000 BLOCK GULF BLVD": 8,
+    "1000 BLOCK GULF BLVD": 9,
     "1400 BLOCK LAURA ST": 1,
     "ENTERPRISE RD E / VILLAGE DR": 1,
     "GULF TO BAY BLVD / HAMPTON RD": 1,
@@ -533,7 +533,8 @@
     "2500 BLOCK MCMULLEN BOOTH RD": 1,
     "2600 BLOCK SR 590": 1,
     "2400 BLOCK GULF TO BAY BLVD": 1,
-    "2800 BLOCK MCMULLEN BOOTH RD": 1
+    "2800 BLOCK MCMULLEN BOOTH RD": 1,
+    "SABAL SPRINGS CIR / SR 580": 1
   },
   "hourly_distribution": {
     "0": 22,
@@ -544,7 +545,7 @@
     "5": 24,
     "6": 29,
     "7": 25,
-    "8": 50,
+    "8": 52,
     "9": 50,
     "10": 50,
     "11": 42,
@@ -562,7 +563,7 @@
     "23": 19
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-02T13:47:46.684545+00:00",
+  "last_updated": "2025-12-02T13:59:38.308563+00:00",
   "peak_active_calls": 15,
-  "total_snapshots": 259
+  "total_snapshots": 260
 }

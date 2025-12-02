@@ -13,34 +13,10 @@
       "Response_Date": "2025-12-02T07:11:47"
     },
     {
-      "Master_Incident_Number": "120225-00138",
-      "Online_Description": "911 HANG-UP",
-      "Address": "3000 BLOCK WOODSONG LN",
-      "Response_Date": "2025-12-02T07:44:05"
-    },
-    {
       "Master_Incident_Number": "120225-00144",
       "Online_Description": "TRAFFIC CRASH",
       "Address": "2500 BLOCK MCMULLEN BOOTH RD",
       "Response_Date": "2025-12-02T07:50:43"
-    },
-    {
-      "Master_Incident_Number": "120225-00157",
-      "Online_Description": "FRAUD",
-      "Address": "2600 BLOCK SR 590",
-      "Response_Date": "2025-12-02T08:11:35"
-    },
-    {
-      "Master_Incident_Number": "120225-00156",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "2400 BLOCK GULF TO BAY BLVD",
-      "Response_Date": "2025-12-02T08:13:20"
-    },
-    {
-      "Master_Incident_Number": "120225-00158",
-      "Online_Description": "ASSIST CITIZEN",
-      "Address": "2800 BLOCK MCMULLEN BOOTH RD",
-      "Response_Date": "2025-12-02T08:17:07"
     },
     {
       "Master_Incident_Number": "120225-00159",
@@ -53,8 +29,20 @@
       "Online_Description": "SUSPICIOUS PERSON",
       "Address": "1100 BLOCK BECKETT ST",
       "Response_Date": "2025-12-02T08:26:27"
+    },
+    {
+      "Master_Incident_Number": "120225-00161",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "1000 BLOCK GULF BLVD",
+      "Response_Date": "2025-12-02T08:33:24"
+    },
+    {
+      "Master_Incident_Number": "120225-00163",
+      "Online_Description": "TRAFFIC STOP",
+      "Address": "SABAL SPRINGS CIR / SR 580",
+      "Response_Date": "2025-12-02T08:38:44"
     }
   ],
-  "timestamp": "2025-12-02T13:47:46.682259+00:00",
-  "count": 9
+  "timestamp": "2025-12-02T13:59:38.305947+00:00",
+  "count": 7
 }

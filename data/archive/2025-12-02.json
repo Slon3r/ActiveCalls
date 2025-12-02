@@ -1164,6 +1164,54 @@
           "Response_Date": "2025-12-02T08:26:27"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-02T13:59:38.305947+00:00",
+      "call_count": 7,
+      "calls": [
+        {
+          "Master_Incident_Number": "120225-00149",
+          "Online_Description": "PARK WALK AND TALK",
+          "Address": "1300 BLOCK PARK ST",
+          "Response_Date": "2025-12-02T08:04:42.627"
+        },
+        {
+          "Master_Incident_Number": "120225-00129",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "DREW ST / BAYVIEW AVE",
+          "Response_Date": "2025-12-02T07:11:47"
+        },
+        {
+          "Master_Incident_Number": "120225-00144",
+          "Online_Description": "TRAFFIC CRASH",
+          "Address": "2500 BLOCK MCMULLEN BOOTH RD",
+          "Response_Date": "2025-12-02T07:50:43"
+        },
+        {
+          "Master_Incident_Number": "120225-00159",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "1100 BLOCK BECKETT ST",
+          "Response_Date": "2025-12-02T08:22:51"
+        },
+        {
+          "Master_Incident_Number": "120225-00160",
+          "Online_Description": "SUSPICIOUS PERSON",
+          "Address": "1100 BLOCK BECKETT ST",
+          "Response_Date": "2025-12-02T08:26:27"
+        },
+        {
+          "Master_Incident_Number": "120225-00161",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "1000 BLOCK GULF BLVD",
+          "Response_Date": "2025-12-02T08:33:24"
+        },
+        {
+          "Master_Incident_Number": "120225-00163",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "SABAL SPRINGS CIR / SR 580",
+          "Response_Date": "2025-12-02T08:38:44"
+        }
+      ]
     }
   ]
 }
