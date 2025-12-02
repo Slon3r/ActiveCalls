@@ -1668,6 +1668,84 @@
           "Response_Date": "2025-12-02T11:35:33"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-02T17:20:59.897820+00:00",
+      "call_count": 12,
+      "calls": [
+        {
+          "Master_Incident_Number": "120225-00251",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "2800 BLOCK GLORIA CT",
+          "Response_Date": "2025-12-02T11:36:33.65"
+        },
+        {
+          "Master_Incident_Number": "120225-00159",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "1100 BLOCK BECKETT ST",
+          "Response_Date": "2025-12-02T08:22:51"
+        },
+        {
+          "Master_Incident_Number": "120225-00232",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "1000 BLOCK GULF BLVD",
+          "Response_Date": "2025-12-02T10:55:36"
+        },
+        {
+          "Master_Incident_Number": "120225-00237",
+          "Online_Description": "SUSPICIOUS EVENT",
+          "Address": "1800 BLOCK BELMONT DR",
+          "Response_Date": "2025-12-02T11:01:44"
+        },
+        {
+          "Master_Incident_Number": "120225-00248",
+          "Online_Description": "PROPERTY FOUND/LOST",
+          "Address": "100 BLOCK S MYRTLE AVE",
+          "Response_Date": "2025-12-02T11:27:51"
+        },
+        {
+          "Master_Incident_Number": "120225-00253",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "400 BLOCK S GULFVIEW BLVD",
+          "Response_Date": "2025-12-02T11:34:26"
+        },
+        {
+          "Master_Incident_Number": "120225-00255",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "500 BLOCK CLEVELAND ST",
+          "Response_Date": "2025-12-02T11:35:33"
+        },
+        {
+          "Master_Incident_Number": "120225-00256",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "-100 BLOCK 299 S MAIN AVE",
+          "Response_Date": "2025-12-02T11:36:34"
+        },
+        {
+          "Master_Incident_Number": "120225-00261",
+          "Online_Description": "SUSPICIOUS PERSON",
+          "Address": "2000 BLOCK N HIGHLAND AVE",
+          "Response_Date": "2025-12-02T11:37:30"
+        },
+        {
+          "Master_Incident_Number": "120225-00262",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "RUTH ECKERD HALL DR",
+          "Response_Date": "2025-12-02T11:42:58"
+        },
+        {
+          "Master_Incident_Number": "120225-00265",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "21400 BLOCK US HIGHWAY 19 N",
+          "Response_Date": "2025-12-02T11:47:19"
+        },
+        {
+          "Master_Incident_Number": "120225-00268",
+          "Online_Description": "ALARM",
+          "Address": "200 BLOCK BAYSIDE DR",
+          "Response_Date": "2025-12-02T11:49:29"
+        }
+      ]
     }
   ]
 }
