@@ -1,24 +1,6 @@
 {
   "calls": [
     {
-      "Master_Incident_Number": "120225-00318",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "WOODBINE ST / CARLOS AVE",
-      "Response_Date": "2025-12-02T13:38:05"
-    },
-    {
-      "Master_Incident_Number": "120225-00340",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "1500 BLOCK GULF BLVD",
-      "Response_Date": "2025-12-02T14:08:34"
-    },
-    {
-      "Master_Incident_Number": "120225-00344",
-      "Online_Description": "TRAFFIC STOP",
-      "Address": "N BETTY LN / ENGMAN ST",
-      "Response_Date": "2025-12-02T14:12:12"
-    },
-    {
       "Master_Incident_Number": "120225-00365",
       "Online_Description": "DIRECTED PATROL",
       "Address": "1300 BLOCK COURT ST",
@@ -37,24 +19,12 @@
       "Response_Date": "2025-12-02T15:22:38"
     },
     {
-      "Master_Incident_Number": "120225-00383",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "0 BLOCK MEMORIAL CSWY",
-      "Response_Date": "2025-12-02T15:27:53"
-    },
-    {
-      "Master_Incident_Number": "120225-00384",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "200 BLOCK S GLENWOOD AVE",
-      "Response_Date": "2025-12-02T15:28:05"
-    },
-    {
-      "Master_Incident_Number": "120225-00387",
-      "Online_Description": "TRAFFIC STOP",
-      "Address": "US HIGHWAY 19 N / DREW ST",
-      "Response_Date": "2025-12-02T15:33:28"
+      "Master_Incident_Number": "120225-00389",
+      "Online_Description": "JUVENILE CASE",
+      "Address": "500 BLOCK WOODLAWN ST",
+      "Response_Date": "2025-12-02T15:35:41"
     }
   ],
-  "timestamp": "2025-12-02T20:54:51.037336+00:00",
-  "count": 9
+  "timestamp": "2025-12-02T21:13:32.905025+00:00",
+  "count": 4
 }

@@ -1,6 +1,6 @@
 {
-  "total_calls_tracked": 878,
-  "total_resolved": 869,
+  "total_calls_tracked": 879,
+  "total_resolved": 875,
   "call_types": {
     "DIRECTED PATROL": 315,
     "TRAFFIC STOP": 126,
@@ -29,7 +29,7 @@
     "FIRE": 2,
     "FRAUD": 5,
     "RECKLESS VEHICLE": 2,
-    "JUVENILE CASE": 2,
+    "JUVENILE CASE": 3,
     "HAZARD": 1,
     "UNKNOWN PROBLEM": 4,
     "NOISE COMPLAINT": 4,
@@ -576,7 +576,8 @@
     "600 BLOCK ENGMAN ST": 1,
     "-200 BLOCK 299 FAIRWOOD AVE": 1,
     "22000 BLOCK US HIGHWAY 19 N": 1,
-    "2000 BLOCK GLASS LOOP": 1
+    "2000 BLOCK GLASS LOOP": 1,
+    "500 BLOCK WOODLAWN ST": 1
   },
   "hourly_distribution": {
     "0": 22,
@@ -594,7 +595,7 @@
     "12": 59,
     "13": 69,
     "14": 76,
-    "15": 60,
+    "15": 61,
     "16": 54,
     "17": 37,
     "18": 35,
@@ -605,7 +606,7 @@
     "23": 19
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-02T20:54:51.041248+00:00",
+  "last_updated": "2025-12-02T21:13:32.909066+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 281
+  "total_snapshots": 282
 }

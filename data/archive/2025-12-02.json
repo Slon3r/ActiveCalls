@@ -2657,6 +2657,36 @@
           "Response_Date": "2025-12-02T15:33:28"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-02T21:13:32.905025+00:00",
+      "call_count": 4,
+      "calls": [
+        {
+          "Master_Incident_Number": "120225-00365",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "1300 BLOCK COURT ST",
+          "Response_Date": "2025-12-02T14:56:00"
+        },
+        {
+          "Master_Incident_Number": "120225-00372",
+          "Online_Description": "TRESPASS",
+          "Address": "2000 BLOCK GLASS LOOP",
+          "Response_Date": "2025-12-02T15:01:51"
+        },
+        {
+          "Master_Incident_Number": "120225-00381",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "1200 BLOCK COURT ST",
+          "Response_Date": "2025-12-02T15:22:38"
+        },
+        {
+          "Master_Incident_Number": "120225-00389",
+          "Online_Description": "JUVENILE CASE",
+          "Address": "500 BLOCK WOODLAWN ST",
+          "Response_Date": "2025-12-02T15:35:41"
+        }
+      ]
     }
   ]
 }
