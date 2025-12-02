@@ -1,12 +1,6 @@
 {
   "calls": [
     {
-      "Master_Incident_Number": "120225-00445",
-      "Online_Description": "PROPERTY FOUND/LOST",
-      "Address": "1700 BLOCK GROVE DR",
-      "Response_Date": "2025-12-02T17:15:56"
-    },
-    {
       "Master_Incident_Number": "120225-00454",
       "Online_Description": "ASSIST OTHER AGENCY",
       "Address": "DREW ST / MCMULLEN BOOTH RD",
@@ -37,12 +31,6 @@
       "Response_Date": "2025-12-02T17:59:56"
     },
     {
-      "Master_Incident_Number": "120225-00472",
-      "Online_Description": "KEEP THE PEACE",
-      "Address": "25300 BLOCK US HIGHWAY 19 N",
-      "Response_Date": "2025-12-02T18:04:09"
-    },
-    {
       "Master_Incident_Number": "120225-00473",
       "Online_Description": "SUSPICIOUS PERSON",
       "Address": "1400 BLOCK S MARTIN LUTHER KING JR AVE",
@@ -61,12 +49,18 @@
       "Response_Date": "2025-12-02T18:14:42"
     },
     {
-      "Master_Incident_Number": "120225-00478",
+      "Master_Incident_Number": "120225-00487",
       "Online_Description": "DIRECTED PATROL",
-      "Address": "-3100 BLOCK 3161 MASTERS DR",
-      "Response_Date": "2025-12-02T18:15:50"
+      "Address": "300 BLOCK CLEVELAND ST",
+      "Response_Date": "2025-12-02T18:22:48"
+    },
+    {
+      "Master_Incident_Number": "120225-00490",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "-2600 BLOCK 2698 CLUBHOUSE DR N",
+      "Response_Date": "2025-12-02T18:26:26"
     }
   ],
-  "timestamp": "2025-12-02T23:41:29.054207+00:00",
-  "count": 11
+  "timestamp": "2025-12-02T23:49:19.000338+00:00",
+  "count": 10
 }
