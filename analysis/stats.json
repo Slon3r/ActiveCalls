@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 842,
-  "total_resolved": 832,
+  "total_calls_tracked": 851,
+  "total_resolved": 838,
   "call_types": {
-    "DIRECTED PATROL": 298,
-    "TRAFFIC STOP": 122,
+    "DIRECTED PATROL": 304,
+    "TRAFFIC STOP": 123,
     "DRUNK DRIVER": 4,
     "DISTURBANCE": 17,
     "BATTERY": 3,
@@ -24,8 +24,8 @@
     "SUSPICIOUS EVENT": 17,
     "TRAFFIC CRASH": 35,
     "DISABLED VEHICLE": 10,
-    "ASSIST CITIZEN": 24,
-    "ASSIST OTHER AGENCY": 8,
+    "ASSIST CITIZEN": 25,
+    "ASSIST OTHER AGENCY": 9,
     "FIRE": 2,
     "FRAUD": 4,
     "RECKLESS VEHICLE": 2,
@@ -100,7 +100,7 @@
     "20100 BLOCK US HIGHWAY 19 N": 1,
     "CLEVELAND ST / N MAIN AVE": 1,
     "S MISSOURI AVE / KINGSLEY ST": 1,
-    "2200 BLOCK GULF TO BAY BLVD": 4,
+    "2200 BLOCK GULF TO BAY BLVD": 5,
     "CLEVELAND ST/S MADISON AVE": 1,
     "2700 BLOCK GULF TO BAY BLVD": 5,
     "1400 BLOCK N HIBISCUS ST": 1,
@@ -111,7 +111,7 @@
     "1200 BLOCK CLEVELAND ST": 5,
     "-500 BLOCK 549 MANDALAY AVE": 1,
     "27000 BLOCK US HIGHWAY 19 N": 8,
-    "DRIVEWAY PARKING": 1,
+    "DRIVEWAY PARKING": 2,
     "1100 BLOCK GULF BLVD": 4,
     "2500 BLOCK GULF TO BAY BLVD": 6,
     "1600 BLOCK N MCMULLEN BOOTH RD": 1,
@@ -206,7 +206,7 @@
     "1600 BLOCK DARTMOUTH ST": 1,
     "HAMDEN DR / BRIGHTWATER DR": 2,
     "HAMPTON RD / GULF TO BAY BLVD": 1,
-    "N HIGHLAND AVE / SUNSET POINT RD": 1,
+    "N HIGHLAND AVE / SUNSET POINT RD": 2,
     "1100 BLOCK TANGERINE ST": 1,
     "N HERCULES AVE / SUNSET POINT RD": 1,
     "US HIGHWAY 19 N / COUNTRYSIDE BLVD": 1,
@@ -557,7 +557,13 @@
     "400 BLOCK CLEVELAND ST": 1,
     "FRANKLIN ST / S HILLCREST AVE": 1,
     "600 BLOCK ALDEN AVE": 1,
-    "-500 BLOCK 578 BAY ESPLANADE": 1
+    "-500 BLOCK 578 BAY ESPLANADE": 1,
+    "US HIGHWAY 19 N / NORTHSIDE DR": 1,
+    "COURT ST / CHESTNUT ST": 1,
+    "1300 BLOCK FRIEND AVE": 1,
+    "S MADISON AVE / CLEVELAND ST ": 1,
+    "WOODBINE ST / CARLOS AVE": 1,
+    "ISLAND WAY/MEMORIAL CSWY": 1
   },
   "hourly_distribution": {
     "0": 22,
@@ -573,7 +579,7 @@
     "10": 63,
     "11": 56,
     "12": 59,
-    "13": 58,
+    "13": 67,
     "14": 57,
     "15": 54,
     "16": 54,
@@ -586,7 +592,7 @@
     "23": 19
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-02T18:50:41.848177+00:00",
+  "last_updated": "2025-12-02T19:10:06.828713+00:00",
   "peak_active_calls": 15,
-  "total_snapshots": 273
+  "total_snapshots": 274
 }

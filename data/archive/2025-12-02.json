@@ -1985,6 +1985,90 @@
           "Response_Date": "2025-12-02T13:29:52"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-02T19:10:06.825385+00:00",
+      "call_count": 13,
+      "calls": [
+        {
+          "Master_Incident_Number": "120225-00159",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "1100 BLOCK BECKETT ST",
+          "Response_Date": "2025-12-02T08:22:51"
+        },
+        {
+          "Master_Incident_Number": "120225-00232",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "1000 BLOCK GULF BLVD",
+          "Response_Date": "2025-12-02T10:55:36"
+        },
+        {
+          "Master_Incident_Number": "120225-00283",
+          "Online_Description": "TRAFFIC CRASH",
+          "Address": "1200 BLOCK S MISSOURI AVE",
+          "Response_Date": "2025-12-02T12:20:32"
+        },
+        {
+          "Master_Incident_Number": "120225-00307",
+          "Online_Description": "SUSPICIOUS PERSON",
+          "Address": "600 BLOCK ALDEN AVE",
+          "Response_Date": "2025-12-02T13:16:45"
+        },
+        {
+          "Master_Incident_Number": "120225-00311",
+          "Online_Description": "ASSIST OTHER AGENCY",
+          "Address": "US HIGHWAY 19 N / NORTHSIDE DR",
+          "Response_Date": "2025-12-02T13:28:29"
+        },
+        {
+          "Master_Incident_Number": "120225-00313",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "COURT ST / CHESTNUT ST",
+          "Response_Date": "2025-12-02T13:33:40"
+        },
+        {
+          "Master_Incident_Number": "120225-00314",
+          "Online_Description": "ASSIST CITIZEN",
+          "Address": "1300 BLOCK FRIEND AVE",
+          "Response_Date": "2025-12-02T13:33:52"
+        },
+        {
+          "Master_Incident_Number": "120225-00317",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "S MADISON AVE / CLEVELAND ST ",
+          "Response_Date": "2025-12-02T13:37:00"
+        },
+        {
+          "Master_Incident_Number": "120225-00318",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "WOODBINE ST / CARLOS AVE",
+          "Response_Date": "2025-12-02T13:38:05"
+        },
+        {
+          "Master_Incident_Number": "120225-00319",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "ISLAND WAY/MEMORIAL CSWY",
+          "Response_Date": "2025-12-02T13:40:29"
+        },
+        {
+          "Master_Incident_Number": "120225-00320",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "DRIVEWAY PARKING",
+          "Response_Date": "2025-12-02T13:41:02"
+        },
+        {
+          "Master_Incident_Number": "120225-00321",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "N HIGHLAND AVE / SUNSET POINT RD",
+          "Response_Date": "2025-12-02T13:41:39"
+        },
+        {
+          "Master_Incident_Number": "120225-00325",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "2200 BLOCK GULF TO BAY BLVD",
+          "Response_Date": "2025-12-02T13:46:37"
+        }
+      ]
     }
   ]
 }
