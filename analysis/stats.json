@@ -1,6 +1,6 @@
 {
-  "total_calls_tracked": 867,
-  "total_resolved": 849,
+  "total_calls_tracked": 869,
+  "total_resolved": 853,
   "call_types": {
     "DIRECTED PATROL": 310,
     "TRAFFIC STOP": 124,
@@ -24,7 +24,7 @@
     "SUSPICIOUS EVENT": 17,
     "TRAFFIC CRASH": 35,
     "DISABLED VEHICLE": 11,
-    "ASSIST CITIZEN": 25,
+    "ASSIST CITIZEN": 26,
     "ASSIST OTHER AGENCY": 10,
     "FIRE": 2,
     "FRAUD": 5,
@@ -43,7 +43,7 @@
     "BURGLARY": 4,
     "SHOTS FIRED": 1,
     "HIT & RUN": 5,
-    "SCHOOL CROSSING": 1,
+    "SCHOOL CROSSING": 2,
     "ORDINANCE VIOLATION": 2,
     "ABANDONED VEHICLE": 3,
     "CHILD ABUSE": 1,
@@ -572,7 +572,9 @@
     "1000 BLOCK APACHE TRAIL": 1,
     "N FORT HARRISON AVE / PALM BLUFF ST": 1,
     "MCMULLEN BOOTH/ALLEN AVE": 1,
-    "SUNSET POINT RD/US HWY 19": 1
+    "SUNSET POINT RD/US HWY 19": 1,
+    "600 BLOCK ENGMAN ST": 1,
+    "-200 BLOCK 299 FAIRWOOD AVE": 1
   },
   "hourly_distribution": {
     "0": 22,
@@ -589,7 +591,7 @@
     "11": 56,
     "12": 59,
     "13": 69,
-    "14": 71,
+    "14": 73,
     "15": 54,
     "16": 54,
     "17": 37,
@@ -601,7 +603,7 @@
     "23": 19
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-02T19:50:32.883330+00:00",
+  "last_updated": "2025-12-02T19:58:26.300956+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 277
+  "total_snapshots": 278
 }
