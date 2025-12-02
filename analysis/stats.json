@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 869,
-  "total_resolved": 853,
+  "total_calls_tracked": 874,
+  "total_resolved": 864,
   "call_types": {
-    "DIRECTED PATROL": 310,
+    "DIRECTED PATROL": 313,
     "TRAFFIC STOP": 124,
     "DRUNK DRIVER": 4,
     "DISTURBANCE": 18,
@@ -13,7 +13,7 @@
     "WELFARE CHECK": 19,
     "PARK WALK AND TALK": 69,
     "SUSPICIOUS PERSON": 38,
-    "TRESPASS": 20,
+    "TRESPASS": 21,
     "PROPERTY FOUND/LOST": 5,
     "THEFT": 11,
     "NEIGHBOR CALL": 6,
@@ -46,7 +46,7 @@
     "SCHOOL CROSSING": 2,
     "ORDINANCE VIOLATION": 2,
     "ABANDONED VEHICLE": 3,
-    "CHILD ABUSE": 1,
+    "CHILD ABUSE": 2,
     "FIGHT": 1,
     "CHILD PROTECTION INVESTIGATION": 2
   },
@@ -86,7 +86,7 @@
     "ENTERPRISE RD E / VILLAGE DR": 1,
     "GULF TO BAY BLVD / HAMPTON RD": 1,
     "2100 BLOCK GULF TO BAY BLVD": 10,
-    "1300 BLOCK CLEVELAND ST": 5,
+    "1300 BLOCK CLEVELAND ST": 6,
     "2100 BLOCK BELCHER RD": 1,
     "SAND KEY PARK ENTRANCE": 3,
     "S MISSOURI AVE / LAKEVIEW RD": 3,
@@ -194,7 +194,7 @@
     "1200 BLOCK S MARTIN LUTHER KING JR AVE": 1,
     "2000 BLOCK PARAGON CIR W": 1,
     "1800 BLOCK GULF TO BAY BLVD": 2,
-    "S MAIN AVE / RAINBOW DR": 1,
+    "S MAIN AVE / RAINBOW DR": 2,
     "1000 BLOCK N MADISON AVE": 1,
     "2800 BLOCK DREW ST": 2,
     "US HIGHWAY 19 N / GULF TO BAY BLVD": 1,
@@ -361,7 +361,7 @@
     "2100 BLOCK MONTCLAIR RD": 1,
     "700 BLOCK S KEENE RD": 2,
     "CHESTNUT ST / S GARDEN AVE": 1,
-    "1300 BLOCK COURT ST": 1,
+    "1300 BLOCK COURT ST": 2,
     "COURT ST / S MADISON AVE": 1,
     "600 BLOCK N MYRTLE AVE": 1,
     "MCMULLEN BOOTH RD / SUNSET POINT RD": 1,
@@ -574,7 +574,9 @@
     "MCMULLEN BOOTH/ALLEN AVE": 1,
     "SUNSET POINT RD/US HWY 19": 1,
     "600 BLOCK ENGMAN ST": 1,
-    "-200 BLOCK 299 FAIRWOOD AVE": 1
+    "-200 BLOCK 299 FAIRWOOD AVE": 1,
+    "22000 BLOCK US HIGHWAY 19 N": 1,
+    "2000 BLOCK GLASS LOOP": 1
   },
   "hourly_distribution": {
     "0": 22,
@@ -591,8 +593,8 @@
     "11": 56,
     "12": 59,
     "13": 69,
-    "14": 73,
-    "15": 54,
+    "14": 76,
+    "15": 56,
     "16": 54,
     "17": 37,
     "18": 35,
@@ -603,7 +605,7 @@
     "23": 19
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-02T19:58:26.300956+00:00",
+  "last_updated": "2025-12-02T20:27:43.074974+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 278
+  "total_snapshots": 279
 }

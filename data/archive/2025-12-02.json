@@ -2465,6 +2465,72 @@
           "Response_Date": "2025-12-02T14:37:30"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-02T20:27:43.071059+00:00",
+      "call_count": 10,
+      "calls": [
+        {
+          "Master_Incident_Number": "120225-00318",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "WOODBINE ST / CARLOS AVE",
+          "Response_Date": "2025-12-02T13:38:05"
+        },
+        {
+          "Master_Incident_Number": "120225-00323",
+          "Online_Description": "DISABLED VEHICLE",
+          "Address": "600 BLOCK PIERCE ST",
+          "Response_Date": "2025-12-02T13:43:27"
+        },
+        {
+          "Master_Incident_Number": "120225-00340",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "1500 BLOCK GULF BLVD",
+          "Response_Date": "2025-12-02T14:08:34"
+        },
+        {
+          "Master_Incident_Number": "120225-00344",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "N BETTY LN / ENGMAN ST",
+          "Response_Date": "2025-12-02T14:12:12"
+        },
+        {
+          "Master_Incident_Number": "120225-00356",
+          "Online_Description": "CHILD ABUSE",
+          "Address": "22000 BLOCK US HIGHWAY 19 N",
+          "Response_Date": "2025-12-02T14:33:00"
+        },
+        {
+          "Master_Incident_Number": "120225-00355",
+          "Online_Description": "SCHOOL CROSSING",
+          "Address": "-200 BLOCK 299 FAIRWOOD AVE",
+          "Response_Date": "2025-12-02T14:37:30"
+        },
+        {
+          "Master_Incident_Number": "120225-00363",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "S MAIN AVE / RAINBOW DR",
+          "Response_Date": "2025-12-02T14:49:36"
+        },
+        {
+          "Master_Incident_Number": "120225-00365",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "1300 BLOCK COURT ST",
+          "Response_Date": "2025-12-02T14:56:00"
+        },
+        {
+          "Master_Incident_Number": "120225-00372",
+          "Online_Description": "TRESPASS",
+          "Address": "2000 BLOCK GLASS LOOP",
+          "Response_Date": "2025-12-02T15:01:51"
+        },
+        {
+          "Master_Incident_Number": "120225-00373",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "1300 BLOCK CLEVELAND ST",
+          "Response_Date": "2025-12-02T15:03:32"
+        }
+      ]
     }
   ]
 }
