@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 767,
-  "total_resolved": 761,
+  "total_calls_tracked": 769,
+  "total_resolved": 765,
   "call_types": {
-    "DIRECTED PATROL": 267,
+    "DIRECTED PATROL": 269,
     "TRAFFIC STOP": 112,
     "DRUNK DRIVER": 4,
     "DISTURBANCE": 17,
@@ -525,7 +525,9 @@
     "GULF TO BAY BLVD / THORNTON RD": 1,
     "1100 BLOCK WOODLAWN ST": 1,
     "200 BLOCK S STARCREST DR": 1,
-    "3000 BLOCK GULF TO BAY BLVD": 1
+    "3000 BLOCK GULF TO BAY BLVD": 1,
+    "-2000 BLOCK 2198 PALMETTO ST": 1,
+    "US HIGHWAY 19 N / SEVILLE BLVD": 1
   },
   "hourly_distribution": {
     "0": 22,
@@ -534,7 +536,7 @@
     "3": 18,
     "4": 8,
     "5": 24,
-    "6": 27,
+    "6": 29,
     "7": 19,
     "8": 44,
     "9": 50,
@@ -554,7 +556,7 @@
     "23": 19
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-02T11:54:13.824443+00:00",
+  "last_updated": "2025-12-02T12:25:43.115570+00:00",
   "peak_active_calls": 15,
-  "total_snapshots": 256
+  "total_snapshots": 257
 }
