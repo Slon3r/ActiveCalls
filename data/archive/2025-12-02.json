@@ -2999,6 +2999,42 @@
           "Response_Date": "2025-12-02T17:29:17"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-02T23:11:26.109684+00:00",
+      "call_count": 5,
+      "calls": [
+        {
+          "Master_Incident_Number": "120225-00447",
+          "Online_Description": "SUSPICIOUS PERSON",
+          "Address": "NURSERY RD / LAUREL CIR",
+          "Response_Date": "2025-12-02T17:14:25"
+        },
+        {
+          "Master_Incident_Number": "120225-00445",
+          "Online_Description": "ASSIST CITIZEN",
+          "Address": "1700 BLOCK GROVE DR",
+          "Response_Date": "2025-12-02T17:15:56"
+        },
+        {
+          "Master_Incident_Number": "120225-00454",
+          "Online_Description": "ASSIST OTHER AGENCY",
+          "Address": "DREW ST / MCMULLEN BOOTH RD",
+          "Response_Date": "2025-12-02T17:29:17"
+        },
+        {
+          "Master_Incident_Number": "120225-00456",
+          "Online_Description": "TRESPASS",
+          "Address": "700 BLOCK LAKEVIEW RD",
+          "Response_Date": "2025-12-02T17:38:03"
+        },
+        {
+          "Master_Incident_Number": "120225-00459",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "0 BLOCK ISLAND WAY",
+          "Response_Date": "2025-12-02T17:48:22"
+        }
+      ]
     }
   ]
 }

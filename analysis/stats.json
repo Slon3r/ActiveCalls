@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 904,
-  "total_resolved": 900,
+  "total_calls_tracked": 907,
+  "total_resolved": 902,
   "call_types": {
     "DIRECTED PATROL": 322,
-    "TRAFFIC STOP": 127,
+    "TRAFFIC STOP": 128,
     "DRUNK DRIVER": 4,
     "DISTURBANCE": 18,
     "BATTERY": 3,
@@ -12,8 +12,8 @@
     "KEEP THE PEACE": 15,
     "WELFARE CHECK": 20,
     "PARK WALK AND TALK": 71,
-    "SUSPICIOUS PERSON": 41,
-    "TRESPASS": 21,
+    "SUSPICIOUS PERSON": 42,
+    "TRESPASS": 22,
     "PROPERTY FOUND/LOST": 5,
     "THEFT": 11,
     "NEIGHBOR CALL": 6,
@@ -67,7 +67,7 @@
     "1900 BLOCK UNION ST": 2,
     "200 BLOCK DREW ST": 3,
     "-800 BLOCK 819 NARCISSUS AVE": 1,
-    "0 BLOCK ISLAND WAY": 3,
+    "0 BLOCK ISLAND WAY": 4,
     "US HIGHWAY 19 N / SR 580": 3,
     "400 BLOCK S GULFVIEW BLVD": 4,
     "100 BLOCK S MYRTLE AVE": 2,
@@ -587,7 +587,9 @@
     "1800 BLOCK BELLEMEADE DR": 1,
     "-2500 BLOCK 2578 VILLAGE DR": 1,
     "-2800 BLOCK 2899 EAGLE ESTATES CIR N": 1,
-    "1700 BLOCK GROVE DR": 1
+    "1700 BLOCK GROVE DR": 1,
+    "NURSERY RD / LAUREL CIR": 1,
+    "700 BLOCK LAKEVIEW RD": 1
   },
   "hourly_distribution": {
     "0": 22,
@@ -607,7 +609,7 @@
     "14": 76,
     "15": 64,
     "16": 65,
-    "17": 48,
+    "17": 51,
     "18": 35,
     "19": 10,
     "20": 12,
@@ -616,7 +618,7 @@
     "23": 19
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-02T22:54:09.227575+00:00",
+  "last_updated": "2025-12-02T23:11:26.114102+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 290
+  "total_snapshots": 291
 }
