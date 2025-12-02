@@ -13,24 +13,18 @@
       "Response_Date": "2025-12-02T03:05:06"
     },
     {
-      "Master_Incident_Number": "120225-00056",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "N MARTIN LUTHER KING JR AVE / GRANT ST",
-      "Response_Date": "2025-12-02T03:10:21"
+      "Master_Incident_Number": "120225-00069",
+      "Online_Description": "TRAFFIC STOP",
+      "Address": "N MARTIN LUTHER KING JR AVE / SEMINOLE ST",
+      "Response_Date": "2025-12-02T03:38:12"
     },
     {
-      "Master_Incident_Number": "120225-00061",
-      "Online_Description": "DISTURBANCE",
-      "Address": "2900 BLOCK GULF TO BAY BLVD",
-      "Response_Date": "2025-12-02T03:20:31"
-    },
-    {
-      "Master_Incident_Number": "120225-00064",
-      "Online_Description": "PARK WALK AND TALK",
-      "Address": "500 BLOCK N BETTY LN",
-      "Response_Date": "2025-12-02T03:26:32"
+      "Master_Incident_Number": "120225-00070",
+      "Online_Description": "TRAFFIC STOP",
+      "Address": "S KEENE RD / GULF TO BAY BLVD",
+      "Response_Date": "2025-12-02T03:40:19"
     }
   ],
-  "timestamp": "2025-12-02T08:47:38.944649+00:00",
-  "count": 5
+  "timestamp": "2025-12-02T09:02:43.417032+00:00",
+  "count": 4
 }

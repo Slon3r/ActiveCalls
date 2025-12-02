@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 742,
-  "total_resolved": 737,
+  "total_calls_tracked": 744,
+  "total_resolved": 740,
   "call_types": {
     "DIRECTED PATROL": 256,
-    "TRAFFIC STOP": 110,
+    "TRAFFIC STOP": 112,
     "DRUNK DRIVER": 4,
     "DISTURBANCE": 16,
     "BATTERY": 3,
@@ -159,7 +159,7 @@
     "N KEENE RD / SUNSET POINT RD": 1,
     "2900 BLOCK GLEN OAK AVE N": 2,
     "2100 BLOCK SOULE RD": 2,
-    "S KEENE RD / GULF TO BAY BLVD": 3,
+    "S KEENE RD / GULF TO BAY BLVD": 4,
     "FIFTH ST & HAMDEN DR": 1,
     "FIFTH ST / HAMDEN DR": 1,
     "E WORLD PARKWAY BLVD / BELCHER RD": 1,
@@ -514,13 +514,14 @@
     "0 BLOCK 172 N BELCHER RD": 1,
     "-1200 BLOCK 1352 COURT ST": 1,
     "600 BLOCK N BETTY LN": 1,
-    "N MARTIN LUTHER KING JR AVE / GRANT ST": 1
+    "N MARTIN LUTHER KING JR AVE / GRANT ST": 1,
+    "N MARTIN LUTHER KING JR AVE / SEMINOLE ST": 1
   },
   "hourly_distribution": {
     "0": 22,
     "1": 30,
     "2": 16,
-    "3": 15,
+    "3": 17,
     "4": 3,
     "5": 15,
     "6": 20,
@@ -543,7 +544,7 @@
     "23": 19
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-02T08:47:38.946382+00:00",
+  "last_updated": "2025-12-02T09:02:43.418791+00:00",
   "peak_active_calls": 15,
-  "total_snapshots": 245
+  "total_snapshots": 246
 }
