@@ -1254,6 +1254,72 @@
           "Response_Date": "2025-12-02T09:02:39"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-02T14:49:31.566565+00:00",
+      "call_count": 10,
+      "calls": [
+        {
+          "Master_Incident_Number": "120225-00149",
+          "Online_Description": "PARK WALK AND TALK",
+          "Address": "1300 BLOCK PARK ST",
+          "Response_Date": "2025-12-02T08:04:42.627"
+        },
+        {
+          "Master_Incident_Number": "120225-00159",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "1100 BLOCK BECKETT ST",
+          "Response_Date": "2025-12-02T08:22:51"
+        },
+        {
+          "Master_Incident_Number": "120225-00162",
+          "Online_Description": "TRESPASS",
+          "Address": "1600 BLOCK N WASHINGTON AVE",
+          "Response_Date": "2025-12-02T08:30:30"
+        },
+        {
+          "Master_Incident_Number": "120225-00161",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "1000 BLOCK GULF BLVD",
+          "Response_Date": "2025-12-02T08:33:24"
+        },
+        {
+          "Master_Incident_Number": "120225-00175",
+          "Online_Description": "TRAFFIC CRASH",
+          "Address": "S FORT HARRISON AVE / WOODLAWN ST",
+          "Response_Date": "2025-12-02T09:07:27"
+        },
+        {
+          "Master_Incident_Number": "120225-00178",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "LAKEVIEW RD / S WASHINGTON AVE",
+          "Response_Date": "2025-12-02T09:16:13"
+        },
+        {
+          "Master_Incident_Number": "120225-00180",
+          "Online_Description": "ASSIST OTHER AGENCY",
+          "Address": "N KEENE RD / FLAGLER DR",
+          "Response_Date": "2025-12-02T09:17:17"
+        },
+        {
+          "Master_Incident_Number": "120225-00183",
+          "Online_Description": "TRAFFIC CRASH",
+          "Address": "3300 BLOCK COURTNEY CAMPBELL CSWY",
+          "Response_Date": "2025-12-02T09:17:58"
+        },
+        {
+          "Master_Incident_Number": "120225-00184",
+          "Online_Description": "PARK WALK AND TALK",
+          "Address": "US HIGHWAY 19 N / DREW ST",
+          "Response_Date": "2025-12-02T09:19:07"
+        },
+        {
+          "Master_Incident_Number": "120225-00185",
+          "Online_Description": "ASSIST CITIZEN",
+          "Address": "600 BLOCK PIERCE ST",
+          "Response_Date": "2025-12-02T09:19:39"
+        }
+      ]
     }
   ]
 }
