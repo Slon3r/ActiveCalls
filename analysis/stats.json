@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 710,
-  "total_resolved": 701,
+  "total_calls_tracked": 715,
+  "total_resolved": 706,
   "call_types": {
-    "DIRECTED PATROL": 243,
+    "DIRECTED PATROL": 245,
     "TRAFFIC STOP": 109,
     "DRUNK DRIVER": 4,
     "DISTURBANCE": 15,
@@ -12,7 +12,7 @@
     "KEEP THE PEACE": 15,
     "WELFARE CHECK": 16,
     "PARK WALK AND TALK": 55,
-    "SUSPICIOUS PERSON": 28,
+    "SUSPICIOUS PERSON": 29,
     "TRESPASS": 18,
     "PROPERTY FOUND/LOST": 4,
     "THEFT": 7,
@@ -22,9 +22,9 @@
     "PANHANDLER/SOLICITOR": 1,
     "VEHICLE ILLEGALLY PARKED": 3,
     "SUSPICIOUS EVENT": 14,
-    "TRAFFIC CRASH": 29,
+    "TRAFFIC CRASH": 30,
     "DISABLED VEHICLE": 9,
-    "ASSIST CITIZEN": 19,
+    "ASSIST CITIZEN": 20,
     "ASSIST OTHER AGENCY": 6,
     "FIRE": 2,
     "FRAUD": 3,
@@ -90,7 +90,7 @@
     "2100 BLOCK BELCHER RD": 1,
     "SAND KEY PARK ENTRANCE": 2,
     "S MISSOURI AVE / LAKEVIEW RD": 3,
-    "23100 BLOCK US HIGHWAY 19 N": 3,
+    "23100 BLOCK US HIGHWAY 19 N": 4,
     "1200 BLOCK N BETTY LN": 1,
     "MCMULLEN BOOTH RD / SR 590": 1,
     "LAKEVIEW RD / S MISSOURI AVE": 2,
@@ -140,7 +140,7 @@
     "1100 BLOCK COURT ST": 1,
     "-1300 BLOCK BLK ADMIRAL WOODSON LN": 1,
     "19300 BLOCK US HIGHWAY 19 N": 2,
-    "600 BLOCK PIERCE ST": 3,
+    "600 BLOCK PIERCE ST": 4,
     "0 BLOCK 99 THIRD ST": 2,
     "0 BLOCK 98 THIRD ST": 4,
     "100 BLOCK HAMPTON RD": 1,
@@ -186,7 +186,7 @@
     "300 BLOCK S GULFVIEW BLVD": 8,
     "500 BLOCK S HIGHLAND AVE": 1,
     "1700 BLOCK KINGS HWY": 1,
-    "500 BLOCK MANDALAY AVE": 1,
+    "500 BLOCK MANDALAY AVE": 2,
     "3000 BLOCK HAVERFORD DR": 1,
     "DREW ST / OLD COACHMAN RD": 2,
     "2500 BLOCK HARN BLVD": 5,
@@ -499,7 +499,9 @@
     "N BELCHER RD / SUNSET POINT RD": 1,
     "-2800 BLOCK 2898 EAGLE ESTATES CIR N": 1,
     "1400 BLOCK SPRINGDALE ST": 1,
-    "-2000 BLOCK 2098 SUNSET GROVE LN": 1
+    "-2000 BLOCK 2098 SUNSET GROVE LN": 1,
+    "2300 BLOCK DREW ST": 1,
+    "23000 BLOCK US HIGHWAY 19 N": 1
   },
   "hourly_distribution": {
     "0": 20,
@@ -524,11 +526,11 @@
     "19": 10,
     "20": 12,
     "21": 13,
-    "22": 25,
-    "23": 10
+    "22": 27,
+    "23": 13
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-02T04:01:45.349508+00:00",
+  "last_updated": "2025-12-02T04:37:55.106971+00:00",
   "peak_active_calls": 15,
-  "total_snapshots": 231
+  "total_snapshots": 232
 }
