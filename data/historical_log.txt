@@ -3795,3 +3795,15 @@ TOTAL ACTIVE CALLS: 10
 --- RESOLVED CALLS (2) ---
 [RESOLVED] 120225-00166 | DIRECTED PATROL | 300 BLOCK DREW ST | Response: 08:47 AM
 [RESOLVED] 120225-00174 | TRAFFIC STOP | US HIGHWAY 19 N / DREW ST | Response: 09:02 AM
+
+================================================================================
+TIMESTAMP: 2025-12-02T14:59:13.102917+00:00
+TOTAL ACTIVE CALLS: 9
+================================================================================
+
+--- NEW CALLS (1) ---
+[NEW] 120225-00191 | DIRECTED PATROL | 1500 BLOCK GULF BLVD | Response: 09:30 AM
+
+--- RESOLVED CALLS (2) ---
+[RESOLVED] 120225-00178 | DIRECTED PATROL | LAKEVIEW RD / S WASHINGTON AVE | Response: 09:16 AM
+[RESOLVED] 120225-00180 | ASSIST OTHER AGENCY | N KEENE RD / FLAGLER DR | Response: 09:17 AM

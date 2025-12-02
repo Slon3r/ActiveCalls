@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 792,
-  "total_resolved": 782,
+  "total_calls_tracked": 793,
+  "total_resolved": 784,
   "call_types": {
-    "DIRECTED PATROL": 276,
+    "DIRECTED PATROL": 277,
     "TRAFFIC STOP": 114,
     "DRUNK DRIVER": 4,
     "DISTURBANCE": 17,
@@ -214,7 +214,7 @@
     "N HERCULES AVE / CALUMET ST": 1,
     "3100 BLOCK WOLFE RD": 1,
     "500 BLOCK PARK ST": 1,
-    "1500 BLOCK GULF BLVD": 1,
+    "1500 BLOCK GULF BLVD": 2,
     "1300 BLOCK S FORT HARRISON AVE": 1,
     "HOLT AVE / RUSSELL ST": 1,
     "S GULFVIEW BLVD / SECOND ST": 1,
@@ -549,7 +549,7 @@
     "6": 29,
     "7": 25,
     "8": 54,
-    "9": 57,
+    "9": 58,
     "10": 50,
     "11": 42,
     "12": 47,
@@ -566,7 +566,7 @@
     "23": 19
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-02T14:49:31.569003+00:00",
+  "last_updated": "2025-12-02T14:59:13.105522+00:00",
   "peak_active_calls": 15,
-  "total_snapshots": 262
+  "total_snapshots": 263
 }
