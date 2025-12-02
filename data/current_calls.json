@@ -31,12 +31,6 @@
       "Response_Date": "2025-12-02T17:59:56"
     },
     {
-      "Master_Incident_Number": "120225-00473",
-      "Online_Description": "SUSPICIOUS PERSON",
-      "Address": "1400 BLOCK S MARTIN LUTHER KING JR AVE",
-      "Response_Date": "2025-12-02T18:07:08"
-    },
-    {
       "Master_Incident_Number": "120225-00475",
       "Online_Description": "DIRECTED PATROL",
       "Address": "2000 BLOCK GULF TO BAY BLVD",
@@ -55,12 +49,24 @@
       "Response_Date": "2025-12-02T18:22:48"
     },
     {
-      "Master_Incident_Number": "120225-00490",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "-2600 BLOCK 2698 CLUBHOUSE DR N",
-      "Response_Date": "2025-12-02T18:26:26"
+      "Master_Incident_Number": "120225-00491",
+      "Online_Description": "SHOPLIFTING",
+      "Address": "2700 BLOCK GULF TO BAY BLVD",
+      "Response_Date": "2025-12-02T18:27:17"
+    },
+    {
+      "Master_Incident_Number": "120225-00492",
+      "Online_Description": "TRAFFIC CRASH",
+      "Address": "GULF TO BAY BLVD / MCMULLEN BOOTH RD S",
+      "Response_Date": "2025-12-02T18:28:47"
+    },
+    {
+      "Master_Incident_Number": "120225-00497",
+      "Online_Description": "TRAFFIC STOP",
+      "Address": "0 BLOCK MEMORIAL CSWY",
+      "Response_Date": "2025-12-02T18:35:25"
     }
   ],
-  "timestamp": "2025-12-02T23:49:19.000338+00:00",
-  "count": 10
+  "timestamp": "2025-12-02T23:57:36.974356+00:00",
+  "count": 11
 }
