@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 736,
-  "total_resolved": 731,
+  "total_calls_tracked": 737,
+  "total_resolved": 733,
   "call_types": {
-    "DIRECTED PATROL": 253,
+    "DIRECTED PATROL": 254,
     "TRAFFIC STOP": 110,
     "DRUNK DRIVER": 4,
     "DISTURBANCE": 15,
@@ -510,12 +510,13 @@
     "1400 BLOCK N MARTIN LUTHER KING JR AVE": 1,
     "600 BLOCK BLANCHE B LITTLEJOHN TRL": 1,
     "-600 BLOCK 799 JONES ST": 1,
-    "N MYRTLE AVE / MARGO AVE": 1
+    "N MYRTLE AVE / MARGO AVE": 1,
+    "0 BLOCK 172 N BELCHER RD": 1
   },
   "hourly_distribution": {
     "0": 22,
     "1": 30,
-    "2": 14,
+    "2": 15,
     "3": 11,
     "4": 3,
     "5": 15,
@@ -539,7 +540,7 @@
     "23": 19
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-02T07:53:43.655295+00:00",
+  "last_updated": "2025-12-02T08:17:21.705747+00:00",
   "peak_active_calls": 15,
-  "total_snapshots": 243
+  "total_snapshots": 244
 }

@@ -3521,3 +3521,15 @@ TOTAL ACTIVE CALLS: 5
 
 --- RESOLVED CALLS (1) ---
 [RESOLVED] 120125-00617 | DOMESTIC | 1900 BLOCK RADCLIFFE DR N | Response: 11:48 PM
+
+================================================================================
+TIMESTAMP: 2025-12-02T08:17:21.703991+00:00
+TOTAL ACTIVE CALLS: 4
+================================================================================
+
+--- NEW CALLS (1) ---
+[NEW] 120225-00048 | DIRECTED PATROL | 0 BLOCK 172 N BELCHER RD | Response: 02:36 AM
+
+--- RESOLVED CALLS (2) ---
+[RESOLVED] 120225-00044 | DIRECTED PATROL | -600 BLOCK 799 JONES ST | Response: 02:08 AM
+[RESOLVED] 120225-00045 | DIRECTED PATROL | N MYRTLE AVE / MARGO AVE | Response: 02:09 AM

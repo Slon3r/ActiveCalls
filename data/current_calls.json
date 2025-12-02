@@ -19,18 +19,12 @@
       "Response_Date": "2025-12-02T01:56:21"
     },
     {
-      "Master_Incident_Number": "120225-00044",
+      "Master_Incident_Number": "120225-00048",
       "Online_Description": "DIRECTED PATROL",
-      "Address": "-600 BLOCK 799 JONES ST",
-      "Response_Date": "2025-12-02T02:08:51"
-    },
-    {
-      "Master_Incident_Number": "120225-00045",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "N MYRTLE AVE / MARGO AVE",
-      "Response_Date": "2025-12-02T02:09:49"
+      "Address": "0 BLOCK 172 N BELCHER RD",
+      "Response_Date": "2025-12-02T02:36:03"
     }
   ],
-  "timestamp": "2025-12-02T07:53:43.653591+00:00",
-  "count": 5
+  "timestamp": "2025-12-02T08:17:21.703991+00:00",
+  "count": 4
 }
