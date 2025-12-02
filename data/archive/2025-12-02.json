@@ -1,0 +1,59 @@
+{
+  "date": "2025-12-02",
+  "snapshots": [
+    {
+      "timestamp": "2025-12-02T01:59:38.038852+00:00",
+      "call_count": 8,
+      "calls": [
+        {
+          "Master_Incident_Number": "120125-00467",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "1200 BLOCK COURT ST",
+          "Response_Date": "2025-12-01T19:26:47"
+        },
+        {
+          "Master_Incident_Number": "120125-00495",
+          "Online_Description": "SUSPICIOUS PERSON",
+          "Address": "1500 BLOCK SADLON AVE",
+          "Response_Date": "2025-12-01T19:54:45"
+        },
+        {
+          "Master_Incident_Number": "120125-00498",
+          "Online_Description": "FIGHT",
+          "Address": "1300 BLOCK BOYLAN AVE",
+          "Response_Date": "2025-12-01T20:02:39"
+        },
+        {
+          "Master_Incident_Number": "120125-00499",
+          "Online_Description": "CHILD PROTECTION INVESTIGATION",
+          "Address": "1800 BLOCK ASBURY DR",
+          "Response_Date": "2025-12-01T20:15:02"
+        },
+        {
+          "Master_Incident_Number": "120125-00502",
+          "Online_Description": "ASSIST CITIZEN",
+          "Address": "600 BLOCK PIERCE ST",
+          "Response_Date": "2025-12-01T20:17:55"
+        },
+        {
+          "Master_Incident_Number": "120125-00501",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "600 BLOCK MANDALAY AVE",
+          "Response_Date": "2025-12-01T20:19:50"
+        },
+        {
+          "Master_Incident_Number": "120125-00503",
+          "Online_Description": "MISSING PERSON",
+          "Address": "2000 BLOCK N HIGHLAND AVE",
+          "Response_Date": "2025-12-01T20:25:16"
+        },
+        {
+          "Master_Incident_Number": "120125-00508",
+          "Online_Description": "PARK WALK AND TALK",
+          "Address": "0 BLOCK BAY ESPLANADE",
+          "Response_Date": "2025-12-01T20:38:00"
+        }
+      ]
+    }
+  ]
+}
