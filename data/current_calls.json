@@ -13,36 +13,30 @@
       "Response_Date": "2025-12-02T09:24:42"
     },
     {
-      "Master_Incident_Number": "120225-00205",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "0 BLOCK 299 S GLENWOOD AVE",
-      "Response_Date": "2025-12-02T10:03:39"
-    },
-    {
-      "Master_Incident_Number": "120225-00218",
-      "Online_Description": "TRAFFIC STOP",
-      "Address": "US HIGHWAY 19 N / SUNSET POINT RD",
-      "Response_Date": "2025-12-02T10:28:32"
-    },
-    {
       "Master_Incident_Number": "120225-00220",
       "Online_Description": "THEFT",
       "Address": "1200 BLOCK S MISSOURI AVE",
       "Response_Date": "2025-12-02T10:32:15"
     },
     {
-      "Master_Incident_Number": "120225-00221",
-      "Online_Description": "TRAFFIC STOP",
-      "Address": "CHARLES AVE / SR 580",
-      "Response_Date": "2025-12-02T10:36:21"
+      "Master_Incident_Number": "120225-00232",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "1000 BLOCK GULF BLVD",
+      "Response_Date": "2025-12-02T10:55:36"
     },
     {
-      "Master_Incident_Number": "120225-00222",
+      "Master_Incident_Number": "120225-00238",
       "Online_Description": "TRAFFIC STOP",
-      "Address": "S HILLCREST AVE / CLEVELAND ST",
-      "Response_Date": "2025-12-02T10:36:56"
+      "Address": "MCMULLEN BOOTH RD / BORDEAUX LN",
+      "Response_Date": "2025-12-02T11:06:35"
+    },
+    {
+      "Master_Incident_Number": "120225-00239",
+      "Online_Description": "TRAFFIC STOP",
+      "Address": "CLEVELAND ST / GULF TO BAY BLVD",
+      "Response_Date": "2025-12-02T11:11:11"
     }
   ],
-  "timestamp": "2025-12-02T15:58:35.032590+00:00",
-  "count": 7
+  "timestamp": "2025-12-02T16:32:41.968128+00:00",
+  "count": 6
 }

@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 807,
-  "total_resolved": 800,
+  "total_calls_tracked": 810,
+  "total_resolved": 804,
   "call_types": {
-    "DIRECTED PATROL": 281,
-    "TRAFFIC STOP": 119,
+    "DIRECTED PATROL": 282,
+    "TRAFFIC STOP": 121,
     "DRUNK DRIVER": 4,
     "DISTURBANCE": 17,
     "BATTERY": 3,
@@ -81,7 +81,7 @@
     "FLUSHING AVE / HARN BLVD": 1,
     "S BELCHER RD / BARCELONA DR": 1,
     "-1400 BLOCK 1417 S MISSOURI AVE": 1,
-    "1000 BLOCK GULF BLVD": 9,
+    "1000 BLOCK GULF BLVD": 10,
     "1400 BLOCK LAURA ST": 1,
     "ENTERPRISE RD E / VILLAGE DR": 1,
     "GULF TO BAY BLVD / HAMPTON RD": 1,
@@ -384,7 +384,7 @@
     "S MYRTLE AVE / LAKEVIEW RD": 1,
     "S SAN REMO AVE/ GULF TO BAY BLVD": 1,
     "1300 BLOCK S HIGHLAND AVE": 2,
-    "CLEVELAND ST / GULF TO BAY BLVD": 2,
+    "CLEVELAND ST / GULF TO BAY BLVD": 3,
     "1400 BLOCK GULF TO BAY BLVD": 1,
     "2200 BLOCK BELLEAIR RD": 1,
     "1300 BLOCK PARK ST": 4,
@@ -544,7 +544,8 @@
     "2800 BLOCK CURLEW RD": 1,
     "0 BLOCK 299 S GLENWOOD AVE": 1,
     "US HIGHWAY 19 N / SUNSET POINT RD": 1,
-    "S HILLCREST AVE / CLEVELAND ST": 1
+    "S HILLCREST AVE / CLEVELAND ST": 1,
+    "MCMULLEN BOOTH RD / BORDEAUX LN": 1
   },
   "hourly_distribution": {
     "0": 22,
@@ -557,8 +558,8 @@
     "7": 25,
     "8": 54,
     "9": 61,
-    "10": 61,
-    "11": 42,
+    "10": 62,
+    "11": 44,
     "12": 47,
     "13": 52,
     "14": 57,
@@ -573,7 +574,7 @@
     "23": 19
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-02T15:58:35.035459+00:00",
+  "last_updated": "2025-12-02T16:32:41.970910+00:00",
   "peak_active_calls": 15,
-  "total_snapshots": 266
+  "total_snapshots": 267
 }

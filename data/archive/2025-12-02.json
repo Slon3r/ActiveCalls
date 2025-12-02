@@ -1566,6 +1566,48 @@
           "Response_Date": "2025-12-02T10:36:56"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-02T16:32:41.968128+00:00",
+      "call_count": 6,
+      "calls": [
+        {
+          "Master_Incident_Number": "120225-00159",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "1100 BLOCK BECKETT ST",
+          "Response_Date": "2025-12-02T08:22:51"
+        },
+        {
+          "Master_Incident_Number": "120225-00189",
+          "Online_Description": "CHILD PROTECTION INVESTIGATION",
+          "Address": "1400 BLOCK FAIRMONT ST",
+          "Response_Date": "2025-12-02T09:24:42"
+        },
+        {
+          "Master_Incident_Number": "120225-00220",
+          "Online_Description": "THEFT",
+          "Address": "1200 BLOCK S MISSOURI AVE",
+          "Response_Date": "2025-12-02T10:32:15"
+        },
+        {
+          "Master_Incident_Number": "120225-00232",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "1000 BLOCK GULF BLVD",
+          "Response_Date": "2025-12-02T10:55:36"
+        },
+        {
+          "Master_Incident_Number": "120225-00238",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "MCMULLEN BOOTH RD / BORDEAUX LN",
+          "Response_Date": "2025-12-02T11:06:35"
+        },
+        {
+          "Master_Incident_Number": "120225-00239",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "CLEVELAND ST / GULF TO BAY BLVD",
+          "Response_Date": "2025-12-02T11:11:11"
+        }
+      ]
     }
   ]
 }
