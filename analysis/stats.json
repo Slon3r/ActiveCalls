@@ -1,17 +1,17 @@
 {
-  "total_calls_tracked": 737,
-  "total_resolved": 733,
+  "total_calls_tracked": 742,
+  "total_resolved": 737,
   "call_types": {
-    "DIRECTED PATROL": 254,
+    "DIRECTED PATROL": 256,
     "TRAFFIC STOP": 110,
     "DRUNK DRIVER": 4,
-    "DISTURBANCE": 15,
+    "DISTURBANCE": 16,
     "BATTERY": 3,
     "CRIMINAL MISCHIEF": 2,
     "ALARM": 11,
     "KEEP THE PEACE": 15,
     "WELFARE CHECK": 16,
-    "PARK WALK AND TALK": 59,
+    "PARK WALK AND TALK": 61,
     "SUSPICIOUS PERSON": 29,
     "TRESPASS": 18,
     "PROPERTY FOUND/LOST": 4,
@@ -311,7 +311,7 @@
     "900 BLOCK N MCMULLEN BOOTH RD": 1,
     "GULF TO BAY BLVD / S GLENWOOD AVE": 1,
     "300 BLOCK ISLAND WAY": 1,
-    "2900 BLOCK GULF TO BAY BLVD": 2,
+    "2900 BLOCK GULF TO BAY BLVD": 3,
     "MONTCLAIR RD / N HERCULES AVE": 1,
     "1000 BLOCK S MISSOURI AVE": 1,
     "1400 BLOCK S BELCHER RD": 2,
@@ -356,7 +356,7 @@
     "500 BLOCK MOSS AVE": 1,
     "-1000 BLOCK 1170 GULF BLVD": 1,
     "27000 BLOCK US 19": 1,
-    "500 BLOCK N BETTY LN": 1,
+    "500 BLOCK N BETTY LN": 2,
     "600 BLOCK ELDRIDGE ST": 1,
     "2100 BLOCK MONTCLAIR RD": 1,
     "700 BLOCK S KEENE RD": 2,
@@ -511,13 +511,16 @@
     "600 BLOCK BLANCHE B LITTLEJOHN TRL": 1,
     "-600 BLOCK 799 JONES ST": 1,
     "N MYRTLE AVE / MARGO AVE": 1,
-    "0 BLOCK 172 N BELCHER RD": 1
+    "0 BLOCK 172 N BELCHER RD": 1,
+    "-1200 BLOCK 1352 COURT ST": 1,
+    "600 BLOCK N BETTY LN": 1,
+    "N MARTIN LUTHER KING JR AVE / GRANT ST": 1
   },
   "hourly_distribution": {
     "0": 22,
     "1": 30,
-    "2": 15,
-    "3": 11,
+    "2": 16,
+    "3": 15,
     "4": 3,
     "5": 15,
     "6": 20,
@@ -540,7 +543,7 @@
     "23": 19
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-02T08:17:21.705747+00:00",
+  "last_updated": "2025-12-02T08:47:38.946382+00:00",
   "peak_active_calls": 15,
-  "total_snapshots": 244
+  "total_snapshots": 245
 }
