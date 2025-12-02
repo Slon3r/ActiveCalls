@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 769,
-  "total_resolved": 765,
+  "total_calls_tracked": 773,
+  "total_resolved": 769,
   "call_types": {
-    "DIRECTED PATROL": 269,
+    "DIRECTED PATROL": 271,
     "TRAFFIC STOP": 112,
     "DRUNK DRIVER": 4,
     "DISTURBANCE": 17,
@@ -11,7 +11,7 @@
     "ALARM": 12,
     "KEEP THE PEACE": 15,
     "WELFARE CHECK": 17,
-    "PARK WALK AND TALK": 63,
+    "PARK WALK AND TALK": 65,
     "SUSPICIOUS PERSON": 30,
     "TRESPASS": 20,
     "PROPERTY FOUND/LOST": 4,
@@ -95,7 +95,7 @@
     "MCMULLEN BOOTH RD / SR 590": 1,
     "LAKEVIEW RD / S MISSOURI AVE": 2,
     "2400 BLOCK MELLOW LN": 1,
-    "1200 BLOCK GULF BLVD": 2,
+    "1200 BLOCK GULF BLVD": 3,
     "1900 BLOCK N BELCHER RD": 1,
     "20100 BLOCK US HIGHWAY 19 N": 1,
     "CLEVELAND ST / N MAIN AVE": 1,
@@ -199,7 +199,7 @@
     "2800 BLOCK DREW ST": 2,
     "US HIGHWAY 19 N / GULF TO BAY BLVD": 1,
     "300 BLOCK CORONADO DR": 7,
-    "23600 BLOCK US HIGHWAY 19 N": 2,
+    "23600 BLOCK US HIGHWAY 19 N": 3,
     "300 BLOCK MANDALAY AVE": 1,
     "JONES ST / FERN AVE": 1,
     "1600 BLOCK GULF TO BAY BLVD": 3,
@@ -276,7 +276,7 @@
     "COURT ST / S MISSOURI AVE": 3,
     "-500 BLOCK 1068 GULF BLVD": 1,
     "26300 BLOCK US HIGHWAY 19 N": 2,
-    "DREW ST / BAYVIEW AVE": 1,
+    "DREW ST / BAYVIEW AVE": 2,
     "2800 BLOCK APPLEWOOD DRIVE": 1,
     "1500 BLOCK EXCALIBER DR": 1,
     "300 BLOCK PINELLAS ST": 2,
@@ -527,7 +527,8 @@
     "200 BLOCK S STARCREST DR": 1,
     "3000 BLOCK GULF TO BAY BLVD": 1,
     "-2000 BLOCK 2198 PALMETTO ST": 1,
-    "US HIGHWAY 19 N / SEVILLE BLVD": 1
+    "US HIGHWAY 19 N / SEVILLE BLVD": 1,
+    "WOODBINE ST / ROLLEN RD": 1
   },
   "hourly_distribution": {
     "0": 22,
@@ -537,7 +538,7 @@
     "4": 8,
     "5": 24,
     "6": 29,
-    "7": 19,
+    "7": 23,
     "8": 44,
     "9": 50,
     "10": 50,
@@ -556,7 +557,7 @@
     "23": 19
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-02T12:25:43.115570+00:00",
+  "last_updated": "2025-12-02T13:10:04.706591+00:00",
   "peak_active_calls": 15,
-  "total_snapshots": 257
+  "total_snapshots": 258
 }
