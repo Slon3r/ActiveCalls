@@ -1,6 +1,6 @@
 {
-  "total_calls_tracked": 888,
-  "total_resolved": 882,
+  "total_calls_tracked": 889,
+  "total_resolved": 884,
   "call_types": {
     "DIRECTED PATROL": 317,
     "TRAFFIC STOP": 127,
@@ -10,7 +10,7 @@
     "CRIMINAL MISCHIEF": 2,
     "ALARM": 15,
     "KEEP THE PEACE": 15,
-    "WELFARE CHECK": 19,
+    "WELFARE CHECK": 20,
     "PARK WALK AND TALK": 69,
     "SUSPICIOUS PERSON": 40,
     "TRESPASS": 21,
@@ -110,7 +110,7 @@
     "2300 BLOCK GULF TO BAY BLVD": 2,
     "1200 BLOCK CLEVELAND ST": 5,
     "-500 BLOCK 549 MANDALAY AVE": 1,
-    "27000 BLOCK US HIGHWAY 19 N": 8,
+    "27000 BLOCK US HIGHWAY 19 N": 9,
     "DRIVEWAY PARKING": 2,
     "1100 BLOCK GULF BLVD": 4,
     "2500 BLOCK GULF TO BAY BLVD": 6,
@@ -600,7 +600,7 @@
     "13": 69,
     "14": 76,
     "15": 64,
-    "16": 60,
+    "16": 61,
     "17": 37,
     "18": 35,
     "19": 10,
@@ -610,7 +610,7 @@
     "23": 19
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-02T21:49:55.935659+00:00",
+  "last_updated": "2025-12-02T21:57:54.742810+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 285
+  "total_snapshots": 286
 }
