@@ -510,6 +510,48 @@
           "Response_Date": "2025-12-02T01:47:46"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-02T07:34:08.993661+00:00",
+      "call_count": 6,
+      "calls": [
+        {
+          "Master_Incident_Number": "120125-00617",
+          "Online_Description": "DOMESTIC",
+          "Address": "1900 BLOCK RADCLIFFE DR N",
+          "Response_Date": "2025-12-01T23:48:08"
+        },
+        {
+          "Master_Incident_Number": "120225-00033",
+          "Online_Description": "PARK WALK AND TALK",
+          "Address": "1400 BLOCK N MARTIN LUTHER KING JR AVE",
+          "Response_Date": "2025-12-02T01:38:16"
+        },
+        {
+          "Master_Incident_Number": "120225-00038",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "600 BLOCK BLANCHE B LITTLEJOHN TRL",
+          "Response_Date": "2025-12-02T01:45:43"
+        },
+        {
+          "Master_Incident_Number": "120225-00040",
+          "Online_Description": "PARK WALK AND TALK",
+          "Address": "-1200 BLOCK 1353 COURT ST",
+          "Response_Date": "2025-12-02T01:56:21"
+        },
+        {
+          "Master_Incident_Number": "120225-00044",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "-600 BLOCK 799 JONES ST",
+          "Response_Date": "2025-12-02T02:08:51"
+        },
+        {
+          "Master_Incident_Number": "120225-00045",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "N MYRTLE AVE / MARGO AVE",
+          "Response_Date": "2025-12-02T02:09:49"
+        }
+      ]
     }
   ]
 }

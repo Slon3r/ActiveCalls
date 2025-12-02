@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 733,
-  "total_resolved": 727,
+  "total_calls_tracked": 736,
+  "total_resolved": 730,
   "call_types": {
-    "DIRECTED PATROL": 251,
+    "DIRECTED PATROL": 253,
     "TRAFFIC STOP": 110,
     "DRUNK DRIVER": 4,
     "DISTURBANCE": 15,
@@ -11,7 +11,7 @@
     "ALARM": 11,
     "KEEP THE PEACE": 15,
     "WELFARE CHECK": 16,
-    "PARK WALK AND TALK": 58,
+    "PARK WALK AND TALK": 59,
     "SUSPICIOUS PERSON": 29,
     "TRESPASS": 18,
     "PROPERTY FOUND/LOST": 4,
@@ -258,7 +258,7 @@
     "3100 BLOCK GULF TO BAY BLVD": 2,
     "1800 BLOCK N HIGHLAND AVE": 7,
     "BELLEAIR BLVD / US HIGHWAY 19 N": 1,
-    "-1200 BLOCK 1353 COURT ST": 2,
+    "-1200 BLOCK 1353 COURT ST": 3,
     "-500 BLOCK 642 BAY ESPLANADE": 1,
     "-800 BLOCK 818 BAY ESPLANADE": 1,
     "200 BLOCK N MARS AVE": 2,
@@ -508,12 +508,14 @@
     "1000 BLOCK ELDORADO AVE": 1,
     "-3300 BLOCK 3348 HYDE PARK DR": 1,
     "1400 BLOCK N MARTIN LUTHER KING JR AVE": 1,
-    "600 BLOCK BLANCHE B LITTLEJOHN TRL": 1
+    "600 BLOCK BLANCHE B LITTLEJOHN TRL": 1,
+    "-600 BLOCK 799 JONES ST": 1,
+    "N MYRTLE AVE / MARGO AVE": 1
   },
   "hourly_distribution": {
     "0": 22,
-    "1": 29,
-    "2": 12,
+    "1": 30,
+    "2": 14,
     "3": 11,
     "4": 3,
     "5": 15,
@@ -537,7 +539,7 @@
     "23": 19
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-02T07:13:26.430170+00:00",
+  "last_updated": "2025-12-02T07:34:08.995319+00:00",
   "peak_active_calls": 15,
-  "total_snapshots": 240
+  "total_snapshots": 241
 }
