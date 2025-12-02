@@ -1,6 +1,6 @@
 {
-  "total_calls_tracked": 720,
-  "total_resolved": 715,
+  "total_calls_tracked": 721,
+  "total_resolved": 717,
   "call_types": {
     "DIRECTED PATROL": 246,
     "TRAFFIC STOP": 110,
@@ -42,7 +42,7 @@
     "DECEASED PERSON": 1,
     "BURGLARY": 3,
     "SHOTS FIRED": 1,
-    "HIT & RUN": 4,
+    "HIT & RUN": 5,
     "SCHOOL CROSSING": 1,
     "ORDINANCE VIOLATION": 1,
     "ABANDONED VEHICLE": 1,
@@ -409,7 +409,7 @@
     "-100 BLOCK 299 S MAIN AVE": 1,
     "CHARLES AVE / SR 580": 1,
     "1600 BLOCK N WASHINGTON AVE": 1,
-    "US HIGHWAY 19 N / NURSERY RD": 2,
+    "US HIGHWAY 19 N / NURSERY RD": 3,
     "18900 BLOCK US HIGHWAY 19 N": 1,
     "400 BLOCK BAY AVE": 1,
     "GULF TO BAY BLVD / US HIGHWAY 19 N": 2,
@@ -528,10 +528,10 @@
     "20": 12,
     "21": 13,
     "22": 27,
-    "23": 18
+    "23": 19
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-02T05:13:31.713803+00:00",
+  "last_updated": "2025-12-02T05:35:19.569868+00:00",
   "peak_active_calls": 15,
-  "total_snapshots": 234
+  "total_snapshots": 235
 }
