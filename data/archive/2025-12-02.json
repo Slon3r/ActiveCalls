@@ -2777,6 +2777,48 @@
           "Response_Date": "2025-12-02T16:20:54"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-02T21:49:55.931695+00:00",
+      "call_count": 6,
+      "calls": [
+        {
+          "Master_Incident_Number": "120225-00381",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "1200 BLOCK COURT ST",
+          "Response_Date": "2025-12-02T15:22:38"
+        },
+        {
+          "Master_Incident_Number": "120225-00389",
+          "Online_Description": "JUVENILE CASE",
+          "Address": "500 BLOCK WOODLAWN ST",
+          "Response_Date": "2025-12-02T15:35:41"
+        },
+        {
+          "Master_Incident_Number": "120225-00397",
+          "Online_Description": "PANHANDLER/SOLICITOR",
+          "Address": "400 BLOCK MANDALAY AVE",
+          "Response_Date": "2025-12-02T15:48:12"
+        },
+        {
+          "Master_Incident_Number": "120225-00413",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "CLEVELAND ST / N BELCHER RD",
+          "Response_Date": "2025-12-02T16:22:19"
+        },
+        {
+          "Master_Incident_Number": "120225-00414",
+          "Online_Description": "ALARM",
+          "Address": "600 BLOCK S FORT HARRISON AVE",
+          "Response_Date": "2025-12-02T16:23:10"
+        },
+        {
+          "Master_Incident_Number": "120225-00418",
+          "Online_Description": "SUSPICIOUS PERSON",
+          "Address": "US HIGHWAY 19 N / SR 590",
+          "Response_Date": "2025-12-02T16:26:10"
+        }
+      ]
     }
   ]
 }

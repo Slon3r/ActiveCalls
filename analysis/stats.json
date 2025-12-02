@@ -1,18 +1,18 @@
 {
-  "total_calls_tracked": 885,
-  "total_resolved": 877,
+  "total_calls_tracked": 888,
+  "total_resolved": 882,
   "call_types": {
-    "DIRECTED PATROL": 316,
+    "DIRECTED PATROL": 317,
     "TRAFFIC STOP": 127,
     "DRUNK DRIVER": 4,
     "DISTURBANCE": 18,
     "BATTERY": 3,
     "CRIMINAL MISCHIEF": 2,
-    "ALARM": 14,
+    "ALARM": 15,
     "KEEP THE PEACE": 15,
     "WELFARE CHECK": 19,
     "PARK WALK AND TALK": 69,
-    "SUSPICIOUS PERSON": 39,
+    "SUSPICIOUS PERSON": 40,
     "TRESPASS": 21,
     "PROPERTY FOUND/LOST": 5,
     "THEFT": 11,
@@ -59,7 +59,7 @@
     "600 BLOCK S GULFVIEW BLVD": 4,
     "-800 BLOCK 1099 MARSHALL ST": 1,
     "US HIGHWAY 19 N / DREW ST": 11,
-    "US HIGHWAY 19 N / SR 590": 1,
+    "US HIGHWAY 19 N / SR 590": 2,
     "1100 BLOCK DRUID RD": 2,
     "2100 BLOCK RANGE RD": 1,
     "0 BLOCK ACACIA ST": 4,
@@ -391,7 +391,7 @@
     "DREW ST / US HIGHWAY 19 N": 1,
     "1300 BLOCK N MARTIN LUTHER KING JR AVE": 4,
     "N BELCHER RD / OLD COACHMAN RD": 1,
-    "600 BLOCK S FORT HARRISON AVE": 2,
+    "600 BLOCK S FORT HARRISON AVE": 3,
     "MONTCLAIR RD / N BELCHER RD": 1,
     "MCMULLEN BOOTH RD / RUTH ECKERD HALL DR": 1,
     "GULF TO BAY BLVD / MCMULLEN BOOTH RD S": 1,
@@ -580,7 +580,8 @@
     "500 BLOCK WOODLAWN ST": 1,
     "900 BLOCK SEMINOLE ST": 1,
     "BOYLAN AVE / BELLEVUE BLVD": 1,
-    "SR 590 / US HIGHWAY 19 N": 1
+    "SR 590 / US HIGHWAY 19 N": 1,
+    "CLEVELAND ST / N BELCHER RD": 1
   },
   "hourly_distribution": {
     "0": 22,
@@ -599,7 +600,7 @@
     "13": 69,
     "14": 76,
     "15": 64,
-    "16": 57,
+    "16": 60,
     "17": 37,
     "18": 35,
     "19": 10,
@@ -609,7 +610,7 @@
     "23": 19
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-02T21:41:36.912554+00:00",
+  "last_updated": "2025-12-02T21:49:55.935659+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 284
+  "total_snapshots": 285
 }
