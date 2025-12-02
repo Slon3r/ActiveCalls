@@ -7,18 +7,6 @@
       "Response_Date": "2025-12-02T08:22:51"
     },
     {
-      "Master_Incident_Number": "120225-00161",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "1000 BLOCK GULF BLVD",
-      "Response_Date": "2025-12-02T08:33:24"
-    },
-    {
-      "Master_Incident_Number": "120225-00183",
-      "Online_Description": "TRAFFIC CRASH",
-      "Address": "3300 BLOCK COURTNEY CAMPBELL CSWY",
-      "Response_Date": "2025-12-02T09:17:58"
-    },
-    {
       "Master_Incident_Number": "120225-00189",
       "Online_Description": "CHILD PROTECTION INVESTIGATION",
       "Address": "1400 BLOCK FAIRMONT ST",
@@ -31,18 +19,30 @@
       "Response_Date": "2025-12-02T10:03:39"
     },
     {
-      "Master_Incident_Number": "120225-00210",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "200 BLOCK SEMINOLE ST",
-      "Response_Date": "2025-12-02T10:10:28"
+      "Master_Incident_Number": "120225-00218",
+      "Online_Description": "TRAFFIC STOP",
+      "Address": "US HIGHWAY 19 N / SUNSET POINT RD",
+      "Response_Date": "2025-12-02T10:28:32"
     },
     {
-      "Master_Incident_Number": "120225-00215",
-      "Online_Description": "SUSPICIOUS PERSON",
-      "Address": "US HIGHWAY 19 N / DREW ST",
-      "Response_Date": "2025-12-02T10:16:14"
+      "Master_Incident_Number": "120225-00220",
+      "Online_Description": "THEFT",
+      "Address": "1200 BLOCK S MISSOURI AVE",
+      "Response_Date": "2025-12-02T10:32:15"
+    },
+    {
+      "Master_Incident_Number": "120225-00221",
+      "Online_Description": "TRAFFIC STOP",
+      "Address": "CHARLES AVE / SR 580",
+      "Response_Date": "2025-12-02T10:36:21"
+    },
+    {
+      "Master_Incident_Number": "120225-00222",
+      "Online_Description": "TRAFFIC STOP",
+      "Address": "S HILLCREST AVE / CLEVELAND ST",
+      "Response_Date": "2025-12-02T10:36:56"
     }
   ],
-  "timestamp": "2025-12-02T15:47:41.485321+00:00",
+  "timestamp": "2025-12-02T15:58:35.032590+00:00",
   "count": 7
 }

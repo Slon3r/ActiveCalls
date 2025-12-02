@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 803,
-  "total_resolved": 796,
+  "total_calls_tracked": 807,
+  "total_resolved": 800,
   "call_types": {
     "DIRECTED PATROL": 281,
-    "TRAFFIC STOP": 116,
+    "TRAFFIC STOP": 119,
     "DRUNK DRIVER": 4,
     "DISTURBANCE": 17,
     "BATTERY": 3,
@@ -15,7 +15,7 @@
     "SUSPICIOUS PERSON": 33,
     "TRESPASS": 20,
     "PROPERTY FOUND/LOST": 4,
-    "THEFT": 9,
+    "THEFT": 10,
     "NEIGHBOR CALL": 6,
     "911 HANG-UP": 28,
     "SUSPICIOUS VEHICLE": 7,
@@ -134,7 +134,7 @@
     "COUNTRYSIDE BLVD / ENDICOTT CT": 1,
     "3000 BLOCK DREW ST": 1,
     "2400 BLOCK COUNTRYSIDE BLVD": 3,
-    "1200 BLOCK S MISSOURI AVE": 3,
+    "1200 BLOCK S MISSOURI AVE": 4,
     "2000 BLOCK N HIGHLAND AVE": 4,
     "N DUNCAN AVE / DREW ST": 1,
     "1100 BLOCK COURT ST": 1,
@@ -407,7 +407,7 @@
     "3000 BLOCK SR 590": 1,
     "1500 BLOCK N BELCHER RD": 1,
     "-100 BLOCK 299 S MAIN AVE": 1,
-    "CHARLES AVE / SR 580": 1,
+    "CHARLES AVE / SR 580": 2,
     "1600 BLOCK N WASHINGTON AVE": 2,
     "US HIGHWAY 19 N / NURSERY RD": 3,
     "18900 BLOCK US HIGHWAY 19 N": 1,
@@ -542,7 +542,9 @@
     "MCMULLEN BOOTH RD / CHAMBLEE LN": 1,
     "900 BLOCK ELDRIDGE ST": 1,
     "2800 BLOCK CURLEW RD": 1,
-    "0 BLOCK 299 S GLENWOOD AVE": 1
+    "0 BLOCK 299 S GLENWOOD AVE": 1,
+    "US HIGHWAY 19 N / SUNSET POINT RD": 1,
+    "S HILLCREST AVE / CLEVELAND ST": 1
   },
   "hourly_distribution": {
     "0": 22,
@@ -555,7 +557,7 @@
     "7": 25,
     "8": 54,
     "9": 61,
-    "10": 57,
+    "10": 61,
     "11": 42,
     "12": 47,
     "13": 52,
@@ -571,7 +573,7 @@
     "23": 19
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-02T15:47:41.488133+00:00",
+  "last_updated": "2025-12-02T15:58:35.035459+00:00",
   "peak_active_calls": 15,
-  "total_snapshots": 265
+  "total_snapshots": 266
 }
