@@ -2069,6 +2069,90 @@
           "Response_Date": "2025-12-02T13:46:37"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-02T19:31:55.191763+00:00",
+      "call_count": 13,
+      "calls": [
+        {
+          "Master_Incident_Number": "120225-00159",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "1100 BLOCK BECKETT ST",
+          "Response_Date": "2025-12-02T08:22:51"
+        },
+        {
+          "Master_Incident_Number": "120225-00232",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "1000 BLOCK GULF BLVD",
+          "Response_Date": "2025-12-02T10:55:36"
+        },
+        {
+          "Master_Incident_Number": "120225-00283",
+          "Online_Description": "TRAFFIC CRASH",
+          "Address": "1200 BLOCK S MISSOURI AVE",
+          "Response_Date": "2025-12-02T12:20:32"
+        },
+        {
+          "Master_Incident_Number": "120225-00317",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "S MADISON AVE / CLEVELAND ST",
+          "Response_Date": "2025-12-02T13:37:00"
+        },
+        {
+          "Master_Incident_Number": "120225-00318",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "WOODBINE ST / CARLOS AVE",
+          "Response_Date": "2025-12-02T13:38:05"
+        },
+        {
+          "Master_Incident_Number": "120225-00323",
+          "Online_Description": "DISABLED VEHICLE",
+          "Address": "600 BLOCK PIERCE ST",
+          "Response_Date": "2025-12-02T13:43:27"
+        },
+        {
+          "Master_Incident_Number": "120225-00324",
+          "Online_Description": "ABANDONED VEHICLE",
+          "Address": "600 BLOCK WILDWOOD WAY",
+          "Response_Date": "2025-12-02T13:43:48"
+        },
+        {
+          "Master_Incident_Number": "120225-00336",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "700 BLOCK COURT ST",
+          "Response_Date": "2025-12-02T14:03:11"
+        },
+        {
+          "Master_Incident_Number": "120225-00337",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "US HIGHWAY 19 N / SUNSET POINT RD",
+          "Response_Date": "2025-12-02T14:03:40"
+        },
+        {
+          "Master_Incident_Number": "120225-00338",
+          "Online_Description": "SUSPICIOUS PERSON",
+          "Address": "FRANKLIN ST / GULF TO BAY BLVD",
+          "Response_Date": "2025-12-02T14:05:21"
+        },
+        {
+          "Master_Incident_Number": "120225-00339",
+          "Online_Description": "DISTURBANCE",
+          "Address": "900 BLOCK N MARTIN LUTHER KING JR AVE",
+          "Response_Date": "2025-12-02T14:06:51"
+        },
+        {
+          "Master_Incident_Number": "120225-00340",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "1500 BLOCK GULF BLVD",
+          "Response_Date": "2025-12-02T14:08:34"
+        },
+        {
+          "Master_Incident_Number": "120225-00341",
+          "Online_Description": "ASSIST OTHER AGENCY",
+          "Address": "1800 BLOCK MCMULLEN BOOTH RD",
+          "Response_Date": "2025-12-02T14:09:09"
+        }
+      ]
     }
   ]
 }
