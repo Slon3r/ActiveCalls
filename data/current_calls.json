@@ -1,12 +1,6 @@
 {
   "calls": [
     {
-      "Master_Incident_Number": "120125-00617",
-      "Online_Description": "DOMESTIC",
-      "Address": "1900 BLOCK RADCLIFFE DR N",
-      "Response_Date": "2025-12-01T23:48:08"
-    },
-    {
       "Master_Incident_Number": "120225-00033",
       "Online_Description": "PARK WALK AND TALK",
       "Address": "1400 BLOCK N MARTIN LUTHER KING JR AVE",
@@ -37,6 +31,6 @@
       "Response_Date": "2025-12-02T02:09:49"
     }
   ],
-  "timestamp": "2025-12-02T07:45:55.088719+00:00",
-  "count": 6
+  "timestamp": "2025-12-02T07:53:43.653591+00:00",
+  "count": 5
 }
