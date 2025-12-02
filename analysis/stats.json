@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 859,
-  "total_resolved": 846,
+  "total_calls_tracked": 864,
+  "total_resolved": 849,
   "call_types": {
-    "DIRECTED PATROL": 307,
-    "TRAFFIC STOP": 123,
+    "DIRECTED PATROL": 308,
+    "TRAFFIC STOP": 124,
     "DRUNK DRIVER": 4,
     "DISTURBANCE": 18,
     "BATTERY": 3,
@@ -12,7 +12,7 @@
     "KEEP THE PEACE": 15,
     "WELFARE CHECK": 18,
     "PARK WALK AND TALK": 69,
-    "SUSPICIOUS PERSON": 37,
+    "SUSPICIOUS PERSON": 38,
     "TRESPASS": 20,
     "PROPERTY FOUND/LOST": 5,
     "THEFT": 11,
@@ -27,7 +27,7 @@
     "ASSIST CITIZEN": 25,
     "ASSIST OTHER AGENCY": 10,
     "FIRE": 2,
-    "FRAUD": 4,
+    "FRAUD": 5,
     "RECKLESS VEHICLE": 2,
     "JUVENILE CASE": 2,
     "HAZARD": 1,
@@ -44,7 +44,7 @@
     "SHOTS FIRED": 1,
     "HIT & RUN": 5,
     "SCHOOL CROSSING": 1,
-    "ORDINANCE VIOLATION": 1,
+    "ORDINANCE VIOLATION": 2,
     "ABANDONED VEHICLE": 3,
     "CHILD ABUSE": 1,
     "FIGHT": 1,
@@ -385,7 +385,7 @@
     "S SAN REMO AVE/ GULF TO BAY BLVD": 1,
     "1300 BLOCK S HIGHLAND AVE": 2,
     "CLEVELAND ST / GULF TO BAY BLVD": 3,
-    "1400 BLOCK GULF TO BAY BLVD": 1,
+    "1400 BLOCK GULF TO BAY BLVD": 2,
     "2200 BLOCK BELLEAIR RD": 1,
     "1300 BLOCK PARK ST": 4,
     "DREW ST / US HIGHWAY 19 N": 1,
@@ -567,7 +567,11 @@
     "600 BLOCK WILDWOOD WAY": 1,
     "FRANKLIN ST / GULF TO BAY BLVD": 1,
     "900 BLOCK N MARTIN LUTHER KING JR AVE": 1,
-    "1800 BLOCK MCMULLEN BOOTH RD": 1
+    "1800 BLOCK MCMULLEN BOOTH RD": 1,
+    "N BETTY LN / ENGMAN ST": 1,
+    "1000 BLOCK APACHE TRAIL": 1,
+    "N FORT HARRISON AVE / PALM BLUFF ST": 1,
+    "MCMULLEN BOOTH/ALLEN AVE": 1
   },
   "hourly_distribution": {
     "0": 22,
@@ -584,7 +588,7 @@
     "11": 56,
     "12": 59,
     "13": 69,
-    "14": 63,
+    "14": 68,
     "15": 54,
     "16": 54,
     "17": 37,
@@ -596,7 +600,7 @@
     "23": 19
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-02T19:31:55.195322+00:00",
+  "last_updated": "2025-12-02T19:42:04.966723+00:00",
   "peak_active_calls": 15,
-  "total_snapshots": 275
+  "total_snapshots": 276
 }
