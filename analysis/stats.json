@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 715,
-  "total_resolved": 706,
+  "total_calls_tracked": 717,
+  "total_resolved": 709,
   "call_types": {
     "DIRECTED PATROL": 245,
-    "TRAFFIC STOP": 109,
+    "TRAFFIC STOP": 110,
     "DRUNK DRIVER": 4,
     "DISTURBANCE": 15,
     "BATTERY": 3,
@@ -23,7 +23,7 @@
     "VEHICLE ILLEGALLY PARKED": 3,
     "SUSPICIOUS EVENT": 14,
     "TRAFFIC CRASH": 30,
-    "DISABLED VEHICLE": 9,
+    "DISABLED VEHICLE": 10,
     "ASSIST CITIZEN": 20,
     "ASSIST OTHER AGENCY": 6,
     "FIRE": 2,
@@ -123,7 +123,7 @@
     "1400 BLOCK OWEN DR": 1,
     "200 BLOCK ISLAND WAY": 2,
     "-500 BLOCK BLK CLEVELAND ST": 1,
-    "0 BLOCK MEMORIAL CSWY": 3,
+    "0 BLOCK MEMORIAL CSWY": 4,
     "COUNTRYSIDE BLVD / NORTHRIDGE DR": 1,
     "NE COACHMAN RD / US HIGHWAY 19 N": 2,
     "LOTUS PATH / BAY AVE": 1,
@@ -409,7 +409,7 @@
     "-100 BLOCK 299 S MAIN AVE": 1,
     "CHARLES AVE / SR 580": 1,
     "1600 BLOCK N WASHINGTON AVE": 1,
-    "US HIGHWAY 19 N / NURSERY RD": 1,
+    "US HIGHWAY 19 N / NURSERY RD": 2,
     "18900 BLOCK US HIGHWAY 19 N": 1,
     "400 BLOCK BAY AVE": 1,
     "GULF TO BAY BLVD / US HIGHWAY 19 N": 2,
@@ -527,10 +527,10 @@
     "20": 12,
     "21": 13,
     "22": 27,
-    "23": 13
+    "23": 15
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-02T04:37:55.106971+00:00",
+  "last_updated": "2025-12-02T04:54:20.167209+00:00",
   "peak_active_calls": 15,
-  "total_snapshots": 232
+  "total_snapshots": 233
 }

@@ -31,30 +31,24 @@
       "Response_Date": "2025-12-01T22:49:09"
     },
     {
-      "Master_Incident_Number": "120125-00595",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "2300 BLOCK DREW ST",
-      "Response_Date": "2025-12-01T22:56:02"
-    },
-    {
-      "Master_Incident_Number": "120125-00603",
-      "Online_Description": "TRAFFIC CRASH",
-      "Address": "23100 BLOCK US HIGHWAY 19 N",
-      "Response_Date": "2025-12-01T23:05:49"
-    },
-    {
-      "Master_Incident_Number": "120125-00607",
-      "Online_Description": "SUSPICIOUS PERSON",
-      "Address": "23000 BLOCK US HIGHWAY 19 N",
-      "Response_Date": "2025-12-01T23:13:03"
-    },
-    {
       "Master_Incident_Number": "120125-00608",
       "Online_Description": "DIRECTED PATROL",
       "Address": "500 BLOCK MANDALAY AVE",
       "Response_Date": "2025-12-01T23:15:47"
+    },
+    {
+      "Master_Incident_Number": "120125-00611",
+      "Online_Description": "TRAFFIC STOP",
+      "Address": "0 BLOCK MEMORIAL CSWY",
+      "Response_Date": "2025-12-01T23:29:22"
+    },
+    {
+      "Master_Incident_Number": "120125-00612",
+      "Online_Description": "DISABLED VEHICLE",
+      "Address": "US HIGHWAY 19 N / NURSERY RD",
+      "Response_Date": "2025-12-01T23:30:08"
     }
   ],
-  "timestamp": "2025-12-02T04:37:55.105742+00:00",
-  "count": 9
+  "timestamp": "2025-12-02T04:54:20.165888+00:00",
+  "count": 8
 }
