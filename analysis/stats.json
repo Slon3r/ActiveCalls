@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 744,
-  "total_resolved": 740,
+  "total_calls_tracked": 747,
+  "total_resolved": 743,
   "call_types": {
-    "DIRECTED PATROL": 256,
+    "DIRECTED PATROL": 258,
     "TRAFFIC STOP": 112,
     "DRUNK DRIVER": 4,
     "DISTURBANCE": 16,
@@ -12,7 +12,7 @@
     "KEEP THE PEACE": 15,
     "WELFARE CHECK": 16,
     "PARK WALK AND TALK": 61,
-    "SUSPICIOUS PERSON": 29,
+    "SUSPICIOUS PERSON": 30,
     "TRESPASS": 18,
     "PROPERTY FOUND/LOST": 4,
     "THEFT": 8,
@@ -189,7 +189,7 @@
     "500 BLOCK MANDALAY AVE": 2,
     "3000 BLOCK HAVERFORD DR": 1,
     "DREW ST / OLD COACHMAN RD": 2,
-    "2500 BLOCK HARN BLVD": 5,
+    "2500 BLOCK HARN BLVD": 6,
     "1000 BLOCK MCMULLEN BOOTH RD": 1,
     "1200 BLOCK S MARTIN LUTHER KING JR AVE": 1,
     "2000 BLOCK PARAGON CIR W": 1,
@@ -356,7 +356,7 @@
     "500 BLOCK MOSS AVE": 1,
     "-1000 BLOCK 1170 GULF BLVD": 1,
     "27000 BLOCK US 19": 1,
-    "500 BLOCK N BETTY LN": 2,
+    "500 BLOCK N BETTY LN": 3,
     "600 BLOCK ELDRIDGE ST": 1,
     "2100 BLOCK MONTCLAIR RD": 1,
     "700 BLOCK S KEENE RD": 2,
@@ -515,14 +515,15 @@
     "-1200 BLOCK 1352 COURT ST": 1,
     "600 BLOCK N BETTY LN": 1,
     "N MARTIN LUTHER KING JR AVE / GRANT ST": 1,
-    "N MARTIN LUTHER KING JR AVE / SEMINOLE ST": 1
+    "N MARTIN LUTHER KING JR AVE / SEMINOLE ST": 1,
+    "-100 BLOCK 148 S GULFVIEW BLVD": 1
   },
   "hourly_distribution": {
     "0": 22,
     "1": 30,
     "2": 16,
-    "3": 17,
-    "4": 3,
+    "3": 18,
+    "4": 5,
     "5": 15,
     "6": 20,
     "7": 19,
@@ -544,7 +545,7 @@
     "23": 19
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-02T09:02:43.418791+00:00",
+  "last_updated": "2025-12-02T09:36:00.435433+00:00",
   "peak_active_calls": 15,
-  "total_snapshots": 246
+  "total_snapshots": 247
 }
