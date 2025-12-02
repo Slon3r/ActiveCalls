@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 810,
-  "total_resolved": 804,
+  "total_calls_tracked": 816,
+  "total_resolved": 807,
   "call_types": {
-    "DIRECTED PATROL": 282,
+    "DIRECTED PATROL": 286,
     "TRAFFIC STOP": 121,
     "DRUNK DRIVER": 4,
     "DISTURBANCE": 17,
@@ -14,14 +14,14 @@
     "PARK WALK AND TALK": 67,
     "SUSPICIOUS PERSON": 33,
     "TRESPASS": 20,
-    "PROPERTY FOUND/LOST": 4,
+    "PROPERTY FOUND/LOST": 5,
     "THEFT": 10,
     "NEIGHBOR CALL": 6,
     "911 HANG-UP": 28,
     "SUSPICIOUS VEHICLE": 7,
     "PANHANDLER/SOLICITOR": 1,
     "VEHICLE ILLEGALLY PARKED": 3,
-    "SUSPICIOUS EVENT": 15,
+    "SUSPICIOUS EVENT": 16,
     "TRAFFIC CRASH": 33,
     "DISABLED VEHICLE": 10,
     "ASSIST CITIZEN": 24,
@@ -69,8 +69,8 @@
     "-800 BLOCK 819 NARCISSUS AVE": 1,
     "0 BLOCK ISLAND WAY": 3,
     "US HIGHWAY 19 N / SR 580": 3,
-    "400 BLOCK S GULFVIEW BLVD": 3,
-    "100 BLOCK S MYRTLE AVE": 1,
+    "400 BLOCK S GULFVIEW BLVD": 4,
+    "100 BLOCK S MYRTLE AVE": 2,
     "0 BLOCK CAUSEWAY BLVD": 8,
     "400 BLOCK FAIRWOOD AVE": 4,
     "500 BLOCK S FORT HARRISON AVE": 2,
@@ -545,7 +545,11 @@
     "0 BLOCK 299 S GLENWOOD AVE": 1,
     "US HIGHWAY 19 N / SUNSET POINT RD": 1,
     "S HILLCREST AVE / CLEVELAND ST": 1,
-    "MCMULLEN BOOTH RD / BORDEAUX LN": 1
+    "MCMULLEN BOOTH RD / BORDEAUX LN": 1,
+    "1800 BLOCK BELMONT DR": 1,
+    "200 BLOCK S PROSPECT": 1,
+    "1400 BLOCK COURT ST": 1,
+    "500 BLOCK BLOCK OF CLEVELAND ST": 1
   },
   "hourly_distribution": {
     "0": 22,
@@ -559,7 +563,7 @@
     "8": 54,
     "9": 61,
     "10": 62,
-    "11": 44,
+    "11": 50,
     "12": 47,
     "13": 52,
     "14": 57,
@@ -574,7 +578,7 @@
     "23": 19
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-02T16:32:41.970910+00:00",
+  "last_updated": "2025-12-02T16:56:44.543240+00:00",
   "peak_active_calls": 15,
-  "total_snapshots": 267
+  "total_snapshots": 268
 }
