@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 879,
-  "total_resolved": 875,
+  "total_calls_tracked": 882,
+  "total_resolved": 877,
   "call_types": {
-    "DIRECTED PATROL": 315,
+    "DIRECTED PATROL": 316,
     "TRAFFIC STOP": 126,
     "DRUNK DRIVER": 4,
     "DISTURBANCE": 18,
@@ -19,12 +19,12 @@
     "NEIGHBOR CALL": 6,
     "911 HANG-UP": 29,
     "SUSPICIOUS VEHICLE": 7,
-    "PANHANDLER/SOLICITOR": 1,
+    "PANHANDLER/SOLICITOR": 2,
     "VEHICLE ILLEGALLY PARKED": 3,
     "SUSPICIOUS EVENT": 17,
     "TRAFFIC CRASH": 35,
     "DISABLED VEHICLE": 11,
-    "ASSIST CITIZEN": 26,
+    "ASSIST CITIZEN": 27,
     "ASSIST OTHER AGENCY": 10,
     "FIRE": 2,
     "FRAUD": 5,
@@ -167,7 +167,7 @@
     "GULF TO BAY BLVD / S LAKE DR": 1,
     "-400 BLOCK BLK BLANCHE B LITTLEJOHN TRL": 1,
     "2600 BLOCK GULF TO BAY BLVD": 5,
-    "400 BLOCK MANDALAY AVE": 3,
+    "400 BLOCK MANDALAY AVE": 4,
     "-3200 BLOCK 3399 COURTNEY CAMPBELL CSWY": 2,
     "1200 BLOCK GROVE ST": 1,
     "0 BLOCK OLD COACHMAN RD": 1,
@@ -406,7 +406,7 @@
     "N MYRTLE AVE / DREW ST": 1,
     "3000 BLOCK SR 590": 1,
     "1500 BLOCK N BELCHER RD": 1,
-    "-100 BLOCK 299 S MAIN AVE": 2,
+    "-100 BLOCK 299 S MAIN AVE": 3,
     "CHARLES AVE / SR 580": 2,
     "1600 BLOCK N WASHINGTON AVE": 2,
     "US HIGHWAY 19 N / NURSERY RD": 3,
@@ -577,7 +577,8 @@
     "-200 BLOCK 299 FAIRWOOD AVE": 1,
     "22000 BLOCK US HIGHWAY 19 N": 1,
     "2000 BLOCK GLASS LOOP": 1,
-    "500 BLOCK WOODLAWN ST": 1
+    "500 BLOCK WOODLAWN ST": 1,
+    "900 BLOCK SEMINOLE ST": 1
   },
   "hourly_distribution": {
     "0": 22,
@@ -595,8 +596,8 @@
     "12": 59,
     "13": 69,
     "14": 76,
-    "15": 61,
-    "16": 54,
+    "15": 63,
+    "16": 55,
     "17": 37,
     "18": 35,
     "19": 10,
@@ -606,7 +607,7 @@
     "23": 19
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-02T21:13:32.909066+00:00",
+  "last_updated": "2025-12-02T21:30:08.125604+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 282
+  "total_snapshots": 283
 }
