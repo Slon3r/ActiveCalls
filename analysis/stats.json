@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 704,
-  "total_resolved": 698,
+  "total_calls_tracked": 710,
+  "total_resolved": 701,
   "call_types": {
-    "DIRECTED PATROL": 241,
-    "TRAFFIC STOP": 107,
+    "DIRECTED PATROL": 243,
+    "TRAFFIC STOP": 109,
     "DRUNK DRIVER": 4,
     "DISTURBANCE": 15,
     "BATTERY": 3,
@@ -17,12 +17,12 @@
     "PROPERTY FOUND/LOST": 4,
     "THEFT": 7,
     "NEIGHBOR CALL": 6,
-    "911 HANG-UP": 25,
+    "911 HANG-UP": 26,
     "SUSPICIOUS VEHICLE": 7,
     "PANHANDLER/SOLICITOR": 1,
     "VEHICLE ILLEGALLY PARKED": 3,
     "SUSPICIOUS EVENT": 14,
-    "TRAFFIC CRASH": 28,
+    "TRAFFIC CRASH": 29,
     "DISABLED VEHICLE": 9,
     "ASSIST CITIZEN": 19,
     "ASSIST OTHER AGENCY": 6,
@@ -412,7 +412,7 @@
     "US HIGHWAY 19 N / NURSERY RD": 1,
     "18900 BLOCK US HIGHWAY 19 N": 1,
     "400 BLOCK BAY AVE": 1,
-    "GULF TO BAY BLVD / US HIGHWAY 19 N": 1,
+    "GULF TO BAY BLVD / US HIGHWAY 19 N": 2,
     "1400 BLOCK GULF BLVD": 1,
     "900 BLOCK NARCISSUS AVE": 1,
     "GARDEN AVE/ CLEVELAND ST": 1,
@@ -494,7 +494,12 @@
     "1500 BLOCK SADLON AVE": 1,
     "1300 BLOCK BOYLAN AVE": 1,
     "1800 BLOCK ASBURY DR": 1,
-    "1300 BLOCK PARKWOOD ST": 1
+    "1300 BLOCK PARKWOOD ST": 1,
+    "S OSCEOLA AVE / COURT ST": 1,
+    "N BELCHER RD / SUNSET POINT RD": 1,
+    "-2800 BLOCK 2898 EAGLE ESTATES CIR N": 1,
+    "1400 BLOCK SPRINGDALE ST": 1,
+    "-2000 BLOCK 2098 SUNSET GROVE LN": 1
   },
   "hourly_distribution": {
     "0": 20,
@@ -519,11 +524,11 @@
     "19": 10,
     "20": 12,
     "21": 13,
-    "22": 19,
+    "22": 25,
     "23": 10
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-02T03:22:38.796025+00:00",
+  "last_updated": "2025-12-02T04:01:45.349508+00:00",
   "peak_active_calls": 15,
-  "total_snapshots": 230
+  "total_snapshots": 231
 }
