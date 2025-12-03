@@ -1,11 +1,11 @@
 {
-  "total_calls_tracked": 1064,
-  "total_resolved": 1052,
+  "total_calls_tracked": 1070,
+  "total_resolved": 1060,
   "call_types": {
-    "DIRECTED PATROL": 387,
+    "DIRECTED PATROL": 392,
     "TRAFFIC STOP": 151,
     "DRUNK DRIVER": 4,
-    "DISTURBANCE": 20,
+    "DISTURBANCE": 21,
     "BATTERY": 4,
     "CRIMINAL MISCHIEF": 2,
     "ALARM": 15,
@@ -103,7 +103,7 @@
     "S MISSOURI AVE / KINGSLEY ST": 1,
     "2200 BLOCK GULF TO BAY BLVD": 6,
     "CLEVELAND ST/S MADISON AVE": 1,
-    "2700 BLOCK GULF TO BAY BLVD": 9,
+    "2700 BLOCK GULF TO BAY BLVD": 10,
     "1400 BLOCK N HIBISCUS ST": 1,
     "2900 BLOCK DREW ST": 3,
     "21200 BLOCK US HIGHWAY 19 N": 4,
@@ -135,7 +135,7 @@
     "COUNTRYSIDE BLVD / ENDICOTT CT": 1,
     "3000 BLOCK DREW ST": 2,
     "2400 BLOCK COUNTRYSIDE BLVD": 4,
-    "1200 BLOCK S MISSOURI AVE": 7,
+    "1200 BLOCK S MISSOURI AVE": 8,
     "2000 BLOCK N HIGHLAND AVE": 6,
     "N DUNCAN AVE / DREW ST": 1,
     "1100 BLOCK COURT ST": 1,
@@ -265,7 +265,7 @@
     "200 BLOCK N MARS AVE": 2,
     "700 BLOCK BLANCHE B LITTLEJOHN TRL": 2,
     "-200 BLOCK 298 WINDWARD PSGE": 1,
-    "2600 BLOCK LANDMARK DR": 1,
+    "2600 BLOCK LANDMARK DR": 2,
     "1400 BLOCK N BETTY LN": 1,
     "CLEVELAND ST / S MADISON AVE": 1,
     "900 BLOCK BAY ESPLANADE": 2,
@@ -444,7 +444,7 @@
     "PIERCE ST / S MARTIN LUTHER KING JR AVE": 1,
     "OLD COACHMAN RD / NE COACHMAN RD": 1,
     "-100 BLOCK 103 N EAST AVE": 1,
-    "1100 BLOCK ENGMAN ST": 1,
+    "1100 BLOCK ENGMAN ST": 2,
     "600 BLOCK COURT": 1,
     "1600 BLOCK PINE PL": 1,
     "1500 BLOCK SCRANTON AVE": 1,
@@ -648,7 +648,9 @@
     "300 BLOCK S BELCHER RD": 1,
     "RAINBOW DR / S MAIN AVE": 1,
     "3000 BLOCK SR 580": 1,
-    "2600 BLOCK ENTERPRISE RD": 1
+    "2600 BLOCK ENTERPRISE RD": 1,
+    "MARILYN ST / NE COACHMAN RD": 1,
+    "2100 BLOCK ELYSIUM BLVD": 1
   },
   "hourly_distribution": {
     "0": 30,
@@ -662,7 +664,7 @@
     "8": 69,
     "9": 77,
     "10": 73,
-    "11": 66,
+    "11": 72,
     "12": 62,
     "13": 69,
     "14": 76,
@@ -677,7 +679,7 @@
     "23": 26
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-03T16:49:47.102011+00:00",
+  "last_updated": "2025-12-03T17:11:39.694856+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 336
+  "total_snapshots": 337
 }
