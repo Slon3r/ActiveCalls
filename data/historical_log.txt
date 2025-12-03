@@ -4769,3 +4769,15 @@ TOTAL ACTIVE CALLS: 6
 
 --- RESOLVED CALLS (1) ---
 [RESOLVED] 120325-00121 | DIRECTED PATROL | 100 BLOCK S MYRTLE AVE | Response: 06:23 AM
+
+================================================================================
+TIMESTAMP: 2025-12-03T12:01:34.421589+00:00
+TOTAL ACTIVE CALLS: 7
+================================================================================
+
+--- NEW CALLS (2) ---
+[NEW] 120325-00127 | DIRECTED PATROL | 300 BLOCK CLEVELAND ST | Response: 06:38 AM
+[NEW] 120325-00128 | DIRECTED PATROL | 500 BLOCK MANDALAY AVE | Response: 06:40 AM
+
+--- RESOLVED CALLS (1) ---
+[RESOLVED] 120325-00111 | DIRECTED PATROL | 400 BLOCK S GULFVIEW BLVD | Response: 05:59 AM

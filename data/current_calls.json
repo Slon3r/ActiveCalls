@@ -7,12 +7,6 @@
       "Response_Date": "2025-12-03T06:15:39.663"
     },
     {
-      "Master_Incident_Number": "120325-00111",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "400 BLOCK S GULFVIEW BLVD",
-      "Response_Date": "2025-12-03T05:59:52"
-    },
-    {
       "Master_Incident_Number": "120325-00117",
       "Online_Description": "SUSPICIOUS PERSON",
       "Address": "100 BLOCK N BELCHER RD",
@@ -35,8 +29,20 @@
       "Online_Description": "DIRECTED PATROL",
       "Address": "1700 BLOCK DREW ST",
       "Response_Date": "2025-12-03T06:31:13"
+    },
+    {
+      "Master_Incident_Number": "120325-00127",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "300 BLOCK CLEVELAND ST",
+      "Response_Date": "2025-12-03T06:38:46"
+    },
+    {
+      "Master_Incident_Number": "120325-00128",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "500 BLOCK MANDALAY AVE",
+      "Response_Date": "2025-12-03T06:40:57"
     }
   ],
-  "timestamp": "2025-12-03T11:52:39.736088+00:00",
-  "count": 6
+  "timestamp": "2025-12-03T12:01:34.421589+00:00",
+  "count": 7
 }

@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 1006,
-  "total_resolved": 1000,
+  "total_calls_tracked": 1008,
+  "total_resolved": 1001,
   "call_types": {
-    "DIRECTED PATROL": 365,
+    "DIRECTED PATROL": 367,
     "TRAFFIC STOP": 143,
     "DRUNK DRIVER": 4,
     "DISTURBANCE": 19,
@@ -164,7 +164,7 @@
     "FIFTH ST & HAMDEN DR": 1,
     "FIFTH ST / HAMDEN DR": 1,
     "E WORLD PARKWAY BLVD / BELCHER RD": 1,
-    "300 BLOCK CLEVELAND ST": 9,
+    "300 BLOCK CLEVELAND ST": 10,
     "GULF TO BAY BLVD / S LAKE DR": 1,
     "-400 BLOCK BLK BLANCHE B LITTLEJOHN TRL": 1,
     "2600 BLOCK GULF TO BAY BLVD": 5,
@@ -187,7 +187,7 @@
     "300 BLOCK S GULFVIEW BLVD": 9,
     "500 BLOCK S HIGHLAND AVE": 1,
     "1700 BLOCK KINGS HWY": 1,
-    "500 BLOCK MANDALAY AVE": 3,
+    "500 BLOCK MANDALAY AVE": 4,
     "3000 BLOCK HAVERFORD DR": 1,
     "DREW ST / OLD COACHMAN RD": 2,
     "2500 BLOCK HARN BLVD": 9,
@@ -631,7 +631,7 @@
     "3": 26,
     "4": 12,
     "5": 31,
-    "6": 36,
+    "6": 38,
     "7": 25,
     "8": 55,
     "9": 61,
@@ -651,7 +651,7 @@
     "23": 26
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-03T11:52:39.738398+00:00",
+  "last_updated": "2025-12-03T12:01:34.423963+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 324
+  "total_snapshots": 325
 }
