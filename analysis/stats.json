@@ -1,6 +1,6 @@
 {
-  "total_calls_tracked": 987,
-  "total_resolved": 983,
+  "total_calls_tracked": 988,
+  "total_resolved": 986,
   "call_types": {
     "DIRECTED PATROL": 351,
     "TRAFFIC STOP": 141,
@@ -11,7 +11,7 @@
     "ALARM": 15,
     "KEEP THE PEACE": 17,
     "WELFARE CHECK": 20,
-    "PARK WALK AND TALK": 79,
+    "PARK WALK AND TALK": 80,
     "SUSPICIOUS PERSON": 45,
     "TRESPASS": 24,
     "PROPERTY FOUND/LOST": 5,
@@ -615,14 +615,15 @@
     "-3100 BLOCK 3160 MASTERS DR": 1,
     "-2700 BLOCK 2748 DREW ST": 1,
     "COURT ST / S HIGHLAND AVE": 1,
-    "GULF TO BAY BLVD / S KEENE RD": 1
+    "GULF TO BAY BLVD / S KEENE RD": 1,
+    "-2500 BLOCK 2528 DRIVEWAY PARKING": 1
   },
   "hourly_distribution": {
     "0": 30,
     "1": 41,
     "2": 24,
     "3": 26,
-    "4": 8,
+    "4": 9,
     "5": 24,
     "6": 29,
     "7": 25,
@@ -644,7 +645,7 @@
     "23": 26
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-03T09:13:04.802442+00:00",
+  "last_updated": "2025-12-03T09:37:40.686236+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 314
+  "total_snapshots": 315
 }

@@ -7,24 +7,12 @@
       "Response_Date": "2025-12-03T03:02:10"
     },
     {
-      "Master_Incident_Number": "120325-00072",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "2200 BLOCK DREW ST",
-      "Response_Date": "2025-12-03T03:43:43"
-    },
-    {
-      "Master_Incident_Number": "120325-00074",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "1600 BLOCK GULF TO BAY BLVD",
-      "Response_Date": "2025-12-03T03:48:25"
-    },
-    {
-      "Master_Incident_Number": "120325-00075",
-      "Online_Description": "TRAFFIC STOP",
-      "Address": "GULF TO BAY BLVD / S KEENE RD",
-      "Response_Date": "2025-12-03T03:50:48"
+      "Master_Incident_Number": "120325-00083",
+      "Online_Description": "PARK WALK AND TALK",
+      "Address": "-2500 BLOCK 2528 DRIVEWAY PARKING",
+      "Response_Date": "2025-12-03T04:15:51"
     }
   ],
-  "timestamp": "2025-12-03T09:13:04.800567+00:00",
-  "count": 4
+  "timestamp": "2025-12-03T09:37:40.684212+00:00",
+  "count": 2
 }
