@@ -1,6 +1,6 @@
 {
-  "total_calls_tracked": 943,
-  "total_resolved": 937,
+  "total_calls_tracked": 945,
+  "total_resolved": 938,
   "call_types": {
     "DIRECTED PATROL": 329,
     "TRAFFIC STOP": 134,
@@ -11,7 +11,7 @@
     "ALARM": 15,
     "KEEP THE PEACE": 16,
     "WELFARE CHECK": 20,
-    "PARK WALK AND TALK": 74,
+    "PARK WALK AND TALK": 75,
     "SUSPICIOUS PERSON": 45,
     "TRESPASS": 22,
     "PROPERTY FOUND/LOST": 5,
@@ -49,7 +49,7 @@
     "CHILD ABUSE": 2,
     "FIGHT": 1,
     "CHILD PROTECTION INVESTIGATION": 2,
-    "DRUNK PEDESTRIAN": 1
+    "DRUNK PEDESTRIAN": 2
   },
   "addresses": {
     "MEMORIAL CSWY / ISLAND WAY": 14,
@@ -199,7 +199,7 @@
     "1000 BLOCK N MADISON AVE": 1,
     "2800 BLOCK DREW ST": 2,
     "US HIGHWAY 19 N / GULF TO BAY BLVD": 1,
-    "300 BLOCK CORONADO DR": 8,
+    "300 BLOCK CORONADO DR": 9,
     "23600 BLOCK US HIGHWAY 19 N": 4,
     "300 BLOCK MANDALAY AVE": 1,
     "JONES ST / FERN AVE": 1,
@@ -225,7 +225,7 @@
     "1500 BLOCK S HIGHLAND AVE": 2,
     "PINELLAS ST / S FORT HARRISON AVE": 1,
     "1600 BLOCK N ARCTURAS AVE": 2,
-    "1100 BLOCK BECKETT ST": 7,
+    "1100 BLOCK BECKETT ST": 8,
     "PAPAYA ST / MANDALAY AVE": 1,
     "CLEVELAND ST / N MISSOURI AVE": 1,
     "600 BLOCK COURT ST": 1,
@@ -629,10 +629,10 @@
     "20": 15,
     "21": 20,
     "22": 35,
-    "23": 20
+    "23": 22
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-03T04:25:51.952087+00:00",
+  "last_updated": "2025-12-03T04:47:41.964035+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 299
+  "total_snapshots": 300
 }
