@@ -1,6 +1,6 @@
 {
-  "total_calls_tracked": 1130,
-  "total_resolved": 1121,
+  "total_calls_tracked": 1131,
+  "total_resolved": 1124,
   "call_types": {
     "DIRECTED PATROL": 409,
     "TRAFFIC STOP": 159,
@@ -22,7 +22,7 @@
     "PANHANDLER/SOLICITOR": 2,
     "VEHICLE ILLEGALLY PARKED": 3,
     "SUSPICIOUS EVENT": 23,
-    "TRAFFIC CRASH": 44,
+    "TRAFFIC CRASH": 45,
     "DISABLED VEHICLE": 12,
     "ASSIST CITIZEN": 33,
     "ASSIST OTHER AGENCY": 16,
@@ -376,7 +376,7 @@
     "-1100 BLOCK 1198 N MARTIN LUTHER KING JR AVE": 1,
     "1500 BLOCK DRUID RD": 1,
     "GULF TO BAY BLVD / S HIGHLAND AVE": 1,
-    "1600 BLOCK N HIGHLAND AVE": 4,
+    "1600 BLOCK N HIGHLAND AVE": 5,
     "1700 BLOCK FLAGLER DR": 1,
     "20000 BLOCK US HIGHWAY 19 N": 2,
     "0 BLOCK 33 BAY ESPLANADE": 1,
@@ -693,7 +693,7 @@
     "13": 77,
     "14": 92,
     "15": 83,
-    "16": 68,
+    "16": 69,
     "17": 57,
     "18": 46,
     "19": 12,
@@ -703,7 +703,7 @@
     "23": 26
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-03T21:30:22.985308+00:00",
+  "last_updated": "2025-12-03T21:41:23.114484+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 351
+  "total_snapshots": 352
 }
