@@ -2063,6 +2063,72 @@
           "Response_Date": "2025-12-03T12:25:19"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-03T18:34:12.975225+00:00",
+      "call_count": 10,
+      "calls": [
+        {
+          "Master_Incident_Number": "120125-00388",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "1700 BLOCK N HERCULES AVE",
+          "Response_Date": "2025-12-01T17:36:42"
+        },
+        {
+          "Master_Incident_Number": "120325-00224",
+          "Online_Description": "KEEP THE PEACE",
+          "Address": "1900 BLOCK RADCLIFFE DR N",
+          "Response_Date": "2025-12-03T09:35:56"
+        },
+        {
+          "Master_Incident_Number": "120325-00301",
+          "Online_Description": "ASSAULT",
+          "Address": "1000 BLOCK ELDORADO AVE",
+          "Response_Date": "2025-12-03T11:55:47"
+        },
+        {
+          "Master_Incident_Number": "120325-00303",
+          "Online_Description": "FRAUD",
+          "Address": "2700 BLOCK ENTERPRISE RD E",
+          "Response_Date": "2025-12-03T12:13:02"
+        },
+        {
+          "Master_Incident_Number": "120325-00309",
+          "Online_Description": "KEEP THE PEACE",
+          "Address": "1000 BLOCK N MARTIN LUTHER KING JR AVE",
+          "Response_Date": "2025-12-03T12:34:46"
+        },
+        {
+          "Master_Incident_Number": "120325-00311",
+          "Online_Description": "NEIGHBOR CALL",
+          "Address": "500 BLOCK SKY HARBOR DR",
+          "Response_Date": "2025-12-03T12:42:06"
+        },
+        {
+          "Master_Incident_Number": "120325-00312",
+          "Online_Description": "PARK WALK AND TALK",
+          "Address": "400 BLOCK MANDALAY AVE",
+          "Response_Date": "2025-12-03T12:47:05"
+        },
+        {
+          "Master_Incident_Number": "120325-00316",
+          "Online_Description": "SUSPICIOUS EVENT",
+          "Address": "800 BLOCK HOWARD ST",
+          "Response_Date": "2025-12-03T12:53:21"
+        },
+        {
+          "Master_Incident_Number": "120325-00314",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "2600 BLOCK ENTERPRISE RD E",
+          "Response_Date": "2025-12-03T12:53:52"
+        },
+        {
+          "Master_Incident_Number": "120325-00317",
+          "Online_Description": "FRAUD",
+          "Address": "1000 BLOCK S MYRTLE AVE",
+          "Response_Date": "2025-12-03T13:00:08"
+        }
+      ]
     }
   ]
 }
