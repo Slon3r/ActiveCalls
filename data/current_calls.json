@@ -7,42 +7,42 @@
       "Response_Date": "2025-12-03T09:35:56"
     },
     {
-      "Master_Incident_Number": "120325-00229",
-      "Online_Description": "SUSPICIOUS PERSON",
-      "Address": "1300 BLOCK S MARTIN LUTHER KING JR AVE",
-      "Response_Date": "2025-12-03T09:47:59"
-    },
-    {
-      "Master_Incident_Number": "120325-00227",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "1700 BLOCK GULF TO BAY BLVD",
-      "Response_Date": "2025-12-03T09:49:18"
-    },
-    {
-      "Master_Incident_Number": "120325-00228",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "2400 BLOCK DREW ST",
-      "Response_Date": "2025-12-03T09:49:32"
-    },
-    {
-      "Master_Incident_Number": "120325-00240",
-      "Online_Description": "THEFT",
-      "Address": "800 BLOCK WOODLAWN LOOP",
-      "Response_Date": "2025-12-03T10:08:32"
-    },
-    {
-      "Master_Incident_Number": "120325-00243",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "500 BLOCK ISLAND WAY",
-      "Response_Date": "2025-12-03T10:14:18"
-    },
-    {
       "Master_Incident_Number": "120325-00244",
       "Online_Description": "DIRECTED PATROL",
       "Address": "1200 BLOCK CLEVELAND ST",
       "Response_Date": "2025-12-03T10:14:31"
+    },
+    {
+      "Master_Incident_Number": "120325-00256",
+      "Online_Description": "PARK WALK AND TALK",
+      "Address": "1400 BLOCK S BELCHER RD",
+      "Response_Date": "2025-12-03T10:45:41"
+    },
+    {
+      "Master_Incident_Number": "120325-00260",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "200 BLOCK S GLENWOOD AVE",
+      "Response_Date": "2025-12-03T10:49:30"
+    },
+    {
+      "Master_Incident_Number": "120325-00265",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "1300 BLOCK S BELCHER RD",
+      "Response_Date": "2025-12-03T10:54:32"
+    },
+    {
+      "Master_Incident_Number": "120325-00266",
+      "Online_Description": "TRAFFIC STOP",
+      "Address": "BELCHER RD / E WORLD PARKWAY BLVD",
+      "Response_Date": "2025-12-03T10:58:56"
+    },
+    {
+      "Master_Incident_Number": "120325-00267",
+      "Online_Description": "PARK WALK AND TALK",
+      "Address": "LEILA DAVIS ELEMENTARY",
+      "Response_Date": "2025-12-03T10:59:48"
     }
   ],
-  "timestamp": "2025-12-03T15:55:13.419856+00:00",
+  "timestamp": "2025-12-03T16:20:36.962033+00:00",
   "count": 7
 }

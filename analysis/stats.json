@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 1049,
-  "total_resolved": 1042,
+  "total_calls_tracked": 1054,
+  "total_resolved": 1047,
   "call_types": {
-    "DIRECTED PATROL": 381,
-    "TRAFFIC STOP": 150,
+    "DIRECTED PATROL": 383,
+    "TRAFFIC STOP": 151,
     "DRUNK DRIVER": 4,
     "DISTURBANCE": 20,
     "BATTERY": 4,
@@ -11,7 +11,7 @@
     "ALARM": 15,
     "KEEP THE PEACE": 18,
     "WELFARE CHECK": 22,
-    "PARK WALK AND TALK": 86,
+    "PARK WALK AND TALK": 88,
     "SUSPICIOUS PERSON": 48,
     "TRESPASS": 25,
     "PROPERTY FOUND/LOST": 5,
@@ -76,7 +76,7 @@
     "400 BLOCK FAIRWOOD AVE": 4,
     "500 BLOCK S FORT HARRISON AVE": 2,
     "26000 BLOCK US HIGHWAY 19 N": 4,
-    "1300 BLOCK S BELCHER RD": 3,
+    "1300 BLOCK S BELCHER RD": 4,
     "200 BLOCK WINDWARD PSGE": 4,
     "2700 BLOCK DREW ST": 1,
     "FLUSHING AVE / HARN BLVD": 1,
@@ -150,7 +150,7 @@
     "1300 BLOCK FRANKLIN ST": 1,
     "SUNSET MEADOW DR / COLONY REED LN": 1,
     "0 BLOCK BAY ESPLANADE": 3,
-    "200 BLOCK S GLENWOOD AVE": 11,
+    "200 BLOCK S GLENWOOD AVE": 12,
     "S KEENE RD / DRUID RD": 1,
     "GULF TO BAY BLVD / BAMBOO LN": 1,
     "GULF TO BAY BLVD / BROOKSIDE DR": 1,
@@ -315,7 +315,7 @@
     "2900 BLOCK GULF TO BAY BLVD": 3,
     "MONTCLAIR RD / N HERCULES AVE": 1,
     "1000 BLOCK S MISSOURI AVE": 1,
-    "1400 BLOCK S BELCHER RD": 2,
+    "1400 BLOCK S BELCHER RD": 3,
     "-500 BLOCK BLK ISLAND WAY": 1,
     "3200 BLOCK COURTNEY CAMPBELL CSWY": 2,
     "300 BLOCK N HIGHLAND AVE": 1,
@@ -642,7 +642,9 @@
     "1300 BLOCK S MARTIN LUTHER KING JR AVE": 1,
     "26400 BLOCK US HIGHWAY 19 N": 1,
     "S MARTIN LUTHER KING JR AVE / BELLEAIR RD": 1,
-    "500 BLOCK ISLAND WAY": 1
+    "500 BLOCK ISLAND WAY": 1,
+    "BELCHER RD / E WORLD PARKWAY BLVD": 1,
+    "LEILA DAVIS ELEMENTARY": 1
   },
   "hourly_distribution": {
     "0": 30,
@@ -655,7 +657,7 @@
     "7": 31,
     "8": 69,
     "9": 77,
-    "10": 68,
+    "10": 73,
     "11": 56,
     "12": 62,
     "13": 69,
@@ -671,7 +673,7 @@
     "23": 26
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-03T15:55:13.422949+00:00",
+  "last_updated": "2025-12-03T16:20:36.965240+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 334
+  "total_snapshots": 335
 }
