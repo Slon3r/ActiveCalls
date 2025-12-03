@@ -1,15 +1,15 @@
 {
-  "total_calls_tracked": 974,
-  "total_resolved": 966,
+  "total_calls_tracked": 977,
+  "total_resolved": 970,
   "call_types": {
-    "DIRECTED PATROL": 342,
+    "DIRECTED PATROL": 343,
     "TRAFFIC STOP": 139,
     "DRUNK DRIVER": 4,
     "DISTURBANCE": 19,
     "BATTERY": 4,
     "CRIMINAL MISCHIEF": 2,
     "ALARM": 15,
-    "KEEP THE PEACE": 16,
+    "KEEP THE PEACE": 17,
     "WELFARE CHECK": 20,
     "PARK WALK AND TALK": 79,
     "SUSPICIOUS PERSON": 45,
@@ -24,7 +24,7 @@
     "SUSPICIOUS EVENT": 22,
     "TRAFFIC CRASH": 39,
     "DISABLED VEHICLE": 12,
-    "ASSIST CITIZEN": 31,
+    "ASSIST CITIZEN": 32,
     "ASSIST OTHER AGENCY": 13,
     "FIRE": 2,
     "FRAUD": 5,
@@ -141,7 +141,7 @@
     "1100 BLOCK COURT ST": 1,
     "-1300 BLOCK BLK ADMIRAL WOODSON LN": 1,
     "19300 BLOCK US HIGHWAY 19 N": 2,
-    "600 BLOCK PIERCE ST": 10,
+    "600 BLOCK PIERCE ST": 11,
     "0 BLOCK 99 THIRD ST": 3,
     "0 BLOCK 98 THIRD ST": 4,
     "100 BLOCK HAMPTON RD": 1,
@@ -428,7 +428,7 @@
     "2400 BLOCK HARN BLVD": 2,
     "1400 BLOCK S MARTIN LUTHER KING JR AVE": 3,
     "OTIS C GREEN DR / N BETTY LN": 1,
-    "2600 BLOCK MCMULLEN BOOTH RD": 2,
+    "2600 BLOCK MCMULLEN BOOTH RD": 3,
     "S MADISON AVE / PIERCE ST": 1,
     "1000 BLOCK VINE AVE": 1,
     "2200 BLOCK MORNINGSIDE DR": 1,
@@ -612,12 +612,13 @@
     "-1800 BLOCK 1898 N HIGHLAND AVE": 1,
     "SR 590 / MCMULLEN BOOTH RD": 1,
     "0 BLOCK 48 BAY ESPLANADE": 1,
-    "-3100 BLOCK 3160 MASTERS DR": 1
+    "-3100 BLOCK 3160 MASTERS DR": 1,
+    "-2700 BLOCK 2748 DREW ST": 1
   },
   "hourly_distribution": {
     "0": 30,
     "1": 41,
-    "2": 20,
+    "2": 23,
     "3": 18,
     "4": 8,
     "5": 24,
@@ -641,7 +642,7 @@
     "23": 26
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-03T07:38:10.624825+00:00",
+  "last_updated": "2025-12-03T07:49:17.933237+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 309
+  "total_snapshots": 310
 }

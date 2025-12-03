@@ -13,42 +13,36 @@
       "Response_Date": "2025-12-03T01:50:13"
     },
     {
-      "Master_Incident_Number": "120325-00046",
-      "Online_Description": "ASSIST CITIZEN",
-      "Address": "300 BLOCK PINELLAS ST",
-      "Response_Date": "2025-12-03T01:51:44"
-    },
-    {
-      "Master_Incident_Number": "120325-00045",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "26200 BLOCK US HIGHWAY 19 N",
-      "Response_Date": "2025-12-03T01:53:56"
-    },
-    {
       "Master_Incident_Number": "120325-00048",
       "Online_Description": "PARK WALK AND TALK",
       "Address": "500 BLOCK N BETTY LN",
       "Response_Date": "2025-12-03T02:01:15"
     },
     {
-      "Master_Incident_Number": "120325-00049",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "SAND KEY PARK ENTRANCE",
-      "Response_Date": "2025-12-03T02:01:19"
-    },
-    {
-      "Master_Incident_Number": "120325-00051",
-      "Online_Description": "ASSIST CITIZEN",
-      "Address": "900 BLOCK SEMINOLE ST",
-      "Response_Date": "2025-12-03T02:01:41"
-    },
-    {
       "Master_Incident_Number": "120325-00050",
       "Online_Description": "DIRECTED PATROL",
       "Address": "DREW ST / N BETTY LN",
       "Response_Date": "2025-12-03T02:02:08"
+    },
+    {
+      "Master_Incident_Number": "120325-00055",
+      "Online_Description": "KEEP THE PEACE",
+      "Address": "2600 BLOCK MCMULLEN BOOTH RD",
+      "Response_Date": "2025-12-03T02:15:23"
+    },
+    {
+      "Master_Incident_Number": "120325-00058",
+      "Online_Description": "ASSIST CITIZEN",
+      "Address": "600 BLOCK PIERCE ST",
+      "Response_Date": "2025-12-03T02:24:30"
+    },
+    {
+      "Master_Incident_Number": "120325-00059",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "-2700 BLOCK 2748 DREW ST",
+      "Response_Date": "2025-12-03T02:25:42"
     }
   ],
-  "timestamp": "2025-12-03T07:38:10.622837+00:00",
-  "count": 8
+  "timestamp": "2025-12-03T07:49:17.931453+00:00",
+  "count": 7
 }
