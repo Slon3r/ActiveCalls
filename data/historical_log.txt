@@ -4592,3 +4592,11 @@ TOTAL ACTIVE CALLS: 7
 [RESOLVED] 120325-00045 | DIRECTED PATROL | 26200 BLOCK US HIGHWAY 19 N | Response: 01:53 AM
 [RESOLVED] 120325-00049 | DIRECTED PATROL | SAND KEY PARK ENTRANCE | Response: 02:01 AM
 [RESOLVED] 120325-00051 | ASSIST CITIZEN | 900 BLOCK SEMINOLE ST | Response: 02:01 AM
+
+================================================================================
+TIMESTAMP: 2025-12-03T07:56:48.220794+00:00
+TOTAL ACTIVE CALLS: 6
+================================================================================
+
+--- RESOLVED CALLS (1) ---
+[RESOLVED] 120325-00043 | ASSIST CITIZEN | 2700 BLOCK GULF TO BAY BLVD | Response: 01:50 AM
