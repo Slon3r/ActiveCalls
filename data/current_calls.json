@@ -7,22 +7,10 @@
       "Response_Date": "2025-12-03T07:20:53"
     },
     {
-      "Master_Incident_Number": "120325-00171",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "26000 BLOCK US HIGHWAY 19 N",
-      "Response_Date": "2025-12-03T08:10:51"
-    },
-    {
       "Master_Incident_Number": "120325-00189",
       "Online_Description": "THEFT",
       "Address": "800 BLOCK HARBOR IS",
       "Response_Date": "2025-12-03T08:41:21"
-    },
-    {
-      "Master_Incident_Number": "120325-00194",
-      "Online_Description": "THEFT",
-      "Address": "800 BLOCK WOODLAWN LOOP",
-      "Response_Date": "2025-12-03T08:47:15"
     },
     {
       "Master_Incident_Number": "120325-00210",
@@ -31,42 +19,54 @@
       "Response_Date": "2025-12-03T09:06:35"
     },
     {
-      "Master_Incident_Number": "120325-00213",
+      "Master_Incident_Number": "120325-00224",
+      "Online_Description": "KEEP THE PEACE",
+      "Address": "1900 BLOCK RADCLIFFE DR N",
+      "Response_Date": "2025-12-03T09:35:56"
+    },
+    {
+      "Master_Incident_Number": "120325-00229",
+      "Online_Description": "SUSPICIOUS PERSON",
+      "Address": "1300 BLOCK S MARTIN LUTHER KING JR AVE",
+      "Response_Date": "2025-12-03T09:47:59"
+    },
+    {
+      "Master_Incident_Number": "120325-00226",
+      "Online_Description": "FRAUD",
+      "Address": "1200 BLOCK S MISSOURI AVE",
+      "Response_Date": "2025-12-03T09:48:02"
+    },
+    {
+      "Master_Incident_Number": "120325-00227",
       "Online_Description": "DIRECTED PATROL",
-      "Address": "800 BLOCK DREW ST",
-      "Response_Date": "2025-12-03T09:17:28"
+      "Address": "1700 BLOCK GULF TO BAY BLVD",
+      "Response_Date": "2025-12-03T09:49:18"
     },
     {
-      "Master_Incident_Number": "120325-00215",
+      "Master_Incident_Number": "120325-00228",
       "Online_Description": "DIRECTED PATROL",
-      "Address": "OLD COACHMAN RD / DREW ST",
-      "Response_Date": "2025-12-03T09:18:16"
+      "Address": "2400 BLOCK DREW ST",
+      "Response_Date": "2025-12-03T09:49:32"
     },
     {
-      "Master_Incident_Number": "120325-00216",
-      "Online_Description": "ASSIST OTHER AGENCY",
-      "Address": "1400 BLOCK S MARTIN LUTHER KING JR AVE",
-      "Response_Date": "2025-12-03T09:18:23"
-    },
-    {
-      "Master_Incident_Number": "120325-00220",
-      "Online_Description": "DISTURBANCE",
-      "Address": "900 BLOCK CARLTON ST",
-      "Response_Date": "2025-12-03T09:23:19"
-    },
-    {
-      "Master_Incident_Number": "120325-00222",
-      "Online_Description": "TRESPASS",
-      "Address": "1200 BLOCK S MYRTLE AVE",
-      "Response_Date": "2025-12-03T09:28:05"
-    },
-    {
-      "Master_Incident_Number": "120325-00221",
+      "Master_Incident_Number": "120325-00232",
       "Online_Description": "DIRECTED PATROL",
-      "Address": "2700 BLOCK GULF TO BAY BLVD",
-      "Response_Date": "2025-12-03T09:28:55"
+      "Address": "600 BLOCK MANDALAY AVE",
+      "Response_Date": "2025-12-03T09:57:45"
+    },
+    {
+      "Master_Incident_Number": "120325-00233",
+      "Online_Description": "TRAFFIC STOP",
+      "Address": "26400 BLOCK US HIGHWAY 19 N",
+      "Response_Date": "2025-12-03T09:58:12"
+    },
+    {
+      "Master_Incident_Number": "120325-00234",
+      "Online_Description": "TRAFFIC STOP",
+      "Address": "S MARTIN LUTHER KING JR AVE / BELLEAIR RD",
+      "Response_Date": "2025-12-03T09:59:25"
     }
   ],
-  "timestamp": "2025-12-03T14:57:26.199562+00:00",
+  "timestamp": "2025-12-03T15:23:01.027052+00:00",
   "count": 11
 }
