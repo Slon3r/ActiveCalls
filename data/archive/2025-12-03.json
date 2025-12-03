@@ -1193,6 +1193,72 @@
           "Response_Date": "2025-12-03T07:35:38"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-03T13:41:02.825596+00:00",
+      "call_count": 10,
+      "calls": [
+        {
+          "Master_Incident_Number": "120325-00167",
+          "Online_Description": "PARK WALK AND TALK",
+          "Address": "1300 BLOCK PARK ST",
+          "Response_Date": "2025-12-03T08:00:22.77"
+        },
+        {
+          "Master_Incident_Number": "120325-00150",
+          "Online_Description": "WELFARE CHECK",
+          "Address": "0 BLOCK N BELCHER RD",
+          "Response_Date": "2025-12-03T07:20:53"
+        },
+        {
+          "Master_Incident_Number": "120325-00157",
+          "Online_Description": "WELFARE CHECK",
+          "Address": "2800 BLOCK MEADOW HILL DR S",
+          "Response_Date": "2025-12-03T07:31:56"
+        },
+        {
+          "Master_Incident_Number": "120325-00168",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "1400 BLOCK LAURA ST",
+          "Response_Date": "2025-12-03T08:03:05"
+        },
+        {
+          "Master_Incident_Number": "120325-00169",
+          "Online_Description": "PARK WALK AND TALK",
+          "Address": "1100 BLOCK BECKETT ST",
+          "Response_Date": "2025-12-03T08:07:30"
+        },
+        {
+          "Master_Incident_Number": "120325-00171",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "26000 BLOCK US HIGHWAY 19 N",
+          "Response_Date": "2025-12-03T08:10:51"
+        },
+        {
+          "Master_Incident_Number": "120325-00173",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "HAMPTON RD / GULF TO BAY BLVD",
+          "Response_Date": "2025-12-03T08:13:57"
+        },
+        {
+          "Master_Incident_Number": "120325-00176",
+          "Online_Description": "PARK WALK AND TALK",
+          "Address": "700 BLOCK N SATURN AVE",
+          "Response_Date": "2025-12-03T08:17:13"
+        },
+        {
+          "Master_Incident_Number": "120325-00177",
+          "Online_Description": "PARK WALK AND TALK",
+          "Address": "1700 BLOCK KINGS HWY",
+          "Response_Date": "2025-12-03T08:17:21"
+        },
+        {
+          "Master_Incident_Number": "120325-00178",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "GULF TO BAY BLVD / OLD COACHMAN RD",
+          "Response_Date": "2025-12-03T08:19:17"
+        }
+      ]
     }
   ]
 }
