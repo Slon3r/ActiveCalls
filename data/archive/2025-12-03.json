@@ -2777,6 +2777,66 @@
           "Response_Date": "2025-12-03T15:34:54"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-03T21:17:01.868117+00:00",
+      "call_count": 9,
+      "calls": [
+        {
+          "Master_Incident_Number": "120325-00327",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "1400 BLOCK GULF BLVD",
+          "Response_Date": "2025-12-03T15:44:58.257"
+        },
+        {
+          "Master_Incident_Number": "120325-00359",
+          "Online_Description": "HIT & RUN",
+          "Address": "2600 BLOCK GULF TO BAY BLVD",
+          "Response_Date": "2025-12-03T14:29:30"
+        },
+        {
+          "Master_Incident_Number": "120325-00385",
+          "Online_Description": "PARK WALK AND TALK",
+          "Address": "1800 BLOCK N HIGHLAND AVE",
+          "Response_Date": "2025-12-03T15:16:13"
+        },
+        {
+          "Master_Incident_Number": "120325-00389",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "1300 BLOCK S BELCHER RD",
+          "Response_Date": "2025-12-03T15:25:12"
+        },
+        {
+          "Master_Incident_Number": "120325-00394",
+          "Online_Description": "BATTERY",
+          "Address": "CAROL DR / N BETTY LN",
+          "Response_Date": "2025-12-03T15:28:49"
+        },
+        {
+          "Master_Incident_Number": "120325-00397",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "MEMORIAL CSWY",
+          "Response_Date": "2025-12-03T15:33:08"
+        },
+        {
+          "Master_Incident_Number": "120325-00400",
+          "Online_Description": "MISSING PERSON",
+          "Address": "600 BLOCK N KEENE RD",
+          "Response_Date": "2025-12-03T15:33:19"
+        },
+        {
+          "Master_Incident_Number": "120325-00399",
+          "Online_Description": "PARK WALK AND TALK",
+          "Address": "0 BLOCK 99 THIRD ST",
+          "Response_Date": "2025-12-03T15:34:54"
+        },
+        {
+          "Master_Incident_Number": "120325-00403",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "-2000 BLOCK 2198 PALMETTO ST",
+          "Response_Date": "2025-12-03T15:38:37"
+        }
+      ]
     }
   ]
 }

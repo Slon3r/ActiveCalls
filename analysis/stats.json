@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 1121,
-  "total_resolved": 1107,
+  "total_calls_tracked": 1124,
+  "total_resolved": 1115,
   "call_types": {
-    "DIRECTED PATROL": 406,
+    "DIRECTED PATROL": 408,
     "TRAFFIC STOP": 158,
     "DRUNK DRIVER": 4,
     "DISTURBANCE": 22,
@@ -36,7 +36,7 @@
     "CIVIL MATTER": 7,
     "DOMESTIC": 9,
     "ANIMAL CASE": 3,
-    "MISSING PERSON": 9,
+    "MISSING PERSON": 10,
     "BUILDING CHECK": 5,
     "SHOPLIFTING": 3,
     "DECEASED PERSON": 1,
@@ -415,7 +415,7 @@
     "18900 BLOCK US HIGHWAY 19 N": 1,
     "400 BLOCK BAY AVE": 1,
     "GULF TO BAY BLVD / US HIGHWAY 19 N": 2,
-    "1400 BLOCK GULF BLVD": 1,
+    "1400 BLOCK GULF BLVD": 2,
     "900 BLOCK NARCISSUS AVE": 1,
     "GARDEN AVE/ CLEVELAND ST": 1,
     "S MARTIN LUTHER KING JR AVE / KINGSLEY ST": 1,
@@ -528,7 +528,7 @@
     "1100 BLOCK WOODLAWN ST": 1,
     "200 BLOCK S STARCREST DR": 1,
     "3000 BLOCK GULF TO BAY BLVD": 2,
-    "-2000 BLOCK 2198 PALMETTO ST": 1,
+    "-2000 BLOCK 2198 PALMETTO ST": 2,
     "US HIGHWAY 19 N / SEVILLE BLVD": 1,
     "WOODBINE ST / ROLLEN RD": 1,
     "3000 BLOCK WOODSONG LN": 1,
@@ -672,7 +672,8 @@
     "COUNTRYSIDE BLVD / AUGUSTA DR N": 1,
     "0 BLOCK 199 ORANGEVIEW AVE": 1,
     "N HIGHLAND AVE / PALMETTO ST": 1,
-    "CAROL DR / N BETTY LN": 1
+    "CAROL DR / N BETTY LN": 1,
+    "600 BLOCK N KEENE RD": 1
   },
   "hourly_distribution": {
     "0": 30,
@@ -690,7 +691,7 @@
     "12": 70,
     "13": 77,
     "14": 92,
-    "15": 77,
+    "15": 80,
     "16": 65,
     "17": 57,
     "18": 46,
@@ -701,7 +702,7 @@
     "23": 26
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-03T20:56:44.504424+00:00",
+  "last_updated": "2025-12-03T21:17:01.872335+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 349
+  "total_snapshots": 350
 }
