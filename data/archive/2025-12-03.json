@@ -252,6 +252,60 @@
           "Response_Date": "2025-12-02T23:21:20"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-03T04:59:25.379062+00:00",
+      "call_count": 8,
+      "calls": [
+        {
+          "Master_Incident_Number": "120225-00604",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "200 BLOCK S GLENWOOD AVE",
+          "Response_Date": "2025-12-02T23:32:24"
+        },
+        {
+          "Master_Incident_Number": "120225-00284",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "700 BLOCK ELDORADO AVE",
+          "Response_Date": "2025-12-02T12:20:51"
+        },
+        {
+          "Master_Incident_Number": "120225-00567",
+          "Online_Description": "TRAFFIC CRASH",
+          "Address": "700 BLOCK MANDALAY AVE",
+          "Response_Date": "2025-12-02T21:07:30"
+        },
+        {
+          "Master_Incident_Number": "120225-00574",
+          "Online_Description": "MISSING PERSON",
+          "Address": "200 BLOCK DREW ST",
+          "Response_Date": "2025-12-02T21:23:52"
+        },
+        {
+          "Master_Incident_Number": "120225-00602",
+          "Online_Description": "BATTERY",
+          "Address": "1100 BLOCK BECKETT ST",
+          "Response_Date": "2025-12-02T22:55:05"
+        },
+        {
+          "Master_Incident_Number": "120225-00608",
+          "Online_Description": "DRUNK PEDESTRIAN",
+          "Address": "300 BLOCK CORONADO DR",
+          "Response_Date": "2025-12-02T23:11:15"
+        },
+        {
+          "Master_Incident_Number": "120225-00613",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "1400 BLOCK N MARTIN LUTHER KING JR AVE",
+          "Response_Date": "2025-12-02T23:32:28"
+        },
+        {
+          "Master_Incident_Number": "120225-00614",
+          "Online_Description": "SUSPICIOUS EVENT",
+          "Address": "300 BLOCK S ARCTURAS AVE",
+          "Response_Date": "2025-12-02T23:33:11"
+        }
+      ]
     }
   ]
 }

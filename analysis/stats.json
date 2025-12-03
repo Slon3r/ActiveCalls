@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 945,
-  "total_resolved": 938,
+  "total_calls_tracked": 949,
+  "total_resolved": 941,
   "call_types": {
-    "DIRECTED PATROL": 329,
+    "DIRECTED PATROL": 332,
     "TRAFFIC STOP": 134,
     "DRUNK DRIVER": 4,
     "DISTURBANCE": 19,
@@ -21,7 +21,7 @@
     "SUSPICIOUS VEHICLE": 7,
     "PANHANDLER/SOLICITOR": 2,
     "VEHICLE ILLEGALLY PARKED": 3,
-    "SUSPICIOUS EVENT": 20,
+    "SUSPICIOUS EVENT": 21,
     "TRAFFIC CRASH": 39,
     "DISABLED VEHICLE": 12,
     "ASSIST CITIZEN": 28,
@@ -150,7 +150,7 @@
     "1300 BLOCK FRANKLIN ST": 1,
     "SUNSET MEADOW DR / COLONY REED LN": 1,
     "0 BLOCK BAY ESPLANADE": 3,
-    "200 BLOCK S GLENWOOD AVE": 9,
+    "200 BLOCK S GLENWOOD AVE": 10,
     "S KEENE RD / DRUID RD": 1,
     "GULF TO BAY BLVD / BAMBOO LN": 1,
     "GULF TO BAY BLVD / BROOKSIDE DR": 1,
@@ -336,7 +336,7 @@
     "0 BLOCK N NEPTUNE AVE": 1,
     "S MYRTLE AVE / COURT ST": 1,
     "OLD COACHMAN RD / GULF TO BAY BLVD": 1,
-    "700 BLOCK ELDORADO AVE": 1,
+    "700 BLOCK ELDORADO AVE": 2,
     "700 BLOCK COURT ST": 2,
     "2500 BLOCK DRUID RD": 1,
     "100 BLOCK S GULFVIEW BLVD": 1,
@@ -508,7 +508,7 @@
     "1300 BLOCK AMBLE LN": 1,
     "1000 BLOCK ELDORADO AVE": 2,
     "-3300 BLOCK 3348 HYDE PARK DR": 1,
-    "1400 BLOCK N MARTIN LUTHER KING JR AVE": 1,
+    "1400 BLOCK N MARTIN LUTHER KING JR AVE": 2,
     "600 BLOCK BLANCHE B LITTLEJOHN TRL": 1,
     "-600 BLOCK 799 JONES ST": 1,
     "N MYRTLE AVE / MARGO AVE": 1,
@@ -603,7 +603,8 @@
     "GRAND CENTRAL ST / HAMLET AVE": 1,
     "5500 BLOCK GULF BLVD": 1,
     "-2100 BLOCK 2199 NURSERY RD": 1,
-    "SR 580 / MCMULLEN BOOTH RD": 1
+    "SR 580 / MCMULLEN BOOTH RD": 1,
+    "300 BLOCK S ARCTURAS AVE": 1
   },
   "hourly_distribution": {
     "0": 22,
@@ -618,7 +619,7 @@
     "9": 61,
     "10": 63,
     "11": 56,
-    "12": 59,
+    "12": 60,
     "13": 69,
     "14": 76,
     "15": 64,
@@ -629,10 +630,10 @@
     "20": 15,
     "21": 20,
     "22": 35,
-    "23": 22
+    "23": 25
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-03T04:47:41.964035+00:00",
+  "last_updated": "2025-12-03T04:59:25.380445+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 300
+  "total_snapshots": 301
 }
