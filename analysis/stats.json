@@ -1,6 +1,6 @@
 {
-  "total_calls_tracked": 1075,
-  "total_resolved": 1067,
+  "total_calls_tracked": 1077,
+  "total_resolved": 1069,
   "call_types": {
     "DIRECTED PATROL": 395,
     "TRAFFIC STOP": 151,
@@ -12,7 +12,7 @@
     "KEEP THE PEACE": 18,
     "WELFARE CHECK": 22,
     "PARK WALK AND TALK": 91,
-    "SUSPICIOUS PERSON": 48,
+    "SUSPICIOUS PERSON": 49,
     "TRESPASS": 27,
     "PROPERTY FOUND/LOST": 5,
     "THEFT": 16,
@@ -27,7 +27,7 @@
     "ASSIST CITIZEN": 32,
     "ASSIST OTHER AGENCY": 15,
     "FIRE": 2,
-    "FRAUD": 6,
+    "FRAUD": 7,
     "RECKLESS VEHICLE": 2,
     "JUVENILE CASE": 4,
     "HAZARD": 1,
@@ -457,7 +457,7 @@
     "3300 BLOCK SAN GABRIEL ST": 1,
     "700 BLOCK ISLAND WAY": 1,
     "1100 BLOCK LAKEVIEW RD": 1,
-    "21400 BLOCK US HIGHWAY 19 N": 2,
+    "21400 BLOCK US HIGHWAY 19 N": 3,
     "0 BLOCK 98 S MAIN AVE": 1,
     "TURNER ST / S FORT HARRISON AVE": 1,
     "24800 BLOCK US HIGHWAY 19 N": 1,
@@ -652,7 +652,8 @@
     "2600 BLOCK ENTERPRISE RD": 1,
     "MARILYN ST / NE COACHMAN RD": 1,
     "2100 BLOCK ELYSIUM BLVD": 1,
-    "1200 BLOCK SUNSET POINT RD": 1
+    "1200 BLOCK SUNSET POINT RD": 1,
+    "2700 BLOCK ENTERPRISE RD E": 1
   },
   "hourly_distribution": {
     "0": 30,
@@ -667,7 +668,7 @@
     "9": 77,
     "10": 73,
     "11": 77,
-    "12": 62,
+    "12": 64,
     "13": 69,
     "14": 76,
     "15": 64,
@@ -681,7 +682,7 @@
     "23": 26
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-03T17:36:55.121961+00:00",
+  "last_updated": "2025-12-03T17:49:46.763984+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 338
+  "total_snapshots": 339
 }

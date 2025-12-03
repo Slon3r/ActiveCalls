@@ -19,18 +19,6 @@
       "Response_Date": "2025-12-03T11:36:06"
     },
     {
-      "Master_Incident_Number": "120325-00299",
-      "Online_Description": "TRAFFIC CRASH",
-      "Address": "1200 BLOCK SUNSET POINT RD",
-      "Response_Date": "2025-12-03T11:51:50"
-    },
-    {
-      "Master_Incident_Number": "120325-00298",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "200 BLOCK S GLENWOOD AVE",
-      "Response_Date": "2025-12-03T11:53:15"
-    },
-    {
       "Master_Incident_Number": "120325-00300",
       "Online_Description": "DIRECTED PATROL",
       "Address": "500 BLOCK MANDALAY AVE",
@@ -47,8 +35,20 @@
       "Online_Description": "DIRECTED PATROL",
       "Address": "1000 BLOCK GULF BLVD",
       "Response_Date": "2025-12-03T11:58:28"
+    },
+    {
+      "Master_Incident_Number": "120325-00303",
+      "Online_Description": "FRAUD",
+      "Address": "2700 BLOCK ENTERPRISE RD E",
+      "Response_Date": "2025-12-03T12:13:02"
+    },
+    {
+      "Master_Incident_Number": "120325-00305",
+      "Online_Description": "SUSPICIOUS PERSON",
+      "Address": "21400 BLOCK US HIGHWAY 19 N",
+      "Response_Date": "2025-12-03T12:28:42"
     }
   ],
-  "timestamp": "2025-12-03T17:36:55.118659+00:00",
+  "timestamp": "2025-12-03T17:49:46.760322+00:00",
   "count": 8
 }
