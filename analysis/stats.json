@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 997,
+  "total_calls_tracked": 1000,
   "total_resolved": 997,
   "call_types": {
-    "DIRECTED PATROL": 357,
+    "DIRECTED PATROL": 360,
     "TRAFFIC STOP": 143,
     "DRUNK DRIVER": 4,
     "DISTURBANCE": 19,
@@ -68,9 +68,9 @@
     "1900 BLOCK UNION ST": 2,
     "200 BLOCK DREW ST": 4,
     "-800 BLOCK 819 NARCISSUS AVE": 2,
-    "0 BLOCK ISLAND WAY": 4,
+    "0 BLOCK ISLAND WAY": 5,
     "US HIGHWAY 19 N / SR 580": 3,
-    "400 BLOCK S GULFVIEW BLVD": 4,
+    "400 BLOCK S GULFVIEW BLVD": 5,
     "100 BLOCK S MYRTLE AVE": 2,
     "0 BLOCK CAUSEWAY BLVD": 9,
     "400 BLOCK FAIRWOOD AVE": 4,
@@ -386,7 +386,7 @@
     "S SAN REMO AVE/ GULF TO BAY BLVD": 1,
     "1300 BLOCK S HIGHLAND AVE": 2,
     "CLEVELAND ST / GULF TO BAY BLVD": 3,
-    "1400 BLOCK GULF TO BAY BLVD": 2,
+    "1400 BLOCK GULF TO BAY BLVD": 3,
     "2200 BLOCK BELLEAIR RD": 1,
     "1300 BLOCK PARK ST": 4,
     "DREW ST / US HIGHWAY 19 N": 1,
@@ -628,8 +628,8 @@
     "2": 24,
     "3": 26,
     "4": 12,
-    "5": 29,
-    "6": 29,
+    "5": 31,
+    "6": 30,
     "7": 25,
     "8": 55,
     "9": 61,
@@ -649,7 +649,7 @@
     "23": 26
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-03T11:19:06.707902+00:00",
+  "last_updated": "2025-12-03T11:33:17.503280+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 321
+  "total_snapshots": 322
 }

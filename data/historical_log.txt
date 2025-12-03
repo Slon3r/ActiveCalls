@@ -4732,3 +4732,13 @@ TOTAL ACTIVE CALLS: 0
 --- RESOLVED CALLS (2) ---
 [RESOLVED] 120325-00102 | DIRECTED PATROL | -800 BLOCK 819 NARCISSUS AVE | Response: 05:20 AM
 [RESOLVED] 120325-00104 | TRAFFIC STOP | COURT ST / S HILLCREST AVE | Response: 05:33 AM
+
+================================================================================
+TIMESTAMP: 2025-12-03T11:33:17.501176+00:00
+TOTAL ACTIVE CALLS: 3
+================================================================================
+
+--- NEW CALLS (3) ---
+[NEW] 120325-00110 | DIRECTED PATROL | 0 BLOCK ISLAND WAY | Response: 05:51 AM
+[NEW] 120325-00111 | DIRECTED PATROL | 400 BLOCK S GULFVIEW BLVD | Response: 05:59 AM
+[NEW] 120325-00118 | DIRECTED PATROL | 1400 BLOCK GULF TO BAY BLVD | Response: 06:09 AM
