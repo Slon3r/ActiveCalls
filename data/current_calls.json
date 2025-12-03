@@ -7,60 +7,48 @@
       "Response_Date": "2025-12-03T14:29:30"
     },
     {
-      "Master_Incident_Number": "120325-00394",
-      "Online_Description": "BATTERY",
-      "Address": "CAROL DR / N BETTY LN",
-      "Response_Date": "2025-12-03T15:28:49"
-    },
-    {
-      "Master_Incident_Number": "120325-00409",
-      "Online_Description": "TRAFFIC CRASH",
-      "Address": "MCMULLEN BOOTH RD / PINE HILL DR",
-      "Response_Date": "2025-12-03T15:46:25"
-    },
-    {
-      "Master_Incident_Number": "120325-00421",
-      "Online_Description": "WELFARE CHECK",
-      "Address": "1300 BLOCK FRANKLIN ST",
-      "Response_Date": "2025-12-03T16:13:19"
-    },
-    {
-      "Master_Incident_Number": "120325-00424",
-      "Online_Description": "CRIMINAL MISCHIEF",
-      "Address": "200 BLOCK N BETTY LN",
-      "Response_Date": "2025-12-03T16:16:06"
-    },
-    {
-      "Master_Incident_Number": "120325-00431",
-      "Online_Description": "MISSING PERSON",
-      "Address": "25300 BLOCK US HIGHWAY 19 N",
-      "Response_Date": "2025-12-03T16:35:41"
-    },
-    {
-      "Master_Incident_Number": "120325-00440",
-      "Online_Description": "WELFARE CHECK",
-      "Address": "NURSERY RD / US HIGHWAY 19 N",
-      "Response_Date": "2025-12-03T16:46:48"
-    },
-    {
       "Master_Incident_Number": "120325-00441",
       "Online_Description": "TRAFFIC CRASH",
       "Address": "N NEPTUNE AVE / CLEVELAND ST",
       "Response_Date": "2025-12-03T16:53:10"
     },
     {
-      "Master_Incident_Number": "120325-00442",
-      "Online_Description": "911 HANG-UP",
-      "Address": "1300 BLOCK SANDY LN",
-      "Response_Date": "2025-12-03T16:54:35"
-    },
-    {
       "Master_Incident_Number": "120325-00444",
       "Online_Description": "PARK WALK AND TALK",
       "Address": "0 BLOCK 29 SAN MARCO ST",
       "Response_Date": "2025-12-03T16:57:32"
+    },
+    {
+      "Master_Incident_Number": "120325-00446",
+      "Online_Description": "DOMESTIC",
+      "Address": "1600 BLOCK FULTON AVE",
+      "Response_Date": "2025-12-03T16:59:57"
+    },
+    {
+      "Master_Incident_Number": "120325-00452",
+      "Online_Description": "TRAFFIC STOP",
+      "Address": "CAUSEWAY BLVD / EAST SHORE DR",
+      "Response_Date": "2025-12-03T17:14:59"
+    },
+    {
+      "Master_Incident_Number": "120325-00453",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "SUNSET POINT RD / N HERCULES AVE",
+      "Response_Date": "2025-12-03T17:15:41"
+    },
+    {
+      "Master_Incident_Number": "120325-00454",
+      "Online_Description": "TRAFFIC STOP",
+      "Address": "400 BLOCK HAMDEN DR",
+      "Response_Date": "2025-12-03T17:15:49"
+    },
+    {
+      "Master_Incident_Number": "120325-00458",
+      "Online_Description": "TRAFFIC STOP",
+      "Address": "SUNSET POINT RD / N HERCULES AVE",
+      "Response_Date": "2025-12-03T17:18:34"
     }
   ],
-  "timestamp": "2025-12-03T22:18:49.315354+00:00",
-  "count": 10
+  "timestamp": "2025-12-03T22:39:30.214727+00:00",
+  "count": 8
 }

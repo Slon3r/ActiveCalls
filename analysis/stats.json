@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 1143,
-  "total_resolved": 1133,
+  "total_calls_tracked": 1148,
+  "total_resolved": 1140,
   "call_types": {
-    "DIRECTED PATROL": 412,
-    "TRAFFIC STOP": 160,
+    "DIRECTED PATROL": 413,
+    "TRAFFIC STOP": 163,
     "DRUNK DRIVER": 4,
     "DISTURBANCE": 22,
     "BATTERY": 5,
@@ -34,7 +34,7 @@
     "UNKNOWN PROBLEM": 6,
     "NOISE COMPLAINT": 4,
     "CIVIL MATTER": 8,
-    "DOMESTIC": 9,
+    "DOMESTIC": 10,
     "ANIMAL CASE": 3,
     "MISSING PERSON": 11,
     "BUILDING CHECK": 5,
@@ -680,7 +680,11 @@
     "1500 BLOCK S MYRTLE AVE": 1,
     "NURSERY RD / US HIGHWAY 19 N": 1,
     "N NEPTUNE AVE / CLEVELAND ST": 1,
-    "0 BLOCK 29 SAN MARCO ST": 1
+    "0 BLOCK 29 SAN MARCO ST": 1,
+    "1600 BLOCK FULTON AVE": 1,
+    "CAUSEWAY BLVD / EAST SHORE DR": 1,
+    "SUNSET POINT RD / N HERCULES AVE": 2,
+    "400 BLOCK HAMDEN DR": 1
   },
   "hourly_distribution": {
     "0": 30,
@@ -699,8 +703,8 @@
     "13": 77,
     "14": 92,
     "15": 83,
-    "16": 81,
-    "17": 57,
+    "16": 82,
+    "17": 61,
     "18": 46,
     "19": 12,
     "20": 15,
@@ -709,7 +713,7 @@
     "23": 26
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-03T22:18:49.319963+00:00",
+  "last_updated": "2025-12-03T22:39:30.219314+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 355
+  "total_snapshots": 356
 }

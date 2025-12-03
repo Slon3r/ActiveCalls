@@ -3167,6 +3167,60 @@
           "Response_Date": "2025-12-03T16:57:32"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-03T22:39:30.214727+00:00",
+      "call_count": 8,
+      "calls": [
+        {
+          "Master_Incident_Number": "120325-00359",
+          "Online_Description": "HIT & RUN",
+          "Address": "2600 BLOCK GULF TO BAY BLVD",
+          "Response_Date": "2025-12-03T14:29:30"
+        },
+        {
+          "Master_Incident_Number": "120325-00441",
+          "Online_Description": "TRAFFIC CRASH",
+          "Address": "N NEPTUNE AVE / CLEVELAND ST",
+          "Response_Date": "2025-12-03T16:53:10"
+        },
+        {
+          "Master_Incident_Number": "120325-00444",
+          "Online_Description": "PARK WALK AND TALK",
+          "Address": "0 BLOCK 29 SAN MARCO ST",
+          "Response_Date": "2025-12-03T16:57:32"
+        },
+        {
+          "Master_Incident_Number": "120325-00446",
+          "Online_Description": "DOMESTIC",
+          "Address": "1600 BLOCK FULTON AVE",
+          "Response_Date": "2025-12-03T16:59:57"
+        },
+        {
+          "Master_Incident_Number": "120325-00452",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "CAUSEWAY BLVD / EAST SHORE DR",
+          "Response_Date": "2025-12-03T17:14:59"
+        },
+        {
+          "Master_Incident_Number": "120325-00453",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "SUNSET POINT RD / N HERCULES AVE",
+          "Response_Date": "2025-12-03T17:15:41"
+        },
+        {
+          "Master_Incident_Number": "120325-00454",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "400 BLOCK HAMDEN DR",
+          "Response_Date": "2025-12-03T17:15:49"
+        },
+        {
+          "Master_Incident_Number": "120325-00458",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "SUNSET POINT RD / N HERCULES AVE",
+          "Response_Date": "2025-12-03T17:18:34"
+        }
+      ]
     }
   ]
 }
