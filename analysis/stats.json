@@ -1,16 +1,16 @@
 {
-  "total_calls_tracked": 1131,
-  "total_resolved": 1124,
+  "total_calls_tracked": 1136,
+  "total_resolved": 1125,
   "call_types": {
-    "DIRECTED PATROL": 409,
-    "TRAFFIC STOP": 159,
+    "DIRECTED PATROL": 411,
+    "TRAFFIC STOP": 160,
     "DRUNK DRIVER": 4,
     "DISTURBANCE": 22,
     "BATTERY": 5,
-    "CRIMINAL MISCHIEF": 2,
+    "CRIMINAL MISCHIEF": 3,
     "ALARM": 15,
     "KEEP THE PEACE": 19,
-    "WELFARE CHECK": 23,
+    "WELFARE CHECK": 24,
     "PARK WALK AND TALK": 95,
     "SUSPICIOUS PERSON": 51,
     "TRESPASS": 28,
@@ -118,14 +118,14 @@
     "2500 BLOCK GULF TO BAY BLVD": 6,
     "1600 BLOCK N MCMULLEN BOOTH RD": 1,
     "1200 BLOCK DREW ST": 2,
-    "2400 BLOCK DREW ST": 3,
+    "2400 BLOCK DREW ST": 4,
     "-1100 BLOCK 1582 GULF BLVD": 3,
     "3300 BLOCK COURTNEY CAMPBELL CSWY": 4,
     "1200 BLOCK COURT ST": 3,
     "1400 BLOCK OWEN DR": 1,
     "200 BLOCK ISLAND WAY": 2,
     "-500 BLOCK BLK CLEVELAND ST": 1,
-    "0 BLOCK MEMORIAL CSWY": 6,
+    "0 BLOCK MEMORIAL CSWY": 7,
     "COUNTRYSIDE BLVD / NORTHRIDGE DR": 1,
     "NE COACHMAN RD / US HIGHWAY 19 N": 2,
     "LOTUS PATH / BAY AVE": 1,
@@ -148,7 +148,7 @@
     "100 BLOCK HAMPTON RD": 1,
     "GULF TO BAY BLVD / PARK PLACE BLVD": 1,
     "2000 BLOCK N HERCULES AVE": 2,
-    "1300 BLOCK FRANKLIN ST": 1,
+    "1300 BLOCK FRANKLIN ST": 2,
     "SUNSET MEADOW DR / COLONY REED LN": 1,
     "0 BLOCK BAY ESPLANADE": 3,
     "200 BLOCK S GLENWOOD AVE": 14,
@@ -674,7 +674,9 @@
     "N HIGHLAND AVE / PALMETTO ST": 1,
     "CAROL DR / N BETTY LN": 1,
     "600 BLOCK N KEENE RD": 1,
-    "US HIGHWAY 19 N / BELLEAIR BLVD": 1
+    "US HIGHWAY 19 N / BELLEAIR BLVD": 1,
+    "200 BLOCK N BETTY LN": 1,
+    "-3000 BLOCK BLK SR 580": 1
   },
   "hourly_distribution": {
     "0": 30,
@@ -693,7 +695,7 @@
     "13": 77,
     "14": 92,
     "15": 83,
-    "16": 69,
+    "16": 74,
     "17": 57,
     "18": 46,
     "19": 12,
@@ -703,7 +705,7 @@
     "23": 26
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-03T21:41:23.114484+00:00",
+  "last_updated": "2025-12-03T21:49:19.518326+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 352
+  "total_snapshots": 353
 }

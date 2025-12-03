@@ -2945,6 +2945,78 @@
           "Response_Date": "2025-12-03T16:17:12"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-03T21:49:19.514006+00:00",
+      "call_count": 11,
+      "calls": [
+        {
+          "Master_Incident_Number": "120325-00359",
+          "Online_Description": "HIT & RUN",
+          "Address": "2600 BLOCK GULF TO BAY BLVD",
+          "Response_Date": "2025-12-03T14:29:30"
+        },
+        {
+          "Master_Incident_Number": "120325-00394",
+          "Online_Description": "BATTERY",
+          "Address": "CAROL DR / N BETTY LN",
+          "Response_Date": "2025-12-03T15:28:49"
+        },
+        {
+          "Master_Incident_Number": "120325-00400",
+          "Online_Description": "MISSING PERSON",
+          "Address": "600 BLOCK N KEENE RD",
+          "Response_Date": "2025-12-03T15:33:19"
+        },
+        {
+          "Master_Incident_Number": "120325-00409",
+          "Online_Description": "TRAFFIC CRASH",
+          "Address": "2600 BLOCK MCMULLEN BOOTH RD",
+          "Response_Date": "2025-12-03T15:46:25"
+        },
+        {
+          "Master_Incident_Number": "120325-00416",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "DREW ST / BAYVIEW AVE",
+          "Response_Date": "2025-12-03T16:00:28"
+        },
+        {
+          "Master_Incident_Number": "120325-00421",
+          "Online_Description": "WELFARE CHECK",
+          "Address": "1300 BLOCK FRANKLIN ST",
+          "Response_Date": "2025-12-03T16:13:19"
+        },
+        {
+          "Master_Incident_Number": "120325-00424",
+          "Online_Description": "CRIMINAL MISCHIEF",
+          "Address": "200 BLOCK N BETTY LN",
+          "Response_Date": "2025-12-03T16:16:06"
+        },
+        {
+          "Master_Incident_Number": "120325-00420",
+          "Online_Description": "TRAFFIC CRASH",
+          "Address": "1600 BLOCK N HIGHLAND AVE",
+          "Response_Date": "2025-12-03T16:17:12"
+        },
+        {
+          "Master_Incident_Number": "120325-00423",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "0 BLOCK MEMORIAL CSWY",
+          "Response_Date": "2025-12-03T16:23:18"
+        },
+        {
+          "Master_Incident_Number": "120325-00425",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "-3000 BLOCK BLK SR 580",
+          "Response_Date": "2025-12-03T16:24:22"
+        },
+        {
+          "Master_Incident_Number": "120325-00427",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "2400 BLOCK DREW ST",
+          "Response_Date": "2025-12-03T16:27:21"
+        }
+      ]
     }
   ]
 }
