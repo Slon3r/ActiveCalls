@@ -1,12 +1,6 @@
 {
   "calls": [
     {
-      "Master_Incident_Number": "120325-00441",
-      "Online_Description": "TRAFFIC CRASH",
-      "Address": "N NEPTUNE AVE / CLEVELAND ST",
-      "Response_Date": "2025-12-03T16:53:10"
-    },
-    {
       "Master_Incident_Number": "120325-00444",
       "Online_Description": "PARK WALK AND TALK",
       "Address": "0 BLOCK 29 SAN MARCO ST",
@@ -19,36 +13,30 @@
       "Response_Date": "2025-12-03T17:15:41"
     },
     {
-      "Master_Incident_Number": "120325-00461",
-      "Online_Description": "TRAFFIC STOP",
-      "Address": "SUNSET POINT RD / N HERCULES AVE",
-      "Response_Date": "2025-12-03T17:26:57"
-    },
-    {
-      "Master_Incident_Number": "120325-00462",
-      "Online_Description": "911 HANG-UP",
-      "Address": "600 BLOCK CLEVELAND ST",
-      "Response_Date": "2025-12-03T17:29:25"
-    },
-    {
       "Master_Incident_Number": "120325-00469",
       "Online_Description": "HIT & RUN",
       "Address": "COUNTRYSIDE BLVD / SR 580",
       "Response_Date": "2025-12-03T17:30:32"
     },
     {
-      "Master_Incident_Number": "120325-00464",
-      "Online_Description": "TRAFFIC STOP",
-      "Address": "1000 BLOCK GULF BLVD",
-      "Response_Date": "2025-12-03T17:31:13"
+      "Master_Incident_Number": "120325-00472",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "300 BLOCK CLEVELAND ST",
+      "Response_Date": "2025-12-03T17:40:05"
     },
     {
-      "Master_Incident_Number": "120325-00465",
-      "Online_Description": "PARK WALK AND TALK",
-      "Address": "MCMULLEN BOOTH RD / KAPOK KOVE DR",
-      "Response_Date": "2025-12-03T17:31:29"
+      "Master_Incident_Number": "120325-00475",
+      "Online_Description": "HAZARD",
+      "Address": "1000 BLOCK COURT ST",
+      "Response_Date": "2025-12-03T17:48:44"
+    },
+    {
+      "Master_Incident_Number": "120325-00477",
+      "Online_Description": "TRAFFIC STOP",
+      "Address": "COURT ST / S SAN REMO AVE",
+      "Response_Date": "2025-12-03T17:57:31"
     }
   ],
-  "timestamp": "2025-12-03T22:58:52.363448+00:00",
-  "count": 8
+  "timestamp": "2025-12-03T23:19:58.865344+00:00",
+  "count": 6
 }
