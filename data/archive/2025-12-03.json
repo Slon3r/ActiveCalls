@@ -3407,6 +3407,42 @@
           "Response_Date": "2025-12-03T18:07:06"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-03T23:51:50.200343+00:00",
+      "call_count": 5,
+      "calls": [
+        {
+          "Master_Incident_Number": "120325-00469",
+          "Online_Description": "HIT & RUN",
+          "Address": "COUNTRYSIDE BLVD / SR 580",
+          "Response_Date": "2025-12-03T17:30:32"
+        },
+        {
+          "Master_Incident_Number": "120325-00487",
+          "Online_Description": "DISABLED VEHICLE",
+          "Address": "ALLEN AVE / MCMULLEN BOOTH RD",
+          "Response_Date": "2025-12-03T18:13:05"
+        },
+        {
+          "Master_Incident_Number": "120325-00492",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "SUNSET POINT RD / N HERCULES AVE",
+          "Response_Date": "2025-12-03T18:25:03"
+        },
+        {
+          "Master_Incident_Number": "120325-00494",
+          "Online_Description": "PARK WALK AND TALK",
+          "Address": "2100 BLOCK GULF TO BAY BLVD",
+          "Response_Date": "2025-12-03T18:27:30"
+        },
+        {
+          "Master_Incident_Number": "120325-00495",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "COURT ST / S MADISON AVE",
+          "Response_Date": "2025-12-03T18:28:22"
+        }
+      ]
     }
   ]
 }

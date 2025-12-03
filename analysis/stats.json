@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 1159,
-  "total_resolved": 1156,
+  "total_calls_tracked": 1163,
+  "total_resolved": 1158,
   "call_types": {
-    "DIRECTED PATROL": 414,
-    "TRAFFIC STOP": 167,
+    "DIRECTED PATROL": 415,
+    "TRAFFIC STOP": 168,
     "DRUNK DRIVER": 4,
     "DISTURBANCE": 22,
     "BATTERY": 5,
@@ -11,7 +11,7 @@
     "ALARM": 15,
     "KEEP THE PEACE": 19,
     "WELFARE CHECK": 25,
-    "PARK WALK AND TALK": 97,
+    "PARK WALK AND TALK": 98,
     "SUSPICIOUS PERSON": 51,
     "TRESPASS": 28,
     "PROPERTY FOUND/LOST": 6,
@@ -23,7 +23,7 @@
     "VEHICLE ILLEGALLY PARKED": 3,
     "SUSPICIOUS EVENT": 23,
     "TRAFFIC CRASH": 46,
-    "DISABLED VEHICLE": 12,
+    "DISABLED VEHICLE": 13,
     "ASSIST CITIZEN": 33,
     "ASSIST OTHER AGENCY": 16,
     "FIRE": 2,
@@ -87,7 +87,7 @@
     "1400 BLOCK LAURA ST": 2,
     "ENTERPRISE RD E / VILLAGE DR": 2,
     "GULF TO BAY BLVD / HAMPTON RD": 1,
-    "2100 BLOCK GULF TO BAY BLVD": 11,
+    "2100 BLOCK GULF TO BAY BLVD": 12,
     "1300 BLOCK CLEVELAND ST": 8,
     "2100 BLOCK BELCHER RD": 1,
     "SAND KEY PARK ENTRANCE": 4,
@@ -364,7 +364,7 @@
     "700 BLOCK S KEENE RD": 2,
     "CHESTNUT ST / S GARDEN AVE": 1,
     "1300 BLOCK COURT ST": 3,
-    "COURT ST / S MADISON AVE": 1,
+    "COURT ST / S MADISON AVE": 2,
     "600 BLOCK N MYRTLE AVE": 1,
     "MCMULLEN BOOTH RD / SUNSET POINT RD": 1,
     "1400 BLOCK S MISSOURI": 1,
@@ -683,7 +683,7 @@
     "0 BLOCK 29 SAN MARCO ST": 1,
     "1600 BLOCK FULTON AVE": 1,
     "CAUSEWAY BLVD / EAST SHORE DR": 1,
-    "SUNSET POINT RD / N HERCULES AVE": 3,
+    "SUNSET POINT RD / N HERCULES AVE": 4,
     "400 BLOCK HAMDEN DR": 1,
     "1300 BLOCK SUNSET POINT RD": 1,
     "COUNTRYSIDE BLVD / SR 580": 1,
@@ -691,7 +691,8 @@
     "1000 BLOCK COURT ST": 1,
     "COURT ST / S SAN REMO AVE": 1,
     "2300 BLOCK DRUID RD": 1,
-    "BAY ESPLANADE / MANDALAY AVE": 1
+    "BAY ESPLANADE / MANDALAY AVE": 1,
+    "ALLEN AVE / MCMULLEN BOOTH RD": 1
   },
   "hourly_distribution": {
     "0": 30,
@@ -712,7 +713,7 @@
     "15": 83,
     "16": 83,
     "17": 69,
-    "18": 48,
+    "18": 52,
     "19": 12,
     "20": 15,
     "21": 20,
@@ -720,7 +721,7 @@
     "23": 26
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-03T23:43:29.315783+00:00",
+  "last_updated": "2025-12-03T23:51:50.205248+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 361
+  "total_snapshots": 362
 }
