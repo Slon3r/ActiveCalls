@@ -1,6 +1,6 @@
 {
-  "total_calls_tracked": 1077,
-  "total_resolved": 1069,
+  "total_calls_tracked": 1078,
+  "total_resolved": 1070,
   "call_types": {
     "DIRECTED PATROL": 395,
     "TRAFFIC STOP": 151,
@@ -36,7 +36,7 @@
     "CIVIL MATTER": 7,
     "DOMESTIC": 9,
     "ANIMAL CASE": 3,
-    "MISSING PERSON": 8,
+    "MISSING PERSON": 9,
     "BUILDING CHECK": 5,
     "SHOPLIFTING": 3,
     "DECEASED PERSON": 1,
@@ -653,7 +653,8 @@
     "MARILYN ST / NE COACHMAN RD": 1,
     "2100 BLOCK ELYSIUM BLVD": 1,
     "1200 BLOCK SUNSET POINT RD": 1,
-    "2700 BLOCK ENTERPRISE RD E": 1
+    "2700 BLOCK ENTERPRISE RD E": 1,
+    "400 BLOCK PINELLAS ST": 1
   },
   "hourly_distribution": {
     "0": 30,
@@ -668,7 +669,7 @@
     "9": 77,
     "10": 73,
     "11": 77,
-    "12": 64,
+    "12": 65,
     "13": 69,
     "14": 76,
     "15": 64,
@@ -682,7 +683,7 @@
     "23": 26
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-03T17:49:46.763984+00:00",
+  "last_updated": "2025-12-03T17:57:56.114004+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 339
+  "total_snapshots": 340
 }
