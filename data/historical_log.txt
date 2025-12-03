@@ -5397,3 +5397,11 @@ TOTAL ACTIVE CALLS: 4
 [RESOLVED] 120325-00472 | DIRECTED PATROL | 300 BLOCK CLEVELAND ST | Response: 05:40 PM
 [RESOLVED] 120325-00475 | HAZARD | 1000 BLOCK COURT ST | Response: 05:48 PM
 [RESOLVED] 120325-00477 | TRAFFIC STOP | COURT ST / S SAN REMO AVE | Response: 05:57 PM
+
+================================================================================
+TIMESTAMP: 2025-12-03T23:43:29.311077+00:00
+TOTAL ACTIVE CALLS: 3
+================================================================================
+
+--- RESOLVED CALLS (1) ---
+[RESOLVED] 120325-00486 | TRAFFIC STOP | BAY ESPLANADE / MANDALAY AVE | Response: 06:09 PM
