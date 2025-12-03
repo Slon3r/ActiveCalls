@@ -7,12 +7,6 @@
       "Response_Date": "2025-12-03T03:02:10"
     },
     {
-      "Master_Incident_Number": "120325-00084",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "-2500 BLOCK 2528 DRIVEWAY PARKING",
-      "Response_Date": "2025-12-03T04:18:26"
-    },
-    {
       "Master_Incident_Number": "120325-00085",
       "Online_Description": "PARK WALK AND TALK",
       "Address": "S MISSOURI AVE / JEFFORDS ST",
@@ -25,6 +19,6 @@
       "Response_Date": "2025-12-03T04:23:42"
     }
   ],
-  "timestamp": "2025-12-03T09:51:13.640316+00:00",
-  "count": 4
+  "timestamp": "2025-12-03T09:58:58.348871+00:00",
+  "count": 3
 }
