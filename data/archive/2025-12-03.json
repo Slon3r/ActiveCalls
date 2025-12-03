@@ -2201,6 +2201,84 @@
           "Response_Date": "2025-12-03T13:33:33"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-03T19:31:23.547165+00:00",
+      "call_count": 12,
+      "calls": [
+        {
+          "Master_Incident_Number": "120325-00224",
+          "Online_Description": "KEEP THE PEACE",
+          "Address": "1900 BLOCK RADCLIFFE DR N",
+          "Response_Date": "2025-12-03T09:35:56"
+        },
+        {
+          "Master_Incident_Number": "120325-00301",
+          "Online_Description": "ASSAULT",
+          "Address": "1000 BLOCK ELDORADO AVE",
+          "Response_Date": "2025-12-03T11:55:47"
+        },
+        {
+          "Master_Incident_Number": "120325-00303",
+          "Online_Description": "FRAUD",
+          "Address": "2700 BLOCK ENTERPRISE RD E",
+          "Response_Date": "2025-12-03T12:13:02"
+        },
+        {
+          "Master_Incident_Number": "120325-00309",
+          "Online_Description": "KEEP THE PEACE",
+          "Address": "1000 BLOCK N MARTIN LUTHER KING JR AVE",
+          "Response_Date": "2025-12-03T12:34:46"
+        },
+        {
+          "Master_Incident_Number": "120325-00330",
+          "Online_Description": "ASSIST OTHER AGENCY",
+          "Address": "MCMULLEN BOOTH RD / SR 590",
+          "Response_Date": "2025-12-03T13:32:55"
+        },
+        {
+          "Master_Incident_Number": "120325-00329",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "1200 BLOCK DOUGLAS AVE",
+          "Response_Date": "2025-12-03T13:33:33"
+        },
+        {
+          "Master_Incident_Number": "120325-00333",
+          "Online_Description": "TRAFFIC CRASH",
+          "Address": "600 BLOCK CLEVELAND ST",
+          "Response_Date": "2025-12-03T13:38:53"
+        },
+        {
+          "Master_Incident_Number": "120325-00338",
+          "Online_Description": "FRAUD",
+          "Address": "100 BLOCK SAND KEY ESTATES DR",
+          "Response_Date": "2025-12-03T13:51:27"
+        },
+        {
+          "Master_Incident_Number": "120325-00343",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "HARN BLVD / FLUSHING AVE",
+          "Response_Date": "2025-12-03T14:02:20"
+        },
+        {
+          "Master_Incident_Number": "120325-00344",
+          "Online_Description": "SUSPICIOUS PERSON",
+          "Address": "900 BLOCK N GARDEN AVE",
+          "Response_Date": "2025-12-03T14:02:45"
+        },
+        {
+          "Master_Incident_Number": "120325-00345",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "20500 BLOCK US HIGHWAY 19 N",
+          "Response_Date": "2025-12-03T14:08:18"
+        },
+        {
+          "Master_Incident_Number": "120325-00347",
+          "Online_Description": "SUSPICIOUS PERSON",
+          "Address": "2700 BLOCK GULF TO BAY BLVD",
+          "Response_Date": "2025-12-03T14:10:41"
+        }
+      ]
     }
   ]
 }
