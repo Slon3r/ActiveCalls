@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 958,
-  "total_resolved": 951,
+  "total_calls_tracked": 961,
+  "total_resolved": 954,
   "call_types": {
-    "DIRECTED PATROL": 335,
-    "TRAFFIC STOP": 138,
+    "DIRECTED PATROL": 336,
+    "TRAFFIC STOP": 139,
     "DRUNK DRIVER": 4,
     "DISTURBANCE": 19,
     "BATTERY": 4,
@@ -21,7 +21,7 @@
     "SUSPICIOUS VEHICLE": 7,
     "PANHANDLER/SOLICITOR": 2,
     "VEHICLE ILLEGALLY PARKED": 3,
-    "SUSPICIOUS EVENT": 21,
+    "SUSPICIOUS EVENT": 22,
     "TRAFFIC CRASH": 39,
     "DISABLED VEHICLE": 12,
     "ASSIST CITIZEN": 28,
@@ -499,7 +499,7 @@
     "S OSCEOLA AVE / COURT ST": 1,
     "N BELCHER RD / SUNSET POINT RD": 1,
     "-2800 BLOCK 2898 EAGLE ESTATES CIR N": 1,
-    "1400 BLOCK SPRINGDALE ST": 1,
+    "1400 BLOCK SPRINGDALE ST": 2,
     "-2000 BLOCK 2098 SUNSET GROVE LN": 1,
     "2300 BLOCK DREW ST": 1,
     "23000 BLOCK US HIGHWAY 19 N": 1,
@@ -608,11 +608,13 @@
     "S MISSOURI AVE / DRUID RD": 1,
     "1000 BLOCK CARLTON ST": 1,
     "GULF TO BAY BLVD / BAYSIDE BRG": 1,
-    "GULF TO BAY BLVD / S BAYSHORE BLVD": 1
+    "GULF TO BAY BLVD / S BAYSHORE BLVD": 1,
+    "-1800 BLOCK 1898 N HIGHLAND AVE": 1,
+    "SR 590 / MCMULLEN BOOTH RD": 1
   },
   "hourly_distribution": {
     "0": 30,
-    "1": 30,
+    "1": 33,
     "2": 16,
     "3": 18,
     "4": 8,
@@ -637,7 +639,7 @@
     "23": 26
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-03T05:58:57.012011+00:00",
+  "last_updated": "2025-12-03T06:36:54.802169+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 305
+  "total_snapshots": 306
 }

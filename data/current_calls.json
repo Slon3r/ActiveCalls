@@ -7,12 +7,6 @@
       "Response_Date": "2025-12-02T21:07:30"
     },
     {
-      "Master_Incident_Number": "120225-00622",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "S MISSOURI AVE / DRUID RD",
-      "Response_Date": "2025-12-02T23:56:46"
-    },
-    {
       "Master_Incident_Number": "120325-00002",
       "Online_Description": "TRESPASS",
       "Address": "300 BLOCK CORONADO DR",
@@ -31,18 +25,24 @@
       "Response_Date": "2025-12-03T00:27:59"
     },
     {
-      "Master_Incident_Number": "120325-00011",
-      "Online_Description": "TRAFFIC STOP",
-      "Address": "GULF TO BAY BLVD / S BAYSHORE BLVD",
-      "Response_Date": "2025-12-03T00:31:51"
+      "Master_Incident_Number": "120325-00026",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "-1800 BLOCK 1898 N HIGHLAND AVE",
+      "Response_Date": "2025-12-03T01:11:01"
     },
     {
-      "Master_Incident_Number": "120325-00012",
+      "Master_Incident_Number": "120325-00027",
       "Online_Description": "TRAFFIC STOP",
-      "Address": "GULF TO BAY BLVD / MCMULLEN BOOTH RD S",
-      "Response_Date": "2025-12-03T00:33:55"
+      "Address": "SR 590 / MCMULLEN BOOTH RD",
+      "Response_Date": "2025-12-03T01:11:51"
+    },
+    {
+      "Master_Incident_Number": "120325-00028",
+      "Online_Description": "SUSPICIOUS EVENT",
+      "Address": "1400 BLOCK SPRINGDALE ST",
+      "Response_Date": "2025-12-03T01:13:32"
     }
   ],
-  "timestamp": "2025-12-03T05:58:57.010471+00:00",
+  "timestamp": "2025-12-03T06:36:54.800541+00:00",
   "count": 7
 }
