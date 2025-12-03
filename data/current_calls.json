@@ -31,12 +31,6 @@
       "Response_Date": "2025-12-03T13:32:55"
     },
     {
-      "Master_Incident_Number": "120325-00329",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "1200 BLOCK DOUGLAS AVE",
-      "Response_Date": "2025-12-03T13:33:33"
-    },
-    {
       "Master_Incident_Number": "120325-00333",
       "Online_Description": "TRAFFIC CRASH",
       "Address": "600 BLOCK CLEVELAND ST",
@@ -49,10 +43,10 @@
       "Response_Date": "2025-12-03T13:51:27"
     },
     {
-      "Master_Incident_Number": "120325-00343",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "HARN BLVD / FLUSHING AVE",
-      "Response_Date": "2025-12-03T14:02:20"
+      "Master_Incident_Number": "120325-00342",
+      "Online_Description": "FRAUD",
+      "Address": "500 BLOCK S LINCOLN AVE",
+      "Response_Date": "2025-12-03T13:58:32"
     },
     {
       "Master_Incident_Number": "120325-00344",
@@ -71,8 +65,26 @@
       "Online_Description": "SUSPICIOUS PERSON",
       "Address": "2700 BLOCK GULF TO BAY BLVD",
       "Response_Date": "2025-12-03T14:10:41"
+    },
+    {
+      "Master_Incident_Number": "120325-00348",
+      "Online_Description": "SCHOOL CROSSING",
+      "Address": "DREW ST / FAIRWOOD AVE",
+      "Response_Date": "2025-12-03T14:13:02"
+    },
+    {
+      "Master_Incident_Number": "120325-00350",
+      "Online_Description": "UNKNOWN PROBLEM",
+      "Address": "1600 BLOCK N HIGHLAND AVE",
+      "Response_Date": "2025-12-03T14:18:01"
+    },
+    {
+      "Master_Incident_Number": "120325-00353",
+      "Online_Description": "TRAFFIC STOP",
+      "Address": "DREW ST / N LINCOLN AVE",
+      "Response_Date": "2025-12-03T14:21:57"
     }
   ],
-  "timestamp": "2025-12-03T19:31:23.547165+00:00",
-  "count": 12
+  "timestamp": "2025-12-03T19:43:02.165744+00:00",
+  "count": 14
 }

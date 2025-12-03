@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 1095,
-  "total_resolved": 1083,
+  "total_calls_tracked": 1099,
+  "total_resolved": 1085,
   "call_types": {
     "DIRECTED PATROL": 401,
-    "TRAFFIC STOP": 151,
+    "TRAFFIC STOP": 152,
     "DRUNK DRIVER": 4,
     "DISTURBANCE": 21,
     "BATTERY": 4,
@@ -27,11 +27,11 @@
     "ASSIST CITIZEN": 32,
     "ASSIST OTHER AGENCY": 15,
     "FIRE": 2,
-    "FRAUD": 9,
+    "FRAUD": 10,
     "RECKLESS VEHICLE": 2,
     "JUVENILE CASE": 4,
     "HAZARD": 1,
-    "UNKNOWN PROBLEM": 5,
+    "UNKNOWN PROBLEM": 6,
     "NOISE COMPLAINT": 4,
     "CIVIL MATTER": 7,
     "DOMESTIC": 9,
@@ -43,7 +43,7 @@
     "BURGLARY": 4,
     "SHOTS FIRED": 1,
     "HIT & RUN": 6,
-    "SCHOOL CROSSING": 2,
+    "SCHOOL CROSSING": 3,
     "ORDINANCE VIOLATION": 2,
     "ABANDONED VEHICLE": 3,
     "CHILD ABUSE": 2,
@@ -376,7 +376,7 @@
     "-1100 BLOCK 1198 N MARTIN LUTHER KING JR AVE": 1,
     "1500 BLOCK DRUID RD": 1,
     "GULF TO BAY BLVD / S HIGHLAND AVE": 1,
-    "1600 BLOCK N HIGHLAND AVE": 3,
+    "1600 BLOCK N HIGHLAND AVE": 4,
     "1700 BLOCK FLAGLER DR": 1,
     "20000 BLOCK US HIGHWAY 19 N": 2,
     "0 BLOCK 33 BAY ESPLANADE": 1,
@@ -439,7 +439,7 @@
     "-1100 BLOCK 1148 PIERCE ST": 1,
     "FERNWOOD AVE / GULF TO BAY BLVD": 2,
     "N BELCHER RD / CLEVELAND ST": 1,
-    "DREW ST / FAIRWOOD AVE": 1,
+    "DREW ST / FAIRWOOD AVE": 2,
     "300 BLOCK N JUPITER AVE": 1,
     "SR 580 / US HIGHWAY 19 N": 1,
     "PIERCE ST / S MARTIN LUTHER KING JR AVE": 1,
@@ -661,7 +661,9 @@
     "2500 BLOCK LANDMARK DR": 1,
     "1200 BLOCK DOUGLAS AVE": 1,
     "100 BLOCK SAND KEY ESTATES DR": 1,
-    "900 BLOCK N GARDEN AVE": 1
+    "900 BLOCK N GARDEN AVE": 1,
+    "500 BLOCK S LINCOLN AVE": 1,
+    "DREW ST / N LINCOLN AVE": 1
   },
   "hourly_distribution": {
     "0": 30,
@@ -677,8 +679,8 @@
     "10": 73,
     "11": 77,
     "12": 70,
-    "13": 76,
-    "14": 80,
+    "13": 77,
+    "14": 83,
     "15": 64,
     "16": 65,
     "17": 57,
@@ -690,7 +692,7 @@
     "23": 26
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-03T19:31:23.550851+00:00",
+  "last_updated": "2025-12-03T19:43:02.169443+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 343
+  "total_snapshots": 344
 }
