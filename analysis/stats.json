@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 949,
-  "total_resolved": 941,
+  "total_calls_tracked": 951,
+  "total_resolved": 945,
   "call_types": {
-    "DIRECTED PATROL": 332,
+    "DIRECTED PATROL": 333,
     "TRAFFIC STOP": 134,
     "DRUNK DRIVER": 4,
     "DISTURBANCE": 19,
@@ -13,7 +13,7 @@
     "WELFARE CHECK": 20,
     "PARK WALK AND TALK": 75,
     "SUSPICIOUS PERSON": 45,
-    "TRESPASS": 22,
+    "TRESPASS": 23,
     "PROPERTY FOUND/LOST": 5,
     "THEFT": 13,
     "NEIGHBOR CALL": 6,
@@ -199,7 +199,7 @@
     "1000 BLOCK N MADISON AVE": 1,
     "2800 BLOCK DREW ST": 2,
     "US HIGHWAY 19 N / GULF TO BAY BLVD": 1,
-    "300 BLOCK CORONADO DR": 9,
+    "300 BLOCK CORONADO DR": 10,
     "23600 BLOCK US HIGHWAY 19 N": 4,
     "300 BLOCK MANDALAY AVE": 1,
     "JONES ST / FERN AVE": 1,
@@ -604,10 +604,11 @@
     "5500 BLOCK GULF BLVD": 1,
     "-2100 BLOCK 2199 NURSERY RD": 1,
     "SR 580 / MCMULLEN BOOTH RD": 1,
-    "300 BLOCK S ARCTURAS AVE": 1
+    "300 BLOCK S ARCTURAS AVE": 1,
+    "S MISSOURI AVE / DRUID RD": 1
   },
   "hourly_distribution": {
-    "0": 22,
+    "0": 23,
     "1": 30,
     "2": 16,
     "3": 18,
@@ -630,10 +631,10 @@
     "20": 15,
     "21": 20,
     "22": 35,
-    "23": 25
+    "23": 26
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-03T04:59:25.380445+00:00",
+  "last_updated": "2025-12-03T05:25:18.301907+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 301
+  "total_snapshots": 302
 }
