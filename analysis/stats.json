@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 951,
-  "total_resolved": 945,
+  "total_calls_tracked": 953,
+  "total_resolved": 947,
   "call_types": {
-    "DIRECTED PATROL": 333,
-    "TRAFFIC STOP": 134,
+    "DIRECTED PATROL": 334,
+    "TRAFFIC STOP": 135,
     "DRUNK DRIVER": 4,
     "DISTURBANCE": 19,
     "BATTERY": 4,
@@ -395,7 +395,7 @@
     "600 BLOCK S FORT HARRISON AVE": 3,
     "MONTCLAIR RD / N BELCHER RD": 1,
     "MCMULLEN BOOTH RD / RUTH ECKERD HALL DR": 1,
-    "GULF TO BAY BLVD / MCMULLEN BOOTH RD S": 2,
+    "GULF TO BAY BLVD / MCMULLEN BOOTH RD S": 3,
     "1400 BLOCK FAIRMONT ST": 1,
     "DREW ST / N BETTY LN": 1,
     "600 BLOCK MANDALAY AVE": 2,
@@ -512,7 +512,7 @@
     "600 BLOCK BLANCHE B LITTLEJOHN TRL": 1,
     "-600 BLOCK 799 JONES ST": 1,
     "N MYRTLE AVE / MARGO AVE": 1,
-    "0 BLOCK 172 N BELCHER RD": 1,
+    "0 BLOCK 172 N BELCHER RD": 2,
     "-1200 BLOCK 1352 COURT ST": 1,
     "600 BLOCK N BETTY LN": 1,
     "N MARTIN LUTHER KING JR AVE / GRANT ST": 1,
@@ -608,7 +608,7 @@
     "S MISSOURI AVE / DRUID RD": 1
   },
   "hourly_distribution": {
-    "0": 23,
+    "0": 25,
     "1": 30,
     "2": 16,
     "3": 18,
@@ -634,7 +634,7 @@
     "23": 26
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-03T05:25:18.301907+00:00",
+  "last_updated": "2025-12-03T05:41:25.421669+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 302
+  "total_snapshots": 303
 }
