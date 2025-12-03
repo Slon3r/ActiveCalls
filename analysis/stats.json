@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 1044,
-  "total_resolved": 1033,
+  "total_calls_tracked": 1049,
+  "total_resolved": 1038,
   "call_types": {
-    "DIRECTED PATROL": 379,
-    "TRAFFIC STOP": 149,
+    "DIRECTED PATROL": 381,
+    "TRAFFIC STOP": 150,
     "DRUNK DRIVER": 4,
     "DISTURBANCE": 20,
     "BATTERY": 4,
@@ -15,7 +15,7 @@
     "SUSPICIOUS PERSON": 48,
     "TRESPASS": 25,
     "PROPERTY FOUND/LOST": 5,
-    "THEFT": 15,
+    "THEFT": 16,
     "NEIGHBOR CALL": 6,
     "911 HANG-UP": 30,
     "SUSPICIOUS VEHICLE": 7,
@@ -33,7 +33,7 @@
     "HAZARD": 1,
     "UNKNOWN PROBLEM": 5,
     "NOISE COMPLAINT": 4,
-    "CIVIL MATTER": 6,
+    "CIVIL MATTER": 7,
     "DOMESTIC": 8,
     "ANIMAL CASE": 3,
     "MISSING PERSON": 8,
@@ -106,10 +106,10 @@
     "2700 BLOCK GULF TO BAY BLVD": 9,
     "1400 BLOCK N HIBISCUS ST": 1,
     "2900 BLOCK DREW ST": 3,
-    "21200 BLOCK US HIGHWAY 19 N": 3,
+    "21200 BLOCK US HIGHWAY 19 N": 4,
     "1700 BLOCK SUNSET POINT RD": 1,
     "2300 BLOCK GULF TO BAY BLVD": 2,
-    "1200 BLOCK CLEVELAND ST": 5,
+    "1200 BLOCK CLEVELAND ST": 6,
     "-500 BLOCK 549 MANDALAY AVE": 1,
     "27000 BLOCK US HIGHWAY 19 N": 9,
     "DRIVEWAY PARKING": 2,
@@ -195,7 +195,7 @@
     "1200 BLOCK S MARTIN LUTHER KING JR AVE": 1,
     "2000 BLOCK PARAGON CIR W": 1,
     "1800 BLOCK GULF TO BAY BLVD": 3,
-    "S MAIN AVE / RAINBOW DR": 2,
+    "S MAIN AVE / RAINBOW DR": 3,
     "1000 BLOCK N MADISON AVE": 1,
     "2800 BLOCK DREW ST": 2,
     "US HIGHWAY 19 N / GULF TO BAY BLVD": 1,
@@ -632,7 +632,7 @@
     "GULF TO BAY BLVD / S SAN REMO AVE": 1,
     "1300 BLOCK SANDY LN": 1,
     "500 BLOCK SKY HARBOR DR": 1,
-    "800 BLOCK WOODLAWN LOOP": 1,
+    "800 BLOCK WOODLAWN LOOP": 2,
     "800 BLOCK HARBOR IS": 1,
     "RIDGE TOP WAY / MISTY PLATEAU TRL": 1,
     "800 BLOCK DREW ST": 1,
@@ -641,7 +641,8 @@
     "1200 BLOCK S MYRTLE AVE": 1,
     "1300 BLOCK S MARTIN LUTHER KING JR AVE": 1,
     "26400 BLOCK US HIGHWAY 19 N": 1,
-    "S MARTIN LUTHER KING JR AVE / BELLEAIR RD": 1
+    "S MARTIN LUTHER KING JR AVE / BELLEAIR RD": 1,
+    "500 BLOCK ISLAND WAY": 1
   },
   "hourly_distribution": {
     "0": 30,
@@ -654,7 +655,7 @@
     "7": 31,
     "8": 69,
     "9": 77,
-    "10": 63,
+    "10": 68,
     "11": 56,
     "12": 62,
     "13": 69,
@@ -670,7 +671,7 @@
     "23": 26
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-03T15:23:01.030112+00:00",
+  "last_updated": "2025-12-03T15:43:00.342871+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 332
+  "total_snapshots": 333
 }

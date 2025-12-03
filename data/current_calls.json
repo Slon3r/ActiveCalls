@@ -7,12 +7,6 @@
       "Response_Date": "2025-12-03T07:20:53"
     },
     {
-      "Master_Incident_Number": "120325-00189",
-      "Online_Description": "THEFT",
-      "Address": "800 BLOCK HARBOR IS",
-      "Response_Date": "2025-12-03T08:41:21"
-    },
-    {
       "Master_Incident_Number": "120325-00210",
       "Online_Description": "SUSPICIOUS PERSON",
       "Address": "RIDGE TOP WAY / MISTY PLATEAU TRL",
@@ -31,12 +25,6 @@
       "Response_Date": "2025-12-03T09:47:59"
     },
     {
-      "Master_Incident_Number": "120325-00226",
-      "Online_Description": "FRAUD",
-      "Address": "1200 BLOCK S MISSOURI AVE",
-      "Response_Date": "2025-12-03T09:48:02"
-    },
-    {
       "Master_Incident_Number": "120325-00227",
       "Online_Description": "DIRECTED PATROL",
       "Address": "1700 BLOCK GULF TO BAY BLVD",
@@ -49,24 +37,36 @@
       "Response_Date": "2025-12-03T09:49:32"
     },
     {
-      "Master_Incident_Number": "120325-00232",
+      "Master_Incident_Number": "120325-00239",
+      "Online_Description": "CIVIL MATTER",
+      "Address": "21200 BLOCK US HIGHWAY 19 N",
+      "Response_Date": "2025-12-03T10:07:38"
+    },
+    {
+      "Master_Incident_Number": "120325-00240",
+      "Online_Description": "THEFT",
+      "Address": "800 BLOCK WOODLAWN LOOP",
+      "Response_Date": "2025-12-03T10:08:32"
+    },
+    {
+      "Master_Incident_Number": "120325-00243",
       "Online_Description": "DIRECTED PATROL",
-      "Address": "600 BLOCK MANDALAY AVE",
-      "Response_Date": "2025-12-03T09:57:45"
+      "Address": "500 BLOCK ISLAND WAY",
+      "Response_Date": "2025-12-03T10:14:18"
     },
     {
-      "Master_Incident_Number": "120325-00233",
-      "Online_Description": "TRAFFIC STOP",
-      "Address": "26400 BLOCK US HIGHWAY 19 N",
-      "Response_Date": "2025-12-03T09:58:12"
+      "Master_Incident_Number": "120325-00244",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "1200 BLOCK CLEVELAND ST",
+      "Response_Date": "2025-12-03T10:14:31"
     },
     {
-      "Master_Incident_Number": "120325-00234",
+      "Master_Incident_Number": "120325-00245",
       "Online_Description": "TRAFFIC STOP",
-      "Address": "S MARTIN LUTHER KING JR AVE / BELLEAIR RD",
-      "Response_Date": "2025-12-03T09:59:25"
+      "Address": "S MAIN AVE / RAINBOW DR",
+      "Response_Date": "2025-12-03T10:20:42"
     }
   ],
-  "timestamp": "2025-12-03T15:23:01.027052+00:00",
+  "timestamp": "2025-12-03T15:43:00.339917+00:00",
   "count": 11
 }
