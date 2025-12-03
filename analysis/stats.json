@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 1022,
-  "total_resolved": 1012,
+  "total_calls_tracked": 1024,
+  "total_resolved": 1015,
   "call_types": {
-    "DIRECTED PATROL": 372,
+    "DIRECTED PATROL": 373,
     "TRAFFIC STOP": 145,
     "DRUNK DRIVER": 4,
     "DISTURBANCE": 19,
@@ -11,7 +11,7 @@
     "ALARM": 15,
     "KEEP THE PEACE": 17,
     "WELFARE CHECK": 22,
-    "PARK WALK AND TALK": 85,
+    "PARK WALK AND TALK": 86,
     "SUSPICIOUS PERSON": 46,
     "TRESPASS": 24,
     "PROPERTY FOUND/LOST": 5,
@@ -628,7 +628,9 @@
     "HARN BLVD / FLUSHING AVE": 1,
     "2800 BLOCK MEADOW HILL DR S": 1,
     "700 BLOCK N SATURN AVE": 1,
-    "GULF TO BAY BLVD / OLD COACHMAN RD": 1
+    "GULF TO BAY BLVD / OLD COACHMAN RD": 1,
+    "GULF TO BAY BLVD / S SAN REMO AVE": 1,
+    "1300 BLOCK SANDY LN": 1
   },
   "hourly_distribution": {
     "0": 30,
@@ -639,7 +641,7 @@
     "5": 31,
     "6": 38,
     "7": 31,
-    "8": 63,
+    "8": 65,
     "9": 61,
     "10": 63,
     "11": 56,
@@ -657,7 +659,7 @@
     "23": 26
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-03T13:41:02.828012+00:00",
+  "last_updated": "2025-12-03T13:56:56.011219+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 327
+  "total_snapshots": 328
 }

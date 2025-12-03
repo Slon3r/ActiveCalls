@@ -25,22 +25,10 @@
       "Response_Date": "2025-12-03T08:03:05"
     },
     {
-      "Master_Incident_Number": "120325-00169",
-      "Online_Description": "PARK WALK AND TALK",
-      "Address": "1100 BLOCK BECKETT ST",
-      "Response_Date": "2025-12-03T08:07:30"
-    },
-    {
       "Master_Incident_Number": "120325-00171",
       "Online_Description": "DIRECTED PATROL",
       "Address": "26000 BLOCK US HIGHWAY 19 N",
       "Response_Date": "2025-12-03T08:10:51"
-    },
-    {
-      "Master_Incident_Number": "120325-00173",
-      "Online_Description": "TRAFFIC STOP",
-      "Address": "HAMPTON RD / GULF TO BAY BLVD",
-      "Response_Date": "2025-12-03T08:13:57"
     },
     {
       "Master_Incident_Number": "120325-00176",
@@ -49,18 +37,24 @@
       "Response_Date": "2025-12-03T08:17:13"
     },
     {
-      "Master_Incident_Number": "120325-00177",
-      "Online_Description": "PARK WALK AND TALK",
-      "Address": "1700 BLOCK KINGS HWY",
-      "Response_Date": "2025-12-03T08:17:21"
-    },
-    {
       "Master_Incident_Number": "120325-00178",
       "Online_Description": "TRAFFIC STOP",
       "Address": "GULF TO BAY BLVD / OLD COACHMAN RD",
       "Response_Date": "2025-12-03T08:19:17"
+    },
+    {
+      "Master_Incident_Number": "120325-00186",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "GULF TO BAY BLVD / S SAN REMO AVE",
+      "Response_Date": "2025-12-03T08:34:48"
+    },
+    {
+      "Master_Incident_Number": "120325-00187",
+      "Online_Description": "PARK WALK AND TALK",
+      "Address": "1300 BLOCK SANDY LN",
+      "Response_Date": "2025-12-03T08:35:40"
     }
   ],
-  "timestamp": "2025-12-03T13:41:02.825596+00:00",
-  "count": 10
+  "timestamp": "2025-12-03T13:56:56.008798+00:00",
+  "count": 9
 }
