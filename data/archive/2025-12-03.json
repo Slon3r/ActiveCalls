@@ -102,6 +102,66 @@
           "Response_Date": "2025-12-02T21:43:26"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-03T03:56:16.018361+00:00",
+      "call_count": 9,
+      "calls": [
+        {
+          "Master_Incident_Number": "120225-00497",
+          "Online_Description": "WEAPONS VIOLATION",
+          "Address": "400 BLOCK BAY AVE",
+          "Response_Date": "2025-12-02T18:35:25"
+        },
+        {
+          "Master_Incident_Number": "120225-00567",
+          "Online_Description": "TRAFFIC CRASH",
+          "Address": "700 BLOCK MANDALAY AVE",
+          "Response_Date": "2025-12-02T21:07:30"
+        },
+        {
+          "Master_Incident_Number": "120225-00574",
+          "Online_Description": "MISSING PERSON",
+          "Address": "200 BLOCK DREW ST",
+          "Response_Date": "2025-12-02T21:23:52"
+        },
+        {
+          "Master_Incident_Number": "120225-00589",
+          "Online_Description": "SUSPICIOUS EVENT",
+          "Address": "2600 BLOCK MCMULLEN BOOTH RD",
+          "Response_Date": "2025-12-02T22:09:32"
+        },
+        {
+          "Master_Incident_Number": "120225-00592",
+          "Online_Description": "SUSPICIOUS EVENT",
+          "Address": "GRAND CENTRAL ST / HAMLET AVE",
+          "Response_Date": "2025-12-02T22:15:11"
+        },
+        {
+          "Master_Incident_Number": "120225-00596",
+          "Online_Description": "THEFT",
+          "Address": "2200 BLOCK GULF TO BAY BLVD",
+          "Response_Date": "2025-12-02T22:21:23"
+        },
+        {
+          "Master_Incident_Number": "120225-00593",
+          "Online_Description": "PARK WALK AND TALK",
+          "Address": "23100 BLOCK US HIGHWAY 19 N",
+          "Response_Date": "2025-12-02T22:22:00"
+        },
+        {
+          "Master_Incident_Number": "120225-00594",
+          "Online_Description": "ASSIST OTHER AGENCY",
+          "Address": "5500 BLOCK GULF BLVD",
+          "Response_Date": "2025-12-02T22:22:14"
+        },
+        {
+          "Master_Incident_Number": "120225-00597",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "-2100 BLOCK 2199 NURSERY RD",
+          "Response_Date": "2025-12-02T22:32:44"
+        }
+      ]
     }
   ]
 }
