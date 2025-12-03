@@ -7,12 +7,6 @@
       "Response_Date": "2025-12-02T21:07:30"
     },
     {
-      "Master_Incident_Number": "120225-00574",
-      "Online_Description": "SUSPICIOUS EVENT",
-      "Address": "200 BLOCK DREW ST",
-      "Response_Date": "2025-12-02T21:23:52"
-    },
-    {
       "Master_Incident_Number": "120225-00622",
       "Online_Description": "DIRECTED PATROL",
       "Address": "S MISSOURI AVE / DRUID RD",
@@ -25,18 +19,24 @@
       "Response_Date": "2025-12-03T00:00:33"
     },
     {
-      "Master_Incident_Number": "120325-00006",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "0 BLOCK 172 N BELCHER RD",
-      "Response_Date": "2025-12-03T00:16:53"
+      "Master_Incident_Number": "120325-00008",
+      "Online_Description": "TRESPASS",
+      "Address": "1700 BLOCK GULF TO BAY BLVD",
+      "Response_Date": "2025-12-03T00:19:28"
     },
     {
-      "Master_Incident_Number": "120325-00007",
+      "Master_Incident_Number": "120325-00009",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "1000 BLOCK CARLTON ST",
+      "Response_Date": "2025-12-03T00:27:59"
+    },
+    {
+      "Master_Incident_Number": "120325-00010",
       "Online_Description": "TRAFFIC STOP",
-      "Address": "GULF TO BAY BLVD / MCMULLEN BOOTH RD S",
-      "Response_Date": "2025-12-03T00:18:07"
+      "Address": "GULF TO BAY BLVD / BAYSIDE BRG",
+      "Response_Date": "2025-12-03T00:29:23"
     }
   ],
-  "timestamp": "2025-12-03T05:41:25.420209+00:00",
+  "timestamp": "2025-12-03T05:50:53.977900+00:00",
   "count": 6
 }

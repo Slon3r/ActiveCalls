@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 953,
-  "total_resolved": 947,
+  "total_calls_tracked": 956,
+  "total_resolved": 950,
   "call_types": {
-    "DIRECTED PATROL": 334,
-    "TRAFFIC STOP": 135,
+    "DIRECTED PATROL": 335,
+    "TRAFFIC STOP": 136,
     "DRUNK DRIVER": 4,
     "DISTURBANCE": 19,
     "BATTERY": 4,
@@ -13,7 +13,7 @@
     "WELFARE CHECK": 20,
     "PARK WALK AND TALK": 75,
     "SUSPICIOUS PERSON": 45,
-    "TRESPASS": 23,
+    "TRESPASS": 24,
     "PROPERTY FOUND/LOST": 5,
     "THEFT": 13,
     "NEIGHBOR CALL": 6,
@@ -320,7 +320,7 @@
     "3200 BLOCK COURTNEY CAMPBELL CSWY": 2,
     "300 BLOCK N HIGHLAND AVE": 1,
     "2700 BLOCK WINDING WOOD DR": 1,
-    "1700 BLOCK GULF TO BAY BLVD": 2,
+    "1700 BLOCK GULF TO BAY BLVD": 3,
     "600 BLOCK SIREN WIND LN": 1,
     "MANDALAY PASS": 1,
     "GULF TO BAY BLVD / LANDRY AVE": 1,
@@ -605,10 +605,12 @@
     "-2100 BLOCK 2199 NURSERY RD": 1,
     "SR 580 / MCMULLEN BOOTH RD": 1,
     "300 BLOCK S ARCTURAS AVE": 1,
-    "S MISSOURI AVE / DRUID RD": 1
+    "S MISSOURI AVE / DRUID RD": 1,
+    "1000 BLOCK CARLTON ST": 1,
+    "GULF TO BAY BLVD / BAYSIDE BRG": 1
   },
   "hourly_distribution": {
-    "0": 25,
+    "0": 28,
     "1": 30,
     "2": 16,
     "3": 18,
@@ -634,7 +636,7 @@
     "23": 26
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-03T05:41:25.421669+00:00",
+  "last_updated": "2025-12-03T05:50:53.979431+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 303
+  "total_snapshots": 304
 }
