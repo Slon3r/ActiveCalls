@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 1027,
-  "total_resolved": 1018,
+  "total_calls_tracked": 1033,
+  "total_resolved": 1023,
   "call_types": {
-    "DIRECTED PATROL": 373,
-    "TRAFFIC STOP": 146,
+    "DIRECTED PATROL": 375,
+    "TRAFFIC STOP": 147,
     "DRUNK DRIVER": 4,
     "DISTURBANCE": 19,
     "BATTERY": 4,
@@ -12,10 +12,10 @@
     "KEEP THE PEACE": 17,
     "WELFARE CHECK": 22,
     "PARK WALK AND TALK": 86,
-    "SUSPICIOUS PERSON": 46,
+    "SUSPICIOUS PERSON": 47,
     "TRESPASS": 24,
     "PROPERTY FOUND/LOST": 5,
-    "THEFT": 14,
+    "THEFT": 15,
     "NEIGHBOR CALL": 6,
     "911 HANG-UP": 30,
     "SUSPICIOUS VEHICLE": 7,
@@ -25,7 +25,7 @@
     "TRAFFIC CRASH": 40,
     "DISABLED VEHICLE": 12,
     "ASSIST CITIZEN": 32,
-    "ASSIST OTHER AGENCY": 14,
+    "ASSIST OTHER AGENCY": 15,
     "FIRE": 2,
     "FRAUD": 5,
     "RECKLESS VEHICLE": 2,
@@ -84,7 +84,7 @@
     "-1400 BLOCK 1417 S MISSOURI AVE": 1,
     "1000 BLOCK GULF BLVD": 12,
     "1400 BLOCK LAURA ST": 2,
-    "ENTERPRISE RD E / VILLAGE DR": 1,
+    "ENTERPRISE RD E / VILLAGE DR": 2,
     "GULF TO BAY BLVD / HAMPTON RD": 1,
     "2100 BLOCK GULF TO BAY BLVD": 11,
     "1300 BLOCK CLEVELAND ST": 7,
@@ -426,7 +426,7 @@
     "600 BLOCK N FORT HARRISON AVE": 1,
     "200 BLOCK S BETTY LN": 1,
     "2400 BLOCK HARN BLVD": 2,
-    "1400 BLOCK S MARTIN LUTHER KING JR AVE": 3,
+    "1400 BLOCK S MARTIN LUTHER KING JR AVE": 4,
     "OTIS C GREEN DR / N BETTY LN": 1,
     "2600 BLOCK MCMULLEN BOOTH RD": 3,
     "S MADISON AVE / PIERCE ST": 1,
@@ -632,7 +632,11 @@
     "GULF TO BAY BLVD / S SAN REMO AVE": 1,
     "1300 BLOCK SANDY LN": 1,
     "500 BLOCK SKY HARBOR DR": 1,
-    "800 BLOCK WOODLAWN LOOP": 1
+    "800 BLOCK WOODLAWN LOOP": 1,
+    "800 BLOCK HARBOR IS": 1,
+    "RIDGE TOP WAY / MISTY PLATEAU TRL": 1,
+    "800 BLOCK DREW ST": 1,
+    "OLD COACHMAN RD / DREW ST": 1
   },
   "hourly_distribution": {
     "0": 30,
@@ -643,8 +647,8 @@
     "5": 31,
     "6": 38,
     "7": 31,
-    "8": 68,
-    "9": 61,
+    "8": 69,
+    "9": 66,
     "10": 63,
     "11": 56,
     "12": 62,
@@ -661,7 +665,7 @@
     "23": 26
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-03T14:20:00.104163+00:00",
+  "last_updated": "2025-12-03T14:43:37.594720+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 329
+  "total_snapshots": 330
 }
