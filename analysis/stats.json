@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 993,
-  "total_resolved": 991,
+  "total_calls_tracked": 996,
+  "total_resolved": 993,
   "call_types": {
-    "DIRECTED PATROL": 355,
-    "TRAFFIC STOP": 141,
+    "DIRECTED PATROL": 357,
+    "TRAFFIC STOP": 142,
     "DRUNK DRIVER": 4,
     "DISTURBANCE": 19,
     "BATTERY": 4,
@@ -67,7 +67,7 @@
     "-600 BLOCK 647 BAY ESPLANADE": 1,
     "1900 BLOCK UNION ST": 2,
     "200 BLOCK DREW ST": 4,
-    "-800 BLOCK 819 NARCISSUS AVE": 1,
+    "-800 BLOCK 819 NARCISSUS AVE": 2,
     "0 BLOCK ISLAND WAY": 4,
     "US HIGHWAY 19 N / SR 580": 3,
     "400 BLOCK S GULFVIEW BLVD": 4,
@@ -336,7 +336,7 @@
     "0 BLOCK N NEPTUNE AVE": 1,
     "S MYRTLE AVE / COURT ST": 1,
     "OLD COACHMAN RD / GULF TO BAY BLVD": 1,
-    "700 BLOCK ELDORADO AVE": 3,
+    "700 BLOCK ELDORADO AVE": 4,
     "700 BLOCK COURT ST": 2,
     "2500 BLOCK DRUID RD": 1,
     "100 BLOCK S GULFVIEW BLVD": 2,
@@ -618,7 +618,8 @@
     "GULF TO BAY BLVD / S KEENE RD": 1,
     "-2500 BLOCK 2528 DRIVEWAY PARKING": 2,
     "S MISSOURI AVE / JEFFORDS ST": 1,
-    "GULF TO BAY BLVD / S DUNCAN AVE": 1
+    "GULF TO BAY BLVD / S DUNCAN AVE": 1,
+    "S LINCOLN AVE / COURT ST": 1
   },
   "hourly_distribution": {
     "0": 30,
@@ -626,7 +627,7 @@
     "2": 24,
     "3": 26,
     "4": 12,
-    "5": 25,
+    "5": 28,
     "6": 29,
     "7": 25,
     "8": 55,
@@ -647,7 +648,7 @@
     "23": 26
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-03T10:28:49.139561+00:00",
+  "last_updated": "2025-12-03T10:49:49.225632+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 318
+  "total_snapshots": 319
 }
