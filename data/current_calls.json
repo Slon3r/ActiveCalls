@@ -7,12 +7,6 @@
       "Response_Date": "2025-12-03T09:35:56"
     },
     {
-      "Master_Incident_Number": "120325-00301",
-      "Online_Description": "ASSAULT",
-      "Address": "1000 BLOCK ELDORADO AVE",
-      "Response_Date": "2025-12-03T11:55:47"
-    },
-    {
       "Master_Incident_Number": "120325-00303",
       "Online_Description": "FRAUD",
       "Address": "2700 BLOCK ENTERPRISE RD E",
@@ -23,12 +17,6 @@
       "Online_Description": "KEEP THE PEACE",
       "Address": "1000 BLOCK N MARTIN LUTHER KING JR AVE",
       "Response_Date": "2025-12-03T12:34:46"
-    },
-    {
-      "Master_Incident_Number": "120325-00330",
-      "Online_Description": "ASSIST OTHER AGENCY",
-      "Address": "MCMULLEN BOOTH RD / SR 590",
-      "Response_Date": "2025-12-03T13:32:55"
     },
     {
       "Master_Incident_Number": "120325-00333",
@@ -43,22 +31,10 @@
       "Response_Date": "2025-12-03T13:51:27"
     },
     {
-      "Master_Incident_Number": "120325-00342",
-      "Online_Description": "FRAUD",
-      "Address": "500 BLOCK S LINCOLN AVE",
-      "Response_Date": "2025-12-03T13:58:32"
-    },
-    {
       "Master_Incident_Number": "120325-00344",
       "Online_Description": "SUSPICIOUS PERSON",
       "Address": "900 BLOCK N GARDEN AVE",
       "Response_Date": "2025-12-03T14:02:45"
-    },
-    {
-      "Master_Incident_Number": "120325-00345",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "20500 BLOCK US HIGHWAY 19 N",
-      "Response_Date": "2025-12-03T14:08:18"
     },
     {
       "Master_Incident_Number": "120325-00347",
@@ -74,17 +50,29 @@
     },
     {
       "Master_Incident_Number": "120325-00350",
-      "Online_Description": "UNKNOWN PROBLEM",
+      "Online_Description": "PERSON DOWN",
       "Address": "1600 BLOCK N HIGHLAND AVE",
       "Response_Date": "2025-12-03T14:18:01"
     },
     {
-      "Master_Incident_Number": "120325-00353",
+      "Master_Incident_Number": "120325-00354",
+      "Online_Description": "ASSIST CITIZEN",
+      "Address": "2300 BLOCK WARWICK DR",
+      "Response_Date": "2025-12-03T14:21:48"
+    },
+    {
+      "Master_Incident_Number": "120325-00357",
       "Online_Description": "TRAFFIC STOP",
-      "Address": "DREW ST / N LINCOLN AVE",
-      "Response_Date": "2025-12-03T14:21:57"
+      "Address": "400 BLOCK PARK PLACE BLVD S",
+      "Response_Date": "2025-12-03T14:26:29"
+    },
+    {
+      "Master_Incident_Number": "120325-00358",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "1600 BLOCK PALMETTO ST",
+      "Response_Date": "2025-12-03T14:30:33"
     }
   ],
-  "timestamp": "2025-12-03T19:43:02.165744+00:00",
-  "count": 14
+  "timestamp": "2025-12-03T19:51:16.500415+00:00",
+  "count": 12
 }
