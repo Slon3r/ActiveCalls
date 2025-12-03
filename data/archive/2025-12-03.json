@@ -2129,6 +2129,78 @@
           "Response_Date": "2025-12-03T13:00:08"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-03T18:56:31.246839+00:00",
+      "call_count": 11,
+      "calls": [
+        {
+          "Master_Incident_Number": "120325-00224",
+          "Online_Description": "KEEP THE PEACE",
+          "Address": "1900 BLOCK RADCLIFFE DR N",
+          "Response_Date": "2025-12-03T09:35:56"
+        },
+        {
+          "Master_Incident_Number": "120325-00301",
+          "Online_Description": "ASSAULT",
+          "Address": "1000 BLOCK ELDORADO AVE",
+          "Response_Date": "2025-12-03T11:55:47"
+        },
+        {
+          "Master_Incident_Number": "120325-00303",
+          "Online_Description": "FRAUD",
+          "Address": "2700 BLOCK ENTERPRISE RD E",
+          "Response_Date": "2025-12-03T12:13:02"
+        },
+        {
+          "Master_Incident_Number": "120325-00309",
+          "Online_Description": "KEEP THE PEACE",
+          "Address": "1000 BLOCK N MARTIN LUTHER KING JR AVE",
+          "Response_Date": "2025-12-03T12:34:46"
+        },
+        {
+          "Master_Incident_Number": "120325-00311",
+          "Online_Description": "NEIGHBOR CALL",
+          "Address": "500 BLOCK SKY HARBOR DR",
+          "Response_Date": "2025-12-03T12:42:06"
+        },
+        {
+          "Master_Incident_Number": "120325-00312",
+          "Online_Description": "PARK WALK AND TALK",
+          "Address": "400 BLOCK MANDALAY AVE",
+          "Response_Date": "2025-12-03T12:47:05"
+        },
+        {
+          "Master_Incident_Number": "120325-00314",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "2600 BLOCK ENTERPRISE RD E",
+          "Response_Date": "2025-12-03T12:53:52"
+        },
+        {
+          "Master_Incident_Number": "120325-00326",
+          "Online_Description": "911 HANG-UP",
+          "Address": "2500 BLOCK LANDMARK DR",
+          "Response_Date": "2025-12-03T13:28:01"
+        },
+        {
+          "Master_Incident_Number": "120325-00330",
+          "Online_Description": "TRAFFIC CRASH",
+          "Address": "MCMULLEN BOOTH RD / SR 590",
+          "Response_Date": "2025-12-03T13:32:55"
+        },
+        {
+          "Master_Incident_Number": "120325-00328",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "200 BLOCK S GLENWOOD AVE",
+          "Response_Date": "2025-12-03T13:33:18"
+        },
+        {
+          "Master_Incident_Number": "120325-00329",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "1200 BLOCK DOUGLAS AVE",
+          "Response_Date": "2025-12-03T13:33:33"
+        }
+      ]
     }
   ]
 }

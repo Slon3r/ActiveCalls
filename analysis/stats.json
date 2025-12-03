@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 1085,
-  "total_resolved": 1075,
+  "total_calls_tracked": 1089,
+  "total_resolved": 1078,
   "call_types": {
-    "DIRECTED PATROL": 397,
+    "DIRECTED PATROL": 399,
     "TRAFFIC STOP": 151,
     "DRUNK DRIVER": 4,
     "DISTURBANCE": 21,
@@ -17,12 +17,12 @@
     "PROPERTY FOUND/LOST": 5,
     "THEFT": 16,
     "NEIGHBOR CALL": 7,
-    "911 HANG-UP": 30,
+    "911 HANG-UP": 31,
     "SUSPICIOUS VEHICLE": 7,
     "PANHANDLER/SOLICITOR": 2,
     "VEHICLE ILLEGALLY PARKED": 3,
     "SUSPICIOUS EVENT": 23,
-    "TRAFFIC CRASH": 41,
+    "TRAFFIC CRASH": 42,
     "DISABLED VEHICLE": 12,
     "ASSIST CITIZEN": 32,
     "ASSIST OTHER AGENCY": 15,
@@ -94,7 +94,7 @@
     "S MISSOURI AVE / LAKEVIEW RD": 3,
     "23100 BLOCK US HIGHWAY 19 N": 5,
     "1200 BLOCK N BETTY LN": 1,
-    "MCMULLEN BOOTH RD / SR 590": 1,
+    "MCMULLEN BOOTH RD / SR 590": 2,
     "LAKEVIEW RD / S MISSOURI AVE": 2,
     "2400 BLOCK MELLOW LN": 1,
     "1200 BLOCK GULF BLVD": 4,
@@ -151,7 +151,7 @@
     "1300 BLOCK FRANKLIN ST": 1,
     "SUNSET MEADOW DR / COLONY REED LN": 1,
     "0 BLOCK BAY ESPLANADE": 3,
-    "200 BLOCK S GLENWOOD AVE": 13,
+    "200 BLOCK S GLENWOOD AVE": 14,
     "S KEENE RD / DRUID RD": 1,
     "GULF TO BAY BLVD / BAMBOO LN": 1,
     "GULF TO BAY BLVD / BROOKSIDE DR": 1,
@@ -657,7 +657,9 @@
     "400 BLOCK PINELLAS ST": 1,
     "1000 BLOCK N MARTIN LUTHER KING JR AVE": 1,
     "800 BLOCK HOWARD ST": 1,
-    "1000 BLOCK S MYRTLE AVE": 1
+    "1000 BLOCK S MYRTLE AVE": 1,
+    "2500 BLOCK LANDMARK DR": 1,
+    "1200 BLOCK DOUGLAS AVE": 1
   },
   "hourly_distribution": {
     "0": 30,
@@ -673,7 +675,7 @@
     "10": 73,
     "11": 77,
     "12": 70,
-    "13": 70,
+    "13": 74,
     "14": 76,
     "15": 64,
     "16": 65,
@@ -686,7 +688,7 @@
     "23": 26
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-03T18:34:12.978825+00:00",
+  "last_updated": "2025-12-03T18:56:31.250416+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 341
+  "total_snapshots": 342
 }
