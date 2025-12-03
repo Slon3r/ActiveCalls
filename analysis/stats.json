@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 1024,
-  "total_resolved": 1015,
+  "total_calls_tracked": 1027,
+  "total_resolved": 1018,
   "call_types": {
     "DIRECTED PATROL": 373,
-    "TRAFFIC STOP": 145,
+    "TRAFFIC STOP": 146,
     "DRUNK DRIVER": 4,
     "DISTURBANCE": 19,
     "BATTERY": 4,
@@ -15,7 +15,7 @@
     "SUSPICIOUS PERSON": 46,
     "TRESPASS": 24,
     "PROPERTY FOUND/LOST": 5,
-    "THEFT": 13,
+    "THEFT": 14,
     "NEIGHBOR CALL": 6,
     "911 HANG-UP": 30,
     "SUSPICIOUS VEHICLE": 7,
@@ -25,7 +25,7 @@
     "TRAFFIC CRASH": 40,
     "DISABLED VEHICLE": 12,
     "ASSIST CITIZEN": 32,
-    "ASSIST OTHER AGENCY": 13,
+    "ASSIST OTHER AGENCY": 14,
     "FIRE": 2,
     "FRAUD": 5,
     "RECKLESS VEHICLE": 2,
@@ -227,7 +227,7 @@
     "1600 BLOCK N ARCTURAS AVE": 2,
     "1100 BLOCK BECKETT ST": 9,
     "PAPAYA ST / MANDALAY AVE": 1,
-    "CLEVELAND ST / N MISSOURI AVE": 1,
+    "CLEVELAND ST / N MISSOURI AVE": 2,
     "600 BLOCK COURT ST": 1,
     "GULF TO BAY BLVD / S NIMBUS AVE": 1,
     "-300 BLOCK 437 MANDALAY AVE": 1,
@@ -630,7 +630,9 @@
     "700 BLOCK N SATURN AVE": 1,
     "GULF TO BAY BLVD / OLD COACHMAN RD": 1,
     "GULF TO BAY BLVD / S SAN REMO AVE": 1,
-    "1300 BLOCK SANDY LN": 1
+    "1300 BLOCK SANDY LN": 1,
+    "500 BLOCK SKY HARBOR DR": 1,
+    "800 BLOCK WOODLAWN LOOP": 1
   },
   "hourly_distribution": {
     "0": 30,
@@ -641,7 +643,7 @@
     "5": 31,
     "6": 38,
     "7": 31,
-    "8": 65,
+    "8": 68,
     "9": 61,
     "10": 63,
     "11": 56,
@@ -659,7 +661,7 @@
     "23": 26
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-03T13:56:56.011219+00:00",
+  "last_updated": "2025-12-03T14:20:00.104163+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 328
+  "total_snapshots": 329
 }
