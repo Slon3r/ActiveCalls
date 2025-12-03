@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 1148,
-  "total_resolved": 1140,
+  "total_calls_tracked": 1150,
+  "total_resolved": 1145,
   "call_types": {
     "DIRECTED PATROL": 413,
-    "TRAFFIC STOP": 163,
+    "TRAFFIC STOP": 164,
     "DRUNK DRIVER": 4,
     "DISTURBANCE": 22,
     "BATTERY": 5,
@@ -17,7 +17,7 @@
     "PROPERTY FOUND/LOST": 6,
     "THEFT": 16,
     "NEIGHBOR CALL": 7,
-    "911 HANG-UP": 35,
+    "911 HANG-UP": 36,
     "SUSPICIOUS VEHICLE": 7,
     "PANHANDLER/SOLICITOR": 2,
     "VEHICLE ILLEGALLY PARKED": 3,
@@ -683,8 +683,9 @@
     "0 BLOCK 29 SAN MARCO ST": 1,
     "1600 BLOCK FULTON AVE": 1,
     "CAUSEWAY BLVD / EAST SHORE DR": 1,
-    "SUNSET POINT RD / N HERCULES AVE": 2,
-    "400 BLOCK HAMDEN DR": 1
+    "SUNSET POINT RD / N HERCULES AVE": 3,
+    "400 BLOCK HAMDEN DR": 1,
+    "1300 BLOCK SUNSET POINT RD": 1
   },
   "hourly_distribution": {
     "0": 30,
@@ -703,8 +704,8 @@
     "13": 77,
     "14": 92,
     "15": 83,
-    "16": 82,
-    "17": 61,
+    "16": 83,
+    "17": 62,
     "18": 46,
     "19": 12,
     "20": 15,
@@ -713,7 +714,7 @@
     "23": 26
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-03T22:39:30.219314+00:00",
+  "last_updated": "2025-12-03T22:50:34.600670+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 356
+  "total_snapshots": 357
 }

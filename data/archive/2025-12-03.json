@@ -3221,6 +3221,42 @@
           "Response_Date": "2025-12-03T17:18:34"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-03T22:50:34.596047+00:00",
+      "call_count": 5,
+      "calls": [
+        {
+          "Master_Incident_Number": "120325-00441",
+          "Online_Description": "TRAFFIC CRASH",
+          "Address": "N NEPTUNE AVE / CLEVELAND ST",
+          "Response_Date": "2025-12-03T16:53:10"
+        },
+        {
+          "Master_Incident_Number": "120325-00445",
+          "Online_Description": "911 HANG-UP",
+          "Address": "1300 BLOCK SUNSET POINT RD",
+          "Response_Date": "2025-12-03T16:56:48"
+        },
+        {
+          "Master_Incident_Number": "120325-00444",
+          "Online_Description": "PARK WALK AND TALK",
+          "Address": "0 BLOCK 29 SAN MARCO ST",
+          "Response_Date": "2025-12-03T16:57:32"
+        },
+        {
+          "Master_Incident_Number": "120325-00453",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "SUNSET POINT RD / N HERCULES AVE",
+          "Response_Date": "2025-12-03T17:15:41"
+        },
+        {
+          "Master_Incident_Number": "120325-00461",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "SUNSET POINT RD / N HERCULES AVE",
+          "Response_Date": "2025-12-03T17:26:57"
+        }
+      ]
     }
   ]
 }
