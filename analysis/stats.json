@@ -1,11 +1,11 @@
 {
-  "total_calls_tracked": 1033,
-  "total_resolved": 1023,
+  "total_calls_tracked": 1036,
+  "total_resolved": 1025,
   "call_types": {
-    "DIRECTED PATROL": 375,
+    "DIRECTED PATROL": 376,
     "TRAFFIC STOP": 147,
     "DRUNK DRIVER": 4,
-    "DISTURBANCE": 19,
+    "DISTURBANCE": 20,
     "BATTERY": 4,
     "CRIMINAL MISCHIEF": 2,
     "ALARM": 15,
@@ -13,7 +13,7 @@
     "WELFARE CHECK": 22,
     "PARK WALK AND TALK": 86,
     "SUSPICIOUS PERSON": 47,
-    "TRESPASS": 24,
+    "TRESPASS": 25,
     "PROPERTY FOUND/LOST": 5,
     "THEFT": 15,
     "NEIGHBOR CALL": 6,
@@ -103,7 +103,7 @@
     "S MISSOURI AVE / KINGSLEY ST": 1,
     "2200 BLOCK GULF TO BAY BLVD": 6,
     "CLEVELAND ST/S MADISON AVE": 1,
-    "2700 BLOCK GULF TO BAY BLVD": 8,
+    "2700 BLOCK GULF TO BAY BLVD": 9,
     "1400 BLOCK N HIBISCUS ST": 1,
     "2900 BLOCK DREW ST": 3,
     "21200 BLOCK US HIGHWAY 19 N": 3,
@@ -636,7 +636,9 @@
     "800 BLOCK HARBOR IS": 1,
     "RIDGE TOP WAY / MISTY PLATEAU TRL": 1,
     "800 BLOCK DREW ST": 1,
-    "OLD COACHMAN RD / DREW ST": 1
+    "OLD COACHMAN RD / DREW ST": 1,
+    "900 BLOCK CARLTON ST": 1,
+    "1200 BLOCK S MYRTLE AVE": 1
   },
   "hourly_distribution": {
     "0": 30,
@@ -648,7 +650,7 @@
     "6": 38,
     "7": 31,
     "8": 69,
-    "9": 66,
+    "9": 69,
     "10": 63,
     "11": 56,
     "12": 62,
@@ -665,7 +667,7 @@
     "23": 26
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-03T14:43:37.594720+00:00",
+  "last_updated": "2025-12-03T14:57:26.202254+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 330
+  "total_snapshots": 331
 }

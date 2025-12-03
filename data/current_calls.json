@@ -13,12 +13,6 @@
       "Response_Date": "2025-12-03T08:10:51"
     },
     {
-      "Master_Incident_Number": "120325-00176",
-      "Online_Description": "PARK WALK AND TALK",
-      "Address": "700 BLOCK N SATURN AVE",
-      "Response_Date": "2025-12-03T08:17:13"
-    },
-    {
       "Master_Incident_Number": "120325-00189",
       "Online_Description": "THEFT",
       "Address": "800 BLOCK HARBOR IS",
@@ -37,12 +31,6 @@
       "Response_Date": "2025-12-03T09:06:35"
     },
     {
-      "Master_Incident_Number": "120325-00212",
-      "Online_Description": "TRAFFIC STOP",
-      "Address": "ENTERPRISE RD E / VILLAGE DR",
-      "Response_Date": "2025-12-03T09:16:45"
-    },
-    {
       "Master_Incident_Number": "120325-00213",
       "Online_Description": "DIRECTED PATROL",
       "Address": "800 BLOCK DREW ST",
@@ -59,8 +47,26 @@
       "Online_Description": "ASSIST OTHER AGENCY",
       "Address": "1400 BLOCK S MARTIN LUTHER KING JR AVE",
       "Response_Date": "2025-12-03T09:18:23"
+    },
+    {
+      "Master_Incident_Number": "120325-00220",
+      "Online_Description": "DISTURBANCE",
+      "Address": "900 BLOCK CARLTON ST",
+      "Response_Date": "2025-12-03T09:23:19"
+    },
+    {
+      "Master_Incident_Number": "120325-00222",
+      "Online_Description": "TRESPASS",
+      "Address": "1200 BLOCK S MYRTLE AVE",
+      "Response_Date": "2025-12-03T09:28:05"
+    },
+    {
+      "Master_Incident_Number": "120325-00221",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "2700 BLOCK GULF TO BAY BLVD",
+      "Response_Date": "2025-12-03T09:28:55"
     }
   ],
-  "timestamp": "2025-12-03T14:43:37.592127+00:00",
-  "count": 10
+  "timestamp": "2025-12-03T14:57:26.199562+00:00",
+  "count": 11
 }
