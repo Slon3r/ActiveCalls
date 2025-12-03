@@ -2525,6 +2525,72 @@
           "Response_Date": "2025-12-03T14:35:27"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-03T20:28:27.039246+00:00",
+      "call_count": 10,
+      "calls": [
+        {
+          "Master_Incident_Number": "120325-00224",
+          "Online_Description": "KEEP THE PEACE",
+          "Address": "1900 BLOCK RADCLIFFE DR N",
+          "Response_Date": "2025-12-03T09:35:56"
+        },
+        {
+          "Master_Incident_Number": "120325-00303",
+          "Online_Description": "FRAUD",
+          "Address": "2700 BLOCK ENTERPRISE RD E",
+          "Response_Date": "2025-12-03T12:13:02"
+        },
+        {
+          "Master_Incident_Number": "120325-00309",
+          "Online_Description": "KEEP THE PEACE",
+          "Address": "1000 BLOCK N MARTIN LUTHER KING JR AVE",
+          "Response_Date": "2025-12-03T12:34:46"
+        },
+        {
+          "Master_Incident_Number": "120325-00338",
+          "Online_Description": "FRAUD",
+          "Address": "100 BLOCK SAND KEY ESTATES DR",
+          "Response_Date": "2025-12-03T13:51:27"
+        },
+        {
+          "Master_Incident_Number": "120325-00348",
+          "Online_Description": "SCHOOL CROSSING",
+          "Address": "DREW ST / FAIRWOOD AVE",
+          "Response_Date": "2025-12-03T14:13:02"
+        },
+        {
+          "Master_Incident_Number": "120325-00359",
+          "Online_Description": "HIT & RUN",
+          "Address": "2600 BLOCK GULF TO BAY BLVD",
+          "Response_Date": "2025-12-03T14:29:30"
+        },
+        {
+          "Master_Incident_Number": "120325-00372",
+          "Online_Description": "TRESPASS",
+          "Address": "1700 BLOCK GULF TO BAY BLVD",
+          "Response_Date": "2025-12-03T14:53:35"
+        },
+        {
+          "Master_Incident_Number": "120325-00371",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "1300 BLOCK CLEVELAND ST",
+          "Response_Date": "2025-12-03T14:54:06"
+        },
+        {
+          "Master_Incident_Number": "120325-00374",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "21600 BLOCK US HIGHWAY 19 N",
+          "Response_Date": "2025-12-03T14:55:28"
+        },
+        {
+          "Master_Incident_Number": "120325-00378",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "COUNTRYSIDE BLVD / AUGUSTA DR N",
+          "Response_Date": "2025-12-03T15:05:41"
+        }
+      ]
     }
   ]
 }

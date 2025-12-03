@@ -19,12 +19,6 @@
       "Response_Date": "2025-12-03T12:34:46"
     },
     {
-      "Master_Incident_Number": "120325-00333",
-      "Online_Description": "TRAFFIC CRASH",
-      "Address": "600 BLOCK CLEVELAND ST",
-      "Response_Date": "2025-12-03T13:38:53"
-    },
-    {
       "Master_Incident_Number": "120325-00338",
       "Online_Description": "FRAUD",
       "Address": "100 BLOCK SAND KEY ESTATES DR",
@@ -37,42 +31,36 @@
       "Response_Date": "2025-12-03T14:13:02"
     },
     {
-      "Master_Incident_Number": "120325-00350",
-      "Online_Description": "ASSIST OTHER AGENCY",
-      "Address": "1600 BLOCK N HIGHLAND AVE",
-      "Response_Date": "2025-12-03T14:18:01"
-    },
-    {
-      "Master_Incident_Number": "120325-00354",
-      "Online_Description": "ASSIST CITIZEN",
-      "Address": "2300 BLOCK WARWICK DR",
-      "Response_Date": "2025-12-03T14:21:48"
-    },
-    {
-      "Master_Incident_Number": "120325-00357",
-      "Online_Description": "TRAFFIC STOP",
-      "Address": "400 BLOCK PARK PLACE BLVD S",
-      "Response_Date": "2025-12-03T14:26:29"
-    },
-    {
       "Master_Incident_Number": "120325-00359",
       "Online_Description": "HIT & RUN",
       "Address": "2600 BLOCK GULF TO BAY BLVD",
       "Response_Date": "2025-12-03T14:29:30"
     },
     {
-      "Master_Incident_Number": "120325-00358",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "1600 BLOCK PALMETTO ST",
-      "Response_Date": "2025-12-03T14:30:33"
+      "Master_Incident_Number": "120325-00372",
+      "Online_Description": "TRESPASS",
+      "Address": "1700 BLOCK GULF TO BAY BLVD",
+      "Response_Date": "2025-12-03T14:53:35"
     },
     {
-      "Master_Incident_Number": "120325-00362",
-      "Online_Description": "PARK WALK AND TALK",
-      "Address": "800 BLOCK CLEVELAND ST",
-      "Response_Date": "2025-12-03T14:35:27"
+      "Master_Incident_Number": "120325-00371",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "1300 BLOCK CLEVELAND ST",
+      "Response_Date": "2025-12-03T14:54:06"
+    },
+    {
+      "Master_Incident_Number": "120325-00374",
+      "Online_Description": "TRAFFIC STOP",
+      "Address": "21600 BLOCK US HIGHWAY 19 N",
+      "Response_Date": "2025-12-03T14:55:28"
+    },
+    {
+      "Master_Incident_Number": "120325-00378",
+      "Online_Description": "TRAFFIC STOP",
+      "Address": "COUNTRYSIDE BLVD / AUGUSTA DR N",
+      "Response_Date": "2025-12-03T15:05:41"
     }
   ],
-  "timestamp": "2025-12-03T19:58:49.008528+00:00",
-  "count": 12
+  "timestamp": "2025-12-03T20:28:27.039246+00:00",
+  "count": 10
 }
