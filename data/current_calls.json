@@ -7,42 +7,72 @@
       "Response_Date": "2025-12-03T09:35:56"
     },
     {
-      "Master_Incident_Number": "120325-00244",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "1200 BLOCK CLEVELAND ST",
-      "Response_Date": "2025-12-03T10:14:31"
-    },
-    {
-      "Master_Incident_Number": "120325-00256",
-      "Online_Description": "PARK WALK AND TALK",
-      "Address": "1400 BLOCK S BELCHER RD",
-      "Response_Date": "2025-12-03T10:45:41"
-    },
-    {
-      "Master_Incident_Number": "120325-00260",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "200 BLOCK S GLENWOOD AVE",
-      "Response_Date": "2025-12-03T10:49:30"
-    },
-    {
       "Master_Incident_Number": "120325-00265",
       "Online_Description": "DIRECTED PATROL",
       "Address": "1300 BLOCK S BELCHER RD",
       "Response_Date": "2025-12-03T10:54:32"
     },
     {
-      "Master_Incident_Number": "120325-00266",
-      "Online_Description": "TRAFFIC STOP",
-      "Address": "BELCHER RD / E WORLD PARKWAY BLVD",
-      "Response_Date": "2025-12-03T10:58:56"
+      "Master_Incident_Number": "120325-00272",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "S MADISON AVE / PIERCE ST",
+      "Response_Date": "2025-12-03T11:12:10"
     },
     {
-      "Master_Incident_Number": "120325-00267",
+      "Master_Incident_Number": "120325-00275",
+      "Online_Description": "TRESPASS",
+      "Address": "1300 BLOCK PARK ST",
+      "Response_Date": "2025-12-03T11:14:32"
+    },
+    {
+      "Master_Incident_Number": "120325-00276",
       "Online_Description": "PARK WALK AND TALK",
-      "Address": "LEILA DAVIS ELEMENTARY",
-      "Response_Date": "2025-12-03T10:59:48"
+      "Address": "1000 BLOCK GULF BLVD",
+      "Response_Date": "2025-12-03T11:16:10"
+    },
+    {
+      "Master_Incident_Number": "120325-00278",
+      "Online_Description": "DOMESTIC",
+      "Address": "2000 BLOCK N HIGHLAND AVE",
+      "Response_Date": "2025-12-03T11:16:40"
+    },
+    {
+      "Master_Incident_Number": "120325-00277",
+      "Online_Description": "PARK WALK AND TALK",
+      "Address": "600 BLOCK CLEVELAND ST",
+      "Response_Date": "2025-12-03T11:16:50"
+    },
+    {
+      "Master_Incident_Number": "120325-00280",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "1400 BLOCK GULF TO BAY BLVD",
+      "Response_Date": "2025-12-03T11:19:25"
+    },
+    {
+      "Master_Incident_Number": "120325-00282",
+      "Online_Description": "TRESPASS",
+      "Address": "300 BLOCK S BELCHER RD",
+      "Response_Date": "2025-12-03T11:25:17"
+    },
+    {
+      "Master_Incident_Number": "120325-00283",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "RAINBOW DR / S MAIN AVE",
+      "Response_Date": "2025-12-03T11:26:32"
+    },
+    {
+      "Master_Incident_Number": "120325-00284",
+      "Online_Description": "PARK WALK AND TALK",
+      "Address": "3000 BLOCK SR 580",
+      "Response_Date": "2025-12-03T11:27:51"
+    },
+    {
+      "Master_Incident_Number": "120325-00285",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "2600 BLOCK ENTERPRISE RD",
+      "Response_Date": "2025-12-03T11:28:46"
     }
   ],
-  "timestamp": "2025-12-03T16:20:36.962033+00:00",
-  "count": 7
+  "timestamp": "2025-12-03T16:49:47.098864+00:00",
+  "count": 12
 }
