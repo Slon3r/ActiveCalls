@@ -1,6 +1,6 @@
 {
-  "total_calls_tracked": 1102,
-  "total_resolved": 1090,
+  "total_calls_tracked": 1104,
+  "total_resolved": 1092,
   "call_types": {
     "DIRECTED PATROL": 402,
     "TRAFFIC STOP": 153,
@@ -11,7 +11,7 @@
     "ALARM": 15,
     "KEEP THE PEACE": 19,
     "WELFARE CHECK": 22,
-    "PARK WALK AND TALK": 92,
+    "PARK WALK AND TALK": 93,
     "SUSPICIOUS PERSON": 51,
     "TRESPASS": 27,
     "PROPERTY FOUND/LOST": 5,
@@ -42,7 +42,7 @@
     "DECEASED PERSON": 1,
     "BURGLARY": 4,
     "SHOTS FIRED": 1,
-    "HIT & RUN": 6,
+    "HIT & RUN": 7,
     "SCHOOL CROSSING": 3,
     "ORDINANCE VIOLATION": 2,
     "ABANDONED VEHICLE": 3,
@@ -168,7 +168,7 @@
     "300 BLOCK CLEVELAND ST": 10,
     "GULF TO BAY BLVD / S LAKE DR": 1,
     "-400 BLOCK BLK BLANCHE B LITTLEJOHN TRL": 1,
-    "2600 BLOCK GULF TO BAY BLVD": 5,
+    "2600 BLOCK GULF TO BAY BLVD": 6,
     "400 BLOCK MANDALAY AVE": 5,
     "-3200 BLOCK 3399 COURTNEY CAMPBELL CSWY": 2,
     "1200 BLOCK GROVE ST": 1,
@@ -666,7 +666,8 @@
     "DREW ST / N LINCOLN AVE": 1,
     "2300 BLOCK WARWICK DR": 1,
     "400 BLOCK PARK PLACE BLVD S": 1,
-    "1600 BLOCK PALMETTO ST": 1
+    "1600 BLOCK PALMETTO ST": 1,
+    "800 BLOCK CLEVELAND ST": 1
   },
   "hourly_distribution": {
     "0": 30,
@@ -683,7 +684,7 @@
     "11": 77,
     "12": 70,
     "13": 77,
-    "14": 86,
+    "14": 88,
     "15": 64,
     "16": 65,
     "17": 57,
@@ -695,7 +696,7 @@
     "23": 26
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-03T19:51:16.504060+00:00",
+  "last_updated": "2025-12-03T19:58:49.012295+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 345
+  "total_snapshots": 346
 }
