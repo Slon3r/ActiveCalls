@@ -582,6 +582,48 @@
           "Response_Date": "2025-12-03T01:35:00"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-03T07:20:37.265872+00:00",
+      "call_count": 6,
+      "calls": [
+        {
+          "Master_Incident_Number": "120325-00028",
+          "Online_Description": "WELFARE CHECK",
+          "Address": "1400 BLOCK SPRINGDALE ST",
+          "Response_Date": "2025-12-03T01:13:32"
+        },
+        {
+          "Master_Incident_Number": "120325-00031",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "0 BLOCK 48 BAY ESPLANADE",
+          "Response_Date": "2025-12-03T01:26:03"
+        },
+        {
+          "Master_Incident_Number": "120325-00043",
+          "Online_Description": "ASSIST CITIZEN",
+          "Address": "2700 BLOCK GULF TO BAY BLVD",
+          "Response_Date": "2025-12-03T01:50:13"
+        },
+        {
+          "Master_Incident_Number": "120325-00044",
+          "Online_Description": "PARK WALK AND TALK",
+          "Address": "1800 BLOCK N HIGHLAND AVE",
+          "Response_Date": "2025-12-03T01:51:23"
+        },
+        {
+          "Master_Incident_Number": "120325-00046",
+          "Online_Description": "ASSIST CITIZEN",
+          "Address": "300 BLOCK PINELLAS ST",
+          "Response_Date": "2025-12-03T01:51:44"
+        },
+        {
+          "Master_Incident_Number": "120325-00045",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "26200 BLOCK US HIGHWAY 19 N",
+          "Response_Date": "2025-12-03T01:53:56"
+        }
+      ]
     }
   ]
 }
