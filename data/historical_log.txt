@@ -5283,3 +5283,12 @@ TOTAL ACTIVE CALLS: 11
 
 --- RESOLVED CALLS (1) ---
 [RESOLVED] 120325-00417 | 911 HANG-UP | 3000 BLOCK HAVERFORD DR | Response: 04:00 PM
+
+================================================================================
+TIMESTAMP: 2025-12-03T21:56:59.173779+00:00
+TOTAL ACTIVE CALLS: 13
+================================================================================
+
+--- NEW CALLS (2) ---
+[NEW] 120325-00426 | 911 HANG-UP | 1500 BLOCK S MYRTLE AVE | Response: 04:26 PM
+[NEW] 120325-00428 | DIRECTED PATROL | 0 BLOCK CAUSEWAY BLVD | Response: 04:30 PM

@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 1136,
+  "total_calls_tracked": 1138,
   "total_resolved": 1125,
   "call_types": {
-    "DIRECTED PATROL": 411,
+    "DIRECTED PATROL": 412,
     "TRAFFIC STOP": 160,
     "DRUNK DRIVER": 4,
     "DISTURBANCE": 22,
@@ -17,7 +17,7 @@
     "PROPERTY FOUND/LOST": 6,
     "THEFT": 16,
     "NEIGHBOR CALL": 7,
-    "911 HANG-UP": 33,
+    "911 HANG-UP": 34,
     "SUSPICIOUS VEHICLE": 7,
     "PANHANDLER/SOLICITOR": 2,
     "VEHICLE ILLEGALLY PARKED": 3,
@@ -73,7 +73,7 @@
     "US HIGHWAY 19 N / SR 580": 3,
     "400 BLOCK S GULFVIEW BLVD": 5,
     "100 BLOCK S MYRTLE AVE": 3,
-    "0 BLOCK CAUSEWAY BLVD": 9,
+    "0 BLOCK CAUSEWAY BLVD": 10,
     "400 BLOCK FAIRWOOD AVE": 4,
     "500 BLOCK S FORT HARRISON AVE": 2,
     "26000 BLOCK US HIGHWAY 19 N": 4,
@@ -676,7 +676,8 @@
     "600 BLOCK N KEENE RD": 1,
     "US HIGHWAY 19 N / BELLEAIR BLVD": 1,
     "200 BLOCK N BETTY LN": 1,
-    "-3000 BLOCK BLK SR 580": 1
+    "-3000 BLOCK BLK SR 580": 1,
+    "1500 BLOCK S MYRTLE AVE": 1
   },
   "hourly_distribution": {
     "0": 30,
@@ -695,7 +696,7 @@
     "13": 77,
     "14": 92,
     "15": 83,
-    "16": 74,
+    "16": 76,
     "17": 57,
     "18": 46,
     "19": 12,
@@ -705,7 +706,7 @@
     "23": 26
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-03T21:49:19.518326+00:00",
+  "last_updated": "2025-12-03T21:56:59.178240+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 353
+  "total_snapshots": 354
 }
