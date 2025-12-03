@@ -1,12 +1,6 @@
 {
   "calls": [
     {
-      "Master_Incident_Number": "120225-00497",
-      "Online_Description": "WEAPONS VIOLATION",
-      "Address": "400 BLOCK BAY AVE",
-      "Response_Date": "2025-12-02T18:35:25"
-    },
-    {
       "Master_Incident_Number": "120225-00567",
       "Online_Description": "TRAFFIC CRASH",
       "Address": "700 BLOCK MANDALAY AVE",
@@ -19,42 +13,30 @@
       "Response_Date": "2025-12-02T21:23:52"
     },
     {
-      "Master_Incident_Number": "120225-00589",
-      "Online_Description": "SUSPICIOUS EVENT",
-      "Address": "2600 BLOCK MCMULLEN BOOTH RD",
-      "Response_Date": "2025-12-02T22:09:32"
-    },
-    {
-      "Master_Incident_Number": "120225-00592",
-      "Online_Description": "SUSPICIOUS EVENT",
-      "Address": "GRAND CENTRAL ST / HAMLET AVE",
-      "Response_Date": "2025-12-02T22:15:11"
-    },
-    {
-      "Master_Incident_Number": "120225-00596",
-      "Online_Description": "THEFT",
-      "Address": "2200 BLOCK GULF TO BAY BLVD",
-      "Response_Date": "2025-12-02T22:21:23"
-    },
-    {
-      "Master_Incident_Number": "120225-00593",
-      "Online_Description": "PARK WALK AND TALK",
-      "Address": "23100 BLOCK US HIGHWAY 19 N",
-      "Response_Date": "2025-12-02T22:22:00"
-    },
-    {
       "Master_Incident_Number": "120225-00594",
       "Online_Description": "ASSIST OTHER AGENCY",
       "Address": "5500 BLOCK GULF BLVD",
       "Response_Date": "2025-12-02T22:22:14"
     },
     {
-      "Master_Incident_Number": "120225-00597",
+      "Master_Incident_Number": "120225-00599",
       "Online_Description": "DIRECTED PATROL",
-      "Address": "-2100 BLOCK 2199 NURSERY RD",
-      "Response_Date": "2025-12-02T22:32:44"
+      "Address": "600 BLOCK GULF BLVD",
+      "Response_Date": "2025-12-02T22:44:59"
+    },
+    {
+      "Master_Incident_Number": "120225-00602",
+      "Online_Description": "BATTERY",
+      "Address": "1100 BLOCK BECKETT ST",
+      "Response_Date": "2025-12-02T22:55:05"
+    },
+    {
+      "Master_Incident_Number": "120225-00605",
+      "Online_Description": "TRAFFIC STOP",
+      "Address": "SR 580 / MCMULLEN BOOTH RD",
+      "Response_Date": "2025-12-02T23:04:26"
     }
   ],
-  "timestamp": "2025-12-03T03:56:16.018361+00:00",
-  "count": 9
+  "timestamp": "2025-12-03T04:25:51.950823+00:00",
+  "count": 6
 }

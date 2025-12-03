@@ -1,12 +1,12 @@
 {
-  "total_calls_tracked": 940,
-  "total_resolved": 931,
+  "total_calls_tracked": 943,
+  "total_resolved": 937,
   "call_types": {
-    "DIRECTED PATROL": 328,
-    "TRAFFIC STOP": 133,
+    "DIRECTED PATROL": 329,
+    "TRAFFIC STOP": 134,
     "DRUNK DRIVER": 4,
     "DISTURBANCE": 19,
-    "BATTERY": 3,
+    "BATTERY": 4,
     "CRIMINAL MISCHIEF": 2,
     "ALARM": 15,
     "KEEP THE PEACE": 16,
@@ -225,7 +225,7 @@
     "1500 BLOCK S HIGHLAND AVE": 2,
     "PINELLAS ST / S FORT HARRISON AVE": 1,
     "1600 BLOCK N ARCTURAS AVE": 2,
-    "1100 BLOCK BECKETT ST": 6,
+    "1100 BLOCK BECKETT ST": 7,
     "PAPAYA ST / MANDALAY AVE": 1,
     "CLEVELAND ST / N MISSOURI AVE": 1,
     "600 BLOCK COURT ST": 1,
@@ -325,7 +325,7 @@
     "MANDALAY PASS": 1,
     "GULF TO BAY BLVD / LANDRY AVE": 1,
     "1400 BLOCK N MADISON AVE": 6,
-    "600 BLOCK GULF BLVD": 1,
+    "600 BLOCK GULF BLVD": 2,
     "DREW ST / MCMULLEN BOOTH RD": 2,
     "2700 BLOCK COTTONWOOD CT": 1,
     "200 BLOCK SEMINOLE ST": 2,
@@ -602,7 +602,8 @@
     "JOEL LN / FLORA LN": 1,
     "GRAND CENTRAL ST / HAMLET AVE": 1,
     "5500 BLOCK GULF BLVD": 1,
-    "-2100 BLOCK 2199 NURSERY RD": 1
+    "-2100 BLOCK 2199 NURSERY RD": 1,
+    "SR 580 / MCMULLEN BOOTH RD": 1
   },
   "hourly_distribution": {
     "0": 22,
@@ -627,11 +628,11 @@
     "19": 12,
     "20": 15,
     "21": 20,
-    "22": 33,
-    "23": 19
+    "22": 35,
+    "23": 20
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-03T03:56:16.019531+00:00",
+  "last_updated": "2025-12-03T04:25:51.952087+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 298
+  "total_snapshots": 299
 }
