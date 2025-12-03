@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 961,
-  "total_resolved": 954,
+  "total_calls_tracked": 966,
+  "total_resolved": 958,
   "call_types": {
-    "DIRECTED PATROL": 336,
+    "DIRECTED PATROL": 339,
     "TRAFFIC STOP": 139,
     "DRUNK DRIVER": 4,
     "DISTURBANCE": 19,
@@ -11,7 +11,7 @@
     "ALARM": 15,
     "KEEP THE PEACE": 16,
     "WELFARE CHECK": 20,
-    "PARK WALK AND TALK": 75,
+    "PARK WALK AND TALK": 77,
     "SUSPICIOUS PERSON": 45,
     "TRESPASS": 24,
     "PROPERTY FOUND/LOST": 5,
@@ -380,7 +380,7 @@
     "20000 BLOCK US HIGHWAY 19 N": 2,
     "0 BLOCK 33 BAY ESPLANADE": 1,
     "1100 BLOCK N BAYSHORE BLVD": 1,
-    "1700 BLOCK DREW ST": 2,
+    "1700 BLOCK DREW ST": 3,
     "1200 BLOCK ROGERS ST": 1,
     "S MYRTLE AVE / LAKEVIEW RD": 1,
     "S SAN REMO AVE/ GULF TO BAY BLVD": 1,
@@ -420,7 +420,7 @@
     "S MARTIN LUTHER KING JR AVE / KINGSLEY ST": 1,
     "800 BLOCK S HIGHLAND AVE": 1,
     "S MISSOURI AVE / JASMINE WAY": 1,
-    "1700 BLOCK N HERCULES AVE": 2,
+    "1700 BLOCK N HERCULES AVE": 3,
     "400 BLOCK EAST SHORE DR": 1,
     "2500 BLOCK DREW ST": 1,
     "600 BLOCK N FORT HARRISON AVE": 1,
@@ -606,15 +606,17 @@
     "SR 580 / MCMULLEN BOOTH RD": 1,
     "300 BLOCK S ARCTURAS AVE": 1,
     "S MISSOURI AVE / DRUID RD": 1,
-    "1000 BLOCK CARLTON ST": 1,
+    "1000 BLOCK CARLTON ST": 2,
     "GULF TO BAY BLVD / BAYSIDE BRG": 1,
     "GULF TO BAY BLVD / S BAYSHORE BLVD": 1,
     "-1800 BLOCK 1898 N HIGHLAND AVE": 1,
-    "SR 590 / MCMULLEN BOOTH RD": 1
+    "SR 590 / MCMULLEN BOOTH RD": 1,
+    "0 BLOCK 48 BAY ESPLANADE": 1,
+    "-3100 BLOCK 3160 MASTERS DR": 1
   },
   "hourly_distribution": {
     "0": 30,
-    "1": 33,
+    "1": 37,
     "2": 16,
     "3": 18,
     "4": 8,
@@ -630,7 +632,7 @@
     "14": 76,
     "15": 64,
     "16": 65,
-    "17": 55,
+    "17": 56,
     "18": 46,
     "19": 12,
     "20": 15,
@@ -639,7 +641,7 @@
     "23": 26
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-03T06:36:54.802169+00:00",
+  "last_updated": "2025-12-03T06:57:09.504127+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 306
+  "total_snapshots": 307
 }
