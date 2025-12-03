@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 1000,
-  "total_resolved": 997,
+  "total_calls_tracked": 1004,
+  "total_resolved": 999,
   "call_types": {
-    "DIRECTED PATROL": 360,
+    "DIRECTED PATROL": 363,
     "TRAFFIC STOP": 143,
     "DRUNK DRIVER": 4,
     "DISTURBANCE": 19,
@@ -12,7 +12,7 @@
     "KEEP THE PEACE": 17,
     "WELFARE CHECK": 20,
     "PARK WALK AND TALK": 81,
-    "SUSPICIOUS PERSON": 45,
+    "SUSPICIOUS PERSON": 46,
     "TRESPASS": 24,
     "PROPERTY FOUND/LOST": 5,
     "THEFT": 13,
@@ -71,7 +71,7 @@
     "0 BLOCK ISLAND WAY": 5,
     "US HIGHWAY 19 N / SR 580": 3,
     "400 BLOCK S GULFVIEW BLVD": 5,
-    "100 BLOCK S MYRTLE AVE": 2,
+    "100 BLOCK S MYRTLE AVE": 3,
     "0 BLOCK CAUSEWAY BLVD": 9,
     "400 BLOCK FAIRWOOD AVE": 4,
     "500 BLOCK S FORT HARRISON AVE": 2,
@@ -150,7 +150,7 @@
     "1300 BLOCK FRANKLIN ST": 1,
     "SUNSET MEADOW DR / COLONY REED LN": 1,
     "0 BLOCK BAY ESPLANADE": 3,
-    "200 BLOCK S GLENWOOD AVE": 10,
+    "200 BLOCK S GLENWOOD AVE": 11,
     "S KEENE RD / DRUID RD": 1,
     "GULF TO BAY BLVD / BAMBOO LN": 1,
     "GULF TO BAY BLVD / BROOKSIDE DR": 1,
@@ -620,7 +620,9 @@
     "S MISSOURI AVE / JEFFORDS ST": 1,
     "GULF TO BAY BLVD / S DUNCAN AVE": 1,
     "S LINCOLN AVE / COURT ST": 1,
-    "COURT ST / S HILLCREST AVE": 1
+    "COURT ST / S HILLCREST AVE": 1,
+    "100 BLOCK N BELCHER RD": 1,
+    "S SAN REMO AVE / GULF TO BAY BLVD": 1
   },
   "hourly_distribution": {
     "0": 30,
@@ -629,7 +631,7 @@
     "3": 26,
     "4": 12,
     "5": 31,
-    "6": 30,
+    "6": 34,
     "7": 25,
     "8": 55,
     "9": 61,
@@ -649,7 +651,7 @@
     "23": 26
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-03T11:33:17.503280+00:00",
+  "last_updated": "2025-12-03T11:44:58.112427+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 322
+  "total_snapshots": 323
 }
