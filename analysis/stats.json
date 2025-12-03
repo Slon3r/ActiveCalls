@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 984,
-  "total_resolved": 981,
+  "total_calls_tracked": 987,
+  "total_resolved": 983,
   "call_types": {
-    "DIRECTED PATROL": 349,
-    "TRAFFIC STOP": 140,
+    "DIRECTED PATROL": 351,
+    "TRAFFIC STOP": 141,
     "DRUNK DRIVER": 4,
     "DISTURBANCE": 19,
     "BATTERY": 4,
@@ -203,7 +203,7 @@
     "23600 BLOCK US HIGHWAY 19 N": 4,
     "300 BLOCK MANDALAY AVE": 1,
     "JONES ST / FERN AVE": 1,
-    "1600 BLOCK GULF TO BAY BLVD": 3,
+    "1600 BLOCK GULF TO BAY BLVD": 4,
     "1600 BLOCK DARTMOUTH ST": 1,
     "HAMDEN DR / BRIGHTWATER DR": 2,
     "HAMPTON RD / GULF TO BAY BLVD": 1,
@@ -284,7 +284,7 @@
     "1700 BLOCK EL TAIR TRL": 1,
     "SETON DR / MONTCLAIR RD": 1,
     "700 BLOCK S GULFVIEW BLVD": 1,
-    "2200 BLOCK DREW ST": 2,
+    "2200 BLOCK DREW ST": 3,
     "200 BLOCK S MARS AVE": 1,
     "CLEARWATER MALL": 1,
     "S MARTIN LUTHER KING JR AVE / TUSKAWILLA DR": 1,
@@ -614,13 +614,14 @@
     "0 BLOCK 48 BAY ESPLANADE": 2,
     "-3100 BLOCK 3160 MASTERS DR": 1,
     "-2700 BLOCK 2748 DREW ST": 1,
-    "COURT ST / S HIGHLAND AVE": 1
+    "COURT ST / S HIGHLAND AVE": 1,
+    "GULF TO BAY BLVD / S KEENE RD": 1
   },
   "hourly_distribution": {
     "0": 30,
     "1": 41,
     "2": 24,
-    "3": 23,
+    "3": 26,
     "4": 8,
     "5": 24,
     "6": 29,
@@ -643,7 +644,7 @@
     "23": 26
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-03T08:51:44.910516+00:00",
+  "last_updated": "2025-12-03T09:13:04.802442+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 313
+  "total_snapshots": 314
 }

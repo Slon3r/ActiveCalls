@@ -7,18 +7,24 @@
       "Response_Date": "2025-12-03T03:02:10"
     },
     {
-      "Master_Incident_Number": "120325-00069",
+      "Master_Incident_Number": "120325-00072",
       "Online_Description": "DIRECTED PATROL",
-      "Address": "0 BLOCK CAUSEWAY BLVD",
-      "Response_Date": "2025-12-03T03:18:39"
+      "Address": "2200 BLOCK DREW ST",
+      "Response_Date": "2025-12-03T03:43:43"
     },
     {
-      "Master_Incident_Number": "120325-00071",
+      "Master_Incident_Number": "120325-00074",
       "Online_Description": "DIRECTED PATROL",
-      "Address": "500 BLOCK MANDALAY AVE",
-      "Response_Date": "2025-12-03T03:23:50"
+      "Address": "1600 BLOCK GULF TO BAY BLVD",
+      "Response_Date": "2025-12-03T03:48:25"
+    },
+    {
+      "Master_Incident_Number": "120325-00075",
+      "Online_Description": "TRAFFIC STOP",
+      "Address": "GULF TO BAY BLVD / S KEENE RD",
+      "Response_Date": "2025-12-03T03:50:48"
     }
   ],
-  "timestamp": "2025-12-03T08:51:44.908594+00:00",
-  "count": 3
+  "timestamp": "2025-12-03T09:13:04.800567+00:00",
+  "count": 4
 }
