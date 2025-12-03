@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 991,
-  "total_resolved": 988,
+  "total_calls_tracked": 993,
+  "total_resolved": 991,
   "call_types": {
-    "DIRECTED PATROL": 353,
+    "DIRECTED PATROL": 355,
     "TRAFFIC STOP": 141,
     "DRUNK DRIVER": 4,
     "DISTURBANCE": 19,
@@ -336,7 +336,7 @@
     "0 BLOCK N NEPTUNE AVE": 1,
     "S MYRTLE AVE / COURT ST": 1,
     "OLD COACHMAN RD / GULF TO BAY BLVD": 1,
-    "700 BLOCK ELDORADO AVE": 2,
+    "700 BLOCK ELDORADO AVE": 3,
     "700 BLOCK COURT ST": 2,
     "2500 BLOCK DRUID RD": 1,
     "100 BLOCK S GULFVIEW BLVD": 2,
@@ -617,7 +617,8 @@
     "COURT ST / S HIGHLAND AVE": 1,
     "GULF TO BAY BLVD / S KEENE RD": 1,
     "-2500 BLOCK 2528 DRIVEWAY PARKING": 2,
-    "S MISSOURI AVE / JEFFORDS ST": 1
+    "S MISSOURI AVE / JEFFORDS ST": 1,
+    "GULF TO BAY BLVD / S DUNCAN AVE": 1
   },
   "hourly_distribution": {
     "0": 30,
@@ -625,14 +626,14 @@
     "2": 24,
     "3": 26,
     "4": 12,
-    "5": 24,
+    "5": 25,
     "6": 29,
     "7": 25,
     "8": 55,
     "9": 61,
     "10": 63,
     "11": 56,
-    "12": 61,
+    "12": 62,
     "13": 69,
     "14": 76,
     "15": 64,
@@ -646,7 +647,7 @@
     "23": 26
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-03T09:58:58.350800+00:00",
+  "last_updated": "2025-12-03T10:28:49.139561+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 317
+  "total_snapshots": 318
 }

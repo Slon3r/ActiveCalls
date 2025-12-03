@@ -930,6 +930,24 @@
           "Response_Date": "2025-12-03T04:23:42"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-03T10:28:49.137507+00:00",
+      "call_count": 2,
+      "calls": [
+        {
+          "Master_Incident_Number": "120225-00284",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "700 BLOCK ELDORADO AVE",
+          "Response_Date": "2025-12-02T12:20:51"
+        },
+        {
+          "Master_Incident_Number": "120325-00094",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "GULF TO BAY BLVD / S DUNCAN AVE",
+          "Response_Date": "2025-12-03T05:02:13"
+        }
+      ]
     }
   ]
 }
