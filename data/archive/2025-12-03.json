@@ -3353,6 +3353,36 @@
           "Response_Date": "2025-12-03T17:57:31"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-03T23:32:17.667825+00:00",
+      "call_count": 4,
+      "calls": [
+        {
+          "Master_Incident_Number": "120325-00453",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "SUNSET POINT RD / N HERCULES AVE",
+          "Response_Date": "2025-12-03T17:15:41"
+        },
+        {
+          "Master_Incident_Number": "120325-00469",
+          "Online_Description": "HIT & RUN",
+          "Address": "COUNTRYSIDE BLVD / SR 580",
+          "Response_Date": "2025-12-03T17:30:32"
+        },
+        {
+          "Master_Incident_Number": "120325-00485",
+          "Online_Description": "CIVIL MATTER",
+          "Address": "2300 BLOCK DRUID RD",
+          "Response_Date": "2025-12-03T18:07:06"
+        },
+        {
+          "Master_Incident_Number": "120325-00486",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "BAY ESPLANADE / MANDALAY AVE",
+          "Response_Date": "2025-12-03T18:09:28"
+        }
+      ]
     }
   ]
 }

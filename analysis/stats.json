@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 1157,
-  "total_resolved": 1151,
+  "total_calls_tracked": 1159,
+  "total_resolved": 1155,
   "call_types": {
     "DIRECTED PATROL": 414,
-    "TRAFFIC STOP": 166,
+    "TRAFFIC STOP": 167,
     "DRUNK DRIVER": 4,
     "DISTURBANCE": 22,
     "BATTERY": 5,
@@ -33,7 +33,7 @@
     "HAZARD": 2,
     "UNKNOWN PROBLEM": 6,
     "NOISE COMPLAINT": 4,
-    "CIVIL MATTER": 8,
+    "CIVIL MATTER": 9,
     "DOMESTIC": 10,
     "ANIMAL CASE": 3,
     "MISSING PERSON": 11,
@@ -689,7 +689,9 @@
     "COUNTRYSIDE BLVD / SR 580": 1,
     "MCMULLEN BOOTH RD / KAPOK KOVE DR": 1,
     "1000 BLOCK COURT ST": 1,
-    "COURT ST / S SAN REMO AVE": 1
+    "COURT ST / S SAN REMO AVE": 1,
+    "2300 BLOCK DRUID RD": 1,
+    "BAY ESPLANADE / MANDALAY AVE": 1
   },
   "hourly_distribution": {
     "0": 30,
@@ -710,7 +712,7 @@
     "15": 83,
     "16": 83,
     "17": 69,
-    "18": 46,
+    "18": 48,
     "19": 12,
     "20": 15,
     "21": 20,
@@ -718,7 +720,7 @@
     "23": 26
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-03T23:19:58.870151+00:00",
+  "last_updated": "2025-12-03T23:32:17.672564+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 359
+  "total_snapshots": 360
 }
