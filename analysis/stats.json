@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 922,
-  "total_resolved": 911,
+  "total_calls_tracked": 926,
+  "total_resolved": 920,
   "call_types": {
     "DIRECTED PATROL": 327,
-    "TRAFFIC STOP": 130,
+    "TRAFFIC STOP": 132,
     "DRUNK DRIVER": 4,
     "DISTURBANCE": 19,
     "BATTERY": 3,
@@ -29,7 +29,7 @@
     "FIRE": 2,
     "FRAUD": 5,
     "RECKLESS VEHICLE": 2,
-    "JUVENILE CASE": 3,
+    "JUVENILE CASE": 4,
     "HAZARD": 1,
     "UNKNOWN PROBLEM": 4,
     "NOISE COMPLAINT": 4,
@@ -48,7 +48,8 @@
     "ABANDONED VEHICLE": 3,
     "CHILD ABUSE": 2,
     "FIGHT": 1,
-    "CHILD PROTECTION INVESTIGATION": 2
+    "CHILD PROTECTION INVESTIGATION": 2,
+    "DRUNK PEDESTRIAN": 1
   },
   "addresses": {
     "MEMORIAL CSWY / ISLAND WAY": 14,
@@ -149,7 +150,7 @@
     "1300 BLOCK FRANKLIN ST": 1,
     "SUNSET MEADOW DR / COLONY REED LN": 1,
     "0 BLOCK BAY ESPLANADE": 3,
-    "200 BLOCK S GLENWOOD AVE": 8,
+    "200 BLOCK S GLENWOOD AVE": 9,
     "S KEENE RD / DRUID RD": 1,
     "GULF TO BAY BLVD / BAMBOO LN": 1,
     "GULF TO BAY BLVD / BROOKSIDE DR": 1,
@@ -374,7 +375,7 @@
     "-1100 BLOCK 1198 N MARTIN LUTHER KING JR AVE": 1,
     "1500 BLOCK DRUID RD": 1,
     "GULF TO BAY BLVD / S HIGHLAND AVE": 1,
-    "1600 BLOCK N HIGHLAND AVE": 2,
+    "1600 BLOCK N HIGHLAND AVE": 3,
     "1700 BLOCK FLAGLER DR": 1,
     "20000 BLOCK US HIGHWAY 19 N": 2,
     "0 BLOCK 33 BAY ESPLANADE": 1,
@@ -594,7 +595,9 @@
     "COURTNEY CAMPBELL CSWY / BAYSHORE BLVD": 1,
     "25300 BLOCK US HIGHWAY 19 N": 1,
     "-3100 BLOCK 3161 MASTERS DR": 1,
-    "-2600 BLOCK 2698 CLUBHOUSE DR N": 1
+    "-2600 BLOCK 2698 CLUBHOUSE DR N": 1,
+    "SR 580 / COUNTRYSIDE BLVD": 1,
+    "400 BLOCK POINSETTIA AVE": 1
   },
   "hourly_distribution": {
     "0": 22,
@@ -616,14 +619,14 @@
     "16": 65,
     "17": 55,
     "18": 46,
-    "19": 10,
-    "20": 12,
+    "19": 12,
+    "20": 14,
     "21": 13,
     "22": 27,
     "23": 19
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-02T23:57:36.978961+00:00",
+  "last_updated": "2025-12-03T01:39:34.918294+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 295
+  "total_snapshots": 296
 }

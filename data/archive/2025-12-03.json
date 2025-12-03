@@ -1,0 +1,47 @@
+{
+  "date": "2025-12-03",
+  "snapshots": [
+    {
+      "timestamp": "2025-12-03T01:39:34.917210+00:00",
+      "call_count": 6,
+      "calls": [
+        {
+          "Master_Incident_Number": "120225-00464",
+          "Online_Description": "DISTURBANCE",
+          "Address": "1500 BLOCK N BETTY LN",
+          "Response_Date": "2025-12-02T17:55:19"
+        },
+        {
+          "Master_Incident_Number": "120225-00497",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "400 BLOCK BAY AVE",
+          "Response_Date": "2025-12-02T18:35:25"
+        },
+        {
+          "Master_Incident_Number": "120225-00515",
+          "Online_Description": "DRUNK PEDESTRIAN",
+          "Address": "1600 BLOCK N HIGHLAND AVE",
+          "Response_Date": "2025-12-02T19:16:05"
+        },
+        {
+          "Master_Incident_Number": "120225-00533",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "SR 580 / COUNTRYSIDE BLVD",
+          "Response_Date": "2025-12-02T19:51:57"
+        },
+        {
+          "Master_Incident_Number": "120225-00541",
+          "Online_Description": "JUVENILE CASE",
+          "Address": "200 BLOCK S GLENWOOD AVE",
+          "Response_Date": "2025-12-02T20:09:43"
+        },
+        {
+          "Master_Incident_Number": "120225-00544",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "400 BLOCK POINSETTIA AVE",
+          "Response_Date": "2025-12-02T20:17:37"
+        }
+      ]
+    }
+  ]
+}
