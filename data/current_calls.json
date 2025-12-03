@@ -7,24 +7,6 @@
       "Response_Date": "2025-12-03T09:35:56"
     },
     {
-      "Master_Incident_Number": "120325-00282",
-      "Online_Description": "TRESPASS",
-      "Address": "300 BLOCK S BELCHER RD",
-      "Response_Date": "2025-12-03T11:25:17"
-    },
-    {
-      "Master_Incident_Number": "120325-00284",
-      "Online_Description": "PARK WALK AND TALK",
-      "Address": "3000 BLOCK SR 580",
-      "Response_Date": "2025-12-03T11:27:51"
-    },
-    {
-      "Master_Incident_Number": "120325-00285",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "2600 BLOCK ENTERPRISE RD E",
-      "Response_Date": "2025-12-03T11:28:46"
-    },
-    {
       "Master_Incident_Number": "120325-00288",
       "Online_Description": "DIRECTED PATROL",
       "Address": "MARILYN ST / NE COACHMAN RD",
@@ -37,30 +19,36 @@
       "Response_Date": "2025-12-03T11:36:06"
     },
     {
-      "Master_Incident_Number": "120325-00291",
-      "Online_Description": "DISTURBANCE",
-      "Address": "1100 BLOCK ENGMAN ST",
-      "Response_Date": "2025-12-03T11:37:02"
+      "Master_Incident_Number": "120325-00299",
+      "Online_Description": "TRAFFIC CRASH",
+      "Address": "1200 BLOCK SUNSET POINT RD",
+      "Response_Date": "2025-12-03T11:51:50"
     },
     {
-      "Master_Incident_Number": "120325-00290",
+      "Master_Incident_Number": "120325-00298",
       "Online_Description": "DIRECTED PATROL",
-      "Address": "2700 BLOCK GULF TO BAY BLVD",
-      "Response_Date": "2025-12-03T11:37:47"
+      "Address": "200 BLOCK S GLENWOOD AVE",
+      "Response_Date": "2025-12-03T11:53:15"
     },
     {
-      "Master_Incident_Number": "120325-00292",
+      "Master_Incident_Number": "120325-00300",
       "Online_Description": "DIRECTED PATROL",
-      "Address": "1200 BLOCK S MISSOURI AVE",
-      "Response_Date": "2025-12-03T11:40:51"
+      "Address": "500 BLOCK MANDALAY AVE",
+      "Response_Date": "2025-12-03T11:54:16"
     },
     {
-      "Master_Incident_Number": "120325-00295",
+      "Master_Incident_Number": "120325-00301",
+      "Online_Description": "ASSAULT",
+      "Address": "1000 BLOCK ELDORADO AVE",
+      "Response_Date": "2025-12-03T11:55:47"
+    },
+    {
+      "Master_Incident_Number": "120325-00302",
       "Online_Description": "DIRECTED PATROL",
-      "Address": "2600 BLOCK LANDMARK DR",
-      "Response_Date": "2025-12-03T11:46:16"
+      "Address": "1000 BLOCK GULF BLVD",
+      "Response_Date": "2025-12-03T11:58:28"
     }
   ],
-  "timestamp": "2025-12-03T17:11:39.691700+00:00",
-  "count": 10
+  "timestamp": "2025-12-03T17:36:55.118659+00:00",
+  "count": 8
 }

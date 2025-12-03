@@ -1901,6 +1901,60 @@
           "Response_Date": "2025-12-03T11:46:16"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-03T17:36:55.118659+00:00",
+      "call_count": 8,
+      "calls": [
+        {
+          "Master_Incident_Number": "120325-00224",
+          "Online_Description": "KEEP THE PEACE",
+          "Address": "1900 BLOCK RADCLIFFE DR N",
+          "Response_Date": "2025-12-03T09:35:56"
+        },
+        {
+          "Master_Incident_Number": "120325-00288",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "MARILYN ST / NE COACHMAN RD",
+          "Response_Date": "2025-12-03T11:35:40"
+        },
+        {
+          "Master_Incident_Number": "120325-00289",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "2100 BLOCK ELYSIUM BLVD",
+          "Response_Date": "2025-12-03T11:36:06"
+        },
+        {
+          "Master_Incident_Number": "120325-00299",
+          "Online_Description": "TRAFFIC CRASH",
+          "Address": "1200 BLOCK SUNSET POINT RD",
+          "Response_Date": "2025-12-03T11:51:50"
+        },
+        {
+          "Master_Incident_Number": "120325-00298",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "200 BLOCK S GLENWOOD AVE",
+          "Response_Date": "2025-12-03T11:53:15"
+        },
+        {
+          "Master_Incident_Number": "120325-00300",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "500 BLOCK MANDALAY AVE",
+          "Response_Date": "2025-12-03T11:54:16"
+        },
+        {
+          "Master_Incident_Number": "120325-00301",
+          "Online_Description": "ASSAULT",
+          "Address": "1000 BLOCK ELDORADO AVE",
+          "Response_Date": "2025-12-03T11:55:47"
+        },
+        {
+          "Master_Incident_Number": "120325-00302",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "1000 BLOCK GULF BLVD",
+          "Response_Date": "2025-12-03T11:58:28"
+        }
+      ]
     }
   ]
 }

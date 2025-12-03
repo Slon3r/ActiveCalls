@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 1070,
-  "total_resolved": 1060,
+  "total_calls_tracked": 1075,
+  "total_resolved": 1067,
   "call_types": {
-    "DIRECTED PATROL": 392,
+    "DIRECTED PATROL": 395,
     "TRAFFIC STOP": 151,
     "DRUNK DRIVER": 4,
     "DISTURBANCE": 21,
@@ -22,7 +22,7 @@
     "PANHANDLER/SOLICITOR": 2,
     "VEHICLE ILLEGALLY PARKED": 3,
     "SUSPICIOUS EVENT": 22,
-    "TRAFFIC CRASH": 40,
+    "TRAFFIC CRASH": 41,
     "DISABLED VEHICLE": 12,
     "ASSIST CITIZEN": 32,
     "ASSIST OTHER AGENCY": 15,
@@ -49,7 +49,8 @@
     "CHILD ABUSE": 2,
     "FIGHT": 1,
     "CHILD PROTECTION INVESTIGATION": 2,
-    "DRUNK PEDESTRIAN": 2
+    "DRUNK PEDESTRIAN": 2,
+    "ASSAULT": 1
   },
   "addresses": {
     "MEMORIAL CSWY / ISLAND WAY": 14,
@@ -82,7 +83,7 @@
     "FLUSHING AVE / HARN BLVD": 1,
     "S BELCHER RD / BARCELONA DR": 1,
     "-1400 BLOCK 1417 S MISSOURI AVE": 1,
-    "1000 BLOCK GULF BLVD": 13,
+    "1000 BLOCK GULF BLVD": 14,
     "1400 BLOCK LAURA ST": 2,
     "ENTERPRISE RD E / VILLAGE DR": 2,
     "GULF TO BAY BLVD / HAMPTON RD": 1,
@@ -150,7 +151,7 @@
     "1300 BLOCK FRANKLIN ST": 1,
     "SUNSET MEADOW DR / COLONY REED LN": 1,
     "0 BLOCK BAY ESPLANADE": 3,
-    "200 BLOCK S GLENWOOD AVE": 12,
+    "200 BLOCK S GLENWOOD AVE": 13,
     "S KEENE RD / DRUID RD": 1,
     "GULF TO BAY BLVD / BAMBOO LN": 1,
     "GULF TO BAY BLVD / BROOKSIDE DR": 1,
@@ -187,7 +188,7 @@
     "300 BLOCK S GULFVIEW BLVD": 9,
     "500 BLOCK S HIGHLAND AVE": 1,
     "1700 BLOCK KINGS HWY": 2,
-    "500 BLOCK MANDALAY AVE": 4,
+    "500 BLOCK MANDALAY AVE": 5,
     "3000 BLOCK HAVERFORD DR": 1,
     "DREW ST / OLD COACHMAN RD": 2,
     "2500 BLOCK HARN BLVD": 9,
@@ -506,7 +507,7 @@
     "1900 BLOCK RADCLIFFE DR N": 2,
     "1100 BLOCK GROVE ST": 1,
     "1300 BLOCK AMBLE LN": 1,
-    "1000 BLOCK ELDORADO AVE": 2,
+    "1000 BLOCK ELDORADO AVE": 3,
     "-3300 BLOCK 3348 HYDE PARK DR": 1,
     "1400 BLOCK N MARTIN LUTHER KING JR AVE": 2,
     "600 BLOCK BLANCHE B LITTLEJOHN TRL": 1,
@@ -650,7 +651,8 @@
     "3000 BLOCK SR 580": 1,
     "2600 BLOCK ENTERPRISE RD": 1,
     "MARILYN ST / NE COACHMAN RD": 1,
-    "2100 BLOCK ELYSIUM BLVD": 1
+    "2100 BLOCK ELYSIUM BLVD": 1,
+    "1200 BLOCK SUNSET POINT RD": 1
   },
   "hourly_distribution": {
     "0": 30,
@@ -664,7 +666,7 @@
     "8": 69,
     "9": 77,
     "10": 73,
-    "11": 72,
+    "11": 77,
     "12": 62,
     "13": 69,
     "14": 76,
@@ -679,7 +681,7 @@
     "23": 26
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-03T17:11:39.694856+00:00",
+  "last_updated": "2025-12-03T17:36:55.121961+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 337
+  "total_snapshots": 338
 }
