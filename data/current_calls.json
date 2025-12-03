@@ -13,12 +13,6 @@
       "Response_Date": "2025-12-03T12:13:02"
     },
     {
-      "Master_Incident_Number": "120325-00309",
-      "Online_Description": "KEEP THE PEACE",
-      "Address": "1000 BLOCK N MARTIN LUTHER KING JR AVE",
-      "Response_Date": "2025-12-03T12:34:46"
-    },
-    {
       "Master_Incident_Number": "120325-00338",
       "Online_Description": "FRAUD",
       "Address": "100 BLOCK SAND KEY ESTATES DR",
@@ -29,6 +23,12 @@
       "Online_Description": "SCHOOL CROSSING",
       "Address": "DREW ST / FAIRWOOD AVE",
       "Response_Date": "2025-12-03T14:13:02"
+    },
+    {
+      "Master_Incident_Number": "120325-00356",
+      "Online_Description": "ASSIST OTHER AGENCY",
+      "Address": "600 BLOCK S MARTIN LUTHER KING JR AVE",
+      "Response_Date": "2025-12-03T14:25:40"
     },
     {
       "Master_Incident_Number": "120325-00359",
@@ -49,18 +49,48 @@
       "Response_Date": "2025-12-03T14:54:06"
     },
     {
-      "Master_Incident_Number": "120325-00374",
-      "Online_Description": "TRAFFIC STOP",
-      "Address": "21600 BLOCK US HIGHWAY 19 N",
-      "Response_Date": "2025-12-03T14:55:28"
+      "Master_Incident_Number": "120325-00381",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "0 BLOCK 199 ORANGEVIEW AVE",
+      "Response_Date": "2025-12-03T15:11:33"
     },
     {
-      "Master_Incident_Number": "120325-00378",
+      "Master_Incident_Number": "120325-00384",
+      "Online_Description": "DISTURBANCE",
+      "Address": "600 BLOCK S FORT HARRISON AVE",
+      "Response_Date": "2025-12-03T15:14:30"
+    },
+    {
+      "Master_Incident_Number": "120325-00385",
+      "Online_Description": "PARK WALK AND TALK",
+      "Address": "1800 BLOCK N HIGHLAND AVE",
+      "Response_Date": "2025-12-03T15:16:13"
+    },
+    {
+      "Master_Incident_Number": "120325-00387",
+      "Online_Description": "WELFARE CHECK",
+      "Address": "SR 590 / US HIGHWAY 19 N",
+      "Response_Date": "2025-12-03T15:16:17"
+    },
+    {
+      "Master_Incident_Number": "120325-00388",
       "Online_Description": "TRAFFIC STOP",
-      "Address": "COUNTRYSIDE BLVD / AUGUSTA DR N",
-      "Response_Date": "2025-12-03T15:05:41"
+      "Address": "N HIGHLAND AVE / PALMETTO ST",
+      "Response_Date": "2025-12-03T15:23:16"
+    },
+    {
+      "Master_Incident_Number": "120325-00389",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "1300 BLOCK S BELCHER RD",
+      "Response_Date": "2025-12-03T15:25:12"
+    },
+    {
+      "Master_Incident_Number": "120325-00390",
+      "Online_Description": "TRAFFIC STOP",
+      "Address": "COUNTRYSIDE BLVD / ENDICOTT CT",
+      "Response_Date": "2025-12-03T15:25:15"
     }
   ],
-  "timestamp": "2025-12-03T20:28:27.039246+00:00",
-  "count": 10
+  "timestamp": "2025-12-03T20:46:31.358098+00:00",
+  "count": 15
 }
