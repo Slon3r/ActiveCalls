@@ -4757,3 +4757,15 @@ TOTAL ACTIVE CALLS: 5
 --- RESOLVED CALLS (2) ---
 [RESOLVED] 120325-00110 | DIRECTED PATROL | 0 BLOCK ISLAND WAY | Response: 05:51 AM
 [RESOLVED] 120325-00118 | DIRECTED PATROL | 1400 BLOCK GULF TO BAY BLVD | Response: 06:09 AM
+
+================================================================================
+TIMESTAMP: 2025-12-03T11:52:39.736088+00:00
+TOTAL ACTIVE CALLS: 6
+================================================================================
+
+--- NEW CALLS (2) ---
+[NEW] 120325-00122 | DIRECTED PATROL | 1300 BLOCK CLEVELAND ST | Response: 06:27 AM
+[NEW] 120325-00125 | DIRECTED PATROL | 1700 BLOCK DREW ST | Response: 06:31 AM
+
+--- RESOLVED CALLS (1) ---
+[RESOLVED] 120325-00121 | DIRECTED PATROL | 100 BLOCK S MYRTLE AVE | Response: 06:23 AM
