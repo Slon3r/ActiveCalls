@@ -4723,3 +4723,12 @@ TOTAL ACTIVE CALLS: 2
 --- RESOLVED CALLS (2) ---
 [RESOLVED] 120325-00098 | DIRECTED PATROL | 700 BLOCK ELDORADO AVE | Response: 05:10 AM
 [RESOLVED] 120325-00103 | TRAFFIC STOP | S LINCOLN AVE / COURT ST | Response: 05:22 AM
+
+================================================================================
+TIMESTAMP: 2025-12-03T11:19:06.705868+00:00
+TOTAL ACTIVE CALLS: 0
+================================================================================
+
+--- RESOLVED CALLS (2) ---
+[RESOLVED] 120325-00102 | DIRECTED PATROL | -800 BLOCK 819 NARCISSUS AVE | Response: 05:20 AM
+[RESOLVED] 120325-00104 | TRAFFIC STOP | COURT ST / S HILLCREST AVE | Response: 05:33 AM

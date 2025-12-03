@@ -1,18 +1,5 @@
 {
-  "calls": [
-    {
-      "Master_Incident_Number": "120325-00102",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "-800 BLOCK 819 NARCISSUS AVE",
-      "Response_Date": "2025-12-03T05:20:43"
-    },
-    {
-      "Master_Incident_Number": "120325-00104",
-      "Online_Description": "TRAFFIC STOP",
-      "Address": "COURT ST / S HILLCREST AVE",
-      "Response_Date": "2025-12-03T05:33:13"
-    }
-  ],
-  "timestamp": "2025-12-03T10:57:38.889918+00:00",
-  "count": 2
+  "calls": [],
+  "timestamp": "2025-12-03T11:19:06.705868+00:00",
+  "count": 0
 }
