@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 1292,
-  "total_resolved": 1284,
+  "total_calls_tracked": 1295,
+  "total_resolved": 1290,
   "call_types": {
     "DIRECTED PATROL": 453,
-    "TRAFFIC STOP": 191,
+    "TRAFFIC STOP": 192,
     "DRUNK DRIVER": 4,
     "DISTURBANCE": 26,
     "BATTERY": 6,
@@ -13,7 +13,7 @@
     "WELFARE CHECK": 28,
     "PARK WALK AND TALK": 102,
     "SUSPICIOUS PERSON": 54,
-    "TRESPASS": 34,
+    "TRESPASS": 35,
     "PROPERTY FOUND/LOST": 6,
     "THEFT": 19,
     "NEIGHBOR CALL": 7,
@@ -24,7 +24,7 @@
     "SUSPICIOUS EVENT": 23,
     "TRAFFIC CRASH": 54,
     "DISABLED VEHICLE": 13,
-    "ASSIST CITIZEN": 38,
+    "ASSIST CITIZEN": 39,
     "ASSIST OTHER AGENCY": 17,
     "FIRE": 2,
     "FRAUD": 12,
@@ -314,7 +314,7 @@
     "900 BLOCK N MCMULLEN BOOTH RD": 1,
     "GULF TO BAY BLVD / S GLENWOOD AVE": 1,
     "300 BLOCK ISLAND WAY": 1,
-    "2900 BLOCK GULF TO BAY BLVD": 5,
+    "2900 BLOCK GULF TO BAY BLVD": 6,
     "MONTCLAIR RD / N HERCULES AVE": 1,
     "1000 BLOCK S MISSOURI AVE": 1,
     "1400 BLOCK S BELCHER RD": 3,
@@ -599,7 +599,7 @@
     "-3100 BLOCK 3161 MASTERS DR": 1,
     "-2600 BLOCK 2698 CLUBHOUSE DR N": 1,
     "SR 580 / COUNTRYSIDE BLVD": 1,
-    "400 BLOCK POINSETTIA AVE": 1,
+    "400 BLOCK POINSETTIA AVE": 2,
     "700 BLOCK MANDALAY AVE": 1,
     "JOEL LN / FLORA LN": 1,
     "GRAND CENTRAL ST / HAMLET AVE": 1,
@@ -742,7 +742,8 @@
     "0 BLOCK SAND KEY PARKING": 1,
     "200 BLOCK DORY PSGE": 1,
     "100 BLOCK PIERCE ST": 1,
-    "COUNTRYSIDE BLVD / BRAELOCH CIR W": 1
+    "COUNTRYSIDE BLVD / BRAELOCH CIR W": 1,
+    "2300 BLOCK SUNSET POINT RD": 1
   },
   "hourly_distribution": {
     "0": 37,
@@ -758,7 +759,7 @@
     "10": 87,
     "11": 89,
     "12": 87,
-    "13": 87,
+    "13": 90,
     "14": 92,
     "15": 83,
     "16": 83,
@@ -771,7 +772,7 @@
     "23": 30
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-04T18:57:15.969624+00:00",
+  "last_updated": "2025-12-04T19:18:11.088353+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 409
+  "total_snapshots": 410
 }
