@@ -1189,6 +1189,54 @@
           "Response_Date": "2025-12-04T10:00:20"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-04T15:42:40.709914+00:00",
+      "call_count": 7,
+      "calls": [
+        {
+          "Master_Incident_Number": "120425-00096",
+          "Online_Description": "TRAFFIC CRASH",
+          "Address": "19100 BLOCK US HIGHWAY 19 N",
+          "Response_Date": "2025-12-04T08:12:41"
+        },
+        {
+          "Master_Incident_Number": "120425-00114",
+          "Online_Description": "TRAFFIC CRASH",
+          "Address": "SR 580 / CHARLES AVE",
+          "Response_Date": "2025-12-04T08:57:47"
+        },
+        {
+          "Master_Incident_Number": "120425-00129",
+          "Online_Description": "TRESPASS",
+          "Address": "2100 BLOCK GULF TO BAY BLVD",
+          "Response_Date": "2025-12-04T09:35:15"
+        },
+        {
+          "Master_Incident_Number": "120425-00141",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "300 BLOCK CLEVELAND ST",
+          "Response_Date": "2025-12-04T10:06:59"
+        },
+        {
+          "Master_Incident_Number": "120425-00143",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "20500 BLOCK US HIGHWAY 19 N",
+          "Response_Date": "2025-12-04T10:09:32"
+        },
+        {
+          "Master_Incident_Number": "120425-00146",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "1300 BLOCK S BELCHER RD",
+          "Response_Date": "2025-12-04T10:14:16"
+        },
+        {
+          "Master_Incident_Number": "120425-00152",
+          "Online_Description": "SUSPICIOUS VEHICLE",
+          "Address": "300 BLOCK PALM IS SE",
+          "Response_Date": "2025-12-04T10:21:41"
+        }
+      ]
     }
   ]
 }

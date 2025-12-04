@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 1241,
-  "total_resolved": 1232,
+  "total_calls_tracked": 1245,
+  "total_resolved": 1238,
   "call_types": {
-    "DIRECTED PATROL": 440,
+    "DIRECTED PATROL": 443,
     "TRAFFIC STOP": 180,
     "DRUNK DRIVER": 4,
     "DISTURBANCE": 25,
@@ -18,7 +18,7 @@
     "THEFT": 17,
     "NEIGHBOR CALL": 7,
     "911 HANG-UP": 41,
-    "SUSPICIOUS VEHICLE": 9,
+    "SUSPICIOUS VEHICLE": 10,
     "PANHANDLER/SOLICITOR": 2,
     "VEHICLE ILLEGALLY PARKED": 3,
     "SUSPICIOUS EVENT": 23,
@@ -78,7 +78,7 @@
     "400 BLOCK FAIRWOOD AVE": 4,
     "500 BLOCK S FORT HARRISON AVE": 3,
     "26000 BLOCK US HIGHWAY 19 N": 4,
-    "1300 BLOCK S BELCHER RD": 6,
+    "1300 BLOCK S BELCHER RD": 7,
     "200 BLOCK WINDWARD PSGE": 4,
     "2700 BLOCK DREW ST": 1,
     "FLUSHING AVE / HARN BLVD": 1,
@@ -166,7 +166,7 @@
     "FIFTH ST & HAMDEN DR": 1,
     "FIFTH ST / HAMDEN DR": 1,
     "E WORLD PARKWAY BLVD / BELCHER RD": 1,
-    "300 BLOCK CLEVELAND ST": 11,
+    "300 BLOCK CLEVELAND ST": 12,
     "GULF TO BAY BLVD / S LAKE DR": 1,
     "-400 BLOCK BLK BLANCHE B LITTLEJOHN TRL": 1,
     "2600 BLOCK GULF TO BAY BLVD": 6,
@@ -274,7 +274,7 @@
     "3000 BLOCK EASTLAND BLVD": 2,
     "-2300 BLOCK 2373 GULF TO BAY BLVD": 1,
     "1800 BLOCK MONTCLAIR RD": 1,
-    "20500 BLOCK US HIGHWAY 19 N": 3,
+    "20500 BLOCK US HIGHWAY 19 N": 4,
     "200 BLOCK LARBOARD WAY": 1,
     "COURT ST / S MISSOURI AVE": 3,
     "-500 BLOCK 1068 GULF BLVD": 1,
@@ -720,7 +720,8 @@
     "SR 580 / CHARLES AVE": 1,
     "S FORT HARRISON AVE / LAKEVIEW RD": 1,
     "DREW ST": 1,
-    "400 BLOCK ISLAND WAY": 1
+    "400 BLOCK ISLAND WAY": 1,
+    "300 BLOCK PALM IS SE": 1
   },
   "hourly_distribution": {
     "0": 37,
@@ -733,7 +734,7 @@
     "7": 34,
     "8": 82,
     "9": 88,
-    "10": 74,
+    "10": 78,
     "11": 77,
     "12": 71,
     "13": 77,
@@ -749,7 +750,7 @@
     "23": 30
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-04T15:21:51.870349+00:00",
+  "last_updated": "2025-12-04T15:42:40.712314+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 399
+  "total_snapshots": 400
 }
