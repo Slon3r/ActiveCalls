@@ -1782,6 +1782,54 @@
           "Response_Date": "2025-12-04T13:45:19"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-04T19:32:22.250545+00:00",
+      "call_count": 7,
+      "calls": [
+        {
+          "Master_Incident_Number": "120425-00226",
+          "Online_Description": "FRAUD",
+          "Address": "1900 BLOCK E SKYLINE DR",
+          "Response_Date": "2025-12-04T12:36:19"
+        },
+        {
+          "Master_Incident_Number": "120425-00263",
+          "Online_Description": "ASSIST CITIZEN",
+          "Address": "2300 BLOCK SUNSET POINT RD",
+          "Response_Date": "2025-12-04T13:28:00"
+        },
+        {
+          "Master_Incident_Number": "120425-00267",
+          "Online_Description": "ASSIST CITIZEN",
+          "Address": "2000 BLOCK GULF TO BAY BLVD",
+          "Response_Date": "2025-12-04T13:30:58"
+        },
+        {
+          "Master_Incident_Number": "120425-00271",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "400 BLOCK POINSETTIA AVE",
+          "Response_Date": "2025-12-04T13:41:02"
+        },
+        {
+          "Master_Incident_Number": "120425-00273",
+          "Online_Description": "TRESPASS",
+          "Address": "2900 BLOCK GULF TO BAY BLVD",
+          "Response_Date": "2025-12-04T13:45:19"
+        },
+        {
+          "Master_Incident_Number": "120425-00278",
+          "Online_Description": "HAZARD",
+          "Address": "0 BLOCK BAY ESPLANADE",
+          "Response_Date": "2025-12-04T13:58:24"
+        },
+        {
+          "Master_Incident_Number": "120425-00283",
+          "Online_Description": "ASSIST OTHER AGENCY",
+          "Address": "500 BLOCK N MADISON AVE",
+          "Response_Date": "2025-12-04T14:03:20"
+        }
+      ]
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "total_calls_tracked": 1295,
+  "total_calls_tracked": 1297,
   "total_resolved": 1290,
   "call_types": {
     "DIRECTED PATROL": 453,
@@ -25,12 +25,12 @@
     "TRAFFIC CRASH": 54,
     "DISABLED VEHICLE": 13,
     "ASSIST CITIZEN": 39,
-    "ASSIST OTHER AGENCY": 17,
+    "ASSIST OTHER AGENCY": 18,
     "FIRE": 2,
     "FRAUD": 12,
     "RECKLESS VEHICLE": 2,
     "JUVENILE CASE": 6,
-    "HAZARD": 2,
+    "HAZARD": 3,
     "UNKNOWN PROBLEM": 7,
     "NOISE COMPLAINT": 5,
     "CIVIL MATTER": 10,
@@ -151,7 +151,7 @@
     "2000 BLOCK N HERCULES AVE": 2,
     "1300 BLOCK FRANKLIN ST": 2,
     "SUNSET MEADOW DR / COLONY REED LN": 1,
-    "0 BLOCK BAY ESPLANADE": 3,
+    "0 BLOCK BAY ESPLANADE": 4,
     "200 BLOCK S GLENWOOD AVE": 16,
     "S KEENE RD / DRUID RD": 1,
     "GULF TO BAY BLVD / BAMBOO LN": 1,
@@ -743,7 +743,8 @@
     "200 BLOCK DORY PSGE": 1,
     "100 BLOCK PIERCE ST": 1,
     "COUNTRYSIDE BLVD / BRAELOCH CIR W": 1,
-    "2300 BLOCK SUNSET POINT RD": 1
+    "2300 BLOCK SUNSET POINT RD": 1,
+    "500 BLOCK N MADISON AVE": 1
   },
   "hourly_distribution": {
     "0": 37,
@@ -759,8 +760,8 @@
     "10": 87,
     "11": 89,
     "12": 87,
-    "13": 90,
-    "14": 92,
+    "13": 91,
+    "14": 93,
     "15": 83,
     "16": 83,
     "17": 69,
@@ -772,7 +773,7 @@
     "23": 30
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-04T19:18:11.088353+00:00",
+  "last_updated": "2025-12-04T19:32:22.253592+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 410
+  "total_snapshots": 411
 }
