@@ -1,11 +1,11 @@
 {
-  "total_calls_tracked": 1347,
-  "total_resolved": 1335,
+  "total_calls_tracked": 1349,
+  "total_resolved": 1338,
   "call_types": {
     "DIRECTED PATROL": 473,
     "TRAFFIC STOP": 201,
     "DRUNK DRIVER": 4,
-    "DISTURBANCE": 26,
+    "DISTURBANCE": 27,
     "BATTERY": 6,
     "CRIMINAL MISCHIEF": 6,
     "ALARM": 16,
@@ -22,7 +22,7 @@
     "PANHANDLER/SOLICITOR": 3,
     "VEHICLE ILLEGALLY PARKED": 4,
     "SUSPICIOUS EVENT": 24,
-    "TRAFFIC CRASH": 55,
+    "TRAFFIC CRASH": 56,
     "DISABLED VEHICLE": 13,
     "ASSIST CITIZEN": 40,
     "ASSIST OTHER AGENCY": 18,
@@ -105,7 +105,7 @@
     "S MISSOURI AVE / KINGSLEY ST": 1,
     "2200 BLOCK GULF TO BAY BLVD": 6,
     "CLEVELAND ST/S MADISON AVE": 1,
-    "2700 BLOCK GULF TO BAY BLVD": 13,
+    "2700 BLOCK GULF TO BAY BLVD": 14,
     "1400 BLOCK N HIBISCUS ST": 1,
     "2900 BLOCK DREW ST": 3,
     "21200 BLOCK US HIGHWAY 19 N": 4,
@@ -170,7 +170,7 @@
     "GULF TO BAY BLVD / S LAKE DR": 1,
     "-400 BLOCK BLK BLANCHE B LITTLEJOHN TRL": 1,
     "2600 BLOCK GULF TO BAY BLVD": 7,
-    "400 BLOCK MANDALAY AVE": 5,
+    "400 BLOCK MANDALAY AVE": 6,
     "-3200 BLOCK 3399 COURTNEY CAMPBELL CSWY": 2,
     "1200 BLOCK GROVE ST": 1,
     "0 BLOCK OLD COACHMAN RD": 1,
@@ -779,7 +779,7 @@
     "14": 103,
     "15": 105,
     "16": 96,
-    "17": 74,
+    "17": 76,
     "18": 57,
     "19": 12,
     "20": 22,
@@ -788,7 +788,7 @@
     "23": 30
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-04T22:45:11.508485+00:00",
+  "last_updated": "2025-12-04T22:53:29.547880+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 424
+  "total_snapshots": 425
 }
