@@ -7,42 +7,42 @@
       "Response_Date": "2025-12-04T08:12:41"
     },
     {
-      "Master_Incident_Number": "120425-00141",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "300 BLOCK CLEVELAND ST",
-      "Response_Date": "2025-12-04T10:06:59"
-    },
-    {
-      "Master_Incident_Number": "120425-00146",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "1300 BLOCK S BELCHER RD",
-      "Response_Date": "2025-12-04T10:14:16"
-    },
-    {
-      "Master_Incident_Number": "120425-00151",
-      "Online_Description": "ABANDONED VEHICLE",
-      "Address": "1500 BLOCK ROSEWOOD ST",
-      "Response_Date": "2025-12-04T10:16:37"
-    },
-    {
-      "Master_Incident_Number": "120425-00155",
-      "Online_Description": "JUVENILE CASE",
-      "Address": "1800 BLOCK BETTY LN",
-      "Response_Date": "2025-12-04T10:26:55"
-    },
-    {
-      "Master_Incident_Number": "120425-00157",
-      "Online_Description": "SUSPICIOUS PERSON",
-      "Address": "23000 BLOCK US HIGHWAY 19 N",
-      "Response_Date": "2025-12-04T10:30:16"
-    },
-    {
       "Master_Incident_Number": "120425-00160",
       "Online_Description": "911 HANG-UP",
       "Address": "2900 BLOCK GULF TO BAY BLVD",
       "Response_Date": "2025-12-04T10:30:48"
+    },
+    {
+      "Master_Incident_Number": "120425-00165",
+      "Online_Description": "TRESPASS",
+      "Address": "500 BLOCK S MISSOURI AVE",
+      "Response_Date": "2025-12-04T10:41:41"
+    },
+    {
+      "Master_Incident_Number": "120425-00168",
+      "Online_Description": "CIVIL MATTER",
+      "Address": "1100 BLOCK LA SALLE ST",
+      "Response_Date": "2025-12-04T10:48:05"
+    },
+    {
+      "Master_Incident_Number": "120425-00167",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "1000 BLOCK GULF BLVD",
+      "Response_Date": "2025-12-04T10:48:06"
+    },
+    {
+      "Master_Incident_Number": "120425-00172",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "100 BLOCK S GLENWOOD AVE",
+      "Response_Date": "2025-12-04T10:58:28"
+    },
+    {
+      "Master_Incident_Number": "120425-00173",
+      "Online_Description": "TRAFFIC STOP",
+      "Address": "KENDALL ST / MANDALAY AVE",
+      "Response_Date": "2025-12-04T10:58:46"
     }
   ],
-  "timestamp": "2025-12-04T15:55:04.351483+00:00",
+  "timestamp": "2025-12-04T16:19:47.989717+00:00",
   "count": 7
 }

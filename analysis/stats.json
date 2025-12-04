@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 1249,
-  "total_resolved": 1242,
+  "total_calls_tracked": 1254,
+  "total_resolved": 1247,
   "call_types": {
-    "DIRECTED PATROL": 443,
-    "TRAFFIC STOP": 180,
+    "DIRECTED PATROL": 445,
+    "TRAFFIC STOP": 181,
     "DRUNK DRIVER": 4,
     "DISTURBANCE": 25,
     "BATTERY": 6,
@@ -13,7 +13,7 @@
     "WELFARE CHECK": 27,
     "PARK WALK AND TALK": 100,
     "SUSPICIOUS PERSON": 53,
-    "TRESPASS": 32,
+    "TRESPASS": 33,
     "PROPERTY FOUND/LOST": 6,
     "THEFT": 17,
     "NEIGHBOR CALL": 7,
@@ -33,7 +33,7 @@
     "HAZARD": 2,
     "UNKNOWN PROBLEM": 7,
     "NOISE COMPLAINT": 5,
-    "CIVIL MATTER": 9,
+    "CIVIL MATTER": 10,
     "DOMESTIC": 10,
     "ANIMAL CASE": 3,
     "MISSING PERSON": 12,
@@ -84,7 +84,7 @@
     "FLUSHING AVE / HARN BLVD": 1,
     "S BELCHER RD / BARCELONA DR": 1,
     "-1400 BLOCK 1417 S MISSOURI AVE": 1,
-    "1000 BLOCK GULF BLVD": 15,
+    "1000 BLOCK GULF BLVD": 16,
     "1400 BLOCK LAURA ST": 3,
     "ENTERPRISE RD E / VILLAGE DR": 2,
     "GULF TO BAY BLVD / HAMPTON RD": 1,
@@ -474,7 +474,7 @@
     "N KEENE RD / DREW ST": 1,
     "100 BLOCK N JEFFERSON AVE": 1,
     "1500 BLOCK JEFFORDS ST": 4,
-    "1100 BLOCK LA SALLE ST": 1,
+    "1100 BLOCK LA SALLE ST": 2,
     "200 BLOCK MCMULLEN BOOTH RD S": 1,
     "0 BLOCK N EVERGREEN AVE": 1,
     "-200 BLOCK 299 CORONADO DR": 1,
@@ -723,7 +723,10 @@
     "400 BLOCK ISLAND WAY": 1,
     "300 BLOCK PALM IS SE": 1,
     "1500 BLOCK ROSEWOOD ST": 1,
-    "1800 BLOCK BETTY LN": 1
+    "1800 BLOCK BETTY LN": 1,
+    "500 BLOCK S MISSOURI AVE": 1,
+    "100 BLOCK S GLENWOOD AVE": 1,
+    "KENDALL ST / MANDALAY AVE": 1
   },
   "hourly_distribution": {
     "0": 37,
@@ -736,7 +739,7 @@
     "7": 34,
     "8": 82,
     "9": 88,
-    "10": 82,
+    "10": 87,
     "11": 77,
     "12": 71,
     "13": 77,
@@ -752,7 +755,7 @@
     "23": 30
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-04T15:55:04.353942+00:00",
+  "last_updated": "2025-12-04T16:19:47.992325+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 401
+  "total_snapshots": 402
 }
