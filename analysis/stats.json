@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 1199,
-  "total_resolved": 1196,
+  "total_calls_tracked": 1200,
+  "total_resolved": 1199,
   "call_types": {
-    "DIRECTED PATROL": 419,
+    "DIRECTED PATROL": 420,
     "TRAFFIC STOP": 177,
     "DRUNK DRIVER": 4,
     "DISTURBANCE": 23,
@@ -707,13 +707,14 @@
     "800 BLOCK DEMPSEY ST": 1,
     "SUMMERLIN DR / STEWART BLVD": 1,
     "21300 BLOCK US HIGHWAY 19 N": 1,
-    "3400 BLOCK MCMULLEN BOOTH RD": 1
+    "3400 BLOCK MCMULLEN BOOTH RD": 1,
+    "S BELCHER RD / DRUID RD": 1
   },
   "hourly_distribution": {
     "0": 37,
     "1": 41,
     "2": 27,
-    "3": 26,
+    "3": 27,
     "4": 12,
     "5": 31,
     "6": 38,
@@ -736,7 +737,7 @@
     "23": 30
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-04T08:15:18.002169+00:00",
+  "last_updated": "2025-12-04T08:45:47.250297+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 379
+  "total_snapshots": 380
 }
