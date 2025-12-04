@@ -5642,3 +5642,11 @@ TOTAL ACTIVE CALLS: 1
 [RESOLVED] 120425-00009 | BATTERY | 27000 BLOCK US HIGHWAY 19 N | Response: 12:12 AM
 [RESOLVED] 120425-00022 | ASSIST CITIZEN | 300 BLOCK PINELLAS ST | Response: 02:37 AM
 [RESOLVED] 120425-00023 | 911 HANG-UP | 3400 BLOCK MCMULLEN BOOTH RD | Response: 02:47 AM
+
+================================================================================
+TIMESTAMP: 2025-12-04T09:00:51.102023+00:00
+TOTAL ACTIVE CALLS: 0
+================================================================================
+
+--- RESOLVED CALLS (1) ---
+[RESOLVED] 120425-00025 | DIRECTED PATROL | S BELCHER RD / DRUID RD | Response: 03:17 AM
