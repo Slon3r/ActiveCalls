@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 1207,
-  "total_resolved": 1201,
+  "total_calls_tracked": 1208,
+  "total_resolved": 1205,
   "call_types": {
-    "DIRECTED PATROL": 426,
+    "DIRECTED PATROL": 427,
     "TRAFFIC STOP": 177,
     "DRUNK DRIVER": 4,
     "DISTURBANCE": 23,
@@ -73,7 +73,7 @@
     "US HIGHWAY 19 N / SR 580": 3,
     "400 BLOCK S GULFVIEW BLVD": 5,
     "100 BLOCK S MYRTLE AVE": 3,
-    "0 BLOCK CAUSEWAY BLVD": 10,
+    "0 BLOCK CAUSEWAY BLVD": 11,
     "400 BLOCK FAIRWOOD AVE": 4,
     "500 BLOCK S FORT HARRISON AVE": 2,
     "26000 BLOCK US HIGHWAY 19 N": 4,
@@ -718,7 +718,7 @@
     "3": 27,
     "4": 13,
     "5": 37,
-    "6": 38,
+    "6": 39,
     "7": 31,
     "8": 69,
     "9": 77,
@@ -738,7 +738,7 @@
     "23": 30
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-04T11:17:51.680048+00:00",
+  "last_updated": "2025-12-04T11:33:09.954048+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 388
+  "total_snapshots": 389
 }
