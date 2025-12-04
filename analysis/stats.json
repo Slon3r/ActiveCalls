@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 1333,
-  "total_resolved": 1325,
+  "total_calls_tracked": 1336,
+  "total_resolved": 1327,
   "call_types": {
     "DIRECTED PATROL": 470,
-    "TRAFFIC STOP": 198,
+    "TRAFFIC STOP": 199,
     "DRUNK DRIVER": 4,
     "DISTURBANCE": 26,
     "BATTERY": 6,
@@ -12,7 +12,7 @@
     "KEEP THE PEACE": 19,
     "WELFARE CHECK": 28,
     "PARK WALK AND TALK": 105,
-    "SUSPICIOUS PERSON": 55,
+    "SUSPICIOUS PERSON": 56,
     "TRESPASS": 36,
     "PROPERTY FOUND/LOST": 6,
     "THEFT": 20,
@@ -34,7 +34,7 @@
     "UNKNOWN PROBLEM": 7,
     "NOISE COMPLAINT": 5,
     "CIVIL MATTER": 10,
-    "DOMESTIC": 11,
+    "DOMESTIC": 12,
     "ANIMAL CASE": 3,
     "MISSING PERSON": 12,
     "BUILDING CHECK": 5,
@@ -98,7 +98,7 @@
     "MCMULLEN BOOTH RD / SR 590": 2,
     "LAKEVIEW RD / S MISSOURI AVE": 2,
     "2400 BLOCK MELLOW LN": 1,
-    "1200 BLOCK GULF BLVD": 4,
+    "1200 BLOCK GULF BLVD": 5,
     "1900 BLOCK N BELCHER RD": 1,
     "20100 BLOCK US HIGHWAY 19 N": 1,
     "CLEVELAND ST / N MAIN AVE": 1,
@@ -113,7 +113,7 @@
     "2300 BLOCK GULF TO BAY BLVD": 3,
     "1200 BLOCK CLEVELAND ST": 7,
     "-500 BLOCK 549 MANDALAY AVE": 1,
-    "27000 BLOCK US HIGHWAY 19 N": 11,
+    "27000 BLOCK US HIGHWAY 19 N": 12,
     "DRIVEWAY PARKING": 2,
     "1100 BLOCK GULF BLVD": 4,
     "2500 BLOCK GULF TO BAY BLVD": 6,
@@ -752,7 +752,8 @@
     "NE COACHMAN RD / OLD COACHMAN RD": 1,
     "3000 BLOCK ENTERPRISE RD E": 1,
     "1900 BLOCK COLES RD": 1,
-    "SUNSET POINT RD / EAST DR": 1
+    "SUNSET POINT RD / EAST DR": 1,
+    "N BETTY LN / GROVE ST": 1
   },
   "hourly_distribution": {
     "0": 37,
@@ -771,7 +772,7 @@
     "13": 91,
     "14": 103,
     "15": 105,
-    "16": 87,
+    "16": 90,
     "17": 69,
     "18": 57,
     "19": 12,
@@ -781,7 +782,7 @@
     "23": 30
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-04T21:45:48.021148+00:00",
+  "last_updated": "2025-12-04T21:54:09.424746+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 420
+  "total_snapshots": 421
 }
