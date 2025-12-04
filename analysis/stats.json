@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 1210,
-  "total_resolved": 1207,
+  "total_calls_tracked": 1212,
+  "total_resolved": 1208,
   "call_types": {
-    "DIRECTED PATROL": 428,
+    "DIRECTED PATROL": 429,
     "TRAFFIC STOP": 178,
     "DRUNK DRIVER": 4,
     "DISTURBANCE": 23,
@@ -12,7 +12,7 @@
     "KEEP THE PEACE": 19,
     "WELFARE CHECK": 26,
     "PARK WALK AND TALK": 98,
-    "SUSPICIOUS PERSON": 51,
+    "SUSPICIOUS PERSON": 52,
     "TRESPASS": 31,
     "PROPERTY FOUND/LOST": 6,
     "THEFT": 17,
@@ -356,7 +356,7 @@
     "0 BLOCK 69 BAY ESPLANADE": 1,
     "GULF TO BAY BLVD / BAYVIEW AVE": 1,
     "500 BLOCK MOSS AVE": 1,
-    "-1000 BLOCK 1170 GULF BLVD": 1,
+    "-1000 BLOCK 1170 GULF BLVD": 2,
     "27000 BLOCK US 19": 1,
     "500 BLOCK N BETTY LN": 6,
     "600 BLOCK ELDRIDGE ST": 1,
@@ -709,7 +709,8 @@
     "21300 BLOCK US HIGHWAY 19 N": 1,
     "3400 BLOCK MCMULLEN BOOTH RD": 1,
     "S BELCHER RD / DRUID RD": 1,
-    "1600 BLOCK GULF BLVD": 1
+    "1600 BLOCK GULF BLVD": 1,
+    "N GARDEN AVE / DREW ST": 1
   },
   "hourly_distribution": {
     "0": 37,
@@ -718,7 +719,7 @@
     "3": 27,
     "4": 13,
     "5": 37,
-    "6": 40,
+    "6": 42,
     "7": 31,
     "8": 69,
     "9": 77,
@@ -738,7 +739,7 @@
     "23": 30
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-04T11:52:38.860413+00:00",
+  "last_updated": "2025-12-04T12:01:27.681311+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 391
+  "total_snapshots": 392
 }
