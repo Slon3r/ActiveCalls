@@ -7,12 +7,6 @@
       "Response_Date": "2025-12-04T15:40:36"
     },
     {
-      "Master_Incident_Number": "120425-00345",
-      "Online_Description": "TRESPASS",
-      "Address": "2700 BLOCK GULF TO BAY BLVD",
-      "Response_Date": "2025-12-04T15:45:08"
-    },
-    {
       "Master_Incident_Number": "120425-00347",
       "Online_Description": "ASSAULT",
       "Address": "24800 BLOCK US HIGHWAY 19 N",
@@ -43,18 +37,24 @@
       "Response_Date": "2025-12-04T16:16:17"
     },
     {
-      "Master_Incident_Number": "120425-00372",
-      "Online_Description": "SUSPICIOUS PERSON",
-      "Address": "1200 BLOCK GULF BLVD",
-      "Response_Date": "2025-12-04T16:18:43"
+      "Master_Incident_Number": "120425-00380",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "N GARDEN AVE / CLEVELAND ST",
+      "Response_Date": "2025-12-04T16:36:29"
     },
     {
-      "Master_Incident_Number": "120425-00373",
-      "Online_Description": "TRAFFIC STOP",
-      "Address": "N BETTY LN / GROVE ST",
-      "Response_Date": "2025-12-04T16:29:07"
+      "Master_Incident_Number": "120425-00385",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "DREW ST / N OSCEOLA AVE",
+      "Response_Date": "2025-12-04T16:39:20"
+    },
+    {
+      "Master_Incident_Number": "120425-00388",
+      "Online_Description": "WELFARE CHECK",
+      "Address": "300 BLOCK S GULFVIEW BLVD",
+      "Response_Date": "2025-12-04T16:39:49"
     }
   ],
-  "timestamp": "2025-12-04T21:54:09.421033+00:00",
+  "timestamp": "2025-12-04T22:10:05.917148+00:00",
   "count": 9
 }

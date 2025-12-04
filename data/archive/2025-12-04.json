@@ -2388,6 +2388,66 @@
           "Response_Date": "2025-12-04T16:29:07"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-04T22:10:05.917148+00:00",
+      "call_count": 9,
+      "calls": [
+        {
+          "Master_Incident_Number": "120425-00344",
+          "Online_Description": "SUSPICIOUS EVENT",
+          "Address": "1900 BLOCK COLES RD",
+          "Response_Date": "2025-12-04T15:40:36"
+        },
+        {
+          "Master_Incident_Number": "120425-00347",
+          "Online_Description": "ASSAULT",
+          "Address": "24800 BLOCK US HIGHWAY 19 N",
+          "Response_Date": "2025-12-04T15:50:26"
+        },
+        {
+          "Master_Incident_Number": "120425-00351",
+          "Online_Description": "HIT & RUN",
+          "Address": "DREW ST / N BELCHER RD",
+          "Response_Date": "2025-12-04T15:57:46"
+        },
+        {
+          "Master_Incident_Number": "120425-00356",
+          "Online_Description": "DOMESTIC",
+          "Address": "27000 BLOCK US HIGHWAY 19 N",
+          "Response_Date": "2025-12-04T16:00:13"
+        },
+        {
+          "Master_Incident_Number": "120425-00365",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "1300 BLOCK CLEVELAND ST",
+          "Response_Date": "2025-12-04T16:14:29"
+        },
+        {
+          "Master_Incident_Number": "120425-00369",
+          "Online_Description": "TRAFFIC CRASH",
+          "Address": "SUNSET POINT RD / EAST DR",
+          "Response_Date": "2025-12-04T16:16:17"
+        },
+        {
+          "Master_Incident_Number": "120425-00380",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "N GARDEN AVE / CLEVELAND ST",
+          "Response_Date": "2025-12-04T16:36:29"
+        },
+        {
+          "Master_Incident_Number": "120425-00385",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "DREW ST / N OSCEOLA AVE",
+          "Response_Date": "2025-12-04T16:39:20"
+        },
+        {
+          "Master_Incident_Number": "120425-00388",
+          "Online_Description": "WELFARE CHECK",
+          "Address": "300 BLOCK S GULFVIEW BLVD",
+          "Response_Date": "2025-12-04T16:39:49"
+        }
+      ]
     }
   ]
 }

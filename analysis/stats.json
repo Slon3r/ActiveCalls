@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 1336,
-  "total_resolved": 1327,
+  "total_calls_tracked": 1339,
+  "total_resolved": 1330,
   "call_types": {
-    "DIRECTED PATROL": 470,
+    "DIRECTED PATROL": 472,
     "TRAFFIC STOP": 199,
     "DRUNK DRIVER": 4,
     "DISTURBANCE": 26,
@@ -10,7 +10,7 @@
     "CRIMINAL MISCHIEF": 6,
     "ALARM": 16,
     "KEEP THE PEACE": 19,
-    "WELFARE CHECK": 28,
+    "WELFARE CHECK": 29,
     "PARK WALK AND TALK": 105,
     "SUSPICIOUS PERSON": 56,
     "TRESPASS": 36,
@@ -186,7 +186,7 @@
     "2900 BLOCK SWEETGUM WAY S": 1,
     "18600 BLOCK US HIGHWAY 19 N": 1,
     "-500 BLOCK 598 MANDALAY AVE": 1,
-    "300 BLOCK S GULFVIEW BLVD": 9,
+    "300 BLOCK S GULFVIEW BLVD": 10,
     "500 BLOCK S HIGHLAND AVE": 1,
     "1700 BLOCK KINGS HWY": 2,
     "500 BLOCK MANDALAY AVE": 7,
@@ -753,7 +753,9 @@
     "3000 BLOCK ENTERPRISE RD E": 1,
     "1900 BLOCK COLES RD": 1,
     "SUNSET POINT RD / EAST DR": 1,
-    "N BETTY LN / GROVE ST": 1
+    "N BETTY LN / GROVE ST": 1,
+    "N GARDEN AVE / CLEVELAND ST": 1,
+    "DREW ST / N OSCEOLA AVE": 1
   },
   "hourly_distribution": {
     "0": 37,
@@ -772,7 +774,7 @@
     "13": 91,
     "14": 103,
     "15": 105,
-    "16": 90,
+    "16": 93,
     "17": 69,
     "18": 57,
     "19": 12,
@@ -782,7 +784,7 @@
     "23": 30
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-04T21:54:09.424746+00:00",
+  "last_updated": "2025-12-04T22:10:05.921024+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 421
+  "total_snapshots": 422
 }
