@@ -7,18 +7,6 @@
       "Response_Date": "2025-12-03T17:30:32"
     },
     {
-      "Master_Incident_Number": "120325-00487",
-      "Online_Description": "DISABLED VEHICLE",
-      "Address": "ALLEN AVE / MCMULLEN BOOTH RD",
-      "Response_Date": "2025-12-03T18:13:05"
-    },
-    {
-      "Master_Incident_Number": "120325-00492",
-      "Online_Description": "TRAFFIC STOP",
-      "Address": "SUNSET POINT RD / N HERCULES AVE",
-      "Response_Date": "2025-12-03T18:25:03"
-    },
-    {
       "Master_Incident_Number": "120325-00494",
       "Online_Description": "PARK WALK AND TALK",
       "Address": "2100 BLOCK GULF TO BAY BLVD",
@@ -29,8 +17,38 @@
       "Online_Description": "DIRECTED PATROL",
       "Address": "COURT ST / S MADISON AVE",
       "Response_Date": "2025-12-03T18:28:22"
+    },
+    {
+      "Master_Incident_Number": "120325-00497",
+      "Online_Description": "911 HANG-UP",
+      "Address": "600 BLOCK S GULFVIEW BLVD",
+      "Response_Date": "2025-12-03T18:29:33"
+    },
+    {
+      "Master_Incident_Number": "120325-00498",
+      "Online_Description": "SUSPICIOUS VEHICLE",
+      "Address": "N MYRTLE AVE / MARGO AVE",
+      "Response_Date": "2025-12-03T18:33:18"
+    },
+    {
+      "Master_Incident_Number": "120325-00502",
+      "Online_Description": "MISSING PERSON",
+      "Address": "1700 BLOCK W MANOR AVE",
+      "Response_Date": "2025-12-03T18:35:18"
+    },
+    {
+      "Master_Incident_Number": "120325-00500",
+      "Online_Description": "TRAFFIC STOP",
+      "Address": "MEMORIAL CSWY / ISLAND WAY",
+      "Response_Date": "2025-12-03T18:36:06"
+    },
+    {
+      "Master_Incident_Number": "120325-00501",
+      "Online_Description": "TRAFFIC STOP",
+      "Address": "S MARTIN LUTHER KING JR AVE / TURNER ST",
+      "Response_Date": "2025-12-03T18:36:27"
     }
   ],
-  "timestamp": "2025-12-03T23:51:50.200343+00:00",
-  "count": 5
+  "timestamp": "2025-12-04T00:00:05.868803+00:00",
+  "count": 8
 }

@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 1163,
-  "total_resolved": 1158,
+  "total_calls_tracked": 1168,
+  "total_resolved": 1160,
   "call_types": {
     "DIRECTED PATROL": 415,
-    "TRAFFIC STOP": 168,
+    "TRAFFIC STOP": 170,
     "DRUNK DRIVER": 4,
     "DISTURBANCE": 22,
     "BATTERY": 5,
@@ -17,8 +17,8 @@
     "PROPERTY FOUND/LOST": 6,
     "THEFT": 16,
     "NEIGHBOR CALL": 7,
-    "911 HANG-UP": 37,
-    "SUSPICIOUS VEHICLE": 7,
+    "911 HANG-UP": 38,
+    "SUSPICIOUS VEHICLE": 8,
     "PANHANDLER/SOLICITOR": 2,
     "VEHICLE ILLEGALLY PARKED": 3,
     "SUSPICIOUS EVENT": 23,
@@ -36,7 +36,7 @@
     "CIVIL MATTER": 9,
     "DOMESTIC": 10,
     "ANIMAL CASE": 3,
-    "MISSING PERSON": 11,
+    "MISSING PERSON": 12,
     "BUILDING CHECK": 5,
     "SHOPLIFTING": 3,
     "DECEASED PERSON": 1,
@@ -53,12 +53,12 @@
     "ASSAULT": 1
   },
   "addresses": {
-    "MEMORIAL CSWY / ISLAND WAY": 14,
+    "MEMORIAL CSWY / ISLAND WAY": 15,
     "GULF TO BAY BLVD / S BELCHER RD": 3,
     "1900 BLOCK N BETTY LN": 1,
     "1400 BLOCK CLEVELAND ST": 1,
     "1000 BLOCK WEST AVE": 1,
-    "600 BLOCK S GULFVIEW BLVD": 5,
+    "600 BLOCK S GULFVIEW BLVD": 6,
     "-800 BLOCK 1099 MARSHALL ST": 1,
     "US HIGHWAY 19 N / DREW ST": 11,
     "US HIGHWAY 19 N / SR 590": 2,
@@ -512,7 +512,7 @@
     "1400 BLOCK N MARTIN LUTHER KING JR AVE": 2,
     "600 BLOCK BLANCHE B LITTLEJOHN TRL": 1,
     "-600 BLOCK 799 JONES ST": 1,
-    "N MYRTLE AVE / MARGO AVE": 1,
+    "N MYRTLE AVE / MARGO AVE": 2,
     "0 BLOCK 172 N BELCHER RD": 2,
     "-1200 BLOCK 1352 COURT ST": 1,
     "600 BLOCK N BETTY LN": 1,
@@ -692,7 +692,9 @@
     "COURT ST / S SAN REMO AVE": 1,
     "2300 BLOCK DRUID RD": 1,
     "BAY ESPLANADE / MANDALAY AVE": 1,
-    "ALLEN AVE / MCMULLEN BOOTH RD": 1
+    "ALLEN AVE / MCMULLEN BOOTH RD": 1,
+    "1700 BLOCK W MANOR AVE": 1,
+    "S MARTIN LUTHER KING JR AVE / TURNER ST": 1
   },
   "hourly_distribution": {
     "0": 30,
@@ -713,7 +715,7 @@
     "15": 83,
     "16": 83,
     "17": 69,
-    "18": 52,
+    "18": 57,
     "19": 12,
     "20": 15,
     "21": 20,
@@ -721,7 +723,7 @@
     "23": 26
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-03T23:51:50.205248+00:00",
+  "last_updated": "2025-12-04T00:00:05.869962+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 362
+  "total_snapshots": 363
 }
