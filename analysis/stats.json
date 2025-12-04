@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 1208,
-  "total_resolved": 1205,
+  "total_calls_tracked": 1210,
+  "total_resolved": 1207,
   "call_types": {
-    "DIRECTED PATROL": 427,
-    "TRAFFIC STOP": 177,
+    "DIRECTED PATROL": 428,
+    "TRAFFIC STOP": 178,
     "DRUNK DRIVER": 4,
     "DISTURBANCE": 23,
     "BATTERY": 6,
@@ -191,7 +191,7 @@
     "500 BLOCK MANDALAY AVE": 5,
     "3000 BLOCK HAVERFORD DR": 2,
     "DREW ST / OLD COACHMAN RD": 2,
-    "2500 BLOCK HARN BLVD": 9,
+    "2500 BLOCK HARN BLVD": 10,
     "1000 BLOCK MCMULLEN BOOTH RD": 1,
     "1200 BLOCK S MARTIN LUTHER KING JR AVE": 1,
     "2000 BLOCK PARAGON CIR W": 1,
@@ -358,7 +358,7 @@
     "500 BLOCK MOSS AVE": 1,
     "-1000 BLOCK 1170 GULF BLVD": 1,
     "27000 BLOCK US 19": 1,
-    "500 BLOCK N BETTY LN": 5,
+    "500 BLOCK N BETTY LN": 6,
     "600 BLOCK ELDRIDGE ST": 1,
     "2100 BLOCK MONTCLAIR RD": 1,
     "700 BLOCK S KEENE RD": 2,
@@ -718,13 +718,13 @@
     "3": 27,
     "4": 13,
     "5": 37,
-    "6": 39,
+    "6": 40,
     "7": 31,
     "8": 69,
     "9": 77,
     "10": 73,
     "11": 77,
-    "12": 70,
+    "12": 71,
     "13": 77,
     "14": 92,
     "15": 83,
@@ -738,7 +738,7 @@
     "23": 30
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-04T11:44:35.530511+00:00",
+  "last_updated": "2025-12-04T11:52:38.860413+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 390
+  "total_snapshots": 391
 }
