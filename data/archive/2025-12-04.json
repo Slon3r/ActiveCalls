@@ -1524,6 +1524,96 @@
           "Response_Date": "2025-12-04T12:23:31"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-04T17:58:11.976972+00:00",
+      "call_count": 14,
+      "calls": [
+        {
+          "Master_Incident_Number": "120425-00192",
+          "Online_Description": "THEFT",
+          "Address": "400 BLOCK CORBETT ST",
+          "Response_Date": "2025-12-04T11:35:18"
+        },
+        {
+          "Master_Incident_Number": "120425-00197",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "S MADISON AVE / CLEVELAND ST",
+          "Response_Date": "2025-12-04T11:47:33"
+        },
+        {
+          "Master_Incident_Number": "120425-00198",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "1200 BLOCK CLEVELAND ST",
+          "Response_Date": "2025-12-04T11:47:58"
+        },
+        {
+          "Master_Incident_Number": "120425-00202",
+          "Online_Description": "DOMESTIC",
+          "Address": "2300 BLOCK DREW ST",
+          "Response_Date": "2025-12-04T11:49:51"
+        },
+        {
+          "Master_Incident_Number": "120425-00201",
+          "Online_Description": "DISTURBANCE",
+          "Address": "500 BLOCK MANDALAY AVE",
+          "Response_Date": "2025-12-04T11:54:49"
+        },
+        {
+          "Master_Incident_Number": "120425-00210",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "2300 BLOCK GULF TO BAY BLVD",
+          "Response_Date": "2025-12-04T12:13:24"
+        },
+        {
+          "Master_Incident_Number": "120425-00212",
+          "Online_Description": "911 HANG-UP",
+          "Address": "25800 BLOCK US HIGHWAY 19 N",
+          "Response_Date": "2025-12-04T12:15:26"
+        },
+        {
+          "Master_Incident_Number": "120425-00213",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "2700 BLOCK UNION ST",
+          "Response_Date": "2025-12-04T12:16:52"
+        },
+        {
+          "Master_Incident_Number": "120425-00217",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "LANDMARK DR / SANDY RIDGE DR",
+          "Response_Date": "2025-12-04T12:23:31"
+        },
+        {
+          "Master_Incident_Number": "120425-00220",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "US HIGHWAY 19 N / HARN BLVD",
+          "Response_Date": "2025-12-04T12:31:37"
+        },
+        {
+          "Master_Incident_Number": "120425-00221",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "24500 BLOCK US HIGHWAY 19 N",
+          "Response_Date": "2025-12-04T12:32:22"
+        },
+        {
+          "Master_Incident_Number": "120425-00222",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "MEMORIAL CSWY / ISLAND WAY",
+          "Response_Date": "2025-12-04T12:32:49"
+        },
+        {
+          "Master_Incident_Number": "120425-00223",
+          "Online_Description": "JUVENILE CASE",
+          "Address": "1900 BLOCK GULF TO BAY BLVD",
+          "Response_Date": "2025-12-04T12:34:28"
+        },
+        {
+          "Master_Incident_Number": "120425-00224",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "18900 BLOCK US HIGHWAY 19 N",
+          "Response_Date": "2025-12-04T12:36:12"
+        }
+      ]
     }
   ]
 }
