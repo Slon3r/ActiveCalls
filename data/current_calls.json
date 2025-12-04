@@ -13,40 +13,10 @@
       "Response_Date": "2025-12-04T15:09:42"
     },
     {
-      "Master_Incident_Number": "120425-00326",
-      "Online_Description": "TRAFFIC STOP",
-      "Address": "COUNTRYSIDE BLVD / ENDICOTT CT",
-      "Response_Date": "2025-12-04T15:17:55"
-    },
-    {
-      "Master_Incident_Number": "120425-00327",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "27000 BLOCK US HIGHWAY 19 N",
-      "Response_Date": "2025-12-04T15:18:58"
-    },
-    {
       "Master_Incident_Number": "120425-00333",
       "Online_Description": "DIRECTED PATROL",
       "Address": "1600 BLOCK GULF TO BAY BLVD",
       "Response_Date": "2025-12-04T15:25:19"
-    },
-    {
-      "Master_Incident_Number": "120425-00335",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "2800 BLOCK CHELSEA PL N",
-      "Response_Date": "2025-12-04T15:28:22"
-    },
-    {
-      "Master_Incident_Number": "120425-00336",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "NE COACHMAN RD / OLD COACHMAN RD",
-      "Response_Date": "2025-12-04T15:29:27"
-    },
-    {
-      "Master_Incident_Number": "120425-00337",
-      "Online_Description": "TRAFFIC STOP",
-      "Address": "BAYSIDE BRG / BAYSIDE BRG SERVICE RD",
-      "Response_Date": "2025-12-04T15:33:37"
     },
     {
       "Master_Incident_Number": "120425-00339",
@@ -55,12 +25,48 @@
       "Response_Date": "2025-12-04T15:36:54"
     },
     {
-      "Master_Incident_Number": "120425-00340",
-      "Online_Description": "TRAFFIC STOP",
-      "Address": "GULF TO BAY BLVD / US HIGHWAY 19 N",
-      "Response_Date": "2025-12-04T15:36:57"
+      "Master_Incident_Number": "120425-00342",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "CLEVELAND ST / S MADISON AVE",
+      "Response_Date": "2025-12-04T15:38:51"
+    },
+    {
+      "Master_Incident_Number": "120425-00344",
+      "Online_Description": "SUSPICIOUS EVENT",
+      "Address": "1900 BLOCK COLES RD",
+      "Response_Date": "2025-12-04T15:40:36"
+    },
+    {
+      "Master_Incident_Number": "120425-00345",
+      "Online_Description": "THEFT",
+      "Address": "2700 BLOCK GULF TO BAY BLVD",
+      "Response_Date": "2025-12-04T15:45:08"
+    },
+    {
+      "Master_Incident_Number": "120425-00347",
+      "Online_Description": "ASSAULT",
+      "Address": "24800 BLOCK US HIGHWAY 19 N",
+      "Response_Date": "2025-12-04T15:50:26"
+    },
+    {
+      "Master_Incident_Number": "120425-00348",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "1300 BLOCK S BELCHER RD",
+      "Response_Date": "2025-12-04T15:52:36"
+    },
+    {
+      "Master_Incident_Number": "120425-00349",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "500 BLOCK MANDALAY AVE",
+      "Response_Date": "2025-12-04T15:53:39"
+    },
+    {
+      "Master_Incident_Number": "120425-00350",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "400 BLOCK ISLAND WAY",
+      "Response_Date": "2025-12-04T15:56:58"
     }
   ],
-  "timestamp": "2025-12-04T20:57:13.153683+00:00",
-  "count": 10
+  "timestamp": "2025-12-04T21:18:43.540919+00:00",
+  "count": 11
 }
