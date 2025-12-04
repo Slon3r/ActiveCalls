@@ -1,15 +1,15 @@
 {
-  "total_calls_tracked": 1339,
-  "total_resolved": 1330,
+  "total_calls_tracked": 1343,
+  "total_resolved": 1334,
   "call_types": {
     "DIRECTED PATROL": 472,
-    "TRAFFIC STOP": 199,
+    "TRAFFIC STOP": 200,
     "DRUNK DRIVER": 4,
     "DISTURBANCE": 26,
     "BATTERY": 6,
     "CRIMINAL MISCHIEF": 6,
     "ALARM": 16,
-    "KEEP THE PEACE": 19,
+    "KEEP THE PEACE": 20,
     "WELFARE CHECK": 29,
     "PARK WALK AND TALK": 105,
     "SUSPICIOUS PERSON": 56,
@@ -19,8 +19,8 @@
     "NEIGHBOR CALL": 7,
     "911 HANG-UP": 43,
     "SUSPICIOUS VEHICLE": 10,
-    "PANHANDLER/SOLICITOR": 2,
-    "VEHICLE ILLEGALLY PARKED": 3,
+    "PANHANDLER/SOLICITOR": 3,
+    "VEHICLE ILLEGALLY PARKED": 4,
     "SUSPICIOUS EVENT": 24,
     "TRAFFIC CRASH": 55,
     "DISABLED VEHICLE": 13,
@@ -126,7 +126,7 @@
     "1400 BLOCK OWEN DR": 1,
     "200 BLOCK ISLAND WAY": 2,
     "-500 BLOCK BLK CLEVELAND ST": 1,
-    "0 BLOCK MEMORIAL CSWY": 8,
+    "0 BLOCK MEMORIAL CSWY": 9,
     "COUNTRYSIDE BLVD / NORTHRIDGE DR": 1,
     "NE COACHMAN RD / US HIGHWAY 19 N": 2,
     "LOTUS PATH / BAY AVE": 1,
@@ -755,7 +755,10 @@
     "SUNSET POINT RD / EAST DR": 1,
     "N BETTY LN / GROVE ST": 1,
     "N GARDEN AVE / CLEVELAND ST": 1,
-    "DREW ST / N OSCEOLA AVE": 1
+    "DREW ST / N OSCEOLA AVE": 1,
+    "1400 BLOCK OVERLEA ST": 1,
+    "19000 BLOCK US HIGHWAY 19 N": 1,
+    "FARRIER TRL / OLD COACHMAN RD": 1
   },
   "hourly_distribution": {
     "0": 37,
@@ -774,8 +777,8 @@
     "13": 91,
     "14": 103,
     "15": 105,
-    "16": 93,
-    "17": 69,
+    "16": 96,
+    "17": 70,
     "18": 57,
     "19": 12,
     "20": 22,
@@ -784,7 +787,7 @@
     "23": 30
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-04T22:10:05.921024+00:00",
+  "last_updated": "2025-12-04T22:32:41.037523+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 422
+  "total_snapshots": 423
 }

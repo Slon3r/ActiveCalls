@@ -2448,6 +2448,66 @@
           "Response_Date": "2025-12-04T16:39:49"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-04T22:32:41.033676+00:00",
+      "call_count": 9,
+      "calls": [
+        {
+          "Master_Incident_Number": "120425-00344",
+          "Online_Description": "SUSPICIOUS EVENT",
+          "Address": "1900 BLOCK COLES RD",
+          "Response_Date": "2025-12-04T15:40:36"
+        },
+        {
+          "Master_Incident_Number": "120425-00347",
+          "Online_Description": "ASSAULT",
+          "Address": "24800 BLOCK US HIGHWAY 19 N",
+          "Response_Date": "2025-12-04T15:50:26"
+        },
+        {
+          "Master_Incident_Number": "120425-00351",
+          "Online_Description": "HIT & RUN",
+          "Address": "DREW ST / N BELCHER RD",
+          "Response_Date": "2025-12-04T15:57:46"
+        },
+        {
+          "Master_Incident_Number": "120425-00356",
+          "Online_Description": "DOMESTIC",
+          "Address": "27000 BLOCK US HIGHWAY 19 N",
+          "Response_Date": "2025-12-04T16:00:13"
+        },
+        {
+          "Master_Incident_Number": "120425-00377",
+          "Online_Description": "KEEP THE PEACE",
+          "Address": "1400 BLOCK OVERLEA ST",
+          "Response_Date": "2025-12-04T16:30:08"
+        },
+        {
+          "Master_Incident_Number": "120425-00383",
+          "Online_Description": "PANHANDLER/SOLICITOR",
+          "Address": "19000 BLOCK US HIGHWAY 19 N",
+          "Response_Date": "2025-12-04T16:34:54"
+        },
+        {
+          "Master_Incident_Number": "120425-00388",
+          "Online_Description": "WELFARE CHECK",
+          "Address": "300 BLOCK S GULFVIEW BLVD",
+          "Response_Date": "2025-12-04T16:39:49"
+        },
+        {
+          "Master_Incident_Number": "120425-00396",
+          "Online_Description": "VEHICLE ILLEGALLY PARKED",
+          "Address": "FARRIER TRL / OLD COACHMAN RD",
+          "Response_Date": "2025-12-04T16:58:42"
+        },
+        {
+          "Master_Incident_Number": "120425-00398",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "0 BLOCK MEMORIAL CSWY",
+          "Response_Date": "2025-12-04T17:07:53"
+        }
+      ]
     }
   ]
 }

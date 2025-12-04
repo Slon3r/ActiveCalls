@@ -25,36 +25,36 @@
       "Response_Date": "2025-12-04T16:00:13"
     },
     {
-      "Master_Incident_Number": "120425-00365",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "1300 BLOCK CLEVELAND ST",
-      "Response_Date": "2025-12-04T16:14:29"
+      "Master_Incident_Number": "120425-00377",
+      "Online_Description": "KEEP THE PEACE",
+      "Address": "1400 BLOCK OVERLEA ST",
+      "Response_Date": "2025-12-04T16:30:08"
     },
     {
-      "Master_Incident_Number": "120425-00369",
-      "Online_Description": "TRAFFIC CRASH",
-      "Address": "SUNSET POINT RD / EAST DR",
-      "Response_Date": "2025-12-04T16:16:17"
-    },
-    {
-      "Master_Incident_Number": "120425-00380",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "N GARDEN AVE / CLEVELAND ST",
-      "Response_Date": "2025-12-04T16:36:29"
-    },
-    {
-      "Master_Incident_Number": "120425-00385",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "DREW ST / N OSCEOLA AVE",
-      "Response_Date": "2025-12-04T16:39:20"
+      "Master_Incident_Number": "120425-00383",
+      "Online_Description": "PANHANDLER/SOLICITOR",
+      "Address": "19000 BLOCK US HIGHWAY 19 N",
+      "Response_Date": "2025-12-04T16:34:54"
     },
     {
       "Master_Incident_Number": "120425-00388",
       "Online_Description": "WELFARE CHECK",
       "Address": "300 BLOCK S GULFVIEW BLVD",
       "Response_Date": "2025-12-04T16:39:49"
+    },
+    {
+      "Master_Incident_Number": "120425-00396",
+      "Online_Description": "VEHICLE ILLEGALLY PARKED",
+      "Address": "FARRIER TRL / OLD COACHMAN RD",
+      "Response_Date": "2025-12-04T16:58:42"
+    },
+    {
+      "Master_Incident_Number": "120425-00398",
+      "Online_Description": "TRAFFIC STOP",
+      "Address": "0 BLOCK MEMORIAL CSWY",
+      "Response_Date": "2025-12-04T17:07:53"
     }
   ],
-  "timestamp": "2025-12-04T22:10:05.917148+00:00",
+  "timestamp": "2025-12-04T22:32:41.033676+00:00",
   "count": 9
 }
