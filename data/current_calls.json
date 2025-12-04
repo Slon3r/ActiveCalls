@@ -7,28 +7,10 @@
       "Response_Date": "2025-12-04T08:12:41"
     },
     {
-      "Master_Incident_Number": "120425-00114",
-      "Online_Description": "TRAFFIC CRASH",
-      "Address": "SR 580 / CHARLES AVE",
-      "Response_Date": "2025-12-04T08:57:47"
-    },
-    {
-      "Master_Incident_Number": "120425-00129",
-      "Online_Description": "TRESPASS",
-      "Address": "2100 BLOCK GULF TO BAY BLVD",
-      "Response_Date": "2025-12-04T09:35:15"
-    },
-    {
       "Master_Incident_Number": "120425-00141",
       "Online_Description": "DIRECTED PATROL",
       "Address": "300 BLOCK CLEVELAND ST",
       "Response_Date": "2025-12-04T10:06:59"
-    },
-    {
-      "Master_Incident_Number": "120425-00143",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "20500 BLOCK US HIGHWAY 19 N",
-      "Response_Date": "2025-12-04T10:09:32"
     },
     {
       "Master_Incident_Number": "120425-00146",
@@ -37,12 +19,30 @@
       "Response_Date": "2025-12-04T10:14:16"
     },
     {
-      "Master_Incident_Number": "120425-00152",
-      "Online_Description": "SUSPICIOUS VEHICLE",
-      "Address": "300 BLOCK PALM IS SE",
-      "Response_Date": "2025-12-04T10:21:41"
+      "Master_Incident_Number": "120425-00151",
+      "Online_Description": "ABANDONED VEHICLE",
+      "Address": "1500 BLOCK ROSEWOOD ST",
+      "Response_Date": "2025-12-04T10:16:37"
+    },
+    {
+      "Master_Incident_Number": "120425-00155",
+      "Online_Description": "JUVENILE CASE",
+      "Address": "1800 BLOCK BETTY LN",
+      "Response_Date": "2025-12-04T10:26:55"
+    },
+    {
+      "Master_Incident_Number": "120425-00157",
+      "Online_Description": "SUSPICIOUS PERSON",
+      "Address": "23000 BLOCK US HIGHWAY 19 N",
+      "Response_Date": "2025-12-04T10:30:16"
+    },
+    {
+      "Master_Incident_Number": "120425-00160",
+      "Online_Description": "911 HANG-UP",
+      "Address": "2900 BLOCK GULF TO BAY BLVD",
+      "Response_Date": "2025-12-04T10:30:48"
     }
   ],
-  "timestamp": "2025-12-04T15:42:40.709914+00:00",
+  "timestamp": "2025-12-04T15:55:04.351483+00:00",
   "count": 7
 }

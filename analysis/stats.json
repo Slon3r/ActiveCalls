@@ -1,6 +1,6 @@
 {
-  "total_calls_tracked": 1245,
-  "total_resolved": 1238,
+  "total_calls_tracked": 1249,
+  "total_resolved": 1242,
   "call_types": {
     "DIRECTED PATROL": 443,
     "TRAFFIC STOP": 180,
@@ -12,12 +12,12 @@
     "KEEP THE PEACE": 19,
     "WELFARE CHECK": 27,
     "PARK WALK AND TALK": 100,
-    "SUSPICIOUS PERSON": 52,
+    "SUSPICIOUS PERSON": 53,
     "TRESPASS": 32,
     "PROPERTY FOUND/LOST": 6,
     "THEFT": 17,
     "NEIGHBOR CALL": 7,
-    "911 HANG-UP": 41,
+    "911 HANG-UP": 42,
     "SUSPICIOUS VEHICLE": 10,
     "PANHANDLER/SOLICITOR": 2,
     "VEHICLE ILLEGALLY PARKED": 3,
@@ -29,7 +29,7 @@
     "FIRE": 2,
     "FRAUD": 11,
     "RECKLESS VEHICLE": 2,
-    "JUVENILE CASE": 4,
+    "JUVENILE CASE": 5,
     "HAZARD": 2,
     "UNKNOWN PROBLEM": 7,
     "NOISE COMPLAINT": 5,
@@ -45,7 +45,7 @@
     "HIT & RUN": 9,
     "SCHOOL CROSSING": 4,
     "ORDINANCE VIOLATION": 2,
-    "ABANDONED VEHICLE": 3,
+    "ABANDONED VEHICLE": 4,
     "CHILD ABUSE": 2,
     "FIGHT": 1,
     "CHILD PROTECTION INVESTIGATION": 2,
@@ -314,7 +314,7 @@
     "900 BLOCK N MCMULLEN BOOTH RD": 1,
     "GULF TO BAY BLVD / S GLENWOOD AVE": 1,
     "300 BLOCK ISLAND WAY": 1,
-    "2900 BLOCK GULF TO BAY BLVD": 4,
+    "2900 BLOCK GULF TO BAY BLVD": 5,
     "MONTCLAIR RD / N HERCULES AVE": 1,
     "1000 BLOCK S MISSOURI AVE": 1,
     "1400 BLOCK S BELCHER RD": 3,
@@ -504,7 +504,7 @@
     "1400 BLOCK SPRINGDALE ST": 2,
     "-2000 BLOCK 2098 SUNSET GROVE LN": 1,
     "2300 BLOCK DREW ST": 1,
-    "23000 BLOCK US HIGHWAY 19 N": 1,
+    "23000 BLOCK US HIGHWAY 19 N": 2,
     "1900 BLOCK RADCLIFFE DR N": 2,
     "1100 BLOCK GROVE ST": 2,
     "1300 BLOCK AMBLE LN": 1,
@@ -721,7 +721,9 @@
     "S FORT HARRISON AVE / LAKEVIEW RD": 1,
     "DREW ST": 1,
     "400 BLOCK ISLAND WAY": 1,
-    "300 BLOCK PALM IS SE": 1
+    "300 BLOCK PALM IS SE": 1,
+    "1500 BLOCK ROSEWOOD ST": 1,
+    "1800 BLOCK BETTY LN": 1
   },
   "hourly_distribution": {
     "0": 37,
@@ -734,7 +736,7 @@
     "7": 34,
     "8": 82,
     "9": 88,
-    "10": 78,
+    "10": 82,
     "11": 77,
     "12": 71,
     "13": 77,
@@ -750,7 +752,7 @@
     "23": 30
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-04T15:42:40.712314+00:00",
+  "last_updated": "2025-12-04T15:55:04.353942+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 400
+  "total_snapshots": 401
 }
