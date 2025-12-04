@@ -1051,6 +1051,84 @@
           "Response_Date": "2025-12-04T09:16:44"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-04T14:56:51.493104+00:00",
+      "call_count": 12,
+      "calls": [
+        {
+          "Master_Incident_Number": "120425-00089",
+          "Online_Description": "PARK WALK AND TALK",
+          "Address": "1300 BLOCK PARK ST",
+          "Response_Date": "2025-12-04T08:39:20.017"
+        },
+        {
+          "Master_Incident_Number": "120425-00096",
+          "Online_Description": "TRAFFIC CRASH",
+          "Address": "19100 BLOCK US HIGHWAY 19 N",
+          "Response_Date": "2025-12-04T08:12:41"
+        },
+        {
+          "Master_Incident_Number": "120425-00100",
+          "Online_Description": "PERSON DOWN",
+          "Address": "600 BLOCK S FORT HARRISON AVE",
+          "Response_Date": "2025-12-04T08:18:55"
+        },
+        {
+          "Master_Incident_Number": "120425-00111",
+          "Online_Description": "CRIMINAL MISCHIEF",
+          "Address": "2900 BLOCK GULF TO BAY BLVD",
+          "Response_Date": "2025-12-04T08:47:32"
+        },
+        {
+          "Master_Incident_Number": "120425-00114",
+          "Online_Description": "TRAFFIC CRASH",
+          "Address": "SR 580 / CHARLES AVE",
+          "Response_Date": "2025-12-04T08:57:47"
+        },
+        {
+          "Master_Incident_Number": "120425-00118",
+          "Online_Description": "DISTURBANCE",
+          "Address": "2800 BLOCK GULF TO BAY BLVD",
+          "Response_Date": "2025-12-04T09:10:13"
+        },
+        {
+          "Master_Incident_Number": "120425-00120",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "DREW ST",
+          "Response_Date": "2025-12-04T09:16:44"
+        },
+        {
+          "Master_Incident_Number": "120425-00122",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "1600 BLOCK GULF TO BAY BLVD",
+          "Response_Date": "2025-12-04T09:23:10"
+        },
+        {
+          "Master_Incident_Number": "120425-00125",
+          "Online_Description": "TRESPASS",
+          "Address": "500 BLOCK S FORT HARRISON AVE",
+          "Response_Date": "2025-12-04T09:28:17"
+        },
+        {
+          "Master_Incident_Number": "120425-00126",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "400 BLOCK ISLAND WAY",
+          "Response_Date": "2025-12-04T09:29:58"
+        },
+        {
+          "Master_Incident_Number": "120425-00127",
+          "Online_Description": "PARK WALK AND TALK",
+          "Address": "0 BLOCK CAUSEWAY BLVD",
+          "Response_Date": "2025-12-04T09:32:36"
+        },
+        {
+          "Master_Incident_Number": "120425-00130",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "1800 BLOCK N HIGHLAND AVE",
+          "Response_Date": "2025-12-04T09:35:48"
+        }
+      ]
     }
   ]
 }

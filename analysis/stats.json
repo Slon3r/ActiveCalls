@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 1231,
-  "total_resolved": 1223,
+  "total_calls_tracked": 1237,
+  "total_resolved": 1225,
   "call_types": {
-    "DIRECTED PATROL": 436,
+    "DIRECTED PATROL": 439,
     "TRAFFIC STOP": 179,
     "DRUNK DRIVER": 4,
     "DISTURBANCE": 24,
@@ -11,9 +11,9 @@
     "ALARM": 16,
     "KEEP THE PEACE": 19,
     "WELFARE CHECK": 26,
-    "PARK WALK AND TALK": 99,
+    "PARK WALK AND TALK": 100,
     "SUSPICIOUS PERSON": 52,
-    "TRESPASS": 31,
+    "TRESPASS": 32,
     "PROPERTY FOUND/LOST": 6,
     "THEFT": 17,
     "NEIGHBOR CALL": 7,
@@ -51,7 +51,7 @@
     "CHILD PROTECTION INVESTIGATION": 2,
     "DRUNK PEDESTRIAN": 2,
     "ASSAULT": 1,
-    "PERSON DOWN": 2
+    "PERSON DOWN": 3
   },
   "addresses": {
     "MEMORIAL CSWY / ISLAND WAY": 15,
@@ -74,9 +74,9 @@
     "US HIGHWAY 19 N / SR 580": 3,
     "400 BLOCK S GULFVIEW BLVD": 5,
     "100 BLOCK S MYRTLE AVE": 3,
-    "0 BLOCK CAUSEWAY BLVD": 11,
+    "0 BLOCK CAUSEWAY BLVD": 12,
     "400 BLOCK FAIRWOOD AVE": 4,
-    "500 BLOCK S FORT HARRISON AVE": 2,
+    "500 BLOCK S FORT HARRISON AVE": 3,
     "26000 BLOCK US HIGHWAY 19 N": 4,
     "1300 BLOCK S BELCHER RD": 6,
     "200 BLOCK WINDWARD PSGE": 4,
@@ -205,7 +205,7 @@
     "23600 BLOCK US HIGHWAY 19 N": 4,
     "300 BLOCK MANDALAY AVE": 1,
     "JONES ST / FERN AVE": 1,
-    "1600 BLOCK GULF TO BAY BLVD": 4,
+    "1600 BLOCK GULF TO BAY BLVD": 5,
     "1600 BLOCK DARTMOUTH ST": 1,
     "HAMDEN DR / BRIGHTWATER DR": 2,
     "HAMPTON RD / GULF TO BAY BLVD": 2,
@@ -259,7 +259,7 @@
     "S MISSOURI AVE/COURT ST": 1,
     "1500 BLOCK S MARTIN LUTHER KING JR AVE": 1,
     "3100 BLOCK GULF TO BAY BLVD": 2,
-    "1800 BLOCK N HIGHLAND AVE": 9,
+    "1800 BLOCK N HIGHLAND AVE": 10,
     "BELLEAIR BLVD / US HIGHWAY 19 N": 1,
     "-1200 BLOCK 1353 COURT ST": 3,
     "-500 BLOCK 642 BAY ESPLANADE": 1,
@@ -394,7 +394,7 @@
     "DREW ST / US HIGHWAY 19 N": 1,
     "1300 BLOCK N MARTIN LUTHER KING JR AVE": 4,
     "N BELCHER RD / OLD COACHMAN RD": 1,
-    "600 BLOCK S FORT HARRISON AVE": 5,
+    "600 BLOCK S FORT HARRISON AVE": 6,
     "MONTCLAIR RD / N BELCHER RD": 1,
     "MCMULLEN BOOTH RD / RUTH ECKERD HALL DR": 1,
     "GULF TO BAY BLVD / MCMULLEN BOOTH RD S": 4,
@@ -719,7 +719,8 @@
     "400 BLOCK TURNER ST": 1,
     "SR 580 / CHARLES AVE": 1,
     "S FORT HARRISON AVE / LAKEVIEW RD": 1,
-    "DREW ST": 1
+    "DREW ST": 1,
+    "400 BLOCK ISLAND WAY": 1
   },
   "hourly_distribution": {
     "0": 37,
@@ -730,8 +731,8 @@
     "5": 37,
     "6": 43,
     "7": 34,
-    "8": 81,
-    "9": 80,
+    "8": 82,
+    "9": 85,
     "10": 73,
     "11": 77,
     "12": 71,
@@ -748,7 +749,7 @@
     "23": 30
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-04T14:43:43.001675+00:00",
+  "last_updated": "2025-12-04T14:56:51.495399+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 397
+  "total_snapshots": 398
 }
