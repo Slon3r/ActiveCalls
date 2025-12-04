@@ -5,14 +5,8 @@
       "Online_Description": "BATTERY",
       "Address": "27000 BLOCK US HIGHWAY 19 N",
       "Response_Date": "2025-12-04T00:12:08"
-    },
-    {
-      "Master_Incident_Number": "120425-00018",
-      "Online_Description": "SUSPICIOUS VEHICLE",
-      "Address": "21300 BLOCK US HIGHWAY 19 N",
-      "Response_Date": "2025-12-04T02:03:13"
     }
   ],
-  "timestamp": "2025-12-04T07:33:42.397951+00:00",
-  "count": 2
+  "timestamp": "2025-12-04T07:44:54.604737+00:00",
+  "count": 1
 }
