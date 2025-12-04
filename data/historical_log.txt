@@ -5546,3 +5546,11 @@ TOTAL ACTIVE CALLS: 9
 [NEW] 120425-00006 | TRAFFIC STOP | 400 BLOCK BAY AVE | Response: 12:07 AM
 [NEW] 120425-00008 | 911 HANG-UP | GULF TO BAY BLVD / PARK PLACE BLVD | Response: 12:08 AM
 [NEW] 120425-00009 | BATTERY | 27000 BLOCK US HIGHWAY 19 N | Response: 12:12 AM
+
+================================================================================
+TIMESTAMP: 2025-12-04T05:48:27.206907+00:00
+TOTAL ACTIVE CALLS: 8
+================================================================================
+
+--- RESOLVED CALLS (1) ---
+[RESOLVED] 120425-00008 | 911 HANG-UP | GULF TO BAY BLVD / PARK PLACE BLVD | Response: 12:08 AM
