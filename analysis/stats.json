@@ -1,6 +1,6 @@
 {
-  "total_calls_tracked": 1225,
-  "total_resolved": 1216,
+  "total_calls_tracked": 1227,
+  "total_resolved": 1219,
   "call_types": {
     "DIRECTED PATROL": 435,
     "TRAFFIC STOP": 179,
@@ -11,7 +11,7 @@
     "ALARM": 16,
     "KEEP THE PEACE": 19,
     "WELFARE CHECK": 26,
-    "PARK WALK AND TALK": 98,
+    "PARK WALK AND TALK": 99,
     "SUSPICIOUS PERSON": 52,
     "TRESPASS": 31,
     "PROPERTY FOUND/LOST": 6,
@@ -22,7 +22,7 @@
     "PANHANDLER/SOLICITOR": 2,
     "VEHICLE ILLEGALLY PARKED": 3,
     "SUSPICIOUS EVENT": 23,
-    "TRAFFIC CRASH": 51,
+    "TRAFFIC CRASH": 52,
     "DISABLED VEHICLE": 13,
     "ASSIST CITIZEN": 34,
     "ASSIST OTHER AGENCY": 16,
@@ -390,7 +390,7 @@
     "CLEVELAND ST / GULF TO BAY BLVD": 3,
     "1400 BLOCK GULF TO BAY BLVD": 5,
     "2200 BLOCK BELLEAIR RD": 1,
-    "1300 BLOCK PARK ST": 6,
+    "1300 BLOCK PARK ST": 7,
     "DREW ST / US HIGHWAY 19 N": 1,
     "1300 BLOCK N MARTIN LUTHER KING JR AVE": 4,
     "N BELCHER RD / OLD COACHMAN RD": 1,
@@ -716,7 +716,8 @@
     "BAYVIEW AVE / GULF TO BAY BLVD": 1,
     "N BELCHER RD / DREW ST": 1,
     "2500 BLOCK KNOTTY PINE WAY": 1,
-    "400 BLOCK TURNER ST": 1
+    "400 BLOCK TURNER ST": 1,
+    "SR 580 / CHARLES AVE": 1
   },
   "hourly_distribution": {
     "0": 37,
@@ -727,7 +728,7 @@
     "5": 37,
     "6": 43,
     "7": 34,
-    "8": 78,
+    "8": 80,
     "9": 77,
     "10": 73,
     "11": 77,
@@ -745,7 +746,7 @@
     "23": 30
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-04T13:57:03.481634+00:00",
+  "last_updated": "2025-12-04T14:20:40.960300+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 395
+  "total_snapshots": 396
 }

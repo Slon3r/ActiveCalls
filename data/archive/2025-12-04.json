@@ -943,6 +943,60 @@
           "Response_Date": "2025-12-04T08:35:13"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-04T14:20:40.958198+00:00",
+      "call_count": 8,
+      "calls": [
+        {
+          "Master_Incident_Number": "120425-00089",
+          "Online_Description": "PARK WALK AND TALK",
+          "Address": "1300 BLOCK PARK ST",
+          "Response_Date": "2025-12-04T08:39:20.017"
+        },
+        {
+          "Master_Incident_Number": "120425-00093",
+          "Online_Description": "TRAFFIC CRASH",
+          "Address": "BAYVIEW AVE / GULF TO BAY BLVD",
+          "Response_Date": "2025-12-04T08:06:43"
+        },
+        {
+          "Master_Incident_Number": "120425-00095",
+          "Online_Description": "TRAFFIC CRASH",
+          "Address": "N BELCHER RD / DREW ST",
+          "Response_Date": "2025-12-04T08:11:03"
+        },
+        {
+          "Master_Incident_Number": "120425-00096",
+          "Online_Description": "TRAFFIC CRASH",
+          "Address": "19100 BLOCK US HIGHWAY 19 N",
+          "Response_Date": "2025-12-04T08:12:41"
+        },
+        {
+          "Master_Incident_Number": "120425-00100",
+          "Online_Description": "PERSON DOWN",
+          "Address": "600 BLOCK S FORT HARRISON AVE",
+          "Response_Date": "2025-12-04T08:18:55"
+        },
+        {
+          "Master_Incident_Number": "120425-00106",
+          "Online_Description": "PERSON DOWN",
+          "Address": "400 BLOCK TURNER ST",
+          "Response_Date": "2025-12-04T08:28:20"
+        },
+        {
+          "Master_Incident_Number": "120425-00107",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "SAND KEY PARK ENTRANCE",
+          "Response_Date": "2025-12-04T08:35:13"
+        },
+        {
+          "Master_Incident_Number": "120425-00114",
+          "Online_Description": "TRAFFIC CRASH",
+          "Address": "SR 580 / CHARLES AVE",
+          "Response_Date": "2025-12-04T08:57:47"
+        }
+      ]
     }
   ]
 }

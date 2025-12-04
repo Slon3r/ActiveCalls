@@ -1,16 +1,10 @@
 {
   "calls": [
     {
-      "Master_Incident_Number": "120425-00065",
-      "Online_Description": "SCHOOL CROSSING",
-      "Address": "DREW ST / FAIRWOOD AVE",
-      "Response_Date": "2025-12-04T06:58:20"
-    },
-    {
-      "Master_Incident_Number": "120425-00091",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "1400 BLOCK LAURA ST",
-      "Response_Date": "2025-12-04T08:03:13"
+      "Master_Incident_Number": "120425-00089",
+      "Online_Description": "PARK WALK AND TALK",
+      "Address": "1300 BLOCK PARK ST",
+      "Response_Date": "2025-12-04T08:39:20.017"
     },
     {
       "Master_Incident_Number": "120425-00093",
@@ -37,12 +31,6 @@
       "Response_Date": "2025-12-04T08:18:55"
     },
     {
-      "Master_Incident_Number": "120425-00102",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "2500 BLOCK KNOTTY PINE WAY",
-      "Response_Date": "2025-12-04T08:26:35"
-    },
-    {
       "Master_Incident_Number": "120425-00106",
       "Online_Description": "PERSON DOWN",
       "Address": "400 BLOCK TURNER ST",
@@ -53,8 +41,14 @@
       "Online_Description": "DIRECTED PATROL",
       "Address": "SAND KEY PARK ENTRANCE",
       "Response_Date": "2025-12-04T08:35:13"
+    },
+    {
+      "Master_Incident_Number": "120425-00114",
+      "Online_Description": "TRAFFIC CRASH",
+      "Address": "SR 580 / CHARLES AVE",
+      "Response_Date": "2025-12-04T08:57:47"
     }
   ],
-  "timestamp": "2025-12-04T13:57:03.479523+00:00",
-  "count": 9
+  "timestamp": "2025-12-04T14:20:40.958198+00:00",
+  "count": 8
 }
