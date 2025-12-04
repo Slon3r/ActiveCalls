@@ -2226,6 +2226,54 @@
           "Response_Date": "2025-12-04T15:56:58"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-04T21:34:21.872882+00:00",
+      "call_count": 7,
+      "calls": [
+        {
+          "Master_Incident_Number": "120425-00322",
+          "Online_Description": "HIT & RUN",
+          "Address": "21400 BLOCK US HIGHWAY 19 N",
+          "Response_Date": "2025-12-04T15:09:42"
+        },
+        {
+          "Master_Incident_Number": "120425-00342",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "CLEVELAND ST / S MADISON AVE",
+          "Response_Date": "2025-12-04T15:38:51"
+        },
+        {
+          "Master_Incident_Number": "120425-00344",
+          "Online_Description": "SUSPICIOUS EVENT",
+          "Address": "1900 BLOCK COLES RD",
+          "Response_Date": "2025-12-04T15:40:36"
+        },
+        {
+          "Master_Incident_Number": "120425-00345",
+          "Online_Description": "THEFT",
+          "Address": "2700 BLOCK GULF TO BAY BLVD",
+          "Response_Date": "2025-12-04T15:45:08"
+        },
+        {
+          "Master_Incident_Number": "120425-00347",
+          "Online_Description": "ASSAULT",
+          "Address": "24800 BLOCK US HIGHWAY 19 N",
+          "Response_Date": "2025-12-04T15:50:26"
+        },
+        {
+          "Master_Incident_Number": "120425-00350",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "400 BLOCK ISLAND WAY",
+          "Response_Date": "2025-12-04T15:56:58"
+        },
+        {
+          "Master_Incident_Number": "120425-00362",
+          "Online_Description": "PARK WALK AND TALK",
+          "Address": "1400 BLOCK CLEVELAND ST",
+          "Response_Date": "2025-12-04T16:11:20"
+        }
+      ]
     }
   ]
 }
