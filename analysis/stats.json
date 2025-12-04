@@ -1,11 +1,11 @@
 {
-  "total_calls_tracked": 1186,
-  "total_resolved": 1181,
+  "total_calls_tracked": 1188,
+  "total_resolved": 1183,
   "call_types": {
     "DIRECTED PATROL": 417,
-    "TRAFFIC STOP": 175,
+    "TRAFFIC STOP": 176,
     "DRUNK DRIVER": 4,
-    "DISTURBANCE": 22,
+    "DISTURBANCE": 23,
     "BATTERY": 5,
     "CRIMINAL MISCHIEF": 4,
     "ALARM": 15,
@@ -624,7 +624,7 @@
     "COURT ST / S HILLCREST AVE": 1,
     "100 BLOCK N BELCHER RD": 1,
     "S SAN REMO AVE / GULF TO BAY BLVD": 1,
-    "S BELCHER RD / GULF TO BAY BLVD": 1,
+    "S BELCHER RD / GULF TO BAY BLVD": 2,
     "0 BLOCK N BELCHER RD": 1,
     "HARN BLVD / FLUSHING AVE": 2,
     "2800 BLOCK MEADOW HILL DR S": 1,
@@ -677,7 +677,7 @@
     "US HIGHWAY 19 N / BELLEAIR BLVD": 1,
     "200 BLOCK N BETTY LN": 1,
     "-3000 BLOCK BLK SR 580": 1,
-    "1500 BLOCK S MYRTLE AVE": 1,
+    "1500 BLOCK S MYRTLE AVE": 2,
     "NURSERY RD / US HIGHWAY 19 N": 1,
     "N NEPTUNE AVE / CLEVELAND ST": 1,
     "0 BLOCK 29 SAN MARCO ST": 1,
@@ -728,10 +728,10 @@
     "20": 22,
     "21": 23,
     "22": 41,
-    "23": 28
+    "23": 30
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-04T04:39:59.671028+00:00",
+  "last_updated": "2025-12-04T04:55:18.503982+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 367
+  "total_snapshots": 368
 }
