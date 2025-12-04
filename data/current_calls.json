@@ -37,18 +37,12 @@
       "Response_Date": "2025-12-04T00:00:23"
     },
     {
-      "Master_Incident_Number": "120425-00006",
-      "Online_Description": "TRAFFIC STOP",
-      "Address": "400 BLOCK BAY AVE",
-      "Response_Date": "2025-12-04T00:07:08"
-    },
-    {
       "Master_Incident_Number": "120425-00009",
       "Online_Description": "BATTERY",
       "Address": "27000 BLOCK US HIGHWAY 19 N",
       "Response_Date": "2025-12-04T00:12:08"
     }
   ],
-  "timestamp": "2025-12-04T05:48:27.206907+00:00",
-  "count": 8
+  "timestamp": "2025-12-04T05:56:55.703830+00:00",
+  "count": 7
 }
