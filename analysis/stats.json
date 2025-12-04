@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 1182,
-  "total_resolved": 1173,
+  "total_calls_tracked": 1184,
+  "total_resolved": 1179,
   "call_types": {
-    "DIRECTED PATROL": 415,
+    "DIRECTED PATROL": 417,
     "TRAFFIC STOP": 175,
     "DRUNK DRIVER": 4,
     "DISTURBANCE": 22,
@@ -700,7 +700,9 @@
     "400 BLOCK S AURORA AVE": 1,
     "2400 BLOCK NORTHSIDE DR": 1,
     "2800 BLOCK CHANCERY LN": 1,
-    "PARK ST / S EAST AVE": 1
+    "PARK ST / S EAST AVE": 1,
+    "2500 BLOCK ENTERPRISE RD E": 1,
+    "SANF KEY BRIDGE": 1
   },
   "hourly_distribution": {
     "0": 30,
@@ -725,11 +727,11 @@
     "19": 12,
     "20": 22,
     "21": 23,
-    "22": 39,
+    "22": 41,
     "23": 26
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-04T03:34:57.208386+00:00",
+  "last_updated": "2025-12-04T04:05:21.954997+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 365
+  "total_snapshots": 366
 }
