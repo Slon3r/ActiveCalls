@@ -1,6 +1,6 @@
 {
-  "total_calls_tracked": 1196,
-  "total_resolved": 1194,
+  "total_calls_tracked": 1197,
+  "total_resolved": 1195,
   "call_types": {
     "DIRECTED PATROL": 419,
     "TRAFFIC STOP": 177,
@@ -18,7 +18,7 @@
     "THEFT": 17,
     "NEIGHBOR CALL": 7,
     "911 HANG-UP": 40,
-    "SUSPICIOUS VEHICLE": 8,
+    "SUSPICIOUS VEHICLE": 9,
     "PANHANDLER/SOLICITOR": 2,
     "VEHICLE ILLEGALLY PARKED": 3,
     "SUSPICIOUS EVENT": 23,
@@ -705,12 +705,13 @@
     "SANF KEY BRIDGE": 1,
     "S MAIN AVE / GULF TO BAY BLVD": 1,
     "800 BLOCK DEMPSEY ST": 1,
-    "SUMMERLIN DR / STEWART BLVD": 1
+    "SUMMERLIN DR / STEWART BLVD": 1,
+    "21300 BLOCK US HIGHWAY 19 N": 1
   },
   "hourly_distribution": {
     "0": 37,
     "1": 41,
-    "2": 24,
+    "2": 25,
     "3": 26,
     "4": 12,
     "5": 31,
@@ -734,7 +735,7 @@
     "23": 30
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-04T07:14:58.009513+00:00",
+  "last_updated": "2025-12-04T07:33:42.399495+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 375
+  "total_snapshots": 376
 }
