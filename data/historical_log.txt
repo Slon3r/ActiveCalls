@@ -5687,3 +5687,14 @@ TOTAL ACTIVE CALLS: 0
 
 --- RESOLVED CALLS (1) ---
 [RESOLVED] 120425-00036 | DIRECTED PATROL | 0 BLOCK ACACIA ST | Response: 04:58 AM
+
+================================================================================
+TIMESTAMP: 2025-12-04T10:56:41.604115+00:00
+TOTAL ACTIVE CALLS: 4
+================================================================================
+
+--- NEW CALLS (4) ---
+[NEW] 120425-00037 | DIRECTED PATROL | 200 BLOCK S GLENWOOD AVE | Response: 05:21 AM
+[NEW] 120425-00042 | DIRECTED PATROL | 200 BLOCK DREW ST | Response: 05:06 AM
+[NEW] 120425-00044 | ALARM | 2400 BLOCK GULF TO BAY BLVD | Response: 05:10 AM
+[NEW] 120425-00047 | DIRECTED PATROL | 1600 BLOCK GULF BLVD | Response: 05:25 AM

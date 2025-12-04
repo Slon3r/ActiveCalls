@@ -1,14 +1,14 @@
 {
-  "total_calls_tracked": 1201,
+  "total_calls_tracked": 1205,
   "total_resolved": 1201,
   "call_types": {
-    "DIRECTED PATROL": 421,
+    "DIRECTED PATROL": 424,
     "TRAFFIC STOP": 177,
     "DRUNK DRIVER": 4,
     "DISTURBANCE": 23,
     "BATTERY": 6,
     "CRIMINAL MISCHIEF": 4,
-    "ALARM": 15,
+    "ALARM": 16,
     "KEEP THE PEACE": 19,
     "WELFARE CHECK": 26,
     "PARK WALK AND TALK": 98,
@@ -67,7 +67,7 @@
     "0 BLOCK ACACIA ST": 5,
     "-600 BLOCK 647 BAY ESPLANADE": 1,
     "1900 BLOCK UNION ST": 2,
-    "200 BLOCK DREW ST": 4,
+    "200 BLOCK DREW ST": 5,
     "-800 BLOCK 819 NARCISSUS AVE": 2,
     "0 BLOCK ISLAND WAY": 5,
     "US HIGHWAY 19 N / SR 580": 3,
@@ -151,7 +151,7 @@
     "1300 BLOCK FRANKLIN ST": 2,
     "SUNSET MEADOW DR / COLONY REED LN": 1,
     "0 BLOCK BAY ESPLANADE": 3,
-    "200 BLOCK S GLENWOOD AVE": 15,
+    "200 BLOCK S GLENWOOD AVE": 16,
     "S KEENE RD / DRUID RD": 1,
     "GULF TO BAY BLVD / BAMBOO LN": 1,
     "GULF TO BAY BLVD / BROOKSIDE DR": 1,
@@ -534,7 +534,7 @@
     "3000 BLOCK WOODSONG LN": 1,
     "2500 BLOCK MCMULLEN BOOTH RD": 1,
     "2600 BLOCK SR 590": 1,
-    "2400 BLOCK GULF TO BAY BLVD": 2,
+    "2400 BLOCK GULF TO BAY BLVD": 3,
     "2800 BLOCK MCMULLEN BOOTH RD": 1,
     "SABAL SPRINGS CIR / SR 580": 1,
     "300 BLOCK DREW ST": 1,
@@ -708,7 +708,8 @@
     "SUMMERLIN DR / STEWART BLVD": 1,
     "21300 BLOCK US HIGHWAY 19 N": 1,
     "3400 BLOCK MCMULLEN BOOTH RD": 1,
-    "S BELCHER RD / DRUID RD": 1
+    "S BELCHER RD / DRUID RD": 1,
+    "1600 BLOCK GULF BLVD": 1
   },
   "hourly_distribution": {
     "0": 37,
@@ -716,7 +717,7 @@
     "2": 27,
     "3": 27,
     "4": 13,
-    "5": 31,
+    "5": 35,
     "6": 38,
     "7": 31,
     "8": 69,
@@ -737,7 +738,7 @@
     "23": 30
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-04T10:45:06.186437+00:00",
+  "last_updated": "2025-12-04T10:56:41.605872+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 386
+  "total_snapshots": 387
 }
