@@ -1,5 +1,5 @@
 {
-  "total_calls_tracked": 1197,
+  "total_calls_tracked": 1199,
   "total_resolved": 1196,
   "call_types": {
     "DIRECTED PATROL": 419,
@@ -17,14 +17,14 @@
     "PROPERTY FOUND/LOST": 6,
     "THEFT": 17,
     "NEIGHBOR CALL": 7,
-    "911 HANG-UP": 40,
+    "911 HANG-UP": 41,
     "SUSPICIOUS VEHICLE": 9,
     "PANHANDLER/SOLICITOR": 2,
     "VEHICLE ILLEGALLY PARKED": 3,
     "SUSPICIOUS EVENT": 23,
     "TRAFFIC CRASH": 48,
     "DISABLED VEHICLE": 13,
-    "ASSIST CITIZEN": 33,
+    "ASSIST CITIZEN": 34,
     "ASSIST OTHER AGENCY": 16,
     "FIRE": 2,
     "FRAUD": 11,
@@ -281,7 +281,7 @@
     "DREW ST / BAYVIEW AVE": 3,
     "2800 BLOCK APPLEWOOD DRIVE": 1,
     "1500 BLOCK EXCALIBER DR": 1,
-    "300 BLOCK PINELLAS ST": 4,
+    "300 BLOCK PINELLAS ST": 5,
     "1700 BLOCK EL TAIR TRL": 1,
     "SETON DR / MONTCLAIR RD": 1,
     "700 BLOCK S GULFVIEW BLVD": 1,
@@ -706,12 +706,13 @@
     "S MAIN AVE / GULF TO BAY BLVD": 1,
     "800 BLOCK DEMPSEY ST": 1,
     "SUMMERLIN DR / STEWART BLVD": 1,
-    "21300 BLOCK US HIGHWAY 19 N": 1
+    "21300 BLOCK US HIGHWAY 19 N": 1,
+    "3400 BLOCK MCMULLEN BOOTH RD": 1
   },
   "hourly_distribution": {
     "0": 37,
     "1": 41,
-    "2": 25,
+    "2": 27,
     "3": 26,
     "4": 12,
     "5": 31,
@@ -735,7 +736,7 @@
     "23": 30
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-04T07:53:05.943677+00:00",
+  "last_updated": "2025-12-04T08:15:18.002169+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 378
+  "total_snapshots": 379
 }
