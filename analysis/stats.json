@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 1311,
-  "total_resolved": 1305,
+  "total_calls_tracked": 1316,
+  "total_resolved": 1309,
   "call_types": {
-    "DIRECTED PATROL": 459,
-    "TRAFFIC STOP": 194,
+    "DIRECTED PATROL": 461,
+    "TRAFFIC STOP": 196,
     "DRUNK DRIVER": 4,
     "DISTURBANCE": 26,
     "BATTERY": 6,
@@ -42,7 +42,7 @@
     "DECEASED PERSON": 1,
     "BURGLARY": 5,
     "SHOTS FIRED": 1,
-    "HIT & RUN": 9,
+    "HIT & RUN": 10,
     "SCHOOL CROSSING": 5,
     "ORDINANCE VIOLATION": 3,
     "ABANDONED VEHICLE": 4,
@@ -113,7 +113,7 @@
     "2300 BLOCK GULF TO BAY BLVD": 3,
     "1200 BLOCK CLEVELAND ST": 7,
     "-500 BLOCK 549 MANDALAY AVE": 1,
-    "27000 BLOCK US HIGHWAY 19 N": 10,
+    "27000 BLOCK US HIGHWAY 19 N": 11,
     "DRIVEWAY PARKING": 2,
     "1100 BLOCK GULF BLVD": 4,
     "2500 BLOCK GULF TO BAY BLVD": 6,
@@ -134,7 +134,7 @@
     "1300 BLOCK ADMIRAL WOODSON LN": 1,
     "DREW ST / N SATURN AVE": 2,
     "GULF TO BAY BLVD / THORTON RD": 1,
-    "COUNTRYSIDE BLVD / ENDICOTT CT": 3,
+    "COUNTRYSIDE BLVD / ENDICOTT CT": 4,
     "3000 BLOCK DREW ST": 2,
     "2400 BLOCK COUNTRYSIDE BLVD": 4,
     "1200 BLOCK S MISSOURI AVE": 10,
@@ -205,7 +205,7 @@
     "23600 BLOCK US HIGHWAY 19 N": 4,
     "300 BLOCK MANDALAY AVE": 1,
     "JONES ST / FERN AVE": 1,
-    "1600 BLOCK GULF TO BAY BLVD": 5,
+    "1600 BLOCK GULF TO BAY BLVD": 6,
     "1600 BLOCK DARTMOUTH ST": 1,
     "HAMDEN DR / BRIGHTWATER DR": 2,
     "HAMPTON RD / GULF TO BAY BLVD": 2,
@@ -458,7 +458,7 @@
     "3300 BLOCK SAN GABRIEL ST": 2,
     "700 BLOCK ISLAND WAY": 1,
     "1100 BLOCK LAKEVIEW RD": 1,
-    "21400 BLOCK US HIGHWAY 19 N": 3,
+    "21400 BLOCK US HIGHWAY 19 N": 4,
     "0 BLOCK 98 S MAIN AVE": 1,
     "TURNER ST / S FORT HARRISON AVE": 1,
     "24800 BLOCK US HIGHWAY 19 N": 1,
@@ -746,7 +746,8 @@
     "2300 BLOCK SUNSET POINT RD": 1,
     "500 BLOCK N MADISON AVE": 1,
     "0 BLOCK 249 FAIRWOOD AVE": 1,
-    "200 BLOCK N BELCHER RD": 1
+    "200 BLOCK N BELCHER RD": 1,
+    "MEASE DR / MCMULLEN BOOTH RD": 1
   },
   "hourly_distribution": {
     "0": 37,
@@ -764,7 +765,7 @@
     "12": 87,
     "13": 91,
     "14": 103,
-    "15": 87,
+    "15": 92,
     "16": 83,
     "17": 69,
     "18": 57,
@@ -775,7 +776,7 @@
     "23": 30
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-04T20:32:04.904901+00:00",
+  "last_updated": "2025-12-04T20:47:59.666830+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 415
+  "total_snapshots": 416
 }

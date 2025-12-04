@@ -7,36 +7,42 @@
       "Response_Date": "2025-12-04T14:22:19"
     },
     {
-      "Master_Incident_Number": "120425-00312",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "1300 BLOCK S BELCHER RD",
-      "Response_Date": "2025-12-04T14:59:21"
-    },
-    {
-      "Master_Incident_Number": "120425-00317",
-      "Online_Description": "TRAFFIC STOP",
-      "Address": "DREW ST / OLD COACHMAN RD",
-      "Response_Date": "2025-12-04T15:05:07"
-    },
-    {
       "Master_Incident_Number": "120425-00318",
       "Online_Description": "DIRECTED PATROL",
       "Address": "1300 BLOCK CLEVELAND ST",
       "Response_Date": "2025-12-04T15:07:04"
     },
     {
-      "Master_Incident_Number": "120425-00319",
-      "Online_Description": "PARK WALK AND TALK",
-      "Address": "1700 BLOCK DREW ST",
-      "Response_Date": "2025-12-04T15:10:48"
+      "Master_Incident_Number": "120425-00322",
+      "Online_Description": "HIT & RUN",
+      "Address": "21400 BLOCK US HIGHWAY 19 N",
+      "Response_Date": "2025-12-04T15:09:42"
     },
     {
-      "Master_Incident_Number": "120425-00320",
+      "Master_Incident_Number": "120425-00326",
+      "Online_Description": "TRAFFIC STOP",
+      "Address": "COUNTRYSIDE BLVD / ENDICOTT CT",
+      "Response_Date": "2025-12-04T15:17:55"
+    },
+    {
+      "Master_Incident_Number": "120425-00327",
       "Online_Description": "DIRECTED PATROL",
-      "Address": "2700 BLOCK GULF TO BAY BLVD",
-      "Response_Date": "2025-12-04T15:11:00"
+      "Address": "27000 BLOCK US HIGHWAY 19 N",
+      "Response_Date": "2025-12-04T15:18:58"
+    },
+    {
+      "Master_Incident_Number": "120425-00332",
+      "Online_Description": "TRAFFIC STOP",
+      "Address": "MEASE DR / MCMULLEN BOOTH RD",
+      "Response_Date": "2025-12-04T15:24:35"
+    },
+    {
+      "Master_Incident_Number": "120425-00333",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "1600 BLOCK GULF TO BAY BLVD",
+      "Response_Date": "2025-12-04T15:25:19"
     }
   ],
-  "timestamp": "2025-12-04T20:32:04.901411+00:00",
-  "count": 6
+  "timestamp": "2025-12-04T20:47:59.663486+00:00",
+  "count": 7
 }
