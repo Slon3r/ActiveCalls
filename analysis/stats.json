@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 1216,
-  "total_resolved": 1212,
+  "total_calls_tracked": 1221,
+  "total_resolved": 1215,
   "call_types": {
-    "DIRECTED PATROL": 431,
+    "DIRECTED PATROL": 433,
     "TRAFFIC STOP": 179,
     "DRUNK DRIVER": 4,
     "DISTURBANCE": 23,
@@ -22,7 +22,7 @@
     "PANHANDLER/SOLICITOR": 2,
     "VEHICLE ILLEGALLY PARKED": 3,
     "SUSPICIOUS EVENT": 23,
-    "TRAFFIC CRASH": 48,
+    "TRAFFIC CRASH": 51,
     "DISABLED VEHICLE": 13,
     "ASSIST CITIZEN": 34,
     "ASSIST OTHER AGENCY": 16,
@@ -77,14 +77,14 @@
     "400 BLOCK FAIRWOOD AVE": 4,
     "500 BLOCK S FORT HARRISON AVE": 2,
     "26000 BLOCK US HIGHWAY 19 N": 4,
-    "1300 BLOCK S BELCHER RD": 5,
+    "1300 BLOCK S BELCHER RD": 6,
     "200 BLOCK WINDWARD PSGE": 4,
     "2700 BLOCK DREW ST": 1,
     "FLUSHING AVE / HARN BLVD": 1,
     "S BELCHER RD / BARCELONA DR": 1,
     "-1400 BLOCK 1417 S MISSOURI AVE": 1,
     "1000 BLOCK GULF BLVD": 15,
-    "1400 BLOCK LAURA ST": 2,
+    "1400 BLOCK LAURA ST": 3,
     "ENTERPRISE RD E / VILLAGE DR": 2,
     "GULF TO BAY BLVD / HAMPTON RD": 1,
     "2100 BLOCK GULF TO BAY BLVD": 12,
@@ -306,7 +306,7 @@
     "600 BLOCK OLD COACHMAN RD": 1,
     "DREW ST / PINEWOOD AVE": 1,
     "2800 BLOCK GULF TO BAY BLVD": 1,
-    "19100 BLOCK US HIGHWAY 19 N": 1,
+    "19100 BLOCK US HIGHWAY 19 N": 2,
     "1200 BLOCK S HIGHLAND AVE": 4,
     "1200 BLOCK TURNER ST": 1,
     "THIRD ST / CORONADO DR": 1,
@@ -711,7 +711,9 @@
     "S BELCHER RD / DRUID RD": 1,
     "1600 BLOCK GULF BLVD": 1,
     "N GARDEN AVE / DREW ST": 1,
-    "-400 BLOCK 499 POINSETTIA AVE": 1
+    "-400 BLOCK 499 POINSETTIA AVE": 1,
+    "BAYVIEW AVE / GULF TO BAY BLVD": 1,
+    "N BELCHER RD / DREW ST": 1
   },
   "hourly_distribution": {
     "0": 37,
@@ -722,7 +724,7 @@
     "5": 37,
     "6": 43,
     "7": 34,
-    "8": 69,
+    "8": 74,
     "9": 77,
     "10": 73,
     "11": 77,
@@ -740,7 +742,7 @@
     "23": 30
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-04T13:01:32.382760+00:00",
+  "last_updated": "2025-12-04T13:41:44.343056+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 393
+  "total_snapshots": 394
 }
