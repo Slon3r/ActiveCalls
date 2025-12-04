@@ -1,13 +1,13 @@
 {
-  "total_calls_tracked": 1227,
-  "total_resolved": 1219,
+  "total_calls_tracked": 1231,
+  "total_resolved": 1223,
   "call_types": {
-    "DIRECTED PATROL": 435,
+    "DIRECTED PATROL": 436,
     "TRAFFIC STOP": 179,
     "DRUNK DRIVER": 4,
-    "DISTURBANCE": 23,
+    "DISTURBANCE": 24,
     "BATTERY": 6,
-    "CRIMINAL MISCHIEF": 4,
+    "CRIMINAL MISCHIEF": 5,
     "ALARM": 16,
     "KEEP THE PEACE": 19,
     "WELFARE CHECK": 26,
@@ -22,7 +22,7 @@
     "PANHANDLER/SOLICITOR": 2,
     "VEHICLE ILLEGALLY PARKED": 3,
     "SUSPICIOUS EVENT": 23,
-    "TRAFFIC CRASH": 52,
+    "TRAFFIC CRASH": 53,
     "DISABLED VEHICLE": 13,
     "ASSIST CITIZEN": 34,
     "ASSIST OTHER AGENCY": 16,
@@ -306,7 +306,7 @@
     "DEVON DR  / CORONADO DR": 2,
     "600 BLOCK OLD COACHMAN RD": 1,
     "DREW ST / PINEWOOD AVE": 1,
-    "2800 BLOCK GULF TO BAY BLVD": 1,
+    "2800 BLOCK GULF TO BAY BLVD": 2,
     "19100 BLOCK US HIGHWAY 19 N": 2,
     "1200 BLOCK S HIGHLAND AVE": 4,
     "1200 BLOCK TURNER ST": 1,
@@ -314,7 +314,7 @@
     "900 BLOCK N MCMULLEN BOOTH RD": 1,
     "GULF TO BAY BLVD / S GLENWOOD AVE": 1,
     "300 BLOCK ISLAND WAY": 1,
-    "2900 BLOCK GULF TO BAY BLVD": 3,
+    "2900 BLOCK GULF TO BAY BLVD": 4,
     "MONTCLAIR RD / N HERCULES AVE": 1,
     "1000 BLOCK S MISSOURI AVE": 1,
     "1400 BLOCK S BELCHER RD": 3,
@@ -717,7 +717,9 @@
     "N BELCHER RD / DREW ST": 1,
     "2500 BLOCK KNOTTY PINE WAY": 1,
     "400 BLOCK TURNER ST": 1,
-    "SR 580 / CHARLES AVE": 1
+    "SR 580 / CHARLES AVE": 1,
+    "S FORT HARRISON AVE / LAKEVIEW RD": 1,
+    "DREW ST": 1
   },
   "hourly_distribution": {
     "0": 37,
@@ -728,8 +730,8 @@
     "5": 37,
     "6": 43,
     "7": 34,
-    "8": 80,
-    "9": 77,
+    "8": 81,
+    "9": 80,
     "10": 73,
     "11": 77,
     "12": 71,
@@ -746,7 +748,7 @@
     "23": 30
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-04T14:20:40.960300+00:00",
+  "last_updated": "2025-12-04T14:43:43.001675+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 396
+  "total_snapshots": 397
 }

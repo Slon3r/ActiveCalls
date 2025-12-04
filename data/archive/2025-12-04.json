@@ -997,6 +997,60 @@
           "Response_Date": "2025-12-04T08:57:47"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-04T14:43:42.999222+00:00",
+      "call_count": 8,
+      "calls": [
+        {
+          "Master_Incident_Number": "120425-00089",
+          "Online_Description": "PARK WALK AND TALK",
+          "Address": "1300 BLOCK PARK ST",
+          "Response_Date": "2025-12-04T08:39:20.017"
+        },
+        {
+          "Master_Incident_Number": "120425-00095",
+          "Online_Description": "TRAFFIC CRASH",
+          "Address": "N BELCHER RD / DREW ST",
+          "Response_Date": "2025-12-04T08:11:03"
+        },
+        {
+          "Master_Incident_Number": "120425-00096",
+          "Online_Description": "TRAFFIC CRASH",
+          "Address": "19100 BLOCK US HIGHWAY 19 N",
+          "Response_Date": "2025-12-04T08:12:41"
+        },
+        {
+          "Master_Incident_Number": "120425-00111",
+          "Online_Description": "CRIMINAL MISCHIEF",
+          "Address": "2900 BLOCK GULF TO BAY BLVD",
+          "Response_Date": "2025-12-04T08:47:32"
+        },
+        {
+          "Master_Incident_Number": "120425-00114",
+          "Online_Description": "TRAFFIC CRASH",
+          "Address": "SR 580 / CHARLES AVE",
+          "Response_Date": "2025-12-04T08:57:47"
+        },
+        {
+          "Master_Incident_Number": "120425-00118",
+          "Online_Description": "DISTURBANCE",
+          "Address": "2800 BLOCK GULF TO BAY BLVD",
+          "Response_Date": "2025-12-04T09:10:13"
+        },
+        {
+          "Master_Incident_Number": "120425-00119",
+          "Online_Description": "TRAFFIC CRASH",
+          "Address": "S FORT HARRISON AVE / LAKEVIEW RD",
+          "Response_Date": "2025-12-04T09:12:19"
+        },
+        {
+          "Master_Incident_Number": "120425-00120",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "DREW ST",
+          "Response_Date": "2025-12-04T09:16:44"
+        }
+      ]
     }
   ]
 }
