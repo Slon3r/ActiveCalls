@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 1212,
-  "total_resolved": 1208,
+  "total_calls_tracked": 1216,
+  "total_resolved": 1212,
   "call_types": {
-    "DIRECTED PATROL": 429,
-    "TRAFFIC STOP": 178,
+    "DIRECTED PATROL": 431,
+    "TRAFFIC STOP": 179,
     "DRUNK DRIVER": 4,
     "DISTURBANCE": 23,
     "BATTERY": 6,
@@ -43,7 +43,7 @@
     "BURGLARY": 5,
     "SHOTS FIRED": 1,
     "HIT & RUN": 9,
-    "SCHOOL CROSSING": 3,
+    "SCHOOL CROSSING": 4,
     "ORDINANCE VIOLATION": 2,
     "ABANDONED VEHICLE": 3,
     "CHILD ABUSE": 2,
@@ -220,7 +220,7 @@
     "1300 BLOCK S FORT HARRISON AVE": 1,
     "HOLT AVE / RUSSELL ST": 1,
     "S GULFVIEW BLVD / SECOND ST": 1,
-    "2500 BLOCK COUNTRYSIDE BLVD": 6,
+    "2500 BLOCK COUNTRYSIDE BLVD": 7,
     "-300 BLOCK 339 CORONADO DR": 1,
     "-600 BLOCK 698 CLEVELAND ST": 1,
     "1500 BLOCK S HIGHLAND AVE": 2,
@@ -439,7 +439,7 @@
     "-1100 BLOCK 1148 PIERCE ST": 1,
     "FERNWOOD AVE / GULF TO BAY BLVD": 2,
     "N BELCHER RD / CLEVELAND ST": 1,
-    "DREW ST / FAIRWOOD AVE": 2,
+    "DREW ST / FAIRWOOD AVE": 3,
     "300 BLOCK N JUPITER AVE": 1,
     "SR 580 / US HIGHWAY 19 N": 1,
     "PIERCE ST / S MARTIN LUTHER KING JR AVE": 1,
@@ -469,7 +469,7 @@
     "800 BLOCK CHESTNUT ST": 1,
     "1500 BLOCK MURRAY AVE": 2,
     "300 BLOCK S HIGHLAND AVE": 1,
-    "26200 BLOCK US HIGHWAY 19 N": 2,
+    "26200 BLOCK US HIGHWAY 19 N": 3,
     "N KEENE RD / DREW ST": 1,
     "100 BLOCK N JEFFERSON AVE": 1,
     "1500 BLOCK JEFFORDS ST": 4,
@@ -710,7 +710,8 @@
     "3400 BLOCK MCMULLEN BOOTH RD": 1,
     "S BELCHER RD / DRUID RD": 1,
     "1600 BLOCK GULF BLVD": 1,
-    "N GARDEN AVE / DREW ST": 1
+    "N GARDEN AVE / DREW ST": 1,
+    "-400 BLOCK 499 POINSETTIA AVE": 1
   },
   "hourly_distribution": {
     "0": 37,
@@ -719,8 +720,8 @@
     "3": 27,
     "4": 13,
     "5": 37,
-    "6": 42,
-    "7": 31,
+    "6": 43,
+    "7": 34,
     "8": 69,
     "9": 77,
     "10": 73,
@@ -739,7 +740,7 @@
     "23": 30
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-04T12:01:27.681311+00:00",
+  "last_updated": "2025-12-04T13:01:32.382760+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 392
+  "total_snapshots": 393
 }

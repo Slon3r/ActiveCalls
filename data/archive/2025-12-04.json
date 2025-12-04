@@ -811,6 +811,36 @@
           "Response_Date": "2025-12-04T06:36:34"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-04T13:01:32.380786+00:00",
+      "call_count": 4,
+      "calls": [
+        {
+          "Master_Incident_Number": "120425-00065",
+          "Online_Description": "SCHOOL CROSSING",
+          "Address": "DREW ST / FAIRWOOD AVE",
+          "Response_Date": "2025-12-04T06:58:20"
+        },
+        {
+          "Master_Incident_Number": "120425-00069",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "-400 BLOCK 499 POINSETTIA AVE",
+          "Response_Date": "2025-12-04T07:06:30"
+        },
+        {
+          "Master_Incident_Number": "120425-00075",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "2500 BLOCK COUNTRYSIDE BLVD",
+          "Response_Date": "2025-12-04T07:14:43"
+        },
+        {
+          "Master_Incident_Number": "120425-00082",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "26200 BLOCK US HIGHWAY 19 N",
+          "Response_Date": "2025-12-04T07:40:13"
+        }
+      ]
     }
   ]
 }
