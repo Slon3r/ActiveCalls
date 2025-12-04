@@ -1338,6 +1338,66 @@
       "timestamp": "2025-12-04T16:49:07.867943+00:00",
       "call_count": 0,
       "calls": []
+    },
+    {
+      "timestamp": "2025-12-04T17:11:28.346843+00:00",
+      "call_count": 9,
+      "calls": [
+        {
+          "Master_Incident_Number": "120425-00182",
+          "Online_Description": "PARK WALK AND TALK",
+          "Address": "1800 BLOCK N HIGHLAND AVE",
+          "Response_Date": "2025-12-04T11:20:19"
+        },
+        {
+          "Master_Incident_Number": "120425-00189",
+          "Online_Description": "ORDINANCE VIOLATION",
+          "Address": "100 BLOCK S FERNWOOD AVE",
+          "Response_Date": "2025-12-04T11:27:25"
+        },
+        {
+          "Master_Incident_Number": "120425-00188",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "2800 BLOCK MEADOW HILL DR S",
+          "Response_Date": "2025-12-04T11:27:36"
+        },
+        {
+          "Master_Incident_Number": "120425-00191",
+          "Online_Description": "ASSIST CITIZEN",
+          "Address": "2500 BLOCK STAG RUN BLVD",
+          "Response_Date": "2025-12-04T11:32:44"
+        },
+        {
+          "Master_Incident_Number": "120425-00192",
+          "Online_Description": "THEFT",
+          "Address": "400 BLOCK CORBETT ST",
+          "Response_Date": "2025-12-04T11:35:18"
+        },
+        {
+          "Master_Incident_Number": "120425-00193",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "DREW ST / N BELCHER RD",
+          "Response_Date": "2025-12-04T11:38:13"
+        },
+        {
+          "Master_Incident_Number": "120425-00196",
+          "Online_Description": "CRIMINAL MISCHIEF",
+          "Address": "2300 BLOCK DRUID RD",
+          "Response_Date": "2025-12-04T11:43:06"
+        },
+        {
+          "Master_Incident_Number": "120425-00197",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "S MADISON AVE/CLEVELAND ST",
+          "Response_Date": "2025-12-04T11:47:33"
+        },
+        {
+          "Master_Incident_Number": "120425-00198",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "1200 BLOCK CLEVELAND ST",
+          "Response_Date": "2025-12-04T11:47:58"
+        }
+      ]
     }
   ]
 }
