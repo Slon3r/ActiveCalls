@@ -1,48 +1,36 @@
 {
   "calls": [
     {
-      "Master_Incident_Number": "120325-00631",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "200 BLOCK S GLENWOOD AVE",
-      "Response_Date": "2025-12-04T00:04:16.563"
-    },
-    {
       "Master_Incident_Number": "120325-00565",
       "Online_Description": "TRAFFIC STOP",
       "Address": "DREW ST / N BELCHER RD",
       "Response_Date": "2025-12-03T20:32:34"
     },
     {
-      "Master_Incident_Number": "120325-00571",
-      "Online_Description": "BURGLARY",
-      "Address": "400 BLOCK S AURORA AVE",
-      "Response_Date": "2025-12-03T20:49:00"
-    },
-    {
-      "Master_Incident_Number": "120325-00627",
-      "Online_Description": "TRAFFIC CRASH",
-      "Address": "S MAIN AVE / GULF TO BAY BLVD",
-      "Response_Date": "2025-12-03T22:57:43"
-    },
-    {
       "Master_Incident_Number": "120325-00633",
-      "Online_Description": "BURGLARY",
+      "Online_Description": "CRIMINAL MISCHIEF",
       "Address": "1100 BLOCK GROVE ST",
       "Response_Date": "2025-12-03T23:08:55"
-    },
-    {
-      "Master_Incident_Number": "120425-00002",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "-1100 BLOCK 1198 N MARTIN LUTHER KING JR AVE",
-      "Response_Date": "2025-12-04T00:00:23"
     },
     {
       "Master_Incident_Number": "120425-00009",
       "Online_Description": "BATTERY",
       "Address": "27000 BLOCK US HIGHWAY 19 N",
       "Response_Date": "2025-12-04T00:12:08"
+    },
+    {
+      "Master_Incident_Number": "120425-00010",
+      "Online_Description": "TRESPASS",
+      "Address": "800 BLOCK DEMPSEY ST",
+      "Response_Date": "2025-12-04T00:30:11"
+    },
+    {
+      "Master_Incident_Number": "120425-00012",
+      "Online_Description": "HIT & RUN",
+      "Address": "SUMMERLIN DR / STEWART BLVD",
+      "Response_Date": "2025-12-04T00:43:46"
     }
   ],
-  "timestamp": "2025-12-04T05:56:55.703830+00:00",
-  "count": 7
+  "timestamp": "2025-12-04T06:29:11.495214+00:00",
+  "count": 5
 }

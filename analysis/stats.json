@@ -1,6 +1,6 @@
 {
-  "total_calls_tracked": 1194,
-  "total_resolved": 1187,
+  "total_calls_tracked": 1196,
+  "total_resolved": 1191,
   "call_types": {
     "DIRECTED PATROL": 419,
     "TRAFFIC STOP": 177,
@@ -13,7 +13,7 @@
     "WELFARE CHECK": 26,
     "PARK WALK AND TALK": 98,
     "SUSPICIOUS PERSON": 51,
-    "TRESPASS": 30,
+    "TRESPASS": 31,
     "PROPERTY FOUND/LOST": 6,
     "THEFT": 17,
     "NEIGHBOR CALL": 7,
@@ -42,7 +42,7 @@
     "DECEASED PERSON": 1,
     "BURGLARY": 5,
     "SHOTS FIRED": 1,
-    "HIT & RUN": 8,
+    "HIT & RUN": 9,
     "SCHOOL CROSSING": 3,
     "ORDINANCE VIOLATION": 2,
     "ABANDONED VEHICLE": 3,
@@ -703,10 +703,12 @@
     "PARK ST / S EAST AVE": 1,
     "2500 BLOCK ENTERPRISE RD E": 1,
     "SANF KEY BRIDGE": 1,
-    "S MAIN AVE / GULF TO BAY BLVD": 1
+    "S MAIN AVE / GULF TO BAY BLVD": 1,
+    "800 BLOCK DEMPSEY ST": 1,
+    "SUMMERLIN DR / STEWART BLVD": 1
   },
   "hourly_distribution": {
-    "0": 35,
+    "0": 37,
     "1": 41,
     "2": 24,
     "3": 26,
@@ -732,7 +734,7 @@
     "23": 30
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-04T05:56:55.705406+00:00",
+  "last_updated": "2025-12-04T06:29:11.496812+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 372
+  "total_snapshots": 373
 }

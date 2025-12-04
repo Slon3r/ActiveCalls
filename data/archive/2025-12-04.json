@@ -450,6 +450,42 @@
           "Response_Date": "2025-12-04T00:12:08"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-04T06:29:11.495214+00:00",
+      "call_count": 5,
+      "calls": [
+        {
+          "Master_Incident_Number": "120325-00565",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "DREW ST / N BELCHER RD",
+          "Response_Date": "2025-12-03T20:32:34"
+        },
+        {
+          "Master_Incident_Number": "120325-00633",
+          "Online_Description": "CRIMINAL MISCHIEF",
+          "Address": "1100 BLOCK GROVE ST",
+          "Response_Date": "2025-12-03T23:08:55"
+        },
+        {
+          "Master_Incident_Number": "120425-00009",
+          "Online_Description": "BATTERY",
+          "Address": "27000 BLOCK US HIGHWAY 19 N",
+          "Response_Date": "2025-12-04T00:12:08"
+        },
+        {
+          "Master_Incident_Number": "120425-00010",
+          "Online_Description": "TRESPASS",
+          "Address": "800 BLOCK DEMPSEY ST",
+          "Response_Date": "2025-12-04T00:30:11"
+        },
+        {
+          "Master_Incident_Number": "120425-00012",
+          "Online_Description": "HIT & RUN",
+          "Address": "SUMMERLIN DR / STEWART BLVD",
+          "Response_Date": "2025-12-04T00:43:46"
+        }
+      ]
     }
   ]
 }
