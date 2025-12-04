@@ -1398,6 +1398,66 @@
           "Response_Date": "2025-12-04T11:47:58"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-04T17:36:42.033650+00:00",
+      "call_count": 9,
+      "calls": [
+        {
+          "Master_Incident_Number": "120425-00192",
+          "Online_Description": "THEFT",
+          "Address": "400 BLOCK CORBETT ST",
+          "Response_Date": "2025-12-04T11:35:18"
+        },
+        {
+          "Master_Incident_Number": "120425-00194",
+          "Online_Description": "THEFT",
+          "Address": "1200 BLOCK S MISSOURI AVE",
+          "Response_Date": "2025-12-04T11:36:25"
+        },
+        {
+          "Master_Incident_Number": "120425-00193",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "DREW ST / N BELCHER RD",
+          "Response_Date": "2025-12-04T11:38:13"
+        },
+        {
+          "Master_Incident_Number": "120425-00197",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "S MADISON AVE / CLEVELAND ST",
+          "Response_Date": "2025-12-04T11:47:33"
+        },
+        {
+          "Master_Incident_Number": "120425-00198",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "1200 BLOCK CLEVELAND ST",
+          "Response_Date": "2025-12-04T11:47:58"
+        },
+        {
+          "Master_Incident_Number": "120425-00202",
+          "Online_Description": "DOMESTIC",
+          "Address": "2300 BLOCK DREW ST",
+          "Response_Date": "2025-12-04T11:49:51"
+        },
+        {
+          "Master_Incident_Number": "120425-00201",
+          "Online_Description": "DISTURBANCE",
+          "Address": "500 BLOCK MANDALAY AVE",
+          "Response_Date": "2025-12-04T11:54:49"
+        },
+        {
+          "Master_Incident_Number": "120425-00206",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "900 BLOCK MCMULLEN BOOTH RD",
+          "Response_Date": "2025-12-04T12:03:48"
+        },
+        {
+          "Master_Incident_Number": "120425-00210",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "2300 BLOCK GULF TO BAY BLVD",
+          "Response_Date": "2025-12-04T12:13:24"
+        }
+      ]
     }
   ]
 }
