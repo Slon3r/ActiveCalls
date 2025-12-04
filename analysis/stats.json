@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 1301,
-  "total_resolved": 1290,
+  "total_calls_tracked": 1304,
+  "total_resolved": 1296,
   "call_types": {
-    "DIRECTED PATROL": 453,
+    "DIRECTED PATROL": 454,
     "TRAFFIC STOP": 193,
     "DRUNK DRIVER": 4,
     "DISTURBANCE": 26,
@@ -12,8 +12,8 @@
     "KEEP THE PEACE": 19,
     "WELFARE CHECK": 28,
     "PARK WALK AND TALK": 103,
-    "SUSPICIOUS PERSON": 54,
-    "TRESPASS": 35,
+    "SUSPICIOUS PERSON": 55,
+    "TRESPASS": 36,
     "PROPERTY FOUND/LOST": 6,
     "THEFT": 19,
     "NEIGHBOR CALL": 7,
@@ -93,7 +93,7 @@
     "2100 BLOCK BELCHER RD": 1,
     "SAND KEY PARK ENTRANCE": 5,
     "S MISSOURI AVE / LAKEVIEW RD": 3,
-    "23100 BLOCK US HIGHWAY 19 N": 5,
+    "23100 BLOCK US HIGHWAY 19 N": 6,
     "1200 BLOCK N BETTY LN": 1,
     "MCMULLEN BOOTH RD / SR 590": 2,
     "LAKEVIEW RD / S MISSOURI AVE": 2,
@@ -470,7 +470,7 @@
     "800 BLOCK CHESTNUT ST": 1,
     "1500 BLOCK MURRAY AVE": 2,
     "300 BLOCK S HIGHLAND AVE": 1,
-    "26200 BLOCK US HIGHWAY 19 N": 3,
+    "26200 BLOCK US HIGHWAY 19 N": 4,
     "N KEENE RD / DREW ST": 1,
     "100 BLOCK N JEFFERSON AVE": 1,
     "1500 BLOCK JEFFORDS ST": 4,
@@ -524,7 +524,7 @@
     "1300 BLOCK WOODBINE ST": 1,
     "N KEENE RD / FLAGLER DR": 2,
     "23200 BLOCK US HIGHWAY 19 N": 1,
-    "900 BLOCK COURT ST": 1,
+    "900 BLOCK COURT ST": 2,
     "GULF TO BAY BLVD / THORNTON RD": 1,
     "1100 BLOCK WOODLAWN ST": 1,
     "200 BLOCK S STARCREST DR": 1,
@@ -762,7 +762,7 @@
     "11": 89,
     "12": 87,
     "13": 91,
-    "14": 97,
+    "14": 100,
     "15": 83,
     "16": 83,
     "17": 69,
@@ -774,7 +774,7 @@
     "23": 30
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-04T19:43:46.524052+00:00",
+  "last_updated": "2025-12-04T19:52:03.062915+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 412
+  "total_snapshots": 413
 }
