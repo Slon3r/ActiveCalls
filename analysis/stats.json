@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 1268,
-  "total_resolved": 1259,
+  "total_calls_tracked": 1271,
+  "total_resolved": 1261,
   "call_types": {
-    "DIRECTED PATROL": 451,
-    "TRAFFIC STOP": 181,
+    "DIRECTED PATROL": 452,
+    "TRAFFIC STOP": 182,
     "DRUNK DRIVER": 4,
     "DISTURBANCE": 26,
     "BATTERY": 6,
@@ -25,7 +25,7 @@
     "TRAFFIC CRASH": 53,
     "DISABLED VEHICLE": 13,
     "ASSIST CITIZEN": 35,
-    "ASSIST OTHER AGENCY": 16,
+    "ASSIST OTHER AGENCY": 17,
     "FIRE": 2,
     "FRAUD": 11,
     "RECKLESS VEHICLE": 2,
@@ -401,7 +401,7 @@
     "1400 BLOCK FAIRMONT ST": 1,
     "DREW ST / N BETTY LN": 2,
     "600 BLOCK MANDALAY AVE": 4,
-    "1900 BLOCK GULF TO BAY BLVD": 1,
+    "1900 BLOCK GULF TO BAY BLVD": 2,
     "22100 BLOCK US HIGHWAY 19 N": 2,
     "SEVILLE BLVD / US HIGHWAY 19 N": 1,
     "COUNTRYSIDE BLVD / WINDING WOOD DR": 1,
@@ -731,7 +731,9 @@
     "2500 BLOCK STAG RUN BLVD": 1,
     "400 BLOCK CORBETT ST": 1,
     "S MADISON AVE/CLEVELAND ST": 1,
-    "900 BLOCK MCMULLEN BOOTH RD": 1
+    "900 BLOCK MCMULLEN BOOTH RD": 1,
+    "2700 BLOCK UNION ST": 1,
+    "LANDMARK DR / SANDY RIDGE DR": 1
   },
   "hourly_distribution": {
     "0": 37,
@@ -746,7 +748,7 @@
     "9": 88,
     "10": 87,
     "11": 89,
-    "12": 73,
+    "12": 76,
     "13": 77,
     "14": 92,
     "15": 83,
@@ -760,7 +762,7 @@
     "23": 30
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-04T17:36:42.036316+00:00",
+  "last_updated": "2025-12-04T17:50:30.205824+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 405
+  "total_snapshots": 406
 }

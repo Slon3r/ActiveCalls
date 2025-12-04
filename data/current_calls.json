@@ -13,12 +13,6 @@
       "Response_Date": "2025-12-04T11:36:25"
     },
     {
-      "Master_Incident_Number": "120425-00193",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "DREW ST / N BELCHER RD",
-      "Response_Date": "2025-12-04T11:38:13"
-    },
-    {
       "Master_Incident_Number": "120425-00197",
       "Online_Description": "DIRECTED PATROL",
       "Address": "S MADISON AVE / CLEVELAND ST",
@@ -43,18 +37,30 @@
       "Response_Date": "2025-12-04T11:54:49"
     },
     {
-      "Master_Incident_Number": "120425-00206",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "900 BLOCK MCMULLEN BOOTH RD",
-      "Response_Date": "2025-12-04T12:03:48"
-    },
-    {
       "Master_Incident_Number": "120425-00210",
       "Online_Description": "DIRECTED PATROL",
       "Address": "2300 BLOCK GULF TO BAY BLVD",
       "Response_Date": "2025-12-04T12:13:24"
+    },
+    {
+      "Master_Incident_Number": "120425-00213",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "2700 BLOCK UNION ST",
+      "Response_Date": "2025-12-04T12:16:52"
+    },
+    {
+      "Master_Incident_Number": "120425-00216",
+      "Online_Description": "ASSIST OTHER AGENCY",
+      "Address": "1900 BLOCK GULF TO BAY BLVD",
+      "Response_Date": "2025-12-04T12:20:38"
+    },
+    {
+      "Master_Incident_Number": "120425-00217",
+      "Online_Description": "TRAFFIC STOP",
+      "Address": "LANDMARK DR / SANDY RIDGE DR",
+      "Response_Date": "2025-12-04T12:23:31"
     }
   ],
-  "timestamp": "2025-12-04T17:36:42.033650+00:00",
-  "count": 9
+  "timestamp": "2025-12-04T17:50:30.202987+00:00",
+  "count": 10
 }
