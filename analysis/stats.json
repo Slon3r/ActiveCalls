@@ -1,6 +1,6 @@
 {
-  "total_calls_tracked": 1184,
-  "total_resolved": 1179,
+  "total_calls_tracked": 1186,
+  "total_resolved": 1181,
   "call_types": {
     "DIRECTED PATROL": 417,
     "TRAFFIC STOP": 175,
@@ -13,7 +13,7 @@
     "WELFARE CHECK": 26,
     "PARK WALK AND TALK": 98,
     "SUSPICIOUS PERSON": 51,
-    "TRESPASS": 29,
+    "TRESPASS": 30,
     "PROPERTY FOUND/LOST": 6,
     "THEFT": 17,
     "NEIGHBOR CALL": 7,
@@ -40,7 +40,7 @@
     "BUILDING CHECK": 5,
     "SHOPLIFTING": 3,
     "DECEASED PERSON": 1,
-    "BURGLARY": 4,
+    "BURGLARY": 5,
     "SHOTS FIRED": 1,
     "HIT & RUN": 8,
     "SCHOOL CROSSING": 3,
@@ -281,7 +281,7 @@
     "DREW ST / BAYVIEW AVE": 3,
     "2800 BLOCK APPLEWOOD DRIVE": 1,
     "1500 BLOCK EXCALIBER DR": 1,
-    "300 BLOCK PINELLAS ST": 3,
+    "300 BLOCK PINELLAS ST": 4,
     "1700 BLOCK EL TAIR TRL": 1,
     "SETON DR / MONTCLAIR RD": 1,
     "700 BLOCK S GULFVIEW BLVD": 1,
@@ -505,7 +505,7 @@
     "2300 BLOCK DREW ST": 1,
     "23000 BLOCK US HIGHWAY 19 N": 1,
     "1900 BLOCK RADCLIFFE DR N": 2,
-    "1100 BLOCK GROVE ST": 1,
+    "1100 BLOCK GROVE ST": 2,
     "1300 BLOCK AMBLE LN": 1,
     "1000 BLOCK ELDORADO AVE": 3,
     "-3300 BLOCK 3348 HYDE PARK DR": 1,
@@ -728,10 +728,10 @@
     "20": 22,
     "21": 23,
     "22": 41,
-    "23": 26
+    "23": 28
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-04T04:05:21.954997+00:00",
+  "last_updated": "2025-12-04T04:39:59.671028+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 366
+  "total_snapshots": 367
 }
