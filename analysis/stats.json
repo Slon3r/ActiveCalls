@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 1358,
-  "total_resolved": 1348,
+  "total_calls_tracked": 1361,
+  "total_resolved": 1355,
   "call_types": {
-    "DIRECTED PATROL": 475,
+    "DIRECTED PATROL": 476,
     "TRAFFIC STOP": 201,
     "DRUNK DRIVER": 4,
     "DISTURBANCE": 29,
@@ -45,13 +45,14 @@
     "HIT & RUN": 11,
     "SCHOOL CROSSING": 5,
     "ORDINANCE VIOLATION": 4,
-    "ABANDONED VEHICLE": 4,
+    "ABANDONED VEHICLE": 5,
     "CHILD ABUSE": 2,
     "FIGHT": 1,
     "CHILD PROTECTION INVESTIGATION": 2,
     "DRUNK PEDESTRIAN": 2,
     "ASSAULT": 2,
-    "PERSON DOWN": 3
+    "PERSON DOWN": 3,
+    "ROBBERY": 1
   },
   "addresses": {
     "MEMORIAL CSWY / ISLAND WAY": 16,
@@ -74,7 +75,7 @@
     "US HIGHWAY 19 N / SR 580": 3,
     "400 BLOCK S GULFVIEW BLVD": 5,
     "100 BLOCK S MYRTLE AVE": 3,
-    "0 BLOCK CAUSEWAY BLVD": 12,
+    "0 BLOCK CAUSEWAY BLVD": 13,
     "400 BLOCK FAIRWOOD AVE": 4,
     "500 BLOCK S FORT HARRISON AVE": 3,
     "26000 BLOCK US HIGHWAY 19 N": 4,
@@ -702,7 +703,7 @@
     "2400 BLOCK NORTHSIDE DR": 1,
     "2800 BLOCK CHANCERY LN": 1,
     "PARK ST / S EAST AVE": 1,
-    "2500 BLOCK ENTERPRISE RD E": 1,
+    "2500 BLOCK ENTERPRISE RD E": 2,
     "SANF KEY BRIDGE": 1,
     "S MAIN AVE / GULF TO BAY BLVD": 1,
     "800 BLOCK DEMPSEY ST": 1,
@@ -765,7 +766,8 @@
     "3100 BLOCK SAN MATEO ST": 1,
     "1600 BLOCK N BETTY LN": 1,
     "2500 BLOCK BRENTWOOD DR": 1,
-    "1200 BLOCK N MARTIN LUTHER KING JR AVE": 1
+    "1200 BLOCK N MARTIN LUTHER KING JR AVE": 1,
+    "2300 BLOCK LANDMARK DR": 1
   },
   "hourly_distribution": {
     "0": 37,
@@ -786,7 +788,7 @@
     "15": 105,
     "16": 97,
     "17": 81,
-    "18": 59,
+    "18": 62,
     "19": 12,
     "20": 22,
     "21": 23,
@@ -794,7 +796,7 @@
     "23": 30
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-04T23:30:01.944458+00:00",
+  "last_updated": "2025-12-04T23:42:12.919118+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 427
+  "total_snapshots": 428
 }
