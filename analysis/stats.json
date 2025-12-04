@@ -1,11 +1,11 @@
 {
-  "total_calls_tracked": 1361,
-  "total_resolved": 1355,
+  "total_calls_tracked": 1363,
+  "total_resolved": 1356,
   "call_types": {
     "DIRECTED PATROL": 476,
     "TRAFFIC STOP": 201,
     "DRUNK DRIVER": 4,
-    "DISTURBANCE": 29,
+    "DISTURBANCE": 30,
     "BATTERY": 6,
     "CRIMINAL MISCHIEF": 6,
     "ALARM": 16,
@@ -22,7 +22,7 @@
     "PANHANDLER/SOLICITOR": 3,
     "VEHICLE ILLEGALLY PARKED": 4,
     "SUSPICIOUS EVENT": 24,
-    "TRAFFIC CRASH": 57,
+    "TRAFFIC CRASH": 58,
     "DISABLED VEHICLE": 13,
     "ASSIST CITIZEN": 41,
     "ASSIST OTHER AGENCY": 18,
@@ -429,7 +429,7 @@
     "600 BLOCK N FORT HARRISON AVE": 1,
     "200 BLOCK S BETTY LN": 1,
     "2400 BLOCK HARN BLVD": 2,
-    "1400 BLOCK S MARTIN LUTHER KING JR AVE": 5,
+    "1400 BLOCK S MARTIN LUTHER KING JR AVE": 6,
     "OTIS C GREEN DR / N BETTY LN": 1,
     "2600 BLOCK MCMULLEN BOOTH RD": 4,
     "S MADISON AVE / PIERCE ST": 2,
@@ -767,7 +767,8 @@
     "1600 BLOCK N BETTY LN": 1,
     "2500 BLOCK BRENTWOOD DR": 1,
     "1200 BLOCK N MARTIN LUTHER KING JR AVE": 1,
-    "2300 BLOCK LANDMARK DR": 1
+    "2300 BLOCK LANDMARK DR": 1,
+    "US HIGHWAY 19 N / NE COACHMAN RD": 1
   },
   "hourly_distribution": {
     "0": 37,
@@ -788,7 +789,7 @@
     "15": 105,
     "16": 97,
     "17": 81,
-    "18": 62,
+    "18": 64,
     "19": 12,
     "20": 22,
     "21": 23,
@@ -796,7 +797,7 @@
     "23": 30
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-04T23:42:12.919118+00:00",
+  "last_updated": "2025-12-04T23:49:45.269499+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 428
+  "total_snapshots": 429
 }
