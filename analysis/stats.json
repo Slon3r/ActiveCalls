@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 1205,
+  "total_calls_tracked": 1207,
   "total_resolved": 1201,
   "call_types": {
-    "DIRECTED PATROL": 424,
+    "DIRECTED PATROL": 426,
     "TRAFFIC STOP": 177,
     "DRUNK DRIVER": 4,
     "DISTURBANCE": 23,
@@ -69,7 +69,7 @@
     "1900 BLOCK UNION ST": 2,
     "200 BLOCK DREW ST": 5,
     "-800 BLOCK 819 NARCISSUS AVE": 2,
-    "0 BLOCK ISLAND WAY": 5,
+    "0 BLOCK ISLAND WAY": 6,
     "US HIGHWAY 19 N / SR 580": 3,
     "400 BLOCK S GULFVIEW BLVD": 5,
     "100 BLOCK S MYRTLE AVE": 3,
@@ -464,7 +464,7 @@
     "COUNTRYSIDE BLVD / US HIGHWAY 19 N": 1,
     "CLEARWATER PASS": 1,
     "1100 BLOCK MANDALAY POINT RD": 1,
-    "THIRD ST / HAMDEN DR": 1,
+    "THIRD ST / HAMDEN DR": 2,
     "PUBLIX": 1,
     "800 BLOCK CHESTNUT ST": 1,
     "1500 BLOCK MURRAY AVE": 2,
@@ -717,7 +717,7 @@
     "2": 27,
     "3": 27,
     "4": 13,
-    "5": 35,
+    "5": 37,
     "6": 38,
     "7": 31,
     "8": 69,
@@ -738,7 +738,7 @@
     "23": 30
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-04T10:56:41.605872+00:00",
+  "last_updated": "2025-12-04T11:17:51.680048+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 387
+  "total_snapshots": 388
 }

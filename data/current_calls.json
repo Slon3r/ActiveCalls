@@ -23,8 +23,20 @@
       "Online_Description": "DIRECTED PATROL",
       "Address": "1600 BLOCK GULF BLVD",
       "Response_Date": "2025-12-04T05:25:02"
+    },
+    {
+      "Master_Incident_Number": "120425-00049",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "0 BLOCK ISLAND WAY",
+      "Response_Date": "2025-12-04T05:46:46"
+    },
+    {
+      "Master_Incident_Number": "120425-00050",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "THIRD ST / HAMDEN DR",
+      "Response_Date": "2025-12-04T05:48:35"
     }
   ],
-  "timestamp": "2025-12-04T10:56:41.604115+00:00",
-  "count": 4
+  "timestamp": "2025-12-04T11:17:51.678265+00:00",
+  "count": 6
 }

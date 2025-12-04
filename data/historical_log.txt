@@ -5698,3 +5698,12 @@ TOTAL ACTIVE CALLS: 4
 [NEW] 120425-00042 | DIRECTED PATROL | 200 BLOCK DREW ST | Response: 05:06 AM
 [NEW] 120425-00044 | ALARM | 2400 BLOCK GULF TO BAY BLVD | Response: 05:10 AM
 [NEW] 120425-00047 | DIRECTED PATROL | 1600 BLOCK GULF BLVD | Response: 05:25 AM
+
+================================================================================
+TIMESTAMP: 2025-12-04T11:17:51.678265+00:00
+TOTAL ACTIVE CALLS: 6
+================================================================================
+
+--- NEW CALLS (2) ---
+[NEW] 120425-00049 | DIRECTED PATROL | 0 BLOCK ISLAND WAY | Response: 05:46 AM
+[NEW] 120425-00050 | DIRECTED PATROL | THIRD ST / HAMDEN DR | Response: 05:48 AM
