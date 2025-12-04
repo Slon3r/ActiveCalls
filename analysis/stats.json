@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 1316,
-  "total_resolved": 1309,
+  "total_calls_tracked": 1321,
+  "total_resolved": 1311,
   "call_types": {
-    "DIRECTED PATROL": 461,
-    "TRAFFIC STOP": 196,
+    "DIRECTED PATROL": 464,
+    "TRAFFIC STOP": 198,
     "DRUNK DRIVER": 4,
     "DISTURBANCE": 26,
     "BATTERY": 6,
@@ -246,7 +246,7 @@
     "600 BLOCK S MARTIN LUTHER KING JR AVE": 2,
     "MCMULLEN BOOTH RD / DREW ST": 1,
     "2000 BLOCK MADRID CT N": 1,
-    "BAYSIDE BRG / BAYSIDE BRG SERVICE RD": 1,
+    "BAYSIDE BRG / BAYSIDE BRG SERVICE RD": 2,
     "800 BLOCK S MISSOURI AVE": 1,
     "-500 BLOCK 699 S GULFVIEW BLVD": 1,
     "1000 BLOCK MARSHALL ST": 2,
@@ -415,7 +415,7 @@
     "US HIGHWAY 19 N / NURSERY RD": 3,
     "18900 BLOCK US HIGHWAY 19 N": 2,
     "400 BLOCK BAY AVE": 2,
-    "GULF TO BAY BLVD / US HIGHWAY 19 N": 4,
+    "GULF TO BAY BLVD / US HIGHWAY 19 N": 5,
     "1400 BLOCK GULF BLVD": 2,
     "900 BLOCK NARCISSUS AVE": 1,
     "GARDEN AVE/ CLEVELAND ST": 1,
@@ -747,7 +747,10 @@
     "500 BLOCK N MADISON AVE": 1,
     "0 BLOCK 249 FAIRWOOD AVE": 1,
     "200 BLOCK N BELCHER RD": 1,
-    "MEASE DR / MCMULLEN BOOTH RD": 1
+    "MEASE DR / MCMULLEN BOOTH RD": 1,
+    "2800 BLOCK CHELSEA PL N": 1,
+    "NE COACHMAN RD / OLD COACHMAN RD": 1,
+    "3000 BLOCK ENTERPRISE RD E": 1
   },
   "hourly_distribution": {
     "0": 37,
@@ -765,7 +768,7 @@
     "12": 87,
     "13": 91,
     "14": 103,
-    "15": 92,
+    "15": 97,
     "16": 83,
     "17": 69,
     "18": 57,
@@ -776,7 +779,7 @@
     "23": 30
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-04T20:47:59.666830+00:00",
+  "last_updated": "2025-12-04T20:57:13.187725+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 416
+  "total_snapshots": 417
 }
