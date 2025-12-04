@@ -5679,3 +5679,11 @@ TOTAL ACTIVE CALLS: 1
 
 --- NEW CALLS (1) ---
 [NEW] 120425-00036 | DIRECTED PATROL | 0 BLOCK ACACIA ST | Response: 04:58 AM
+
+================================================================================
+TIMESTAMP: 2025-12-04T10:45:06.184749+00:00
+TOTAL ACTIVE CALLS: 0
+================================================================================
+
+--- RESOLVED CALLS (1) ---
+[RESOLVED] 120425-00036 | DIRECTED PATROL | 0 BLOCK ACACIA ST | Response: 04:58 AM
