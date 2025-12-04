@@ -1,16 +1,16 @@
 {
-  "total_calls_tracked": 1343,
-  "total_resolved": 1334,
+  "total_calls_tracked": 1347,
+  "total_resolved": 1335,
   "call_types": {
-    "DIRECTED PATROL": 472,
-    "TRAFFIC STOP": 200,
+    "DIRECTED PATROL": 473,
+    "TRAFFIC STOP": 201,
     "DRUNK DRIVER": 4,
     "DISTURBANCE": 26,
     "BATTERY": 6,
     "CRIMINAL MISCHIEF": 6,
     "ALARM": 16,
     "KEEP THE PEACE": 20,
-    "WELFARE CHECK": 29,
+    "WELFARE CHECK": 30,
     "PARK WALK AND TALK": 105,
     "SUSPICIOUS PERSON": 56,
     "TRESPASS": 36,
@@ -18,7 +18,7 @@
     "THEFT": 20,
     "NEIGHBOR CALL": 7,
     "911 HANG-UP": 43,
-    "SUSPICIOUS VEHICLE": 10,
+    "SUSPICIOUS VEHICLE": 11,
     "PANHANDLER/SOLICITOR": 3,
     "VEHICLE ILLEGALLY PARKED": 4,
     "SUSPICIOUS EVENT": 24,
@@ -116,7 +116,7 @@
     "27000 BLOCK US HIGHWAY 19 N": 12,
     "DRIVEWAY PARKING": 2,
     "1100 BLOCK GULF BLVD": 4,
-    "2500 BLOCK GULF TO BAY BLVD": 6,
+    "2500 BLOCK GULF TO BAY BLVD": 7,
     "1600 BLOCK N MCMULLEN BOOTH RD": 1,
     "1200 BLOCK DREW ST": 2,
     "2400 BLOCK DREW ST": 4,
@@ -175,7 +175,7 @@
     "1200 BLOCK GROVE ST": 1,
     "0 BLOCK OLD COACHMAN RD": 1,
     "STOCKWOOD DR / LANDMARK DR": 1,
-    "1400 BLOCK SUNSET POINT RD": 3,
+    "1400 BLOCK SUNSET POINT RD": 4,
     "-1400 BLOCK 1486 OTTEN ST": 1,
     "2800 BLOCK GLORIA CT": 3,
     "DREW ST / N BELCHER RD": 5,
@@ -523,7 +523,7 @@
     "300 BLOCK S HAMDEN DR": 1,
     "1300 BLOCK WOODBINE ST": 1,
     "N KEENE RD / FLAGLER DR": 2,
-    "23200 BLOCK US HIGHWAY 19 N": 1,
+    "23200 BLOCK US HIGHWAY 19 N": 2,
     "900 BLOCK COURT ST": 2,
     "GULF TO BAY BLVD / THORNTON RD": 1,
     "1100 BLOCK WOODLAWN ST": 1,
@@ -758,7 +758,8 @@
     "DREW ST / N OSCEOLA AVE": 1,
     "1400 BLOCK OVERLEA ST": 1,
     "19000 BLOCK US HIGHWAY 19 N": 1,
-    "FARRIER TRL / OLD COACHMAN RD": 1
+    "FARRIER TRL / OLD COACHMAN RD": 1,
+    "HAMLET AVE / LAKEVIEW RD": 1
   },
   "hourly_distribution": {
     "0": 37,
@@ -778,7 +779,7 @@
     "14": 103,
     "15": 105,
     "16": 96,
-    "17": 70,
+    "17": 74,
     "18": 57,
     "19": 12,
     "20": 22,
@@ -787,7 +788,7 @@
     "23": 30
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-04T22:32:41.037523+00:00",
+  "last_updated": "2025-12-04T22:45:11.508485+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 423
+  "total_snapshots": 424
 }
