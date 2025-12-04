@@ -2658,6 +2658,66 @@
           "Response_Date": "2025-12-04T17:25:51"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-04T23:10:16.211200+00:00",
+      "call_count": 9,
+      "calls": [
+        {
+          "Master_Incident_Number": "120425-00347",
+          "Online_Description": "ASSAULT",
+          "Address": "24800 BLOCK US HIGHWAY 19 N",
+          "Response_Date": "2025-12-04T15:50:26"
+        },
+        {
+          "Master_Incident_Number": "120425-00356",
+          "Online_Description": "DOMESTIC",
+          "Address": "27000 BLOCK US HIGHWAY 19 N",
+          "Response_Date": "2025-12-04T16:00:13"
+        },
+        {
+          "Master_Incident_Number": "120425-00377",
+          "Online_Description": "KEEP THE PEACE",
+          "Address": "1400 BLOCK OVERLEA ST",
+          "Response_Date": "2025-12-04T16:30:08"
+        },
+        {
+          "Master_Incident_Number": "120425-00394",
+          "Online_Description": "ORDINANCE VIOLATION",
+          "Address": "700 BLOCK N SATURN AVE",
+          "Response_Date": "2025-12-04T16:55:04"
+        },
+        {
+          "Master_Incident_Number": "120425-00399",
+          "Online_Description": "WELFARE CHECK",
+          "Address": "1400 BLOCK SUNSET POINT RD",
+          "Response_Date": "2025-12-04T17:09:56"
+        },
+        {
+          "Master_Incident_Number": "120425-00404",
+          "Online_Description": "TRAFFIC CRASH",
+          "Address": "400 BLOCK MANDALAY AVE",
+          "Response_Date": "2025-12-04T17:24:12"
+        },
+        {
+          "Master_Incident_Number": "120425-00406",
+          "Online_Description": "DISTURBANCE",
+          "Address": "2700 BLOCK GULF TO BAY BLVD",
+          "Response_Date": "2025-12-04T17:25:51"
+        },
+        {
+          "Master_Incident_Number": "120425-00412",
+          "Online_Description": "DISTURBANCE",
+          "Address": "1500 BLOCK CHATEAUX DE VILLE CT",
+          "Response_Date": "2025-12-04T17:34:30"
+        },
+        {
+          "Master_Incident_Number": "120425-00417",
+          "Online_Description": "TRAFFIC CRASH",
+          "Address": "MCMULLEN BOOTH RD / ENTERPRISE RD E",
+          "Response_Date": "2025-12-04T17:49:41"
+        }
+      ]
     }
   ]
 }
