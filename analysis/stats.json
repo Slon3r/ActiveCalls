@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 1304,
-  "total_resolved": 1296,
+  "total_calls_tracked": 1306,
+  "total_resolved": 1300,
   "call_types": {
-    "DIRECTED PATROL": 454,
+    "DIRECTED PATROL": 456,
     "TRAFFIC STOP": 193,
     "DRUNK DRIVER": 4,
     "DISTURBANCE": 26,
@@ -455,7 +455,7 @@
     "1400 BLOCK GROVE CIRCLE CT": 2,
     "1600 BLOCK MISTY PLATEAU TRL": 1,
     "BAYMONT ST / MANDALAY AVE": 1,
-    "3300 BLOCK SAN GABRIEL ST": 1,
+    "3300 BLOCK SAN GABRIEL ST": 2,
     "700 BLOCK ISLAND WAY": 1,
     "1100 BLOCK LAKEVIEW RD": 1,
     "21400 BLOCK US HIGHWAY 19 N": 3,
@@ -745,7 +745,8 @@
     "COUNTRYSIDE BLVD / BRAELOCH CIR W": 1,
     "2300 BLOCK SUNSET POINT RD": 1,
     "500 BLOCK N MADISON AVE": 1,
-    "0 BLOCK 249 FAIRWOOD AVE": 1
+    "0 BLOCK 249 FAIRWOOD AVE": 1,
+    "200 BLOCK N BELCHER RD": 1
   },
   "hourly_distribution": {
     "0": 37,
@@ -762,7 +763,7 @@
     "11": 89,
     "12": 87,
     "13": 91,
-    "14": 100,
+    "14": 102,
     "15": 83,
     "16": 83,
     "17": 69,
@@ -774,7 +775,7 @@
     "23": 30
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-04T19:52:03.062915+00:00",
+  "last_updated": "2025-12-04T20:00:35.105273+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 413
+  "total_snapshots": 414
 }

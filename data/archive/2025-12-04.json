@@ -1956,6 +1956,48 @@
           "Response_Date": "2025-12-04T14:30:20"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-04T20:00:35.101846+00:00",
+      "call_count": 6,
+      "calls": [
+        {
+          "Master_Incident_Number": "120425-00297",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "3300 BLOCK SAN GABRIEL ST",
+          "Response_Date": "2025-12-04T14:37:59.947"
+        },
+        {
+          "Master_Incident_Number": "120425-00226",
+          "Online_Description": "FRAUD",
+          "Address": "1900 BLOCK E SKYLINE DR",
+          "Response_Date": "2025-12-04T12:36:19"
+        },
+        {
+          "Master_Incident_Number": "120425-00283",
+          "Online_Description": "ASSIST OTHER AGENCY",
+          "Address": "500 BLOCK N MADISON AVE",
+          "Response_Date": "2025-12-04T14:03:20"
+        },
+        {
+          "Master_Incident_Number": "120425-00288",
+          "Online_Description": "PARK WALK AND TALK",
+          "Address": "1000 BLOCK GULF BLVD",
+          "Response_Date": "2025-12-04T14:18:43"
+        },
+        {
+          "Master_Incident_Number": "120425-00291",
+          "Online_Description": "SCHOOL CROSSING",
+          "Address": "0 BLOCK 249 FAIRWOOD AVE",
+          "Response_Date": "2025-12-04T14:22:19"
+        },
+        {
+          "Master_Incident_Number": "120425-00299",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "200 BLOCK N BELCHER RD",
+          "Response_Date": "2025-12-04T14:36:02"
+        }
+      ]
     }
   ]
 }
