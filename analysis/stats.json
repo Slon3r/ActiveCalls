@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 1221,
-  "total_resolved": 1215,
+  "total_calls_tracked": 1225,
+  "total_resolved": 1216,
   "call_types": {
-    "DIRECTED PATROL": 433,
+    "DIRECTED PATROL": 435,
     "TRAFFIC STOP": 179,
     "DRUNK DRIVER": 4,
     "DISTURBANCE": 23,
@@ -50,7 +50,8 @@
     "FIGHT": 1,
     "CHILD PROTECTION INVESTIGATION": 2,
     "DRUNK PEDESTRIAN": 2,
-    "ASSAULT": 1
+    "ASSAULT": 1,
+    "PERSON DOWN": 2
   },
   "addresses": {
     "MEMORIAL CSWY / ISLAND WAY": 15,
@@ -90,7 +91,7 @@
     "2100 BLOCK GULF TO BAY BLVD": 12,
     "1300 BLOCK CLEVELAND ST": 8,
     "2100 BLOCK BELCHER RD": 1,
-    "SAND KEY PARK ENTRANCE": 4,
+    "SAND KEY PARK ENTRANCE": 5,
     "S MISSOURI AVE / LAKEVIEW RD": 3,
     "23100 BLOCK US HIGHWAY 19 N": 5,
     "1200 BLOCK N BETTY LN": 1,
@@ -393,7 +394,7 @@
     "DREW ST / US HIGHWAY 19 N": 1,
     "1300 BLOCK N MARTIN LUTHER KING JR AVE": 4,
     "N BELCHER RD / OLD COACHMAN RD": 1,
-    "600 BLOCK S FORT HARRISON AVE": 4,
+    "600 BLOCK S FORT HARRISON AVE": 5,
     "MONTCLAIR RD / N BELCHER RD": 1,
     "MCMULLEN BOOTH RD / RUTH ECKERD HALL DR": 1,
     "GULF TO BAY BLVD / MCMULLEN BOOTH RD S": 4,
@@ -713,7 +714,9 @@
     "N GARDEN AVE / DREW ST": 1,
     "-400 BLOCK 499 POINSETTIA AVE": 1,
     "BAYVIEW AVE / GULF TO BAY BLVD": 1,
-    "N BELCHER RD / DREW ST": 1
+    "N BELCHER RD / DREW ST": 1,
+    "2500 BLOCK KNOTTY PINE WAY": 1,
+    "400 BLOCK TURNER ST": 1
   },
   "hourly_distribution": {
     "0": 37,
@@ -724,7 +727,7 @@
     "5": 37,
     "6": 43,
     "7": 34,
-    "8": 74,
+    "8": 78,
     "9": 77,
     "10": 73,
     "11": 77,
@@ -742,7 +745,7 @@
     "23": 30
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-04T13:41:44.343056+00:00",
+  "last_updated": "2025-12-04T13:57:03.481634+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 394
+  "total_snapshots": 395
 }
