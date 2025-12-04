@@ -486,6 +486,24 @@
           "Response_Date": "2025-12-04T00:43:46"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-04T06:54:23.452640+00:00",
+      "call_count": 2,
+      "calls": [
+        {
+          "Master_Incident_Number": "120325-00565",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "DREW ST / N BELCHER RD",
+          "Response_Date": "2025-12-03T20:32:34"
+        },
+        {
+          "Master_Incident_Number": "120425-00009",
+          "Online_Description": "BATTERY",
+          "Address": "27000 BLOCK US HIGHWAY 19 N",
+          "Response_Date": "2025-12-04T00:12:08"
+        }
+      ]
     }
   ]
 }
