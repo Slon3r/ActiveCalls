@@ -1830,6 +1830,78 @@
           "Response_Date": "2025-12-04T14:03:20"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-04T19:43:46.520894+00:00",
+      "call_count": 11,
+      "calls": [
+        {
+          "Master_Incident_Number": "120425-00226",
+          "Online_Description": "FRAUD",
+          "Address": "1900 BLOCK E SKYLINE DR",
+          "Response_Date": "2025-12-04T12:36:19"
+        },
+        {
+          "Master_Incident_Number": "120425-00263",
+          "Online_Description": "ASSIST CITIZEN",
+          "Address": "2300 BLOCK SUNSET POINT RD",
+          "Response_Date": "2025-12-04T13:28:00"
+        },
+        {
+          "Master_Incident_Number": "120425-00267",
+          "Online_Description": "ASSIST CITIZEN",
+          "Address": "2000 BLOCK GULF TO BAY BLVD",
+          "Response_Date": "2025-12-04T13:30:58"
+        },
+        {
+          "Master_Incident_Number": "120425-00271",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "400 BLOCK POINSETTIA AVE",
+          "Response_Date": "2025-12-04T13:41:02"
+        },
+        {
+          "Master_Incident_Number": "120425-00273",
+          "Online_Description": "TRESPASS",
+          "Address": "2900 BLOCK GULF TO BAY BLVD",
+          "Response_Date": "2025-12-04T13:45:19"
+        },
+        {
+          "Master_Incident_Number": "120425-00278",
+          "Online_Description": "HAZARD",
+          "Address": "0 BLOCK BAY ESPLANADE",
+          "Response_Date": "2025-12-04T13:58:24"
+        },
+        {
+          "Master_Incident_Number": "120425-00283",
+          "Online_Description": "ASSIST OTHER AGENCY",
+          "Address": "500 BLOCK N MADISON AVE",
+          "Response_Date": "2025-12-04T14:03:20"
+        },
+        {
+          "Master_Incident_Number": "120425-00288",
+          "Online_Description": "PARK WALK AND TALK",
+          "Address": "1000 BLOCK GULF BLVD",
+          "Response_Date": "2025-12-04T14:18:43"
+        },
+        {
+          "Master_Incident_Number": "120425-00289",
+          "Online_Description": "ASSIST CITIZEN",
+          "Address": "400 BLOCK CORBETT ST",
+          "Response_Date": "2025-12-04T14:19:08"
+        },
+        {
+          "Master_Incident_Number": "120425-00291",
+          "Online_Description": "SCHOOL CROSSING",
+          "Address": "0 BLOCK 249 FAIRWOOD AVE",
+          "Response_Date": "2025-12-04T14:22:19"
+        },
+        {
+          "Master_Incident_Number": "120425-00292",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "GULF TO BAY BLVD / US HIGHWAY 19 N",
+          "Response_Date": "2025-12-04T14:22:20"
+        }
+      ]
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 1297,
+  "total_calls_tracked": 1301,
   "total_resolved": 1290,
   "call_types": {
     "DIRECTED PATROL": 453,
-    "TRAFFIC STOP": 192,
+    "TRAFFIC STOP": 193,
     "DRUNK DRIVER": 4,
     "DISTURBANCE": 26,
     "BATTERY": 6,
@@ -11,7 +11,7 @@
     "ALARM": 16,
     "KEEP THE PEACE": 19,
     "WELFARE CHECK": 28,
-    "PARK WALK AND TALK": 102,
+    "PARK WALK AND TALK": 103,
     "SUSPICIOUS PERSON": 54,
     "TRESPASS": 35,
     "PROPERTY FOUND/LOST": 6,
@@ -24,7 +24,7 @@
     "SUSPICIOUS EVENT": 23,
     "TRAFFIC CRASH": 54,
     "DISABLED VEHICLE": 13,
-    "ASSIST CITIZEN": 39,
+    "ASSIST CITIZEN": 40,
     "ASSIST OTHER AGENCY": 18,
     "FIRE": 2,
     "FRAUD": 12,
@@ -43,7 +43,7 @@
     "BURGLARY": 5,
     "SHOTS FIRED": 1,
     "HIT & RUN": 9,
-    "SCHOOL CROSSING": 4,
+    "SCHOOL CROSSING": 5,
     "ORDINANCE VIOLATION": 3,
     "ABANDONED VEHICLE": 4,
     "CHILD ABUSE": 2,
@@ -84,7 +84,7 @@
     "FLUSHING AVE / HARN BLVD": 1,
     "S BELCHER RD / BARCELONA DR": 1,
     "-1400 BLOCK 1417 S MISSOURI AVE": 1,
-    "1000 BLOCK GULF BLVD": 16,
+    "1000 BLOCK GULF BLVD": 17,
     "1400 BLOCK LAURA ST": 3,
     "ENTERPRISE RD E / VILLAGE DR": 2,
     "GULF TO BAY BLVD / HAMPTON RD": 1,
@@ -415,7 +415,7 @@
     "US HIGHWAY 19 N / NURSERY RD": 3,
     "18900 BLOCK US HIGHWAY 19 N": 2,
     "400 BLOCK BAY AVE": 2,
-    "GULF TO BAY BLVD / US HIGHWAY 19 N": 3,
+    "GULF TO BAY BLVD / US HIGHWAY 19 N": 4,
     "1400 BLOCK GULF BLVD": 2,
     "900 BLOCK NARCISSUS AVE": 1,
     "GARDEN AVE/ CLEVELAND ST": 1,
@@ -729,7 +729,7 @@
     "KENDALL ST / MANDALAY AVE": 1,
     "100 BLOCK S FERNWOOD AVE": 1,
     "2500 BLOCK STAG RUN BLVD": 1,
-    "400 BLOCK CORBETT ST": 1,
+    "400 BLOCK CORBETT ST": 2,
     "S MADISON AVE/CLEVELAND ST": 1,
     "900 BLOCK MCMULLEN BOOTH RD": 1,
     "2700 BLOCK UNION ST": 1,
@@ -744,7 +744,8 @@
     "100 BLOCK PIERCE ST": 1,
     "COUNTRYSIDE BLVD / BRAELOCH CIR W": 1,
     "2300 BLOCK SUNSET POINT RD": 1,
-    "500 BLOCK N MADISON AVE": 1
+    "500 BLOCK N MADISON AVE": 1,
+    "0 BLOCK 249 FAIRWOOD AVE": 1
   },
   "hourly_distribution": {
     "0": 37,
@@ -761,7 +762,7 @@
     "11": 89,
     "12": 87,
     "13": 91,
-    "14": 93,
+    "14": 97,
     "15": 83,
     "16": 83,
     "17": 69,
@@ -773,7 +774,7 @@
     "23": 30
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-04T19:32:22.253592+00:00",
+  "last_updated": "2025-12-04T19:43:46.524052+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 411
+  "total_snapshots": 412
 }

@@ -41,8 +41,32 @@
       "Online_Description": "ASSIST OTHER AGENCY",
       "Address": "500 BLOCK N MADISON AVE",
       "Response_Date": "2025-12-04T14:03:20"
+    },
+    {
+      "Master_Incident_Number": "120425-00288",
+      "Online_Description": "PARK WALK AND TALK",
+      "Address": "1000 BLOCK GULF BLVD",
+      "Response_Date": "2025-12-04T14:18:43"
+    },
+    {
+      "Master_Incident_Number": "120425-00289",
+      "Online_Description": "ASSIST CITIZEN",
+      "Address": "400 BLOCK CORBETT ST",
+      "Response_Date": "2025-12-04T14:19:08"
+    },
+    {
+      "Master_Incident_Number": "120425-00291",
+      "Online_Description": "SCHOOL CROSSING",
+      "Address": "0 BLOCK 249 FAIRWOOD AVE",
+      "Response_Date": "2025-12-04T14:22:19"
+    },
+    {
+      "Master_Incident_Number": "120425-00292",
+      "Online_Description": "TRAFFIC STOP",
+      "Address": "GULF TO BAY BLVD / US HIGHWAY 19 N",
+      "Response_Date": "2025-12-04T14:22:20"
     }
   ],
-  "timestamp": "2025-12-04T19:32:22.250545+00:00",
-  "count": 7
+  "timestamp": "2025-12-04T19:43:46.520894+00:00",
+  "count": 11
 }
