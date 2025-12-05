@@ -7258,3 +7258,12 @@ TOTAL ACTIVE CALLS: 9
 
 --- RESOLVED CALLS (1) ---
 [RESOLVED] 120525-00352 | PARK WALK AND TALK | 1200 BLOCK GULF BLVD | Response: 03:11 PM
+
+================================================================================
+TIMESTAMP: 2025-12-05T20:59:12.161065+00:00
+TOTAL ACTIVE CALLS: 7
+================================================================================
+
+--- RESOLVED CALLS (2) ---
+[RESOLVED] 120525-00266 | CRIMINAL MISCHIEF | 100 BLOCK KILMER AVE | Response: 12:29 PM
+[RESOLVED] 120525-00343 | ASSIST CITIZEN | 100 BLOCK ISLAND WAY | Response: 02:51 PM
