@@ -1423,6 +1423,72 @@
           "Response_Date": "2025-12-05T10:21:11"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-05T15:53:20.630449+00:00",
+      "call_count": 10,
+      "calls": [
+        {
+          "Master_Incident_Number": "120525-00075",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "200 BLOCK S GLENWOOD AVE",
+          "Response_Date": "2025-12-05T10:25:47.617"
+        },
+        {
+          "Master_Incident_Number": "120525-00130",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "MORNINGSIDE DR / CARDINAL DR",
+          "Response_Date": "2025-12-05T07:21:56"
+        },
+        {
+          "Master_Incident_Number": "120525-00178",
+          "Online_Description": "THEFT",
+          "Address": "2700 BLOCK REGENCY OAKS BLVD",
+          "Response_Date": "2025-12-05T09:03:34"
+        },
+        {
+          "Master_Incident_Number": "120525-00181",
+          "Online_Description": "ANIMAL CASE",
+          "Address": "2700 BLOCK SR 580",
+          "Response_Date": "2025-12-05T09:04:21"
+        },
+        {
+          "Master_Incident_Number": "120525-00196",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "1000 BLOCK GULF BLVD",
+          "Response_Date": "2025-12-05T09:41:20"
+        },
+        {
+          "Master_Incident_Number": "120525-00211",
+          "Online_Description": "911 HANG-UP",
+          "Address": "1600 BLOCK FULTON AVE",
+          "Response_Date": "2025-12-05T10:21:26"
+        },
+        {
+          "Master_Incident_Number": "120525-00212",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "600 BLOCK COURT ST",
+          "Response_Date": "2025-12-05T10:22:21"
+        },
+        {
+          "Master_Incident_Number": "120525-00214",
+          "Online_Description": "PARK WALK AND TALK",
+          "Address": "1100 BLOCK ENGMAN ST",
+          "Response_Date": "2025-12-05T10:25:12"
+        },
+        {
+          "Master_Incident_Number": "120525-00215",
+          "Online_Description": "TRESPASS",
+          "Address": "200 BLOCK N BELCHER RD",
+          "Response_Date": "2025-12-05T10:28:46"
+        },
+        {
+          "Master_Incident_Number": "120525-00217",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "2000 BLOCK GULF TO BAY BLVD",
+          "Response_Date": "2025-12-05T10:31:17"
+        }
+      ]
     }
   ]
 }
