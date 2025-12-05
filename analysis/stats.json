@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 1419,
-  "total_resolved": 1418,
+  "total_calls_tracked": 1422,
+  "total_resolved": 1419,
   "call_types": {
-    "DIRECTED PATROL": 491,
+    "DIRECTED PATROL": 492,
     "TRAFFIC STOP": 212,
     "DRUNK DRIVER": 4,
     "DISTURBANCE": 32,
@@ -11,8 +11,8 @@
     "ALARM": 17,
     "KEEP THE PEACE": 22,
     "WELFARE CHECK": 31,
-    "PARK WALK AND TALK": 108,
-    "SUSPICIOUS PERSON": 58,
+    "PARK WALK AND TALK": 109,
+    "SUSPICIOUS PERSON": 59,
     "TRESPASS": 37,
     "PROPERTY FOUND/LOST": 6,
     "THEFT": 20,
@@ -183,7 +183,7 @@
     "DREW ST / N BELCHER RD": 5,
     "900 BLOCK GULF BLVD": 2,
     "POINSETTIA AVE / PAPAYA ST": 1,
-    "600 BLOCK CLEVELAND ST": 5,
+    "600 BLOCK CLEVELAND ST": 6,
     "HAMDEN DR / CORONADO DR": 1,
     "2900 BLOCK SWEETGUM WAY S": 1,
     "18600 BLOCK US HIGHWAY 19 N": 1,
@@ -203,7 +203,7 @@
     "1000 BLOCK N MADISON AVE": 1,
     "2800 BLOCK DREW ST": 2,
     "US HIGHWAY 19 N / GULF TO BAY BLVD": 1,
-    "300 BLOCK CORONADO DR": 11,
+    "300 BLOCK CORONADO DR": 12,
     "23600 BLOCK US HIGHWAY 19 N": 4,
     "300 BLOCK MANDALAY AVE": 1,
     "JONES ST / FERN AVE": 1,
@@ -790,7 +790,8 @@
     "1800 BLOCK N BETTY LANE": 1,
     "-1700 BLOCK 1798 CLEVELAND ST": 1,
     "1100 BLOCK S MYRTLE AVE": 1,
-    "1500 BLOCK GULF TO BAY BLVD": 2
+    "1500 BLOCK GULF TO BAY BLVD": 2,
+    "-600 BLOCK 617 MANDALAY AVE": 1
   },
   "hourly_distribution": {
     "0": 47,
@@ -799,7 +800,7 @@
     "3": 29,
     "4": 13,
     "5": 41,
-    "6": 43,
+    "6": 46,
     "7": 34,
     "8": 82,
     "9": 88,
@@ -819,7 +820,7 @@
     "23": 40
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-05T11:13:44.136203+00:00",
+  "last_updated": "2025-12-05T11:29:37.741752+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 457
+  "total_snapshots": 458
 }
