@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 1415,
+  "total_calls_tracked": 1418,
   "total_resolved": 1415,
   "call_types": {
-    "DIRECTED PATROL": 490,
+    "DIRECTED PATROL": 491,
     "TRAFFIC STOP": 211,
     "DRUNK DRIVER": 4,
     "DISTURBANCE": 32,
@@ -11,8 +11,8 @@
     "ALARM": 17,
     "KEEP THE PEACE": 22,
     "WELFARE CHECK": 31,
-    "PARK WALK AND TALK": 107,
-    "SUSPICIOUS PERSON": 57,
+    "PARK WALK AND TALK": 108,
+    "SUSPICIOUS PERSON": 58,
     "TRESPASS": 37,
     "PROPERTY FOUND/LOST": 6,
     "THEFT": 20,
@@ -78,7 +78,7 @@
     "100 BLOCK S MYRTLE AVE": 3,
     "0 BLOCK CAUSEWAY BLVD": 13,
     "400 BLOCK FAIRWOOD AVE": 4,
-    "500 BLOCK S FORT HARRISON AVE": 4,
+    "500 BLOCK S FORT HARRISON AVE": 5,
     "26000 BLOCK US HIGHWAY 19 N": 4,
     "1300 BLOCK S BELCHER RD": 9,
     "200 BLOCK WINDWARD PSGE": 4,
@@ -261,7 +261,7 @@
     "S MISSOURI AVE/COURT ST": 1,
     "1500 BLOCK S MARTIN LUTHER KING JR AVE": 1,
     "3100 BLOCK GULF TO BAY BLVD": 3,
-    "1800 BLOCK N HIGHLAND AVE": 11,
+    "1800 BLOCK N HIGHLAND AVE": 12,
     "BELLEAIR BLVD / US HIGHWAY 19 N": 1,
     "-1200 BLOCK 1353 COURT ST": 3,
     "-500 BLOCK 642 BAY ESPLANADE": 1,
@@ -522,7 +522,7 @@
     "N MARTIN LUTHER KING JR AVE / GRANT ST": 1,
     "N MARTIN LUTHER KING JR AVE / SEMINOLE ST": 1,
     "-100 BLOCK 148 S GULFVIEW BLVD": 1,
-    "300 BLOCK S HAMDEN DR": 1,
+    "300 BLOCK S HAMDEN DR": 2,
     "1300 BLOCK WOODBINE ST": 1,
     "N KEENE RD / FLAGLER DR": 2,
     "23200 BLOCK US HIGHWAY 19 N": 2,
@@ -798,7 +798,7 @@
     "2": 31,
     "3": 29,
     "4": 13,
-    "5": 37,
+    "5": 40,
     "6": 43,
     "7": 34,
     "8": 82,
@@ -819,7 +819,7 @@
     "23": 40
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-05T10:27:13.506833+00:00",
+  "last_updated": "2025-12-05T10:45:44.368470+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 454
+  "total_snapshots": 455
 }

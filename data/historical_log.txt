@@ -6691,3 +6691,13 @@ TOTAL ACTIVE CALLS: 0
 ================================================================================
 
 No changes since last check.
+
+================================================================================
+TIMESTAMP: 2025-12-05T10:45:44.366387+00:00
+TOTAL ACTIVE CALLS: 3
+================================================================================
+
+--- NEW CALLS (3) ---
+[NEW] 120525-00081 | SUSPICIOUS PERSON | 500 BLOCK S FORT HARRISON AVE | Response: 05:15 AM
+[NEW] 120525-00082 | PARK WALK AND TALK | 300 BLOCK S HAMDEN DR | Response: 05:16 AM
+[NEW] 120525-00084 | DIRECTED PATROL | 1800 BLOCK N HIGHLAND AVE | Response: 05:19 AM
