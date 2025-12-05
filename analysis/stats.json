@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 1424,
-  "total_resolved": 1422,
+  "total_calls_tracked": 1426,
+  "total_resolved": 1423,
   "call_types": {
-    "DIRECTED PATROL": 492,
-    "TRAFFIC STOP": 213,
+    "DIRECTED PATROL": 493,
+    "TRAFFIC STOP": 214,
     "DRUNK DRIVER": 4,
     "DISTURBANCE": 32,
     "BATTERY": 6,
@@ -168,7 +168,7 @@
     "FIFTH ST & HAMDEN DR": 1,
     "FIFTH ST / HAMDEN DR": 1,
     "E WORLD PARKWAY BLVD / BELCHER RD": 1,
-    "300 BLOCK CLEVELAND ST": 12,
+    "300 BLOCK CLEVELAND ST": 13,
     "GULF TO BAY BLVD / S LAKE DR": 1,
     "-400 BLOCK BLK BLANCHE B LITTLEJOHN TRL": 1,
     "2600 BLOCK GULF TO BAY BLVD": 8,
@@ -406,7 +406,7 @@
     "1900 BLOCK GULF TO BAY BLVD": 3,
     "22100 BLOCK US HIGHWAY 19 N": 2,
     "SEVILLE BLVD / US HIGHWAY 19 N": 1,
-    "COUNTRYSIDE BLVD / WINDING WOOD DR": 1,
+    "COUNTRYSIDE BLVD / WINDING WOOD DR": 2,
     "WEST AVE / PALM BLUFF ST": 1,
     "N MYRTLE AVE / DREW ST": 1,
     "3000 BLOCK SR 590": 1,
@@ -802,7 +802,7 @@
     "3": 29,
     "4": 13,
     "5": 41,
-    "6": 48,
+    "6": 50,
     "7": 34,
     "8": 82,
     "9": 88,
@@ -822,7 +822,7 @@
     "23": 40
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-05T11:41:47.406924+00:00",
+  "last_updated": "2025-12-05T11:49:57.764825+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 459
+  "total_snapshots": 460
 }
