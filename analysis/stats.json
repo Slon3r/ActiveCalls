@@ -1,6 +1,6 @@
 {
-  "total_calls_tracked": 1497,
-  "total_resolved": 1491,
+  "total_calls_tracked": 1498,
+  "total_resolved": 1494,
   "call_types": {
     "DIRECTED PATROL": 512,
     "TRAFFIC STOP": 223,
@@ -11,7 +11,7 @@
     "ALARM": 19,
     "KEEP THE PEACE": 22,
     "WELFARE CHECK": 32,
-    "PARK WALK AND TALK": 116,
+    "PARK WALK AND TALK": 117,
     "SUSPICIOUS PERSON": 64,
     "TRESPASS": 38,
     "PROPERTY FOUND/LOST": 6,
@@ -827,7 +827,8 @@
     "1900 BLOCK DOUGLAS AVE": 1,
     "BAYSIDE DR/HAMDEN DR": 1,
     "500 BLOCK S MYRTLE AVE": 1,
-    "0 BLOCK S MISSOURI AVE": 1
+    "0 BLOCK S MISSOURI AVE": 1,
+    "3300 BLOCK BLK- MASTERS DR": 1
   },
   "hourly_distribution": {
     "0": 47,
@@ -842,7 +843,7 @@
     "9": 105,
     "10": 103,
     "11": 98,
-    "12": 89,
+    "12": 90,
     "13": 91,
     "14": 103,
     "15": 105,
@@ -856,7 +857,7 @@
     "23": 40
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-05T17:18:05.443262+00:00",
+  "last_updated": "2025-12-05T17:36:42.547186+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 476
+  "total_snapshots": 477
 }
