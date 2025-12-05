@@ -1,6 +1,6 @@
 {
-  "total_calls_tracked": 1535,
-  "total_resolved": 1525,
+  "total_calls_tracked": 1537,
+  "total_resolved": 1531,
   "call_types": {
     "DIRECTED PATROL": 520,
     "TRAFFIC STOP": 229,
@@ -12,7 +12,7 @@
     "KEEP THE PEACE": 22,
     "WELFARE CHECK": 32,
     "PARK WALK AND TALK": 123,
-    "SUSPICIOUS PERSON": 64,
+    "SUSPICIOUS PERSON": 65,
     "TRESPASS": 38,
     "PROPERTY FOUND/LOST": 7,
     "THEFT": 23,
@@ -54,7 +54,8 @@
     "PERSON DOWN": 4,
     "ROBBERY": 1,
     "INJUNCTION VIOLATION": 1,
-    "STALKING": 1
+    "STALKING": 1,
+    "TRAFFIC CONTROL": 1
   },
   "addresses": {
     "MEMORIAL CSWY / ISLAND WAY": 16,
@@ -208,7 +209,7 @@
     "23600 BLOCK US HIGHWAY 19 N": 4,
     "300 BLOCK MANDALAY AVE": 1,
     "JONES ST / FERN AVE": 1,
-    "1600 BLOCK GULF TO BAY BLVD": 6,
+    "1600 BLOCK GULF TO BAY BLVD": 7,
     "1600 BLOCK DARTMOUTH ST": 1,
     "HAMDEN DR / BRIGHTWATER DR": 2,
     "HAMPTON RD / GULF TO BAY BLVD": 2,
@@ -224,7 +225,7 @@
     "1300 BLOCK S FORT HARRISON AVE": 1,
     "HOLT AVE / RUSSELL ST": 1,
     "S GULFVIEW BLVD / SECOND ST": 1,
-    "2500 BLOCK COUNTRYSIDE BLVD": 9,
+    "2500 BLOCK COUNTRYSIDE BLVD": 10,
     "-300 BLOCK 339 CORONADO DR": 1,
     "-600 BLOCK 698 CLEVELAND ST": 1,
     "1500 BLOCK S HIGHLAND AVE": 2,
@@ -865,7 +866,7 @@
     "11": 98,
     "12": 105,
     "13": 105,
-    "14": 111,
+    "14": 113,
     "15": 105,
     "16": 97,
     "17": 81,
@@ -877,7 +878,7 @@
     "23": 40
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-05T19:56:51.489129+00:00",
+  "last_updated": "2025-12-05T20:20:32.310113+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 487
+  "total_snapshots": 488
 }

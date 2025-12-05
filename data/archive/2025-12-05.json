@@ -2359,6 +2359,48 @@
           "Response_Date": "2025-12-05T14:35:49"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-05T20:20:32.306329+00:00",
+      "call_count": 6,
+      "calls": [
+        {
+          "Master_Incident_Number": "120525-00266",
+          "Online_Description": "CRIMINAL MISCHIEF",
+          "Address": "100 BLOCK KILMER AVE",
+          "Response_Date": "2025-12-05T12:29:16"
+        },
+        {
+          "Master_Incident_Number": "120525-00287",
+          "Online_Description": "PROPERTY FOUND/LOST",
+          "Address": "CLEVELAND ST / S SAN REMO AVE",
+          "Response_Date": "2025-12-05T13:13:16"
+        },
+        {
+          "Master_Incident_Number": "120525-00304",
+          "Online_Description": "DOMESTIC",
+          "Address": "2600 BLOCK DREW ST",
+          "Response_Date": "2025-12-05T13:33:10"
+        },
+        {
+          "Master_Incident_Number": "120525-00330",
+          "Online_Description": "TRAFFIC CONTROL",
+          "Address": "2500 BLOCK COUNTRYSIDE BLVD",
+          "Response_Date": "2025-12-05T14:30:16"
+        },
+        {
+          "Master_Incident_Number": "120525-00328",
+          "Online_Description": "PARK WALK AND TALK",
+          "Address": "600 BLOCK BAYWAY BLVD",
+          "Response_Date": "2025-12-05T14:30:35"
+        },
+        {
+          "Master_Incident_Number": "120525-00342",
+          "Online_Description": "SUSPICIOUS PERSON",
+          "Address": "1600 BLOCK GULF TO BAY BLVD",
+          "Response_Date": "2025-12-05T14:50:57"
+        }
+      ]
     }
   ]
 }
