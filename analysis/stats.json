@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 1400,
-  "total_resolved": 1394,
+  "total_calls_tracked": 1403,
+  "total_resolved": 1398,
   "call_types": {
-    "DIRECTED PATROL": 484,
-    "TRAFFIC STOP": 208,
+    "DIRECTED PATROL": 485,
+    "TRAFFIC STOP": 209,
     "DRUNK DRIVER": 4,
     "DISTURBANCE": 31,
     "BATTERY": 6,
@@ -22,7 +22,7 @@
     "PANHANDLER/SOLICITOR": 3,
     "VEHICLE ILLEGALLY PARKED": 4,
     "SUSPICIOUS EVENT": 24,
-    "TRAFFIC CRASH": 60,
+    "TRAFFIC CRASH": 61,
     "DISABLED VEHICLE": 13,
     "ASSIST CITIZEN": 41,
     "ASSIST OTHER AGENCY": 20,
@@ -308,7 +308,7 @@
     "DEVON DR  / CORONADO DR": 2,
     "600 BLOCK OLD COACHMAN RD": 1,
     "DREW ST / PINEWOOD AVE": 1,
-    "2800 BLOCK GULF TO BAY BLVD": 2,
+    "2800 BLOCK GULF TO BAY BLVD": 3,
     "19100 BLOCK US HIGHWAY 19 N": 2,
     "1200 BLOCK S HIGHLAND AVE": 4,
     "1200 BLOCK TURNER ST": 1,
@@ -528,7 +528,7 @@
     "23200 BLOCK US HIGHWAY 19 N": 2,
     "900 BLOCK COURT ST": 2,
     "GULF TO BAY BLVD / THORNTON RD": 1,
-    "1100 BLOCK WOODLAWN ST": 1,
+    "1100 BLOCK WOODLAWN ST": 2,
     "200 BLOCK S STARCREST DR": 1,
     "3000 BLOCK GULF TO BAY BLVD": 2,
     "-2000 BLOCK 2198 PALMETTO ST": 2,
@@ -781,10 +781,11 @@
     "1600 BLOCK PALMETTO STREET": 1,
     "-1900 BLOCK 1998 MAGNOLIA DR": 1,
     "GULF TO BAY BLVD / MEADOW LARK LN": 1,
-    "GULF TO BAY BLVD / MCMULLEN BOOTH RD S SERVICE RD": 1
+    "GULF TO BAY BLVD / MCMULLEN BOOTH RD S SERVICE RD": 1,
+    "US HIGHWAY 19 N / SOUTH DR": 1
   },
   "hourly_distribution": {
-    "0": 43,
+    "0": 45,
     "1": 41,
     "2": 27,
     "3": 27,
@@ -807,10 +808,10 @@
     "20": 24,
     "21": 27,
     "22": 53,
-    "23": 39
+    "23": 40
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-05T05:51:44.077941+00:00",
+  "last_updated": "2025-12-05T05:59:27.648201+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 439
+  "total_snapshots": 440
 }
