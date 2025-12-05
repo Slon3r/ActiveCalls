@@ -1,17 +1,17 @@
 {
-  "total_calls_tracked": 1498,
-  "total_resolved": 1494,
+  "total_calls_tracked": 1501,
+  "total_resolved": 1495,
   "call_types": {
     "DIRECTED PATROL": 512,
     "TRAFFIC STOP": 223,
     "DRUNK DRIVER": 5,
-    "DISTURBANCE": 32,
+    "DISTURBANCE": 33,
     "BATTERY": 6,
     "CRIMINAL MISCHIEF": 6,
     "ALARM": 19,
     "KEEP THE PEACE": 22,
     "WELFARE CHECK": 32,
-    "PARK WALK AND TALK": 117,
+    "PARK WALK AND TALK": 118,
     "SUSPICIOUS PERSON": 64,
     "TRESPASS": 38,
     "PROPERTY FOUND/LOST": 6,
@@ -22,7 +22,7 @@
     "PANHANDLER/SOLICITOR": 3,
     "VEHICLE ILLEGALLY PARKED": 4,
     "SUSPICIOUS EVENT": 27,
-    "TRAFFIC CRASH": 65,
+    "TRAFFIC CRASH": 66,
     "DISABLED VEHICLE": 13,
     "ASSIST CITIZEN": 43,
     "ASSIST OTHER AGENCY": 22,
@@ -114,7 +114,7 @@
     "21200 BLOCK US HIGHWAY 19 N": 4,
     "1700 BLOCK SUNSET POINT RD": 1,
     "2300 BLOCK GULF TO BAY BLVD": 3,
-    "1200 BLOCK CLEVELAND ST": 7,
+    "1200 BLOCK CLEVELAND ST": 8,
     "-500 BLOCK 549 MANDALAY AVE": 1,
     "27000 BLOCK US HIGHWAY 19 N": 12,
     "DRIVEWAY PARKING": 2,
@@ -560,7 +560,7 @@
     "200 BLOCK BAYSIDE DR": 1,
     "2600 BLOCK ENTERPRISE RD E": 4,
     "-2300 BLOCK BLK STAG RUN BLVD": 1,
-    "400 BLOCK CLEVELAND ST": 1,
+    "400 BLOCK CLEVELAND ST": 2,
     "FRANKLIN ST / S HILLCREST AVE": 1,
     "600 BLOCK ALDEN AVE": 1,
     "-500 BLOCK 578 BAY ESPLANADE": 1,
@@ -828,7 +828,8 @@
     "BAYSIDE DR/HAMDEN DR": 1,
     "500 BLOCK S MYRTLE AVE": 1,
     "0 BLOCK S MISSOURI AVE": 1,
-    "3300 BLOCK BLK- MASTERS DR": 1
+    "3300 BLOCK BLK- MASTERS DR": 1,
+    "GULF BLVD / MARINA DEL REY CT": 1
   },
   "hourly_distribution": {
     "0": 47,
@@ -843,7 +844,7 @@
     "9": 105,
     "10": 103,
     "11": 98,
-    "12": 90,
+    "12": 93,
     "13": 91,
     "14": 103,
     "15": 105,
@@ -857,7 +858,7 @@
     "23": 40
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-05T17:36:42.547186+00:00",
+  "last_updated": "2025-12-05T17:47:39.040612+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 477
+  "total_snapshots": 478
 }
