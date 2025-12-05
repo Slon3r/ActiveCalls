@@ -1,6 +1,6 @@
 {
-  "total_calls_tracked": 1454,
-  "total_resolved": 1443,
+  "total_calls_tracked": 1457,
+  "total_resolved": 1446,
   "call_types": {
     "DIRECTED PATROL": 501,
     "TRAFFIC STOP": 218,
@@ -11,13 +11,13 @@
     "ALARM": 17,
     "KEEP THE PEACE": 22,
     "WELFARE CHECK": 31,
-    "PARK WALK AND TALK": 110,
+    "PARK WALK AND TALK": 111,
     "SUSPICIOUS PERSON": 62,
     "TRESPASS": 37,
     "PROPERTY FOUND/LOST": 6,
-    "THEFT": 21,
+    "THEFT": 22,
     "NEIGHBOR CALL": 7,
-    "911 HANG-UP": 48,
+    "911 HANG-UP": 49,
     "SUSPICIOUS VEHICLE": 12,
     "PANHANDLER/SOLICITOR": 3,
     "VEHICLE ILLEGALLY PARKED": 4,
@@ -311,7 +311,7 @@
     "DREW ST / PINEWOOD AVE": 1,
     "2800 BLOCK GULF TO BAY BLVD": 3,
     "19100 BLOCK US HIGHWAY 19 N": 2,
-    "1200 BLOCK S HIGHLAND AVE": 4,
+    "1200 BLOCK S HIGHLAND AVE": 5,
     "1200 BLOCK TURNER ST": 1,
     "THIRD ST / CORONADO DR": 1,
     "900 BLOCK N MCMULLEN BOOTH RD": 1,
@@ -809,7 +809,9 @@
     "S MISSOURI AVE / BELLEVUE BLVD": 1,
     "3200 BLOCK MCMULLEN BOOTH RD": 1,
     "0 BLOCK PARK PLACE BLVD N": 1,
-    "1500 BLOCK MCMULLEN BOOTH RD": 1
+    "1500 BLOCK MCMULLEN BOOTH RD": 1,
+    "700 BLOCK ELDRIDGE ST": 1,
+    "2700 BLOCK REGENCY OAKS BLVD": 1
   },
   "hourly_distribution": {
     "0": 47,
@@ -821,7 +823,7 @@
     "6": 51,
     "7": 46,
     "8": 97,
-    "9": 88,
+    "9": 91,
     "10": 87,
     "11": 89,
     "12": 88,
@@ -838,7 +840,7 @@
     "23": 40
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-05T14:20:05.718163+00:00",
+  "last_updated": "2025-12-05T14:41:18.765958+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 466
+  "total_snapshots": 467
 }

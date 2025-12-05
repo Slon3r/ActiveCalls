@@ -1063,6 +1063,78 @@
           "Response_Date": "2025-12-05T08:56:09"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-05T14:41:18.763473+00:00",
+      "call_count": 11,
+      "calls": [
+        {
+          "Master_Incident_Number": "120525-00146",
+          "Online_Description": "PARK WALK AND TALK",
+          "Address": "1300 BLOCK PARK ST",
+          "Response_Date": "2025-12-05T08:00:31.34"
+        },
+        {
+          "Master_Incident_Number": "120525-00120",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "1000 BLOCK GULF BLVD",
+          "Response_Date": "2025-12-05T07:07:02"
+        },
+        {
+          "Master_Incident_Number": "120525-00130",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "MORNINGSIDE DR / CARDINAL DR",
+          "Response_Date": "2025-12-05T07:21:56"
+        },
+        {
+          "Master_Incident_Number": "120525-00141",
+          "Online_Description": "TRAFFIC CRASH",
+          "Address": "DRUID RD / S PROSPECT AVE",
+          "Response_Date": "2025-12-05T07:47:30"
+        },
+        {
+          "Master_Incident_Number": "120525-00165",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "600 BLOCK DREW ST",
+          "Response_Date": "2025-12-05T08:39:23"
+        },
+        {
+          "Master_Incident_Number": "120525-00170",
+          "Online_Description": "SUSPICIOUS PERSON",
+          "Address": "20500 BLOCK US HIGHWAY 19 N",
+          "Response_Date": "2025-12-05T08:53:03"
+        },
+        {
+          "Master_Incident_Number": "120525-00171",
+          "Online_Description": "SUSPICIOUS EVENT",
+          "Address": "1500 BLOCK MCMULLEN BOOTH RD",
+          "Response_Date": "2025-12-05T08:53:23"
+        },
+        {
+          "Master_Incident_Number": "120525-00172",
+          "Online_Description": "TRAFFIC CRASH",
+          "Address": "S KEENE RD / DRUID RD",
+          "Response_Date": "2025-12-05T08:56:09"
+        },
+        {
+          "Master_Incident_Number": "120525-00177",
+          "Online_Description": "911 HANG-UP",
+          "Address": "700 BLOCK ELDRIDGE ST",
+          "Response_Date": "2025-12-05T09:02:57"
+        },
+        {
+          "Master_Incident_Number": "120525-00178",
+          "Online_Description": "THEFT",
+          "Address": "2700 BLOCK REGENCY OAKS BLVD",
+          "Response_Date": "2025-12-05T09:03:34"
+        },
+        {
+          "Master_Incident_Number": "120525-00184",
+          "Online_Description": "PARK WALK AND TALK",
+          "Address": "1200 BLOCK S HIGHLAND AVE",
+          "Response_Date": "2025-12-05T09:18:57"
+        }
+      ]
     }
   ]
 }
