@@ -7,10 +7,10 @@
       "Response_Date": "2025-12-05T15:29:43"
     },
     {
-      "Master_Incident_Number": "120525-00375",
-      "Online_Description": "SUSPICIOUS PERSON",
-      "Address": "S MARTIN LUTHER KING JR AVE / LAKEVIEW RD",
-      "Response_Date": "2025-12-05T16:04:06"
+      "Master_Incident_Number": "120525-00377",
+      "Online_Description": "ANIMAL CASE",
+      "Address": "1100 BLOCK BELLEAIR RD",
+      "Response_Date": "2025-12-05T16:07:13"
     },
     {
       "Master_Incident_Number": "120525-00387",
@@ -19,20 +19,8 @@
       "Response_Date": "2025-12-05T16:32:47"
     },
     {
-      "Master_Incident_Number": "120525-00391",
-      "Online_Description": "WELFARE CHECK",
-      "Address": "1200 BLOCK DREW ST",
-      "Response_Date": "2025-12-05T16:34:32"
-    },
-    {
-      "Master_Incident_Number": "120525-00395",
-      "Online_Description": "WIRES DOWN",
-      "Address": "CALUMET ST / N BELCHER RD",
-      "Response_Date": "2025-12-05T16:49:23"
-    },
-    {
       "Master_Incident_Number": "120525-00396",
-      "Online_Description": "TRAFFIC STOP",
+      "Online_Description": "DRUNK DRIVER",
       "Address": "S PROSPECT AVE / GRAND CENTRAL ST",
       "Response_Date": "2025-12-05T16:50:02"
     },
@@ -43,30 +31,24 @@
       "Response_Date": "2025-12-05T17:19:09"
     },
     {
-      "Master_Incident_Number": "120525-00409",
-      "Online_Description": "PARK WALK AND TALK",
-      "Address": "1200 BLOCK S HIGHLAND AVE",
-      "Response_Date": "2025-12-05T17:26:31"
-    },
-    {
-      "Master_Incident_Number": "120525-00415",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "-300 BLOCK 499 S MAIN AVE",
-      "Response_Date": "2025-12-05T17:30:15"
-    },
-    {
-      "Master_Incident_Number": "120525-00418",
-      "Online_Description": "PARK WALK AND TALK",
-      "Address": "400 BLOCK CLEVELAND ST",
-      "Response_Date": "2025-12-05T17:33:21"
-    },
-    {
       "Master_Incident_Number": "120525-00421",
       "Online_Description": "PERSON DOWN",
       "Address": "GULF TO BAY BLVD / BAMBOO LN",
       "Response_Date": "2025-12-05T17:36:18"
+    },
+    {
+      "Master_Incident_Number": "120525-00427",
+      "Online_Description": "NEIGHBOR CALL",
+      "Address": "1500 BLOCK RIDGEWOOD ST",
+      "Response_Date": "2025-12-05T17:46:23"
+    },
+    {
+      "Master_Incident_Number": "120525-00429",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "0 BLOCK 45 DEVON DR",
+      "Response_Date": "2025-12-05T17:53:18"
     }
   ],
-  "timestamp": "2025-12-05T23:00:28.221217+00:00",
-  "count": 11
+  "timestamp": "2025-12-05T23:25:30.341472+00:00",
+  "count": 8
 }

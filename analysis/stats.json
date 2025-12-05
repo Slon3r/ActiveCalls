@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 1573,
-  "total_resolved": 1562,
+  "total_calls_tracked": 1576,
+  "total_resolved": 1568,
   "call_types": {
-    "DIRECTED PATROL": 527,
+    "DIRECTED PATROL": 528,
     "TRAFFIC STOP": 235,
     "DRUNK DRIVER": 5,
     "DISTURBANCE": 33,
@@ -16,7 +16,7 @@
     "TRESPASS": 38,
     "PROPERTY FOUND/LOST": 11,
     "THEFT": 23,
-    "NEIGHBOR CALL": 7,
+    "NEIGHBOR CALL": 8,
     "911 HANG-UP": 57,
     "SUSPICIOUS VEHICLE": 12,
     "PANHANDLER/SOLICITOR": 4,
@@ -35,7 +35,7 @@
     "NOISE COMPLAINT": 5,
     "CIVIL MATTER": 11,
     "DOMESTIC": 14,
-    "ANIMAL CASE": 5,
+    "ANIMAL CASE": 6,
     "MISSING PERSON": 19,
     "BUILDING CHECK": 5,
     "SHOPLIFTING": 3,
@@ -239,7 +239,7 @@
     "GULF TO BAY BLVD / S NIMBUS AVE": 1,
     "-300 BLOCK 437 MANDALAY AVE": 1,
     "600 BLOCK LEMBO CIR": 1,
-    "1500 BLOCK RIDGEWOOD ST": 1,
+    "1500 BLOCK RIDGEWOOD ST": 2,
     "2500 BLOCK FOREST RUN CT": 2,
     "1800 BLOCK SUNSET POINT RD": 3,
     "1100 BLOCK GRANT ST": 3,
@@ -867,7 +867,9 @@
     "-2900 BLOCK 2998 MEADOW OAK DR S": 1,
     "1200 BLOCK FRANKLIN ST": 1,
     "21500 BLOCK US HIGHWAY 19 N": 1,
-    "-300 BLOCK 499 S MAIN AVE": 1
+    "-300 BLOCK 499 S MAIN AVE": 1,
+    "1100 BLOCK BELLEAIR RD": 1,
+    "0 BLOCK 45 DEVON DR": 1
   },
   "hourly_distribution": {
     "0": 47,
@@ -886,8 +888,8 @@
     "13": 105,
     "14": 119,
     "15": 116,
-    "16": 107,
-    "17": 90,
+    "16": 108,
+    "17": 92,
     "18": 68,
     "19": 13,
     "20": 24,
@@ -896,7 +898,7 @@
     "23": 40
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-05T23:00:28.225792+00:00",
+  "last_updated": "2025-12-05T23:25:30.346016+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 500
+  "total_snapshots": 501
 }

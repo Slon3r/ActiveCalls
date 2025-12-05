@@ -3011,6 +3011,60 @@
           "Response_Date": "2025-12-05T17:36:18"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-05T23:25:30.341472+00:00",
+      "call_count": 8,
+      "calls": [
+        {
+          "Master_Incident_Number": "120525-00359",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "0 BLOCK PINELLAS TRAIL",
+          "Response_Date": "2025-12-05T15:29:43"
+        },
+        {
+          "Master_Incident_Number": "120525-00377",
+          "Online_Description": "ANIMAL CASE",
+          "Address": "1100 BLOCK BELLEAIR RD",
+          "Response_Date": "2025-12-05T16:07:13"
+        },
+        {
+          "Master_Incident_Number": "120525-00387",
+          "Online_Description": "TRAFFIC CRASH",
+          "Address": "COURT ST / S MARTIN LUTHER KING JR AVE",
+          "Response_Date": "2025-12-05T16:32:47"
+        },
+        {
+          "Master_Incident_Number": "120525-00396",
+          "Online_Description": "DRUNK DRIVER",
+          "Address": "S PROSPECT AVE / GRAND CENTRAL ST",
+          "Response_Date": "2025-12-05T16:50:02"
+        },
+        {
+          "Master_Incident_Number": "120525-00404",
+          "Online_Description": "CHILD PROTECTION INVESTIGATION",
+          "Address": "1200 BLOCK FRANKLIN ST",
+          "Response_Date": "2025-12-05T17:19:09"
+        },
+        {
+          "Master_Incident_Number": "120525-00421",
+          "Online_Description": "PERSON DOWN",
+          "Address": "GULF TO BAY BLVD / BAMBOO LN",
+          "Response_Date": "2025-12-05T17:36:18"
+        },
+        {
+          "Master_Incident_Number": "120525-00427",
+          "Online_Description": "NEIGHBOR CALL",
+          "Address": "1500 BLOCK RIDGEWOOD ST",
+          "Response_Date": "2025-12-05T17:46:23"
+        },
+        {
+          "Master_Incident_Number": "120525-00429",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "0 BLOCK 45 DEVON DR",
+          "Response_Date": "2025-12-05T17:53:18"
+        }
+      ]
     }
   ]
 }
