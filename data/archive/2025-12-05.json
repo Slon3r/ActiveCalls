@@ -3143,6 +3143,72 @@
           "Response_Date": "2025-12-05T18:16:26"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-05T23:45:02.416194+00:00",
+      "call_count": 10,
+      "calls": [
+        {
+          "Master_Incident_Number": "120525-00387",
+          "Online_Description": "TRAFFIC CRASH",
+          "Address": "COURT ST / S MARTIN LUTHER KING JR AVE",
+          "Response_Date": "2025-12-05T16:32:47"
+        },
+        {
+          "Master_Incident_Number": "120525-00398",
+          "Online_Description": "TRAFFIC CRASH",
+          "Address": "2300 BLOCK SUNSET POINT RD",
+          "Response_Date": "2025-12-05T16:48:57"
+        },
+        {
+          "Master_Incident_Number": "120525-00396",
+          "Online_Description": "DRUNK DRIVER",
+          "Address": "S PROSPECT AVE / GRAND CENTRAL ST",
+          "Response_Date": "2025-12-05T16:50:02"
+        },
+        {
+          "Master_Incident_Number": "120525-00404",
+          "Online_Description": "CHILD PROTECTION INVESTIGATION",
+          "Address": "1200 BLOCK FRANKLIN ST",
+          "Response_Date": "2025-12-05T17:19:09"
+        },
+        {
+          "Master_Incident_Number": "120525-00421",
+          "Online_Description": "PERSON DOWN",
+          "Address": "GULF TO BAY BLVD / BAMBOO LN",
+          "Response_Date": "2025-12-05T17:36:18"
+        },
+        {
+          "Master_Incident_Number": "120525-00427",
+          "Online_Description": "NEIGHBOR CALL",
+          "Address": "1500 BLOCK RIDGEWOOD ST",
+          "Response_Date": "2025-12-05T17:46:23"
+        },
+        {
+          "Master_Incident_Number": "120525-00429",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "0 BLOCK 45 DEVON DR",
+          "Response_Date": "2025-12-05T17:53:18"
+        },
+        {
+          "Master_Incident_Number": "120525-00435",
+          "Online_Description": "TRAFFIC CRASH",
+          "Address": "GULF TO BAY BLVD / BAY ST",
+          "Response_Date": "2025-12-05T18:03:51"
+        },
+        {
+          "Master_Incident_Number": "120525-00438",
+          "Online_Description": "PARK WALK AND TALK",
+          "Address": "-500 BLOCK BLK CLEVELAND ST",
+          "Response_Date": "2025-12-05T18:08:12"
+        },
+        {
+          "Master_Incident_Number": "120525-00439",
+          "Online_Description": "ALARM",
+          "Address": "900 BLOCK S FORT HARRISON AVE",
+          "Response_Date": "2025-12-05T18:12:05"
+        }
+      ]
     }
   ]
 }

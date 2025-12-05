@@ -49,12 +49,6 @@
       "Response_Date": "2025-12-05T18:03:51"
     },
     {
-      "Master_Incident_Number": "120525-00437",
-      "Online_Description": "TRAFFIC STOP",
-      "Address": "300 BLOCK MANDALAY AVE",
-      "Response_Date": "2025-12-05T18:07:32"
-    },
-    {
       "Master_Incident_Number": "120525-00438",
       "Online_Description": "PARK WALK AND TALK",
       "Address": "-500 BLOCK BLK CLEVELAND ST",
@@ -65,14 +59,8 @@
       "Online_Description": "ALARM",
       "Address": "900 BLOCK S FORT HARRISON AVE",
       "Response_Date": "2025-12-05T18:12:05"
-    },
-    {
-      "Master_Incident_Number": "120525-00440",
-      "Online_Description": "TRAFFIC STOP",
-      "Address": "ENTERPRISE RD E / SPLITWOOD WAY",
-      "Response_Date": "2025-12-05T18:16:26"
     }
   ],
-  "timestamp": "2025-12-05T23:37:15.005665+00:00",
-  "count": 12
+  "timestamp": "2025-12-05T23:45:02.416194+00:00",
+  "count": 10
 }
