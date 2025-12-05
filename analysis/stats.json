@@ -1,6 +1,6 @@
 {
-  "total_calls_tracked": 1537,
-  "total_resolved": 1531,
+  "total_calls_tracked": 1541,
+  "total_resolved": 1535,
   "call_types": {
     "DIRECTED PATROL": 520,
     "TRAFFIC STOP": 229,
@@ -11,13 +11,13 @@
     "ALARM": 19,
     "KEEP THE PEACE": 22,
     "WELFARE CHECK": 32,
-    "PARK WALK AND TALK": 123,
+    "PARK WALK AND TALK": 124,
     "SUSPICIOUS PERSON": 65,
     "TRESPASS": 38,
-    "PROPERTY FOUND/LOST": 7,
+    "PROPERTY FOUND/LOST": 8,
     "THEFT": 23,
     "NEIGHBOR CALL": 7,
-    "911 HANG-UP": 55,
+    "911 HANG-UP": 56,
     "SUSPICIOUS VEHICLE": 12,
     "PANHANDLER/SOLICITOR": 3,
     "VEHICLE ILLEGALLY PARKED": 4,
@@ -36,7 +36,7 @@
     "CIVIL MATTER": 11,
     "DOMESTIC": 14,
     "ANIMAL CASE": 4,
-    "MISSING PERSON": 17,
+    "MISSING PERSON": 18,
     "BUILDING CHECK": 5,
     "SHOPLIFTING": 3,
     "DECEASED PERSON": 1,
@@ -102,7 +102,7 @@
     "MCMULLEN BOOTH RD / SR 590": 2,
     "LAKEVIEW RD / S MISSOURI AVE": 2,
     "2400 BLOCK MELLOW LN": 1,
-    "1200 BLOCK GULF BLVD": 6,
+    "1200 BLOCK GULF BLVD": 7,
     "1900 BLOCK N BELCHER RD": 1,
     "20100 BLOCK US HIGHWAY 19 N": 1,
     "CLEVELAND ST / N MAIN AVE": 1,
@@ -277,7 +277,7 @@
     "900 BLOCK BAY ESPLANADE": 2,
     "3000 BLOCK EASTLAND BLVD": 2,
     "-2300 BLOCK 2373 GULF TO BAY BLVD": 1,
-    "1800 BLOCK MONTCLAIR RD": 1,
+    "1800 BLOCK MONTCLAIR RD": 2,
     "20500 BLOCK US HIGHWAY 19 N": 5,
     "200 BLOCK LARBOARD WAY": 1,
     "COURT ST / S MISSOURI AVE": 3,
@@ -849,7 +849,9 @@
     "N BETTY LN / OTIS C GREEN DR": 1,
     "1900 BLOCK N HIGHLAND AVE": 1,
     "1700 BLOCK GULF TOBAY": 1,
-    "GULF TO BAY BLVD / S LAKE AVE": 1
+    "GULF TO BAY BLVD / S LAKE AVE": 1,
+    "1200 BLOCK S FORT HARRISON AVE": 1,
+    "500 BLOCK S BELCHER RD": 1
   },
   "hourly_distribution": {
     "0": 47,
@@ -866,8 +868,8 @@
     "11": 98,
     "12": 105,
     "13": 105,
-    "14": 113,
-    "15": 105,
+    "14": 116,
+    "15": 106,
     "16": 97,
     "17": 81,
     "18": 68,
@@ -878,7 +880,7 @@
     "23": 40
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-05T20:20:32.310113+00:00",
+  "last_updated": "2025-12-05T20:40:19.790246+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 488
+  "total_snapshots": 489
 }
