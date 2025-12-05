@@ -6654,3 +6654,11 @@ TOTAL ACTIVE CALLS: 2
 --- NEW CALLS (2) ---
 [NEW] 120525-00064 | DOMESTIC | 1500 BLOCK GULF TO BAY BLVD | Response: 03:23 AM
 [NEW] 120525-00068 | PARK WALK AND TALK | 1500 BLOCK GULF TO BAY BLVD | Response: 03:35 AM
+
+================================================================================
+TIMESTAMP: 2025-12-05T09:26:28.759377+00:00
+TOTAL ACTIVE CALLS: 1
+================================================================================
+
+--- RESOLVED CALLS (1) ---
+[RESOLVED] 120525-00068 | PARK WALK AND TALK | 1500 BLOCK GULF TO BAY BLVD | Response: 03:35 AM

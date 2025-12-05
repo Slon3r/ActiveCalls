@@ -5,14 +5,8 @@
       "Online_Description": "DOMESTIC",
       "Address": "1500 BLOCK GULF TO BAY BLVD",
       "Response_Date": "2025-12-05T03:23:29"
-    },
-    {
-      "Master_Incident_Number": "120525-00068",
-      "Online_Description": "PARK WALK AND TALK",
-      "Address": "1500 BLOCK GULF TO BAY BLVD",
-      "Response_Date": "2025-12-05T03:35:11"
     }
   ],
-  "timestamp": "2025-12-05T08:59:02.866843+00:00",
-  "count": 2
+  "timestamp": "2025-12-05T09:26:28.759377+00:00",
+  "count": 1
 }
