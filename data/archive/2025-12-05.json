@@ -276,6 +276,54 @@
           "Response_Date": "2025-12-04T23:20:58"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-05T05:25:47.354673+00:00",
+      "call_count": 7,
+      "calls": [
+        {
+          "Master_Incident_Number": "120425-00543",
+          "Online_Description": "INJUNCTION VIOLATION",
+          "Address": "2700 BLOCK E GRAND RESERVE CIR",
+          "Response_Date": "2025-12-04T23:04:44"
+        },
+        {
+          "Master_Incident_Number": "120425-00548",
+          "Online_Description": "ASSIST OTHER AGENCY",
+          "Address": "300 BLOCK CORONADO DR",
+          "Response_Date": "2025-12-04T23:19:28"
+        },
+        {
+          "Master_Incident_Number": "120425-00554",
+          "Online_Description": "ASSAULT",
+          "Address": "600 BLOCK S GULFVIEW BLVD",
+          "Response_Date": "2025-12-04T23:44:23"
+        },
+        {
+          "Master_Incident_Number": "120425-00556",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "1600 BLOCK N HIGHLAND AVE",
+          "Response_Date": "2025-12-04T23:48:30"
+        },
+        {
+          "Master_Incident_Number": "120425-00560",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "1600 BLOCK PALMETTO STREET",
+          "Response_Date": "2025-12-04T23:56:16"
+        },
+        {
+          "Master_Incident_Number": "120525-00002",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "-1900 BLOCK 1998 MAGNOLIA DR",
+          "Response_Date": "2025-12-05T00:01:55"
+        },
+        {
+          "Master_Incident_Number": "120525-00004",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "GULF TO BAY BLVD / MEADOW LARK LN",
+          "Response_Date": "2025-12-05T00:04:04"
+        }
+      ]
     }
   ]
 }
