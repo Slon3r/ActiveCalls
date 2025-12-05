@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 1398,
+  "total_calls_tracked": 1400,
   "total_resolved": 1394,
   "call_types": {
     "DIRECTED PATROL": 484,
-    "TRAFFIC STOP": 206,
+    "TRAFFIC STOP": 208,
     "DRUNK DRIVER": 4,
     "DISTURBANCE": 31,
     "BATTERY": 6,
@@ -260,7 +260,7 @@
     "US HIGHWAY 19 N / DRUID RD": 2,
     "S MISSOURI AVE/COURT ST": 1,
     "1500 BLOCK S MARTIN LUTHER KING JR AVE": 1,
-    "3100 BLOCK GULF TO BAY BLVD": 2,
+    "3100 BLOCK GULF TO BAY BLVD": 3,
     "1800 BLOCK N HIGHLAND AVE": 11,
     "BELLEAIR BLVD / US HIGHWAY 19 N": 1,
     "-1200 BLOCK 1353 COURT ST": 3,
@@ -780,10 +780,11 @@
     "2700 BLOCK E GRAND RESERVE CIR": 1,
     "1600 BLOCK PALMETTO STREET": 1,
     "-1900 BLOCK 1998 MAGNOLIA DR": 1,
-    "GULF TO BAY BLVD / MEADOW LARK LN": 1
+    "GULF TO BAY BLVD / MEADOW LARK LN": 1,
+    "GULF TO BAY BLVD / MCMULLEN BOOTH RD S SERVICE RD": 1
   },
   "hourly_distribution": {
-    "0": 41,
+    "0": 43,
     "1": 41,
     "2": 27,
     "3": 27,
@@ -809,7 +810,7 @@
     "23": 39
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-05T05:42:51.984568+00:00",
+  "last_updated": "2025-12-05T05:51:44.077941+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 438
+  "total_snapshots": 439
 }
