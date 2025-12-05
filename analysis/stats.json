@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 1407,
-  "total_resolved": 1402,
+  "total_calls_tracked": 1409,
+  "total_resolved": 1406,
   "call_types": {
-    "DIRECTED PATROL": 486,
-    "TRAFFIC STOP": 210,
+    "DIRECTED PATROL": 487,
+    "TRAFFIC STOP": 211,
     "DRUNK DRIVER": 4,
     "DISTURBANCE": 32,
     "BATTERY": 6,
@@ -374,7 +374,7 @@
     "1000 BLOCK MOHAWK ST": 1,
     "400 BLOCK S HILLCREST AVE": 2,
     "-300 BLOCK 338 CORONADO DR": 1,
-    "GULF TO BAY BLVD / BAY ST": 2,
+    "GULF TO BAY BLVD / BAY ST": 3,
     "700 BLOCK BAYVIEW AVE": 1,
     "-1100 BLOCK 1198 N MARTIN LUTHER KING JR AVE": 2,
     "1500 BLOCK DRUID RD": 1,
@@ -785,11 +785,12 @@
     "US HIGHWAY 19 N / SOUTH DR": 1,
     "2100 BLOCK DREW ST": 1,
     "1300 BLOCK YOUNG AVE": 1,
-    "-1700 BLOCK 1718 DRUID RD": 1
+    "-1700 BLOCK 1718 DRUID RD": 1,
+    "-1700 BLOCK 1769 DOUGLAS AVE": 1
   },
   "hourly_distribution": {
     "0": 47,
-    "1": 43,
+    "1": 45,
     "2": 27,
     "3": 27,
     "4": 13,
@@ -814,7 +815,7 @@
     "23": 40
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-05T06:38:36.391800+00:00",
+  "last_updated": "2025-12-05T06:58:17.352705+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 441
+  "total_snapshots": 442
 }
