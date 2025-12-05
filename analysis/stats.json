@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 1439,
-  "total_resolved": 1431,
+  "total_calls_tracked": 1446,
+  "total_resolved": 1435,
   "call_types": {
-    "DIRECTED PATROL": 497,
-    "TRAFFIC STOP": 217,
+    "DIRECTED PATROL": 499,
+    "TRAFFIC STOP": 218,
     "DRUNK DRIVER": 4,
     "DISTURBANCE": 32,
     "BATTERY": 6,
@@ -12,7 +12,7 @@
     "KEEP THE PEACE": 22,
     "WELFARE CHECK": 31,
     "PARK WALK AND TALK": 110,
-    "SUSPICIOUS PERSON": 59,
+    "SUSPICIOUS PERSON": 61,
     "TRESPASS": 37,
     "PROPERTY FOUND/LOST": 6,
     "THEFT": 20,
@@ -25,7 +25,7 @@
     "TRAFFIC CRASH": 63,
     "DISABLED VEHICLE": 13,
     "ASSIST CITIZEN": 42,
-    "ASSIST OTHER AGENCY": 20,
+    "ASSIST OTHER AGENCY": 21,
     "FIRE": 2,
     "FRAUD": 12,
     "RECKLESS VEHICLE": 2,
@@ -53,7 +53,8 @@
     "ASSAULT": 4,
     "PERSON DOWN": 4,
     "ROBBERY": 1,
-    "INJUNCTION VIOLATION": 1
+    "INJUNCTION VIOLATION": 1,
+    "STALKING": 1
   },
   "addresses": {
     "MEMORIAL CSWY / ISLAND WAY": 16,
@@ -153,7 +154,7 @@
     "2000 BLOCK N HERCULES AVE": 2,
     "1300 BLOCK FRANKLIN ST": 2,
     "SUNSET MEADOW DR / COLONY REED LN": 1,
-    "0 BLOCK BAY ESPLANADE": 4,
+    "0 BLOCK BAY ESPLANADE": 5,
     "200 BLOCK S GLENWOOD AVE": 17,
     "S KEENE RD / DRUID RD": 1,
     "GULF TO BAY BLVD / BAMBOO LN": 1,
@@ -799,7 +800,13 @@
     "DOUGLAS AVE / IDLEWILD DR": 1,
     "MORNINGSIDE DR / CARDINAL DR": 1,
     "PALM BLUFF ST / N MARTIN LUTHER KING JR AVE": 1,
-    "DRUID RD / S PROSPECT AVE": 1
+    "DRUID RD / S PROSPECT AVE": 1,
+    "1300 BLOCK S HERCULES AVE": 1,
+    "500 BLOCK N FORT HARRISON AVE": 1,
+    "3000 BLOCK COUNTRYSIDE BLVD": 1,
+    "600 BLOCK TURNER ST": 1,
+    "2500 BLOCK SEA WIND WAY": 1,
+    "S MISSOURI AVE / BELLEVUE BLVD": 1
   },
   "hourly_distribution": {
     "0": 47,
@@ -809,8 +816,8 @@
     "4": 13,
     "5": 41,
     "6": 51,
-    "7": 45,
-    "8": 83,
+    "7": 46,
+    "8": 89,
     "9": 88,
     "10": 87,
     "11": 89,
@@ -828,7 +835,7 @@
     "23": 40
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-05T13:22:05.634548+00:00",
+  "last_updated": "2025-12-05T13:46:42.036811+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 463
+  "total_snapshots": 464
 }

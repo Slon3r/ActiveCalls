@@ -19,36 +19,54 @@
       "Response_Date": "2025-12-05T07:21:56"
     },
     {
-      "Master_Incident_Number": "120525-00132",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "2100 BLOCK GULF TO BAY BLVD",
-      "Response_Date": "2025-12-05T07:31:26"
-    },
-    {
-      "Master_Incident_Number": "120525-00136",
-      "Online_Description": "TRAFFIC CRASH",
-      "Address": "SEVILLE BLVD / US HIGHWAY 19 N",
-      "Response_Date": "2025-12-05T07:33:47"
-    },
-    {
-      "Master_Incident_Number": "120525-00135",
-      "Online_Description": "TRAFFIC STOP",
-      "Address": "PALM BLUFF ST / N MARTIN LUTHER KING JR AVE",
-      "Response_Date": "2025-12-05T07:34:03"
-    },
-    {
       "Master_Incident_Number": "120525-00141",
       "Online_Description": "TRAFFIC CRASH",
       "Address": "DRUID RD / S PROSPECT AVE",
       "Response_Date": "2025-12-05T07:47:30"
     },
     {
-      "Master_Incident_Number": "120525-00145",
+      "Master_Incident_Number": "120525-00143",
+      "Online_Description": "STALKING",
+      "Address": "1300 BLOCK S HERCULES AVE",
+      "Response_Date": "2025-12-05T07:49:39"
+    },
+    {
+      "Master_Incident_Number": "120525-00152",
+      "Online_Description": "SUSPICIOUS PERSON",
+      "Address": "500 BLOCK N FORT HARRISON AVE",
+      "Response_Date": "2025-12-05T08:09:45"
+    },
+    {
+      "Master_Incident_Number": "120525-00151",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "0 BLOCK BAY ESPLANADE",
+      "Response_Date": "2025-12-05T08:12:18"
+    },
+    {
+      "Master_Incident_Number": "120525-00153",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "3000 BLOCK COUNTRYSIDE BLVD",
+      "Response_Date": "2025-12-05T08:14:20"
+    },
+    {
+      "Master_Incident_Number": "120525-00155",
+      "Online_Description": "SUSPICIOUS PERSON",
+      "Address": "600 BLOCK TURNER ST",
+      "Response_Date": "2025-12-05T08:14:29"
+    },
+    {
+      "Master_Incident_Number": "120525-00157",
+      "Online_Description": "ASSIST OTHER AGENCY",
+      "Address": "2500 BLOCK SEA WIND WAY",
+      "Response_Date": "2025-12-05T08:16:39"
+    },
+    {
+      "Master_Incident_Number": "120525-00160",
       "Online_Description": "TRAFFIC STOP",
-      "Address": "GULF TO BAY BLVD / S DUNCAN AVE",
-      "Response_Date": "2025-12-05T07:59:17"
+      "Address": "S MISSOURI AVE / BELLEVUE BLVD",
+      "Response_Date": "2025-12-05T08:23:39"
     }
   ],
-  "timestamp": "2025-12-05T13:22:05.632138+00:00",
-  "count": 8
+  "timestamp": "2025-12-05T13:46:42.034671+00:00",
+  "count": 11
 }
