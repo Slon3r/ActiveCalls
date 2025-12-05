@@ -1,16 +1,16 @@
 {
-  "total_calls_tracked": 1561,
-  "total_resolved": 1551,
+  "total_calls_tracked": 1564,
+  "total_resolved": 1555,
   "call_types": {
     "DIRECTED PATROL": 523,
-    "TRAFFIC STOP": 233,
+    "TRAFFIC STOP": 234,
     "DRUNK DRIVER": 5,
     "DISTURBANCE": 33,
     "BATTERY": 6,
     "CRIMINAL MISCHIEF": 9,
     "ALARM": 19,
     "KEEP THE PEACE": 22,
-    "WELFARE CHECK": 32,
+    "WELFARE CHECK": 33,
     "PARK WALK AND TALK": 125,
     "SUSPICIOUS PERSON": 66,
     "TRESPASS": 38,
@@ -55,7 +55,8 @@
     "ROBBERY": 1,
     "INJUNCTION VIOLATION": 1,
     "STALKING": 1,
-    "TRAFFIC CONTROL": 1
+    "TRAFFIC CONTROL": 1,
+    "WIRES DOWN": 1
   },
   "addresses": {
     "MEMORIAL CSWY / ISLAND WAY": 17,
@@ -122,7 +123,7 @@
     "1100 BLOCK GULF BLVD": 4,
     "2500 BLOCK GULF TO BAY BLVD": 7,
     "1600 BLOCK N MCMULLEN BOOTH RD": 1,
-    "1200 BLOCK DREW ST": 2,
+    "1200 BLOCK DREW ST": 3,
     "2400 BLOCK DREW ST": 4,
     "-1100 BLOCK 1582 GULF BLVD": 3,
     "3300 BLOCK COURTNEY CAMPBELL CSWY": 5,
@@ -860,7 +861,9 @@
     "S MARTIN LUTHER KING JR AVE / LAKEVIEW RD": 1,
     "MCMULLEN BOOTH RD / SR 580": 1,
     "S MISSOURI AVE / COURT ST": 1,
-    "COURT ST / S MARTIN LUTHER KING JR AVE": 1
+    "COURT ST / S MARTIN LUTHER KING JR AVE": 1,
+    "CALUMET ST / N BELCHER RD": 1,
+    "S PROSPECT AVE / GRAND CENTRAL ST": 1
   },
   "hourly_distribution": {
     "0": 47,
@@ -879,7 +882,7 @@
     "13": 105,
     "14": 119,
     "15": 116,
-    "16": 104,
+    "16": 107,
     "17": 81,
     "18": 68,
     "19": 13,
@@ -889,7 +892,7 @@
     "23": 40
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-05T22:09:12.284171+00:00",
+  "last_updated": "2025-12-05T22:32:31.144061+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 496
+  "total_snapshots": 497
 }

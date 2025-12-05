@@ -2741,6 +2741,66 @@
           "Response_Date": "2025-12-05T16:45:52"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-05T22:32:31.140061+00:00",
+      "call_count": 9,
+      "calls": [
+        {
+          "Master_Incident_Number": "120525-00359",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "0 BLOCK PINELLAS TRAIL",
+          "Response_Date": "2025-12-05T15:29:43"
+        },
+        {
+          "Master_Incident_Number": "120525-00361",
+          "Online_Description": "CHILD PROTECTION INVESTIGATION",
+          "Address": "1200 BLOCK CALUSA CIR",
+          "Response_Date": "2025-12-05T15:30:29"
+        },
+        {
+          "Master_Incident_Number": "120525-00366",
+          "Online_Description": "PROPERTY FOUND/LOST",
+          "Address": "200 BLOCK ISLAND WAY",
+          "Response_Date": "2025-12-05T15:44:10"
+        },
+        {
+          "Master_Incident_Number": "120525-00367",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "S MARTIN LUTHER KING JR AVE / WOODLAWN ST",
+          "Response_Date": "2025-12-05T15:48:54"
+        },
+        {
+          "Master_Incident_Number": "120525-00375",
+          "Online_Description": "SUSPICIOUS PERSON",
+          "Address": "S MARTIN LUTHER KING JR AVE / LAKEVIEW RD",
+          "Response_Date": "2025-12-05T16:04:06"
+        },
+        {
+          "Master_Incident_Number": "120525-00387",
+          "Online_Description": "TRAFFIC CRASH",
+          "Address": "COURT ST / S MARTIN LUTHER KING JR AVE",
+          "Response_Date": "2025-12-05T16:32:47"
+        },
+        {
+          "Master_Incident_Number": "120525-00391",
+          "Online_Description": "WELFARE CHECK",
+          "Address": "1200 BLOCK DREW ST",
+          "Response_Date": "2025-12-05T16:34:32"
+        },
+        {
+          "Master_Incident_Number": "120525-00395",
+          "Online_Description": "WIRES DOWN",
+          "Address": "CALUMET ST / N BELCHER RD",
+          "Response_Date": "2025-12-05T16:49:23"
+        },
+        {
+          "Master_Incident_Number": "120525-00396",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "S PROSPECT AVE / GRAND CENTRAL ST",
+          "Response_Date": "2025-12-05T16:50:02"
+        }
+      ]
     }
   ]
 }
