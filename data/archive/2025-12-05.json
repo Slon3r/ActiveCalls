@@ -1639,6 +1639,48 @@
           "Response_Date": "2025-12-05T11:35:54"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-05T17:18:05.371174+00:00",
+      "call_count": 6,
+      "calls": [
+        {
+          "Master_Incident_Number": "120525-00244",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "2800 BLOCK GLORIA CT",
+          "Response_Date": "2025-12-05T11:42:42.947"
+        },
+        {
+          "Master_Incident_Number": "120525-00232",
+          "Online_Description": "THEFT",
+          "Address": "300 BLOCK S GULFVIEW BLVD",
+          "Response_Date": "2025-12-05T10:58:33"
+        },
+        {
+          "Master_Incident_Number": "120525-00238",
+          "Online_Description": "SUSPICIOUS EVENT",
+          "Address": "1900 BLOCK DOUGLAS AVE",
+          "Response_Date": "2025-12-05T11:08:25"
+        },
+        {
+          "Master_Incident_Number": "120525-00249",
+          "Online_Description": "ASSIST CITIZEN",
+          "Address": "3200 BLOCK COURTNEY CAMPBELL CSWY",
+          "Response_Date": "2025-12-05T11:43:00"
+        },
+        {
+          "Master_Incident_Number": "120525-00250",
+          "Online_Description": "SUSPICIOUS PERSON",
+          "Address": "500 BLOCK S MYRTLE AVE",
+          "Response_Date": "2025-12-05T11:47:23"
+        },
+        {
+          "Master_Incident_Number": "120525-00253",
+          "Online_Description": "PARK WALK AND TALK",
+          "Address": "0 BLOCK S MISSOURI AVE",
+          "Response_Date": "2025-12-05T11:55:46"
+        }
+      ]
     }
   ]
 }
