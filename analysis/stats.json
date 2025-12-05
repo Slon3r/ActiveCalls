@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 1467,
-  "total_resolved": 1454,
+  "total_calls_tracked": 1472,
+  "total_resolved": 1462,
   "call_types": {
-    "DIRECTED PATROL": 502,
+    "DIRECTED PATROL": 504,
     "TRAFFIC STOP": 220,
     "DRUNK DRIVER": 4,
     "DISTURBANCE": 32,
@@ -17,7 +17,7 @@
     "PROPERTY FOUND/LOST": 6,
     "THEFT": 22,
     "NEIGHBOR CALL": 7,
-    "911 HANG-UP": 50,
+    "911 HANG-UP": 52,
     "SUSPICIOUS VEHICLE": 12,
     "PANHANDLER/SOLICITOR": 3,
     "VEHICLE ILLEGALLY PARKED": 4,
@@ -31,7 +31,7 @@
     "RECKLESS VEHICLE": 2,
     "JUVENILE CASE": 6,
     "HAZARD": 3,
-    "UNKNOWN PROBLEM": 7,
+    "UNKNOWN PROBLEM": 8,
     "NOISE COMPLAINT": 5,
     "CIVIL MATTER": 11,
     "DOMESTIC": 13,
@@ -87,7 +87,7 @@
     "FLUSHING AVE / HARN BLVD": 1,
     "S BELCHER RD / BARCELONA DR": 1,
     "-1400 BLOCK 1417 S MISSOURI AVE": 1,
-    "1000 BLOCK GULF BLVD": 18,
+    "1000 BLOCK GULF BLVD": 19,
     "1400 BLOCK LAURA ST": 3,
     "ENTERPRISE RD E / VILLAGE DR": 2,
     "GULF TO BAY BLVD / HAMPTON RD": 1,
@@ -169,7 +169,7 @@
     "FIFTH ST & HAMDEN DR": 1,
     "FIFTH ST / HAMDEN DR": 1,
     "E WORLD PARKWAY BLVD / BELCHER RD": 1,
-    "300 BLOCK CLEVELAND ST": 13,
+    "300 BLOCK CLEVELAND ST": 14,
     "GULF TO BAY BLVD / S LAKE DR": 1,
     "-400 BLOCK BLK BLANCHE B LITTLEJOHN TRL": 1,
     "2600 BLOCK GULF TO BAY BLVD": 8,
@@ -677,7 +677,7 @@
     "0 BLOCK 199 ORANGEVIEW AVE": 1,
     "N HIGHLAND AVE / PALMETTO ST": 1,
     "CAROL DR / N BETTY LN": 1,
-    "600 BLOCK N KEENE RD": 1,
+    "600 BLOCK N KEENE RD": 2,
     "US HIGHWAY 19 N / BELLEAIR BLVD": 2,
     "200 BLOCK N BETTY LN": 1,
     "-3000 BLOCK BLK SR 580": 1,
@@ -818,7 +818,9 @@
     "200 BLOCK PALM IS NW": 1,
     "600 BLOCK LAKEVIEW RD": 1,
     "1500 BLOCK LONG ST": 1,
-    "1900 BLOCK N HERCULES AVE": 1
+    "1900 BLOCK N HERCULES AVE": 1,
+    "25400 BLOCK US HIGHWAY 19 N": 1,
+    "COURT ST / S PROSPECT AVE": 1
   },
   "hourly_distribution": {
     "0": 47,
@@ -830,8 +832,8 @@
     "6": 51,
     "7": 46,
     "8": 97,
-    "9": 101,
-    "10": 87,
+    "9": 105,
+    "10": 88,
     "11": 89,
     "12": 88,
     "13": 91,
@@ -847,7 +849,7 @@
     "23": 40
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-05T14:58:57.999500+00:00",
+  "last_updated": "2025-12-05T15:25:51.116416+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 469
+  "total_snapshots": 470
 }

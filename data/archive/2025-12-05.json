@@ -1303,6 +1303,72 @@
           "Response_Date": "2025-12-05T09:36:14"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-05T15:25:51.113691+00:00",
+      "call_count": 10,
+      "calls": [
+        {
+          "Master_Incident_Number": "120525-00130",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "MORNINGSIDE DR / CARDINAL DR",
+          "Response_Date": "2025-12-05T07:21:56"
+        },
+        {
+          "Master_Incident_Number": "120525-00178",
+          "Online_Description": "THEFT",
+          "Address": "2700 BLOCK REGENCY OAKS BLVD",
+          "Response_Date": "2025-12-05T09:03:34"
+        },
+        {
+          "Master_Incident_Number": "120525-00181",
+          "Online_Description": "ANIMAL CASE",
+          "Address": "2700 BLOCK SR 580",
+          "Response_Date": "2025-12-05T09:04:21"
+        },
+        {
+          "Master_Incident_Number": "120525-00185",
+          "Online_Description": "PARK WALK AND TALK",
+          "Address": "2000 BLOCK GULF TO BAY BLVD",
+          "Response_Date": "2025-12-05T09:23:03"
+        },
+        {
+          "Master_Incident_Number": "120525-00191",
+          "Online_Description": "ASSIST OTHER AGENCY",
+          "Address": "600 BLOCK LAKEVIEW RD",
+          "Response_Date": "2025-12-05T09:28:06"
+        },
+        {
+          "Master_Incident_Number": "120525-00196",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "1000 BLOCK GULF BLVD",
+          "Response_Date": "2025-12-05T09:41:20"
+        },
+        {
+          "Master_Incident_Number": "120525-00197",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "300 BLOCK CLEVELAND ST",
+          "Response_Date": "2025-12-05T09:41:55"
+        },
+        {
+          "Master_Incident_Number": "120525-00200",
+          "Online_Description": "911 HANG-UP",
+          "Address": "600 BLOCK N KEENE RD",
+          "Response_Date": "2025-12-05T09:55:09"
+        },
+        {
+          "Master_Incident_Number": "120525-00202",
+          "Online_Description": "911 HANG-UP",
+          "Address": "25400 BLOCK US HIGHWAY 19 N",
+          "Response_Date": "2025-12-05T09:56:34"
+        },
+        {
+          "Master_Incident_Number": "120525-00203",
+          "Online_Description": "UNKNOWN PROBLEM",
+          "Address": "COURT ST / S PROSPECT AVE",
+          "Response_Date": "2025-12-05T10:01:39"
+        }
+      ]
     }
   ]
 }
