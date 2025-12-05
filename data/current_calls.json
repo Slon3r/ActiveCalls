@@ -13,18 +13,6 @@
       "Response_Date": "2025-12-05T12:10:10"
     },
     {
-      "Master_Incident_Number": "120525-00258",
-      "Online_Description": "PARK WALK AND TALK",
-      "Address": "-3300 BLOCK BLK MASTERS DR",
-      "Response_Date": "2025-12-05T12:10:20"
-    },
-    {
-      "Master_Incident_Number": "120525-00261",
-      "Online_Description": "PARK WALK AND TALK",
-      "Address": "400 BLOCK CLEVELAND ST",
-      "Response_Date": "2025-12-05T12:16:50"
-    },
-    {
       "Master_Incident_Number": "120525-00267",
       "Online_Description": "ASSIST CITIZEN",
       "Address": "2000 BLOCK KINGS HWY",
@@ -43,42 +31,48 @@
       "Response_Date": "2025-12-05T12:30:13"
     },
     {
-      "Master_Incident_Number": "120525-00271",
-      "Online_Description": "RECKLESS VEHICLE",
-      "Address": "100 BLOCK CORONADO DR",
-      "Response_Date": "2025-12-05T12:35:26"
-    },
-    {
       "Master_Incident_Number": "120525-00275",
       "Online_Description": "ORDINANCE VIOLATION",
       "Address": "N FORT HARRISON AVE / SUNSET POINT RD",
       "Response_Date": "2025-12-05T12:42:21"
     },
     {
-      "Master_Incident_Number": "120525-00273",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "S MAIN AVE / RAINBOW DR",
-      "Response_Date": "2025-12-05T12:44:21"
-    },
-    {
-      "Master_Incident_Number": "120525-00278",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "JEFFORDS ST / REYNOLDS AVE",
-      "Response_Date": "2025-12-05T12:54:06"
-    },
-    {
-      "Master_Incident_Number": "120525-00279",
+      "Master_Incident_Number": "120525-00284",
       "Online_Description": "TRAFFIC STOP",
-      "Address": "1200 BLOCK S MISSOURI AVE",
-      "Response_Date": "2025-12-05T12:56:37"
+      "Address": "1300 BLOCK N HIGHLAND AVE",
+      "Response_Date": "2025-12-05T13:07:51"
     },
     {
-      "Master_Incident_Number": "120525-00280",
+      "Master_Incident_Number": "120525-00285",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "OLD COACHMAN RD / DREW ST",
+      "Response_Date": "2025-12-05T13:08:46"
+    },
+    {
+      "Master_Incident_Number": "120525-00288",
+      "Online_Description": "CRIMINAL MISCHIEF",
+      "Address": "600 BLOCK SALLY LN",
+      "Response_Date": "2025-12-05T13:13:05"
+    },
+    {
+      "Master_Incident_Number": "120525-00287",
+      "Online_Description": "PROPERTY FOUND/LOST",
+      "Address": "CLEVELAND ST / SAN MARCO",
+      "Response_Date": "2025-12-05T13:13:16"
+    },
+    {
+      "Master_Incident_Number": "120525-00290",
       "Online_Description": "TRAFFIC STOP",
-      "Address": "US HIGHWAY 19 N / DREW ST",
-      "Response_Date": "2025-12-05T12:58:19"
+      "Address": "MCMULLEN BOOTH RD / UNION ST",
+      "Response_Date": "2025-12-05T13:17:48"
+    },
+    {
+      "Master_Incident_Number": "120525-00292",
+      "Online_Description": "911 HANG-UP",
+      "Address": "2400 BLOCK MOORE HAVEN DR E",
+      "Response_Date": "2025-12-05T13:20:16"
     }
   ],
-  "timestamp": "2025-12-05T18:19:48.869941+00:00",
-  "count": 13
+  "timestamp": "2025-12-05T18:45:43.501039+00:00",
+  "count": 12
 }

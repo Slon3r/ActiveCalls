@@ -1,23 +1,23 @@
 {
-  "total_calls_tracked": 1512,
-  "total_resolved": 1499,
+  "total_calls_tracked": 1518,
+  "total_resolved": 1506,
   "call_types": {
-    "DIRECTED PATROL": 514,
-    "TRAFFIC STOP": 225,
+    "DIRECTED PATROL": 515,
+    "TRAFFIC STOP": 227,
     "DRUNK DRIVER": 5,
     "DISTURBANCE": 33,
     "BATTERY": 6,
-    "CRIMINAL MISCHIEF": 7,
+    "CRIMINAL MISCHIEF": 8,
     "ALARM": 19,
     "KEEP THE PEACE": 22,
     "WELFARE CHECK": 32,
     "PARK WALK AND TALK": 119,
     "SUSPICIOUS PERSON": 64,
     "TRESPASS": 38,
-    "PROPERTY FOUND/LOST": 6,
+    "PROPERTY FOUND/LOST": 7,
     "THEFT": 23,
     "NEIGHBOR CALL": 7,
-    "911 HANG-UP": 53,
+    "911 HANG-UP": 54,
     "SUSPICIOUS VEHICLE": 12,
     "PANHANDLER/SOLICITOR": 3,
     "VEHICLE ILLEGALLY PARKED": 4,
@@ -641,7 +641,7 @@
     "800 BLOCK HARBOR IS": 1,
     "RIDGE TOP WAY / MISTY PLATEAU TRL": 1,
     "800 BLOCK DREW ST": 1,
-    "OLD COACHMAN RD / DREW ST": 1,
+    "OLD COACHMAN RD / DREW ST": 2,
     "900 BLOCK CARLTON ST": 1,
     "1200 BLOCK S MYRTLE AVE": 1,
     "1300 BLOCK S MARTIN LUTHER KING JR AVE": 1,
@@ -835,7 +835,12 @@
     "100 BLOCK KILMER AVE": 1,
     "100 BLOCK CORONADO DR": 1,
     "N FORT HARRISON AVE / SUNSET POINT RD": 1,
-    "JEFFORDS ST / REYNOLDS AVE": 1
+    "JEFFORDS ST / REYNOLDS AVE": 1,
+    "1300 BLOCK N HIGHLAND AVE": 1,
+    "600 BLOCK SALLY LN": 1,
+    "CLEVELAND ST / SAN MARCO": 1,
+    "MCMULLEN BOOTH RD / UNION ST": 1,
+    "2400 BLOCK MOORE HAVEN DR E": 1
   },
   "hourly_distribution": {
     "0": 47,
@@ -851,7 +856,7 @@
     "10": 103,
     "11": 98,
     "12": 104,
-    "13": 91,
+    "13": 97,
     "14": 103,
     "15": 105,
     "16": 97,
@@ -864,7 +869,7 @@
     "23": 40
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-05T18:19:48.873062+00:00",
+  "last_updated": "2025-12-05T18:45:43.504452+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 480
+  "total_snapshots": 481
 }
