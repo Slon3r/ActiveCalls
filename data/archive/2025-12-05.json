@@ -805,6 +805,60 @@
           "Response_Date": "2025-12-05T07:22:25"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-05T13:22:05.632138+00:00",
+      "call_count": 8,
+      "calls": [
+        {
+          "Master_Incident_Number": "120525-00146",
+          "Online_Description": "PARK WALK AND TALK",
+          "Address": "1300 BLOCK PARK ST",
+          "Response_Date": "2025-12-05T08:00:31.34"
+        },
+        {
+          "Master_Incident_Number": "120525-00120",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "1000 BLOCK GULF BLVD",
+          "Response_Date": "2025-12-05T07:07:02"
+        },
+        {
+          "Master_Incident_Number": "120525-00130",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "MORNINGSIDE DR / CARDINAL DR",
+          "Response_Date": "2025-12-05T07:21:56"
+        },
+        {
+          "Master_Incident_Number": "120525-00132",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "2100 BLOCK GULF TO BAY BLVD",
+          "Response_Date": "2025-12-05T07:31:26"
+        },
+        {
+          "Master_Incident_Number": "120525-00136",
+          "Online_Description": "TRAFFIC CRASH",
+          "Address": "SEVILLE BLVD / US HIGHWAY 19 N",
+          "Response_Date": "2025-12-05T07:33:47"
+        },
+        {
+          "Master_Incident_Number": "120525-00135",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "PALM BLUFF ST / N MARTIN LUTHER KING JR AVE",
+          "Response_Date": "2025-12-05T07:34:03"
+        },
+        {
+          "Master_Incident_Number": "120525-00141",
+          "Online_Description": "TRAFFIC CRASH",
+          "Address": "DRUID RD / S PROSPECT AVE",
+          "Response_Date": "2025-12-05T07:47:30"
+        },
+        {
+          "Master_Incident_Number": "120525-00145",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "GULF TO BAY BLVD / S DUNCAN AVE",
+          "Response_Date": "2025-12-05T07:59:17"
+        }
+      ]
     }
   ]
 }
