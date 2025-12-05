@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 1364,
-  "total_resolved": 1357,
+  "total_calls_tracked": 1367,
+  "total_resolved": 1363,
   "call_types": {
     "DIRECTED PATROL": 476,
-    "TRAFFIC STOP": 201,
+    "TRAFFIC STOP": 202,
     "DRUNK DRIVER": 4,
     "DISTURBANCE": 30,
     "BATTERY": 6,
@@ -18,11 +18,11 @@
     "THEFT": 20,
     "NEIGHBOR CALL": 7,
     "911 HANG-UP": 44,
-    "SUSPICIOUS VEHICLE": 11,
+    "SUSPICIOUS VEHICLE": 12,
     "PANHANDLER/SOLICITOR": 3,
     "VEHICLE ILLEGALLY PARKED": 4,
     "SUSPICIOUS EVENT": 24,
-    "TRAFFIC CRASH": 58,
+    "TRAFFIC CRASH": 59,
     "DISABLED VEHICLE": 13,
     "ASSIST CITIZEN": 41,
     "ASSIST OTHER AGENCY": 18,
@@ -170,7 +170,7 @@
     "300 BLOCK CLEVELAND ST": 12,
     "GULF TO BAY BLVD / S LAKE DR": 1,
     "-400 BLOCK BLK BLANCHE B LITTLEJOHN TRL": 1,
-    "2600 BLOCK GULF TO BAY BLVD": 7,
+    "2600 BLOCK GULF TO BAY BLVD": 8,
     "400 BLOCK MANDALAY AVE": 6,
     "-3200 BLOCK 3399 COURTNEY CAMPBELL CSWY": 2,
     "1200 BLOCK GROVE ST": 1,
@@ -768,7 +768,9 @@
     "2500 BLOCK BRENTWOOD DR": 1,
     "1200 BLOCK N MARTIN LUTHER KING JR AVE": 1,
     "2300 BLOCK LANDMARK DR": 1,
-    "US HIGHWAY 19 N / NE COACHMAN RD": 1
+    "US HIGHWAY 19 N / NE COACHMAN RD": 1,
+    "600 BLOCK WOODLAWN ST": 1,
+    "US HIGHWAY 19 N / ENTERPRISE RD": 1
   },
   "hourly_distribution": {
     "0": 37,
@@ -789,15 +791,15 @@
     "15": 105,
     "16": 97,
     "17": 81,
-    "18": 65,
-    "19": 12,
-    "20": 22,
+    "18": 66,
+    "19": 13,
+    "20": 23,
     "21": 23,
     "22": 42,
     "23": 30
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-04T23:57:46.931848+00:00",
+  "last_updated": "2025-12-05T01:42:41.860888+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 430
+  "total_snapshots": 431
 }

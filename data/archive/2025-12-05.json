@@ -1,0 +1,35 @@
+{
+  "date": "2025-12-05",
+  "snapshots": [
+    {
+      "timestamp": "2025-12-05T01:42:41.859858+00:00",
+      "call_count": 4,
+      "calls": [
+        {
+          "Master_Incident_Number": "120425-00431",
+          "Online_Description": "SUSPICIOUS VEHICLE",
+          "Address": "600 BLOCK WOODLAWN ST",
+          "Response_Date": "2025-12-04T18:11:54"
+        },
+        {
+          "Master_Incident_Number": "120425-00430",
+          "Online_Description": "ROBBERY",
+          "Address": "0 BLOCK CAUSEWAY BLVD",
+          "Response_Date": "2025-12-04T18:12:00"
+        },
+        {
+          "Master_Incident_Number": "120425-00465",
+          "Online_Description": "TRAFFIC CRASH",
+          "Address": "US HIGHWAY 19 N / ENTERPRISE RD",
+          "Response_Date": "2025-12-04T19:52:40"
+        },
+        {
+          "Master_Incident_Number": "120425-00473",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "2600 BLOCK GULF TO BAY BLVD",
+          "Response_Date": "2025-12-04T20:16:36"
+        }
+      ]
+    }
+  ]
+}
