@@ -25,36 +25,48 @@
       "Response_Date": "2025-12-05T07:47:30"
     },
     {
-      "Master_Incident_Number": "120525-00143",
-      "Online_Description": "STALKING",
-      "Address": "1300 BLOCK S HERCULES AVE",
-      "Response_Date": "2025-12-05T07:49:39"
-    },
-    {
-      "Master_Incident_Number": "120525-00152",
-      "Online_Description": "SUSPICIOUS PERSON",
-      "Address": "500 BLOCK N FORT HARRISON AVE",
-      "Response_Date": "2025-12-05T08:09:45"
-    },
-    {
-      "Master_Incident_Number": "120525-00155",
-      "Online_Description": "TRESPASS",
-      "Address": "600 BLOCK TURNER ST",
-      "Response_Date": "2025-12-05T08:14:29"
-    },
-    {
-      "Master_Incident_Number": "120525-00158",
-      "Online_Description": "911 HANG-UP",
-      "Address": "3200 BLOCK MCMULLEN BOOTH RD",
-      "Response_Date": "2025-12-05T08:17:11"
-    },
-    {
       "Master_Incident_Number": "120525-00163",
       "Online_Description": "THEFT",
       "Address": "2500 BLOCK COUNTRYSIDE BLVD",
       "Response_Date": "2025-12-05T08:30:31"
+    },
+    {
+      "Master_Incident_Number": "120525-00164",
+      "Online_Description": "911 HANG-UP",
+      "Address": "1600 BLOCK FULTON AVE",
+      "Response_Date": "2025-12-05T08:31:51"
+    },
+    {
+      "Master_Incident_Number": "120525-00165",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "600 BLOCK DREW ST",
+      "Response_Date": "2025-12-05T08:39:23"
+    },
+    {
+      "Master_Incident_Number": "120525-00169",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "0 BLOCK PARK PLACE BLVD N",
+      "Response_Date": "2025-12-05T08:51:27"
+    },
+    {
+      "Master_Incident_Number": "120525-00170",
+      "Online_Description": "SUSPICIOUS PERSON",
+      "Address": "20500 BLOCK US HIGHWAY 19 N",
+      "Response_Date": "2025-12-05T08:53:03"
+    },
+    {
+      "Master_Incident_Number": "120525-00171",
+      "Online_Description": "SUSPICIOUS EVENT",
+      "Address": "1500 BLOCK MCMULLEN BOOTH RD",
+      "Response_Date": "2025-12-05T08:53:23"
+    },
+    {
+      "Master_Incident_Number": "120525-00172",
+      "Online_Description": "TRAFFIC CRASH",
+      "Address": "S KEENE RD / DRUID RD",
+      "Response_Date": "2025-12-05T08:56:09"
     }
   ],
-  "timestamp": "2025-12-05T13:57:08.108067+00:00",
-  "count": 9
+  "timestamp": "2025-12-05T14:20:05.715817+00:00",
+  "count": 11
 }
