@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 1531,
-  "total_resolved": 1523,
+  "total_calls_tracked": 1535,
+  "total_resolved": 1525,
   "call_types": {
     "DIRECTED PATROL": 520,
-    "TRAFFIC STOP": 228,
+    "TRAFFIC STOP": 229,
     "DRUNK DRIVER": 5,
     "DISTURBANCE": 33,
     "BATTERY": 6,
@@ -11,13 +11,13 @@
     "ALARM": 19,
     "KEEP THE PEACE": 22,
     "WELFARE CHECK": 32,
-    "PARK WALK AND TALK": 121,
+    "PARK WALK AND TALK": 123,
     "SUSPICIOUS PERSON": 64,
     "TRESPASS": 38,
     "PROPERTY FOUND/LOST": 7,
     "THEFT": 23,
     "NEIGHBOR CALL": 7,
-    "911 HANG-UP": 54,
+    "911 HANG-UP": 55,
     "SUSPICIOUS VEHICLE": 12,
     "PANHANDLER/SOLICITOR": 3,
     "VEHICLE ILLEGALLY PARKED": 4,
@@ -438,7 +438,7 @@
     "1000 BLOCK VINE AVE": 1,
     "2200 BLOCK MORNINGSIDE DR": 1,
     "400 BLOCK S MARTIN LUTHER KING JR AVE": 1,
-    "600 BLOCK BAYWAY BLVD": 2,
+    "600 BLOCK BAYWAY BLVD": 3,
     "1600 BLOCK N BELCHER RD": 1,
     "-1100 BLOCK 1148 PIERCE ST": 1,
     "FERNWOOD AVE / GULF TO BAY BLVD": 2,
@@ -845,7 +845,10 @@
     "2600 BLOCK DREW ST": 1,
     "700 BLOCK N MYRTLE AVE": 1,
     "-1000 BLOCK 1198 MANDALAY POINT RD": 1,
-    "N BETTY LN / OTIS C GREEN DR": 1
+    "N BETTY LN / OTIS C GREEN DR": 1,
+    "1900 BLOCK N HIGHLAND AVE": 1,
+    "1700 BLOCK GULF TOBAY": 1,
+    "GULF TO BAY BLVD / S LAKE AVE": 1
   },
   "hourly_distribution": {
     "0": 47,
@@ -862,7 +865,7 @@
     "11": 98,
     "12": 105,
     "13": 105,
-    "14": 107,
+    "14": 111,
     "15": 105,
     "16": 97,
     "17": 81,
@@ -874,7 +877,7 @@
     "23": 40
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-05T19:48:20.088478+00:00",
+  "last_updated": "2025-12-05T19:56:51.489129+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 486
+  "total_snapshots": 487
 }
