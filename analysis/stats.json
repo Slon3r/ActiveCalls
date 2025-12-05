@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 1482,
-  "total_resolved": 1472,
+  "total_calls_tracked": 1486,
+  "total_resolved": 1477,
   "call_types": {
-    "DIRECTED PATROL": 507,
-    "TRAFFIC STOP": 222,
+    "DIRECTED PATROL": 508,
+    "TRAFFIC STOP": 223,
     "DRUNK DRIVER": 4,
     "DISTURBANCE": 32,
     "BATTERY": 6,
@@ -12,7 +12,7 @@
     "KEEP THE PEACE": 22,
     "WELFARE CHECK": 32,
     "PARK WALK AND TALK": 114,
-    "SUSPICIOUS PERSON": 62,
+    "SUSPICIOUS PERSON": 63,
     "TRESPASS": 38,
     "PROPERTY FOUND/LOST": 6,
     "THEFT": 22,
@@ -45,7 +45,7 @@
     "HIT & RUN": 13,
     "SCHOOL CROSSING": 6,
     "ORDINANCE VIOLATION": 4,
-    "ABANDONED VEHICLE": 5,
+    "ABANDONED VEHICLE": 6,
     "CHILD ABUSE": 2,
     "FIGHT": 1,
     "CHILD PROTECTION INVESTIGATION": 2,
@@ -146,7 +146,7 @@
     "1100 BLOCK COURT ST": 1,
     "-1300 BLOCK BLK ADMIRAL WOODSON LN": 1,
     "19300 BLOCK US HIGHWAY 19 N": 2,
-    "600 BLOCK PIERCE ST": 13,
+    "600 BLOCK PIERCE ST": 14,
     "0 BLOCK 99 THIRD ST": 4,
     "0 BLOCK 98 THIRD ST": 4,
     "100 BLOCK HAMPTON RD": 1,
@@ -307,7 +307,7 @@
     "600 BLOCK DREW ST": 3,
     "200 BLOCK DOLPHIN PT": 1,
     "DEVON DR  / CORONADO DR": 2,
-    "600 BLOCK OLD COACHMAN RD": 1,
+    "600 BLOCK OLD COACHMAN RD": 2,
     "DREW ST / PINEWOOD AVE": 1,
     "2800 BLOCK GULF TO BAY BLVD": 3,
     "19100 BLOCK US HIGHWAY 19 N": 2,
@@ -413,7 +413,7 @@
     "3000 BLOCK SR 590": 1,
     "1500 BLOCK N BELCHER RD": 1,
     "-100 BLOCK 299 S MAIN AVE": 3,
-    "CHARLES AVE / SR 580": 2,
+    "CHARLES AVE / SR 580": 3,
     "1600 BLOCK N WASHINGTON AVE": 2,
     "US HIGHWAY 19 N / NURSERY RD": 3,
     "18900 BLOCK US HIGHWAY 19 N": 2,
@@ -821,7 +821,8 @@
     "1900 BLOCK N HERCULES AVE": 1,
     "25400 BLOCK US HIGHWAY 19 N": 1,
     "COURT ST / S PROSPECT AVE": 2,
-    "ENTERPRISE RD / US HIGHWAY 19 N": 1
+    "ENTERPRISE RD / US HIGHWAY 19 N": 1,
+    "800 BLOCK AUDUBON ST": 1
   },
   "hourly_distribution": {
     "0": 47,
@@ -834,7 +835,7 @@
     "7": 46,
     "8": 97,
     "9": 105,
-    "10": 97,
+    "10": 101,
     "11": 89,
     "12": 89,
     "13": 91,
@@ -850,7 +851,7 @@
     "23": 40
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-05T15:53:20.633152+00:00",
+  "last_updated": "2025-12-05T16:12:59.735583+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 472
+  "total_snapshots": 473
 }
