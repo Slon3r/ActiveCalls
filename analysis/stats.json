@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 1492,
-  "total_resolved": 1485,
+  "total_calls_tracked": 1493,
+  "total_resolved": 1487,
   "call_types": {
-    "DIRECTED PATROL": 510,
+    "DIRECTED PATROL": 511,
     "TRAFFIC STOP": 223,
     "DRUNK DRIVER": 5,
     "DISTURBANCE": 32,
@@ -824,7 +824,8 @@
     "ENTERPRISE RD / US HIGHWAY 19 N": 1,
     "800 BLOCK AUDUBON ST": 1,
     "-400 BLOCK BLK CLEVELAND ST": 1,
-    "1900 BLOCK DOUGLAS AVE": 1
+    "1900 BLOCK DOUGLAS AVE": 1,
+    "BAYSIDE DR/HAMDEN DR": 1
   },
   "hourly_distribution": {
     "0": 47,
@@ -838,7 +839,7 @@
     "8": 97,
     "9": 105,
     "10": 103,
-    "11": 93,
+    "11": 94,
     "12": 89,
     "13": 91,
     "14": 103,
@@ -853,7 +854,7 @@
     "23": 40
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-05T16:43:04.318938+00:00",
+  "last_updated": "2025-12-05T16:57:00.279655+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 474
+  "total_snapshots": 475
 }

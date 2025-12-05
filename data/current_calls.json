@@ -7,22 +7,10 @@
       "Response_Date": "2025-12-05T10:25:12"
     },
     {
-      "Master_Incident_Number": "120525-00230",
-      "Online_Description": "DRUNK DRIVER",
-      "Address": "2100 BLOCK GULF TO BAY BLVD",
-      "Response_Date": "2025-12-05T10:55:45"
-    },
-    {
       "Master_Incident_Number": "120525-00232",
       "Online_Description": "THEFT",
       "Address": "300 BLOCK S GULFVIEW BLVD",
       "Response_Date": "2025-12-05T10:58:33"
-    },
-    {
-      "Master_Incident_Number": "120525-00234",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "2800 BLOCK CURLEW RD",
-      "Response_Date": "2025-12-05T11:02:08"
     },
     {
       "Master_Incident_Number": "120525-00236",
@@ -41,8 +29,14 @@
       "Online_Description": "SUSPICIOUS EVENT",
       "Address": "1900 BLOCK DOUGLAS AVE",
       "Response_Date": "2025-12-05T11:08:25"
+    },
+    {
+      "Master_Incident_Number": "120525-00247",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "BAYSIDE DR/HAMDEN DR",
+      "Response_Date": "2025-12-05T11:35:54"
     }
   ],
-  "timestamp": "2025-12-05T16:43:04.316058+00:00",
-  "count": 7
+  "timestamp": "2025-12-05T16:57:00.276774+00:00",
+  "count": 6
 }
