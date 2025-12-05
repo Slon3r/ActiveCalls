@@ -37,36 +37,24 @@
       "Response_Date": "2025-12-05T08:09:45"
     },
     {
-      "Master_Incident_Number": "120525-00151",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "0 BLOCK BAY ESPLANADE",
-      "Response_Date": "2025-12-05T08:12:18"
-    },
-    {
-      "Master_Incident_Number": "120525-00153",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "3000 BLOCK COUNTRYSIDE BLVD",
-      "Response_Date": "2025-12-05T08:14:20"
-    },
-    {
       "Master_Incident_Number": "120525-00155",
-      "Online_Description": "SUSPICIOUS PERSON",
+      "Online_Description": "TRESPASS",
       "Address": "600 BLOCK TURNER ST",
       "Response_Date": "2025-12-05T08:14:29"
     },
     {
-      "Master_Incident_Number": "120525-00157",
-      "Online_Description": "ASSIST OTHER AGENCY",
-      "Address": "2500 BLOCK SEA WIND WAY",
-      "Response_Date": "2025-12-05T08:16:39"
+      "Master_Incident_Number": "120525-00158",
+      "Online_Description": "911 HANG-UP",
+      "Address": "3200 BLOCK MCMULLEN BOOTH RD",
+      "Response_Date": "2025-12-05T08:17:11"
     },
     {
-      "Master_Incident_Number": "120525-00160",
-      "Online_Description": "TRAFFIC STOP",
-      "Address": "S MISSOURI AVE / BELLEVUE BLVD",
-      "Response_Date": "2025-12-05T08:23:39"
+      "Master_Incident_Number": "120525-00163",
+      "Online_Description": "THEFT",
+      "Address": "2500 BLOCK COUNTRYSIDE BLVD",
+      "Response_Date": "2025-12-05T08:30:31"
     }
   ],
-  "timestamp": "2025-12-05T13:46:42.034671+00:00",
-  "count": 11
+  "timestamp": "2025-12-05T13:57:08.108067+00:00",
+  "count": 9
 }

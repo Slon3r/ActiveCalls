@@ -1,6 +1,6 @@
 {
-  "total_calls_tracked": 1446,
-  "total_resolved": 1435,
+  "total_calls_tracked": 1448,
+  "total_resolved": 1439,
   "call_types": {
     "DIRECTED PATROL": 499,
     "TRAFFIC STOP": 218,
@@ -15,9 +15,9 @@
     "SUSPICIOUS PERSON": 61,
     "TRESPASS": 37,
     "PROPERTY FOUND/LOST": 6,
-    "THEFT": 20,
+    "THEFT": 21,
     "NEIGHBOR CALL": 7,
-    "911 HANG-UP": 46,
+    "911 HANG-UP": 47,
     "SUSPICIOUS VEHICLE": 12,
     "PANHANDLER/SOLICITOR": 3,
     "VEHICLE ILLEGALLY PARKED": 4,
@@ -224,7 +224,7 @@
     "1300 BLOCK S FORT HARRISON AVE": 1,
     "HOLT AVE / RUSSELL ST": 1,
     "S GULFVIEW BLVD / SECOND ST": 1,
-    "2500 BLOCK COUNTRYSIDE BLVD": 8,
+    "2500 BLOCK COUNTRYSIDE BLVD": 9,
     "-300 BLOCK 339 CORONADO DR": 1,
     "-600 BLOCK 698 CLEVELAND ST": 1,
     "1500 BLOCK S HIGHLAND AVE": 2,
@@ -806,7 +806,8 @@
     "3000 BLOCK COUNTRYSIDE BLVD": 1,
     "600 BLOCK TURNER ST": 1,
     "2500 BLOCK SEA WIND WAY": 1,
-    "S MISSOURI AVE / BELLEVUE BLVD": 1
+    "S MISSOURI AVE / BELLEVUE BLVD": 1,
+    "3200 BLOCK MCMULLEN BOOTH RD": 1
   },
   "hourly_distribution": {
     "0": 47,
@@ -817,7 +818,7 @@
     "5": 41,
     "6": 51,
     "7": 46,
-    "8": 89,
+    "8": 91,
     "9": 88,
     "10": 87,
     "11": 89,
@@ -835,7 +836,7 @@
     "23": 40
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-05T13:46:42.036811+00:00",
+  "last_updated": "2025-12-05T13:57:08.110245+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 464
+  "total_snapshots": 465
 }
