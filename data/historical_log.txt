@@ -6606,3 +6606,15 @@ TOTAL ACTIVE CALLS: 3
 --- NEW CALLS (2) ---
 [NEW] 120525-00052 | DIRECTED PATROL | 1800 BLOCK N BETTY LANE | Response: 02:13 AM
 [NEW] 120525-00053 | DIRECTED PATROL | -1700 BLOCK 1798 CLEVELAND ST | Response: 02:15 AM
+
+================================================================================
+TIMESTAMP: 2025-12-05T07:46:44.842811+00:00
+TOTAL ACTIVE CALLS: 2
+================================================================================
+
+--- NEW CALLS (1) ---
+[NEW] 120425-00538 | DIRECTED PATROL | 200 BLOCK S GLENWOOD AVE | Response: 02:24 AM
+
+--- RESOLVED CALLS (2) ---
+[RESOLVED] 120525-00052 | DIRECTED PATROL | 1800 BLOCK N BETTY LANE | Response: 02:13 AM
+[RESOLVED] 120525-00053 | DIRECTED PATROL | -1700 BLOCK 1798 CLEVELAND ST | Response: 02:15 AM

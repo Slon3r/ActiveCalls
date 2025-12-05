@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 1411,
-  "total_resolved": 1408,
+  "total_calls_tracked": 1412,
+  "total_resolved": 1410,
   "call_types": {
-    "DIRECTED PATROL": 489,
+    "DIRECTED PATROL": 490,
     "TRAFFIC STOP": 211,
     "DRUNK DRIVER": 4,
     "DISTURBANCE": 32,
@@ -154,7 +154,7 @@
     "1300 BLOCK FRANKLIN ST": 2,
     "SUNSET MEADOW DR / COLONY REED LN": 1,
     "0 BLOCK BAY ESPLANADE": 4,
-    "200 BLOCK S GLENWOOD AVE": 16,
+    "200 BLOCK S GLENWOOD AVE": 17,
     "S KEENE RD / DRUID RD": 1,
     "GULF TO BAY BLVD / BAMBOO LN": 1,
     "GULF TO BAY BLVD / BROOKSIDE DR": 1,
@@ -793,7 +793,7 @@
   "hourly_distribution": {
     "0": 47,
     "1": 45,
-    "2": 29,
+    "2": 30,
     "3": 27,
     "4": 13,
     "5": 37,
@@ -817,7 +817,7 @@
     "23": 40
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-05T07:37:55.584992+00:00",
+  "last_updated": "2025-12-05T07:46:44.844543+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 444
+  "total_snapshots": 445
 }
