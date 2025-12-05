@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 1559,
-  "total_resolved": 1549,
+  "total_calls_tracked": 1561,
+  "total_resolved": 1551,
   "call_types": {
     "DIRECTED PATROL": 523,
-    "TRAFFIC STOP": 232,
+    "TRAFFIC STOP": 233,
     "DRUNK DRIVER": 5,
     "DISTURBANCE": 33,
     "BATTERY": 6,
@@ -22,7 +22,7 @@
     "PANHANDLER/SOLICITOR": 4,
     "VEHICLE ILLEGALLY PARKED": 4,
     "SUSPICIOUS EVENT": 27,
-    "TRAFFIC CRASH": 69,
+    "TRAFFIC CRASH": 70,
     "DISABLED VEHICLE": 13,
     "ASSIST CITIZEN": 45,
     "ASSIST OTHER AGENCY": 22,
@@ -58,7 +58,7 @@
     "TRAFFIC CONTROL": 1
   },
   "addresses": {
-    "MEMORIAL CSWY / ISLAND WAY": 16,
+    "MEMORIAL CSWY / ISLAND WAY": 17,
     "GULF TO BAY BLVD / S BELCHER RD": 4,
     "1900 BLOCK N BETTY LN": 1,
     "1400 BLOCK CLEVELAND ST": 2,
@@ -859,7 +859,8 @@
     "1200 BLOCK CALUSA CIR": 1,
     "S MARTIN LUTHER KING JR AVE / LAKEVIEW RD": 1,
     "MCMULLEN BOOTH RD / SR 580": 1,
-    "S MISSOURI AVE / COURT ST": 1
+    "S MISSOURI AVE / COURT ST": 1,
+    "COURT ST / S MARTIN LUTHER KING JR AVE": 1
   },
   "hourly_distribution": {
     "0": 47,
@@ -878,7 +879,7 @@
     "13": 105,
     "14": 119,
     "15": 116,
-    "16": 102,
+    "16": 104,
     "17": 81,
     "18": 68,
     "19": 13,
@@ -888,7 +889,7 @@
     "23": 40
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-05T21:53:03.069191+00:00",
+  "last_updated": "2025-12-05T22:09:12.284171+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 495
+  "total_snapshots": 496
 }
