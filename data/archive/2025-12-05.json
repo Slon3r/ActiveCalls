@@ -3209,6 +3209,66 @@
           "Response_Date": "2025-12-05T18:12:05"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-05T23:52:52.265577+00:00",
+      "call_count": 9,
+      "calls": [
+        {
+          "Master_Incident_Number": "120525-00387",
+          "Online_Description": "TRAFFIC CRASH",
+          "Address": "COURT ST / S MARTIN LUTHER KING JR AVE",
+          "Response_Date": "2025-12-05T16:32:47"
+        },
+        {
+          "Master_Incident_Number": "120525-00396",
+          "Online_Description": "DRUNK DRIVER",
+          "Address": "S PROSPECT AVE / GRAND CENTRAL ST",
+          "Response_Date": "2025-12-05T16:50:02"
+        },
+        {
+          "Master_Incident_Number": "120525-00404",
+          "Online_Description": "CHILD PROTECTION INVESTIGATION",
+          "Address": "1200 BLOCK FRANKLIN ST",
+          "Response_Date": "2025-12-05T17:19:09"
+        },
+        {
+          "Master_Incident_Number": "120525-00421",
+          "Online_Description": "PERSON DOWN",
+          "Address": "GULF TO BAY BLVD / BAMBOO LN",
+          "Response_Date": "2025-12-05T17:36:18"
+        },
+        {
+          "Master_Incident_Number": "120525-00427",
+          "Online_Description": "NEIGHBOR CALL",
+          "Address": "1500 BLOCK RIDGEWOOD ST",
+          "Response_Date": "2025-12-05T17:46:23"
+        },
+        {
+          "Master_Incident_Number": "120525-00429",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "0 BLOCK 45 DEVON DR",
+          "Response_Date": "2025-12-05T17:53:18"
+        },
+        {
+          "Master_Incident_Number": "120525-00435",
+          "Online_Description": "TRAFFIC CRASH",
+          "Address": "GULF TO BAY BLVD / BAY ST",
+          "Response_Date": "2025-12-05T18:03:51"
+        },
+        {
+          "Master_Incident_Number": "120525-00438",
+          "Online_Description": "PARK WALK AND TALK",
+          "Address": "-500 BLOCK BLK CLEVELAND ST",
+          "Response_Date": "2025-12-05T18:08:12"
+        },
+        {
+          "Master_Incident_Number": "120525-00443",
+          "Online_Description": "CRIMINAL MISCHIEF",
+          "Address": "25300 BLOCK US HIGHWAY 19 N",
+          "Response_Date": "2025-12-05T18:25:12"
+        }
+      ]
     }
   ]
 }
