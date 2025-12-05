@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 1564,
-  "total_resolved": 1555,
+  "total_calls_tracked": 1565,
+  "total_resolved": 1557,
   "call_types": {
-    "DIRECTED PATROL": 523,
+    "DIRECTED PATROL": 524,
     "TRAFFIC STOP": 234,
     "DRUNK DRIVER": 5,
     "DISTURBANCE": 33,
@@ -863,7 +863,8 @@
     "S MISSOURI AVE / COURT ST": 1,
     "COURT ST / S MARTIN LUTHER KING JR AVE": 1,
     "CALUMET ST / N BELCHER RD": 1,
-    "S PROSPECT AVE / GRAND CENTRAL ST": 1
+    "S PROSPECT AVE / GRAND CENTRAL ST": 1,
+    "-2900 BLOCK 2998 MEADOW OAK DR S": 1
   },
   "hourly_distribution": {
     "0": 47,
@@ -883,7 +884,7 @@
     "14": 119,
     "15": 116,
     "16": 107,
-    "17": 81,
+    "17": 82,
     "18": 68,
     "19": 13,
     "20": 24,
@@ -892,7 +893,7 @@
     "23": 40
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-05T22:32:31.144061+00:00",
+  "last_updated": "2025-12-05T22:44:26.143757+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 497
+  "total_snapshots": 498
 }
