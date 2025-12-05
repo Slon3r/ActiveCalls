@@ -1219,6 +1219,90 @@
           "Response_Date": "2025-12-05T09:28:06"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-05T14:58:57.996989+00:00",
+      "call_count": 13,
+      "calls": [
+        {
+          "Master_Incident_Number": "120525-00146",
+          "Online_Description": "PARK WALK AND TALK",
+          "Address": "1300 BLOCK PARK ST",
+          "Response_Date": "2025-12-05T08:00:31.34"
+        },
+        {
+          "Master_Incident_Number": "120525-00120",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "1000 BLOCK GULF BLVD",
+          "Response_Date": "2025-12-05T07:07:02"
+        },
+        {
+          "Master_Incident_Number": "120525-00130",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "MORNINGSIDE DR / CARDINAL DR",
+          "Response_Date": "2025-12-05T07:21:56"
+        },
+        {
+          "Master_Incident_Number": "120525-00165",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "600 BLOCK DREW ST",
+          "Response_Date": "2025-12-05T08:39:23"
+        },
+        {
+          "Master_Incident_Number": "120525-00172",
+          "Online_Description": "TRAFFIC CRASH",
+          "Address": "S KEENE RD / DRUID RD",
+          "Response_Date": "2025-12-05T08:56:09"
+        },
+        {
+          "Master_Incident_Number": "120525-00178",
+          "Online_Description": "THEFT",
+          "Address": "2700 BLOCK REGENCY OAKS BLVD",
+          "Response_Date": "2025-12-05T09:03:34"
+        },
+        {
+          "Master_Incident_Number": "120525-00181",
+          "Online_Description": "ANIMAL CASE",
+          "Address": "2700 BLOCK SR 580",
+          "Response_Date": "2025-12-05T09:04:21"
+        },
+        {
+          "Master_Incident_Number": "120525-00185",
+          "Online_Description": "PARK WALK AND TALK",
+          "Address": "2000 BLOCK GULF TO BAY BLVD",
+          "Response_Date": "2025-12-05T09:23:03"
+        },
+        {
+          "Master_Incident_Number": "120525-00188",
+          "Online_Description": "ALARM",
+          "Address": "200 BLOCK PALM IS NW",
+          "Response_Date": "2025-12-05T09:23:54"
+        },
+        {
+          "Master_Incident_Number": "120525-00191",
+          "Online_Description": "ASSIST OTHER AGENCY",
+          "Address": "600 BLOCK LAKEVIEW RD",
+          "Response_Date": "2025-12-05T09:28:06"
+        },
+        {
+          "Master_Incident_Number": "120525-00192",
+          "Online_Description": "ALARM",
+          "Address": "1500 BLOCK LONG ST",
+          "Response_Date": "2025-12-05T09:31:06"
+        },
+        {
+          "Master_Incident_Number": "120525-00193",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "1900 BLOCK N HERCULES AVE",
+          "Response_Date": "2025-12-05T09:35:17"
+        },
+        {
+          "Master_Incident_Number": "120525-00194",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "GULF TO BAY BLVD / MCMULLEN BOOTH RD S",
+          "Response_Date": "2025-12-05T09:36:14"
+        }
+      ]
     }
   ]
 }

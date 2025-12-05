@@ -31,12 +31,6 @@
       "Response_Date": "2025-12-05T08:56:09"
     },
     {
-      "Master_Incident_Number": "120525-00180",
-      "Online_Description": "911 HANG-UP",
-      "Address": "3000 BLOCK BRAELOCH CIR E",
-      "Response_Date": "2025-12-05T09:03:19"
-    },
-    {
       "Master_Incident_Number": "120525-00178",
       "Online_Description": "THEFT",
       "Address": "2700 BLOCK REGENCY OAKS BLVD",
@@ -55,18 +49,6 @@
       "Response_Date": "2025-12-05T09:23:03"
     },
     {
-      "Master_Incident_Number": "120525-00187",
-      "Online_Description": "WELFARE CHECK",
-      "Address": "600 BLOCK CLEVELAND ST",
-      "Response_Date": "2025-12-05T09:23:16"
-    },
-    {
-      "Master_Incident_Number": "120525-00186",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "-600 BLOCK 669 MANDALAY AVE",
-      "Response_Date": "2025-12-05T09:23:16"
-    },
-    {
       "Master_Incident_Number": "120525-00188",
       "Online_Description": "ALARM",
       "Address": "200 BLOCK PALM IS NW",
@@ -77,8 +59,26 @@
       "Online_Description": "ASSIST OTHER AGENCY",
       "Address": "600 BLOCK LAKEVIEW RD",
       "Response_Date": "2025-12-05T09:28:06"
+    },
+    {
+      "Master_Incident_Number": "120525-00192",
+      "Online_Description": "ALARM",
+      "Address": "1500 BLOCK LONG ST",
+      "Response_Date": "2025-12-05T09:31:06"
+    },
+    {
+      "Master_Incident_Number": "120525-00193",
+      "Online_Description": "TRAFFIC STOP",
+      "Address": "1900 BLOCK N HERCULES AVE",
+      "Response_Date": "2025-12-05T09:35:17"
+    },
+    {
+      "Master_Incident_Number": "120525-00194",
+      "Online_Description": "TRAFFIC STOP",
+      "Address": "GULF TO BAY BLVD / MCMULLEN BOOTH RD S",
+      "Response_Date": "2025-12-05T09:36:14"
     }
   ],
-  "timestamp": "2025-12-05T14:51:21.016958+00:00",
+  "timestamp": "2025-12-05T14:58:57.996989+00:00",
   "count": 13
 }
