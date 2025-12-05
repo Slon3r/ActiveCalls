@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 1396,
-  "total_resolved": 1389,
+  "total_calls_tracked": 1398,
+  "total_resolved": 1394,
   "call_types": {
-    "DIRECTED PATROL": 482,
+    "DIRECTED PATROL": 484,
     "TRAFFIC STOP": 206,
     "DRUNK DRIVER": 4,
     "DISTURBANCE": 31,
@@ -109,7 +109,7 @@
     "CLEVELAND ST/S MADISON AVE": 1,
     "2700 BLOCK GULF TO BAY BLVD": 15,
     "1400 BLOCK N HIBISCUS ST": 1,
-    "2900 BLOCK DREW ST": 3,
+    "2900 BLOCK DREW ST": 4,
     "21200 BLOCK US HIGHWAY 19 N": 4,
     "1700 BLOCK SUNSET POINT RD": 1,
     "2300 BLOCK GULF TO BAY BLVD": 3,
@@ -223,7 +223,7 @@
     "1300 BLOCK S FORT HARRISON AVE": 1,
     "HOLT AVE / RUSSELL ST": 1,
     "S GULFVIEW BLVD / SECOND ST": 1,
-    "2500 BLOCK COUNTRYSIDE BLVD": 7,
+    "2500 BLOCK COUNTRYSIDE BLVD": 8,
     "-300 BLOCK 339 CORONADO DR": 1,
     "-600 BLOCK 698 CLEVELAND ST": 1,
     "1500 BLOCK S HIGHLAND AVE": 2,
@@ -783,7 +783,7 @@
     "GULF TO BAY BLVD / MEADOW LARK LN": 1
   },
   "hourly_distribution": {
-    "0": 39,
+    "0": 41,
     "1": 41,
     "2": 27,
     "3": 27,
@@ -809,7 +809,7 @@
     "23": 39
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-05T05:25:47.356103+00:00",
+  "last_updated": "2025-12-05T05:42:51.984568+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 437
+  "total_snapshots": 438
 }
