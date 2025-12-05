@@ -7065,3 +7065,16 @@ TOTAL ACTIVE CALLS: 6
 
 --- RESOLVED CALLS (1) ---
 [RESOLVED] 120525-00244 | DIRECTED PATROL | 2800 BLOCK GLORIA CT | Response: 11:42 AM
+
+================================================================================
+TIMESTAMP: 2025-12-05T17:55:29.197844+00:00
+TOTAL ACTIVE CALLS: 8
+================================================================================
+
+--- NEW CALLS (3) ---
+[NEW] 120525-00265 | TRAFFIC CRASH | SKY HARBOR DR / GULF TO BAY BLVD | Response: 12:30 PM
+[NEW] 120525-00269 | HAZARD | GULF TO BAY BLVD / S BELCHER RD | Response: 12:34 PM
+[NEW] 120525-00270 | PARK WALK AND TALK | 200 BLOCK ISLAND WAY | Response: 12:34 PM
+
+--- RESOLVED CALLS (1) ---
+[RESOLVED] 120525-00238 | SUSPICIOUS EVENT | 1900 BLOCK DOUGLAS AVE | Response: 11:08 AM

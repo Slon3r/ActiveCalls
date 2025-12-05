@@ -1,6 +1,6 @@
 {
-  "total_calls_tracked": 1501,
-  "total_resolved": 1495,
+  "total_calls_tracked": 1504,
+  "total_resolved": 1496,
   "call_types": {
     "DIRECTED PATROL": 512,
     "TRAFFIC STOP": 223,
@@ -11,7 +11,7 @@
     "ALARM": 19,
     "KEEP THE PEACE": 22,
     "WELFARE CHECK": 32,
-    "PARK WALK AND TALK": 118,
+    "PARK WALK AND TALK": 119,
     "SUSPICIOUS PERSON": 64,
     "TRESPASS": 38,
     "PROPERTY FOUND/LOST": 6,
@@ -22,7 +22,7 @@
     "PANHANDLER/SOLICITOR": 3,
     "VEHICLE ILLEGALLY PARKED": 4,
     "SUSPICIOUS EVENT": 27,
-    "TRAFFIC CRASH": 66,
+    "TRAFFIC CRASH": 67,
     "DISABLED VEHICLE": 13,
     "ASSIST CITIZEN": 43,
     "ASSIST OTHER AGENCY": 22,
@@ -30,7 +30,7 @@
     "FRAUD": 12,
     "RECKLESS VEHICLE": 2,
     "JUVENILE CASE": 6,
-    "HAZARD": 3,
+    "HAZARD": 4,
     "UNKNOWN PROBLEM": 8,
     "NOISE COMPLAINT": 5,
     "CIVIL MATTER": 11,
@@ -58,7 +58,7 @@
   },
   "addresses": {
     "MEMORIAL CSWY / ISLAND WAY": 16,
-    "GULF TO BAY BLVD / S BELCHER RD": 3,
+    "GULF TO BAY BLVD / S BELCHER RD": 4,
     "1900 BLOCK N BETTY LN": 1,
     "1400 BLOCK CLEVELAND ST": 2,
     "1000 BLOCK WEST AVE": 1,
@@ -127,7 +127,7 @@
     "3300 BLOCK COURTNEY CAMPBELL CSWY": 5,
     "1200 BLOCK COURT ST": 3,
     "1400 BLOCK OWEN DR": 1,
-    "200 BLOCK ISLAND WAY": 2,
+    "200 BLOCK ISLAND WAY": 3,
     "-500 BLOCK BLK CLEVELAND ST": 1,
     "0 BLOCK MEMORIAL CSWY": 9,
     "COUNTRYSIDE BLVD / NORTHRIDGE DR": 1,
@@ -829,7 +829,8 @@
     "500 BLOCK S MYRTLE AVE": 1,
     "0 BLOCK S MISSOURI AVE": 1,
     "3300 BLOCK BLK- MASTERS DR": 1,
-    "GULF BLVD / MARINA DEL REY CT": 1
+    "GULF BLVD / MARINA DEL REY CT": 1,
+    "SKY HARBOR DR / GULF TO BAY BLVD": 1
   },
   "hourly_distribution": {
     "0": 47,
@@ -844,7 +845,7 @@
     "9": 105,
     "10": 103,
     "11": 98,
-    "12": 93,
+    "12": 96,
     "13": 91,
     "14": 103,
     "15": 105,
@@ -858,7 +859,7 @@
     "23": 40
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-05T17:47:39.040612+00:00",
+  "last_updated": "2025-12-05T17:55:29.200933+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 478
+  "total_snapshots": 479
 }

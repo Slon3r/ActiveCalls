@@ -7,12 +7,6 @@
       "Response_Date": "2025-12-05T10:58:33"
     },
     {
-      "Master_Incident_Number": "120525-00238",
-      "Online_Description": "SUSPICIOUS EVENT",
-      "Address": "1900 BLOCK DOUGLAS AVE",
-      "Response_Date": "2025-12-05T11:08:25"
-    },
-    {
       "Master_Incident_Number": "120525-00259",
       "Online_Description": "TRAFFIC CRASH",
       "Address": "GULF BLVD / MARINA DEL REY CT",
@@ -35,8 +29,26 @@
       "Online_Description": "PARK WALK AND TALK",
       "Address": "400 BLOCK CLEVELAND ST",
       "Response_Date": "2025-12-05T12:16:50"
+    },
+    {
+      "Master_Incident_Number": "120525-00265",
+      "Online_Description": "TRAFFIC CRASH",
+      "Address": "SKY HARBOR DR / GULF TO BAY BLVD",
+      "Response_Date": "2025-12-05T12:30:13"
+    },
+    {
+      "Master_Incident_Number": "120525-00269",
+      "Online_Description": "HAZARD",
+      "Address": "GULF TO BAY BLVD / S BELCHER RD",
+      "Response_Date": "2025-12-05T12:34:07"
+    },
+    {
+      "Master_Incident_Number": "120525-00270",
+      "Online_Description": "PARK WALK AND TALK",
+      "Address": "200 BLOCK ISLAND WAY",
+      "Response_Date": "2025-12-05T12:34:40"
     }
   ],
-  "timestamp": "2025-12-05T17:47:39.037580+00:00",
-  "count": 6
+  "timestamp": "2025-12-05T17:55:29.197844+00:00",
+  "count": 8
 }
