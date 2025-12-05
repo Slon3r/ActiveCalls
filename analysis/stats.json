@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 1527,
-  "total_resolved": 1516,
+  "total_calls_tracked": 1528,
+  "total_resolved": 1519,
   "call_types": {
     "DIRECTED PATROL": 518,
-    "TRAFFIC STOP": 227,
+    "TRAFFIC STOP": 228,
     "DRUNK DRIVER": 5,
     "DISTURBANCE": 33,
     "BATTERY": 6,
@@ -777,7 +777,7 @@
     "1300 BLOCK S MICHIGAN AVE": 1,
     "1500 BLOCK LINWOOD DR": 2,
     "800 BLOCK MANDALAY AVE": 1,
-    "N HIGHLAND AVE / OVERLEA ST": 1,
+    "N HIGHLAND AVE / OVERLEA ST": 2,
     "2700 BLOCK E GRAND RESERVE CIR": 1,
     "1600 BLOCK PALMETTO STREET": 1,
     "-1900 BLOCK 1998 MAGNOLIA DR": 1,
@@ -859,7 +859,7 @@
     "11": 98,
     "12": 105,
     "13": 105,
-    "14": 103,
+    "14": 104,
     "15": 105,
     "16": 97,
     "17": 81,
@@ -871,7 +871,7 @@
     "23": 40
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-05T19:17:59.867328+00:00",
+  "last_updated": "2025-12-05T19:30:16.248961+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 483
+  "total_snapshots": 484
 }
