@@ -546,6 +546,24 @@
           "Response_Date": "2025-12-05T00:44:13"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-05T07:54:33.167010+00:00",
+      "call_count": 2,
+      "calls": [
+        {
+          "Master_Incident_Number": "120425-00538",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "200 BLOCK S GLENWOOD AVE",
+          "Response_Date": "2025-12-05T02:24:40.703"
+        },
+        {
+          "Master_Incident_Number": "120525-00020",
+          "Online_Description": "DISTURBANCE",
+          "Address": "2100 BLOCK DREW ST",
+          "Response_Date": "2025-12-05T00:44:13"
+        }
+      ]
     }
   ]
 }
