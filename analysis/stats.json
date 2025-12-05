@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 1385,
-  "total_resolved": 1378,
+  "total_calls_tracked": 1388,
+  "total_resolved": 1381,
   "call_types": {
     "DIRECTED PATROL": 479,
-    "TRAFFIC STOP": 204,
+    "TRAFFIC STOP": 205,
     "DRUNK DRIVER": 4,
     "DISTURBANCE": 31,
     "BATTERY": 6,
@@ -25,7 +25,7 @@
     "TRAFFIC CRASH": 60,
     "DISABLED VEHICLE": 13,
     "ASSIST CITIZEN": 41,
-    "ASSIST OTHER AGENCY": 19,
+    "ASSIST OTHER AGENCY": 20,
     "FIRE": 2,
     "FRAUD": 12,
     "RECKLESS VEHICLE": 2,
@@ -51,7 +51,7 @@
     "CHILD PROTECTION INVESTIGATION": 2,
     "DRUNK PEDESTRIAN": 2,
     "ASSAULT": 3,
-    "PERSON DOWN": 3,
+    "PERSON DOWN": 4,
     "ROBBERY": 1
   },
   "addresses": {
@@ -202,7 +202,7 @@
     "1000 BLOCK N MADISON AVE": 1,
     "2800 BLOCK DREW ST": 2,
     "US HIGHWAY 19 N / GULF TO BAY BLVD": 1,
-    "300 BLOCK CORONADO DR": 10,
+    "300 BLOCK CORONADO DR": 11,
     "23600 BLOCK US HIGHWAY 19 N": 4,
     "300 BLOCK MANDALAY AVE": 1,
     "JONES ST / FERN AVE": 1,
@@ -489,7 +489,7 @@
     "-600 BLOCK 887 HARBOR IS": 1,
     "2500 BLOCK SANDS TER S": 1,
     "-600 BLOCK 804 SNUG IS": 1,
-    "700 BLOCK DREW ST": 1,
+    "700 BLOCK DREW ST": 2,
     "0 BLOCK 98 N MYRTLE AVE": 1,
     "2000 BLOCK GULF TO BAY BLVD": 3,
     "-3100 BLOCK 3195 SANDY RIDGE DR": 1,
@@ -762,7 +762,7 @@
     "FARRIER TRL / OLD COACHMAN RD": 1,
     "HAMLET AVE / LAKEVIEW RD": 1,
     "1500 BLOCK CHATEAUX DE VILLE CT": 1,
-    "MCMULLEN BOOTH RD / ENTERPRISE RD E": 1,
+    "MCMULLEN BOOTH RD / ENTERPRISE RD E": 2,
     "3100 BLOCK SAN MATEO ST": 1,
     "1600 BLOCK N BETTY LN": 1,
     "2500 BLOCK BRENTWOOD DR": 1,
@@ -801,10 +801,10 @@
     "20": 24,
     "21": 27,
     "22": 52,
-    "23": 31
+    "23": 34
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-05T04:28:39.422488+00:00",
+  "last_updated": "2025-12-05T04:50:14.884784+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 434
+  "total_snapshots": 435
 }
