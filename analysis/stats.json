@@ -1,6 +1,6 @@
 {
-  "total_calls_tracked": 1388,
-  "total_resolved": 1381,
+  "total_calls_tracked": 1390,
+  "total_resolved": 1385,
   "call_types": {
     "DIRECTED PATROL": 479,
     "TRAFFIC STOP": 205,
@@ -9,7 +9,7 @@
     "BATTERY": 6,
     "CRIMINAL MISCHIEF": 6,
     "ALARM": 17,
-    "KEEP THE PEACE": 21,
+    "KEEP THE PEACE": 22,
     "WELFARE CHECK": 31,
     "PARK WALK AND TALK": 105,
     "SUSPICIOUS PERSON": 57,
@@ -42,7 +42,7 @@
     "DECEASED PERSON": 1,
     "BURGLARY": 5,
     "SHOTS FIRED": 1,
-    "HIT & RUN": 12,
+    "HIT & RUN": 13,
     "SCHOOL CROSSING": 5,
     "ORDINANCE VIOLATION": 4,
     "ABANDONED VEHICLE": 5,
@@ -480,7 +480,7 @@
     "0 BLOCK N EVERGREEN AVE": 1,
     "-200 BLOCK 299 CORONADO DR": 1,
     "1500 BLOCK S WASHINGTON AVE": 1,
-    "22900 BLOCK US HIGHWAY 19 N": 2,
+    "22900 BLOCK US HIGHWAY 19 N": 3,
     "-2800 BLOCK 2865 MEADOW HILL DR S": 1,
     "1000 BLOCK PENNSYLVANIA AVE": 1,
     "US HIGHWAY 19 N / MCCORMICK DR": 1,
@@ -773,7 +773,7 @@
     "US HIGHWAY 19 N / ENTERPRISE RD": 1,
     "N FORT HARRISON AVE / LAURA ST": 1,
     "1300 BLOCK S MICHIGAN AVE": 1,
-    "1500 BLOCK LINWOOD DR": 1,
+    "1500 BLOCK LINWOOD DR": 2,
     "800 BLOCK MANDALAY AVE": 1,
     "N HIGHLAND AVE / OVERLEA ST": 1
   },
@@ -800,11 +800,11 @@
     "19": 13,
     "20": 24,
     "21": 27,
-    "22": 52,
-    "23": 34
+    "22": 53,
+    "23": 35
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-05T04:50:14.884784+00:00",
+  "last_updated": "2025-12-05T04:59:49.197599+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 435
+  "total_snapshots": 436
 }
