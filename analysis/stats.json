@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 1545,
-  "total_resolved": 1538,
+  "total_calls_tracked": 1549,
+  "total_resolved": 1542,
   "call_types": {
     "DIRECTED PATROL": 522,
-    "TRAFFIC STOP": 229,
+    "TRAFFIC STOP": 230,
     "DRUNK DRIVER": 5,
     "DISTURBANCE": 33,
     "BATTERY": 6,
@@ -11,10 +11,10 @@
     "ALARM": 19,
     "KEEP THE PEACE": 22,
     "WELFARE CHECK": 32,
-    "PARK WALK AND TALK": 124,
+    "PARK WALK AND TALK": 125,
     "SUSPICIOUS PERSON": 65,
     "TRESPASS": 38,
-    "PROPERTY FOUND/LOST": 8,
+    "PROPERTY FOUND/LOST": 9,
     "THEFT": 23,
     "NEIGHBOR CALL": 7,
     "911 HANG-UP": 57,
@@ -35,7 +35,7 @@
     "NOISE COMPLAINT": 5,
     "CIVIL MATTER": 11,
     "DOMESTIC": 14,
-    "ANIMAL CASE": 4,
+    "ANIMAL CASE": 5,
     "MISSING PERSON": 18,
     "BUILDING CHECK": 5,
     "SHOPLIFTING": 3,
@@ -128,7 +128,7 @@
     "3300 BLOCK COURTNEY CAMPBELL CSWY": 5,
     "1200 BLOCK COURT ST": 3,
     "1400 BLOCK OWEN DR": 1,
-    "200 BLOCK ISLAND WAY": 3,
+    "200 BLOCK ISLAND WAY": 4,
     "-500 BLOCK BLK CLEVELAND ST": 1,
     "0 BLOCK MEMORIAL CSWY": 9,
     "COUNTRYSIDE BLVD / NORTHRIDGE DR": 1,
@@ -205,7 +205,7 @@
     "1000 BLOCK N MADISON AVE": 1,
     "2800 BLOCK DREW ST": 2,
     "US HIGHWAY 19 N / GULF TO BAY BLVD": 1,
-    "300 BLOCK CORONADO DR": 13,
+    "300 BLOCK CORONADO DR": 14,
     "23600 BLOCK US HIGHWAY 19 N": 4,
     "300 BLOCK MANDALAY AVE": 1,
     "JONES ST / FERN AVE": 1,
@@ -852,7 +852,9 @@
     "GULF TO BAY BLVD / S LAKE AVE": 1,
     "1200 BLOCK S FORT HARRISON AVE": 1,
     "500 BLOCK S BELCHER RD": 1,
-    "100 BLOCK ISLAND WAY": 1
+    "100 BLOCK ISLAND WAY": 1,
+    "1500 BLOCK S BELCHER RD": 1,
+    "S MARTIN LUTHER KING JR AVE / WOODLAWN ST": 1
   },
   "hourly_distribution": {
     "0": 47,
@@ -870,8 +872,8 @@
     "12": 105,
     "13": 105,
     "14": 117,
-    "15": 109,
-    "16": 97,
+    "15": 112,
+    "16": 98,
     "17": 81,
     "18": 68,
     "19": 13,
@@ -881,7 +883,7 @@
     "23": 40
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-05T20:59:12.164930+00:00",
+  "last_updated": "2025-12-05T21:22:16.301993+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 491
+  "total_snapshots": 492
 }
