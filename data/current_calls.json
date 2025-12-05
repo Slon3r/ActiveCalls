@@ -1,24 +1,18 @@
 {
   "calls": [
     {
-      "Master_Incident_Number": "120525-00094",
-      "Online_Description": "PARK WALK AND TALK",
-      "Address": "300 BLOCK CORONADO DR",
-      "Response_Date": "2025-12-05T06:07:25"
+      "Master_Incident_Number": "120525-00098",
+      "Online_Description": "911 HANG-UP",
+      "Address": "1700 BLOCK N HIGHLAND AVE",
+      "Response_Date": "2025-12-05T06:08:38"
     },
     {
-      "Master_Incident_Number": "120525-00095",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "-600 BLOCK 617 MANDALAY AVE",
-      "Response_Date": "2025-12-05T06:07:28"
-    },
-    {
-      "Master_Incident_Number": "120525-00097",
-      "Online_Description": "SUSPICIOUS PERSON",
-      "Address": "600 BLOCK CLEVELAND ST",
-      "Response_Date": "2025-12-05T06:08:43"
+      "Master_Incident_Number": "120525-00102",
+      "Online_Description": "TRAFFIC STOP",
+      "Address": "N FORT HARRISON AVE / VENETIAN POINT DR",
+      "Response_Date": "2025-12-05T06:18:47"
     }
   ],
-  "timestamp": "2025-12-05T11:29:37.740027+00:00",
-  "count": 3
+  "timestamp": "2025-12-05T11:41:47.405090+00:00",
+  "count": 2
 }

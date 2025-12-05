@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 1422,
-  "total_resolved": 1419,
+  "total_calls_tracked": 1424,
+  "total_resolved": 1422,
   "call_types": {
     "DIRECTED PATROL": 492,
-    "TRAFFIC STOP": 212,
+    "TRAFFIC STOP": 213,
     "DRUNK DRIVER": 4,
     "DISTURBANCE": 32,
     "BATTERY": 6,
@@ -17,7 +17,7 @@
     "PROPERTY FOUND/LOST": 6,
     "THEFT": 20,
     "NEIGHBOR CALL": 7,
-    "911 HANG-UP": 45,
+    "911 HANG-UP": 46,
     "SUSPICIOUS VEHICLE": 12,
     "PANHANDLER/SOLICITOR": 3,
     "VEHICLE ILLEGALLY PARKED": 4,
@@ -791,7 +791,9 @@
     "-1700 BLOCK 1798 CLEVELAND ST": 1,
     "1100 BLOCK S MYRTLE AVE": 1,
     "1500 BLOCK GULF TO BAY BLVD": 2,
-    "-600 BLOCK 617 MANDALAY AVE": 1
+    "-600 BLOCK 617 MANDALAY AVE": 1,
+    "1700 BLOCK N HIGHLAND AVE": 1,
+    "N FORT HARRISON AVE / VENETIAN POINT DR": 1
   },
   "hourly_distribution": {
     "0": 47,
@@ -800,7 +802,7 @@
     "3": 29,
     "4": 13,
     "5": 41,
-    "6": 46,
+    "6": 48,
     "7": 34,
     "8": 82,
     "9": 88,
@@ -820,7 +822,7 @@
     "23": 40
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-05T11:29:37.741752+00:00",
+  "last_updated": "2025-12-05T11:41:47.406924+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 458
+  "total_snapshots": 459
 }
