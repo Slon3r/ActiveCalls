@@ -6760,3 +6760,13 @@ TOTAL ACTIVE CALLS: 3
 
 --- RESOLVED CALLS (1) ---
 [RESOLVED] 120525-00102 | TRAFFIC STOP | N FORT HARRISON AVE / VENETIAN POINT DR | Response: 06:18 AM
+
+================================================================================
+TIMESTAMP: 2025-12-05T11:58:09.093023+00:00
+TOTAL ACTIVE CALLS: 0
+================================================================================
+
+--- RESOLVED CALLS (3) ---
+[RESOLVED] 120525-00098 | 911 HANG-UP | 1700 BLOCK N HIGHLAND AVE | Response: 06:08 AM
+[RESOLVED] 120525-00103 | DIRECTED PATROL | 300 BLOCK CLEVELAND ST | Response: 06:24 AM
+[RESOLVED] 120525-00105 | TRAFFIC STOP | COUNTRYSIDE BLVD / WINDING WOOD DR | Response: 06:28 AM
