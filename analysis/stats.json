@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 1565,
-  "total_resolved": 1557,
+  "total_calls_tracked": 1571,
+  "total_resolved": 1558,
   "call_types": {
-    "DIRECTED PATROL": 524,
-    "TRAFFIC STOP": 234,
+    "DIRECTED PATROL": 527,
+    "TRAFFIC STOP": 235,
     "DRUNK DRIVER": 5,
     "DISTURBANCE": 33,
     "BATTERY": 6,
@@ -11,7 +11,7 @@
     "ALARM": 19,
     "KEEP THE PEACE": 22,
     "WELFARE CHECK": 33,
-    "PARK WALK AND TALK": 125,
+    "PARK WALK AND TALK": 126,
     "SUSPICIOUS PERSON": 66,
     "TRESPASS": 38,
     "PROPERTY FOUND/LOST": 11,
@@ -48,7 +48,7 @@
     "ABANDONED VEHICLE": 6,
     "CHILD ABUSE": 2,
     "FIGHT": 1,
-    "CHILD PROTECTION INVESTIGATION": 3,
+    "CHILD PROTECTION INVESTIGATION": 4,
     "DRUNK PEDESTRIAN": 2,
     "ASSAULT": 5,
     "PERSON DOWN": 4,
@@ -131,7 +131,7 @@
     "1400 BLOCK OWEN DR": 1,
     "200 BLOCK ISLAND WAY": 5,
     "-500 BLOCK BLK CLEVELAND ST": 1,
-    "0 BLOCK MEMORIAL CSWY": 9,
+    "0 BLOCK MEMORIAL CSWY": 10,
     "COUNTRYSIDE BLVD / NORTHRIDGE DR": 1,
     "NE COACHMAN RD / US HIGHWAY 19 N": 2,
     "LOTUS PATH / BAY AVE": 1,
@@ -313,7 +313,7 @@
     "DREW ST / PINEWOOD AVE": 1,
     "2800 BLOCK GULF TO BAY BLVD": 3,
     "19100 BLOCK US HIGHWAY 19 N": 2,
-    "1200 BLOCK S HIGHLAND AVE": 5,
+    "1200 BLOCK S HIGHLAND AVE": 6,
     "1200 BLOCK TURNER ST": 1,
     "THIRD ST / CORONADO DR": 1,
     "900 BLOCK N MCMULLEN BOOTH RD": 1,
@@ -496,7 +496,7 @@
     "700 BLOCK DREW ST": 2,
     "0 BLOCK 98 N MYRTLE AVE": 1,
     "2000 BLOCK GULF TO BAY BLVD": 5,
-    "-3100 BLOCK 3195 SANDY RIDGE DR": 1,
+    "-3100 BLOCK 3195 SANDY RIDGE DR": 2,
     "COURT ST / S HILLCREST AVE ": 1,
     "700 BLOCK BRUCE AVE": 1,
     "1500 BLOCK SADLON AVE": 1,
@@ -864,7 +864,10 @@
     "COURT ST / S MARTIN LUTHER KING JR AVE": 1,
     "CALUMET ST / N BELCHER RD": 1,
     "S PROSPECT AVE / GRAND CENTRAL ST": 1,
-    "-2900 BLOCK 2998 MEADOW OAK DR S": 1
+    "-2900 BLOCK 2998 MEADOW OAK DR S": 1,
+    "1200 BLOCK FRANKLIN ST": 1,
+    "21500 BLOCK US HIGHWAY 19 N": 1,
+    "-300 BLOCK 499 S MAIN AVE": 1
   },
   "hourly_distribution": {
     "0": 47,
@@ -884,7 +887,7 @@
     "14": 119,
     "15": 116,
     "16": 107,
-    "17": 82,
+    "17": 88,
     "18": 68,
     "19": 13,
     "20": 24,
@@ -893,7 +896,7 @@
     "23": 40
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-05T22:44:26.143757+00:00",
+  "last_updated": "2025-12-05T22:52:29.117964+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 498
+  "total_snapshots": 499
 }

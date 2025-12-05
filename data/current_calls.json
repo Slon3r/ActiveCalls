@@ -43,12 +43,42 @@
       "Response_Date": "2025-12-05T16:50:02"
     },
     {
-      "Master_Incident_Number": "120525-00405",
+      "Master_Incident_Number": "120525-00404",
+      "Online_Description": "CHILD PROTECTION INVESTIGATION",
+      "Address": "1200 BLOCK FRANKLIN ST",
+      "Response_Date": "2025-12-05T17:19:09"
+    },
+    {
+      "Master_Incident_Number": "120525-00409",
+      "Online_Description": "PARK WALK AND TALK",
+      "Address": "1200 BLOCK S HIGHLAND AVE",
+      "Response_Date": "2025-12-05T17:26:31"
+    },
+    {
+      "Master_Incident_Number": "120525-00412",
       "Online_Description": "DIRECTED PATROL",
-      "Address": "-2900 BLOCK 2998 MEADOW OAK DR S",
-      "Response_Date": "2025-12-05T17:22:37"
+      "Address": "21500 BLOCK US HIGHWAY 19 N",
+      "Response_Date": "2025-12-05T17:27:10"
+    },
+    {
+      "Master_Incident_Number": "120525-00415",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "-300 BLOCK 499 S MAIN AVE",
+      "Response_Date": "2025-12-05T17:30:15"
+    },
+    {
+      "Master_Incident_Number": "120525-00416",
+      "Online_Description": "TRAFFIC STOP",
+      "Address": "0 BLOCK MEMORIAL CSWY",
+      "Response_Date": "2025-12-05T17:30:41"
+    },
+    {
+      "Master_Incident_Number": "120525-00417",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "-3100 BLOCK 3195 SANDY RIDGE DR",
+      "Response_Date": "2025-12-05T17:31:26"
     }
   ],
-  "timestamp": "2025-12-05T22:44:26.139547+00:00",
-  "count": 8
+  "timestamp": "2025-12-05T22:52:29.113659+00:00",
+  "count": 13
 }
