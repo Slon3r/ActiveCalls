@@ -25,18 +25,36 @@
       "Response_Date": "2025-12-05T14:41:29"
     },
     {
+      "Master_Incident_Number": "120525-00343",
+      "Online_Description": "ASSIST CITIZEN",
+      "Address": "100 BLOCK ISLAND WAY",
+      "Response_Date": "2025-12-05T14:51:34"
+    },
+    {
       "Master_Incident_Number": "120525-00344",
       "Online_Description": "PROPERTY FOUND/LOST",
       "Address": "500 BLOCK S BELCHER RD",
       "Response_Date": "2025-12-05T14:57:19"
     },
     {
-      "Master_Incident_Number": "120525-00352",
-      "Online_Description": "PARK WALK AND TALK",
-      "Address": "1200 BLOCK GULF BLVD",
-      "Response_Date": "2025-12-05T15:11:50"
+      "Master_Incident_Number": "120525-00354",
+      "Online_Description": "911 HANG-UP",
+      "Address": "1800 BLOCK N HIGHLAND AVE",
+      "Response_Date": "2025-12-05T15:22:40"
+    },
+    {
+      "Master_Incident_Number": "120525-00358",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "3000 BLOCK COUNTRYSIDE BLVD",
+      "Response_Date": "2025-12-05T15:27:58"
+    },
+    {
+      "Master_Incident_Number": "120525-00359",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "600 BLOCK PIERCE ST",
+      "Response_Date": "2025-12-05T15:29:43"
     }
   ],
-  "timestamp": "2025-12-05T20:40:19.786472+00:00",
-  "count": 6
+  "timestamp": "2025-12-05T20:51:27.455650+00:00",
+  "count": 9
 }
