@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 1530,
-  "total_resolved": 1520,
+  "total_calls_tracked": 1531,
+  "total_resolved": 1523,
   "call_types": {
-    "DIRECTED PATROL": 519,
+    "DIRECTED PATROL": 520,
     "TRAFFIC STOP": 228,
     "DRUNK DRIVER": 5,
     "DISTURBANCE": 33,
@@ -844,7 +844,8 @@
     "N WASHINGTON AVE / FAIRMONT ST": 1,
     "2600 BLOCK DREW ST": 1,
     "700 BLOCK N MYRTLE AVE": 1,
-    "-1000 BLOCK 1198 MANDALAY POINT RD": 1
+    "-1000 BLOCK 1198 MANDALAY POINT RD": 1,
+    "N BETTY LN / OTIS C GREEN DR": 1
   },
   "hourly_distribution": {
     "0": 47,
@@ -861,7 +862,7 @@
     "11": 98,
     "12": 105,
     "13": 105,
-    "14": 106,
+    "14": 107,
     "15": 105,
     "16": 97,
     "17": 81,
@@ -873,7 +874,7 @@
     "23": 40
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-05T19:40:23.323044+00:00",
+  "last_updated": "2025-12-05T19:48:20.088478+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 485
+  "total_snapshots": 486
 }

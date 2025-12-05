@@ -31,22 +31,10 @@
       "Response_Date": "2025-12-05T13:22:37"
     },
     {
-      "Master_Incident_Number": "120525-00302",
-      "Online_Description": "MISSING PERSON",
-      "Address": "2000 BLOCK N HIGHLAND AVE",
-      "Response_Date": "2025-12-05T13:29:09"
-    },
-    {
       "Master_Incident_Number": "120525-00304",
       "Online_Description": "DOMESTIC",
       "Address": "2600 BLOCK DREW ST",
       "Response_Date": "2025-12-05T13:33:10"
-    },
-    {
-      "Master_Incident_Number": "120525-00306",
-      "Online_Description": "PARK WALK AND TALK",
-      "Address": "300 BLOCK CORONADO DR",
-      "Response_Date": "2025-12-05T13:38:41"
     },
     {
       "Master_Incident_Number": "120525-00317",
@@ -55,12 +43,12 @@
       "Response_Date": "2025-12-05T14:02:56"
     },
     {
-      "Master_Incident_Number": "120525-00321",
+      "Master_Incident_Number": "120525-00323",
       "Online_Description": "DIRECTED PATROL",
-      "Address": "-1000 BLOCK 1198 MANDALAY POINT RD",
-      "Response_Date": "2025-12-05T14:14:43"
+      "Address": "N BETTY LN / OTIS C GREEN DR",
+      "Response_Date": "2025-12-05T14:21:19"
     }
   ],
-  "timestamp": "2025-12-05T19:40:23.319307+00:00",
-  "count": 10
+  "timestamp": "2025-12-05T19:48:20.084608+00:00",
+  "count": 8
 }
