@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 1409,
+  "total_calls_tracked": 1411,
   "total_resolved": 1408,
   "call_types": {
-    "DIRECTED PATROL": 487,
+    "DIRECTED PATROL": 489,
     "TRAFFIC STOP": 211,
     "DRUNK DRIVER": 4,
     "DISTURBANCE": 32,
@@ -786,12 +786,14 @@
     "2100 BLOCK DREW ST": 1,
     "1300 BLOCK YOUNG AVE": 1,
     "-1700 BLOCK 1718 DRUID RD": 1,
-    "-1700 BLOCK 1769 DOUGLAS AVE": 1
+    "-1700 BLOCK 1769 DOUGLAS AVE": 1,
+    "1800 BLOCK N BETTY LANE": 1,
+    "-1700 BLOCK 1798 CLEVELAND ST": 1
   },
   "hourly_distribution": {
     "0": 47,
     "1": 45,
-    "2": 27,
+    "2": 29,
     "3": 27,
     "4": 13,
     "5": 37,
@@ -815,7 +817,7 @@
     "23": 40
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-05T07:21:58.962408+00:00",
+  "last_updated": "2025-12-05T07:37:55.584992+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 443
+  "total_snapshots": 444
 }
