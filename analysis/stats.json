@@ -1,11 +1,11 @@
 {
-  "total_calls_tracked": 1403,
-  "total_resolved": 1398,
+  "total_calls_tracked": 1407,
+  "total_resolved": 1402,
   "call_types": {
-    "DIRECTED PATROL": 485,
-    "TRAFFIC STOP": 209,
+    "DIRECTED PATROL": 486,
+    "TRAFFIC STOP": 210,
     "DRUNK DRIVER": 4,
-    "DISTURBANCE": 31,
+    "DISTURBANCE": 32,
     "BATTERY": 6,
     "CRIMINAL MISCHIEF": 6,
     "ALARM": 17,
@@ -36,7 +36,7 @@
     "CIVIL MATTER": 11,
     "DOMESTIC": 12,
     "ANIMAL CASE": 3,
-    "MISSING PERSON": 15,
+    "MISSING PERSON": 16,
     "BUILDING CHECK": 5,
     "SHOPLIFTING": 3,
     "DECEASED PERSON": 1,
@@ -374,7 +374,7 @@
     "1000 BLOCK MOHAWK ST": 1,
     "400 BLOCK S HILLCREST AVE": 2,
     "-300 BLOCK 338 CORONADO DR": 1,
-    "GULF TO BAY BLVD / BAY ST": 1,
+    "GULF TO BAY BLVD / BAY ST": 2,
     "700 BLOCK BAYVIEW AVE": 1,
     "-1100 BLOCK 1198 N MARTIN LUTHER KING JR AVE": 2,
     "1500 BLOCK DRUID RD": 1,
@@ -782,11 +782,14 @@
     "-1900 BLOCK 1998 MAGNOLIA DR": 1,
     "GULF TO BAY BLVD / MEADOW LARK LN": 1,
     "GULF TO BAY BLVD / MCMULLEN BOOTH RD S SERVICE RD": 1,
-    "US HIGHWAY 19 N / SOUTH DR": 1
+    "US HIGHWAY 19 N / SOUTH DR": 1,
+    "2100 BLOCK DREW ST": 1,
+    "1300 BLOCK YOUNG AVE": 1,
+    "-1700 BLOCK 1718 DRUID RD": 1
   },
   "hourly_distribution": {
-    "0": 45,
-    "1": 41,
+    "0": 47,
+    "1": 43,
     "2": 27,
     "3": 27,
     "4": 13,
@@ -811,7 +814,7 @@
     "23": 40
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-05T05:59:27.648201+00:00",
+  "last_updated": "2025-12-05T06:38:36.391800+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 440
+  "total_snapshots": 441
 }
