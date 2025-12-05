@@ -1,6 +1,6 @@
 {
-  "total_calls_tracked": 1412,
-  "total_resolved": 1410,
+  "total_calls_tracked": 1413,
+  "total_resolved": 1412,
   "call_types": {
     "DIRECTED PATROL": 490,
     "TRAFFIC STOP": 211,
@@ -11,7 +11,7 @@
     "ALARM": 17,
     "KEEP THE PEACE": 22,
     "WELFARE CHECK": 31,
-    "PARK WALK AND TALK": 105,
+    "PARK WALK AND TALK": 106,
     "SUSPICIOUS PERSON": 57,
     "TRESPASS": 37,
     "PROPERTY FOUND/LOST": 6,
@@ -788,12 +788,13 @@
     "-1700 BLOCK 1718 DRUID RD": 1,
     "-1700 BLOCK 1769 DOUGLAS AVE": 1,
     "1800 BLOCK N BETTY LANE": 1,
-    "-1700 BLOCK 1798 CLEVELAND ST": 1
+    "-1700 BLOCK 1798 CLEVELAND ST": 1,
+    "1100 BLOCK S MYRTLE AVE": 1
   },
   "hourly_distribution": {
     "0": 47,
     "1": 45,
-    "2": 30,
+    "2": 31,
     "3": 27,
     "4": 13,
     "5": 37,
@@ -817,7 +818,7 @@
     "23": 40
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-05T07:54:33.251823+00:00",
+  "last_updated": "2025-12-05T08:18:23.119672+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 446
+  "total_snapshots": 447
 }
