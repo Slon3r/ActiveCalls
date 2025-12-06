@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 1706,
-  "total_resolved": 1699,
+  "total_calls_tracked": 1708,
+  "total_resolved": 1700,
   "call_types": {
-    "DIRECTED PATROL": 565,
+    "DIRECTED PATROL": 566,
     "TRAFFIC STOP": 256,
     "DRUNK DRIVER": 5,
     "DISTURBANCE": 43,
@@ -57,7 +57,7 @@
     "STALKING": 1,
     "TRAFFIC CONTROL": 1,
     "WIRES DOWN": 1,
-    "PROTEST/DEMONSTRATION": 1
+    "PROTEST/DEMONSTRATION": 2
   },
   "addresses": {
     "MEMORIAL CSWY / ISLAND WAY": 17,
@@ -203,7 +203,7 @@
     "1200 BLOCK S MARTIN LUTHER KING JR AVE": 1,
     "2000 BLOCK PARAGON CIR W": 1,
     "1800 BLOCK GULF TO BAY BLVD": 4,
-    "S MAIN AVE / RAINBOW DR": 4,
+    "S MAIN AVE / RAINBOW DR": 5,
     "1000 BLOCK N MADISON AVE": 1,
     "2800 BLOCK DREW ST": 2,
     "US HIGHWAY 19 N / GULF TO BAY BLVD": 2,
@@ -230,7 +230,7 @@
     "2500 BLOCK COUNTRYSIDE BLVD": 11,
     "-300 BLOCK 339 CORONADO DR": 1,
     "-600 BLOCK 698 CLEVELAND ST": 1,
-    "1500 BLOCK S HIGHLAND AVE": 2,
+    "1500 BLOCK S HIGHLAND AVE": 3,
     "PINELLAS ST / S FORT HARRISON AVE": 1,
     "1600 BLOCK N ARCTURAS AVE": 3,
     "1100 BLOCK BECKETT ST": 9,
@@ -932,7 +932,7 @@
     "7": 48,
     "8": 110,
     "9": 118,
-    "10": 108,
+    "10": 110,
     "11": 98,
     "12": 105,
     "13": 105,
@@ -948,7 +948,7 @@
     "23": 49
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-06T15:42:59.241772+00:00",
+  "last_updated": "2025-12-06T15:50:39.580847+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 555
+  "total_snapshots": 556
 }

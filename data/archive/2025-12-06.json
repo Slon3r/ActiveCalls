@@ -1657,6 +1657,60 @@
           "Response_Date": "2025-12-06T10:17:17"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-06T15:50:39.577866+00:00",
+      "call_count": 8,
+      "calls": [
+        {
+          "Master_Incident_Number": "120625-00188",
+          "Online_Description": "THEFT",
+          "Address": "700 BLOCK N FORT HARRISON AVE",
+          "Response_Date": "2025-12-06T09:42:44"
+        },
+        {
+          "Master_Incident_Number": "120625-00194",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "2600 BLOCK SABAL SPRINGS DR",
+          "Response_Date": "2025-12-06T10:01:58"
+        },
+        {
+          "Master_Incident_Number": "120625-00196",
+          "Online_Description": "PROTEST/DEMONSTRATION",
+          "Address": "1500 BLOCK S HIGHLAND AVE",
+          "Response_Date": "2025-12-06T10:05:30"
+        },
+        {
+          "Master_Incident_Number": "120625-00197",
+          "Online_Description": "DISTURBANCE",
+          "Address": "1000 BLOCK WEST AVE",
+          "Response_Date": "2025-12-06T10:08:47"
+        },
+        {
+          "Master_Incident_Number": "120625-00199",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "1000 BLOCK GULF BLVD",
+          "Response_Date": "2025-12-06T10:12:24"
+        },
+        {
+          "Master_Incident_Number": "120625-00200",
+          "Online_Description": "911 HANG-UP",
+          "Address": "1900 BLOCK STARDUST DR",
+          "Response_Date": "2025-12-06T10:13:16"
+        },
+        {
+          "Master_Incident_Number": "120625-00201",
+          "Online_Description": "ALARM",
+          "Address": "1800 BLOCK PINE ST",
+          "Response_Date": "2025-12-06T10:17:17"
+        },
+        {
+          "Master_Incident_Number": "120625-00202",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "S MAIN AVE / RAINBOW DR",
+          "Response_Date": "2025-12-06T10:28:50"
+        }
+      ]
     }
   ]
 }
