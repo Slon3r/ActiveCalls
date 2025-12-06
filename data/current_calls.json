@@ -13,48 +13,42 @@
       "Response_Date": "2025-12-06T10:05:30"
     },
     {
-      "Master_Incident_Number": "120625-00197",
-      "Online_Description": "DISTURBANCE",
-      "Address": "1000 BLOCK WEST AVE",
-      "Response_Date": "2025-12-06T10:08:47"
-    },
-    {
       "Master_Incident_Number": "120625-00199",
       "Online_Description": "DIRECTED PATROL",
       "Address": "1000 BLOCK GULF BLVD",
       "Response_Date": "2025-12-06T10:12:24"
     },
     {
-      "Master_Incident_Number": "120625-00201",
-      "Online_Description": "ALARM",
-      "Address": "1800 BLOCK PINE ST",
-      "Response_Date": "2025-12-06T10:17:17"
-    },
-    {
-      "Master_Incident_Number": "120625-00202",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "S MAIN AVE / RAINBOW DR",
-      "Response_Date": "2025-12-06T10:28:50"
-    },
-    {
-      "Master_Incident_Number": "120625-00203",
-      "Online_Description": "ASSIST OTHER AGENCY",
-      "Address": "1200 BLOCK STATE ST",
-      "Response_Date": "2025-12-06T10:29:53"
-    },
-    {
       "Master_Incident_Number": "120625-00205",
-      "Online_Description": "TRAFFIC CRASH",
+      "Online_Description": "HIT & RUN",
       "Address": "20500 BLOCK US HIGHWAY 19 N",
       "Response_Date": "2025-12-06T10:35:11"
     },
     {
-      "Master_Incident_Number": "120625-00206",
+      "Master_Incident_Number": "120625-00207",
+      "Online_Description": "ANIMAL CASE",
+      "Address": "1000 BLOCK FAIRBURN AVE",
+      "Response_Date": "2025-12-06T10:38:23"
+    },
+    {
+      "Master_Incident_Number": "120625-00209",
+      "Online_Description": "SUSPICIOUS EVENT",
+      "Address": "21200 BLOCK US HIGHWAY 19 N",
+      "Response_Date": "2025-12-06T10:47:34"
+    },
+    {
+      "Master_Incident_Number": "120625-00210",
       "Online_Description": "DIRECTED PATROL",
-      "Address": "KINGS HWY / PALMETTO ST",
-      "Response_Date": "2025-12-06T10:37:13"
+      "Address": "MCCORMICK DR / SECOND ST E",
+      "Response_Date": "2025-12-06T10:50:18"
+    },
+    {
+      "Master_Incident_Number": "120625-00214",
+      "Online_Description": "PARK WALK AND TALK",
+      "Address": "-500 BLOCK BLK CLEVELAND ST",
+      "Response_Date": "2025-12-06T11:01:38"
     }
   ],
-  "timestamp": "2025-12-06T15:58:40.372786+00:00",
-  "count": 9
+  "timestamp": "2025-12-06T16:26:34.176780+00:00",
+  "count": 8
 }
