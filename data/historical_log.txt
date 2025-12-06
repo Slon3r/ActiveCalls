@@ -8485,3 +8485,12 @@ TOTAL ACTIVE CALLS: 7
 
 --- RESOLVED CALLS (1) ---
 [RESOLVED] 120625-00314 | TRAFFIC STOP | US HIGHWAY 19 N / SR 590 | Response: 03:08 PM
+
+================================================================================
+TIMESTAMP: 2025-12-06T21:45:55.890702+00:00
+TOTAL ACTIVE CALLS: 9
+================================================================================
+
+--- NEW CALLS (2) ---
+[NEW] 120625-00347 | 911 HANG-UP | 27000 BLOCK US HIGHWAY 19 N | Response: 04:12 PM
+[NEW] 120625-00349 | CRIMINAL MISCHIEF | 3000 BLOCK DREW ST | Response: 04:17 PM
