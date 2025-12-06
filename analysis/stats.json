@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 1751,
-  "total_resolved": 1744,
+  "total_calls_tracked": 1757,
+  "total_resolved": 1748,
   "call_types": {
-    "DIRECTED PATROL": 577,
-    "TRAFFIC STOP": 259,
+    "DIRECTED PATROL": 578,
+    "TRAFFIC STOP": 261,
     "DRUNK DRIVER": 5,
     "DISTURBANCE": 43,
     "BATTERY": 8,
@@ -11,7 +11,7 @@
     "ALARM": 25,
     "KEEP THE PEACE": 24,
     "WELFARE CHECK": 37,
-    "PARK WALK AND TALK": 153,
+    "PARK WALK AND TALK": 154,
     "SUSPICIOUS PERSON": 71,
     "TRESPASS": 43,
     "PROPERTY FOUND/LOST": 12,
@@ -28,7 +28,7 @@
     "ASSIST OTHER AGENCY": 29,
     "FIRE": 2,
     "FRAUD": 14,
-    "RECKLESS VEHICLE": 3,
+    "RECKLESS VEHICLE": 4,
     "JUVENILE CASE": 6,
     "HAZARD": 4,
     "UNKNOWN PROBLEM": 9,
@@ -42,7 +42,7 @@
     "DECEASED PERSON": 1,
     "BURGLARY": 9,
     "SHOTS FIRED": 1,
-    "HIT & RUN": 14,
+    "HIT & RUN": 15,
     "SCHOOL CROSSING": 6,
     "ORDINANCE VIOLATION": 5,
     "ABANDONED VEHICLE": 6,
@@ -68,7 +68,7 @@
     "600 BLOCK S GULFVIEW BLVD": 9,
     "-800 BLOCK 1099 MARSHALL ST": 1,
     "US HIGHWAY 19 N / DREW ST": 14,
-    "US HIGHWAY 19 N / SR 590": 2,
+    "US HIGHWAY 19 N / SR 590": 3,
     "1100 BLOCK DRUID RD": 3,
     "2100 BLOCK RANGE RD": 1,
     "0 BLOCK ACACIA ST": 5,
@@ -253,7 +253,7 @@
     "MCMULLEN BOOTH RD / DREW ST": 1,
     "2000 BLOCK MADRID CT N": 1,
     "BAYSIDE BRG / BAYSIDE BRG SERVICE RD": 2,
-    "800 BLOCK S MISSOURI AVE": 1,
+    "800 BLOCK S MISSOURI AVE": 2,
     "-500 BLOCK 699 S GULFVIEW BLVD": 1,
     "1000 BLOCK MARSHALL ST": 2,
     "0 BLOCK BAYMONT ST": 1,
@@ -421,7 +421,7 @@
     "US HIGHWAY 19 N / NURSERY RD": 3,
     "18900 BLOCK US HIGHWAY 19 N": 2,
     "400 BLOCK BAY AVE": 2,
-    "GULF TO BAY BLVD / US HIGHWAY 19 N": 5,
+    "GULF TO BAY BLVD / US HIGHWAY 19 N": 6,
     "1400 BLOCK GULF BLVD": 3,
     "900 BLOCK NARCISSUS AVE": 1,
     "GARDEN AVE/ CLEVELAND ST": 1,
@@ -939,7 +939,10 @@
     "MONTCLAIR RD / SETON DR": 1,
     "-2600 BLOCK 2625 SOUTH DR": 1,
     "0 BLOCK 27 N FORT HARRISON AVE": 1,
-    "DREW ST / PARK PLACE BLVD": 1
+    "DREW ST / PARK PLACE BLVD": 1,
+    "DOUGLAS AVE / SUNSET POINT RD": 1,
+    "800 BLOCK COURT ST": 1,
+    "SOUTH SHORE BLVD": 1
   },
   "hourly_distribution": {
     "0": 58,
@@ -956,7 +959,7 @@
     "11": 107,
     "12": 114,
     "13": 115,
-    "14": 127,
+    "14": 133,
     "15": 116,
     "16": 109,
     "17": 92,
@@ -968,7 +971,7 @@
     "23": 49
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-06T19:56:39.562624+00:00",
+  "last_updated": "2025-12-06T20:19:09.872907+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 574
+  "total_snapshots": 575
 }
