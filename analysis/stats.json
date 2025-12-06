@@ -1,11 +1,11 @@
 {
-  "total_calls_tracked": 1627,
+  "total_calls_tracked": 1634,
   "total_resolved": 1627,
   "call_types": {
     "DIRECTED PATROL": 542,
-    "TRAFFIC STOP": 241,
+    "TRAFFIC STOP": 247,
     "DRUNK DRIVER": 5,
-    "DISTURBANCE": 36,
+    "DISTURBANCE": 37,
     "BATTERY": 8,
     "CRIMINAL MISCHIEF": 10,
     "ALARM": 21,
@@ -94,14 +94,14 @@
     "1400 BLOCK LAURA ST": 3,
     "ENTERPRISE RD E / VILLAGE DR": 2,
     "GULF TO BAY BLVD / HAMPTON RD": 1,
-    "2100 BLOCK GULF TO BAY BLVD": 16,
+    "2100 BLOCK GULF TO BAY BLVD": 17,
     "1300 BLOCK CLEVELAND ST": 10,
     "2100 BLOCK BELCHER RD": 1,
     "SAND KEY PARK ENTRANCE": 5,
     "S MISSOURI AVE / LAKEVIEW RD": 3,
     "23100 BLOCK US HIGHWAY 19 N": 6,
     "1200 BLOCK N BETTY LN": 1,
-    "MCMULLEN BOOTH RD / SR 590": 2,
+    "MCMULLEN BOOTH RD / SR 590": 3,
     "LAKEVIEW RD / S MISSOURI AVE": 2,
     "2400 BLOCK MELLOW LN": 1,
     "1200 BLOCK GULF BLVD": 7,
@@ -206,7 +206,7 @@
     "S MAIN AVE / RAINBOW DR": 4,
     "1000 BLOCK N MADISON AVE": 1,
     "2800 BLOCK DREW ST": 2,
-    "US HIGHWAY 19 N / GULF TO BAY BLVD": 1,
+    "US HIGHWAY 19 N / GULF TO BAY BLVD": 2,
     "300 BLOCK CORONADO DR": 14,
     "23600 BLOCK US HIGHWAY 19 N": 4,
     "300 BLOCK MANDALAY AVE": 2,
@@ -388,7 +388,7 @@
     "20000 BLOCK US HIGHWAY 19 N": 2,
     "0 BLOCK 33 BAY ESPLANADE": 1,
     "1100 BLOCK N BAYSHORE BLVD": 1,
-    "1700 BLOCK DREW ST": 6,
+    "1700 BLOCK DREW ST": 7,
     "1200 BLOCK ROGERS ST": 1,
     "S MYRTLE AVE / LAKEVIEW RD": 1,
     "S SAN REMO AVE/ GULF TO BAY BLVD": 1,
@@ -577,7 +577,7 @@
     "FRANKLIN ST / GULF TO BAY BLVD": 1,
     "900 BLOCK N MARTIN LUTHER KING JR AVE": 2,
     "1800 BLOCK MCMULLEN BOOTH RD": 1,
-    "N BETTY LN / ENGMAN ST": 1,
+    "N BETTY LN / ENGMAN ST": 2,
     "1000 BLOCK APACHE TRAIL": 1,
     "N FORT HARRISON AVE / PALM BLUFF ST": 1,
     "MCMULLEN BOOTH/ALLEN AVE": 1,
@@ -887,10 +887,12 @@
     "WINDING WOOD DR / HAVERHILL CT": 1,
     "-600 BLOCK 699 LAURA ST": 1,
     "300 BLOCK N MYRTLE AVE": 1,
-    "CARLTON ST / N MARTIN LUTHER KING JR AVE": 1
+    "CARLTON ST / N MARTIN LUTHER KING JR AVE": 1,
+    "SKYVIEW AVE / GULF TO BAY BLVD": 1,
+    "CORONADO DR / HAMDEN DR": 1
   },
   "hourly_distribution": {
-    "0": 47,
+    "0": 54,
     "1": 45,
     "2": 31,
     "3": 29,
@@ -916,7 +918,7 @@
     "23": 49
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-06T05:34:06.555784+00:00",
+  "last_updated": "2025-12-06T05:45:17.624728+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 514
+  "total_snapshots": 515
 }
