@@ -1,12 +1,6 @@
 {
   "calls": [
     {
-      "Master_Incident_Number": "112725-00204",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "2500 BLOCK HARN BLVD",
-      "Response_Date": "2025-11-27T12:27:28"
-    },
-    {
       "Master_Incident_Number": "120625-00204",
       "Online_Description": "FRAUD",
       "Address": "1300 BLOCK MARY L RD",
@@ -31,24 +25,18 @@
       "Response_Date": "2025-12-06T12:12:43"
     },
     {
-      "Master_Incident_Number": "120625-00241",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "MEMORIAL CSWY",
-      "Response_Date": "2025-12-06T12:28:52"
-    },
-    {
       "Master_Incident_Number": "120625-00242",
       "Online_Description": "ANIMAL CASE",
       "Address": "3000 BLOCK DREW ST",
       "Response_Date": "2025-12-06T12:29:51"
     },
     {
-      "Master_Incident_Number": "120625-00244",
-      "Online_Description": "SUSPICIOUS PERSON",
-      "Address": "WOODLAWN OAKS AVE / WOODLAWN ST",
-      "Response_Date": "2025-12-06T12:33:47"
+      "Master_Incident_Number": "120625-00250",
+      "Online_Description": "PARK WALK AND TALK",
+      "Address": "2400 BLOCK HARN BLVD",
+      "Response_Date": "2025-12-06T12:56:47"
     }
   ],
-  "timestamp": "2025-12-06T17:54:41.551668+00:00",
-  "count": 8
+  "timestamp": "2025-12-06T18:17:35.021896+00:00",
+  "count": 6
 }

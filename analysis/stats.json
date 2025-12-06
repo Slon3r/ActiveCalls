@@ -1,6 +1,6 @@
 {
-  "total_calls_tracked": 1731,
-  "total_resolved": 1723,
+  "total_calls_tracked": 1732,
+  "total_resolved": 1726,
   "call_types": {
     "DIRECTED PATROL": 573,
     "TRAFFIC STOP": 256,
@@ -11,7 +11,7 @@
     "ALARM": 25,
     "KEEP THE PEACE": 24,
     "WELFARE CHECK": 35,
-    "PARK WALK AND TALK": 148,
+    "PARK WALK AND TALK": 149,
     "SUSPICIOUS PERSON": 71,
     "TRESPASS": 42,
     "PROPERTY FOUND/LOST": 12,
@@ -433,7 +433,7 @@
     "2500 BLOCK DREW ST": 1,
     "600 BLOCK N FORT HARRISON AVE": 1,
     "200 BLOCK S BETTY LN": 1,
-    "2400 BLOCK HARN BLVD": 2,
+    "2400 BLOCK HARN BLVD": 3,
     "1400 BLOCK S MARTIN LUTHER KING JR AVE": 8,
     "OTIS C GREEN DR / N BETTY LN": 1,
     "2600 BLOCK MCMULLEN BOOTH RD": 4,
@@ -946,7 +946,7 @@
     "9": 118,
     "10": 117,
     "11": 107,
-    "12": 112,
+    "12": 113,
     "13": 105,
     "14": 119,
     "15": 116,
@@ -960,7 +960,7 @@
     "23": 49
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-06T17:54:41.555265+00:00",
+  "last_updated": "2025-12-06T18:17:35.025456+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 565
+  "total_snapshots": 566
 }
