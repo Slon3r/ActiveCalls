@@ -1,6 +1,6 @@
 {
-  "total_calls_tracked": 1665,
-  "total_resolved": 1664,
+  "total_calls_tracked": 1666,
+  "total_resolved": 1665,
   "call_types": {
     "DIRECTED PATROL": 552,
     "TRAFFIC STOP": 253,
@@ -8,7 +8,7 @@
     "DISTURBANCE": 40,
     "BATTERY": 8,
     "CRIMINAL MISCHIEF": 10,
-    "ALARM": 22,
+    "ALARM": 23,
     "KEEP THE PEACE": 22,
     "WELFARE CHECK": 35,
     "PARK WALK AND TALK": 138,
@@ -896,7 +896,7 @@
     "-800 BLOCK 899 FRANKLIN ST": 1,
     "-2400 BLOCK BLOCK GULF TO BAY BLVD": 1,
     "GRANT ST / ROOSEVELT AVE": 1,
-    "2100 BLOCK NE COACHMAN RD": 1,
+    "2100 BLOCK NE COACHMAN RD": 2,
     "S HIGHLAND AVE / COURT ST": 1,
     "2400 BLOCK SUNSET POINT RD": 1,
     "PALMETTO ST / N BETTY LN": 1,
@@ -908,7 +908,7 @@
     "2": 43,
     "3": 31,
     "4": 16,
-    "5": 41,
+    "5": 42,
     "6": 51,
     "7": 46,
     "8": 97,
@@ -929,7 +929,7 @@
     "23": 49
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-06T10:18:19.728858+00:00",
+  "last_updated": "2025-12-06T10:37:55.743319+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 533
+  "total_snapshots": 534
 }
