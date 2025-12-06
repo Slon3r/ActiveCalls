@@ -515,6 +515,42 @@
           "Response_Date": "2025-12-06T00:29:11"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-06T06:14:16.475515+00:00",
+      "call_count": 5,
+      "calls": [
+        {
+          "Master_Incident_Number": "120625-00003",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "SKYVIEW AVE / GULF TO BAY BLVD",
+          "Response_Date": "2025-12-06T00:01:42"
+        },
+        {
+          "Master_Incident_Number": "120625-00008",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "US HIGHWAY 19 N / GULF TO BAY BLVD",
+          "Response_Date": "2025-12-06T00:11:36"
+        },
+        {
+          "Master_Incident_Number": "120625-00010",
+          "Online_Description": "DISTURBANCE",
+          "Address": "1700 BLOCK DREW ST",
+          "Response_Date": "2025-12-06T00:15:05"
+        },
+        {
+          "Master_Incident_Number": "120625-00020",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "S KEENE RD / GULF TO BAY BLVD",
+          "Response_Date": "2025-12-06T00:48:51"
+        },
+        {
+          "Master_Incident_Number": "120625-00021",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "1600 BLOCK GULF TO BAY BLVD",
+          "Response_Date": "2025-12-06T00:51:16"
+        }
+      ]
     }
   ]
 }

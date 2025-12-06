@@ -19,24 +19,18 @@
       "Response_Date": "2025-12-06T00:15:05"
     },
     {
-      "Master_Incident_Number": "120625-00011",
+      "Master_Incident_Number": "120625-00020",
       "Online_Description": "TRAFFIC STOP",
-      "Address": "CORONADO DR / HAMDEN DR",
-      "Response_Date": "2025-12-06T00:17:35"
+      "Address": "S KEENE RD / GULF TO BAY BLVD",
+      "Response_Date": "2025-12-06T00:48:51"
     },
     {
-      "Master_Incident_Number": "120625-00016",
-      "Online_Description": "TRAFFIC STOP",
-      "Address": "0 BLOCK MEMORIAL CSWY",
-      "Response_Date": "2025-12-06T00:26:05"
-    },
-    {
-      "Master_Incident_Number": "120625-00017",
-      "Online_Description": "TRAFFIC STOP",
-      "Address": "ENGMAN ST / FAIRBURN AVE",
-      "Response_Date": "2025-12-06T00:29:11"
+      "Master_Incident_Number": "120625-00021",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "1600 BLOCK GULF TO BAY BLVD",
+      "Response_Date": "2025-12-06T00:51:16"
     }
   ],
-  "timestamp": "2025-12-06T05:53:15.194706+00:00",
-  "count": 6
+  "timestamp": "2025-12-06T06:14:16.475515+00:00",
+  "count": 5
 }

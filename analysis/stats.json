@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 1636,
-  "total_resolved": 1630,
+  "total_calls_tracked": 1638,
+  "total_resolved": 1633,
   "call_types": {
-    "DIRECTED PATROL": 542,
-    "TRAFFIC STOP": 249,
+    "DIRECTED PATROL": 543,
+    "TRAFFIC STOP": 250,
     "DRUNK DRIVER": 5,
     "DISTURBANCE": 37,
     "BATTERY": 8,
@@ -168,7 +168,7 @@
     "N KEENE RD / SUNSET POINT RD": 1,
     "2900 BLOCK GLEN OAK AVE N": 2,
     "2100 BLOCK SOULE RD": 2,
-    "S KEENE RD / GULF TO BAY BLVD": 4,
+    "S KEENE RD / GULF TO BAY BLVD": 5,
     "FIFTH ST & HAMDEN DR": 1,
     "FIFTH ST / HAMDEN DR": 1,
     "E WORLD PARKWAY BLVD / BELCHER RD": 1,
@@ -211,7 +211,7 @@
     "23600 BLOCK US HIGHWAY 19 N": 4,
     "300 BLOCK MANDALAY AVE": 2,
     "JONES ST / FERN AVE": 1,
-    "1600 BLOCK GULF TO BAY BLVD": 9,
+    "1600 BLOCK GULF TO BAY BLVD": 10,
     "1600 BLOCK DARTMOUTH ST": 1,
     "HAMDEN DR / BRIGHTWATER DR": 2,
     "HAMPTON RD / GULF TO BAY BLVD": 2,
@@ -893,7 +893,7 @@
     "ENGMAN ST / FAIRBURN AVE": 1
   },
   "hourly_distribution": {
-    "0": 56,
+    "0": 58,
     "1": 45,
     "2": 31,
     "3": 29,
@@ -919,7 +919,7 @@
     "23": 49
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-06T05:53:15.196445+00:00",
+  "last_updated": "2025-12-06T06:14:16.477292+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 516
+  "total_snapshots": 517
 }
