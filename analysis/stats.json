@@ -1,17 +1,17 @@
 {
-  "total_calls_tracked": 1760,
+  "total_calls_tracked": 1764,
   "total_resolved": 1753,
   "call_types": {
-    "DIRECTED PATROL": 579,
+    "DIRECTED PATROL": 581,
     "TRAFFIC STOP": 262,
     "DRUNK DRIVER": 5,
     "DISTURBANCE": 43,
-    "BATTERY": 8,
+    "BATTERY": 9,
     "CRIMINAL MISCHIEF": 10,
     "ALARM": 25,
     "KEEP THE PEACE": 24,
     "WELFARE CHECK": 37,
-    "PARK WALK AND TALK": 154,
+    "PARK WALK AND TALK": 155,
     "SUSPICIOUS PERSON": 71,
     "TRESPASS": 43,
     "PROPERTY FOUND/LOST": 12,
@@ -104,7 +104,7 @@
     "MCMULLEN BOOTH RD / SR 590": 3,
     "LAKEVIEW RD / S MISSOURI AVE": 2,
     "2400 BLOCK MELLOW LN": 1,
-    "1200 BLOCK GULF BLVD": 9,
+    "1200 BLOCK GULF BLVD": 10,
     "1900 BLOCK N BELCHER RD": 1,
     "20100 BLOCK US HIGHWAY 19 N": 1,
     "CLEVELAND ST / N MAIN AVE": 1,
@@ -381,7 +381,7 @@
     "GULF TO BAY BLVD / BAY ST": 4,
     "700 BLOCK BAYVIEW AVE": 1,
     "-1100 BLOCK 1198 N MARTIN LUTHER KING JR AVE": 2,
-    "1500 BLOCK DRUID RD": 1,
+    "1500 BLOCK DRUID RD": 2,
     "GULF TO BAY BLVD / S HIGHLAND AVE": 2,
     "1600 BLOCK N HIGHLAND AVE": 8,
     "1700 BLOCK FLAGLER DR": 1,
@@ -810,7 +810,7 @@
     "600 BLOCK TURNER ST": 1,
     "2500 BLOCK SEA WIND WAY": 1,
     "S MISSOURI AVE / BELLEVUE BLVD": 1,
-    "3200 BLOCK MCMULLEN BOOTH RD": 1,
+    "3200 BLOCK MCMULLEN BOOTH RD": 2,
     "0 BLOCK PARK PLACE BLVD N": 1,
     "1500 BLOCK MCMULLEN BOOTH RD": 1,
     "700 BLOCK ELDRIDGE ST": 1,
@@ -942,7 +942,8 @@
     "DREW ST / PARK PLACE BLVD": 1,
     "DOUGLAS AVE / SUNSET POINT RD": 1,
     "800 BLOCK COURT ST": 1,
-    "SOUTH SHORE BLVD": 1
+    "SOUTH SHORE BLVD": 1,
+    "200 BLOCK S GULFVIEW BLVD": 1
   },
   "hourly_distribution": {
     "0": 58,
@@ -959,8 +960,8 @@
     "11": 107,
     "12": 114,
     "13": 115,
-    "14": 134,
-    "15": 118,
+    "14": 135,
+    "15": 121,
     "16": 109,
     "17": 92,
     "18": 78,
@@ -971,7 +972,7 @@
     "23": 49
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-06T20:35:39.117073+00:00",
+  "last_updated": "2025-12-06T20:45:37.257665+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 576
+  "total_snapshots": 577
 }

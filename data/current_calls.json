@@ -14,7 +14,7 @@
     },
     {
       "Master_Incident_Number": "120625-00287",
-      "Online_Description": "TRESPASS",
+      "Online_Description": "SUSPICIOUS EVENT",
       "Address": "27000 BLOCK US HIGHWAY 19 N",
       "Response_Date": "2025-12-06T14:31:13"
     },
@@ -23,6 +23,12 @@
       "Online_Description": "HIT & RUN",
       "Address": "GULF TO BAY BLVD / US HIGHWAY 19 N",
       "Response_Date": "2025-12-06T14:35:46"
+    },
+    {
+      "Master_Incident_Number": "120625-00293",
+      "Online_Description": "BATTERY",
+      "Address": "1500 BLOCK DRUID RD",
+      "Response_Date": "2025-12-06T14:41:00"
     },
     {
       "Master_Incident_Number": "120625-00304",
@@ -41,8 +47,26 @@
       "Online_Description": "TRAFFIC STOP",
       "Address": "US HIGHWAY 19 N / SR 590",
       "Response_Date": "2025-12-06T15:08:02"
+    },
+    {
+      "Master_Incident_Number": "120625-00316",
+      "Online_Description": "PARK WALK AND TALK",
+      "Address": "1200 BLOCK GULF BLVD",
+      "Response_Date": "2025-12-06T15:22:01"
+    },
+    {
+      "Master_Incident_Number": "120625-00318",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "200 BLOCK S GULFVIEW BLVD",
+      "Response_Date": "2025-12-06T15:22:52"
+    },
+    {
+      "Master_Incident_Number": "120625-00320",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "3200 BLOCK MCMULLEN BOOTH RD",
+      "Response_Date": "2025-12-06T15:24:44"
     }
   ],
-  "timestamp": "2025-12-06T20:35:39.112955+00:00",
-  "count": 7
+  "timestamp": "2025-12-06T20:45:37.253433+00:00",
+  "count": 11
 }
