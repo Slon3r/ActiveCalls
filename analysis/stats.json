@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 1675,
-  "total_resolved": 1673,
+  "total_calls_tracked": 1680,
+  "total_resolved": 1674,
   "call_types": {
-    "DIRECTED PATROL": 555,
+    "DIRECTED PATROL": 558,
     "TRAFFIC STOP": 254,
     "DRUNK DRIVER": 5,
     "DISTURBANCE": 40,
@@ -11,7 +11,7 @@
     "ALARM": 23,
     "KEEP THE PEACE": 23,
     "WELFARE CHECK": 35,
-    "PARK WALK AND TALK": 140,
+    "PARK WALK AND TALK": 142,
     "SUSPICIOUS PERSON": 69,
     "TRESPASS": 41,
     "PROPERTY FOUND/LOST": 12,
@@ -80,7 +80,7 @@
     "US HIGHWAY 19 N / SR 580": 3,
     "400 BLOCK S GULFVIEW BLVD": 5,
     "100 BLOCK S MYRTLE AVE": 3,
-    "0 BLOCK CAUSEWAY BLVD": 14,
+    "0 BLOCK CAUSEWAY BLVD": 15,
     "400 BLOCK FAIRWOOD AVE": 4,
     "500 BLOCK S FORT HARRISON AVE": 6,
     "26000 BLOCK US HIGHWAY 19 N": 4,
@@ -151,7 +151,7 @@
     "19300 BLOCK US HIGHWAY 19 N": 2,
     "600 BLOCK PIERCE ST": 16,
     "0 BLOCK 99 THIRD ST": 4,
-    "0 BLOCK 98 THIRD ST": 4,
+    "0 BLOCK 98 THIRD ST": 5,
     "100 BLOCK HAMPTON RD": 2,
     "GULF TO BAY BLVD / PARK PLACE BLVD": 2,
     "2000 BLOCK N HERCULES AVE": 2,
@@ -207,7 +207,7 @@
     "1000 BLOCK N MADISON AVE": 1,
     "2800 BLOCK DREW ST": 2,
     "US HIGHWAY 19 N / GULF TO BAY BLVD": 2,
-    "300 BLOCK CORONADO DR": 14,
+    "300 BLOCK CORONADO DR": 15,
     "23600 BLOCK US HIGHWAY 19 N": 4,
     "300 BLOCK MANDALAY AVE": 2,
     "JONES ST / FERN AVE": 1,
@@ -575,7 +575,7 @@
     "ISLAND WAY/MEMORIAL CSWY": 1,
     "600 BLOCK WILDWOOD WAY": 1,
     "FRANKLIN ST / GULF TO BAY BLVD": 1,
-    "900 BLOCK N MARTIN LUTHER KING JR AVE": 2,
+    "900 BLOCK N MARTIN LUTHER KING JR AVE": 3,
     "1800 BLOCK MCMULLEN BOOTH RD": 1,
     "N BETTY LN / ENGMAN ST": 2,
     "1000 BLOCK APACHE TRAIL": 1,
@@ -902,7 +902,8 @@
     "PALMETTO ST / N BETTY LN": 1,
     "1000 BLOCK ELDRIDGE ST": 1,
     "-1300 BLOCK 1398 CLEVELAND ST": 1,
-    "1400 BLOCK N BETTY LN ": 1
+    "1400 BLOCK N BETTY LN ": 1,
+    "3000 BLOCK MCMULLEN BOOTH RD": 1
   },
   "hourly_distribution": {
     "0": 58,
@@ -913,7 +914,7 @@
     "5": 43,
     "6": 57,
     "7": 48,
-    "8": 97,
+    "8": 102,
     "9": 105,
     "10": 103,
     "11": 98,
@@ -931,7 +932,7 @@
     "23": 49
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-06T13:16:52.228111+00:00",
+  "last_updated": "2025-12-06T13:37:50.115975+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 544
+  "total_snapshots": 545
 }
