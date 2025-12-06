@@ -833,6 +833,48 @@
           "Response_Date": "2025-12-06T02:34:20"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-06T08:19:42.875627+00:00",
+      "call_count": 6,
+      "calls": [
+        {
+          "Master_Incident_Number": "120625-00046",
+          "Online_Description": "ASSIST CITIZEN",
+          "Address": "DREW ST / US HIGHWAY 19 N",
+          "Response_Date": "2025-12-06T02:14:48"
+        },
+        {
+          "Master_Incident_Number": "120625-00049",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "GRANT ST / ROOSEVELT AVE",
+          "Response_Date": "2025-12-06T02:21:40"
+        },
+        {
+          "Master_Incident_Number": "120625-00057",
+          "Online_Description": "ASSIST CITIZEN",
+          "Address": "DREW ST / MCMULLEN BOOTH RD",
+          "Response_Date": "2025-12-06T02:38:05"
+        },
+        {
+          "Master_Incident_Number": "120625-00058",
+          "Online_Description": "PARK WALK AND TALK",
+          "Address": "1400 BLOCK S MARTIN LUTHER KING JR AVE",
+          "Response_Date": "2025-12-06T02:45:29"
+        },
+        {
+          "Master_Incident_Number": "120625-00060",
+          "Online_Description": "PARK WALK AND TALK",
+          "Address": "500 BLOCK N BETTY LN",
+          "Response_Date": "2025-12-06T02:49:30"
+        },
+        {
+          "Master_Incident_Number": "120625-00064",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "PALMETTO ST / N BETTY LN",
+          "Response_Date": "2025-12-06T02:57:46"
+        }
+      ]
     }
   ]
 }
