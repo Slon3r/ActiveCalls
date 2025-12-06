@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 1626,
-  "total_resolved": 1623,
+  "total_calls_tracked": 1627,
+  "total_resolved": 1625,
   "call_types": {
-    "DIRECTED PATROL": 541,
+    "DIRECTED PATROL": 542,
     "TRAFFIC STOP": 241,
     "DRUNK DRIVER": 5,
     "DISTURBANCE": 36,
@@ -883,7 +883,7 @@
     "CLEVELAND ST / GARDEN AVE": 1,
     "2700 BLOCK SEVILLE BLVD": 1,
     "-3100 BLOCK 3199 MASTERS DR": 1,
-    "1500 BLOCK S FORT HARRISON AVE": 1,
+    "1500 BLOCK S FORT HARRISON AVE": 2,
     "WINDING WOOD DR / HAVERHILL CT": 1,
     "-600 BLOCK 699 LAURA ST": 1,
     "300 BLOCK N MYRTLE AVE": 1,
@@ -913,10 +913,10 @@
     "20": 29,
     "21": 32,
     "22": 70,
-    "23": 48
+    "23": 49
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-06T04:55:06.935065+00:00",
+  "last_updated": "2025-12-06T05:13:54.748327+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 512
+  "total_snapshots": 513
 }
