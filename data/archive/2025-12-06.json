@@ -3091,6 +3091,84 @@
           "Response_Date": "2025-12-06T16:28:16"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-06T22:10:43.596390+00:00",
+      "call_count": 12,
+      "calls": [
+        {
+          "Master_Incident_Number": "120625-00329",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "1100 BLOCK GULF BLVD",
+          "Response_Date": "2025-12-06T15:44:12"
+        },
+        {
+          "Master_Incident_Number": "120625-00330",
+          "Online_Description": "DECEASED PERSON",
+          "Address": "900 BLOCK S EVERGREEN AVE",
+          "Response_Date": "2025-12-06T15:45:30"
+        },
+        {
+          "Master_Incident_Number": "120625-00338",
+          "Online_Description": "SUSPICIOUS EVENT",
+          "Address": "900 BLOCK VINE AVE",
+          "Response_Date": "2025-12-06T15:59:58"
+        },
+        {
+          "Master_Incident_Number": "120625-00340",
+          "Online_Description": "BATTERY",
+          "Address": "300 BLOCK PINELLAS ST",
+          "Response_Date": "2025-12-06T16:03:44"
+        },
+        {
+          "Master_Incident_Number": "120625-00343",
+          "Online_Description": "SUSPICIOUS PERSON",
+          "Address": "1500 BLOCK S BELCHER RD",
+          "Response_Date": "2025-12-06T16:08:23"
+        },
+        {
+          "Master_Incident_Number": "120625-00348",
+          "Online_Description": "TRAFFIC CRASH",
+          "Address": "SUNSET POINT RD / SETON DR",
+          "Response_Date": "2025-12-06T16:14:00"
+        },
+        {
+          "Master_Incident_Number": "120625-00349",
+          "Online_Description": "CRIMINAL MISCHIEF",
+          "Address": "3000 BLOCK DREW ST",
+          "Response_Date": "2025-12-06T16:17:03"
+        },
+        {
+          "Master_Incident_Number": "120625-00351",
+          "Online_Description": "TRESPASS",
+          "Address": "300 BLOCK MANDALAY AVE",
+          "Response_Date": "2025-12-06T16:28:16"
+        },
+        {
+          "Master_Incident_Number": "120625-00353",
+          "Online_Description": "SUSPICIOUS PERSON",
+          "Address": "1700 BLOCK GULF TO BAY BLVD",
+          "Response_Date": "2025-12-06T16:37:49"
+        },
+        {
+          "Master_Incident_Number": "120625-00356",
+          "Online_Description": "911 HANG-UP",
+          "Address": "3200 BLOCK SR 580",
+          "Response_Date": "2025-12-06T16:41:19"
+        },
+        {
+          "Master_Incident_Number": "120625-00357",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "600 BLOCK GULF BLVD",
+          "Response_Date": "2025-12-06T16:43:30"
+        },
+        {
+          "Master_Incident_Number": "120625-00358",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "200 BLOCK S GULFVIEW BLVD",
+          "Response_Date": "2025-12-06T16:47:49"
+        }
+      ]
     }
   ]
 }
