@@ -1,6 +1,6 @@
 {
-  "total_calls_tracked": 1771,
-  "total_resolved": 1759,
+  "total_calls_tracked": 1773,
+  "total_resolved": 1767,
   "call_types": {
     "DIRECTED PATROL": 583,
     "TRAFFIC STOP": 262,
@@ -16,7 +16,7 @@
     "TRESPASS": 43,
     "PROPERTY FOUND/LOST": 12,
     "THEFT": 25,
-    "NEIGHBOR CALL": 8,
+    "NEIGHBOR CALL": 9,
     "911 HANG-UP": 63,
     "SUSPICIOUS VEHICLE": 12,
     "PANHANDLER/SOLICITOR": 4,
@@ -39,7 +39,7 @@
     "MISSING PERSON": 19,
     "BUILDING CHECK": 5,
     "SHOPLIFTING": 7,
-    "DECEASED PERSON": 1,
+    "DECEASED PERSON": 2,
     "BURGLARY": 9,
     "SHOTS FIRED": 1,
     "HIT & RUN": 15,
@@ -946,7 +946,9 @@
     "200 BLOCK S GULFVIEW BLVD": 1,
     "JEFFORDS ST / S HIGHLAND AVE": 1,
     "200 BLOCK S MYRTLE AVE": 1,
-    "S MISSOURI AVE / CLEVELAND ST": 1
+    "S MISSOURI AVE / CLEVELAND ST": 1,
+    "100 BLOCK S CORONA AVE": 1,
+    "900 BLOCK S EVERGREEN AVE": 1
   },
   "hourly_distribution": {
     "0": 58,
@@ -963,8 +965,8 @@
     "11": 107,
     "12": 114,
     "13": 115,
-    "14": 135,
-    "15": 128,
+    "14": 136,
+    "15": 129,
     "16": 109,
     "17": 92,
     "18": 78,
@@ -975,7 +977,7 @@
     "23": 49
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-06T21:09:41.808385+00:00",
+  "last_updated": "2025-12-06T21:27:08.869918+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 579
+  "total_snapshots": 580
 }
