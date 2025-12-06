@@ -1,6 +1,6 @@
 {
-  "total_calls_tracked": 1704,
-  "total_resolved": 1698,
+  "total_calls_tracked": 1706,
+  "total_resolved": 1699,
   "call_types": {
     "DIRECTED PATROL": 565,
     "TRAFFIC STOP": 256,
@@ -8,7 +8,7 @@
     "DISTURBANCE": 43,
     "BATTERY": 8,
     "CRIMINAL MISCHIEF": 10,
-    "ALARM": 23,
+    "ALARM": 24,
     "KEEP THE PEACE": 24,
     "WELFARE CHECK": 35,
     "PARK WALK AND TALK": 145,
@@ -17,7 +17,7 @@
     "PROPERTY FOUND/LOST": 12,
     "THEFT": 24,
     "NEIGHBOR CALL": 8,
-    "911 HANG-UP": 61,
+    "911 HANG-UP": 62,
     "SUSPICIOUS VEHICLE": 12,
     "PANHANDLER/SOLICITOR": 4,
     "VEHICLE ILLEGALLY PARKED": 4,
@@ -917,7 +917,9 @@
     "2000 BLOCK PALMETTO ST": 1,
     "300 BLOCK SEMINOLE ST": 1,
     "2500 BLOCK ALEXANDER PL": 1,
-    "2600 BLOCK SABAL SPRINGS DR": 1
+    "2600 BLOCK SABAL SPRINGS DR": 1,
+    "1900 BLOCK STARDUST DR": 1,
+    "1800 BLOCK PINE ST": 1
   },
   "hourly_distribution": {
     "0": 58,
@@ -930,7 +932,7 @@
     "7": 48,
     "8": 110,
     "9": 118,
-    "10": 106,
+    "10": 108,
     "11": 98,
     "12": 105,
     "13": 105,
@@ -946,7 +948,7 @@
     "23": 49
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-06T15:33:31.775700+00:00",
+  "last_updated": "2025-12-06T15:42:59.241772+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 554
+  "total_snapshots": 555
 }
