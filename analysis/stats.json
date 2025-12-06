@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 1625,
-  "total_resolved": 1621,
+  "total_calls_tracked": 1626,
+  "total_resolved": 1623,
   "call_types": {
-    "DIRECTED PATROL": 540,
+    "DIRECTED PATROL": 541,
     "TRAFFIC STOP": 241,
     "DRUNK DRIVER": 5,
     "DISTURBANCE": 36,
@@ -198,7 +198,7 @@
     "500 BLOCK MANDALAY AVE": 8,
     "3000 BLOCK HAVERFORD DR": 2,
     "DREW ST / OLD COACHMAN RD": 3,
-    "2500 BLOCK HARN BLVD": 14,
+    "2500 BLOCK HARN BLVD": 15,
     "1000 BLOCK MCMULLEN BOOTH RD": 1,
     "1200 BLOCK S MARTIN LUTHER KING JR AVE": 1,
     "2000 BLOCK PARAGON CIR W": 1,
@@ -913,10 +913,10 @@
     "20": 29,
     "21": 32,
     "22": 70,
-    "23": 47
+    "23": 48
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-06T04:47:29.444709+00:00",
+  "last_updated": "2025-12-06T04:55:06.935065+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 511
+  "total_snapshots": 512
 }
