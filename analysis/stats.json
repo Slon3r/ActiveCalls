@@ -1,6 +1,6 @@
 {
-  "total_calls_tracked": 1764,
-  "total_resolved": 1753,
+  "total_calls_tracked": 1766,
+  "total_resolved": 1756,
   "call_types": {
     "DIRECTED PATROL": 581,
     "TRAFFIC STOP": 262,
@@ -11,7 +11,7 @@
     "ALARM": 25,
     "KEEP THE PEACE": 24,
     "WELFARE CHECK": 37,
-    "PARK WALK AND TALK": 155,
+    "PARK WALK AND TALK": 156,
     "SUSPICIOUS PERSON": 71,
     "TRESPASS": 43,
     "PROPERTY FOUND/LOST": 12,
@@ -29,7 +29,7 @@
     "FIRE": 2,
     "FRAUD": 14,
     "RECKLESS VEHICLE": 4,
-    "JUVENILE CASE": 6,
+    "JUVENILE CASE": 7,
     "HAZARD": 4,
     "UNKNOWN PROBLEM": 9,
     "NOISE COMPLAINT": 5,
@@ -80,7 +80,7 @@
     "US HIGHWAY 19 N / SR 580": 3,
     "400 BLOCK S GULFVIEW BLVD": 5,
     "100 BLOCK S MYRTLE AVE": 3,
-    "0 BLOCK CAUSEWAY BLVD": 15,
+    "0 BLOCK CAUSEWAY BLVD": 16,
     "400 BLOCK FAIRWOOD AVE": 4,
     "500 BLOCK S FORT HARRISON AVE": 6,
     "26000 BLOCK US HIGHWAY 19 N": 4,
@@ -943,7 +943,8 @@
     "DOUGLAS AVE / SUNSET POINT RD": 1,
     "800 BLOCK COURT ST": 1,
     "SOUTH SHORE BLVD": 1,
-    "200 BLOCK S GULFVIEW BLVD": 1
+    "200 BLOCK S GULFVIEW BLVD": 1,
+    "JEFFORDS ST / S HIGHLAND AVE": 1
   },
   "hourly_distribution": {
     "0": 58,
@@ -961,7 +962,7 @@
     "12": 114,
     "13": 115,
     "14": 135,
-    "15": 121,
+    "15": 123,
     "16": 109,
     "17": 92,
     "18": 78,
@@ -972,7 +973,7 @@
     "23": 49
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-06T20:45:37.257665+00:00",
+  "last_updated": "2025-12-06T20:53:50.690917+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 577
+  "total_snapshots": 578
 }
