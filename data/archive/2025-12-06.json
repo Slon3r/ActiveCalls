@@ -2425,6 +2425,48 @@
           "Response_Date": "2025-12-06T14:08:33"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-06T19:40:41.681583+00:00",
+      "call_count": 6,
+      "calls": [
+        {
+          "Master_Incident_Number": "120625-00266",
+          "Online_Description": "PARK WALK AND TALK",
+          "Address": "200 BLOCK DREW ST",
+          "Response_Date": "2025-12-06T13:26:16"
+        },
+        {
+          "Master_Incident_Number": "120625-00268",
+          "Online_Description": "ASSIST OTHER AGENCY",
+          "Address": "1000 BLOCK N MARTIN LUTHER KING JR AVE",
+          "Response_Date": "2025-12-06T13:39:16"
+        },
+        {
+          "Master_Incident_Number": "120625-00270",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "23100 BLOCK US HIGHWAY 19 N",
+          "Response_Date": "2025-12-06T13:54:12"
+        },
+        {
+          "Master_Incident_Number": "120625-00273",
+          "Online_Description": "SHOPLIFTING",
+          "Address": "23100 BLOCK US HIGHWAY 19 N",
+          "Response_Date": "2025-12-06T13:55:07"
+        },
+        {
+          "Master_Incident_Number": "120625-00280",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "N HIGHLAND AVE / SUNSET POINT RD",
+          "Response_Date": "2025-12-06T14:17:04"
+        },
+        {
+          "Master_Incident_Number": "120625-00281",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "US HIGHWAY 19 N / DREW ST",
+          "Response_Date": "2025-12-06T14:19:45"
+        }
+      ]
     }
   ]
 }

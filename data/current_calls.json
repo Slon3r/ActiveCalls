@@ -1,18 +1,6 @@
 {
   "calls": [
     {
-      "Master_Incident_Number": "120625-00256",
-      "Online_Description": "WELFARE CHECK",
-      "Address": "2000 BLOCK ALPINE RD",
-      "Response_Date": "2025-12-06T12:57:33"
-    },
-    {
-      "Master_Incident_Number": "120625-00265",
-      "Online_Description": "HIT & RUN",
-      "Address": "MONTCLAIR RD / SETON DR",
-      "Response_Date": "2025-12-06T13:21:39"
-    },
-    {
       "Master_Incident_Number": "120625-00266",
       "Online_Description": "PARK WALK AND TALK",
       "Address": "200 BLOCK DREW ST",
@@ -37,12 +25,18 @@
       "Response_Date": "2025-12-06T13:55:07"
     },
     {
-      "Master_Incident_Number": "120625-00279",
+      "Master_Incident_Number": "120625-00280",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "N HIGHLAND AVE / SUNSET POINT RD",
+      "Response_Date": "2025-12-06T14:17:04"
+    },
+    {
+      "Master_Incident_Number": "120625-00281",
       "Online_Description": "TRAFFIC STOP",
-      "Address": "DREW ST / N NIMBUS AVE",
-      "Response_Date": "2025-12-06T14:08:33"
+      "Address": "US HIGHWAY 19 N / DREW ST",
+      "Response_Date": "2025-12-06T14:19:45"
     }
   ],
-  "timestamp": "2025-12-06T19:31:49.264806+00:00",
-  "count": 7
+  "timestamp": "2025-12-06T19:40:41.681583+00:00",
+  "count": 6
 }

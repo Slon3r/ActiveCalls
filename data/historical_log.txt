@@ -8335,3 +8335,17 @@ TOTAL ACTIVE CALLS: 7
 
 --- NEW CALLS (1) ---
 [NEW] 120625-00279 | TRAFFIC STOP | DREW ST / N NIMBUS AVE | Response: 02:08 PM
+
+================================================================================
+TIMESTAMP: 2025-12-06T19:40:41.681583+00:00
+TOTAL ACTIVE CALLS: 6
+================================================================================
+
+--- NEW CALLS (2) ---
+[NEW] 120625-00280 | DIRECTED PATROL | N HIGHLAND AVE / SUNSET POINT RD | Response: 02:17 PM
+[NEW] 120625-00281 | TRAFFIC STOP | US HIGHWAY 19 N / DREW ST | Response: 02:19 PM
+
+--- RESOLVED CALLS (3) ---
+[RESOLVED] 120625-00256 | WELFARE CHECK | 2000 BLOCK ALPINE RD | Response: 12:57 PM
+[RESOLVED] 120625-00265 | HIT & RUN | MONTCLAIR RD / SETON DR | Response: 01:21 PM
+[RESOLVED] 120625-00279 | TRAFFIC STOP | DREW ST / N NIMBUS AVE | Response: 02:08 PM
