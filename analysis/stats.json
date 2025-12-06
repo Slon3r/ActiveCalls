@@ -1,6 +1,6 @@
 {
-  "total_calls_tracked": 1648,
-  "total_resolved": 1643,
+  "total_calls_tracked": 1649,
+  "total_resolved": 1644,
   "call_types": {
     "DIRECTED PATROL": 547,
     "TRAFFIC STOP": 252,
@@ -31,7 +31,7 @@
     "RECKLESS VEHICLE": 3,
     "JUVENILE CASE": 6,
     "HAZARD": 4,
-    "UNKNOWN PROBLEM": 8,
+    "UNKNOWN PROBLEM": 9,
     "NOISE COMPLAINT": 5,
     "CIVIL MATTER": 11,
     "DOMESTIC": 14,
@@ -397,7 +397,7 @@
     "1400 BLOCK GULF TO BAY BLVD": 5,
     "2200 BLOCK BELLEAIR RD": 1,
     "1300 BLOCK PARK ST": 8,
-    "DREW ST / US HIGHWAY 19 N": 1,
+    "DREW ST / US HIGHWAY 19 N": 2,
     "1300 BLOCK N MARTIN LUTHER KING JR AVE": 4,
     "N BELCHER RD / OLD COACHMAN RD": 1,
     "600 BLOCK S FORT HARRISON AVE": 6,
@@ -899,7 +899,7 @@
   "hourly_distribution": {
     "0": 58,
     "1": 55,
-    "2": 31,
+    "2": 32,
     "3": 29,
     "4": 13,
     "5": 41,
@@ -923,7 +923,7 @@
     "23": 49
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-06T07:29:34.932056+00:00",
+  "last_updated": "2025-12-06T07:39:52.700898+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 521
+  "total_snapshots": 522
 }
