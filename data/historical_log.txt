@@ -7848,3 +7848,11 @@ TOTAL ACTIVE CALLS: 2
 
 --- RESOLVED CALLS (1) ---
 [RESOLVED] 120625-00049 | DIRECTED PATROL | GRANT ST / ROOSEVELT AVE | Response: 02:21 AM
+
+================================================================================
+TIMESTAMP: 2025-12-06T09:57:04.622870+00:00
+TOTAL ACTIVE CALLS: 1
+================================================================================
+
+--- RESOLVED CALLS (1) ---
+[RESOLVED] 120625-00080 | ALARM | 1000 BLOCK ELDRIDGE ST | Response: 04:20 AM
