@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 1613,
-  "total_resolved": 1603,
+  "total_calls_tracked": 1618,
+  "total_resolved": 1609,
   "call_types": {
-    "DIRECTED PATROL": 536,
-    "TRAFFIC STOP": 240,
+    "DIRECTED PATROL": 538,
+    "TRAFFIC STOP": 241,
     "DRUNK DRIVER": 5,
     "DISTURBANCE": 35,
     "BATTERY": 8,
@@ -11,8 +11,8 @@
     "ALARM": 21,
     "KEEP THE PEACE": 22,
     "WELFARE CHECK": 35,
-    "PARK WALK AND TALK": 130,
-    "SUSPICIOUS PERSON": 67,
+    "PARK WALK AND TALK": 131,
+    "SUSPICIOUS PERSON": 68,
     "TRESPASS": 40,
     "PROPERTY FOUND/LOST": 12,
     "THEFT": 24,
@@ -198,7 +198,7 @@
     "500 BLOCK MANDALAY AVE": 8,
     "3000 BLOCK HAVERFORD DR": 2,
     "DREW ST / OLD COACHMAN RD": 3,
-    "2500 BLOCK HARN BLVD": 13,
+    "2500 BLOCK HARN BLVD": 14,
     "1000 BLOCK MCMULLEN BOOTH RD": 1,
     "1200 BLOCK S MARTIN LUTHER KING JR AVE": 1,
     "2000 BLOCK PARAGON CIR W": 1,
@@ -383,7 +383,7 @@
     "-1100 BLOCK 1198 N MARTIN LUTHER KING JR AVE": 2,
     "1500 BLOCK DRUID RD": 1,
     "GULF TO BAY BLVD / S HIGHLAND AVE": 2,
-    "1600 BLOCK N HIGHLAND AVE": 7,
+    "1600 BLOCK N HIGHLAND AVE": 8,
     "1700 BLOCK FLAGLER DR": 1,
     "20000 BLOCK US HIGHWAY 19 N": 2,
     "0 BLOCK 33 BAY ESPLANADE": 1,
@@ -882,7 +882,10 @@
     "1000 BLOCK WOODLAWN ST": 1,
     "CLEVELAND ST / GARDEN AVE": 1,
     "2700 BLOCK SEVILLE BLVD": 1,
-    "-3100 BLOCK 3199 MASTERS DR": 1
+    "-3100 BLOCK 3199 MASTERS DR": 1,
+    "1500 BLOCK S FORT HARRISON AVE": 1,
+    "WINDING WOOD DR / HAVERHILL CT": 1,
+    "-600 BLOCK 699 LAURA ST": 1
   },
   "hourly_distribution": {
     "0": 47,
@@ -907,11 +910,11 @@
     "19": 17,
     "20": 29,
     "21": 32,
-    "22": 65,
+    "22": 70,
     "23": 40
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-06T03:53:31.186673+00:00",
+  "last_updated": "2025-12-06T04:12:04.135950+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 508
+  "total_snapshots": 509
 }

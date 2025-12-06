@@ -7,18 +7,6 @@
       "Response_Date": "2025-12-05T19:01:30"
     },
     {
-      "Master_Incident_Number": "120525-00589",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "1000 BLOCK WOODLAWN ST",
-      "Response_Date": "2025-12-05T22:14:33"
-    },
-    {
-      "Master_Incident_Number": "120525-00592",
-      "Online_Description": "PARK WALK AND TALK",
-      "Address": "CLEVELAND ST / GARDEN AVE",
-      "Response_Date": "2025-12-05T22:17:11"
-    },
-    {
       "Master_Incident_Number": "120525-00599",
       "Online_Description": "BATTERY",
       "Address": "1000 BLOCK N MARTIN LUTHER KING JR AVE",
@@ -31,36 +19,42 @@
       "Response_Date": "2025-12-05T22:20:27"
     },
     {
-      "Master_Incident_Number": "120525-00600",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "700 BLOCK LAKEVIEW RD",
-      "Response_Date": "2025-12-05T22:21:18"
-    },
-    {
-      "Master_Incident_Number": "120525-00609",
-      "Online_Description": "ALARM",
-      "Address": "1600 BLOCK GULF TO BAY BLVD",
-      "Response_Date": "2025-12-05T22:26:50"
-    },
-    {
       "Master_Incident_Number": "120525-00608",
       "Online_Description": "PROPERTY FOUND/LOST",
       "Address": "600 BLOCK PIERCE ST",
       "Response_Date": "2025-12-05T22:27:26"
     },
     {
-      "Master_Incident_Number": "120525-00612",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "-3100 BLOCK 3199 MASTERS DR",
-      "Response_Date": "2025-12-05T22:29:25"
+      "Master_Incident_Number": "120525-00614",
+      "Online_Description": "PARK WALK AND TALK",
+      "Address": "1500 BLOCK S FORT HARRISON AVE",
+      "Response_Date": "2025-12-05T22:33:16"
     },
     {
-      "Master_Incident_Number": "120525-00613",
+      "Master_Incident_Number": "120525-00623",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "1600 BLOCK N HIGHLAND AVE",
+      "Response_Date": "2025-12-05T22:41:56"
+    },
+    {
+      "Master_Incident_Number": "120525-00625",
+      "Online_Description": "SUSPICIOUS PERSON",
+      "Address": "2500 BLOCK HARN BLVD",
+      "Response_Date": "2025-12-05T22:42:25"
+    },
+    {
+      "Master_Incident_Number": "120525-00626",
       "Online_Description": "TRAFFIC STOP",
-      "Address": "500 BLOCK S FORT HARRISON AVE",
-      "Response_Date": "2025-12-05T22:32:50"
+      "Address": "WINDING WOOD DR / HAVERHILL CT",
+      "Response_Date": "2025-12-05T22:47:01"
+    },
+    {
+      "Master_Incident_Number": "120525-00627",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "-600 BLOCK 699 LAURA ST",
+      "Response_Date": "2025-12-05T22:48:40"
     }
   ],
-  "timestamp": "2025-12-06T03:53:31.185247+00:00",
-  "count": 10
+  "timestamp": "2025-12-06T04:12:04.134425+00:00",
+  "count": 9
 }
