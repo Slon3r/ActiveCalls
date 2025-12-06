@@ -1,6 +1,6 @@
 {
-  "total_calls_tracked": 1777,
-  "total_resolved": 1768,
+  "total_calls_tracked": 1779,
+  "total_resolved": 1769,
   "call_types": {
     "DIRECTED PATROL": 583,
     "TRAFFIC STOP": 262,
@@ -12,8 +12,8 @@
     "KEEP THE PEACE": 24,
     "WELFARE CHECK": 37,
     "PARK WALK AND TALK": 156,
-    "SUSPICIOUS PERSON": 72,
-    "TRESPASS": 43,
+    "SUSPICIOUS PERSON": 73,
+    "TRESPASS": 44,
     "PROPERTY FOUND/LOST": 12,
     "THEFT": 25,
     "NEIGHBOR CALL": 9,
@@ -209,7 +209,7 @@
     "US HIGHWAY 19 N / GULF TO BAY BLVD": 2,
     "300 BLOCK CORONADO DR": 15,
     "23600 BLOCK US HIGHWAY 19 N": 4,
-    "300 BLOCK MANDALAY AVE": 2,
+    "300 BLOCK MANDALAY AVE": 3,
     "JONES ST / FERN AVE": 1,
     "1600 BLOCK GULF TO BAY BLVD": 10,
     "1600 BLOCK DARTMOUTH ST": 1,
@@ -855,7 +855,7 @@
     "1200 BLOCK S FORT HARRISON AVE": 1,
     "500 BLOCK S BELCHER RD": 2,
     "100 BLOCK ISLAND WAY": 1,
-    "1500 BLOCK S BELCHER RD": 1,
+    "1500 BLOCK S BELCHER RD": 2,
     "S MARTIN LUTHER KING JR AVE / WOODLAWN ST": 2,
     "0 BLOCK PINELLAS TRAIL": 1,
     "1200 BLOCK CALUSA CIR": 1,
@@ -968,7 +968,7 @@
     "13": 115,
     "14": 136,
     "15": 130,
-    "16": 112,
+    "16": 114,
     "17": 92,
     "18": 78,
     "19": 17,
@@ -978,7 +978,7 @@
     "23": 49
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-06T21:45:55.895215+00:00",
+  "last_updated": "2025-12-06T21:54:01.640242+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 582
+  "total_snapshots": 583
 }

@@ -8494,3 +8494,15 @@ TOTAL ACTIVE CALLS: 9
 --- NEW CALLS (2) ---
 [NEW] 120625-00347 | 911 HANG-UP | 27000 BLOCK US HIGHWAY 19 N | Response: 04:12 PM
 [NEW] 120625-00349 | CRIMINAL MISCHIEF | 3000 BLOCK DREW ST | Response: 04:17 PM
+
+================================================================================
+TIMESTAMP: 2025-12-06T21:54:01.635230+00:00
+TOTAL ACTIVE CALLS: 10
+================================================================================
+
+--- NEW CALLS (2) ---
+[NEW] 120625-00343 | SUSPICIOUS PERSON | 1500 BLOCK S BELCHER RD | Response: 04:08 PM
+[NEW] 120625-00351 | TRESPASS | 300 BLOCK MANDALAY AVE | Response: 04:28 PM
+
+--- RESOLVED CALLS (1) ---
+[RESOLVED] 120625-00347 | 911 HANG-UP | 27000 BLOCK US HIGHWAY 19 N | Response: 04:12 PM
