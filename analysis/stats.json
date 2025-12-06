@@ -1,6 +1,6 @@
 {
-  "total_calls_tracked": 1725,
-  "total_resolved": 1719,
+  "total_calls_tracked": 1726,
+  "total_resolved": 1720,
   "call_types": {
     "DIRECTED PATROL": 571,
     "TRAFFIC STOP": 256,
@@ -11,7 +11,7 @@
     "ALARM": 25,
     "KEEP THE PEACE": 24,
     "WELFARE CHECK": 35,
-    "PARK WALK AND TALK": 146,
+    "PARK WALK AND TALK": 147,
     "SUSPICIOUS PERSON": 70,
     "TRESPASS": 42,
     "PROPERTY FOUND/LOST": 12,
@@ -176,7 +176,7 @@
     "GULF TO BAY BLVD / S LAKE DR": 1,
     "-400 BLOCK BLK BLANCHE B LITTLEJOHN TRL": 1,
     "2600 BLOCK GULF TO BAY BLVD": 9,
-    "400 BLOCK MANDALAY AVE": 6,
+    "400 BLOCK MANDALAY AVE": 7,
     "-3200 BLOCK 3399 COURTNEY CAMPBELL CSWY": 2,
     "1200 BLOCK GROVE ST": 1,
     "0 BLOCK OLD COACHMAN RD": 1,
@@ -944,7 +944,7 @@
     "9": 118,
     "10": 117,
     "11": 107,
-    "12": 106,
+    "12": 107,
     "13": 105,
     "14": 119,
     "15": 116,
@@ -958,7 +958,7 @@
     "23": 49
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-06T17:27:39.382966+00:00",
+  "last_updated": "2025-12-06T17:38:41.674231+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 562
+  "total_snapshots": 563
 }
