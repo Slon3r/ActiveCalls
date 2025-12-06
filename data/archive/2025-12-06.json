@@ -288,6 +288,66 @@
           "Response_Date": "2025-12-05T22:48:40"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-06T04:34:54.755479+00:00",
+      "call_count": 9,
+      "calls": [
+        {
+          "Master_Incident_Number": "120525-00632",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "200 BLOCK S GLENWOOD AVE",
+          "Response_Date": "2025-12-05T23:05:16"
+        },
+        {
+          "Master_Incident_Number": "120525-00459",
+          "Online_Description": "WELFARE CHECK",
+          "Address": "300 BLOCK TURNER ST",
+          "Response_Date": "2025-12-05T19:01:30"
+        },
+        {
+          "Master_Incident_Number": "120525-00625",
+          "Online_Description": "NEIGHBOR CALL",
+          "Address": "2500 BLOCK HARN BLVD",
+          "Response_Date": "2025-12-05T22:42:25"
+        },
+        {
+          "Master_Incident_Number": "120525-00633",
+          "Online_Description": "SUSPICIOUS PERSON",
+          "Address": "300 BLOCK N MYRTLE AVE",
+          "Response_Date": "2025-12-05T23:00:15"
+        },
+        {
+          "Master_Incident_Number": "120525-00634",
+          "Online_Description": "DISTURBANCE",
+          "Address": "400 BLOCK POINSETTIA AVE",
+          "Response_Date": "2025-12-05T23:00:30"
+        },
+        {
+          "Master_Incident_Number": "120525-00635",
+          "Online_Description": "PARK WALK AND TALK",
+          "Address": "1600 BLOCK GULF TO BAY BLVD",
+          "Response_Date": "2025-12-05T23:04:17"
+        },
+        {
+          "Master_Incident_Number": "120525-00637",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "1200 BLOCK COURT ST",
+          "Response_Date": "2025-12-05T23:11:18"
+        },
+        {
+          "Master_Incident_Number": "120525-00638",
+          "Online_Description": "ASSIST OTHER AGENCY",
+          "Address": "NE COACHMAN RD / OLD COACHMAN RD",
+          "Response_Date": "2025-12-05T23:11:29"
+        },
+        {
+          "Master_Incident_Number": "120525-00639",
+          "Online_Description": "PARK WALK AND TALK",
+          "Address": "CARLTON ST / N MARTIN LUTHER KING JR AVE",
+          "Response_Date": "2025-12-05T23:11:32"
+        }
+      ]
     }
   ]
 }
