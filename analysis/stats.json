@@ -1,17 +1,17 @@
 {
-  "total_calls_tracked": 1686,
-  "total_resolved": 1679,
+  "total_calls_tracked": 1688,
+  "total_resolved": 1683,
   "call_types": {
     "DIRECTED PATROL": 560,
     "TRAFFIC STOP": 255,
     "DRUNK DRIVER": 5,
-    "DISTURBANCE": 40,
+    "DISTURBANCE": 41,
     "BATTERY": 8,
     "CRIMINAL MISCHIEF": 10,
     "ALARM": 23,
     "KEEP THE PEACE": 23,
     "WELFARE CHECK": 35,
-    "PARK WALK AND TALK": 144,
+    "PARK WALK AND TALK": 145,
     "SUSPICIOUS PERSON": 69,
     "TRESPASS": 41,
     "PROPERTY FOUND/LOST": 12,
@@ -104,7 +104,7 @@
     "MCMULLEN BOOTH RD / SR 590": 3,
     "LAKEVIEW RD / S MISSOURI AVE": 2,
     "2400 BLOCK MELLOW LN": 1,
-    "1200 BLOCK GULF BLVD": 8,
+    "1200 BLOCK GULF BLVD": 9,
     "1900 BLOCK N BELCHER RD": 1,
     "20100 BLOCK US HIGHWAY 19 N": 1,
     "CLEVELAND ST / N MAIN AVE": 1,
@@ -907,7 +907,8 @@
     "1100 BLOCK PALM BLUFF ST": 1,
     "N MARTIN LUTHER KING JR AVE / GROVE ST": 1,
     "MANDALAY POINT": 1,
-    "SPYGLASS DR / COUNTRYSIDE BLVD": 1
+    "SPYGLASS DR / COUNTRYSIDE BLVD": 1,
+    "2000 BLOCK GLASS LN": 1
   },
   "hourly_distribution": {
     "0": 58,
@@ -918,7 +919,7 @@
     "5": 43,
     "6": 57,
     "7": 48,
-    "8": 108,
+    "8": 110,
     "9": 105,
     "10": 103,
     "11": 98,
@@ -936,7 +937,7 @@
     "23": 49
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-06T14:10:48.007268+00:00",
+  "last_updated": "2025-12-06T14:30:29.516746+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 548
+  "total_snapshots": 549
 }
