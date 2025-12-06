@@ -1975,6 +1975,48 @@
           "Response_Date": "2025-12-06T11:35:18"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-06T17:27:39.379468+00:00",
+      "call_count": 6,
+      "calls": [
+        {
+          "Master_Incident_Number": "120625-00194",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "2600 BLOCK SABAL SPRINGS DR",
+          "Response_Date": "2025-12-06T10:01:58"
+        },
+        {
+          "Master_Incident_Number": "120625-00204",
+          "Online_Description": "FRAUD",
+          "Address": "1300 BLOCK MARY L RD",
+          "Response_Date": "2025-12-06T10:31:21"
+        },
+        {
+          "Master_Incident_Number": "120625-00215",
+          "Online_Description": "THEFT",
+          "Address": "1700 BLOCK ALGONQUIN DR",
+          "Response_Date": "2025-12-06T11:05:16"
+        },
+        {
+          "Master_Incident_Number": "120625-00225",
+          "Online_Description": "SHOPLIFTING",
+          "Address": "2700 BLOCK GULF TO BAY BLVD",
+          "Response_Date": "2025-12-06T11:34:50"
+        },
+        {
+          "Master_Incident_Number": "120625-00229",
+          "Online_Description": "ASSIST OTHER AGENCY",
+          "Address": "DRUID RD / US HIGHWAY 19 N",
+          "Response_Date": "2025-12-06T11:51:48"
+        },
+        {
+          "Master_Incident_Number": "120625-00234",
+          "Online_Description": "ASSIST CITIZEN",
+          "Address": "1700 BLOCK HARBOR DR",
+          "Response_Date": "2025-12-06T12:02:33"
+        }
+      ]
     }
   ]
 }

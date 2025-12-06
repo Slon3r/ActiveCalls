@@ -1,6 +1,6 @@
 {
-  "total_calls_tracked": 1723,
-  "total_resolved": 1717,
+  "total_calls_tracked": 1725,
+  "total_resolved": 1719,
   "call_types": {
     "DIRECTED PATROL": 571,
     "TRAFFIC STOP": 256,
@@ -24,8 +24,8 @@
     "SUSPICIOUS EVENT": 29,
     "TRAFFIC CRASH": 73,
     "DISABLED VEHICLE": 13,
-    "ASSIST CITIZEN": 48,
-    "ASSIST OTHER AGENCY": 26,
+    "ASSIST CITIZEN": 49,
+    "ASSIST OTHER AGENCY": 27,
     "FIRE": 2,
     "FRAUD": 14,
     "RECKLESS VEHICLE": 3,
@@ -927,7 +927,9 @@
     "1300 BLOCK MARY L RD": 1,
     "1700 BLOCK ALGONQUIN DR": 1,
     "-2300 BLOCK 2408 DREW ST": 1,
-    "600 BLOCK LAURA ST": 1
+    "600 BLOCK LAURA ST": 1,
+    "DRUID RD / US HIGHWAY 19 N": 1,
+    "1700 BLOCK HARBOR DR": 1
   },
   "hourly_distribution": {
     "0": 58,
@@ -941,8 +943,8 @@
     "8": 110,
     "9": 118,
     "10": 117,
-    "11": 106,
-    "12": 105,
+    "11": 107,
+    "12": 106,
     "13": 105,
     "14": 119,
     "15": 116,
@@ -956,7 +958,7 @@
     "23": 49
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-06T17:08:18.610971+00:00",
+  "last_updated": "2025-12-06T17:27:39.382966+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 561
+  "total_snapshots": 562
 }
