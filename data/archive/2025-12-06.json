@@ -473,6 +473,48 @@
           "Response_Date": "2025-12-06T00:23:08"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-06T05:53:15.194706+00:00",
+      "call_count": 6,
+      "calls": [
+        {
+          "Master_Incident_Number": "120625-00003",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "SKYVIEW AVE / GULF TO BAY BLVD",
+          "Response_Date": "2025-12-06T00:01:42"
+        },
+        {
+          "Master_Incident_Number": "120625-00008",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "US HIGHWAY 19 N / GULF TO BAY BLVD",
+          "Response_Date": "2025-12-06T00:11:36"
+        },
+        {
+          "Master_Incident_Number": "120625-00010",
+          "Online_Description": "DISTURBANCE",
+          "Address": "1700 BLOCK DREW ST",
+          "Response_Date": "2025-12-06T00:15:05"
+        },
+        {
+          "Master_Incident_Number": "120625-00011",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "CORONADO DR / HAMDEN DR",
+          "Response_Date": "2025-12-06T00:17:35"
+        },
+        {
+          "Master_Incident_Number": "120625-00016",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "0 BLOCK MEMORIAL CSWY",
+          "Response_Date": "2025-12-06T00:26:05"
+        },
+        {
+          "Master_Incident_Number": "120625-00017",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "ENGMAN ST / FAIRBURN AVE",
+          "Response_Date": "2025-12-06T00:29:11"
+        }
+      ]
     }
   ]
 }
