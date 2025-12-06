@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 1807,
-  "total_resolved": 1797,
+  "total_calls_tracked": 1810,
+  "total_resolved": 1799,
   "call_types": {
-    "DIRECTED PATROL": 592,
-    "TRAFFIC STOP": 267,
+    "DIRECTED PATROL": 593,
+    "TRAFFIC STOP": 269,
     "DRUNK DRIVER": 5,
     "DISTURBANCE": 43,
     "BATTERY": 10,
@@ -488,7 +488,7 @@
     "22900 BLOCK US HIGHWAY 19 N": 3,
     "-2800 BLOCK 2865 MEADOW HILL DR S": 1,
     "1000 BLOCK PENNSYLVANIA AVE": 1,
-    "US HIGHWAY 19 N / MCCORMICK DR": 1,
+    "US HIGHWAY 19 N / MCCORMICK DR": 2,
     "700 BLOCK BAYWAY BLVD": 1,
     "BAYMONT ST / POINSETTIA AVE": 1,
     "-600 BLOCK 887 HARBOR IS": 1,
@@ -613,7 +613,7 @@
     "-2100 BLOCK 2199 NURSERY RD": 1,
     "SR 580 / MCMULLEN BOOTH RD": 1,
     "300 BLOCK S ARCTURAS AVE": 1,
-    "S MISSOURI AVE / DRUID RD": 1,
+    "S MISSOURI AVE / DRUID RD": 2,
     "1000 BLOCK CARLTON ST": 2,
     "GULF TO BAY BLVD / BAYSIDE BRG": 1,
     "GULF TO BAY BLVD / S BAYSHORE BLVD": 1,
@@ -957,7 +957,8 @@
     "1400 BLOCK AMBASSADOR DR": 1,
     "CORONADO DR / S GULFVIEW BLVD": 1,
     "S EAST AVE / COURT ST": 1,
-    "1200 BLOCK S HIGHLAND": 1
+    "1200 BLOCK S HIGHLAND": 1,
+    "S HILLCREST AVE / COURT ST": 1
   },
   "hourly_distribution": {
     "0": 58,
@@ -978,7 +979,7 @@
     "15": 130,
     "16": 119,
     "17": 104,
-    "18": 89,
+    "18": 92,
     "19": 17,
     "20": 29,
     "21": 32,
@@ -986,7 +987,7 @@
     "23": 49
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-06T23:45:09.689306+00:00",
+  "last_updated": "2025-12-06T23:53:36.804018+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 591
+  "total_snapshots": 592
 }

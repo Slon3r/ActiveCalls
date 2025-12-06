@@ -3517,6 +3517,78 @@
           "Response_Date": "2025-12-06T18:22:20"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-06T23:53:36.799011+00:00",
+      "call_count": 11,
+      "calls": [
+        {
+          "Master_Incident_Number": "120625-00330",
+          "Online_Description": "DECEASED PERSON",
+          "Address": "900 BLOCK S EVERGREEN AVE",
+          "Response_Date": "2025-12-06T15:45:30"
+        },
+        {
+          "Master_Incident_Number": "120625-00348",
+          "Online_Description": "TRAFFIC CRASH",
+          "Address": "SUNSET POINT RD / SETON DR",
+          "Response_Date": "2025-12-06T16:14:00"
+        },
+        {
+          "Master_Incident_Number": "120625-00405",
+          "Online_Description": "PARK WALK AND TALK",
+          "Address": "N GARDEN AVE / CLEVELAND ST",
+          "Response_Date": "2025-12-06T18:10:55"
+        },
+        {
+          "Master_Incident_Number": "120625-00408",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "3200 BLOCK COURTNEY CAMPBELL CSWY",
+          "Response_Date": "2025-12-06T18:12:18"
+        },
+        {
+          "Master_Incident_Number": "120625-00412",
+          "Online_Description": "PARK WALK AND TALK",
+          "Address": "S EAST AVE / COURT ST",
+          "Response_Date": "2025-12-06T18:16:39"
+        },
+        {
+          "Master_Incident_Number": "120625-00415",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "MEMORIAL CSWY",
+          "Response_Date": "2025-12-06T18:19:28"
+        },
+        {
+          "Master_Incident_Number": "120625-00417",
+          "Online_Description": "PARK WALK AND TALK",
+          "Address": "1200 BLOCK S HIGHLAND AVE",
+          "Response_Date": "2025-12-06T18:21:35"
+        },
+        {
+          "Master_Incident_Number": "120625-00418",
+          "Online_Description": "PARK WALK AND TALK",
+          "Address": "1200 BLOCK S HIGHLAND AVE",
+          "Response_Date": "2025-12-06T18:22:20"
+        },
+        {
+          "Master_Incident_Number": "120625-00421",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "S MISSOURI AVE / DRUID RD",
+          "Response_Date": "2025-12-06T18:27:40"
+        },
+        {
+          "Master_Incident_Number": "120625-00422",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "US HIGHWAY 19 N / MCCORMICK DR",
+          "Response_Date": "2025-12-06T18:28:31"
+        },
+        {
+          "Master_Incident_Number": "120625-00424",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "S HILLCREST AVE / COURT ST",
+          "Response_Date": "2025-12-06T18:30:07"
+        }
+      ]
     }
   ]
 }
