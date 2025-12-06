@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 1708,
-  "total_resolved": 1700,
+  "total_calls_tracked": 1711,
+  "total_resolved": 1702,
   "call_types": {
-    "DIRECTED PATROL": 566,
+    "DIRECTED PATROL": 567,
     "TRAFFIC STOP": 256,
     "DRUNK DRIVER": 5,
     "DISTURBANCE": 43,
@@ -22,10 +22,10 @@
     "PANHANDLER/SOLICITOR": 4,
     "VEHICLE ILLEGALLY PARKED": 4,
     "SUSPICIOUS EVENT": 28,
-    "TRAFFIC CRASH": 72,
+    "TRAFFIC CRASH": 73,
     "DISABLED VEHICLE": 13,
     "ASSIST CITIZEN": 47,
-    "ASSIST OTHER AGENCY": 25,
+    "ASSIST OTHER AGENCY": 26,
     "FIRE": 2,
     "FRAUD": 13,
     "RECKLESS VEHICLE": 3,
@@ -280,7 +280,7 @@
     "3000 BLOCK EASTLAND BLVD": 2,
     "-2300 BLOCK 2373 GULF TO BAY BLVD": 1,
     "1800 BLOCK MONTCLAIR RD": 2,
-    "20500 BLOCK US HIGHWAY 19 N": 5,
+    "20500 BLOCK US HIGHWAY 19 N": 6,
     "200 BLOCK LARBOARD WAY": 1,
     "COURT ST / S MISSOURI AVE": 3,
     "-500 BLOCK 1068 GULF BLVD": 1,
@@ -919,7 +919,9 @@
     "2500 BLOCK ALEXANDER PL": 1,
     "2600 BLOCK SABAL SPRINGS DR": 1,
     "1900 BLOCK STARDUST DR": 1,
-    "1800 BLOCK PINE ST": 1
+    "1800 BLOCK PINE ST": 1,
+    "1200 BLOCK STATE ST": 1,
+    "KINGS HWY / PALMETTO ST": 1
   },
   "hourly_distribution": {
     "0": 58,
@@ -932,7 +934,7 @@
     "7": 48,
     "8": 110,
     "9": 118,
-    "10": 110,
+    "10": 113,
     "11": 98,
     "12": 105,
     "13": 105,
@@ -948,7 +950,7 @@
     "23": 49
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-06T15:50:39.580847+00:00",
+  "last_updated": "2025-12-06T15:58:40.375901+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 556
+  "total_snapshots": 557
 }
