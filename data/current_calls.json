@@ -13,12 +13,6 @@
       "Response_Date": "2025-12-06T14:53:34"
     },
     {
-      "Master_Incident_Number": "120625-00314",
-      "Online_Description": "TRAFFIC STOP",
-      "Address": "US HIGHWAY 19 N / SR 590",
-      "Response_Date": "2025-12-06T15:08:02"
-    },
-    {
       "Master_Incident_Number": "120625-00318",
       "Online_Description": "DIRECTED PATROL",
       "Address": "200 BLOCK S GULFVIEW BLVD",
@@ -35,8 +29,20 @@
       "Online_Description": "DECEASED PERSON",
       "Address": "900 BLOCK S EVERGREEN AVE",
       "Response_Date": "2025-12-06T15:45:30"
+    },
+    {
+      "Master_Incident_Number": "120625-00338",
+      "Online_Description": "SUSPICIOUS EVENT",
+      "Address": "900 BLOCK VINE AVE",
+      "Response_Date": "2025-12-06T15:59:58"
+    },
+    {
+      "Master_Incident_Number": "120625-00340",
+      "Online_Description": "BATTERY",
+      "Address": "300 BLOCK PINELLAS ST",
+      "Response_Date": "2025-12-06T16:03:44"
     }
   ],
-  "timestamp": "2025-12-06T21:27:08.865521+00:00",
-  "count": 6
+  "timestamp": "2025-12-06T21:37:37.161322+00:00",
+  "count": 7
 }

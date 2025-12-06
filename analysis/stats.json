@@ -1,12 +1,12 @@
 {
-  "total_calls_tracked": 1773,
-  "total_resolved": 1767,
+  "total_calls_tracked": 1775,
+  "total_resolved": 1768,
   "call_types": {
     "DIRECTED PATROL": 583,
     "TRAFFIC STOP": 262,
     "DRUNK DRIVER": 5,
     "DISTURBANCE": 43,
-    "BATTERY": 9,
+    "BATTERY": 10,
     "CRIMINAL MISCHIEF": 10,
     "ALARM": 26,
     "KEEP THE PEACE": 24,
@@ -21,7 +21,7 @@
     "SUSPICIOUS VEHICLE": 12,
     "PANHANDLER/SOLICITOR": 4,
     "VEHICLE ILLEGALLY PARKED": 4,
-    "SUSPICIOUS EVENT": 29,
+    "SUSPICIOUS EVENT": 30,
     "TRAFFIC CRASH": 73,
     "DISABLED VEHICLE": 13,
     "ASSIST CITIZEN": 49,
@@ -288,7 +288,7 @@
     "DREW ST / BAYVIEW AVE": 3,
     "2800 BLOCK APPLEWOOD DRIVE": 1,
     "1500 BLOCK EXCALIBER DR": 1,
-    "300 BLOCK PINELLAS ST": 7,
+    "300 BLOCK PINELLAS ST": 8,
     "1700 BLOCK EL TAIR TRL": 1,
     "SETON DR / MONTCLAIR RD": 1,
     "700 BLOCK S GULFVIEW BLVD": 1,
@@ -948,7 +948,8 @@
     "200 BLOCK S MYRTLE AVE": 1,
     "S MISSOURI AVE / CLEVELAND ST": 1,
     "100 BLOCK S CORONA AVE": 1,
-    "900 BLOCK S EVERGREEN AVE": 1
+    "900 BLOCK S EVERGREEN AVE": 1,
+    "900 BLOCK VINE AVE": 1
   },
   "hourly_distribution": {
     "0": 58,
@@ -966,8 +967,8 @@
     "12": 114,
     "13": 115,
     "14": 136,
-    "15": 129,
-    "16": 109,
+    "15": 130,
+    "16": 110,
     "17": 92,
     "18": 78,
     "19": 17,
@@ -977,7 +978,7 @@
     "23": 49
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-06T21:27:08.869918+00:00",
+  "last_updated": "2025-12-06T21:37:37.165658+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 580
+  "total_snapshots": 581
 }
