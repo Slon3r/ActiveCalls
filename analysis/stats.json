@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 1741,
-  "total_resolved": 1735,
+  "total_calls_tracked": 1743,
+  "total_resolved": 1737,
   "call_types": {
-    "DIRECTED PATROL": 574,
+    "DIRECTED PATROL": 575,
     "TRAFFIC STOP": 256,
     "DRUNK DRIVER": 5,
     "DISTURBANCE": 43,
@@ -38,7 +38,7 @@
     "ANIMAL CASE": 8,
     "MISSING PERSON": 19,
     "BUILDING CHECK": 5,
-    "SHOPLIFTING": 5,
+    "SHOPLIFTING": 6,
     "DECEASED PERSON": 1,
     "BURGLARY": 9,
     "SHOTS FIRED": 1,
@@ -99,7 +99,7 @@
     "2100 BLOCK BELCHER RD": 1,
     "SAND KEY PARK ENTRANCE": 5,
     "S MISSOURI AVE / LAKEVIEW RD": 3,
-    "23100 BLOCK US HIGHWAY 19 N": 6,
+    "23100 BLOCK US HIGHWAY 19 N": 8,
     "1200 BLOCK N BETTY LN": 1,
     "MCMULLEN BOOTH RD / SR 590": 3,
     "LAKEVIEW RD / S MISSOURI AVE": 2,
@@ -953,7 +953,7 @@
     "10": 117,
     "11": 107,
     "12": 114,
-    "13": 113,
+    "13": 115,
     "14": 119,
     "15": 116,
     "16": 109,
@@ -966,7 +966,7 @@
     "23": 49
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-06T19:07:46.882004+00:00",
+  "last_updated": "2025-12-06T19:23:17.326334+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 569
+  "total_snapshots": 570
 }

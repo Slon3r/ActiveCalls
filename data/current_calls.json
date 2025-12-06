@@ -7,12 +7,6 @@
       "Response_Date": "2025-12-06T12:57:33"
     },
     {
-      "Master_Incident_Number": "120625-00262",
-      "Online_Description": "911 HANG-UP",
-      "Address": "3100 BLOCK LANDMARK DR",
-      "Response_Date": "2025-12-06T13:14:40"
-    },
-    {
       "Master_Incident_Number": "120625-00265",
       "Online_Description": "HIT & RUN",
       "Address": "MONTCLAIR RD / SETON DR",
@@ -25,18 +19,24 @@
       "Response_Date": "2025-12-06T13:26:16"
     },
     {
-      "Master_Incident_Number": "120625-00267",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "-2600 BLOCK 2625 SOUTH DR",
-      "Response_Date": "2025-12-06T13:36:09"
-    },
-    {
       "Master_Incident_Number": "120625-00268",
       "Online_Description": "ASSIST OTHER AGENCY",
       "Address": "1000 BLOCK N MARTIN LUTHER KING JR AVE",
       "Response_Date": "2025-12-06T13:39:16"
+    },
+    {
+      "Master_Incident_Number": "120625-00270",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "23100 BLOCK US HIGHWAY 19 N",
+      "Response_Date": "2025-12-06T13:54:12"
+    },
+    {
+      "Master_Incident_Number": "120625-00273",
+      "Online_Description": "SHOPLIFTING",
+      "Address": "23100 BLOCK US HIGHWAY 19 N",
+      "Response_Date": "2025-12-06T13:55:07"
     }
   ],
-  "timestamp": "2025-12-06T19:07:46.878299+00:00",
+  "timestamp": "2025-12-06T19:23:17.322486+00:00",
   "count": 6
 }
