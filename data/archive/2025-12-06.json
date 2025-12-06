@@ -1153,6 +1153,24 @@
           "Response_Date": "2025-12-06T07:17:13"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-06T13:16:52.225824+00:00",
+      "call_count": 2,
+      "calls": [
+        {
+          "Master_Incident_Number": "120625-00123",
+          "Online_Description": "BURGLARY",
+          "Address": "1500 BLOCK S MYRTLE AVE",
+          "Response_Date": "2025-12-06T06:55:49"
+        },
+        {
+          "Master_Incident_Number": "120625-00138",
+          "Online_Description": "PARK WALK AND TALK",
+          "Address": "1400 BLOCK N BETTY LN",
+          "Response_Date": "2025-12-06T07:50:17"
+        }
+      ]
     }
   ]
 }

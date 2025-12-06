@@ -1,6 +1,6 @@
 {
-  "total_calls_tracked": 1674,
-  "total_resolved": 1671,
+  "total_calls_tracked": 1675,
+  "total_resolved": 1673,
   "call_types": {
     "DIRECTED PATROL": 555,
     "TRAFFIC STOP": 254,
@@ -11,7 +11,7 @@
     "ALARM": 23,
     "KEEP THE PEACE": 23,
     "WELFARE CHECK": 35,
-    "PARK WALK AND TALK": 139,
+    "PARK WALK AND TALK": 140,
     "SUSPICIOUS PERSON": 69,
     "TRESPASS": 41,
     "PROPERTY FOUND/LOST": 12,
@@ -274,7 +274,7 @@
     "700 BLOCK BLANCHE B LITTLEJOHN TRL": 2,
     "-200 BLOCK 298 WINDWARD PSGE": 1,
     "2600 BLOCK LANDMARK DR": 2,
-    "1400 BLOCK N BETTY LN": 2,
+    "1400 BLOCK N BETTY LN": 3,
     "CLEVELAND ST / S MADISON AVE": 2,
     "900 BLOCK BAY ESPLANADE": 2,
     "3000 BLOCK EASTLAND BLVD": 2,
@@ -912,7 +912,7 @@
     "4": 16,
     "5": 43,
     "6": 57,
-    "7": 47,
+    "7": 48,
     "8": 97,
     "9": 105,
     "10": 103,
@@ -931,7 +931,7 @@
     "23": 49
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-06T12:48:59.327959+00:00",
+  "last_updated": "2025-12-06T13:16:52.228111+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 543
+  "total_snapshots": 544
 }
