@@ -1,11 +1,11 @@
 {
-  "total_calls_tracked": 1700,
-  "total_resolved": 1693,
+  "total_calls_tracked": 1704,
+  "total_resolved": 1698,
   "call_types": {
-    "DIRECTED PATROL": 563,
+    "DIRECTED PATROL": 565,
     "TRAFFIC STOP": 256,
     "DRUNK DRIVER": 5,
-    "DISTURBANCE": 42,
+    "DISTURBANCE": 43,
     "BATTERY": 8,
     "CRIMINAL MISCHIEF": 10,
     "ALARM": 23,
@@ -25,7 +25,7 @@
     "TRAFFIC CRASH": 72,
     "DISABLED VEHICLE": 13,
     "ASSIST CITIZEN": 47,
-    "ASSIST OTHER AGENCY": 24,
+    "ASSIST OTHER AGENCY": 25,
     "FIRE": 2,
     "FRAUD": 13,
     "RECKLESS VEHICLE": 3,
@@ -64,7 +64,7 @@
     "GULF TO BAY BLVD / S BELCHER RD": 5,
     "1900 BLOCK N BETTY LN": 1,
     "1400 BLOCK CLEVELAND ST": 2,
-    "1000 BLOCK WEST AVE": 1,
+    "1000 BLOCK WEST AVE": 2,
     "600 BLOCK S GULFVIEW BLVD": 9,
     "-800 BLOCK 1099 MARSHALL ST": 1,
     "US HIGHWAY 19 N / DREW ST": 13,
@@ -90,7 +90,7 @@
     "FLUSHING AVE / HARN BLVD": 1,
     "S BELCHER RD / BARCELONA DR": 1,
     "-1400 BLOCK 1417 S MISSOURI AVE": 1,
-    "1000 BLOCK GULF BLVD": 19,
+    "1000 BLOCK GULF BLVD": 20,
     "1400 BLOCK LAURA ST": 3,
     "ENTERPRISE RD E / VILLAGE DR": 2,
     "GULF TO BAY BLVD / HAMPTON RD": 1,
@@ -915,7 +915,9 @@
     "GULF TO BAY BLVD/S KEENE RD": 1,
     "400 BLOCK N BELCHER RD": 1,
     "2000 BLOCK PALMETTO ST": 1,
-    "300 BLOCK SEMINOLE ST": 1
+    "300 BLOCK SEMINOLE ST": 1,
+    "2500 BLOCK ALEXANDER PL": 1,
+    "2600 BLOCK SABAL SPRINGS DR": 1
   },
   "hourly_distribution": {
     "0": 58,
@@ -927,8 +929,8 @@
     "6": 57,
     "7": 48,
     "8": 110,
-    "9": 117,
-    "10": 103,
+    "9": 118,
+    "10": 106,
     "11": 98,
     "12": 105,
     "13": 105,
@@ -944,7 +946,7 @@
     "23": 49
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-06T15:21:08.986847+00:00",
+  "last_updated": "2025-12-06T15:33:31.775700+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 553
+  "total_snapshots": 554
 }
