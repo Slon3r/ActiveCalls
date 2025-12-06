@@ -7856,3 +7856,14 @@ TOTAL ACTIVE CALLS: 1
 
 --- RESOLVED CALLS (1) ---
 [RESOLVED] 120625-00080 | ALARM | 1000 BLOCK ELDRIDGE ST | Response: 04:20 AM
+
+================================================================================
+TIMESTAMP: 2025-12-06T10:18:19.726676+00:00
+TOTAL ACTIVE CALLS: 1
+================================================================================
+
+--- NEW CALLS (1) ---
+[NEW] 120625-00086 | 911 HANG-UP | US HIGHWAY 19 N / HARN BLVD | Response: 04:40 AM
+
+--- RESOLVED CALLS (1) ---
+[RESOLVED] 120625-00081 | TRESPASS | 27000 BLOCK US HIGHWAY 19 N | Response: 04:27 AM

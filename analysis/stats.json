@@ -1,6 +1,6 @@
 {
-  "total_calls_tracked": 1664,
-  "total_resolved": 1663,
+  "total_calls_tracked": 1665,
+  "total_resolved": 1664,
   "call_types": {
     "DIRECTED PATROL": 552,
     "TRAFFIC STOP": 253,
@@ -17,7 +17,7 @@
     "PROPERTY FOUND/LOST": 12,
     "THEFT": 24,
     "NEIGHBOR CALL": 8,
-    "911 HANG-UP": 59,
+    "911 HANG-UP": 60,
     "SUSPICIOUS VEHICLE": 12,
     "PANHANDLER/SOLICITOR": 4,
     "VEHICLE ILLEGALLY PARKED": 4,
@@ -741,7 +741,7 @@
     "2700 BLOCK UNION ST": 1,
     "LANDMARK DR / SANDY RIDGE DR": 1,
     "25800 BLOCK US HIGHWAY 19 N": 1,
-    "US HIGHWAY 19 N / HARN BLVD": 1,
+    "US HIGHWAY 19 N / HARN BLVD": 2,
     "24500 BLOCK US HIGHWAY 19 N": 1,
     "1900 BLOCK E SKYLINE DR": 1,
     "-2700 BLOCK BLK LANDMARK DR": 1,
@@ -907,7 +907,7 @@
     "1": 55,
     "2": 43,
     "3": 31,
-    "4": 15,
+    "4": 16,
     "5": 41,
     "6": 51,
     "7": 46,
@@ -929,7 +929,7 @@
     "23": 49
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-06T09:57:04.625033+00:00",
+  "last_updated": "2025-12-06T10:18:19.728858+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 532
+  "total_snapshots": 533
 }
