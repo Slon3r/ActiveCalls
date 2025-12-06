@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 1668,
+  "total_calls_tracked": 1671,
   "total_resolved": 1668,
   "call_types": {
-    "DIRECTED PATROL": 554,
+    "DIRECTED PATROL": 555,
     "TRAFFIC STOP": 253,
     "DRUNK DRIVER": 5,
     "DISTURBANCE": 40,
@@ -11,7 +11,7 @@
     "ALARM": 23,
     "KEEP THE PEACE": 22,
     "WELFARE CHECK": 35,
-    "PARK WALK AND TALK": 138,
+    "PARK WALK AND TALK": 139,
     "SUSPICIOUS PERSON": 69,
     "TRESPASS": 41,
     "PROPERTY FOUND/LOST": 12,
@@ -40,7 +40,7 @@
     "BUILDING CHECK": 5,
     "SHOPLIFTING": 4,
     "DECEASED PERSON": 1,
-    "BURGLARY": 7,
+    "BURGLARY": 8,
     "SHOTS FIRED": 1,
     "HIT & RUN": 13,
     "SCHOOL CROSSING": 6,
@@ -172,7 +172,7 @@
     "FIFTH ST & HAMDEN DR": 1,
     "FIFTH ST / HAMDEN DR": 1,
     "E WORLD PARKWAY BLVD / BELCHER RD": 1,
-    "300 BLOCK CLEVELAND ST": 14,
+    "300 BLOCK CLEVELAND ST": 15,
     "GULF TO BAY BLVD / S LAKE DR": 1,
     "-400 BLOCK BLK BLANCHE B LITTLEJOHN TRL": 1,
     "2600 BLOCK GULF TO BAY BLVD": 8,
@@ -202,7 +202,7 @@
     "1000 BLOCK MCMULLEN BOOTH RD": 1,
     "1200 BLOCK S MARTIN LUTHER KING JR AVE": 1,
     "2000 BLOCK PARAGON CIR W": 1,
-    "1800 BLOCK GULF TO BAY BLVD": 3,
+    "1800 BLOCK GULF TO BAY BLVD": 4,
     "S MAIN AVE / RAINBOW DR": 4,
     "1000 BLOCK N MADISON AVE": 1,
     "2800 BLOCK DREW ST": 2,
@@ -901,7 +901,8 @@
     "2400 BLOCK SUNSET POINT RD": 1,
     "PALMETTO ST / N BETTY LN": 1,
     "1000 BLOCK ELDRIDGE ST": 1,
-    "-1300 BLOCK 1398 CLEVELAND ST": 1
+    "-1300 BLOCK 1398 CLEVELAND ST": 1,
+    "1400 BLOCK N BETTY LN ": 1
   },
   "hourly_distribution": {
     "0": 58,
@@ -910,7 +911,7 @@
     "3": 31,
     "4": 16,
     "5": 43,
-    "6": 52,
+    "6": 55,
     "7": 46,
     "8": 97,
     "9": 105,
@@ -930,7 +931,7 @@
     "23": 49
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-06T11:43:59.148958+00:00",
+  "last_updated": "2025-12-06T11:52:01.458773+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 540
+  "total_snapshots": 541
 }
