@@ -13,18 +13,6 @@
       "Response_Date": "2025-12-06T14:31:13"
     },
     {
-      "Master_Incident_Number": "120625-00289",
-      "Online_Description": "HIT & RUN",
-      "Address": "GULF TO BAY BLVD / US HIGHWAY 19 N",
-      "Response_Date": "2025-12-06T14:35:46"
-    },
-    {
-      "Master_Incident_Number": "120625-00293",
-      "Online_Description": "BATTERY",
-      "Address": "1500 BLOCK DRUID RD",
-      "Response_Date": "2025-12-06T14:41:00"
-    },
-    {
       "Master_Incident_Number": "120625-00304",
       "Online_Description": "SHOPLIFTING",
       "Address": "27000 BLOCK US HIGHWAY 19 N",
@@ -49,18 +37,42 @@
       "Response_Date": "2025-12-06T15:24:44"
     },
     {
-      "Master_Incident_Number": "120625-00322",
-      "Online_Description": "PARK WALK AND TALK",
-      "Address": "0 BLOCK CAUSEWAY BLVD",
-      "Response_Date": "2025-12-06T15:28:44"
-    },
-    {
       "Master_Incident_Number": "120625-00323",
       "Online_Description": "JUVENILE CASE",
       "Address": "JEFFORDS ST / S HIGHLAND AVE",
       "Response_Date": "2025-12-06T15:29:11"
+    },
+    {
+      "Master_Incident_Number": "120625-00325",
+      "Online_Description": "ANIMAL CASE",
+      "Address": "2600 BLOCK GULF TO BAY BLVD",
+      "Response_Date": "2025-12-06T15:33:05"
+    },
+    {
+      "Master_Incident_Number": "120625-00326",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "3200 BLOCK COURTNEY CAMPBELL CSWY",
+      "Response_Date": "2025-12-06T15:37:16"
+    },
+    {
+      "Master_Incident_Number": "120625-00327",
+      "Online_Description": "ALARM",
+      "Address": "200 BLOCK S MYRTLE AVE",
+      "Response_Date": "2025-12-06T15:37:25"
+    },
+    {
+      "Master_Incident_Number": "120625-00329",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "1100 BLOCK GULF BLVD",
+      "Response_Date": "2025-12-06T15:44:12"
+    },
+    {
+      "Master_Incident_Number": "120625-00331",
+      "Online_Description": "SUSPICIOUS PERSON",
+      "Address": "S MISSOURI AVE / CLEVELAND ST",
+      "Response_Date": "2025-12-06T15:48:44"
     }
   ],
-  "timestamp": "2025-12-06T20:53:50.686758+00:00",
-  "count": 10
+  "timestamp": "2025-12-06T21:09:41.764936+00:00",
+  "count": 12
 }

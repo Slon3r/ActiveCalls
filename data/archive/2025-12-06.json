@@ -2797,6 +2797,84 @@
           "Response_Date": "2025-12-06T15:29:11"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-06T21:09:41.764936+00:00",
+      "call_count": 12,
+      "calls": [
+        {
+          "Master_Incident_Number": "120625-00268",
+          "Online_Description": "ASSIST OTHER AGENCY",
+          "Address": "1000 BLOCK N MARTIN LUTHER KING JR AVE",
+          "Response_Date": "2025-12-06T13:39:16"
+        },
+        {
+          "Master_Incident_Number": "120625-00287",
+          "Online_Description": "SUSPICIOUS EVENT",
+          "Address": "27000 BLOCK US HIGHWAY 19 N",
+          "Response_Date": "2025-12-06T14:31:13"
+        },
+        {
+          "Master_Incident_Number": "120625-00304",
+          "Online_Description": "SHOPLIFTING",
+          "Address": "27000 BLOCK US HIGHWAY 19 N",
+          "Response_Date": "2025-12-06T14:53:34"
+        },
+        {
+          "Master_Incident_Number": "120625-00314",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "US HIGHWAY 19 N / SR 590",
+          "Response_Date": "2025-12-06T15:08:02"
+        },
+        {
+          "Master_Incident_Number": "120625-00318",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "200 BLOCK S GULFVIEW BLVD",
+          "Response_Date": "2025-12-06T15:22:52"
+        },
+        {
+          "Master_Incident_Number": "120625-00320",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "3200 BLOCK MCMULLEN BOOTH RD",
+          "Response_Date": "2025-12-06T15:24:44"
+        },
+        {
+          "Master_Incident_Number": "120625-00323",
+          "Online_Description": "JUVENILE CASE",
+          "Address": "JEFFORDS ST / S HIGHLAND AVE",
+          "Response_Date": "2025-12-06T15:29:11"
+        },
+        {
+          "Master_Incident_Number": "120625-00325",
+          "Online_Description": "ANIMAL CASE",
+          "Address": "2600 BLOCK GULF TO BAY BLVD",
+          "Response_Date": "2025-12-06T15:33:05"
+        },
+        {
+          "Master_Incident_Number": "120625-00326",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "3200 BLOCK COURTNEY CAMPBELL CSWY",
+          "Response_Date": "2025-12-06T15:37:16"
+        },
+        {
+          "Master_Incident_Number": "120625-00327",
+          "Online_Description": "ALARM",
+          "Address": "200 BLOCK S MYRTLE AVE",
+          "Response_Date": "2025-12-06T15:37:25"
+        },
+        {
+          "Master_Incident_Number": "120625-00329",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "1100 BLOCK GULF BLVD",
+          "Response_Date": "2025-12-06T15:44:12"
+        },
+        {
+          "Master_Incident_Number": "120625-00331",
+          "Online_Description": "SUSPICIOUS PERSON",
+          "Address": "S MISSOURI AVE / CLEVELAND ST",
+          "Response_Date": "2025-12-06T15:48:44"
+        }
+      ]
     }
   ]
 }
