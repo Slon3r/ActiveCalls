@@ -1,5 +1,5 @@
 {
-  "total_calls_tracked": 1726,
+  "total_calls_tracked": 1727,
   "total_resolved": 1720,
   "call_types": {
     "DIRECTED PATROL": 571,
@@ -11,7 +11,7 @@
     "ALARM": 25,
     "KEEP THE PEACE": 24,
     "WELFARE CHECK": 35,
-    "PARK WALK AND TALK": 147,
+    "PARK WALK AND TALK": 148,
     "SUSPICIOUS PERSON": 70,
     "TRESPASS": 42,
     "PROPERTY FOUND/LOST": 12,
@@ -929,7 +929,8 @@
     "-2300 BLOCK 2408 DREW ST": 1,
     "600 BLOCK LAURA ST": 1,
     "DRUID RD / US HIGHWAY 19 N": 1,
-    "1700 BLOCK HARBOR DR": 1
+    "1700 BLOCK HARBOR DR": 1,
+    "NE COACHMAN/BELCHER": 1
   },
   "hourly_distribution": {
     "0": 58,
@@ -944,7 +945,7 @@
     "9": 118,
     "10": 117,
     "11": 107,
-    "12": 107,
+    "12": 108,
     "13": 105,
     "14": 119,
     "15": 116,
@@ -958,7 +959,7 @@
     "23": 49
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-06T17:38:41.674231+00:00",
+  "last_updated": "2025-12-06T17:46:36.456348+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 563
+  "total_snapshots": 564
 }
