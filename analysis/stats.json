@@ -1,11 +1,11 @@
 {
-  "total_calls_tracked": 1647,
-  "total_resolved": 1642,
+  "total_calls_tracked": 1648,
+  "total_resolved": 1643,
   "call_types": {
     "DIRECTED PATROL": 547,
     "TRAFFIC STOP": 252,
     "DRUNK DRIVER": 5,
-    "DISTURBANCE": 38,
+    "DISTURBANCE": 39,
     "BATTERY": 8,
     "CRIMINAL MISCHIEF": 10,
     "ALARM": 21,
@@ -684,7 +684,7 @@
     "US HIGHWAY 19 N / BELLEAIR BLVD": 2,
     "200 BLOCK N BETTY LN": 1,
     "-3000 BLOCK BLK SR 580": 1,
-    "1500 BLOCK S MYRTLE AVE": 3,
+    "1500 BLOCK S MYRTLE AVE": 4,
     "NURSERY RD / US HIGHWAY 19 N": 1,
     "N NEPTUNE AVE / CLEVELAND ST": 1,
     "0 BLOCK 29 SAN MARCO ST": 1,
@@ -898,7 +898,7 @@
   },
   "hourly_distribution": {
     "0": 58,
-    "1": 54,
+    "1": 55,
     "2": 31,
     "3": 29,
     "4": 13,
@@ -923,7 +923,7 @@
     "23": 49
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-06T07:14:45.892567+00:00",
+  "last_updated": "2025-12-06T07:29:34.932056+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 520
+  "total_snapshots": 521
 }
