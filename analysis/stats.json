@@ -1,6 +1,6 @@
 {
-  "total_calls_tracked": 1661,
-  "total_resolved": 1657,
+  "total_calls_tracked": 1662,
+  "total_resolved": 1658,
   "call_types": {
     "DIRECTED PATROL": 552,
     "TRAFFIC STOP": 253,
@@ -17,7 +17,7 @@
     "PROPERTY FOUND/LOST": 12,
     "THEFT": 24,
     "NEIGHBOR CALL": 8,
-    "911 HANG-UP": 58,
+    "911 HANG-UP": 59,
     "SUSPICIOUS VEHICLE": 12,
     "PANHANDLER/SOLICITOR": 4,
     "VEHICLE ILLEGALLY PARKED": 4,
@@ -688,7 +688,7 @@
     "NURSERY RD / US HIGHWAY 19 N": 1,
     "N NEPTUNE AVE / CLEVELAND ST": 1,
     "0 BLOCK 29 SAN MARCO ST": 1,
-    "1600 BLOCK FULTON AVE": 4,
+    "1600 BLOCK FULTON AVE": 5,
     "CAUSEWAY BLVD / EAST SHORE DR": 1,
     "SUNSET POINT RD / N HERCULES AVE": 4,
     "400 BLOCK HAMDEN DR": 1,
@@ -905,7 +905,7 @@
     "0": 58,
     "1": 55,
     "2": 43,
-    "3": 30,
+    "3": 31,
     "4": 13,
     "5": 41,
     "6": 51,
@@ -928,7 +928,7 @@
     "23": 49
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-06T08:41:27.669617+00:00",
+  "last_updated": "2025-12-06T08:53:15.739471+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 526
+  "total_snapshots": 527
 }

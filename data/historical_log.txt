@@ -7801,3 +7801,14 @@ TOTAL ACTIVE CALLS: 4
 [RESOLVED] 120625-00046 | ASSIST CITIZEN | DREW ST / US HIGHWAY 19 N | Response: 02:14 AM
 [RESOLVED] 120625-00057 | ASSIST CITIZEN | DREW ST / MCMULLEN BOOTH RD | Response: 02:38 AM
 [RESOLVED] 120625-00060 | PARK WALK AND TALK | 500 BLOCK N BETTY LN | Response: 02:49 AM
+
+================================================================================
+TIMESTAMP: 2025-12-06T08:53:15.737358+00:00
+TOTAL ACTIVE CALLS: 4
+================================================================================
+
+--- NEW CALLS (1) ---
+[NEW] 120625-00069 | 911 HANG-UP | 1600 BLOCK FULTON AVE | Response: 03:24 AM
+
+--- RESOLVED CALLS (1) ---
+[RESOLVED] 120625-00064 | DIRECTED PATROL | PALMETTO ST / N BETTY LN | Response: 02:57 AM
