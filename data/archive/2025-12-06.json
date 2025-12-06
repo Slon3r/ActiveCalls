@@ -1105,6 +1105,30 @@
           "Response_Date": "2025-12-06T06:30:45"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-06T11:59:43.816491+00:00",
+      "call_count": 3,
+      "calls": [
+        {
+          "Master_Incident_Number": "120625-00110",
+          "Online_Description": "PARK WALK AND TALK",
+          "Address": "1400 BLOCK N BETTY LN",
+          "Response_Date": "2025-12-06T06:28:04"
+        },
+        {
+          "Master_Incident_Number": "120625-00113",
+          "Online_Description": "BURGLARY",
+          "Address": "1800 BLOCK GULF TO BAY BLVD",
+          "Response_Date": "2025-12-06T06:29:17"
+        },
+        {
+          "Master_Incident_Number": "120625-00114",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "300 BLOCK CLEVELAND ST",
+          "Response_Date": "2025-12-06T06:30:45"
+        }
+      ]
     }
   ]
 }
