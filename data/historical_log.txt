@@ -7812,3 +7812,11 @@ TOTAL ACTIVE CALLS: 4
 
 --- RESOLVED CALLS (1) ---
 [RESOLVED] 120625-00064 | DIRECTED PATROL | PALMETTO ST / N BETTY LN | Response: 02:57 AM
+
+================================================================================
+TIMESTAMP: 2025-12-06T09:10:05.298596+00:00
+TOTAL ACTIVE CALLS: 3
+================================================================================
+
+--- RESOLVED CALLS (1) ---
+[RESOLVED] 120625-00058 | PARK WALK AND TALK | 1400 BLOCK S MARTIN LUTHER KING JR AVE | Response: 02:45 AM
