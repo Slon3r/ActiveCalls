@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 1683,
-  "total_resolved": 1678,
+  "total_calls_tracked": 1686,
+  "total_resolved": 1679,
   "call_types": {
-    "DIRECTED PATROL": 559,
-    "TRAFFIC STOP": 254,
+    "DIRECTED PATROL": 560,
+    "TRAFFIC STOP": 255,
     "DRUNK DRIVER": 5,
     "DISTURBANCE": 40,
     "BATTERY": 8,
@@ -11,7 +11,7 @@
     "ALARM": 23,
     "KEEP THE PEACE": 23,
     "WELFARE CHECK": 35,
-    "PARK WALK AND TALK": 143,
+    "PARK WALK AND TALK": 144,
     "SUSPICIOUS PERSON": 69,
     "TRESPASS": 41,
     "PROPERTY FOUND/LOST": 12,
@@ -644,7 +644,7 @@
     "800 BLOCK HARBOR IS": 2,
     "RIDGE TOP WAY / MISTY PLATEAU TRL": 1,
     "800 BLOCK DREW ST": 1,
-    "OLD COACHMAN RD / DREW ST": 2,
+    "OLD COACHMAN RD / DREW ST": 3,
     "900 BLOCK CARLTON ST": 1,
     "1200 BLOCK S MYRTLE AVE": 1,
     "1300 BLOCK S MARTIN LUTHER KING JR AVE": 1,
@@ -905,7 +905,9 @@
     "1400 BLOCK N BETTY LN ": 1,
     "3000 BLOCK MCMULLEN BOOTH RD": 1,
     "1100 BLOCK PALM BLUFF ST": 1,
-    "N MARTIN LUTHER KING JR AVE / GROVE ST": 1
+    "N MARTIN LUTHER KING JR AVE / GROVE ST": 1,
+    "MANDALAY POINT": 1,
+    "SPYGLASS DR / COUNTRYSIDE BLVD": 1
   },
   "hourly_distribution": {
     "0": 58,
@@ -916,7 +918,7 @@
     "5": 43,
     "6": 57,
     "7": 48,
-    "8": 105,
+    "8": 108,
     "9": 105,
     "10": 103,
     "11": 98,
@@ -934,7 +936,7 @@
     "23": 49
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-06T13:54:24.125365+00:00",
+  "last_updated": "2025-12-06T14:10:48.007268+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 547
+  "total_snapshots": 548
 }
