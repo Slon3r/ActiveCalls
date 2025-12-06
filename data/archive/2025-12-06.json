@@ -3385,6 +3385,72 @@
           "Response_Date": "2025-12-06T18:04:19"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-06T23:36:51.195827+00:00",
+      "call_count": 10,
+      "calls": [
+        {
+          "Master_Incident_Number": "120625-00352",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "200 BLOCK PALM IS NW",
+          "Response_Date": "2025-12-06T18:11:30.593"
+        },
+        {
+          "Master_Incident_Number": "120625-00330",
+          "Online_Description": "DECEASED PERSON",
+          "Address": "900 BLOCK S EVERGREEN AVE",
+          "Response_Date": "2025-12-06T15:45:30"
+        },
+        {
+          "Master_Incident_Number": "120625-00348",
+          "Online_Description": "TRAFFIC CRASH",
+          "Address": "SUNSET POINT RD / SETON DR",
+          "Response_Date": "2025-12-06T16:14:00"
+        },
+        {
+          "Master_Incident_Number": "120625-00372",
+          "Online_Description": "911 HANG-UP",
+          "Address": "1400 BLOCK AMBASSADOR DR",
+          "Response_Date": "2025-12-06T17:14:09"
+        },
+        {
+          "Master_Incident_Number": "120625-00387",
+          "Online_Description": "JUVENILE CASE",
+          "Address": "1300 BLOCK YOUNG AVE",
+          "Response_Date": "2025-12-06T17:40:16"
+        },
+        {
+          "Master_Incident_Number": "120625-00390",
+          "Online_Description": "UNKNOWN PROBLEM",
+          "Address": "CORONADO DR / S GULFVIEW BLVD",
+          "Response_Date": "2025-12-06T17:49:34"
+        },
+        {
+          "Master_Incident_Number": "120625-00401",
+          "Online_Description": "911 HANG-UP",
+          "Address": "2200 BLOCK MORNINGSIDE DR",
+          "Response_Date": "2025-12-06T18:02:15"
+        },
+        {
+          "Master_Incident_Number": "120625-00405",
+          "Online_Description": "PARK WALK AND TALK",
+          "Address": "CLEVELAND ST / GARDEN AVE",
+          "Response_Date": "2025-12-06T18:10:55"
+        },
+        {
+          "Master_Incident_Number": "120625-00408",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "3200 BLOCK COURTNEY CAMPBELL CSWY",
+          "Response_Date": "2025-12-06T18:12:18"
+        },
+        {
+          "Master_Incident_Number": "120625-00410",
+          "Online_Description": "PARK WALK AND TALK",
+          "Address": "600 BLOCK COURT ST",
+          "Response_Date": "2025-12-06T18:15:53"
+        }
+      ]
     }
   ]
 }
