@@ -1,6 +1,6 @@
 {
-  "total_calls_tracked": 1721,
-  "total_resolved": 1714,
+  "total_calls_tracked": 1723,
+  "total_resolved": 1717,
   "call_types": {
     "DIRECTED PATROL": 571,
     "TRAFFIC STOP": 256,
@@ -24,7 +24,7 @@
     "SUSPICIOUS EVENT": 29,
     "TRAFFIC CRASH": 73,
     "DISABLED VEHICLE": 13,
-    "ASSIST CITIZEN": 47,
+    "ASSIST CITIZEN": 48,
     "ASSIST OTHER AGENCY": 26,
     "FIRE": 2,
     "FRAUD": 14,
@@ -38,7 +38,7 @@
     "ANIMAL CASE": 7,
     "MISSING PERSON": 19,
     "BUILDING CHECK": 5,
-    "SHOPLIFTING": 4,
+    "SHOPLIFTING": 5,
     "DECEASED PERSON": 1,
     "BURGLARY": 9,
     "SHOTS FIRED": 1,
@@ -111,7 +111,7 @@
     "S MISSOURI AVE / KINGSLEY ST": 1,
     "2200 BLOCK GULF TO BAY BLVD": 6,
     "CLEVELAND ST/S MADISON AVE": 1,
-    "2700 BLOCK GULF TO BAY BLVD": 16,
+    "2700 BLOCK GULF TO BAY BLVD": 17,
     "1400 BLOCK N HIBISCUS ST": 1,
     "2900 BLOCK DREW ST": 4,
     "21200 BLOCK US HIGHWAY 19 N": 5,
@@ -398,7 +398,7 @@
     "2200 BLOCK BELLEAIR RD": 1,
     "1300 BLOCK PARK ST": 9,
     "DREW ST / US HIGHWAY 19 N": 2,
-    "1300 BLOCK N MARTIN LUTHER KING JR AVE": 4,
+    "1300 BLOCK N MARTIN LUTHER KING JR AVE": 5,
     "N BELCHER RD / OLD COACHMAN RD": 1,
     "600 BLOCK S FORT HARRISON AVE": 6,
     "MONTCLAIR RD / N BELCHER RD": 1,
@@ -941,7 +941,7 @@
     "8": 110,
     "9": 118,
     "10": 117,
-    "11": 104,
+    "11": 106,
     "12": 105,
     "13": 105,
     "14": 119,
@@ -956,7 +956,7 @@
     "23": 49
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-06T16:53:22.312524+00:00",
+  "last_updated": "2025-12-06T17:08:18.610971+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 560
+  "total_snapshots": 561
 }
