@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 1727,
-  "total_resolved": 1720,
+  "total_calls_tracked": 1731,
+  "total_resolved": 1723,
   "call_types": {
-    "DIRECTED PATROL": 571,
+    "DIRECTED PATROL": 573,
     "TRAFFIC STOP": 256,
     "DRUNK DRIVER": 5,
     "DISTURBANCE": 43,
@@ -12,7 +12,7 @@
     "KEEP THE PEACE": 24,
     "WELFARE CHECK": 35,
     "PARK WALK AND TALK": 148,
-    "SUSPICIOUS PERSON": 70,
+    "SUSPICIOUS PERSON": 71,
     "TRESPASS": 42,
     "PROPERTY FOUND/LOST": 12,
     "THEFT": 25,
@@ -35,7 +35,7 @@
     "NOISE COMPLAINT": 5,
     "CIVIL MATTER": 11,
     "DOMESTIC": 14,
-    "ANIMAL CASE": 7,
+    "ANIMAL CASE": 8,
     "MISSING PERSON": 19,
     "BUILDING CHECK": 5,
     "SHOPLIFTING": 5,
@@ -136,12 +136,12 @@
     "COUNTRYSIDE BLVD / NORTHRIDGE DR": 1,
     "NE COACHMAN RD / US HIGHWAY 19 N": 2,
     "LOTUS PATH / BAY AVE": 1,
-    "MEMORIAL CSWY": 10,
+    "MEMORIAL CSWY": 11,
     "1300 BLOCK ADMIRAL WOODSON LN": 1,
     "DREW ST / N SATURN AVE": 2,
     "GULF TO BAY BLVD / THORTON RD": 1,
     "COUNTRYSIDE BLVD / ENDICOTT CT": 4,
-    "3000 BLOCK DREW ST": 2,
+    "3000 BLOCK DREW ST": 3,
     "2400 BLOCK COUNTRYSIDE BLVD": 4,
     "1200 BLOCK S MISSOURI AVE": 11,
     "2000 BLOCK N HIGHLAND AVE": 8,
@@ -198,7 +198,7 @@
     "500 BLOCK MANDALAY AVE": 8,
     "3000 BLOCK HAVERFORD DR": 2,
     "DREW ST / OLD COACHMAN RD": 3,
-    "2500 BLOCK HARN BLVD": 15,
+    "2500 BLOCK HARN BLVD": 16,
     "1000 BLOCK MCMULLEN BOOTH RD": 1,
     "1200 BLOCK S MARTIN LUTHER KING JR AVE": 1,
     "2000 BLOCK PARAGON CIR W": 1,
@@ -930,7 +930,8 @@
     "600 BLOCK LAURA ST": 1,
     "DRUID RD / US HIGHWAY 19 N": 1,
     "1700 BLOCK HARBOR DR": 1,
-    "NE COACHMAN/BELCHER": 1
+    "NE COACHMAN/BELCHER": 1,
+    "WOODLAWN OAKS AVE / WOODLAWN ST": 1
   },
   "hourly_distribution": {
     "0": 58,
@@ -945,7 +946,7 @@
     "9": 118,
     "10": 117,
     "11": 107,
-    "12": 108,
+    "12": 112,
     "13": 105,
     "14": 119,
     "15": 116,
@@ -959,7 +960,7 @@
     "23": 49
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-06T17:46:36.456348+00:00",
+  "last_updated": "2025-12-06T17:54:41.555265+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 564
+  "total_snapshots": 565
 }
