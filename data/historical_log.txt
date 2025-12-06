@@ -7836,3 +7836,15 @@ TOTAL ACTIVE CALLS: 1
 ================================================================================
 
 No changes since last check.
+
+================================================================================
+TIMESTAMP: 2025-12-06T09:49:19.099215+00:00
+TOTAL ACTIVE CALLS: 2
+================================================================================
+
+--- NEW CALLS (2) ---
+[NEW] 120625-00080 | ALARM | 1000 BLOCK ELDRIDGE ST | Response: 04:20 AM
+[NEW] 120625-00081 | TRESPASS | 27000 BLOCK US HIGHWAY 19 N | Response: 04:27 AM
+
+--- RESOLVED CALLS (1) ---
+[RESOLVED] 120625-00049 | DIRECTED PATROL | GRANT ST / ROOSEVELT AVE | Response: 02:21 AM

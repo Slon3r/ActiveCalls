@@ -1,6 +1,6 @@
 {
-  "total_calls_tracked": 1662,
-  "total_resolved": 1661,
+  "total_calls_tracked": 1664,
+  "total_resolved": 1662,
   "call_types": {
     "DIRECTED PATROL": 552,
     "TRAFFIC STOP": 253,
@@ -8,12 +8,12 @@
     "DISTURBANCE": 40,
     "BATTERY": 8,
     "CRIMINAL MISCHIEF": 10,
-    "ALARM": 21,
+    "ALARM": 22,
     "KEEP THE PEACE": 22,
     "WELFARE CHECK": 35,
     "PARK WALK AND TALK": 138,
     "SUSPICIOUS PERSON": 69,
-    "TRESPASS": 40,
+    "TRESPASS": 41,
     "PROPERTY FOUND/LOST": 12,
     "THEFT": 24,
     "NEIGHBOR CALL": 8,
@@ -119,7 +119,7 @@
     "2300 BLOCK GULF TO BAY BLVD": 3,
     "1200 BLOCK CLEVELAND ST": 8,
     "-500 BLOCK 549 MANDALAY AVE": 1,
-    "27000 BLOCK US HIGHWAY 19 N": 12,
+    "27000 BLOCK US HIGHWAY 19 N": 13,
     "DRIVEWAY PARKING": 2,
     "1100 BLOCK GULF BLVD": 4,
     "2500 BLOCK GULF TO BAY BLVD": 8,
@@ -899,14 +899,15 @@
     "2100 BLOCK NE COACHMAN RD": 1,
     "S HIGHLAND AVE / COURT ST": 1,
     "2400 BLOCK SUNSET POINT RD": 1,
-    "PALMETTO ST / N BETTY LN": 1
+    "PALMETTO ST / N BETTY LN": 1,
+    "1000 BLOCK ELDRIDGE ST": 1
   },
   "hourly_distribution": {
     "0": 58,
     "1": 55,
     "2": 43,
     "3": 31,
-    "4": 13,
+    "4": 15,
     "5": 41,
     "6": 51,
     "7": 46,
@@ -928,7 +929,7 @@
     "23": 49
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-06T09:41:23.093423+00:00",
+  "last_updated": "2025-12-06T09:49:19.142502+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 530
+  "total_snapshots": 531
 }
