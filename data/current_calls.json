@@ -1,12 +1,6 @@
 {
   "calls": [
     {
-      "Master_Incident_Number": "120625-00352",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "200 BLOCK PALM IS NW",
-      "Response_Date": "2025-12-06T18:11:30.593"
-    },
-    {
       "Master_Incident_Number": "120625-00330",
       "Online_Description": "DECEASED PERSON",
       "Address": "900 BLOCK S EVERGREEN AVE",
@@ -19,33 +13,15 @@
       "Response_Date": "2025-12-06T16:14:00"
     },
     {
-      "Master_Incident_Number": "120625-00372",
-      "Online_Description": "911 HANG-UP",
-      "Address": "1400 BLOCK AMBASSADOR DR",
-      "Response_Date": "2025-12-06T17:14:09"
-    },
-    {
-      "Master_Incident_Number": "120625-00387",
-      "Online_Description": "JUVENILE CASE",
-      "Address": "1300 BLOCK YOUNG AVE",
-      "Response_Date": "2025-12-06T17:40:16"
-    },
-    {
       "Master_Incident_Number": "120625-00390",
       "Online_Description": "UNKNOWN PROBLEM",
       "Address": "CORONADO DR / S GULFVIEW BLVD",
       "Response_Date": "2025-12-06T17:49:34"
     },
     {
-      "Master_Incident_Number": "120625-00401",
-      "Online_Description": "911 HANG-UP",
-      "Address": "2200 BLOCK MORNINGSIDE DR",
-      "Response_Date": "2025-12-06T18:02:15"
-    },
-    {
       "Master_Incident_Number": "120625-00405",
       "Online_Description": "PARK WALK AND TALK",
-      "Address": "CLEVELAND ST / GARDEN AVE",
+      "Address": "N GARDEN AVE / CLEVELAND ST",
       "Response_Date": "2025-12-06T18:10:55"
     },
     {
@@ -55,12 +31,36 @@
       "Response_Date": "2025-12-06T18:12:18"
     },
     {
-      "Master_Incident_Number": "120625-00410",
+      "Master_Incident_Number": "120625-00412",
       "Online_Description": "PARK WALK AND TALK",
-      "Address": "600 BLOCK COURT ST",
-      "Response_Date": "2025-12-06T18:15:53"
+      "Address": "S EAST AVE / COURT ST",
+      "Response_Date": "2025-12-06T18:16:39"
+    },
+    {
+      "Master_Incident_Number": "120625-00414",
+      "Online_Description": "TRAFFIC STOP",
+      "Address": "US HIGHWAY 19 N / SR 590",
+      "Response_Date": "2025-12-06T18:19:00"
+    },
+    {
+      "Master_Incident_Number": "120625-00415",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "MEMORIAL CSWY",
+      "Response_Date": "2025-12-06T18:19:28"
+    },
+    {
+      "Master_Incident_Number": "120625-00417",
+      "Online_Description": "PARK WALK AND TALK",
+      "Address": "1200 BLOCK S HIGHLAND AVE",
+      "Response_Date": "2025-12-06T18:21:35"
+    },
+    {
+      "Master_Incident_Number": "120625-00418",
+      "Online_Description": "PARK WALK AND TALK",
+      "Address": "1200 BLOCK S HIGHLAND",
+      "Response_Date": "2025-12-06T18:22:20"
     }
   ],
-  "timestamp": "2025-12-06T23:36:51.195827+00:00",
+  "timestamp": "2025-12-06T23:45:09.684327+00:00",
   "count": 10
 }

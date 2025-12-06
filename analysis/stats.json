@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 1802,
-  "total_resolved": 1792,
+  "total_calls_tracked": 1807,
+  "total_resolved": 1797,
   "call_types": {
-    "DIRECTED PATROL": 591,
-    "TRAFFIC STOP": 266,
+    "DIRECTED PATROL": 592,
+    "TRAFFIC STOP": 267,
     "DRUNK DRIVER": 5,
     "DISTURBANCE": 43,
     "BATTERY": 10,
@@ -11,7 +11,7 @@
     "ALARM": 26,
     "KEEP THE PEACE": 24,
     "WELFARE CHECK": 37,
-    "PARK WALK AND TALK": 158,
+    "PARK WALK AND TALK": 161,
     "SUSPICIOUS PERSON": 74,
     "TRESPASS": 44,
     "PROPERTY FOUND/LOST": 12,
@@ -68,7 +68,7 @@
     "600 BLOCK S GULFVIEW BLVD": 9,
     "-800 BLOCK 1099 MARSHALL ST": 1,
     "US HIGHWAY 19 N / DREW ST": 14,
-    "US HIGHWAY 19 N / SR 590": 4,
+    "US HIGHWAY 19 N / SR 590": 5,
     "1100 BLOCK DRUID RD": 3,
     "2100 BLOCK RANGE RD": 1,
     "0 BLOCK ACACIA ST": 5,
@@ -136,7 +136,7 @@
     "COUNTRYSIDE BLVD / NORTHRIDGE DR": 1,
     "NE COACHMAN RD / US HIGHWAY 19 N": 2,
     "LOTUS PATH / BAY AVE": 1,
-    "MEMORIAL CSWY": 11,
+    "MEMORIAL CSWY": 12,
     "1300 BLOCK ADMIRAL WOODSON LN": 1,
     "DREW ST / N SATURN AVE": 2,
     "GULF TO BAY BLVD / THORTON RD": 1,
@@ -314,7 +314,7 @@
     "DREW ST / PINEWOOD AVE": 1,
     "2800 BLOCK GULF TO BAY BLVD": 3,
     "19100 BLOCK US HIGHWAY 19 N": 2,
-    "1200 BLOCK S HIGHLAND AVE": 6,
+    "1200 BLOCK S HIGHLAND AVE": 7,
     "1200 BLOCK TURNER ST": 1,
     "THIRD ST / CORONADO DR": 1,
     "900 BLOCK N MCMULLEN BOOTH RD": 1,
@@ -955,7 +955,9 @@
     "CAUSEWAY BLVD": 1,
     "500 BLOCK VIRGINIA LN": 1,
     "1400 BLOCK AMBASSADOR DR": 1,
-    "CORONADO DR / S GULFVIEW BLVD": 1
+    "CORONADO DR / S GULFVIEW BLVD": 1,
+    "S EAST AVE / COURT ST": 1,
+    "1200 BLOCK S HIGHLAND": 1
   },
   "hourly_distribution": {
     "0": 58,
@@ -976,7 +978,7 @@
     "15": 130,
     "16": 119,
     "17": 104,
-    "18": 84,
+    "18": 89,
     "19": 17,
     "20": 29,
     "21": 32,
@@ -984,7 +986,7 @@
     "23": 49
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-06T23:36:51.200800+00:00",
+  "last_updated": "2025-12-06T23:45:09.689306+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 590
+  "total_snapshots": 591
 }
