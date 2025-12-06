@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 1746,
-  "total_resolved": 1740,
+  "total_calls_tracked": 1748,
+  "total_resolved": 1743,
   "call_types": {
-    "DIRECTED PATROL": 576,
+    "DIRECTED PATROL": 577,
     "TRAFFIC STOP": 258,
     "DRUNK DRIVER": 5,
     "DISTURBANCE": 43,
@@ -11,7 +11,7 @@
     "ALARM": 25,
     "KEEP THE PEACE": 24,
     "WELFARE CHECK": 36,
-    "PARK WALK AND TALK": 152,
+    "PARK WALK AND TALK": 153,
     "SUSPICIOUS PERSON": 71,
     "TRESPASS": 42,
     "PROPERTY FOUND/LOST": 12,
@@ -336,7 +336,7 @@
     "600 BLOCK GULF BLVD": 2,
     "DREW ST / MCMULLEN BOOTH RD": 3,
     "2700 BLOCK COTTONWOOD CT": 1,
-    "200 BLOCK SEMINOLE ST": 2,
+    "200 BLOCK SEMINOLE ST": 3,
     "1400 BLOCK N FORT HARRISON AVE": 1,
     "400 BLOCK S MISSOURI AVE": 1,
     "-1700 BLOCK 1748 WESTON DR": 1,
@@ -937,7 +937,8 @@
     "1900 BLOCK LAKEVIEW RD": 1,
     "2000 BLOCK ALPINE RD": 1,
     "MONTCLAIR RD / SETON DR": 1,
-    "-2600 BLOCK 2625 SOUTH DR": 1
+    "-2600 BLOCK 2625 SOUTH DR": 1,
+    "0 BLOCK 27 N FORT HARRISON AVE": 1
   },
   "hourly_distribution": {
     "0": 58,
@@ -954,7 +955,7 @@
     "11": 107,
     "12": 114,
     "13": 115,
-    "14": 122,
+    "14": 124,
     "15": 116,
     "16": 109,
     "17": 92,
@@ -966,7 +967,7 @@
     "23": 49
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-06T19:40:41.685524+00:00",
+  "last_updated": "2025-12-06T19:48:49.014063+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 572
+  "total_snapshots": 573
 }
