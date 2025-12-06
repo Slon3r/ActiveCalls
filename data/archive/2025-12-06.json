@@ -3241,6 +3241,42 @@
           "Response_Date": "2025-12-06T17:23:40"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-06T22:52:39.055351+00:00",
+      "call_count": 5,
+      "calls": [
+        {
+          "Master_Incident_Number": "120625-00368",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "700 BLOCK ELDORADO AVE",
+          "Response_Date": "2025-12-06T17:27:49"
+        },
+        {
+          "Master_Incident_Number": "120625-00330",
+          "Online_Description": "DECEASED PERSON",
+          "Address": "900 BLOCK S EVERGREEN AVE",
+          "Response_Date": "2025-12-06T15:45:30"
+        },
+        {
+          "Master_Incident_Number": "120625-00348",
+          "Online_Description": "TRAFFIC CRASH",
+          "Address": "SUNSET POINT RD / SETON DR",
+          "Response_Date": "2025-12-06T16:14:00"
+        },
+        {
+          "Master_Incident_Number": "120625-00349",
+          "Online_Description": "CRIMINAL MISCHIEF",
+          "Address": "3000 BLOCK DREW ST",
+          "Response_Date": "2025-12-06T16:17:03"
+        },
+        {
+          "Master_Incident_Number": "120625-00379",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "-3100 BLOCK 3195 SANDY RIDGE DR",
+          "Response_Date": "2025-12-06T17:28:14"
+        }
+      ]
     }
   ]
 }
