@@ -102,6 +102,66 @@
           "Response_Date": "2025-12-05T20:34:57"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-06T03:28:26.394074+00:00",
+      "call_count": 9,
+      "calls": [
+        {
+          "Master_Incident_Number": "120525-00300",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "1400 BLOCK GULF BLVD",
+          "Response_Date": "2025-12-05T22:04:10.287"
+        },
+        {
+          "Master_Incident_Number": "120525-00459",
+          "Online_Description": "WELFARE CHECK",
+          "Address": "300 BLOCK TURNER ST",
+          "Response_Date": "2025-12-05T19:01:30"
+        },
+        {
+          "Master_Incident_Number": "120525-00546",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "0 BLOCK CAUSEWAY BLVD",
+          "Response_Date": "2025-12-05T21:07:58"
+        },
+        {
+          "Master_Incident_Number": "120525-00560",
+          "Online_Description": "BURGLARY",
+          "Address": "1700 BLOCK APACHE TRL",
+          "Response_Date": "2025-12-05T21:25:30"
+        },
+        {
+          "Master_Incident_Number": "120525-00562",
+          "Online_Description": "THEFT",
+          "Address": "24800 BLOCK US HIGHWAY 19 N",
+          "Response_Date": "2025-12-05T21:28:26"
+        },
+        {
+          "Master_Incident_Number": "120525-00570",
+          "Online_Description": "BURGLARY",
+          "Address": "1100 BLOCK DRUID RD",
+          "Response_Date": "2025-12-05T21:44:09"
+        },
+        {
+          "Master_Incident_Number": "120525-00572",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "500 BLOCK MANDALAY AVE",
+          "Response_Date": "2025-12-05T21:50:36"
+        },
+        {
+          "Master_Incident_Number": "120525-00582",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "-300 BLOCK 499 S MAIN AVE",
+          "Response_Date": "2025-12-05T22:02:19"
+        },
+        {
+          "Master_Incident_Number": "120525-00584",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "YELVINGTON AVE / GULF TO BAY BLVD",
+          "Response_Date": "2025-12-05T22:03:16"
+        }
+      ]
     }
   ]
 }
