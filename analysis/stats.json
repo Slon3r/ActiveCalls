@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 1692,
+  "total_calls_tracked": 1693,
   "total_resolved": 1684,
   "call_types": {
-    "DIRECTED PATROL": 561,
+    "DIRECTED PATROL": 562,
     "TRAFFIC STOP": 255,
     "DRUNK DRIVER": 5,
     "DISTURBANCE": 42,
@@ -911,7 +911,8 @@
     "2000 BLOCK GLASS LN": 1,
     "2100 BLOCK GULF TO BAY": 1,
     "1100 BLOCK SEDEEVA ST": 1,
-    "900 BLOCK LOTUS PATH": 1
+    "900 BLOCK LOTUS PATH": 1,
+    "GULF TO BAY BLVD/S KEENE RD": 1
   },
   "hourly_distribution": {
     "0": 58,
@@ -923,7 +924,7 @@
     "6": 57,
     "7": 48,
     "8": 110,
-    "9": 109,
+    "9": 110,
     "10": 103,
     "11": 98,
     "12": 105,
@@ -940,7 +941,7 @@
     "23": 49
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-06T14:42:34.802728+00:00",
+  "last_updated": "2025-12-06T14:50:58.276898+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 550
+  "total_snapshots": 551
 }
