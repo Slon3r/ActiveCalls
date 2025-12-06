@@ -1237,6 +1237,42 @@
           "Response_Date": "2025-12-06T08:06:06"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-06T13:54:24.122932+00:00",
+      "call_count": 5,
+      "calls": [
+        {
+          "Master_Incident_Number": "120625-00140",
+          "Online_Description": "PARK WALK AND TALK",
+          "Address": "1300 BLOCK PARK ST",
+          "Response_Date": "2025-12-06T08:25:12.94"
+        },
+        {
+          "Master_Incident_Number": "120625-00123",
+          "Online_Description": "BURGLARY",
+          "Address": "1500 BLOCK S MYRTLE AVE",
+          "Response_Date": "2025-12-06T06:55:49"
+        },
+        {
+          "Master_Incident_Number": "120625-00143",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "900 BLOCK N MARTIN LUTHER KING JR AVE",
+          "Response_Date": "2025-12-06T08:06:06"
+        },
+        {
+          "Master_Incident_Number": "120625-00147",
+          "Online_Description": "FRAUD",
+          "Address": "1100 BLOCK PALM BLUFF ST",
+          "Response_Date": "2025-12-06T08:31:56"
+        },
+        {
+          "Master_Incident_Number": "120625-00148",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "N MARTIN LUTHER KING JR AVE / GROVE ST",
+          "Response_Date": "2025-12-06T08:33:53"
+        }
+      ]
     }
   ]
 }

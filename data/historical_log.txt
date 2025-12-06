@@ -7998,3 +7998,12 @@ TOTAL ACTIVE CALLS: 3
 [RESOLVED] 120625-00142 | DIRECTED PATROL | 3000 BLOCK MCMULLEN BOOTH RD | Response: 08:04 AM
 [RESOLVED] 120625-00144 | PARK WALK AND TALK | 300 BLOCK CORONADO DR | Response: 08:08 AM
 [RESOLVED] 120625-00145 | PARK WALK AND TALK | 0 BLOCK 98 THIRD ST | Response: 08:16 AM
+
+================================================================================
+TIMESTAMP: 2025-12-06T13:54:24.122932+00:00
+TOTAL ACTIVE CALLS: 5
+================================================================================
+
+--- NEW CALLS (2) ---
+[NEW] 120625-00147 | FRAUD | 1100 BLOCK PALM BLUFF ST | Response: 08:31 AM
+[NEW] 120625-00148 | DIRECTED PATROL | N MARTIN LUTHER KING JR AVE / GROVE ST | Response: 08:33 AM

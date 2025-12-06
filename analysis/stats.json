@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 1681,
+  "total_calls_tracked": 1683,
   "total_resolved": 1678,
   "call_types": {
-    "DIRECTED PATROL": 558,
+    "DIRECTED PATROL": 559,
     "TRAFFIC STOP": 254,
     "DRUNK DRIVER": 5,
     "DISTURBANCE": 40,
@@ -27,7 +27,7 @@
     "ASSIST CITIZEN": 47,
     "ASSIST OTHER AGENCY": 23,
     "FIRE": 2,
-    "FRAUD": 12,
+    "FRAUD": 13,
     "RECKLESS VEHICLE": 3,
     "JUVENILE CASE": 6,
     "HAZARD": 4,
@@ -903,7 +903,9 @@
     "1000 BLOCK ELDRIDGE ST": 1,
     "-1300 BLOCK 1398 CLEVELAND ST": 1,
     "1400 BLOCK N BETTY LN ": 1,
-    "3000 BLOCK MCMULLEN BOOTH RD": 1
+    "3000 BLOCK MCMULLEN BOOTH RD": 1,
+    "1100 BLOCK PALM BLUFF ST": 1,
+    "N MARTIN LUTHER KING JR AVE / GROVE ST": 1
   },
   "hourly_distribution": {
     "0": 58,
@@ -914,7 +916,7 @@
     "5": 43,
     "6": 57,
     "7": 48,
-    "8": 103,
+    "8": 105,
     "9": 105,
     "10": 103,
     "11": 98,
@@ -932,7 +934,7 @@
     "23": 49
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-06T13:46:41.662922+00:00",
+  "last_updated": "2025-12-06T13:54:24.125365+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 546
+  "total_snapshots": 547
 }
