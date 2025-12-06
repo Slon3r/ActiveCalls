@@ -35,8 +35,14 @@
       "Online_Description": "SHOPLIFTING",
       "Address": "23100 BLOCK US HIGHWAY 19 N",
       "Response_Date": "2025-12-06T13:55:07"
+    },
+    {
+      "Master_Incident_Number": "120625-00279",
+      "Online_Description": "TRAFFIC STOP",
+      "Address": "DREW ST / N NIMBUS AVE",
+      "Response_Date": "2025-12-06T14:08:33"
     }
   ],
-  "timestamp": "2025-12-06T19:23:17.322486+00:00",
-  "count": 6
+  "timestamp": "2025-12-06T19:31:49.264806+00:00",
+  "count": 7
 }

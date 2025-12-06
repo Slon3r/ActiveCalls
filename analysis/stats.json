@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 1743,
+  "total_calls_tracked": 1744,
   "total_resolved": 1737,
   "call_types": {
     "DIRECTED PATROL": 575,
-    "TRAFFIC STOP": 256,
+    "TRAFFIC STOP": 257,
     "DRUNK DRIVER": 5,
     "DISTURBANCE": 43,
     "BATTERY": 8,
@@ -348,7 +348,7 @@
     "700 BLOCK COURT ST": 2,
     "2500 BLOCK DRUID RD": 1,
     "100 BLOCK S GULFVIEW BLVD": 2,
-    "DREW ST / N NIMBUS AVE": 1,
+    "DREW ST / N NIMBUS AVE": 2,
     "2500 BLOCK NE COACHMAN RD": 1,
     "NE CLEVELAND ST / GROVE ST": 1,
     "18400 BLOCK US HIGHWAY 19 N": 1,
@@ -954,7 +954,7 @@
     "11": 107,
     "12": 114,
     "13": 115,
-    "14": 119,
+    "14": 120,
     "15": 116,
     "16": 109,
     "17": 92,
@@ -966,7 +966,7 @@
     "23": 49
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-06T19:23:17.326334+00:00",
+  "last_updated": "2025-12-06T19:31:49.268524+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 570
+  "total_snapshots": 571
 }
