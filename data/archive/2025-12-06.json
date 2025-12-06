@@ -1885,6 +1885,54 @@
           "Response_Date": "2025-12-06T11:18:25"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-06T16:53:22.285386+00:00",
+      "call_count": 7,
+      "calls": [
+        {
+          "Master_Incident_Number": "120625-00194",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "2600 BLOCK SABAL SPRINGS DR",
+          "Response_Date": "2025-12-06T10:01:58"
+        },
+        {
+          "Master_Incident_Number": "120625-00199",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "1000 BLOCK GULF BLVD",
+          "Response_Date": "2025-12-06T10:12:24"
+        },
+        {
+          "Master_Incident_Number": "120625-00204",
+          "Online_Description": "FRAUD",
+          "Address": "1300 BLOCK MARY L RD",
+          "Response_Date": "2025-12-06T10:31:21"
+        },
+        {
+          "Master_Incident_Number": "120625-00215",
+          "Online_Description": "THEFT",
+          "Address": "1700 BLOCK ALGONQUIN DR",
+          "Response_Date": "2025-12-06T11:05:16"
+        },
+        {
+          "Master_Incident_Number": "120625-00218",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "1000 BLOCK GULF BLVD",
+          "Response_Date": "2025-12-06T11:13:31"
+        },
+        {
+          "Master_Incident_Number": "120625-00220",
+          "Online_Description": "ALARM",
+          "Address": "3000 BLOCK EASTLAND BLVD",
+          "Response_Date": "2025-12-06T11:14:38"
+        },
+        {
+          "Master_Incident_Number": "120625-00221",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "600 BLOCK LAURA ST",
+          "Response_Date": "2025-12-06T11:18:25"
+        }
+      ]
     }
   ]
 }

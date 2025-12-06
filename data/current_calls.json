@@ -7,12 +7,6 @@
       "Response_Date": "2025-12-06T10:01:58"
     },
     {
-      "Master_Incident_Number": "120625-00196",
-      "Online_Description": "PROTEST/DEMONSTRATION",
-      "Address": "1500 BLOCK S HIGHLAND AVE",
-      "Response_Date": "2025-12-06T10:05:30"
-    },
-    {
       "Master_Incident_Number": "120625-00199",
       "Online_Description": "DIRECTED PATROL",
       "Address": "1000 BLOCK GULF BLVD",
@@ -29,12 +23,6 @@
       "Online_Description": "THEFT",
       "Address": "1700 BLOCK ALGONQUIN DR",
       "Response_Date": "2025-12-06T11:05:16"
-    },
-    {
-      "Master_Incident_Number": "120625-00216",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "-2300 BLOCK 2408 DREW ST",
-      "Response_Date": "2025-12-06T11:10:54"
     },
     {
       "Master_Incident_Number": "120625-00218",
@@ -55,6 +43,6 @@
       "Response_Date": "2025-12-06T11:18:25"
     }
   ],
-  "timestamp": "2025-12-06T16:44:02.347203+00:00",
-  "count": 9
+  "timestamp": "2025-12-06T16:53:22.285386+00:00",
+  "count": 7
 }
