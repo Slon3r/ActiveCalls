@@ -2203,6 +2203,54 @@
           "Response_Date": "2025-12-06T12:56:47"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-06T18:42:54.004435+00:00",
+      "call_count": 7,
+      "calls": [
+        {
+          "Master_Incident_Number": "120625-00204",
+          "Online_Description": "FRAUD",
+          "Address": "1300 BLOCK MARY L RD",
+          "Response_Date": "2025-12-06T10:31:21"
+        },
+        {
+          "Master_Incident_Number": "120625-00215",
+          "Online_Description": "THEFT",
+          "Address": "1700 BLOCK ALGONQUIN DR",
+          "Response_Date": "2025-12-06T11:05:16"
+        },
+        {
+          "Master_Incident_Number": "120625-00242",
+          "Online_Description": "ANIMAL CASE",
+          "Address": "3000 BLOCK DREW ST",
+          "Response_Date": "2025-12-06T12:29:51"
+        },
+        {
+          "Master_Incident_Number": "120625-00257",
+          "Online_Description": "PARK WALK AND TALK",
+          "Address": "1500 BLOCK TILLEY AVE",
+          "Response_Date": "2025-12-06T13:09:19"
+        },
+        {
+          "Master_Incident_Number": "120625-00262",
+          "Online_Description": "911 HANG-UP",
+          "Address": "3100 BLOCK LANDMARK DR",
+          "Response_Date": "2025-12-06T13:14:40"
+        },
+        {
+          "Master_Incident_Number": "120625-00263",
+          "Online_Description": "ASSIST OTHER AGENCY",
+          "Address": "1800 BLOCK N HIGHLAND AVE",
+          "Response_Date": "2025-12-06T13:15:32"
+        },
+        {
+          "Master_Incident_Number": "120625-00264",
+          "Online_Description": "PARK WALK AND TALK",
+          "Address": "1900 BLOCK LAKEVIEW RD",
+          "Response_Date": "2025-12-06T13:18:28"
+        }
+      ]
     }
   ]
 }

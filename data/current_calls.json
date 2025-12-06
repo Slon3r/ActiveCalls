@@ -13,30 +13,36 @@
       "Response_Date": "2025-12-06T11:05:16"
     },
     {
-      "Master_Incident_Number": "120625-00225",
-      "Online_Description": "SHOPLIFTING",
-      "Address": "2700 BLOCK GULF TO BAY BLVD",
-      "Response_Date": "2025-12-06T11:34:50"
-    },
-    {
-      "Master_Incident_Number": "120625-00237",
-      "Online_Description": "PARK WALK AND TALK",
-      "Address": "400 BLOCK MANDALAY AVE",
-      "Response_Date": "2025-12-06T12:12:43"
-    },
-    {
       "Master_Incident_Number": "120625-00242",
       "Online_Description": "ANIMAL CASE",
       "Address": "3000 BLOCK DREW ST",
       "Response_Date": "2025-12-06T12:29:51"
     },
     {
-      "Master_Incident_Number": "120625-00250",
+      "Master_Incident_Number": "120625-00257",
       "Online_Description": "PARK WALK AND TALK",
-      "Address": "2400 BLOCK HARN BLVD",
-      "Response_Date": "2025-12-06T12:56:47"
+      "Address": "1500 BLOCK TILLEY AVE",
+      "Response_Date": "2025-12-06T13:09:19"
+    },
+    {
+      "Master_Incident_Number": "120625-00262",
+      "Online_Description": "911 HANG-UP",
+      "Address": "3100 BLOCK LANDMARK DR",
+      "Response_Date": "2025-12-06T13:14:40"
+    },
+    {
+      "Master_Incident_Number": "120625-00263",
+      "Online_Description": "ASSIST OTHER AGENCY",
+      "Address": "1800 BLOCK N HIGHLAND AVE",
+      "Response_Date": "2025-12-06T13:15:32"
+    },
+    {
+      "Master_Incident_Number": "120625-00264",
+      "Online_Description": "PARK WALK AND TALK",
+      "Address": "1900 BLOCK LAKEVIEW RD",
+      "Response_Date": "2025-12-06T13:18:28"
     }
   ],
-  "timestamp": "2025-12-06T18:17:35.021896+00:00",
-  "count": 6
+  "timestamp": "2025-12-06T18:42:54.004435+00:00",
+  "count": 7
 }

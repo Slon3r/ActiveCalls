@@ -1,6 +1,6 @@
 {
-  "total_calls_tracked": 1732,
-  "total_resolved": 1726,
+  "total_calls_tracked": 1736,
+  "total_resolved": 1729,
   "call_types": {
     "DIRECTED PATROL": 573,
     "TRAFFIC STOP": 256,
@@ -11,13 +11,13 @@
     "ALARM": 25,
     "KEEP THE PEACE": 24,
     "WELFARE CHECK": 35,
-    "PARK WALK AND TALK": 149,
+    "PARK WALK AND TALK": 151,
     "SUSPICIOUS PERSON": 71,
     "TRESPASS": 42,
     "PROPERTY FOUND/LOST": 12,
     "THEFT": 25,
     "NEIGHBOR CALL": 8,
-    "911 HANG-UP": 62,
+    "911 HANG-UP": 63,
     "SUSPICIOUS VEHICLE": 12,
     "PANHANDLER/SOLICITOR": 4,
     "VEHICLE ILLEGALLY PARKED": 4,
@@ -25,7 +25,7 @@
     "TRAFFIC CRASH": 73,
     "DISABLED VEHICLE": 13,
     "ASSIST CITIZEN": 49,
-    "ASSIST OTHER AGENCY": 27,
+    "ASSIST OTHER AGENCY": 28,
     "FIRE": 2,
     "FRAUD": 14,
     "RECKLESS VEHICLE": 3,
@@ -265,7 +265,7 @@
     "S MISSOURI AVE/COURT ST": 1,
     "1500 BLOCK S MARTIN LUTHER KING JR AVE": 1,
     "3100 BLOCK GULF TO BAY BLVD": 3,
-    "1800 BLOCK N HIGHLAND AVE": 13,
+    "1800 BLOCK N HIGHLAND AVE": 14,
     "BELLEAIR BLVD / US HIGHWAY 19 N": 1,
     "-1200 BLOCK 1353 COURT ST": 3,
     "-500 BLOCK 642 BAY ESPLANADE": 1,
@@ -931,7 +931,10 @@
     "DRUID RD / US HIGHWAY 19 N": 1,
     "1700 BLOCK HARBOR DR": 1,
     "NE COACHMAN/BELCHER": 1,
-    "WOODLAWN OAKS AVE / WOODLAWN ST": 1
+    "WOODLAWN OAKS AVE / WOODLAWN ST": 1,
+    "1500 BLOCK TILLEY AVE": 1,
+    "3100 BLOCK LANDMARK DR": 1,
+    "1900 BLOCK LAKEVIEW RD": 1
   },
   "hourly_distribution": {
     "0": 58,
@@ -947,7 +950,7 @@
     "10": 117,
     "11": 107,
     "12": 113,
-    "13": 105,
+    "13": 109,
     "14": 119,
     "15": 116,
     "16": 109,
@@ -960,7 +963,7 @@
     "23": 49
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-06T18:17:35.025456+00:00",
+  "last_updated": "2025-12-06T18:42:54.008076+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 566
+  "total_snapshots": 567
 }
