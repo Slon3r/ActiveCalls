@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 1693,
-  "total_resolved": 1684,
+  "total_calls_tracked": 1695,
+  "total_resolved": 1688,
   "call_types": {
     "DIRECTED PATROL": 562,
-    "TRAFFIC STOP": 255,
+    "TRAFFIC STOP": 256,
     "DRUNK DRIVER": 5,
     "DISTURBANCE": 42,
     "BATTERY": 8,
@@ -51,7 +51,7 @@
     "CHILD PROTECTION INVESTIGATION": 4,
     "DRUNK PEDESTRIAN": 2,
     "ASSAULT": 5,
-    "PERSON DOWN": 5,
+    "PERSON DOWN": 6,
     "ROBBERY": 1,
     "INJUNCTION VIOLATION": 1,
     "STALKING": 1,
@@ -94,7 +94,7 @@
     "1400 BLOCK LAURA ST": 3,
     "ENTERPRISE RD E / VILLAGE DR": 2,
     "GULF TO BAY BLVD / HAMPTON RD": 1,
-    "2100 BLOCK GULF TO BAY BLVD": 17,
+    "2100 BLOCK GULF TO BAY BLVD": 18,
     "1300 BLOCK CLEVELAND ST": 10,
     "2100 BLOCK BELCHER RD": 1,
     "SAND KEY PARK ENTRANCE": 5,
@@ -912,7 +912,8 @@
     "2100 BLOCK GULF TO BAY": 1,
     "1100 BLOCK SEDEEVA ST": 1,
     "900 BLOCK LOTUS PATH": 1,
-    "GULF TO BAY BLVD/S KEENE RD": 1
+    "GULF TO BAY BLVD/S KEENE RD": 1,
+    "400 BLOCK N BELCHER RD": 1
   },
   "hourly_distribution": {
     "0": 58,
@@ -924,7 +925,7 @@
     "6": 57,
     "7": 48,
     "8": 110,
-    "9": 110,
+    "9": 112,
     "10": 103,
     "11": 98,
     "12": 105,
@@ -941,7 +942,7 @@
     "23": 49
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-06T14:50:58.276898+00:00",
+  "last_updated": "2025-12-06T14:58:50.262805+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 551
+  "total_snapshots": 552
 }
