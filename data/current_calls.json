@@ -13,12 +13,6 @@
       "Response_Date": "2025-12-06T11:05:16"
     },
     {
-      "Master_Incident_Number": "120625-00242",
-      "Online_Description": "ANIMAL CASE",
-      "Address": "3000 BLOCK DREW ST",
-      "Response_Date": "2025-12-06T12:29:51"
-    },
-    {
       "Master_Incident_Number": "120625-00257",
       "Online_Description": "PARK WALK AND TALK",
       "Address": "1500 BLOCK TILLEY AVE",
@@ -37,12 +31,12 @@
       "Response_Date": "2025-12-06T13:15:32"
     },
     {
-      "Master_Incident_Number": "120625-00264",
+      "Master_Incident_Number": "120625-00266",
       "Online_Description": "PARK WALK AND TALK",
-      "Address": "1900 BLOCK LAKEVIEW RD",
-      "Response_Date": "2025-12-06T13:18:28"
+      "Address": "200 BLOCK DREW ST",
+      "Response_Date": "2025-12-06T13:26:16"
     }
   ],
-  "timestamp": "2025-12-06T18:42:54.004435+00:00",
-  "count": 7
+  "timestamp": "2025-12-06T18:53:43.759878+00:00",
+  "count": 6
 }

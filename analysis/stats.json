@@ -1,6 +1,6 @@
 {
-  "total_calls_tracked": 1736,
-  "total_resolved": 1729,
+  "total_calls_tracked": 1737,
+  "total_resolved": 1731,
   "call_types": {
     "DIRECTED PATROL": 573,
     "TRAFFIC STOP": 256,
@@ -11,7 +11,7 @@
     "ALARM": 25,
     "KEEP THE PEACE": 24,
     "WELFARE CHECK": 35,
-    "PARK WALK AND TALK": 151,
+    "PARK WALK AND TALK": 152,
     "SUSPICIOUS PERSON": 71,
     "TRESPASS": 42,
     "PROPERTY FOUND/LOST": 12,
@@ -74,7 +74,7 @@
     "0 BLOCK ACACIA ST": 5,
     "-600 BLOCK 647 BAY ESPLANADE": 1,
     "1900 BLOCK UNION ST": 2,
-    "200 BLOCK DREW ST": 5,
+    "200 BLOCK DREW ST": 6,
     "-800 BLOCK 819 NARCISSUS AVE": 2,
     "0 BLOCK ISLAND WAY": 6,
     "US HIGHWAY 19 N / SR 580": 3,
@@ -950,7 +950,7 @@
     "10": 117,
     "11": 107,
     "12": 113,
-    "13": 109,
+    "13": 110,
     "14": 119,
     "15": 116,
     "16": 109,
@@ -963,7 +963,7 @@
     "23": 49
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-06T18:42:54.008076+00:00",
+  "last_updated": "2025-12-06T18:53:43.763535+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 567
+  "total_snapshots": 568
 }
