@@ -1,11 +1,11 @@
 {
-  "total_calls_tracked": 1688,
-  "total_resolved": 1683,
+  "total_calls_tracked": 1692,
+  "total_resolved": 1684,
   "call_types": {
-    "DIRECTED PATROL": 560,
+    "DIRECTED PATROL": 561,
     "TRAFFIC STOP": 255,
     "DRUNK DRIVER": 5,
-    "DISTURBANCE": 41,
+    "DISTURBANCE": 42,
     "BATTERY": 8,
     "CRIMINAL MISCHIEF": 10,
     "ALARM": 23,
@@ -13,7 +13,7 @@
     "WELFARE CHECK": 35,
     "PARK WALK AND TALK": 145,
     "SUSPICIOUS PERSON": 69,
-    "TRESPASS": 41,
+    "TRESPASS": 42,
     "PROPERTY FOUND/LOST": 12,
     "THEFT": 24,
     "NEIGHBOR CALL": 8,
@@ -21,7 +21,7 @@
     "SUSPICIOUS VEHICLE": 12,
     "PANHANDLER/SOLICITOR": 4,
     "VEHICLE ILLEGALLY PARKED": 4,
-    "SUSPICIOUS EVENT": 27,
+    "SUSPICIOUS EVENT": 28,
     "TRAFFIC CRASH": 72,
     "DISABLED VEHICLE": 13,
     "ASSIST CITIZEN": 47,
@@ -175,7 +175,7 @@
     "300 BLOCK CLEVELAND ST": 15,
     "GULF TO BAY BLVD / S LAKE DR": 1,
     "-400 BLOCK BLK BLANCHE B LITTLEJOHN TRL": 1,
-    "2600 BLOCK GULF TO BAY BLVD": 8,
+    "2600 BLOCK GULF TO BAY BLVD": 9,
     "400 BLOCK MANDALAY AVE": 6,
     "-3200 BLOCK 3399 COURTNEY CAMPBELL CSWY": 2,
     "1200 BLOCK GROVE ST": 1,
@@ -908,7 +908,10 @@
     "N MARTIN LUTHER KING JR AVE / GROVE ST": 1,
     "MANDALAY POINT": 1,
     "SPYGLASS DR / COUNTRYSIDE BLVD": 1,
-    "2000 BLOCK GLASS LN": 1
+    "2000 BLOCK GLASS LN": 1,
+    "2100 BLOCK GULF TO BAY": 1,
+    "1100 BLOCK SEDEEVA ST": 1,
+    "900 BLOCK LOTUS PATH": 1
   },
   "hourly_distribution": {
     "0": 58,
@@ -920,7 +923,7 @@
     "6": 57,
     "7": 48,
     "8": 110,
-    "9": 105,
+    "9": 109,
     "10": 103,
     "11": 98,
     "12": 105,
@@ -937,7 +940,7 @@
     "23": 49
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-06T14:30:29.516746+00:00",
+  "last_updated": "2025-12-06T14:42:34.802728+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 549
+  "total_snapshots": 550
 }
