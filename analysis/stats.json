@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 1652,
-  "total_resolved": 1646,
+  "total_calls_tracked": 1656,
+  "total_resolved": 1649,
   "call_types": {
-    "DIRECTED PATROL": 549,
-    "TRAFFIC STOP": 252,
+    "DIRECTED PATROL": 551,
+    "TRAFFIC STOP": 253,
     "DRUNK DRIVER": 5,
     "DISTURBANCE": 39,
     "BATTERY": 8,
@@ -17,7 +17,7 @@
     "PROPERTY FOUND/LOST": 12,
     "THEFT": 24,
     "NEIGHBOR CALL": 8,
-    "911 HANG-UP": 57,
+    "911 HANG-UP": 58,
     "SUSPICIOUS VEHICLE": 12,
     "PANHANDLER/SOLICITOR": 4,
     "VEHICLE ILLEGALLY PARKED": 4,
@@ -342,7 +342,7 @@
     "-1700 BLOCK 1748 WESTON DR": 1,
     "1300 BLOCK GULF BLVD": 3,
     "0 BLOCK N NEPTUNE AVE": 1,
-    "S MYRTLE AVE / COURT ST": 1,
+    "S MYRTLE AVE / COURT ST": 2,
     "OLD COACHMAN RD / GULF TO BAY BLVD": 1,
     "700 BLOCK ELDORADO AVE": 4,
     "700 BLOCK COURT ST": 2,
@@ -895,12 +895,15 @@
     "ISLAND WAY / MEMORIAL CSWY": 1,
     "-800 BLOCK 899 FRANKLIN ST": 1,
     "-2400 BLOCK BLOCK GULF TO BAY BLVD": 1,
-    "GRANT ST / ROOSEVELT AVE": 1
+    "GRANT ST / ROOSEVELT AVE": 1,
+    "2100 BLOCK NE COACHMAN RD": 1,
+    "S HIGHLAND AVE / COURT ST": 1,
+    "2400 BLOCK SUNSET POINT RD": 1
   },
   "hourly_distribution": {
     "0": 58,
     "1": 55,
-    "2": 35,
+    "2": 39,
     "3": 29,
     "4": 13,
     "5": 41,
@@ -924,7 +927,7 @@
     "23": 49
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-06T07:48:06.188363+00:00",
+  "last_updated": "2025-12-06T07:55:54.965008+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 523
+  "total_snapshots": 524
 }

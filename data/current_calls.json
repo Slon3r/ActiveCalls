@@ -7,22 +7,10 @@
       "Response_Date": "2025-12-06T01:01:50"
     },
     {
-      "Master_Incident_Number": "120625-00040",
-      "Online_Description": "DISTURBANCE",
-      "Address": "1500 BLOCK S MYRTLE AVE",
-      "Response_Date": "2025-12-06T01:52:21"
-    },
-    {
       "Master_Incident_Number": "120625-00046",
       "Online_Description": "ASSIST CITIZEN",
       "Address": "DREW ST / US HIGHWAY 19 N",
       "Response_Date": "2025-12-06T02:14:48"
-    },
-    {
-      "Master_Incident_Number": "120625-00047",
-      "Online_Description": "PARK WALK AND TALK",
-      "Address": "1100 BLOCK S MYRTLE AVE",
-      "Response_Date": "2025-12-06T02:20:02"
     },
     {
       "Master_Incident_Number": "120625-00049",
@@ -31,12 +19,30 @@
       "Response_Date": "2025-12-06T02:21:40"
     },
     {
-      "Master_Incident_Number": "120625-00051",
+      "Master_Incident_Number": "120625-00052",
+      "Online_Description": "911 HANG-UP",
+      "Address": "2100 BLOCK NE COACHMAN RD",
+      "Response_Date": "2025-12-06T02:29:07"
+    },
+    {
+      "Master_Incident_Number": "120625-00053",
+      "Online_Description": "TRAFFIC STOP",
+      "Address": "S HIGHLAND AVE / COURT ST",
+      "Response_Date": "2025-12-06T02:30:51"
+    },
+    {
+      "Master_Incident_Number": "120625-00055",
       "Online_Description": "DIRECTED PATROL",
-      "Address": "-2800 BLOCK 2899 EAGLE ESTATES CIR N",
-      "Response_Date": "2025-12-06T02:26:15"
+      "Address": "S MYRTLE AVE / COURT ST",
+      "Response_Date": "2025-12-06T02:32:50"
+    },
+    {
+      "Master_Incident_Number": "120625-00056",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "2400 BLOCK SUNSET POINT RD",
+      "Response_Date": "2025-12-06T02:34:20"
     }
   ],
-  "timestamp": "2025-12-06T07:48:06.186366+00:00",
-  "count": 6
+  "timestamp": "2025-12-06T07:55:54.963018+00:00",
+  "count": 7
 }
