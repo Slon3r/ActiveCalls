@@ -5,20 +5,8 @@
       "Online_Description": "DIRECTED PATROL",
       "Address": "GRANT ST / ROOSEVELT AVE",
       "Response_Date": "2025-12-06T02:21:40"
-    },
-    {
-      "Master_Incident_Number": "120625-00067",
-      "Online_Description": "DISTURBANCE",
-      "Address": "1200 BLOCK GULF BLVD",
-      "Response_Date": "2025-12-06T03:05:19"
-    },
-    {
-      "Master_Incident_Number": "120625-00069",
-      "Online_Description": "911 HANG-UP",
-      "Address": "1600 BLOCK FULTON AVE",
-      "Response_Date": "2025-12-06T03:24:01"
     }
   ],
-  "timestamp": "2025-12-06T09:10:05.298596+00:00",
-  "count": 3
+  "timestamp": "2025-12-06T09:29:50.039909+00:00",
+  "count": 1
 }

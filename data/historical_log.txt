@@ -7820,3 +7820,12 @@ TOTAL ACTIVE CALLS: 3
 
 --- RESOLVED CALLS (1) ---
 [RESOLVED] 120625-00058 | PARK WALK AND TALK | 1400 BLOCK S MARTIN LUTHER KING JR AVE | Response: 02:45 AM
+
+================================================================================
+TIMESTAMP: 2025-12-06T09:29:50.039909+00:00
+TOTAL ACTIVE CALLS: 1
+================================================================================
+
+--- RESOLVED CALLS (2) ---
+[RESOLVED] 120625-00067 | DISTURBANCE | 1200 BLOCK GULF BLVD | Response: 03:05 AM
+[RESOLVED] 120625-00069 | 911 HANG-UP | 1600 BLOCK FULTON AVE | Response: 03:24 AM
