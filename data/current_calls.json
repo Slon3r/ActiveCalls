@@ -1,12 +1,5 @@
 {
-  "calls": [
-    {
-      "Master_Incident_Number": "120625-00095",
-      "Online_Description": "ALARM",
-      "Address": "2100 BLOCK NE COACHMAN RD",
-      "Response_Date": "2025-12-06T05:07:17"
-    }
-  ],
-  "timestamp": "2025-12-06T10:37:55.741165+00:00",
-  "count": 1
+  "calls": [],
+  "timestamp": "2025-12-06T10:47:05.841751+00:00",
+  "count": 0
 }
