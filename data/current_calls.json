@@ -19,18 +19,30 @@
       "Response_Date": "2025-12-06T14:17:04"
     },
     {
-      "Master_Incident_Number": "120625-00283",
-      "Online_Description": "PARK WALK AND TALK",
-      "Address": "0 BLOCK 27 N FORT HARRISON AVE",
-      "Response_Date": "2025-12-06T14:24:31"
-    },
-    {
       "Master_Incident_Number": "120625-00284",
       "Online_Description": "DIRECTED PATROL",
       "Address": "200 BLOCK SEMINOLE ST",
       "Response_Date": "2025-12-06T14:26:50"
+    },
+    {
+      "Master_Incident_Number": "120625-00285",
+      "Online_Description": "WELFARE CHECK",
+      "Address": "1200 BLOCK CLEVELAND ST",
+      "Response_Date": "2025-12-06T14:28:55"
+    },
+    {
+      "Master_Incident_Number": "120625-00287",
+      "Online_Description": "TRESPASS",
+      "Address": "27000 BLOCK US HIGHWAY 19 N",
+      "Response_Date": "2025-12-06T14:31:13"
+    },
+    {
+      "Master_Incident_Number": "120625-00288",
+      "Online_Description": "TRAFFIC STOP",
+      "Address": "DREW ST / PARK PLACE BLVD",
+      "Response_Date": "2025-12-06T14:33:56"
     }
   ],
-  "timestamp": "2025-12-06T19:48:49.010171+00:00",
-  "count": 5
+  "timestamp": "2025-12-06T19:56:39.558695+00:00",
+  "count": 7
 }

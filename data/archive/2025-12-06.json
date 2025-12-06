@@ -2503,6 +2503,54 @@
           "Response_Date": "2025-12-06T14:26:50"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-06T19:56:39.558695+00:00",
+      "call_count": 7,
+      "calls": [
+        {
+          "Master_Incident_Number": "120625-00268",
+          "Online_Description": "ASSIST OTHER AGENCY",
+          "Address": "1000 BLOCK N MARTIN LUTHER KING JR AVE",
+          "Response_Date": "2025-12-06T13:39:16"
+        },
+        {
+          "Master_Incident_Number": "120625-00273",
+          "Online_Description": "SHOPLIFTING",
+          "Address": "23100 BLOCK US HIGHWAY 19 N",
+          "Response_Date": "2025-12-06T13:55:07"
+        },
+        {
+          "Master_Incident_Number": "120625-00280",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "N HIGHLAND AVE / SUNSET POINT RD",
+          "Response_Date": "2025-12-06T14:17:04"
+        },
+        {
+          "Master_Incident_Number": "120625-00284",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "200 BLOCK SEMINOLE ST",
+          "Response_Date": "2025-12-06T14:26:50"
+        },
+        {
+          "Master_Incident_Number": "120625-00285",
+          "Online_Description": "WELFARE CHECK",
+          "Address": "1200 BLOCK CLEVELAND ST",
+          "Response_Date": "2025-12-06T14:28:55"
+        },
+        {
+          "Master_Incident_Number": "120625-00287",
+          "Online_Description": "TRESPASS",
+          "Address": "27000 BLOCK US HIGHWAY 19 N",
+          "Response_Date": "2025-12-06T14:31:13"
+        },
+        {
+          "Master_Incident_Number": "120625-00288",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "DREW ST / PARK PLACE BLVD",
+          "Response_Date": "2025-12-06T14:33:56"
+        }
+      ]
     }
   ]
 }
