@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 1649,
-  "total_resolved": 1644,
+  "total_calls_tracked": 1652,
+  "total_resolved": 1646,
   "call_types": {
-    "DIRECTED PATROL": 547,
+    "DIRECTED PATROL": 549,
     "TRAFFIC STOP": 252,
     "DRUNK DRIVER": 5,
     "DISTURBANCE": 39,
@@ -11,7 +11,7 @@
     "ALARM": 21,
     "KEEP THE PEACE": 22,
     "WELFARE CHECK": 35,
-    "PARK WALK AND TALK": 135,
+    "PARK WALK AND TALK": 136,
     "SUSPICIOUS PERSON": 69,
     "TRESPASS": 40,
     "PROPERTY FOUND/LOST": 12,
@@ -595,7 +595,7 @@
     "600 BLOCK DRUID RD": 1,
     "1800 BLOCK BELLEMEADE DR": 1,
     "-2500 BLOCK 2578 VILLAGE DR": 1,
-    "-2800 BLOCK 2899 EAGLE ESTATES CIR N": 1,
+    "-2800 BLOCK 2899 EAGLE ESTATES CIR N": 2,
     "1700 BLOCK GROVE DR": 1,
     "NURSERY RD / LAUREL CIR": 1,
     "700 BLOCK LAKEVIEW RD": 2,
@@ -793,7 +793,7 @@
     "-1700 BLOCK 1769 DOUGLAS AVE": 1,
     "1800 BLOCK N BETTY LANE": 1,
     "-1700 BLOCK 1798 CLEVELAND ST": 1,
-    "1100 BLOCK S MYRTLE AVE": 1,
+    "1100 BLOCK S MYRTLE AVE": 2,
     "1500 BLOCK GULF TO BAY BLVD": 2,
     "-600 BLOCK 617 MANDALAY AVE": 1,
     "1700 BLOCK N HIGHLAND AVE": 1,
@@ -894,12 +894,13 @@
     "200 BLOCK MAGNOLIA DR": 1,
     "ISLAND WAY / MEMORIAL CSWY": 1,
     "-800 BLOCK 899 FRANKLIN ST": 1,
-    "-2400 BLOCK BLOCK GULF TO BAY BLVD": 1
+    "-2400 BLOCK BLOCK GULF TO BAY BLVD": 1,
+    "GRANT ST / ROOSEVELT AVE": 1
   },
   "hourly_distribution": {
     "0": 58,
     "1": 55,
-    "2": 32,
+    "2": 35,
     "3": 29,
     "4": 13,
     "5": 41,
@@ -923,7 +924,7 @@
     "23": 49
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-06T07:39:52.700898+00:00",
+  "last_updated": "2025-12-06T07:48:06.188363+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 522
+  "total_snapshots": 523
 }
