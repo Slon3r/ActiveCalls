@@ -25,12 +25,30 @@
       "Response_Date": "2025-12-06T16:17:03"
     },
     {
-      "Master_Incident_Number": "120625-00379",
+      "Master_Incident_Number": "120625-00382",
       "Online_Description": "DIRECTED PATROL",
-      "Address": "-3100 BLOCK 3195 SANDY RIDGE DR",
-      "Response_Date": "2025-12-06T17:28:14"
+      "Address": "-300 BLOCK 499 S MAIN AVE",
+      "Response_Date": "2025-12-06T17:37:03"
+    },
+    {
+      "Master_Incident_Number": "120625-00383",
+      "Online_Description": "TRAFFIC STOP",
+      "Address": "DREW ST / N BELCHER RD",
+      "Response_Date": "2025-12-06T17:37:03"
+    },
+    {
+      "Master_Incident_Number": "120625-00384",
+      "Online_Description": "TRAFFIC STOP",
+      "Address": "MEMORIAL CSWY / ISLAND WAY",
+      "Response_Date": "2025-12-06T17:38:28"
+    },
+    {
+      "Master_Incident_Number": "120625-00385",
+      "Online_Description": "TRAFFIC STOP",
+      "Address": "CAUSEWAY BLVD",
+      "Response_Date": "2025-12-06T17:39:02"
     }
   ],
-  "timestamp": "2025-12-06T22:52:39.055351+00:00",
-  "count": 5
+  "timestamp": "2025-12-06T23:01:00.302453+00:00",
+  "count": 8
 }

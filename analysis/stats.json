@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 1787,
-  "total_resolved": 1782,
+  "total_calls_tracked": 1791,
+  "total_resolved": 1783,
   "call_types": {
-    "DIRECTED PATROL": 588,
-    "TRAFFIC STOP": 262,
+    "DIRECTED PATROL": 589,
+    "TRAFFIC STOP": 265,
     "DRUNK DRIVER": 5,
     "DISTURBANCE": 43,
     "BATTERY": 10,
@@ -60,7 +60,7 @@
     "PROTEST/DEMONSTRATION": 2
   },
   "addresses": {
-    "MEMORIAL CSWY / ISLAND WAY": 17,
+    "MEMORIAL CSWY / ISLAND WAY": 18,
     "GULF TO BAY BLVD / S BELCHER RD": 5,
     "1900 BLOCK N BETTY LN": 1,
     "1400 BLOCK CLEVELAND ST": 2,
@@ -184,7 +184,7 @@
     "1400 BLOCK SUNSET POINT RD": 4,
     "-1400 BLOCK 1486 OTTEN ST": 1,
     "2800 BLOCK GLORIA CT": 4,
-    "DREW ST / N BELCHER RD": 5,
+    "DREW ST / N BELCHER RD": 6,
     "900 BLOCK GULF BLVD": 2,
     "POINSETTIA AVE / PAPAYA ST": 1,
     "600 BLOCK CLEVELAND ST": 8,
@@ -868,7 +868,7 @@
     "-2900 BLOCK 2998 MEADOW OAK DR S": 1,
     "1200 BLOCK FRANKLIN ST": 1,
     "21500 BLOCK US HIGHWAY 19 N": 1,
-    "-300 BLOCK 499 S MAIN AVE": 2,
+    "-300 BLOCK 499 S MAIN AVE": 3,
     "1100 BLOCK BELLEAIR RD": 1,
     "0 BLOCK 45 DEVON DR": 1,
     "900 BLOCK S FORT HARRISON AVE": 1,
@@ -951,7 +951,8 @@
     "900 BLOCK S EVERGREEN AVE": 1,
     "900 BLOCK VINE AVE": 1,
     "SUNSET POINT RD / SETON DR": 1,
-    "3200 BLOCK SR 580": 1
+    "3200 BLOCK SR 580": 1,
+    "CAUSEWAY BLVD": 1
   },
   "hourly_distribution": {
     "0": 58,
@@ -971,7 +972,7 @@
     "14": 136,
     "15": 130,
     "16": 119,
-    "17": 95,
+    "17": 99,
     "18": 78,
     "19": 17,
     "20": 29,
@@ -980,7 +981,7 @@
     "23": 49
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-06T22:52:39.097858+00:00",
+  "last_updated": "2025-12-06T23:01:00.307164+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 587
+  "total_snapshots": 588
 }
