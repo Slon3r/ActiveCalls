@@ -2293,6 +2293,48 @@
           "Response_Date": "2025-12-06T13:26:16"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-06T19:07:46.878299+00:00",
+      "call_count": 6,
+      "calls": [
+        {
+          "Master_Incident_Number": "120625-00256",
+          "Online_Description": "WELFARE CHECK",
+          "Address": "2000 BLOCK ALPINE RD",
+          "Response_Date": "2025-12-06T12:57:33"
+        },
+        {
+          "Master_Incident_Number": "120625-00262",
+          "Online_Description": "911 HANG-UP",
+          "Address": "3100 BLOCK LANDMARK DR",
+          "Response_Date": "2025-12-06T13:14:40"
+        },
+        {
+          "Master_Incident_Number": "120625-00265",
+          "Online_Description": "HIT & RUN",
+          "Address": "MONTCLAIR RD / SETON DR",
+          "Response_Date": "2025-12-06T13:21:39"
+        },
+        {
+          "Master_Incident_Number": "120625-00266",
+          "Online_Description": "PARK WALK AND TALK",
+          "Address": "200 BLOCK DREW ST",
+          "Response_Date": "2025-12-06T13:26:16"
+        },
+        {
+          "Master_Incident_Number": "120625-00267",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "-2600 BLOCK 2625 SOUTH DR",
+          "Response_Date": "2025-12-06T13:36:09"
+        },
+        {
+          "Master_Incident_Number": "120625-00268",
+          "Online_Description": "ASSIST OTHER AGENCY",
+          "Address": "1000 BLOCK N MARTIN LUTHER KING JR AVE",
+          "Response_Date": "2025-12-06T13:39:16"
+        }
+      ]
     }
   ]
 }

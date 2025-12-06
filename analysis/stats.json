@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 1737,
-  "total_resolved": 1731,
+  "total_calls_tracked": 1741,
+  "total_resolved": 1735,
   "call_types": {
-    "DIRECTED PATROL": 573,
+    "DIRECTED PATROL": 574,
     "TRAFFIC STOP": 256,
     "DRUNK DRIVER": 5,
     "DISTURBANCE": 43,
@@ -10,7 +10,7 @@
     "CRIMINAL MISCHIEF": 10,
     "ALARM": 25,
     "KEEP THE PEACE": 24,
-    "WELFARE CHECK": 35,
+    "WELFARE CHECK": 36,
     "PARK WALK AND TALK": 152,
     "SUSPICIOUS PERSON": 71,
     "TRESPASS": 42,
@@ -25,7 +25,7 @@
     "TRAFFIC CRASH": 73,
     "DISABLED VEHICLE": 13,
     "ASSIST CITIZEN": 49,
-    "ASSIST OTHER AGENCY": 28,
+    "ASSIST OTHER AGENCY": 29,
     "FIRE": 2,
     "FRAUD": 14,
     "RECKLESS VEHICLE": 3,
@@ -42,7 +42,7 @@
     "DECEASED PERSON": 1,
     "BURGLARY": 9,
     "SHOTS FIRED": 1,
-    "HIT & RUN": 13,
+    "HIT & RUN": 14,
     "SCHOOL CROSSING": 6,
     "ORDINANCE VIOLATION": 5,
     "ABANDONED VEHICLE": 6,
@@ -662,7 +662,7 @@
     "1200 BLOCK SUNSET POINT RD": 1,
     "2700 BLOCK ENTERPRISE RD E": 1,
     "400 BLOCK PINELLAS ST": 1,
-    "1000 BLOCK N MARTIN LUTHER KING JR AVE": 2,
+    "1000 BLOCK N MARTIN LUTHER KING JR AVE": 3,
     "800 BLOCK HOWARD ST": 1,
     "1000 BLOCK S MYRTLE AVE": 1,
     "2500 BLOCK LANDMARK DR": 1,
@@ -934,7 +934,10 @@
     "WOODLAWN OAKS AVE / WOODLAWN ST": 1,
     "1500 BLOCK TILLEY AVE": 1,
     "3100 BLOCK LANDMARK DR": 1,
-    "1900 BLOCK LAKEVIEW RD": 1
+    "1900 BLOCK LAKEVIEW RD": 1,
+    "2000 BLOCK ALPINE RD": 1,
+    "MONTCLAIR RD / SETON DR": 1,
+    "-2600 BLOCK 2625 SOUTH DR": 1
   },
   "hourly_distribution": {
     "0": 58,
@@ -949,8 +952,8 @@
     "9": 118,
     "10": 117,
     "11": 107,
-    "12": 113,
-    "13": 110,
+    "12": 114,
+    "13": 113,
     "14": 119,
     "15": 116,
     "16": 109,
@@ -963,7 +966,7 @@
     "23": 49
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-06T18:53:43.763535+00:00",
+  "last_updated": "2025-12-06T19:07:46.882004+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 568
+  "total_snapshots": 569
 }
