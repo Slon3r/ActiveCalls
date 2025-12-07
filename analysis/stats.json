@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 1922,
-  "total_resolved": 1920,
+  "total_calls_tracked": 1926,
+  "total_resolved": 1921,
   "call_types": {
-    "DIRECTED PATROL": 630,
-    "TRAFFIC STOP": 286,
+    "DIRECTED PATROL": 631,
+    "TRAFFIC STOP": 287,
     "DRUNK DRIVER": 6,
     "DISTURBANCE": 47,
     "BATTERY": 13,
@@ -11,8 +11,8 @@
     "ALARM": 28,
     "KEEP THE PEACE": 24,
     "WELFARE CHECK": 40,
-    "PARK WALK AND TALK": 173,
-    "SUSPICIOUS PERSON": 77,
+    "PARK WALK AND TALK": 174,
+    "SUSPICIOUS PERSON": 78,
     "TRESPASS": 46,
     "PROPERTY FOUND/LOST": 12,
     "THEFT": 25,
@@ -68,7 +68,7 @@
     "600 BLOCK S GULFVIEW BLVD": 9,
     "-800 BLOCK 1099 MARSHALL ST": 1,
     "US HIGHWAY 19 N / DREW ST": 14,
-    "US HIGHWAY 19 N / SR 590": 5,
+    "US HIGHWAY 19 N / SR 590": 7,
     "1100 BLOCK DRUID RD": 5,
     "2100 BLOCK RANGE RD": 1,
     "0 BLOCK ACACIA ST": 5,
@@ -998,7 +998,9 @@
     "S FORT HARRISON AVE / TURNER ST": 1,
     "3100 BLOCK MCMULLEN BOOTH RD": 1,
     "GULF TO BAY BLVD / EDENVILLE AVE": 1,
-    "HOWARD ST / TIOGA AVE": 1
+    "HOWARD ST / TIOGA AVE": 1,
+    "900 BLOCK CHESTNUT ST": 1,
+    "1500 BLOCK CARMEL AVE": 1
   },
   "hourly_distribution": {
     "0": 69,
@@ -1009,7 +1011,7 @@
     "5": 47,
     "6": 63,
     "7": 52,
-    "8": 114,
+    "8": 118,
     "9": 118,
     "10": 117,
     "11": 107,
@@ -1027,7 +1029,7 @@
     "23": 65
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-07T13:56:20.456635+00:00",
+  "last_updated": "2025-12-07T14:14:41.987204+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 634
+  "total_snapshots": 635
 }
