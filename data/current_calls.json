@@ -1,12 +1,6 @@
 {
   "calls": [
     {
-      "Master_Incident_Number": "120725-00249",
-      "Online_Description": "PARK WALK AND TALK",
-      "Address": "400 BLOCK S GULFVIEW BLVD",
-      "Response_Date": "2025-12-07T13:56:56"
-    },
-    {
       "Master_Incident_Number": "120725-00252",
       "Online_Description": "SHOPLIFTING",
       "Address": "27000 BLOCK US HIGHWAY 19 N",
@@ -25,18 +19,12 @@
       "Response_Date": "2025-12-07T15:00:07"
     },
     {
-      "Master_Incident_Number": "120725-00268",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "OLD COACHMAN RD / DREW ST",
-      "Response_Date": "2025-12-07T15:04:53"
-    },
-    {
       "Master_Incident_Number": "120725-00269",
       "Online_Description": "911 HANG-UP",
       "Address": "0 BLOCK CAUSEWAY BLVD",
       "Response_Date": "2025-12-07T15:07:29"
     }
   ],
-  "timestamp": "2025-12-07T20:39:24.836590+00:00",
-  "count": 6
+  "timestamp": "2025-12-07T20:47:49.738093+00:00",
+  "count": 4
 }

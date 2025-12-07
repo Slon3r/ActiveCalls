@@ -2742,6 +2742,36 @@
           "Response_Date": "2025-12-07T15:07:29"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-07T20:47:49.738093+00:00",
+      "call_count": 4,
+      "calls": [
+        {
+          "Master_Incident_Number": "120725-00252",
+          "Online_Description": "SHOPLIFTING",
+          "Address": "27000 BLOCK US HIGHWAY 19 N",
+          "Response_Date": "2025-12-07T14:06:39"
+        },
+        {
+          "Master_Incident_Number": "120725-00261",
+          "Online_Description": "HIT & RUN",
+          "Address": "1100 BLOCK DRUID RD",
+          "Response_Date": "2025-12-07T14:48:14"
+        },
+        {
+          "Master_Incident_Number": "120725-00266",
+          "Online_Description": "TRAFFIC CRASH",
+          "Address": "GULF TO BAY BLVD / S HERCULES AVE",
+          "Response_Date": "2025-12-07T15:00:07"
+        },
+        {
+          "Master_Incident_Number": "120725-00269",
+          "Online_Description": "911 HANG-UP",
+          "Address": "0 BLOCK CAUSEWAY BLVD",
+          "Response_Date": "2025-12-07T15:07:29"
+        }
+      ]
     }
   ]
 }
