@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 1986,
-  "total_resolved": 1980,
+  "total_calls_tracked": 1990,
+  "total_resolved": 1982,
   "call_types": {
-    "DIRECTED PATROL": 648,
+    "DIRECTED PATROL": 650,
     "TRAFFIC STOP": 296,
     "DRUNK DRIVER": 6,
     "DISTURBANCE": 49,
@@ -22,10 +22,10 @@
     "PANHANDLER/SOLICITOR": 4,
     "VEHICLE ILLEGALLY PARKED": 4,
     "SUSPICIOUS EVENT": 34,
-    "TRAFFIC CRASH": 77,
+    "TRAFFIC CRASH": 78,
     "DISABLED VEHICLE": 13,
     "ASSIST CITIZEN": 53,
-    "ASSIST OTHER AGENCY": 33,
+    "ASSIST OTHER AGENCY": 34,
     "FIRE": 2,
     "FRAUD": 14,
     "RECKLESS VEHICLE": 7,
@@ -341,7 +341,7 @@
     "400 BLOCK S MISSOURI AVE": 1,
     "-1700 BLOCK 1748 WESTON DR": 1,
     "1300 BLOCK GULF BLVD": 3,
-    "0 BLOCK N NEPTUNE AVE": 1,
+    "0 BLOCK N NEPTUNE AVE": 2,
     "S MYRTLE AVE / COURT ST": 2,
     "OLD COACHMAN RD / GULF TO BAY BLVD": 1,
     "700 BLOCK ELDORADO AVE": 5,
@@ -644,7 +644,7 @@
     "800 BLOCK HARBOR IS": 2,
     "RIDGE TOP WAY / MISTY PLATEAU TRL": 1,
     "800 BLOCK DREW ST": 1,
-    "OLD COACHMAN RD / DREW ST": 3,
+    "OLD COACHMAN RD / DREW ST": 4,
     "900 BLOCK CARLTON ST": 1,
     "1200 BLOCK S MYRTLE AVE": 1,
     "1300 BLOCK S MARTIN LUTHER KING JR AVE": 1,
@@ -1007,7 +1007,7 @@
     "1900 BLOCK KINGS HWY": 1,
     "N MARTIN LUTHER KING JR AVE / CLEVELAND ST": 1,
     "1000 BLOCK FAIRMONT ST": 1,
-    "200 BLOCK S MISSOURI AVE": 1,
+    "200 BLOCK S MISSOURI AVE": 2,
     "1100 BLOCK PORT WAY": 1,
     "PIERCE ST / S EAST AVE": 1,
     "HOLT AVE / ENGMAN ST": 1,
@@ -1016,7 +1016,8 @@
     "DREW ST / N EAST AVE": 1,
     "CHARLES AVE / DANIEL ST": 1,
     "0 BLOCK GLENDALE ST": 1,
-    "800 BLOCK LANTERN WAY": 1
+    "800 BLOCK LANTERN WAY": 1,
+    "GULF TO BAY BLVD / S HERCULES AVE": 1
   },
   "hourly_distribution": {
     "0": 69,
@@ -1029,12 +1030,12 @@
     "7": 52,
     "8": 120,
     "9": 136,
-    "10": 123,
+    "10": 124,
     "11": 120,
     "12": 124,
     "13": 121,
-    "14": 141,
-    "15": 130,
+    "14": 142,
+    "15": 132,
     "16": 119,
     "17": 104,
     "18": 93,
@@ -1045,7 +1046,7 @@
     "23": 65
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-07T19:59:11.319395+00:00",
+  "last_updated": "2025-12-07T20:25:44.270706+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 662
+  "total_snapshots": 663
 }
