@@ -1,11 +1,11 @@
 {
-  "total_calls_tracked": 1974,
-  "total_resolved": 1971,
+  "total_calls_tracked": 1976,
+  "total_resolved": 1972,
   "call_types": {
     "DIRECTED PATROL": 647,
     "TRAFFIC STOP": 296,
     "DRUNK DRIVER": 6,
-    "DISTURBANCE": 48,
+    "DISTURBANCE": 49,
     "BATTERY": 13,
     "CRIMINAL MISCHIEF": 11,
     "ALARM": 28,
@@ -25,7 +25,7 @@
     "TRAFFIC CRASH": 76,
     "DISABLED VEHICLE": 13,
     "ASSIST CITIZEN": 53,
-    "ASSIST OTHER AGENCY": 32,
+    "ASSIST OTHER AGENCY": 33,
     "FIRE": 2,
     "FRAUD": 14,
     "RECKLESS VEHICLE": 7,
@@ -541,7 +541,7 @@
     "3000 BLOCK WOODSONG LN": 1,
     "2500 BLOCK MCMULLEN BOOTH RD": 1,
     "2600 BLOCK SR 590": 2,
-    "2400 BLOCK GULF TO BAY BLVD": 4,
+    "2400 BLOCK GULF TO BAY BLVD": 5,
     "2800 BLOCK MCMULLEN BOOTH RD": 1,
     "SABAL SPRINGS CIR / SR 580": 1,
     "300 BLOCK DREW ST": 1,
@@ -788,7 +788,7 @@
     "GULF TO BAY BLVD / MCMULLEN BOOTH RD S SERVICE RD": 1,
     "US HIGHWAY 19 N / SOUTH DR": 1,
     "2100 BLOCK DREW ST": 1,
-    "1300 BLOCK YOUNG AVE": 2,
+    "1300 BLOCK YOUNG AVE": 3,
     "-1700 BLOCK 1718 DRUID RD": 1,
     "-1700 BLOCK 1769 DOUGLAS AVE": 1,
     "1800 BLOCK N BETTY LANE": 1,
@@ -1031,8 +1031,8 @@
     "9": 136,
     "10": 123,
     "11": 120,
-    "12": 123,
-    "13": 115,
+    "12": 124,
+    "13": 116,
     "14": 136,
     "15": 130,
     "16": 119,
@@ -1045,7 +1045,7 @@
     "23": 65
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-07T18:30:00.871136+00:00",
+  "last_updated": "2025-12-07T18:48:28.631831+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 654
+  "total_snapshots": 655
 }
