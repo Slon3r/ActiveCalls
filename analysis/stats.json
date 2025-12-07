@@ -1,11 +1,11 @@
 {
-  "total_calls_tracked": 1902,
-  "total_resolved": 1900,
+  "total_calls_tracked": 1904,
+  "total_resolved": 1901,
   "call_types": {
     "DIRECTED PATROL": 620,
     "TRAFFIC STOP": 285,
     "DRUNK DRIVER": 6,
-    "DISTURBANCE": 46,
+    "DISTURBANCE": 47,
     "BATTERY": 13,
     "CRIMINAL MISCHIEF": 11,
     "ALARM": 28,
@@ -21,7 +21,7 @@
     "SUSPICIOUS VEHICLE": 13,
     "PANHANDLER/SOLICITOR": 4,
     "VEHICLE ILLEGALLY PARKED": 4,
-    "SUSPICIOUS EVENT": 32,
+    "SUSPICIOUS EVENT": 33,
     "TRAFFIC CRASH": 75,
     "DISABLED VEHICLE": 13,
     "ASSIST CITIZEN": 51,
@@ -990,14 +990,16 @@
     "COUNTRYCLUB DR / COUNTRYSIDE BLVD": 1,
     "300 BLOCK S ORION AVE": 1,
     "1100 BLOCK S KEENE RD": 1,
-    "DREW ST / N METEOR AVE": 1
+    "DREW ST / N METEOR AVE": 1,
+    "1400 BLOCK DRUID RD": 1,
+    "200 BLOCK FAIRWOOD AVE": 1
   },
   "hourly_distribution": {
     "0": 69,
     "1": 66,
     "2": 43,
     "3": 34,
-    "4": 17,
+    "4": 19,
     "5": 43,
     "6": 57,
     "7": 48,
@@ -1019,7 +1021,7 @@
     "23": 65
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-07T09:36:24.288373+00:00",
+  "last_updated": "2025-12-07T09:44:51.070243+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 616
+  "total_snapshots": 617
 }
