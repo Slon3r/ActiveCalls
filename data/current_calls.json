@@ -13,24 +13,36 @@
       "Response_Date": "2025-12-07T08:58:41"
     },
     {
-      "Master_Incident_Number": "120725-00146",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "-700 BLOCK 898 N BELCHER RD",
-      "Response_Date": "2025-12-07T08:59:41"
+      "Master_Incident_Number": "120725-00150",
+      "Online_Description": "SUSPICIOUS EVENT",
+      "Address": "400 BLOCK N JUPITER AVE",
+      "Response_Date": "2025-12-07T09:00:01"
     },
     {
-      "Master_Incident_Number": "120725-00152",
+      "Master_Incident_Number": "120725-00157",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "-3400 BLOCK 3449 COURTNEY CAMPBELL CSWY",
+      "Response_Date": "2025-12-07T09:19:20"
+    },
+    {
+      "Master_Incident_Number": "120725-00158",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "3000 BLOCK MCMULLEN BOOTH RD",
+      "Response_Date": "2025-12-07T09:19:43"
+    },
+    {
+      "Master_Incident_Number": "120725-00159",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "RUTH ECKERD HALL DR",
+      "Response_Date": "2025-12-07T09:19:52"
+    },
+    {
+      "Master_Incident_Number": "120725-00162",
       "Online_Description": "TRAFFIC STOP",
-      "Address": "1400 BLOCK S MARTIN LUTHER KING JR AVE",
-      "Response_Date": "2025-12-07T09:10:02"
-    },
-    {
-      "Master_Incident_Number": "120725-00153",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "1500 BLOCK GULF BLVD",
-      "Response_Date": "2025-12-07T09:11:45"
+      "Address": "S BELCHER RD / DRUID RD",
+      "Response_Date": "2025-12-07T09:24:01"
     }
   ],
-  "timestamp": "2025-12-07T14:32:32.278830+00:00",
-  "count": 5
+  "timestamp": "2025-12-07T14:44:12.103063+00:00",
+  "count": 7
 }

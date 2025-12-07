@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 1930,
-  "total_resolved": 1925,
+  "total_calls_tracked": 1935,
+  "total_resolved": 1928,
   "call_types": {
-    "DIRECTED PATROL": 633,
-    "TRAFFIC STOP": 288,
+    "DIRECTED PATROL": 636,
+    "TRAFFIC STOP": 289,
     "DRUNK DRIVER": 6,
     "DISTURBANCE": 47,
     "BATTERY": 13,
@@ -21,7 +21,7 @@
     "SUSPICIOUS VEHICLE": 13,
     "PANHANDLER/SOLICITOR": 4,
     "VEHICLE ILLEGALLY PARKED": 4,
-    "SUSPICIOUS EVENT": 33,
+    "SUSPICIOUS EVENT": 34,
     "TRAFFIC CRASH": 75,
     "DISABLED VEHICLE": 13,
     "ASSIST CITIZEN": 51,
@@ -559,7 +559,7 @@
     "200 BLOCK S PROSPECT": 1,
     "1400 BLOCK COURT ST": 1,
     "500 BLOCK BLOCK OF CLEVELAND ST": 1,
-    "RUTH ECKERD HALL DR": 1,
+    "RUTH ECKERD HALL DR": 2,
     "200 BLOCK BAYSIDE DR": 1,
     "2600 BLOCK ENTERPRISE RD E": 4,
     "-2300 BLOCK BLK STAG RUN BLVD": 1,
@@ -715,7 +715,7 @@
     "SUMMERLIN DR / STEWART BLVD": 1,
     "21300 BLOCK US HIGHWAY 19 N": 1,
     "3400 BLOCK MCMULLEN BOOTH RD": 1,
-    "S BELCHER RD / DRUID RD": 1,
+    "S BELCHER RD / DRUID RD": 2,
     "1600 BLOCK GULF BLVD": 1,
     "N GARDEN AVE / DREW ST": 1,
     "-400 BLOCK 499 POINSETTIA AVE": 1,
@@ -903,7 +903,7 @@
     "1000 BLOCK ELDRIDGE ST": 1,
     "-1300 BLOCK 1398 CLEVELAND ST": 1,
     "1400 BLOCK N BETTY LN ": 1,
-    "3000 BLOCK MCMULLEN BOOTH RD": 1,
+    "3000 BLOCK MCMULLEN BOOTH RD": 2,
     "1100 BLOCK PALM BLUFF ST": 1,
     "N MARTIN LUTHER KING JR AVE / GROVE ST": 1,
     "MANDALAY POINT": 1,
@@ -1001,7 +1001,9 @@
     "HOWARD ST / TIOGA AVE": 1,
     "900 BLOCK CHESTNUT ST": 1,
     "1500 BLOCK CARMEL AVE": 1,
-    "-700 BLOCK 898 N BELCHER RD": 1
+    "-700 BLOCK 898 N BELCHER RD": 1,
+    "400 BLOCK N JUPITER AVE": 1,
+    "-3400 BLOCK 3449 COURTNEY CAMPBELL CSWY": 1
   },
   "hourly_distribution": {
     "0": 69,
@@ -1013,7 +1015,7 @@
     "6": 63,
     "7": 52,
     "8": 120,
-    "9": 120,
+    "9": 125,
     "10": 117,
     "11": 107,
     "12": 114,
@@ -1030,7 +1032,7 @@
     "23": 65
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-07T14:32:32.281785+00:00",
+  "last_updated": "2025-12-07T14:44:12.106114+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 636
+  "total_snapshots": 637
 }
