@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 1967,
+  "total_calls_tracked": 1968,
   "total_resolved": 1961,
   "call_types": {
     "DIRECTED PATROL": 646,
-    "TRAFFIC STOP": 293,
+    "TRAFFIC STOP": 294,
     "DRUNK DRIVER": 6,
     "DISTURBANCE": 48,
     "BATTERY": 13,
@@ -1012,7 +1012,8 @@
     "PIERCE ST / S EAST AVE": 1,
     "HOLT AVE / ENGMAN ST": 1,
     "GULF TO BAY BLVD / S MAIN AVE": 1,
-    "1100 BLOCK CLEVELAND ST": 1
+    "1100 BLOCK CLEVELAND ST": 1,
+    "DREW ST / N EAST AVE": 1
   },
   "hourly_distribution": {
     "0": 69,
@@ -1027,7 +1028,7 @@
     "9": 136,
     "10": 123,
     "11": 120,
-    "12": 116,
+    "12": 117,
     "13": 115,
     "14": 136,
     "15": 130,
@@ -1041,7 +1042,7 @@
     "23": 65
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-07T17:33:22.244524+00:00",
+  "last_updated": "2025-12-07T17:42:36.873778+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 650
+  "total_snapshots": 651
 }
