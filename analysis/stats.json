@@ -1,12 +1,12 @@
 {
-  "total_calls_tracked": 1897,
-  "total_resolved": 1894,
+  "total_calls_tracked": 1898,
+  "total_resolved": 1895,
   "call_types": {
     "DIRECTED PATROL": 619,
     "TRAFFIC STOP": 285,
     "DRUNK DRIVER": 6,
     "DISTURBANCE": 46,
-    "BATTERY": 12,
+    "BATTERY": 13,
     "CRIMINAL MISCHIEF": 11,
     "ALARM": 28,
     "KEEP THE PEACE": 24,
@@ -794,7 +794,7 @@
     "1800 BLOCK N BETTY LANE": 1,
     "-1700 BLOCK 1798 CLEVELAND ST": 1,
     "1100 BLOCK S MYRTLE AVE": 2,
-    "1500 BLOCK GULF TO BAY BLVD": 2,
+    "1500 BLOCK GULF TO BAY BLVD": 3,
     "-600 BLOCK 617 MANDALAY AVE": 1,
     "1700 BLOCK N HIGHLAND AVE": 1,
     "N FORT HARRISON AVE / VENETIAN POINT DR": 1,
@@ -990,7 +990,7 @@
     "COUNTRYCLUB DR / COUNTRYSIDE BLVD": 1
   },
   "hourly_distribution": {
-    "0": 68,
+    "0": 69,
     "1": 66,
     "2": 43,
     "3": 31,
@@ -1016,7 +1016,7 @@
     "23": 65
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-07T08:38:45.376194+00:00",
+  "last_updated": "2025-12-07T08:51:02.327591+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 612
+  "total_snapshots": 613
 }
