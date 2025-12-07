@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 2032,
-  "total_resolved": 2025,
+  "total_calls_tracked": 2034,
+  "total_resolved": 2029,
   "call_types": {
     "DIRECTED PATROL": 665,
-    "TRAFFIC STOP": 302,
+    "TRAFFIC STOP": 303,
     "DRUNK DRIVER": 6,
     "DISTURBANCE": 49,
     "BATTERY": 14,
@@ -11,7 +11,7 @@
     "ALARM": 28,
     "KEEP THE PEACE": 24,
     "WELFARE CHECK": 45,
-    "PARK WALK AND TALK": 183,
+    "PARK WALK AND TALK": 184,
     "SUSPICIOUS PERSON": 82,
     "TRESPASS": 47,
     "PROPERTY FOUND/LOST": 12,
@@ -398,7 +398,7 @@
     "2200 BLOCK BELLEAIR RD": 1,
     "1300 BLOCK PARK ST": 9,
     "DREW ST / US HIGHWAY 19 N": 2,
-    "1300 BLOCK N MARTIN LUTHER KING JR AVE": 5,
+    "1300 BLOCK N MARTIN LUTHER KING JR AVE": 6,
     "N BELCHER RD / OLD COACHMAN RD": 1,
     "600 BLOCK S FORT HARRISON AVE": 6,
     "MONTCLAIR RD / N BELCHER RD": 1,
@@ -689,7 +689,7 @@
     "N NEPTUNE AVE / CLEVELAND ST": 1,
     "0 BLOCK 29 SAN MARCO ST": 1,
     "1600 BLOCK FULTON AVE": 5,
-    "CAUSEWAY BLVD / EAST SHORE DR": 1,
+    "CAUSEWAY BLVD / EAST SHORE DR": 2,
     "SUNSET POINT RD / N HERCULES AVE": 4,
     "400 BLOCK HAMDEN DR": 1,
     "1300 BLOCK SUNSET POINT RD": 1,
@@ -1047,7 +1047,7 @@
     "15": 139,
     "16": 127,
     "17": 115,
-    "18": 108,
+    "18": 110,
     "19": 31,
     "20": 36,
     "21": 40,
@@ -1055,7 +1055,7 @@
     "23": 65
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-07T23:50:23.226357+00:00",
+  "last_updated": "2025-12-07T23:58:00.521363+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 680
+  "total_snapshots": 681
 }
