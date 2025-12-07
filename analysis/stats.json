@@ -1,11 +1,11 @@
 {
-  "total_calls_tracked": 1944,
+  "total_calls_tracked": 1949,
   "total_resolved": 1944,
   "call_types": {
-    "DIRECTED PATROL": 637,
+    "DIRECTED PATROL": 640,
     "TRAFFIC STOP": 292,
     "DRUNK DRIVER": 6,
-    "DISTURBANCE": 47,
+    "DISTURBANCE": 48,
     "BATTERY": 13,
     "CRIMINAL MISCHIEF": 11,
     "ALARM": 28,
@@ -25,7 +25,7 @@
     "TRAFFIC CRASH": 75,
     "DISABLED VEHICLE": 13,
     "ASSIST CITIZEN": 52,
-    "ASSIST OTHER AGENCY": 31,
+    "ASSIST OTHER AGENCY": 32,
     "FIRE": 2,
     "FRAUD": 14,
     "RECKLESS VEHICLE": 7,
@@ -365,7 +365,7 @@
     "500 BLOCK MOSS AVE": 1,
     "-1000 BLOCK 1170 GULF BLVD": 2,
     "27000 BLOCK US 19": 1,
-    "500 BLOCK N BETTY LN": 11,
+    "500 BLOCK N BETTY LN": 12,
     "600 BLOCK ELDRIDGE ST": 1,
     "2100 BLOCK MONTCLAIR RD": 1,
     "700 BLOCK S KEENE RD": 2,
@@ -559,7 +559,7 @@
     "200 BLOCK S PROSPECT": 1,
     "1400 BLOCK COURT ST": 1,
     "500 BLOCK BLOCK OF CLEVELAND ST": 1,
-    "RUTH ECKERD HALL DR": 2,
+    "RUTH ECKERD HALL DR": 3,
     "200 BLOCK BAYSIDE DR": 1,
     "2600 BLOCK ENTERPRISE RD E": 4,
     "-2300 BLOCK BLK STAG RUN BLVD": 1,
@@ -1003,10 +1003,12 @@
     "1500 BLOCK CARMEL AVE": 1,
     "-700 BLOCK 898 N BELCHER RD": 1,
     "400 BLOCK N JUPITER AVE": 1,
-    "-3400 BLOCK 3449 COURTNEY CAMPBELL CSWY": 1,
+    "-3400 BLOCK 3449 COURTNEY CAMPBELL CSWY": 2,
     "1900 BLOCK KINGS HWY": 1,
     "N MARTIN LUTHER KING JR AVE / CLEVELAND ST": 1,
-    "1000 BLOCK FAIRMONT ST": 1
+    "1000 BLOCK FAIRMONT ST": 1,
+    "200 BLOCK S MISSOURI AVE": 1,
+    "1100 BLOCK PORT WAY": 1
   },
   "hourly_distribution": {
     "0": 69,
@@ -1018,8 +1020,8 @@
     "6": 63,
     "7": 52,
     "8": 120,
-    "9": 134,
-    "10": 117,
+    "9": 136,
+    "10": 120,
     "11": 107,
     "12": 114,
     "13": 115,
@@ -1035,7 +1037,7 @@
     "23": 65
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-07T15:33:06.767027+00:00",
+  "last_updated": "2025-12-07T15:41:41.502829+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 641
+  "total_snapshots": 642
 }
