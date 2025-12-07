@@ -1,6 +1,6 @@
 {
-  "total_calls_tracked": 1949,
-  "total_resolved": 1946,
+  "total_calls_tracked": 1950,
+  "total_resolved": 1948,
   "call_types": {
     "DIRECTED PATROL": 640,
     "TRAFFIC STOP": 292,
@@ -11,7 +11,7 @@
     "ALARM": 28,
     "KEEP THE PEACE": 24,
     "WELFARE CHECK": 41,
-    "PARK WALK AND TALK": 174,
+    "PARK WALK AND TALK": 175,
     "SUSPICIOUS PERSON": 78,
     "TRESPASS": 46,
     "PROPERTY FOUND/LOST": 12,
@@ -144,7 +144,7 @@
     "3000 BLOCK DREW ST": 4,
     "2400 BLOCK COUNTRYSIDE BLVD": 4,
     "1200 BLOCK S MISSOURI AVE": 12,
-    "2000 BLOCK N HIGHLAND AVE": 8,
+    "2000 BLOCK N HIGHLAND AVE": 9,
     "N DUNCAN AVE / DREW ST": 1,
     "1100 BLOCK COURT ST": 3,
     "-1300 BLOCK BLK ADMIRAL WOODSON LN": 1,
@@ -1021,7 +1021,7 @@
     "7": 52,
     "8": 120,
     "9": 136,
-    "10": 120,
+    "10": 121,
     "11": 107,
     "12": 114,
     "13": 115,
@@ -1037,7 +1037,7 @@
     "23": 65
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-07T15:49:55.300003+00:00",
+  "last_updated": "2025-12-07T15:57:52.995335+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 643
+  "total_snapshots": 644
 }

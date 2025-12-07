@@ -1950,6 +1950,24 @@
           "Response_Date": "2025-12-07T10:09:15"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-07T15:57:52.992004+00:00",
+      "call_count": 2,
+      "calls": [
+        {
+          "Master_Incident_Number": "120725-00157",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "-3400 BLOCK 3449 COURTNEY CAMPBELL CSWY",
+          "Response_Date": "2025-12-07T09:19:20"
+        },
+        {
+          "Master_Incident_Number": "120725-00188",
+          "Online_Description": "PARK WALK AND TALK",
+          "Address": "2000 BLOCK N HIGHLAND AVE",
+          "Response_Date": "2025-12-07T10:33:02"
+        }
+      ]
     }
   ]
 }
