@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 1898,
-  "total_resolved": 1895,
+  "total_calls_tracked": 1900,
+  "total_resolved": 1897,
   "call_types": {
-    "DIRECTED PATROL": 619,
+    "DIRECTED PATROL": 620,
     "TRAFFIC STOP": 285,
     "DRUNK DRIVER": 6,
     "DISTURBANCE": 46,
@@ -31,7 +31,7 @@
     "RECKLESS VEHICLE": 6,
     "JUVENILE CASE": 8,
     "HAZARD": 4,
-    "UNKNOWN PROBLEM": 10,
+    "UNKNOWN PROBLEM": 11,
     "NOISE COMPLAINT": 6,
     "CIVIL MATTER": 12,
     "DOMESTIC": 16,
@@ -987,13 +987,15 @@
     "18700 BLOCK US HIGHWAY 19 N": 1,
     "-2600 BLOCK 2668 AUGUSTA DR N": 1,
     "3100 BLOCK JOHNS PKWY": 1,
-    "COUNTRYCLUB DR / COUNTRYSIDE BLVD": 1
+    "COUNTRYCLUB DR / COUNTRYSIDE BLVD": 1,
+    "300 BLOCK S ORION AVE": 1,
+    "1100 BLOCK S KEENE RD": 1
   },
   "hourly_distribution": {
     "0": 69,
     "1": 66,
     "2": 43,
-    "3": 31,
+    "3": 33,
     "4": 16,
     "5": 43,
     "6": 57,
@@ -1016,7 +1018,7 @@
     "23": 65
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-07T08:59:15.128192+00:00",
+  "last_updated": "2025-12-07T09:23:25.225937+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 614
+  "total_snapshots": 615
 }
