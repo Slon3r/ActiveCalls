@@ -13,24 +13,30 @@
       "Response_Date": "2025-12-07T16:47:43"
     },
     {
-      "Master_Incident_Number": "120725-00306",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "27000 BLOCK US HIGHWAY 19 N",
-      "Response_Date": "2025-12-07T16:59:10"
-    },
-    {
-      "Master_Incident_Number": "120725-00307",
-      "Online_Description": "PARK WALK AND TALK",
-      "Address": "1200 BLOCK S HIGHLAND AVE",
-      "Response_Date": "2025-12-07T17:00:25"
-    },
-    {
       "Master_Incident_Number": "120725-00308",
       "Online_Description": "SHOPLIFTING",
       "Address": "2700 BLOCK GULF TO BAY BLVD",
       "Response_Date": "2025-12-07T17:04:40"
+    },
+    {
+      "Master_Incident_Number": "120725-00310",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "25800 BLOCK US HIGHWAY 19 N",
+      "Response_Date": "2025-12-07T17:10:55"
+    },
+    {
+      "Master_Incident_Number": "120725-00313",
+      "Online_Description": "SUSPICIOUS PERSON",
+      "Address": "27000 BLOCK US HIGHWAY 19 N",
+      "Response_Date": "2025-12-07T17:16:18"
+    },
+    {
+      "Master_Incident_Number": "120725-00314",
+      "Online_Description": "TRAFFIC STOP",
+      "Address": "N BETTY LN / DREW ST",
+      "Response_Date": "2025-12-07T17:21:00"
     }
   ],
-  "timestamp": "2025-12-07T22:30:08.391247+00:00",
-  "count": 5
+  "timestamp": "2025-12-07T22:42:54.436865+00:00",
+  "count": 6
 }
