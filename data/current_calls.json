@@ -1,18 +1,5 @@
 {
-  "calls": [
-    {
-      "Master_Incident_Number": "120725-00082",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "500 BLOCK N BETTY LN",
-      "Response_Date": "2025-12-07T05:01:23"
-    },
-    {
-      "Master_Incident_Number": "120725-00083",
-      "Online_Description": "PARK WALK AND TALK",
-      "Address": "900 BLOCK GULF BLVD",
-      "Response_Date": "2025-12-07T05:16:07"
-    }
-  ],
-  "timestamp": "2025-12-07T10:42:57.798937+00:00",
-  "count": 2
+  "calls": [],
+  "timestamp": "2025-12-07T10:51:06.970474+00:00",
+  "count": 0
 }
