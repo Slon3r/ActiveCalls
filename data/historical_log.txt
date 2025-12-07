@@ -9556,3 +9556,12 @@ TOTAL ACTIVE CALLS: 4
 [RESOLVED] 120725-00245 | PARK WALK AND TALK | 1200 BLOCK GULF BLVD | Response: 01:30 PM
 [RESOLVED] 120725-00246 | DIRECTED PATROL | 0 BLOCK SAND KEY PARKING | Response: 01:32 PM
 [RESOLVED] 120725-00247 | SUSPICIOUS PERSON | 1100 BLOCK WOODLAWN ST | Response: 01:35 PM
+
+================================================================================
+TIMESTAMP: 2025-12-07T19:42:51.914665+00:00
+TOTAL ACTIVE CALLS: 6
+================================================================================
+
+--- NEW CALLS (2) ---
+[NEW] 120725-00254 | TRAFFIC CRASH | 1800 BLOCK N HIGHLAND AVE | Response: 02:11 PM
+[NEW] 120725-00255 | 911 HANG-UP | 2600 BLOCK GULF TO BAY BLVD | Response: 02:13 PM

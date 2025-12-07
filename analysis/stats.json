@@ -1,5 +1,5 @@
 {
-  "total_calls_tracked": 1983,
+  "total_calls_tracked": 1985,
   "total_resolved": 1979,
   "call_types": {
     "DIRECTED PATROL": 648,
@@ -17,12 +17,12 @@
     "PROPERTY FOUND/LOST": 12,
     "THEFT": 26,
     "NEIGHBOR CALL": 11,
-    "911 HANG-UP": 74,
+    "911 HANG-UP": 75,
     "SUSPICIOUS VEHICLE": 15,
     "PANHANDLER/SOLICITOR": 4,
     "VEHICLE ILLEGALLY PARKED": 4,
     "SUSPICIOUS EVENT": 34,
-    "TRAFFIC CRASH": 76,
+    "TRAFFIC CRASH": 77,
     "DISABLED VEHICLE": 13,
     "ASSIST CITIZEN": 53,
     "ASSIST OTHER AGENCY": 33,
@@ -175,7 +175,7 @@
     "300 BLOCK CLEVELAND ST": 16,
     "GULF TO BAY BLVD / S LAKE DR": 1,
     "-400 BLOCK BLK BLANCHE B LITTLEJOHN TRL": 1,
-    "2600 BLOCK GULF TO BAY BLVD": 10,
+    "2600 BLOCK GULF TO BAY BLVD": 11,
     "400 BLOCK MANDALAY AVE": 9,
     "-3200 BLOCK 3399 COURTNEY CAMPBELL CSWY": 2,
     "1200 BLOCK GROVE ST": 1,
@@ -265,7 +265,7 @@
     "S MISSOURI AVE/COURT ST": 1,
     "1500 BLOCK S MARTIN LUTHER KING JR AVE": 1,
     "3100 BLOCK GULF TO BAY BLVD": 3,
-    "1800 BLOCK N HIGHLAND AVE": 15,
+    "1800 BLOCK N HIGHLAND AVE": 16,
     "BELLEAIR BLVD / US HIGHWAY 19 N": 1,
     "-1200 BLOCK 1353 COURT ST": 3,
     "-500 BLOCK 642 BAY ESPLANADE": 1,
@@ -1033,7 +1033,7 @@
     "11": 120,
     "12": 124,
     "13": 120,
-    "14": 139,
+    "14": 141,
     "15": 130,
     "16": 119,
     "17": 104,
@@ -1045,7 +1045,7 @@
     "23": 65
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-07T19:35:09.379042+00:00",
+  "last_updated": "2025-12-07T19:42:51.918551+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 659
+  "total_snapshots": 660
 }
