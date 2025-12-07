@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 1935,
-  "total_resolved": 1928,
+  "total_calls_tracked": 1939,
+  "total_resolved": 1929,
   "call_types": {
-    "DIRECTED PATROL": 636,
+    "DIRECTED PATROL": 637,
     "TRAFFIC STOP": 289,
     "DRUNK DRIVER": 6,
     "DISTURBANCE": 47,
@@ -15,16 +15,16 @@
     "SUSPICIOUS PERSON": 78,
     "TRESPASS": 46,
     "PROPERTY FOUND/LOST": 12,
-    "THEFT": 25,
+    "THEFT": 26,
     "NEIGHBOR CALL": 10,
     "911 HANG-UP": 72,
-    "SUSPICIOUS VEHICLE": 13,
+    "SUSPICIOUS VEHICLE": 14,
     "PANHANDLER/SOLICITOR": 4,
     "VEHICLE ILLEGALLY PARKED": 4,
     "SUSPICIOUS EVENT": 34,
     "TRAFFIC CRASH": 75,
     "DISABLED VEHICLE": 13,
-    "ASSIST CITIZEN": 51,
+    "ASSIST CITIZEN": 52,
     "ASSIST OTHER AGENCY": 31,
     "FIRE": 2,
     "FRAUD": 14,
@@ -90,7 +90,7 @@
     "FLUSHING AVE / HARN BLVD": 1,
     "S BELCHER RD / BARCELONA DR": 1,
     "-1400 BLOCK 1417 S MISSOURI AVE": 1,
-    "1000 BLOCK GULF BLVD": 21,
+    "1000 BLOCK GULF BLVD": 22,
     "1400 BLOCK LAURA ST": 3,
     "ENTERPRISE RD E / VILLAGE DR": 2,
     "GULF TO BAY BLVD / HAMPTON RD": 1,
@@ -149,7 +149,7 @@
     "1100 BLOCK COURT ST": 3,
     "-1300 BLOCK BLK ADMIRAL WOODSON LN": 1,
     "19300 BLOCK US HIGHWAY 19 N": 2,
-    "600 BLOCK PIERCE ST": 16,
+    "600 BLOCK PIERCE ST": 17,
     "0 BLOCK 99 THIRD ST": 4,
     "0 BLOCK 98 THIRD ST": 5,
     "100 BLOCK HAMPTON RD": 3,
@@ -529,7 +529,7 @@
     "300 BLOCK S HAMDEN DR": 2,
     "1300 BLOCK WOODBINE ST": 1,
     "N KEENE RD / FLAGLER DR": 2,
-    "23200 BLOCK US HIGHWAY 19 N": 2,
+    "23200 BLOCK US HIGHWAY 19 N": 3,
     "900 BLOCK COURT ST": 2,
     "GULF TO BAY BLVD / THORNTON RD": 1,
     "1100 BLOCK WOODLAWN ST": 2,
@@ -1003,7 +1003,8 @@
     "1500 BLOCK CARMEL AVE": 1,
     "-700 BLOCK 898 N BELCHER RD": 1,
     "400 BLOCK N JUPITER AVE": 1,
-    "-3400 BLOCK 3449 COURTNEY CAMPBELL CSWY": 1
+    "-3400 BLOCK 3449 COURTNEY CAMPBELL CSWY": 1,
+    "1900 BLOCK KINGS HWY": 1
   },
   "hourly_distribution": {
     "0": 69,
@@ -1015,7 +1016,7 @@
     "6": 63,
     "7": 52,
     "8": 120,
-    "9": 125,
+    "9": 129,
     "10": 117,
     "11": 107,
     "12": 114,
@@ -1032,7 +1033,7 @@
     "23": 65
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-07T14:44:12.106114+00:00",
+  "last_updated": "2025-12-07T14:52:17.291383+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 637
+  "total_snapshots": 638
 }

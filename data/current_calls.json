@@ -14,9 +14,15 @@
     },
     {
       "Master_Incident_Number": "120725-00150",
-      "Online_Description": "SUSPICIOUS EVENT",
+      "Online_Description": "THEFT",
       "Address": "400 BLOCK N JUPITER AVE",
       "Response_Date": "2025-12-07T09:00:01"
+    },
+    {
+      "Master_Incident_Number": "120725-00154",
+      "Online_Description": "THEFT",
+      "Address": "1900 BLOCK KINGS HWY",
+      "Response_Date": "2025-12-07T09:08:45"
     },
     {
       "Master_Incident_Number": "120725-00157",
@@ -37,12 +43,24 @@
       "Response_Date": "2025-12-07T09:19:52"
     },
     {
-      "Master_Incident_Number": "120725-00162",
-      "Online_Description": "TRAFFIC STOP",
-      "Address": "S BELCHER RD / DRUID RD",
-      "Response_Date": "2025-12-07T09:24:01"
+      "Master_Incident_Number": "120725-00164",
+      "Online_Description": "ASSIST CITIZEN",
+      "Address": "600 BLOCK PIERCE ST",
+      "Response_Date": "2025-12-07T09:22:24"
+    },
+    {
+      "Master_Incident_Number": "120725-00166",
+      "Online_Description": "SUSPICIOUS VEHICLE",
+      "Address": "23200 BLOCK US HIGHWAY 19 N",
+      "Response_Date": "2025-12-07T09:29:44"
+    },
+    {
+      "Master_Incident_Number": "120725-00168",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "1000 BLOCK GULF BLVD",
+      "Response_Date": "2025-12-07T09:30:32"
     }
   ],
-  "timestamp": "2025-12-07T14:44:12.103063+00:00",
-  "count": 7
+  "timestamp": "2025-12-07T14:52:17.288292+00:00",
+  "count": 10
 }

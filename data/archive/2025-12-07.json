@@ -1723,6 +1723,72 @@
           "Response_Date": "2025-12-07T09:24:01"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-07T14:52:17.288292+00:00",
+      "call_count": 10,
+      "calls": [
+        {
+          "Master_Incident_Number": "120725-00130",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "400 BLOCK S GULFVIEW BLVD",
+          "Response_Date": "2025-12-07T08:27:48"
+        },
+        {
+          "Master_Incident_Number": "120725-00148",
+          "Online_Description": "WELFARE CHECK",
+          "Address": "100 BLOCK HAMPTON RD",
+          "Response_Date": "2025-12-07T08:58:41"
+        },
+        {
+          "Master_Incident_Number": "120725-00150",
+          "Online_Description": "THEFT",
+          "Address": "400 BLOCK N JUPITER AVE",
+          "Response_Date": "2025-12-07T09:00:01"
+        },
+        {
+          "Master_Incident_Number": "120725-00154",
+          "Online_Description": "THEFT",
+          "Address": "1900 BLOCK KINGS HWY",
+          "Response_Date": "2025-12-07T09:08:45"
+        },
+        {
+          "Master_Incident_Number": "120725-00157",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "-3400 BLOCK 3449 COURTNEY CAMPBELL CSWY",
+          "Response_Date": "2025-12-07T09:19:20"
+        },
+        {
+          "Master_Incident_Number": "120725-00158",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "3000 BLOCK MCMULLEN BOOTH RD",
+          "Response_Date": "2025-12-07T09:19:43"
+        },
+        {
+          "Master_Incident_Number": "120725-00159",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "RUTH ECKERD HALL DR",
+          "Response_Date": "2025-12-07T09:19:52"
+        },
+        {
+          "Master_Incident_Number": "120725-00164",
+          "Online_Description": "ASSIST CITIZEN",
+          "Address": "600 BLOCK PIERCE ST",
+          "Response_Date": "2025-12-07T09:22:24"
+        },
+        {
+          "Master_Incident_Number": "120725-00166",
+          "Online_Description": "SUSPICIOUS VEHICLE",
+          "Address": "23200 BLOCK US HIGHWAY 19 N",
+          "Response_Date": "2025-12-07T09:29:44"
+        },
+        {
+          "Master_Incident_Number": "120725-00168",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "1000 BLOCK GULF BLVD",
+          "Response_Date": "2025-12-07T09:30:32"
+        }
+      ]
     }
   ]
 }
