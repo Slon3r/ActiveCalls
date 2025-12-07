@@ -1,6 +1,6 @@
 {
-  "total_calls_tracked": 1892,
-  "total_resolved": 1885,
+  "total_calls_tracked": 1895,
+  "total_resolved": 1890,
   "call_types": {
     "DIRECTED PATROL": 619,
     "TRAFFIC STOP": 285,
@@ -11,17 +11,17 @@
     "ALARM": 27,
     "KEEP THE PEACE": 24,
     "WELFARE CHECK": 39,
-    "PARK WALK AND TALK": 170,
+    "PARK WALK AND TALK": 171,
     "SUSPICIOUS PERSON": 76,
     "TRESPASS": 45,
     "PROPERTY FOUND/LOST": 12,
     "THEFT": 25,
     "NEIGHBOR CALL": 10,
-    "911 HANG-UP": 71,
+    "911 HANG-UP": 72,
     "SUSPICIOUS VEHICLE": 12,
     "PANHANDLER/SOLICITOR": 4,
     "VEHICLE ILLEGALLY PARKED": 4,
-    "SUSPICIOUS EVENT": 31,
+    "SUSPICIOUS EVENT": 32,
     "TRAFFIC CRASH": 75,
     "DISABLED VEHICLE": 13,
     "ASSIST CITIZEN": 51,
@@ -760,7 +760,7 @@
     "1900 BLOCK COLES RD": 1,
     "SUNSET POINT RD / EAST DR": 1,
     "N BETTY LN / GROVE ST": 1,
-    "N GARDEN AVE / CLEVELAND ST": 3,
+    "N GARDEN AVE / CLEVELAND ST": 4,
     "DREW ST / N OSCEOLA AVE": 1,
     "1400 BLOCK OVERLEA ST": 1,
     "19000 BLOCK US HIGHWAY 19 N": 1,
@@ -985,11 +985,13 @@
     "2500 BLOCK NURSERY RD": 1,
     "0 BLOCK S GARDEN AVE": 1,
     "18700 BLOCK US HIGHWAY 19 N": 1,
-    "-2600 BLOCK 2668 AUGUSTA DR N": 1
+    "-2600 BLOCK 2668 AUGUSTA DR N": 1,
+    "3100 BLOCK JOHNS PKWY": 1,
+    "COUNTRYCLUB DR / COUNTRYSIDE BLVD": 1
   },
   "hourly_distribution": {
     "0": 68,
-    "1": 61,
+    "1": 64,
     "2": 43,
     "3": 31,
     "4": 16,
@@ -1014,7 +1016,7 @@
     "23": 65
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-07T07:14:08.973346+00:00",
+  "last_updated": "2025-12-07T07:29:10.374750+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 606
+  "total_snapshots": 607
 }
