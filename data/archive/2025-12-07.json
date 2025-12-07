@@ -1,0 +1,89 @@
+{
+  "date": "2025-12-07",
+  "snapshots": [
+    {
+      "timestamp": "2025-12-07T00:57:22.357309+00:00",
+      "call_count": 13,
+      "calls": [
+        {
+          "Master_Incident_Number": "120625-00458",
+          "Online_Description": "PERSON DOWN",
+          "Address": "US HIGHWAY 19 N / NURSERY RD",
+          "Response_Date": "2025-12-06T18:59:47"
+        },
+        {
+          "Master_Incident_Number": "120625-00460",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "S MISSOURI AVE / LOTUS PATH",
+          "Response_Date": "2025-12-06T19:03:10"
+        },
+        {
+          "Master_Incident_Number": "120625-00461",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "LOTUS PATH / S MISSOURI AVE",
+          "Response_Date": "2025-12-06T19:07:15"
+        },
+        {
+          "Master_Incident_Number": "120625-00462",
+          "Online_Description": "PARK WALK AND TALK",
+          "Address": "1000 BLOCK S MISSOURI AVE",
+          "Response_Date": "2025-12-06T19:07:44"
+        },
+        {
+          "Master_Incident_Number": "120625-00473",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "400 BLOCK POINSETTIA AVE",
+          "Response_Date": "2025-12-06T19:17:50"
+        },
+        {
+          "Master_Incident_Number": "120625-00484",
+          "Online_Description": "ASSIST OTHER AGENCY",
+          "Address": "700 BLOCK N GLENWOOD AVE",
+          "Response_Date": "2025-12-06T19:26:47"
+        },
+        {
+          "Master_Incident_Number": "120625-00482",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "-300 BLOCK 499 DAVID AVE",
+          "Response_Date": "2025-12-06T19:28:04"
+        },
+        {
+          "Master_Incident_Number": "120625-00483",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "400 BLOCK MANDALAY AVE",
+          "Response_Date": "2025-12-06T19:29:21"
+        },
+        {
+          "Master_Incident_Number": "120625-00485",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "2300 BLOCK GULF TO BAY BLVD",
+          "Response_Date": "2025-12-06T19:29:34"
+        },
+        {
+          "Master_Incident_Number": "120625-00487",
+          "Online_Description": "PARK WALK AND TALK",
+          "Address": "1500 BLOCK MCMULLEN BOOTH RD",
+          "Response_Date": "2025-12-06T19:31:14"
+        },
+        {
+          "Master_Incident_Number": "120625-00488",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "JEFFERSON AVE / BELLEAIR RD",
+          "Response_Date": "2025-12-06T19:31:25"
+        },
+        {
+          "Master_Incident_Number": "120625-00489",
+          "Online_Description": "PARK WALK AND TALK",
+          "Address": "2000 BLOCK GULF TO BAY BLVD",
+          "Response_Date": "2025-12-06T19:32:43"
+        },
+        {
+          "Master_Incident_Number": "120625-00490",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "PARK PLACE BLVD / GULF TO BAY BLVD",
+          "Response_Date": "2025-12-06T19:36:28"
+        }
+      ]
+    }
+  ]
+}
