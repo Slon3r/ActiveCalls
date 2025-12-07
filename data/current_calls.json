@@ -19,12 +19,6 @@
       "Response_Date": "2025-12-06T23:12:15"
     },
     {
-      "Master_Incident_Number": "120625-00624",
-      "Online_Description": "MISSING PERSON",
-      "Address": "US HIGHWAY 19 N / GULF TO BAY BLVD",
-      "Response_Date": "2025-12-06T23:22:15"
-    },
-    {
       "Master_Incident_Number": "120625-00629",
       "Online_Description": "TRAFFIC STOP",
       "Address": "US HIGHWAY 19 N / NE COACHMAN RD",
@@ -49,12 +43,6 @@
       "Response_Date": "2025-12-06T23:56:45"
     },
     {
-      "Master_Incident_Number": "120725-00007",
-      "Online_Description": "TRAFFIC STOP",
-      "Address": "US HIGHWAY 19 N / HARN BLVD",
-      "Response_Date": "2025-12-07T00:11:54"
-    },
-    {
       "Master_Incident_Number": "120725-00010",
       "Online_Description": "PARK WALK AND TALK",
       "Address": "600 BLOCK COURT ST",
@@ -63,16 +51,16 @@
     {
       "Master_Incident_Number": "120725-00012",
       "Online_Description": "DIRECTED PATROL",
-      "Address": "COURT STREET/ MYRTLE AVE",
+      "Address": "COURT ST / S MYRTLE AVE",
       "Response_Date": "2025-12-07T00:19:10"
     },
     {
-      "Master_Incident_Number": "120725-00016",
+      "Master_Incident_Number": "120725-00017",
       "Online_Description": "DIRECTED PATROL",
-      "Address": "-2900 BLOCK 2998 MEADOW OAK DR S",
-      "Response_Date": "2025-12-07T00:22:53"
+      "Address": "2500 BLOCK NURSERY RD",
+      "Response_Date": "2025-12-07T00:29:10"
     }
   ],
-  "timestamp": "2025-12-07T05:45:36.109472+00:00",
-  "count": 12
+  "timestamp": "2025-12-07T05:53:45.062022+00:00",
+  "count": 10
 }
