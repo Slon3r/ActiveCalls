@@ -13,22 +13,10 @@
       "Response_Date": "2025-12-06T23:12:15"
     },
     {
-      "Master_Incident_Number": "120625-00635",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "2500 BLOCK HARN BLVD",
-      "Response_Date": "2025-12-06T23:44:16"
-    },
-    {
       "Master_Incident_Number": "120725-00023",
       "Online_Description": "DISTURBANCE",
       "Address": "0 BLOCK S GARDEN AVE",
       "Response_Date": "2025-12-07T00:45:57"
-    },
-    {
-      "Master_Incident_Number": "120725-00033",
-      "Online_Description": "TRAFFIC STOP",
-      "Address": "18700 BLOCK US HIGHWAY 19 N",
-      "Response_Date": "2025-12-07T01:08:46"
     },
     {
       "Master_Incident_Number": "120725-00035",
@@ -47,8 +35,14 @@
       "Online_Description": "RECKLESS VEHICLE",
       "Address": "BAYSIDE BRG / BAYSIDE BRG SERVICE RD",
       "Response_Date": "2025-12-07T01:32:19"
+    },
+    {
+      "Master_Incident_Number": "120725-00048",
+      "Online_Description": "911 HANG-UP",
+      "Address": "2600 BLOCK SR 590",
+      "Response_Date": "2025-12-07T01:41:13"
     }
   ],
-  "timestamp": "2025-12-07T06:55:26.649734+00:00",
-  "count": 8
+  "timestamp": "2025-12-07T07:14:08.971073+00:00",
+  "count": 7
 }

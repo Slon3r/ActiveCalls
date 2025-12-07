@@ -1,6 +1,6 @@
 {
-  "total_calls_tracked": 1891,
-  "total_resolved": 1883,
+  "total_calls_tracked": 1892,
+  "total_resolved": 1885,
   "call_types": {
     "DIRECTED PATROL": 619,
     "TRAFFIC STOP": 285,
@@ -17,7 +17,7 @@
     "PROPERTY FOUND/LOST": 12,
     "THEFT": 25,
     "NEIGHBOR CALL": 10,
-    "911 HANG-UP": 70,
+    "911 HANG-UP": 71,
     "SUSPICIOUS VEHICLE": 12,
     "PANHANDLER/SOLICITOR": 4,
     "VEHICLE ILLEGALLY PARKED": 4,
@@ -540,7 +540,7 @@
     "WOODBINE ST / ROLLEN RD": 1,
     "3000 BLOCK WOODSONG LN": 1,
     "2500 BLOCK MCMULLEN BOOTH RD": 1,
-    "2600 BLOCK SR 590": 1,
+    "2600 BLOCK SR 590": 2,
     "2400 BLOCK GULF TO BAY BLVD": 4,
     "2800 BLOCK MCMULLEN BOOTH RD": 1,
     "SABAL SPRINGS CIR / SR 580": 1,
@@ -989,7 +989,7 @@
   },
   "hourly_distribution": {
     "0": 68,
-    "1": 60,
+    "1": 61,
     "2": 43,
     "3": 31,
     "4": 16,
@@ -1014,7 +1014,7 @@
     "23": 65
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-07T06:55:26.651930+00:00",
+  "last_updated": "2025-12-07T07:14:08.973346+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 605
+  "total_snapshots": 606
 }
