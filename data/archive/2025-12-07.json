@@ -1379,6 +1379,18 @@
       "timestamp": "2025-12-07T10:08:43.018142+00:00",
       "call_count": 0,
       "calls": []
+    },
+    {
+      "timestamp": "2025-12-07T10:31:40.032977+00:00",
+      "call_count": 1,
+      "calls": [
+        {
+          "Master_Incident_Number": "120725-00082",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "500 BLOCK N BETTY LN",
+          "Response_Date": "2025-12-07T05:01:23"
+        }
+      ]
     }
   ]
 }
