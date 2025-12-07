@@ -180,6 +180,120 @@
           "Response_Date": "2025-12-06T21:34:00"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-07T03:55:19.577753+00:00",
+      "call_count": 18,
+      "calls": [
+        {
+          "Master_Incident_Number": "120625-00508",
+          "Online_Description": "SUSPICIOUS PERSON",
+          "Address": "1100 BLOCK BECKETT ST",
+          "Response_Date": "2025-12-06T20:07:41"
+        },
+        {
+          "Master_Incident_Number": "120625-00518",
+          "Online_Description": "SHOPLIFTING",
+          "Address": "27000 BLOCK US HIGHWAY 19 N",
+          "Response_Date": "2025-12-06T20:25:57"
+        },
+        {
+          "Master_Incident_Number": "120625-00536",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "1600 BLOCK N ARCTURAS AVE",
+          "Response_Date": "2025-12-06T20:56:32"
+        },
+        {
+          "Master_Incident_Number": "120625-00560",
+          "Online_Description": "MISSING PERSON",
+          "Address": "1400 BLOCK N BETTY LN",
+          "Response_Date": "2025-12-06T21:49:24"
+        },
+        {
+          "Master_Incident_Number": "120625-00571",
+          "Online_Description": "DRUNK DRIVER",
+          "Address": "S FORT HARRISON AVE / CHESTNUT ST",
+          "Response_Date": "2025-12-06T22:08:53"
+        },
+        {
+          "Master_Incident_Number": "120625-00573",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "400 BLOCK POINSETTIA AVE",
+          "Response_Date": "2025-12-06T22:14:05"
+        },
+        {
+          "Master_Incident_Number": "120625-00574",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "600 BLOCK CLEVELAND ST",
+          "Response_Date": "2025-12-06T22:16:54"
+        },
+        {
+          "Master_Incident_Number": "120625-00578",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "500 BLOCK CLEVELAND ST",
+          "Response_Date": "2025-12-06T22:19:39"
+        },
+        {
+          "Master_Incident_Number": "120625-00579",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "1200 BLOCK HOLT AVE",
+          "Response_Date": "2025-12-06T22:20:25"
+        },
+        {
+          "Master_Incident_Number": "120625-00580",
+          "Online_Description": "BATTERY",
+          "Address": "1100 BLOCK DRUID RD",
+          "Response_Date": "2025-12-06T22:22:02"
+        },
+        {
+          "Master_Incident_Number": "120625-00581",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "N GARDEN AVE / CLEVELAND ST",
+          "Response_Date": "2025-12-06T22:24:46"
+        },
+        {
+          "Master_Incident_Number": "120625-00582",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "-100 BLOCK 148 S GULFVIEW BLVD",
+          "Response_Date": "2025-12-06T22:24:56"
+        },
+        {
+          "Master_Incident_Number": "120625-00583",
+          "Online_Description": "PARK WALK AND TALK",
+          "Address": "NORTH PARKING GARAGE",
+          "Response_Date": "2025-12-06T22:27:44"
+        },
+        {
+          "Master_Incident_Number": "120625-00585",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "500 BLOCK S FORT HARRISON AVE",
+          "Response_Date": "2025-12-06T22:29:27"
+        },
+        {
+          "Master_Incident_Number": "120625-00587",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "BAYSHORE BLVD / COURTNEY CAMPBELL CSWY",
+          "Response_Date": "2025-12-06T22:31:05"
+        },
+        {
+          "Master_Incident_Number": "120625-00590",
+          "Online_Description": "DISTURBANCE",
+          "Address": "2500 BLOCK HARN BLVD",
+          "Response_Date": "2025-12-06T22:32:38"
+        },
+        {
+          "Master_Incident_Number": "120625-00588",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "COURTNEY CAMPBELL CSWY / DR KIRAN C PATEL BLVD",
+          "Response_Date": "2025-12-06T22:32:35"
+        },
+        {
+          "Master_Incident_Number": "120625-00589",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "2600 BLOCK SABAL SPRINGS DR",
+          "Response_Date": "2025-12-06T22:32:39"
+        }
+      ]
     }
   ]
 }
