@@ -1,11 +1,11 @@
 {
-  "total_calls_tracked": 1885,
-  "total_resolved": 1875,
+  "total_calls_tracked": 1886,
+  "total_resolved": 1880,
   "call_types": {
     "DIRECTED PATROL": 618,
     "TRAFFIC STOP": 284,
     "DRUNK DRIVER": 6,
-    "DISTURBANCE": 45,
+    "DISTURBANCE": 46,
     "BATTERY": 12,
     "CRIMINAL MISCHIEF": 11,
     "ALARM": 26,
@@ -982,10 +982,11 @@
     "-19000 BLOCK 19128 US HIGHWAY 19 N": 1,
     "-800 BLOCK 899 S MISSOURI AVE": 1,
     "COURT STREET/ MYRTLE AVE": 1,
-    "2500 BLOCK NURSERY RD": 1
+    "2500 BLOCK NURSERY RD": 1,
+    "0 BLOCK S GARDEN AVE": 1
   },
   "hourly_distribution": {
-    "0": 67,
+    "0": 68,
     "1": 55,
     "2": 43,
     "3": 31,
@@ -1011,7 +1012,7 @@
     "23": 65
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-07T05:53:45.064025+00:00",
+  "last_updated": "2025-12-07T06:15:26.446699+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 602
+  "total_snapshots": 603
 }

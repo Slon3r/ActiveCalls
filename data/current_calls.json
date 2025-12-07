@@ -25,42 +25,18 @@
       "Response_Date": "2025-12-06T23:32:28"
     },
     {
-      "Master_Incident_Number": "120625-00633",
-      "Online_Description": "ASSIST CITIZEN",
-      "Address": "1100 BLOCK DRUID RD",
-      "Response_Date": "2025-12-06T23:39:42"
-    },
-    {
       "Master_Incident_Number": "120625-00635",
       "Online_Description": "DIRECTED PATROL",
       "Address": "2500 BLOCK HARN BLVD",
       "Response_Date": "2025-12-06T23:44:16"
     },
     {
-      "Master_Incident_Number": "120625-00640",
-      "Online_Description": "PARK WALK AND TALK",
-      "Address": "-800 BLOCK 899 S MISSOURI AVE",
-      "Response_Date": "2025-12-06T23:56:45"
-    },
-    {
-      "Master_Incident_Number": "120725-00010",
-      "Online_Description": "PARK WALK AND TALK",
-      "Address": "600 BLOCK COURT ST",
-      "Response_Date": "2025-12-07T00:18:10"
-    },
-    {
-      "Master_Incident_Number": "120725-00012",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "COURT ST / S MYRTLE AVE",
-      "Response_Date": "2025-12-07T00:19:10"
-    },
-    {
-      "Master_Incident_Number": "120725-00017",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "2500 BLOCK NURSERY RD",
-      "Response_Date": "2025-12-07T00:29:10"
+      "Master_Incident_Number": "120725-00023",
+      "Online_Description": "DISTURBANCE",
+      "Address": "0 BLOCK S GARDEN AVE",
+      "Response_Date": "2025-12-07T00:45:57"
     }
   ],
-  "timestamp": "2025-12-07T05:53:45.062022+00:00",
-  "count": 10
+  "timestamp": "2025-12-07T06:15:26.428432+00:00",
+  "count": 6
 }
