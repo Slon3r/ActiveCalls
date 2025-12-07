@@ -1272,6 +1272,30 @@
           "Response_Date": "2025-12-07T01:32:19"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-07T08:59:15.125766+00:00",
+      "call_count": 3,
+      "calls": [
+        {
+          "Master_Incident_Number": "120725-00025",
+          "Online_Description": "BATTERY",
+          "Address": "1500 BLOCK GULF TO BAY BLVD",
+          "Response_Date": "2025-12-07T00:54:35"
+        },
+        {
+          "Master_Incident_Number": "120725-00039",
+          "Online_Description": "ALARM",
+          "Address": "1600 BLOCK GULF TO BAY BLVD",
+          "Response_Date": "2025-12-07T01:14:48"
+        },
+        {
+          "Master_Incident_Number": "120725-00045",
+          "Online_Description": "RECKLESS VEHICLE",
+          "Address": "BAYSIDE BRG / BAYSIDE BRG SERVICE RD",
+          "Response_Date": "2025-12-07T01:32:19"
+        }
+      ]
     }
   ]
 }
