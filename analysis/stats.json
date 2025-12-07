@@ -1,5 +1,5 @@
 {
-  "total_calls_tracked": 1905,
+  "total_calls_tracked": 1906,
   "total_resolved": 1904,
   "call_types": {
     "DIRECTED PATROL": 621,
@@ -11,7 +11,7 @@
     "ALARM": 28,
     "KEEP THE PEACE": 24,
     "WELFARE CHECK": 39,
-    "PARK WALK AND TALK": 171,
+    "PARK WALK AND TALK": 172,
     "SUSPICIOUS PERSON": 77,
     "TRESPASS": 46,
     "PROPERTY FOUND/LOST": 12,
@@ -185,7 +185,7 @@
     "-1400 BLOCK 1486 OTTEN ST": 1,
     "2800 BLOCK GLORIA CT": 4,
     "DREW ST / N BELCHER RD": 6,
-    "900 BLOCK GULF BLVD": 2,
+    "900 BLOCK GULF BLVD": 3,
     "POINSETTIA AVE / PAPAYA ST": 1,
     "600 BLOCK CLEVELAND ST": 9,
     "HAMDEN DR / CORONADO DR": 1,
@@ -1000,7 +1000,7 @@
     "2": 43,
     "3": 34,
     "4": 19,
-    "5": 44,
+    "5": 45,
     "6": 57,
     "7": 48,
     "8": 110,
@@ -1021,7 +1021,7 @@
     "23": 65
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-07T10:31:40.035545+00:00",
+  "last_updated": "2025-12-07T10:42:57.801568+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 620
+  "total_snapshots": 621
 }
