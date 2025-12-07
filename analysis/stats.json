@@ -1,5 +1,5 @@
 {
-  "total_calls_tracked": 1895,
+  "total_calls_tracked": 1896,
   "total_resolved": 1890,
   "call_types": {
     "DIRECTED PATROL": 619,
@@ -13,7 +13,7 @@
     "WELFARE CHECK": 39,
     "PARK WALK AND TALK": 171,
     "SUSPICIOUS PERSON": 76,
-    "TRESPASS": 45,
+    "TRESPASS": 46,
     "PROPERTY FOUND/LOST": 12,
     "THEFT": 25,
     "NEIGHBOR CALL": 10,
@@ -146,7 +146,7 @@
     "1200 BLOCK S MISSOURI AVE": 12,
     "2000 BLOCK N HIGHLAND AVE": 8,
     "N DUNCAN AVE / DREW ST": 1,
-    "1100 BLOCK COURT ST": 2,
+    "1100 BLOCK COURT ST": 3,
     "-1300 BLOCK BLK ADMIRAL WOODSON LN": 1,
     "19300 BLOCK US HIGHWAY 19 N": 2,
     "600 BLOCK PIERCE ST": 16,
@@ -991,7 +991,7 @@
   },
   "hourly_distribution": {
     "0": 68,
-    "1": 64,
+    "1": 65,
     "2": 43,
     "3": 31,
     "4": 16,
@@ -1016,7 +1016,7 @@
     "23": 65
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-07T07:29:10.374750+00:00",
+  "last_updated": "2025-12-07T07:39:04.089219+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 607
+  "total_snapshots": 608
 }
