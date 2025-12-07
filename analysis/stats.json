@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 1996,
-  "total_resolved": 1991,
+  "total_calls_tracked": 1999,
+  "total_resolved": 1992,
   "call_types": {
-    "DIRECTED PATROL": 651,
+    "DIRECTED PATROL": 652,
     "TRAFFIC STOP": 296,
     "DRUNK DRIVER": 6,
     "DISTURBANCE": 49,
@@ -10,7 +10,7 @@
     "CRIMINAL MISCHIEF": 11,
     "ALARM": 28,
     "KEEP THE PEACE": 24,
-    "WELFARE CHECK": 42,
+    "WELFARE CHECK": 44,
     "PARK WALK AND TALK": 180,
     "SUSPICIOUS PERSON": 81,
     "TRESPASS": 47,
@@ -94,7 +94,7 @@
     "1400 BLOCK LAURA ST": 3,
     "ENTERPRISE RD E / VILLAGE DR": 2,
     "GULF TO BAY BLVD / HAMPTON RD": 1,
-    "2100 BLOCK GULF TO BAY BLVD": 19,
+    "2100 BLOCK GULF TO BAY BLVD": 20,
     "1300 BLOCK CLEVELAND ST": 10,
     "2100 BLOCK BELCHER RD": 1,
     "SAND KEY PARK ENTRANCE": 5,
@@ -323,7 +323,7 @@
     "2900 BLOCK GULF TO BAY BLVD": 7,
     "MONTCLAIR RD / N HERCULES AVE": 1,
     "1000 BLOCK S MISSOURI AVE": 2,
-    "1400 BLOCK S BELCHER RD": 3,
+    "1400 BLOCK S BELCHER RD": 4,
     "-500 BLOCK BLK ISLAND WAY": 1,
     "3200 BLOCK COURTNEY CAMPBELL CSWY": 5,
     "300 BLOCK N HIGHLAND AVE": 1,
@@ -1018,7 +1018,8 @@
     "0 BLOCK GLENDALE ST": 1,
     "800 BLOCK LANTERN WAY": 1,
     "GULF TO BAY BLVD / S HERCULES AVE": 1,
-    "1400 BLOCK BARBARA AVE": 1
+    "1400 BLOCK BARBARA AVE": 1,
+    "800 BLOCK PINELLAS ST": 1
   },
   "hourly_distribution": {
     "0": 69,
@@ -1036,8 +1037,8 @@
     "12": 124,
     "13": 121,
     "14": 143,
-    "15": 137,
-    "16": 119,
+    "15": 139,
+    "16": 120,
     "17": 104,
     "18": 93,
     "19": 31,
@@ -1047,7 +1048,7 @@
     "23": 65
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-07T21:12:01.896719+00:00",
+  "last_updated": "2025-12-07T21:27:09.193186+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 667
+  "total_snapshots": 668
 }
