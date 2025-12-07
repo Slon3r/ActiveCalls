@@ -9114,3 +9114,13 @@ TOTAL ACTIVE CALLS: 1
 
 --- NEW CALLS (1) ---
 [NEW] 120725-00084 | ASSIST OTHER AGENCY | 36300 BLOCK EAST LAKE RD | Response: 05:39 AM
+
+================================================================================
+TIMESTAMP: 2025-12-07T11:28:39.749047+00:00
+TOTAL ACTIVE CALLS: 4
+================================================================================
+
+--- NEW CALLS (3) ---
+[NEW] 120725-00078 | DIRECTED PATROL | 200 BLOCK S GLENWOOD AVE | Response: 06:07 AM
+[NEW] 120725-00087 | DIRECTED PATROL | 0 BLOCK PARK PLACE BLVD N | Response: 05:59 AM
+[NEW] 120725-00092 | PARK WALK AND TALK | 300 BLOCK CORONADO DR | Response: 06:02 AM

@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 1907,
+  "total_calls_tracked": 1910,
   "total_resolved": 1906,
   "call_types": {
-    "DIRECTED PATROL": 621,
+    "DIRECTED PATROL": 623,
     "TRAFFIC STOP": 285,
     "DRUNK DRIVER": 6,
     "DISTURBANCE": 47,
@@ -11,7 +11,7 @@
     "ALARM": 28,
     "KEEP THE PEACE": 24,
     "WELFARE CHECK": 39,
-    "PARK WALK AND TALK": 172,
+    "PARK WALK AND TALK": 173,
     "SUSPICIOUS PERSON": 77,
     "TRESPASS": 46,
     "PROPERTY FOUND/LOST": 12,
@@ -158,7 +158,7 @@
     "1300 BLOCK FRANKLIN ST": 2,
     "SUNSET MEADOW DR / COLONY REED LN": 1,
     "0 BLOCK BAY ESPLANADE": 5,
-    "200 BLOCK S GLENWOOD AVE": 22,
+    "200 BLOCK S GLENWOOD AVE": 23,
     "S KEENE RD / DRUID RD": 2,
     "GULF TO BAY BLVD / BAMBOO LN": 2,
     "GULF TO BAY BLVD / BROOKSIDE DR": 1,
@@ -207,7 +207,7 @@
     "1000 BLOCK N MADISON AVE": 1,
     "2800 BLOCK DREW ST": 2,
     "US HIGHWAY 19 N / GULF TO BAY BLVD": 3,
-    "300 BLOCK CORONADO DR": 15,
+    "300 BLOCK CORONADO DR": 16,
     "23600 BLOCK US HIGHWAY 19 N": 4,
     "300 BLOCK MANDALAY AVE": 3,
     "JONES ST / FERN AVE": 1,
@@ -811,7 +811,7 @@
     "2500 BLOCK SEA WIND WAY": 1,
     "S MISSOURI AVE / BELLEVUE BLVD": 1,
     "3200 BLOCK MCMULLEN BOOTH RD": 2,
-    "0 BLOCK PARK PLACE BLVD N": 1,
+    "0 BLOCK PARK PLACE BLVD N": 2,
     "1500 BLOCK MCMULLEN BOOTH RD": 2,
     "700 BLOCK ELDRIDGE ST": 1,
     "2700 BLOCK REGENCY OAKS BLVD": 1,
@@ -1001,8 +1001,8 @@
     "2": 43,
     "3": 34,
     "4": 19,
-    "5": 46,
-    "6": 57,
+    "5": 47,
+    "6": 59,
     "7": 48,
     "8": 110,
     "9": 118,
@@ -1022,7 +1022,7 @@
     "23": 65
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-07T11:17:37.185762+00:00",
+  "last_updated": "2025-12-07T11:28:39.751722+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 624
+  "total_snapshots": 625
 }
