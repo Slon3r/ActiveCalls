@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 1871,
-  "total_resolved": 1859,
+  "total_calls_tracked": 1876,
+  "total_resolved": 1864,
   "call_types": {
-    "DIRECTED PATROL": 613,
+    "DIRECTED PATROL": 614,
     "TRAFFIC STOP": 282,
     "DRUNK DRIVER": 6,
     "DISTURBANCE": 44,
@@ -11,7 +11,7 @@
     "ALARM": 26,
     "KEEP THE PEACE": 24,
     "WELFARE CHECK": 39,
-    "PARK WALK AND TALK": 167,
+    "PARK WALK AND TALK": 168,
     "SUSPICIOUS PERSON": 76,
     "TRESPASS": 44,
     "PROPERTY FOUND/LOST": 12,
@@ -21,10 +21,10 @@
     "SUSPICIOUS VEHICLE": 12,
     "PANHANDLER/SOLICITOR": 4,
     "VEHICLE ILLEGALLY PARKED": 4,
-    "SUSPICIOUS EVENT": 30,
+    "SUSPICIOUS EVENT": 31,
     "TRAFFIC CRASH": 75,
     "DISABLED VEHICLE": 13,
-    "ASSIST CITIZEN": 50,
+    "ASSIST CITIZEN": 51,
     "ASSIST OTHER AGENCY": 30,
     "FIRE": 2,
     "FRAUD": 14,
@@ -36,7 +36,7 @@
     "CIVIL MATTER": 12,
     "DOMESTIC": 16,
     "ANIMAL CASE": 9,
-    "MISSING PERSON": 20,
+    "MISSING PERSON": 21,
     "BUILDING CHECK": 5,
     "SHOPLIFTING": 8,
     "DECEASED PERSON": 2,
@@ -69,7 +69,7 @@
     "-800 BLOCK 1099 MARSHALL ST": 1,
     "US HIGHWAY 19 N / DREW ST": 14,
     "US HIGHWAY 19 N / SR 590": 5,
-    "1100 BLOCK DRUID RD": 4,
+    "1100 BLOCK DRUID RD": 5,
     "2100 BLOCK RANGE RD": 1,
     "0 BLOCK ACACIA ST": 5,
     "-600 BLOCK 647 BAY ESPLANADE": 1,
@@ -117,7 +117,7 @@
     "21200 BLOCK US HIGHWAY 19 N": 5,
     "1700 BLOCK SUNSET POINT RD": 1,
     "2300 BLOCK GULF TO BAY BLVD": 4,
-    "1200 BLOCK CLEVELAND ST": 9,
+    "1200 BLOCK CLEVELAND ST": 10,
     "-500 BLOCK 549 MANDALAY AVE": 1,
     "27000 BLOCK US HIGHWAY 19 N": 17,
     "DRIVEWAY PARKING": 2,
@@ -198,7 +198,7 @@
     "500 BLOCK MANDALAY AVE": 8,
     "3000 BLOCK HAVERFORD DR": 2,
     "DREW ST / OLD COACHMAN RD": 3,
-    "2500 BLOCK HARN BLVD": 18,
+    "2500 BLOCK HARN BLVD": 19,
     "1000 BLOCK MCMULLEN BOOTH RD": 1,
     "1200 BLOCK S MARTIN LUTHER KING JR AVE": 1,
     "2000 BLOCK PARAGON CIR W": 1,
@@ -206,7 +206,7 @@
     "S MAIN AVE / RAINBOW DR": 5,
     "1000 BLOCK N MADISON AVE": 1,
     "2800 BLOCK DREW ST": 2,
-    "US HIGHWAY 19 N / GULF TO BAY BLVD": 2,
+    "US HIGHWAY 19 N / GULF TO BAY BLVD": 3,
     "300 BLOCK CORONADO DR": 15,
     "23600 BLOCK US HIGHWAY 19 N": 4,
     "300 BLOCK MANDALAY AVE": 3,
@@ -979,7 +979,8 @@
     "HENDRICKS ST/N GARDEN AVE": 1,
     "0 BLOCK 37 LAUREL ST": 1,
     "1800 BLOCK WASHINGTON AVE": 1,
-    "-19000 BLOCK 19128 US HIGHWAY 19 N": 1
+    "-19000 BLOCK 19128 US HIGHWAY 19 N": 1,
+    "-800 BLOCK 899 S MISSOURI AVE": 1
   },
   "hourly_distribution": {
     "0": 58,
@@ -1005,10 +1006,10 @@
     "20": 36,
     "21": 40,
     "22": 90,
-    "23": 60
+    "23": 65
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-07T04:59:01.439688+00:00",
+  "last_updated": "2025-12-07T05:21:36.991223+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 598
+  "total_snapshots": 599
 }
