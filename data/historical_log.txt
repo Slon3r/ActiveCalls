@@ -9453,3 +9453,14 @@ TOTAL ACTIVE CALLS: 7
 
 --- NEW CALLS (1) ---
 [NEW] 120725-00224 | TRAFFIC STOP | DREW ST / N EAST AVE | Response: 12:15 PM
+
+================================================================================
+TIMESTAMP: 2025-12-07T17:51:04.048511+00:00
+TOTAL ACTIVE CALLS: 7
+================================================================================
+
+--- NEW CALLS (1) ---
+[NEW] 120725-00226 | TRAFFIC STOP | CHARLES AVE / DANIEL ST | Response: 12:25 PM
+
+--- RESOLVED CALLS (1) ---
+[RESOLVED] 120725-00224 | TRAFFIC STOP | DREW ST / N EAST AVE | Response: 12:15 PM

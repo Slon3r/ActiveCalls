@@ -37,12 +37,12 @@
       "Response_Date": "2025-12-07T12:12:49"
     },
     {
-      "Master_Incident_Number": "120725-00224",
+      "Master_Incident_Number": "120725-00226",
       "Online_Description": "TRAFFIC STOP",
-      "Address": "DREW ST / N EAST AVE",
-      "Response_Date": "2025-12-07T12:15:48"
+      "Address": "CHARLES AVE / DANIEL ST",
+      "Response_Date": "2025-12-07T12:25:42"
     }
   ],
-  "timestamp": "2025-12-07T17:42:36.870267+00:00",
+  "timestamp": "2025-12-07T17:51:04.048511+00:00",
   "count": 7
 }
