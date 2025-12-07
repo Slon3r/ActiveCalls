@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 1976,
-  "total_resolved": 1972,
+  "total_calls_tracked": 1978,
+  "total_resolved": 1974,
   "call_types": {
-    "DIRECTED PATROL": 647,
+    "DIRECTED PATROL": 648,
     "TRAFFIC STOP": 296,
     "DRUNK DRIVER": 6,
     "DISTURBANCE": 49,
@@ -11,7 +11,7 @@
     "ALARM": 28,
     "KEEP THE PEACE": 24,
     "WELFARE CHECK": 42,
-    "PARK WALK AND TALK": 177,
+    "PARK WALK AND TALK": 178,
     "SUSPICIOUS PERSON": 80,
     "TRESPASS": 47,
     "PROPERTY FOUND/LOST": 12,
@@ -104,7 +104,7 @@
     "MCMULLEN BOOTH RD / SR 590": 3,
     "LAKEVIEW RD / S MISSOURI AVE": 2,
     "2400 BLOCK MELLOW LN": 1,
-    "1200 BLOCK GULF BLVD": 10,
+    "1200 BLOCK GULF BLVD": 11,
     "1900 BLOCK N BELCHER RD": 1,
     "20100 BLOCK US HIGHWAY 19 N": 1,
     "CLEVELAND ST / N MAIN AVE": 1,
@@ -745,7 +745,7 @@
     "24500 BLOCK US HIGHWAY 19 N": 1,
     "1900 BLOCK E SKYLINE DR": 1,
     "-2700 BLOCK BLK LANDMARK DR": 1,
-    "0 BLOCK SAND KEY PARKING": 1,
+    "0 BLOCK SAND KEY PARKING": 2,
     "200 BLOCK DORY PSGE": 1,
     "100 BLOCK PIERCE ST": 1,
     "COUNTRYSIDE BLVD / BRAELOCH CIR W": 1,
@@ -1032,7 +1032,7 @@
     "10": 123,
     "11": 120,
     "12": 124,
-    "13": 116,
+    "13": 118,
     "14": 136,
     "15": 130,
     "16": 119,
@@ -1045,7 +1045,7 @@
     "23": 65
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-07T18:48:28.631831+00:00",
+  "last_updated": "2025-12-07T18:56:06.706681+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 655
+  "total_snapshots": 656
 }
