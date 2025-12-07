@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 2011,
-  "total_resolved": 2005,
+  "total_calls_tracked": 2014,
+  "total_resolved": 2008,
   "call_types": {
-    "DIRECTED PATROL": 656,
+    "DIRECTED PATROL": 657,
     "TRAFFIC STOP": 297,
     "DRUNK DRIVER": 6,
     "DISTURBANCE": 49,
@@ -15,7 +15,7 @@
     "SUSPICIOUS PERSON": 82,
     "TRESPASS": 47,
     "PROPERTY FOUND/LOST": 12,
-    "THEFT": 26,
+    "THEFT": 27,
     "NEIGHBOR CALL": 11,
     "911 HANG-UP": 77,
     "SUSPICIOUS VEHICLE": 15,
@@ -51,7 +51,7 @@
     "CHILD PROTECTION INVESTIGATION": 4,
     "DRUNK PEDESTRIAN": 2,
     "ASSAULT": 5,
-    "PERSON DOWN": 7,
+    "PERSON DOWN": 8,
     "ROBBERY": 1,
     "INJUNCTION VIOLATION": 1,
     "STALKING": 1,
@@ -211,7 +211,7 @@
     "23600 BLOCK US HIGHWAY 19 N": 4,
     "300 BLOCK MANDALAY AVE": 3,
     "JONES ST / FERN AVE": 1,
-    "1600 BLOCK GULF TO BAY BLVD": 12,
+    "1600 BLOCK GULF TO BAY BLVD": 13,
     "1600 BLOCK DARTMOUTH ST": 1,
     "HAMDEN DR / BRIGHTWATER DR": 2,
     "HAMPTON RD / GULF TO BAY BLVD": 2,
@@ -325,7 +325,7 @@
     "1000 BLOCK S MISSOURI AVE": 2,
     "1400 BLOCK S BELCHER RD": 4,
     "-500 BLOCK BLK ISLAND WAY": 1,
-    "3200 BLOCK COURTNEY CAMPBELL CSWY": 5,
+    "3200 BLOCK COURTNEY CAMPBELL CSWY": 6,
     "300 BLOCK N HIGHLAND AVE": 1,
     "2700 BLOCK WINDING WOOD DR": 1,
     "1700 BLOCK GULF TO BAY BLVD": 7,
@@ -1020,7 +1020,8 @@
     "GULF TO BAY BLVD / S HERCULES AVE": 1,
     "1400 BLOCK BARBARA AVE": 1,
     "800 BLOCK PINELLAS ST": 1,
-    "N BETTY LN / DREW ST": 1
+    "N BETTY LN / DREW ST": 1,
+    "BRIGHTWATER DR / HAMDEN DR": 1
   },
   "hourly_distribution": {
     "0": 69,
@@ -1040,7 +1041,7 @@
     "14": 143,
     "15": 139,
     "16": 127,
-    "17": 109,
+    "17": 112,
     "18": 93,
     "19": 31,
     "20": 36,
@@ -1049,7 +1050,7 @@
     "23": 65
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-07T22:42:54.441383+00:00",
+  "last_updated": "2025-12-07T22:50:52.520809+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 674
+  "total_snapshots": 675
 }
