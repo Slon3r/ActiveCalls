@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 2017,
-  "total_resolved": 2012,
+  "total_calls_tracked": 2020,
+  "total_resolved": 2016,
   "call_types": {
-    "DIRECTED PATROL": 659,
+    "DIRECTED PATROL": 661,
     "TRAFFIC STOP": 298,
     "DRUNK DRIVER": 6,
     "DISTURBANCE": 49,
@@ -23,7 +23,7 @@
     "VEHICLE ILLEGALLY PARKED": 4,
     "SUSPICIOUS EVENT": 37,
     "TRAFFIC CRASH": 78,
-    "DISABLED VEHICLE": 13,
+    "DISABLED VEHICLE": 14,
     "ASSIST CITIZEN": 53,
     "ASSIST OTHER AGENCY": 34,
     "FIRE": 2,
@@ -183,7 +183,7 @@
     "STOCKWOOD DR / LANDMARK DR": 1,
     "1400 BLOCK SUNSET POINT RD": 4,
     "-1400 BLOCK 1486 OTTEN ST": 1,
-    "2800 BLOCK GLORIA CT": 4,
+    "2800 BLOCK GLORIA CT": 5,
     "DREW ST / N BELCHER RD": 6,
     "900 BLOCK GULF BLVD": 3,
     "POINSETTIA AVE / PAPAYA ST": 1,
@@ -1021,7 +1021,9 @@
     "1400 BLOCK BARBARA AVE": 1,
     "800 BLOCK PINELLAS ST": 1,
     "N BETTY LN / DREW ST": 1,
-    "BRIGHTWATER DR / HAMDEN DR": 1
+    "BRIGHTWATER DR / HAMDEN DR": 1,
+    "-3300 BLOCK 3334 HYDE PARK DR": 1,
+    "ENT/INVER": 1
   },
   "hourly_distribution": {
     "0": 69,
@@ -1042,7 +1044,7 @@
     "15": 139,
     "16": 127,
     "17": 115,
-    "18": 93,
+    "18": 96,
     "19": 31,
     "20": 36,
     "21": 40,
@@ -1050,7 +1052,7 @@
     "23": 65
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-07T23:20:09.339144+00:00",
+  "last_updated": "2025-12-07T23:31:44.559745+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 677
+  "total_snapshots": 678
 }
