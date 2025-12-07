@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 1939,
-  "total_resolved": 1929,
+  "total_calls_tracked": 1942,
+  "total_resolved": 1933,
   "call_types": {
     "DIRECTED PATROL": 637,
-    "TRAFFIC STOP": 289,
+    "TRAFFIC STOP": 291,
     "DRUNK DRIVER": 6,
     "DISTURBANCE": 47,
     "BATTERY": 13,
@@ -28,7 +28,7 @@
     "ASSIST OTHER AGENCY": 31,
     "FIRE": 2,
     "FRAUD": 14,
-    "RECKLESS VEHICLE": 6,
+    "RECKLESS VEHICLE": 7,
     "JUVENILE CASE": 8,
     "HAZARD": 4,
     "UNKNOWN PROBLEM": 13,
@@ -94,7 +94,7 @@
     "1400 BLOCK LAURA ST": 3,
     "ENTERPRISE RD E / VILLAGE DR": 2,
     "GULF TO BAY BLVD / HAMPTON RD": 1,
-    "2100 BLOCK GULF TO BAY BLVD": 18,
+    "2100 BLOCK GULF TO BAY BLVD": 19,
     "1300 BLOCK CLEVELAND ST": 10,
     "2100 BLOCK BELCHER RD": 1,
     "SAND KEY PARK ENTRANCE": 5,
@@ -575,7 +575,7 @@
     "ISLAND WAY/MEMORIAL CSWY": 1,
     "600 BLOCK WILDWOOD WAY": 1,
     "FRANKLIN ST / GULF TO BAY BLVD": 1,
-    "900 BLOCK N MARTIN LUTHER KING JR AVE": 3,
+    "900 BLOCK N MARTIN LUTHER KING JR AVE": 4,
     "1800 BLOCK MCMULLEN BOOTH RD": 1,
     "N BETTY LN / ENGMAN ST": 2,
     "1000 BLOCK APACHE TRAIL": 1,
@@ -1004,7 +1004,8 @@
     "-700 BLOCK 898 N BELCHER RD": 1,
     "400 BLOCK N JUPITER AVE": 1,
     "-3400 BLOCK 3449 COURTNEY CAMPBELL CSWY": 1,
-    "1900 BLOCK KINGS HWY": 1
+    "1900 BLOCK KINGS HWY": 1,
+    "N MARTIN LUTHER KING JR AVE / CLEVELAND ST": 1
   },
   "hourly_distribution": {
     "0": 69,
@@ -1016,7 +1017,7 @@
     "6": 63,
     "7": 52,
     "8": 120,
-    "9": 129,
+    "9": 132,
     "10": 117,
     "11": 107,
     "12": 114,
@@ -1033,7 +1034,7 @@
     "23": 65
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-07T14:52:17.291383+00:00",
+  "last_updated": "2025-12-07T14:59:51.384858+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 638
+  "total_snapshots": 639
 }

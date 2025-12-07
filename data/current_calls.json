@@ -13,12 +13,6 @@
       "Response_Date": "2025-12-07T08:58:41"
     },
     {
-      "Master_Incident_Number": "120725-00150",
-      "Online_Description": "THEFT",
-      "Address": "400 BLOCK N JUPITER AVE",
-      "Response_Date": "2025-12-07T09:00:01"
-    },
-    {
       "Master_Incident_Number": "120725-00154",
       "Online_Description": "THEFT",
       "Address": "1900 BLOCK KINGS HWY",
@@ -29,12 +23,6 @@
       "Online_Description": "DIRECTED PATROL",
       "Address": "-3400 BLOCK 3449 COURTNEY CAMPBELL CSWY",
       "Response_Date": "2025-12-07T09:19:20"
-    },
-    {
-      "Master_Incident_Number": "120725-00158",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "3000 BLOCK MCMULLEN BOOTH RD",
-      "Response_Date": "2025-12-07T09:19:43"
     },
     {
       "Master_Incident_Number": "120725-00159",
@@ -49,18 +37,24 @@
       "Response_Date": "2025-12-07T09:22:24"
     },
     {
-      "Master_Incident_Number": "120725-00166",
-      "Online_Description": "SUSPICIOUS VEHICLE",
-      "Address": "23200 BLOCK US HIGHWAY 19 N",
-      "Response_Date": "2025-12-07T09:29:44"
+      "Master_Incident_Number": "120725-00169",
+      "Online_Description": "RECKLESS VEHICLE",
+      "Address": "900 BLOCK N MARTIN LUTHER KING JR AVE",
+      "Response_Date": "2025-12-07T09:28:39"
     },
     {
-      "Master_Incident_Number": "120725-00168",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "1000 BLOCK GULF BLVD",
-      "Response_Date": "2025-12-07T09:30:32"
+      "Master_Incident_Number": "120725-00172",
+      "Online_Description": "TRAFFIC STOP",
+      "Address": "2100 BLOCK GULF TO BAY BLVD",
+      "Response_Date": "2025-12-07T09:37:46"
+    },
+    {
+      "Master_Incident_Number": "120725-00173",
+      "Online_Description": "TRAFFIC STOP",
+      "Address": "N MARTIN LUTHER KING JR AVE / CLEVELAND ST",
+      "Response_Date": "2025-12-07T09:38:09"
     }
   ],
-  "timestamp": "2025-12-07T14:52:17.288292+00:00",
-  "count": 10
+  "timestamp": "2025-12-07T14:59:51.381745+00:00",
+  "count": 9
 }

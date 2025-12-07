@@ -1789,6 +1789,66 @@
           "Response_Date": "2025-12-07T09:30:32"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-07T14:59:51.381745+00:00",
+      "call_count": 9,
+      "calls": [
+        {
+          "Master_Incident_Number": "120725-00130",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "400 BLOCK S GULFVIEW BLVD",
+          "Response_Date": "2025-12-07T08:27:48"
+        },
+        {
+          "Master_Incident_Number": "120725-00148",
+          "Online_Description": "WELFARE CHECK",
+          "Address": "100 BLOCK HAMPTON RD",
+          "Response_Date": "2025-12-07T08:58:41"
+        },
+        {
+          "Master_Incident_Number": "120725-00154",
+          "Online_Description": "THEFT",
+          "Address": "1900 BLOCK KINGS HWY",
+          "Response_Date": "2025-12-07T09:08:45"
+        },
+        {
+          "Master_Incident_Number": "120725-00157",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "-3400 BLOCK 3449 COURTNEY CAMPBELL CSWY",
+          "Response_Date": "2025-12-07T09:19:20"
+        },
+        {
+          "Master_Incident_Number": "120725-00159",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "RUTH ECKERD HALL DR",
+          "Response_Date": "2025-12-07T09:19:52"
+        },
+        {
+          "Master_Incident_Number": "120725-00164",
+          "Online_Description": "ASSIST CITIZEN",
+          "Address": "600 BLOCK PIERCE ST",
+          "Response_Date": "2025-12-07T09:22:24"
+        },
+        {
+          "Master_Incident_Number": "120725-00169",
+          "Online_Description": "RECKLESS VEHICLE",
+          "Address": "900 BLOCK N MARTIN LUTHER KING JR AVE",
+          "Response_Date": "2025-12-07T09:28:39"
+        },
+        {
+          "Master_Incident_Number": "120725-00172",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "2100 BLOCK GULF TO BAY BLVD",
+          "Response_Date": "2025-12-07T09:37:46"
+        },
+        {
+          "Master_Incident_Number": "120725-00173",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "N MARTIN LUTHER KING JR AVE / CLEVELAND ST",
+          "Response_Date": "2025-12-07T09:38:09"
+        }
+      ]
     }
   ]
 }
