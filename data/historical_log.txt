@@ -9340,3 +9340,12 @@ TOTAL ACTIVE CALLS: 5
 [NEW] 120725-00183 | ASSIST OTHER AGENCY | 200 BLOCK S MISSOURI AVE | Response: 10:06 AM
 [NEW] 120725-00185 | DISTURBANCE | 1100 BLOCK PORT WAY | Response: 10:09 AM
 [NEW] 120725-00186 | DIRECTED PATROL | 500 BLOCK N BETTY LN | Response: 10:16 AM
+
+================================================================================
+TIMESTAMP: 2025-12-07T15:49:55.296756+00:00
+TOTAL ACTIVE CALLS: 3
+================================================================================
+
+--- RESOLVED CALLS (2) ---
+[RESOLVED] 120725-00183 | ASSIST OTHER AGENCY | 200 BLOCK S MISSOURI AVE | Response: 10:06 AM
+[RESOLVED] 120725-00186 | DIRECTED PATROL | 500 BLOCK N BETTY LN | Response: 10:16 AM

@@ -13,24 +13,12 @@
       "Response_Date": "2025-12-07T09:19:52"
     },
     {
-      "Master_Incident_Number": "120725-00183",
-      "Online_Description": "ASSIST OTHER AGENCY",
-      "Address": "200 BLOCK S MISSOURI AVE",
-      "Response_Date": "2025-12-07T10:06:40"
-    },
-    {
       "Master_Incident_Number": "120725-00185",
       "Online_Description": "DISTURBANCE",
       "Address": "1100 BLOCK PORT WAY",
       "Response_Date": "2025-12-07T10:09:15"
-    },
-    {
-      "Master_Incident_Number": "120725-00186",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "500 BLOCK N BETTY LN",
-      "Response_Date": "2025-12-07T10:16:19"
     }
   ],
-  "timestamp": "2025-12-07T15:41:41.499596+00:00",
-  "count": 5
+  "timestamp": "2025-12-07T15:49:55.296756+00:00",
+  "count": 3
 }
