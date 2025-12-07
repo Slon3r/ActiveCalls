@@ -462,6 +462,84 @@
           "Response_Date": "2025-12-06T23:28:05"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-07T04:59:01.437977+00:00",
+      "call_count": 12,
+      "calls": [
+        {
+          "Master_Incident_Number": "120625-00560",
+          "Online_Description": "ASSIST CITIZEN",
+          "Address": "1400 BLOCK N BETTY LN",
+          "Response_Date": "2025-12-06T21:49:24"
+        },
+        {
+          "Master_Incident_Number": "120625-00571",
+          "Online_Description": "DRUNK DRIVER",
+          "Address": "S FORT HARRISON AVE / CHESTNUT ST",
+          "Response_Date": "2025-12-06T22:08:53"
+        },
+        {
+          "Master_Incident_Number": "120625-00578",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "500 BLOCK CLEVELAND ST",
+          "Response_Date": "2025-12-06T22:19:39"
+        },
+        {
+          "Master_Incident_Number": "120625-00580",
+          "Online_Description": "BATTERY",
+          "Address": "1100 BLOCK DRUID RD",
+          "Response_Date": "2025-12-06T22:22:02"
+        },
+        {
+          "Master_Incident_Number": "120625-00591",
+          "Online_Description": "TRAFFIC CRASH",
+          "Address": "25100 BLOCK US HIGHWAY 19 N",
+          "Response_Date": "2025-12-06T22:34:02"
+        },
+        {
+          "Master_Incident_Number": "120625-00610",
+          "Online_Description": "WELFARE CHECK",
+          "Address": "2500 BLOCK HARN BLVD",
+          "Response_Date": "2025-12-06T22:57:44"
+        },
+        {
+          "Master_Incident_Number": "120625-00621",
+          "Online_Description": "BATTERY",
+          "Address": "1800 BLOCK WASHINGTON AVE",
+          "Response_Date": "2025-12-06T23:12:15"
+        },
+        {
+          "Master_Incident_Number": "120625-00623",
+          "Online_Description": "911 HANG-UP",
+          "Address": "800 BLOCK CHESTNUT ST",
+          "Response_Date": "2025-12-06T23:24:18"
+        },
+        {
+          "Master_Incident_Number": "120625-00625",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "1800 BLOCK N HIGHLAND AVE",
+          "Response_Date": "2025-12-06T23:27:04"
+        },
+        {
+          "Master_Incident_Number": "120625-00627",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "0 BLOCK MEMORIAL CSWY",
+          "Response_Date": "2025-12-06T23:28:05"
+        },
+        {
+          "Master_Incident_Number": "120625-00629",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "US HIGHWAY 19 N / NE COACHMAN RD",
+          "Response_Date": "2025-12-06T23:32:28"
+        },
+        {
+          "Master_Incident_Number": "120625-00630",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "-19000 BLOCK 19128 US HIGHWAY 19 N",
+          "Response_Date": "2025-12-06T23:36:22"
+        }
+      ]
     }
   ]
 }

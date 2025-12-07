@@ -37,18 +37,6 @@
       "Response_Date": "2025-12-06T22:57:44"
     },
     {
-      "Master_Incident_Number": "120625-00617",
-      "Online_Description": "CIVIL MATTER",
-      "Address": "21400 BLOCK US HIGHWAY 19 N",
-      "Response_Date": "2025-12-06T23:03:03"
-    },
-    {
-      "Master_Incident_Number": "120625-00616",
-      "Online_Description": "911 HANG-UP",
-      "Address": "400 BLOCK MANDALAY AVE",
-      "Response_Date": "2025-12-06T23:05:59"
-    },
-    {
       "Master_Incident_Number": "120625-00621",
       "Online_Description": "BATTERY",
       "Address": "1800 BLOCK WASHINGTON AVE",
@@ -67,18 +55,24 @@
       "Response_Date": "2025-12-06T23:27:04"
     },
     {
-      "Master_Incident_Number": "120625-00626",
-      "Online_Description": "TRAFFIC STOP",
-      "Address": "0 BLOCK MEMORIAL CSWY",
-      "Response_Date": "2025-12-06T23:27:26"
-    },
-    {
       "Master_Incident_Number": "120625-00627",
       "Online_Description": "TRAFFIC STOP",
       "Address": "0 BLOCK MEMORIAL CSWY",
       "Response_Date": "2025-12-06T23:28:05"
+    },
+    {
+      "Master_Incident_Number": "120625-00629",
+      "Online_Description": "TRAFFIC STOP",
+      "Address": "US HIGHWAY 19 N / NE COACHMAN RD",
+      "Response_Date": "2025-12-06T23:32:28"
+    },
+    {
+      "Master_Incident_Number": "120625-00630",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "-19000 BLOCK 19128 US HIGHWAY 19 N",
+      "Response_Date": "2025-12-06T23:36:22"
     }
   ],
-  "timestamp": "2025-12-07T04:51:04.721165+00:00",
-  "count": 13
+  "timestamp": "2025-12-07T04:59:01.437977+00:00",
+  "count": 12
 }
