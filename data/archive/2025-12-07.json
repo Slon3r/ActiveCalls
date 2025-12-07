@@ -2604,6 +2604,48 @@
           "Response_Date": "2025-12-07T14:13:23"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-07T19:59:11.315432+00:00",
+      "call_count": 6,
+      "calls": [
+        {
+          "Master_Incident_Number": "120725-00248",
+          "Online_Description": "911 HANG-UP",
+          "Address": "500 BLOCK VIRGINIA LN",
+          "Response_Date": "2025-12-07T13:52:53"
+        },
+        {
+          "Master_Incident_Number": "120725-00249",
+          "Online_Description": "PARK WALK AND TALK",
+          "Address": "400 BLOCK S GULFVIEW BLVD",
+          "Response_Date": "2025-12-07T13:56:56"
+        },
+        {
+          "Master_Incident_Number": "120725-00251",
+          "Online_Description": "SHOPLIFTING",
+          "Address": "23100 BLOCK US HIGHWAY 19 N",
+          "Response_Date": "2025-12-07T14:04:40"
+        },
+        {
+          "Master_Incident_Number": "120725-00252",
+          "Online_Description": "SHOPLIFTING",
+          "Address": "27000 BLOCK US HIGHWAY 19 N",
+          "Response_Date": "2025-12-07T14:06:39"
+        },
+        {
+          "Master_Incident_Number": "120725-00254",
+          "Online_Description": "TRAFFIC CRASH",
+          "Address": "1800 BLOCK N HIGHLAND AVE",
+          "Response_Date": "2025-12-07T14:11:21"
+        },
+        {
+          "Master_Incident_Number": "120725-00253",
+          "Online_Description": "PARK WALK AND TALK",
+          "Address": "300 BLOCK CORONADO DR",
+          "Response_Date": "2025-12-07T14:11:43"
+        }
+      ]
     }
   ]
 }
