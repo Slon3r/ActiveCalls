@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 1910,
-  "total_resolved": 1909,
+  "total_calls_tracked": 1911,
+  "total_resolved": 1910,
   "call_types": {
-    "DIRECTED PATROL": 623,
+    "DIRECTED PATROL": 624,
     "TRAFFIC STOP": 285,
     "DRUNK DRIVER": 6,
     "DISTURBANCE": 47,
@@ -233,7 +233,7 @@
     "1500 BLOCK S HIGHLAND AVE": 3,
     "PINELLAS ST / S FORT HARRISON AVE": 1,
     "1600 BLOCK N ARCTURAS AVE": 4,
-    "1100 BLOCK BECKETT ST": 12,
+    "1100 BLOCK BECKETT ST": 13,
     "PAPAYA ST / MANDALAY AVE": 1,
     "CLEVELAND ST / N MISSOURI AVE": 2,
     "600 BLOCK COURT ST": 4,
@@ -1002,7 +1002,7 @@
     "3": 34,
     "4": 19,
     "5": 47,
-    "6": 59,
+    "6": 60,
     "7": 48,
     "8": 110,
     "9": 118,
@@ -1022,7 +1022,7 @@
     "23": 65
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-07T11:37:55.926434+00:00",
+  "last_updated": "2025-12-07T11:45:47.010787+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 626
+  "total_snapshots": 627
 }
