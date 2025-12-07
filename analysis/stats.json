@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 1972,
-  "total_resolved": 1965,
+  "total_calls_tracked": 1974,
+  "total_resolved": 1971,
   "call_types": {
-    "DIRECTED PATROL": 646,
+    "DIRECTED PATROL": 647,
     "TRAFFIC STOP": 296,
     "DRUNK DRIVER": 6,
     "DISTURBANCE": 48,
@@ -34,7 +34,7 @@
     "UNKNOWN PROBLEM": 13,
     "NOISE COMPLAINT": 7,
     "CIVIL MATTER": 12,
-    "DOMESTIC": 16,
+    "DOMESTIC": 17,
     "ANIMAL CASE": 9,
     "MISSING PERSON": 21,
     "BUILDING CHECK": 5,
@@ -529,7 +529,7 @@
     "300 BLOCK S HAMDEN DR": 2,
     "1300 BLOCK WOODBINE ST": 1,
     "N KEENE RD / FLAGLER DR": 2,
-    "23200 BLOCK US HIGHWAY 19 N": 3,
+    "23200 BLOCK US HIGHWAY 19 N": 4,
     "900 BLOCK COURT ST": 2,
     "GULF TO BAY BLVD / THORNTON RD": 1,
     "1100 BLOCK WOODLAWN ST": 2,
@@ -1015,7 +1015,8 @@
     "1100 BLOCK CLEVELAND ST": 1,
     "DREW ST / N EAST AVE": 1,
     "CHARLES AVE / DANIEL ST": 1,
-    "0 BLOCK GLENDALE ST": 1
+    "0 BLOCK GLENDALE ST": 1,
+    "800 BLOCK LANTERN WAY": 1
   },
   "hourly_distribution": {
     "0": 69,
@@ -1030,7 +1031,7 @@
     "9": 136,
     "10": 123,
     "11": 120,
-    "12": 121,
+    "12": 123,
     "13": 115,
     "14": 136,
     "15": 130,
@@ -1044,7 +1045,7 @@
     "23": 65
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-07T17:58:35.057514+00:00",
+  "last_updated": "2025-12-07T18:30:00.871136+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 653
+  "total_snapshots": 654
 }

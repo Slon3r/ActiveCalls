@@ -2340,6 +2340,30 @@
           "Response_Date": "2025-12-07T12:31:12"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-07T18:30:00.867212+00:00",
+      "call_count": 3,
+      "calls": [
+        {
+          "Master_Incident_Number": "120725-00225",
+          "Online_Description": "BURGLARY",
+          "Address": "1700 BLOCK N HIGHLAND AVE",
+          "Response_Date": "2025-12-07T12:17:45"
+        },
+        {
+          "Master_Incident_Number": "120725-00233",
+          "Online_Description": "DOMESTIC",
+          "Address": "800 BLOCK LANTERN WAY",
+          "Response_Date": "2025-12-07T12:39:38"
+        },
+        {
+          "Master_Incident_Number": "120725-00232",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "23200 BLOCK US HIGHWAY 19 N",
+          "Response_Date": "2025-12-07T12:39:42"
+        }
+      ]
     }
   ]
 }
