@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 1921,
-  "total_resolved": 1917,
+  "total_calls_tracked": 1922,
+  "total_resolved": 1920,
   "call_types": {
     "DIRECTED PATROL": 630,
-    "TRAFFIC STOP": 285,
+    "TRAFFIC STOP": 286,
     "DRUNK DRIVER": 6,
     "DISTURBANCE": 47,
     "BATTERY": 13,
@@ -997,7 +997,8 @@
     "2000 BLOCK DRUID RD": 1,
     "S FORT HARRISON AVE / TURNER ST": 1,
     "3100 BLOCK MCMULLEN BOOTH RD": 1,
-    "GULF TO BAY BLVD / EDENVILLE AVE": 1
+    "GULF TO BAY BLVD / EDENVILLE AVE": 1,
+    "HOWARD ST / TIOGA AVE": 1
   },
   "hourly_distribution": {
     "0": 69,
@@ -1008,7 +1009,7 @@
     "5": 47,
     "6": 63,
     "7": 52,
-    "8": 113,
+    "8": 114,
     "9": 118,
     "10": 117,
     "11": 107,
@@ -1026,7 +1027,7 @@
     "23": 65
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-07T13:48:25.459117+00:00",
+  "last_updated": "2025-12-07T13:56:20.456635+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 633
+  "total_snapshots": 634
 }

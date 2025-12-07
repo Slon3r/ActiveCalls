@@ -1585,6 +1585,24 @@
           "Response_Date": "2025-12-07T08:27:48"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-07T13:56:20.453627+00:00",
+      "call_count": 2,
+      "calls": [
+        {
+          "Master_Incident_Number": "120725-00130",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "400 BLOCK S GULFVIEW BLVD",
+          "Response_Date": "2025-12-07T08:27:48"
+        },
+        {
+          "Master_Incident_Number": "120725-00132",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "HOWARD ST / TIOGA AVE",
+          "Response_Date": "2025-12-07T08:32:48"
+        }
+      ]
     }
   ]
 }
