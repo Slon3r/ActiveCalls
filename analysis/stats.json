@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 1911,
+  "total_calls_tracked": 1914,
   "total_resolved": 1911,
   "call_types": {
-    "DIRECTED PATROL": 624,
+    "DIRECTED PATROL": 625,
     "TRAFFIC STOP": 285,
     "DRUNK DRIVER": 6,
     "DISTURBANCE": 47,
@@ -10,7 +10,7 @@
     "CRIMINAL MISCHIEF": 11,
     "ALARM": 28,
     "KEEP THE PEACE": 24,
-    "WELFARE CHECK": 39,
+    "WELFARE CHECK": 40,
     "PARK WALK AND TALK": 173,
     "SUSPICIOUS PERSON": 77,
     "TRESPASS": 46,
@@ -32,7 +32,7 @@
     "JUVENILE CASE": 8,
     "HAZARD": 4,
     "UNKNOWN PROBLEM": 11,
-    "NOISE COMPLAINT": 6,
+    "NOISE COMPLAINT": 7,
     "CIVIL MATTER": 12,
     "DOMESTIC": 16,
     "ANIMAL CASE": 9,
@@ -390,7 +390,7 @@
     "1100 BLOCK N BAYSHORE BLVD": 1,
     "1700 BLOCK DREW ST": 7,
     "1200 BLOCK ROGERS ST": 1,
-    "S MYRTLE AVE / LAKEVIEW RD": 1,
+    "S MYRTLE AVE / LAKEVIEW RD": 2,
     "S SAN REMO AVE/ GULF TO BAY BLVD": 1,
     "1300 BLOCK S HIGHLAND AVE": 2,
     "CLEVELAND ST / GULF TO BAY BLVD": 4,
@@ -993,7 +993,9 @@
     "DREW ST / N METEOR AVE": 1,
     "1400 BLOCK DRUID RD": 1,
     "200 BLOCK FAIRWOOD AVE": 1,
-    "36300 BLOCK EAST LAKE RD": 1
+    "36300 BLOCK EAST LAKE RD": 1,
+    "2000 BLOCK DRUID RD": 1,
+    "S FORT HARRISON AVE / TURNER ST": 1
   },
   "hourly_distribution": {
     "0": 69,
@@ -1002,7 +1004,7 @@
     "3": 34,
     "4": 19,
     "5": 47,
-    "6": 60,
+    "6": 63,
     "7": 48,
     "8": 110,
     "9": 118,
@@ -1022,7 +1024,7 @@
     "23": 65
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-07T11:53:52.104454+00:00",
+  "last_updated": "2025-12-07T12:19:20.222874+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 628
+  "total_snapshots": 629
 }
