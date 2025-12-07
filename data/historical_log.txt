@@ -9620,3 +9620,15 @@ TOTAL ACTIVE CALLS: 4
 --- RESOLVED CALLS (2) ---
 [RESOLVED] 120725-00249 | PARK WALK AND TALK | 400 BLOCK S GULFVIEW BLVD | Response: 01:56 PM
 [RESOLVED] 120725-00268 | DIRECTED PATROL | OLD COACHMAN RD / DREW ST | Response: 03:04 PM
+
+================================================================================
+TIMESTAMP: 2025-12-07T20:55:39.840173+00:00
+TOTAL ACTIVE CALLS: 5
+================================================================================
+
+--- NEW CALLS (2) ---
+[NEW] 120725-00275 | TRAFFIC CONTROL | PARK PLACE BLVD / GULF TO BAY BLVD | Response: 03:30 PM
+[NEW] 120725-00277 | DIRECTED PATROL | 27000 BLOCK US HIGHWAY 19 N | Response: 03:33 PM
+
+--- RESOLVED CALLS (1) ---
+[RESOLVED] 120725-00269 | 911 HANG-UP | 0 BLOCK CAUSEWAY BLVD | Response: 03:07 PM

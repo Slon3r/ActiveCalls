@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 1992,
-  "total_resolved": 1988,
+  "total_calls_tracked": 1994,
+  "total_resolved": 1989,
   "call_types": {
-    "DIRECTED PATROL": 650,
+    "DIRECTED PATROL": 651,
     "TRAFFIC STOP": 296,
     "DRUNK DRIVER": 6,
     "DISTURBANCE": 49,
@@ -55,7 +55,7 @@
     "ROBBERY": 1,
     "INJUNCTION VIOLATION": 1,
     "STALKING": 1,
-    "TRAFFIC CONTROL": 1,
+    "TRAFFIC CONTROL": 2,
     "WIRES DOWN": 1,
     "PROTEST/DEMONSTRATION": 2
   },
@@ -119,7 +119,7 @@
     "2300 BLOCK GULF TO BAY BLVD": 4,
     "1200 BLOCK CLEVELAND ST": 11,
     "-500 BLOCK 549 MANDALAY AVE": 1,
-    "27000 BLOCK US HIGHWAY 19 N": 19,
+    "27000 BLOCK US HIGHWAY 19 N": 20,
     "DRIVEWAY PARKING": 2,
     "1100 BLOCK GULF BLVD": 5,
     "2500 BLOCK GULF TO BAY BLVD": 9,
@@ -964,7 +964,7 @@
     "700 BLOCK N GLENWOOD AVE": 1,
     "-300 BLOCK 499 DAVID AVE": 1,
     "JEFFERSON AVE / BELLEAIR RD": 1,
-    "PARK PLACE BLVD / GULF TO BAY BLVD": 1,
+    "PARK PLACE BLVD / GULF TO BAY BLVD": 2,
     "S SAN REMO AVE / BROWNING ST": 1,
     "N MISSOURI AVE / DREW ST": 1,
     "CLEVELAND ST / N GARDEN AVE": 1,
@@ -1035,7 +1035,7 @@
     "12": 124,
     "13": 121,
     "14": 143,
-    "15": 133,
+    "15": 135,
     "16": 119,
     "17": 104,
     "18": 93,
@@ -1046,7 +1046,7 @@
     "23": 65
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-07T20:47:49.844126+00:00",
+  "last_updated": "2025-12-07T20:55:39.844304+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 665
+  "total_snapshots": 666
 }
