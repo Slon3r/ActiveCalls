@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 1959,
-  "total_resolved": 1953,
+  "total_calls_tracked": 1962,
+  "total_resolved": 1955,
   "call_types": {
-    "DIRECTED PATROL": 642,
+    "DIRECTED PATROL": 644,
     "TRAFFIC STOP": 293,
     "DRUNK DRIVER": 6,
     "DISTURBANCE": 48,
@@ -24,7 +24,7 @@
     "SUSPICIOUS EVENT": 34,
     "TRAFFIC CRASH": 75,
     "DISABLED VEHICLE": 13,
-    "ASSIST CITIZEN": 52,
+    "ASSIST CITIZEN": 53,
     "ASSIST OTHER AGENCY": 32,
     "FIRE": 2,
     "FRAUD": 14,
@@ -233,7 +233,7 @@
     "1500 BLOCK S HIGHLAND AVE": 3,
     "PINELLAS ST / S FORT HARRISON AVE": 1,
     "1600 BLOCK N ARCTURAS AVE": 4,
-    "1100 BLOCK BECKETT ST": 14,
+    "1100 BLOCK BECKETT ST": 15,
     "PAPAYA ST / MANDALAY AVE": 1,
     "CLEVELAND ST / N MISSOURI AVE": 2,
     "600 BLOCK COURT ST": 4,
@@ -461,7 +461,7 @@
     "1400 BLOCK GROVE CIRCLE CT": 2,
     "1600 BLOCK MISTY PLATEAU TRL": 1,
     "BAYMONT ST / MANDALAY AVE": 1,
-    "3300 BLOCK SAN GABRIEL ST": 2,
+    "3300 BLOCK SAN GABRIEL ST": 3,
     "700 BLOCK ISLAND WAY": 1,
     "1100 BLOCK LAKEVIEW RD": 1,
     "21400 BLOCK US HIGHWAY 19 N": 6,
@@ -1009,7 +1009,8 @@
     "1000 BLOCK FAIRMONT ST": 1,
     "200 BLOCK S MISSOURI AVE": 1,
     "1100 BLOCK PORT WAY": 1,
-    "PIERCE ST / S EAST AVE": 1
+    "PIERCE ST / S EAST AVE": 1,
+    "HOLT AVE / ENGMAN ST": 1
   },
   "hourly_distribution": {
     "0": 69,
@@ -1023,7 +1024,7 @@
     "8": 120,
     "9": 136,
     "10": 123,
-    "11": 114,
+    "11": 117,
     "12": 114,
     "13": 115,
     "14": 136,
@@ -1038,7 +1039,7 @@
     "23": 65
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-07T16:51:40.575354+00:00",
+  "last_updated": "2025-12-07T16:59:53.560406+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 647
+  "total_snapshots": 648
 }
