@@ -8989,3 +8989,14 @@ TOTAL ACTIVE CALLS: 3
 [RESOLVED] 120625-00578 | DIRECTED PATROL | 500 BLOCK CLEVELAND ST | Response: 10:19 PM
 [RESOLVED] 120725-00036 | SUSPICIOUS EVENT | 3100 BLOCK JOHNS PKWY | Response: 01:10 AM
 [RESOLVED] 120725-00049 | 911 HANG-UP | COUNTRYCLUB DR / COUNTRYSIDE BLVD | Response: 01:52 AM
+
+================================================================================
+TIMESTAMP: 2025-12-07T08:38:45.373795+00:00
+TOTAL ACTIVE CALLS: 3
+================================================================================
+
+--- NEW CALLS (1) ---
+[NEW] 120725-00039 | ALARM | 1600 BLOCK GULF TO BAY BLVD | Response: 01:14 AM
+
+--- RESOLVED CALLS (1) ---
+[RESOLVED] 120725-00035 | TRESPASS | 1100 BLOCK COURT ST | Response: 01:10 AM
