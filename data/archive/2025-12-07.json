@@ -1419,6 +1419,18 @@
       "timestamp": "2025-12-07T10:58:42.953302+00:00",
       "call_count": 0,
       "calls": []
+    },
+    {
+      "timestamp": "2025-12-07T11:17:37.183196+00:00",
+      "call_count": 1,
+      "calls": [
+        {
+          "Master_Incident_Number": "120725-00084",
+          "Online_Description": "ASSIST OTHER AGENCY",
+          "Address": "36300 BLOCK EAST LAKE RD",
+          "Response_Date": "2025-12-07T05:39:07"
+        }
+      ]
     }
   ]
 }

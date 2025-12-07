@@ -1,5 +1,5 @@
 {
-  "total_calls_tracked": 1906,
+  "total_calls_tracked": 1907,
   "total_resolved": 1906,
   "call_types": {
     "DIRECTED PATROL": 621,
@@ -25,7 +25,7 @@
     "TRAFFIC CRASH": 75,
     "DISABLED VEHICLE": 13,
     "ASSIST CITIZEN": 51,
-    "ASSIST OTHER AGENCY": 30,
+    "ASSIST OTHER AGENCY": 31,
     "FIRE": 2,
     "FRAUD": 14,
     "RECKLESS VEHICLE": 6,
@@ -992,7 +992,8 @@
     "1100 BLOCK S KEENE RD": 1,
     "DREW ST / N METEOR AVE": 1,
     "1400 BLOCK DRUID RD": 1,
-    "200 BLOCK FAIRWOOD AVE": 1
+    "200 BLOCK FAIRWOOD AVE": 1,
+    "36300 BLOCK EAST LAKE RD": 1
   },
   "hourly_distribution": {
     "0": 69,
@@ -1000,7 +1001,7 @@
     "2": 43,
     "3": 34,
     "4": 19,
-    "5": 45,
+    "5": 46,
     "6": 57,
     "7": 48,
     "8": 110,
@@ -1021,7 +1022,7 @@
     "23": 65
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-07T10:58:42.955746+00:00",
+  "last_updated": "2025-12-07T11:17:37.185762+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 623
+  "total_snapshots": 624
 }
