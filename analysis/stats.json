@@ -1,16 +1,16 @@
 {
-  "total_calls_tracked": 1926,
-  "total_resolved": 1921,
+  "total_calls_tracked": 1930,
+  "total_resolved": 1925,
   "call_types": {
-    "DIRECTED PATROL": 631,
-    "TRAFFIC STOP": 287,
+    "DIRECTED PATROL": 633,
+    "TRAFFIC STOP": 288,
     "DRUNK DRIVER": 6,
     "DISTURBANCE": 47,
     "BATTERY": 13,
     "CRIMINAL MISCHIEF": 11,
     "ALARM": 28,
     "KEEP THE PEACE": 24,
-    "WELFARE CHECK": 40,
+    "WELFARE CHECK": 41,
     "PARK WALK AND TALK": 174,
     "SUSPICIOUS PERSON": 78,
     "TRESPASS": 46,
@@ -152,7 +152,7 @@
     "600 BLOCK PIERCE ST": 16,
     "0 BLOCK 99 THIRD ST": 4,
     "0 BLOCK 98 THIRD ST": 5,
-    "100 BLOCK HAMPTON RD": 2,
+    "100 BLOCK HAMPTON RD": 3,
     "GULF TO BAY BLVD / PARK PLACE BLVD": 2,
     "2000 BLOCK N HERCULES AVE": 2,
     "1300 BLOCK FRANKLIN ST": 2,
@@ -223,7 +223,7 @@
     "N HERCULES AVE / CALUMET ST": 1,
     "3100 BLOCK WOLFE RD": 1,
     "500 BLOCK PARK ST": 1,
-    "1500 BLOCK GULF BLVD": 4,
+    "1500 BLOCK GULF BLVD": 5,
     "1300 BLOCK S FORT HARRISON AVE": 1,
     "HOLT AVE / RUSSELL ST": 1,
     "S GULFVIEW BLVD / SECOND ST": 1,
@@ -434,7 +434,7 @@
     "600 BLOCK N FORT HARRISON AVE": 1,
     "200 BLOCK S BETTY LN": 1,
     "2400 BLOCK HARN BLVD": 3,
-    "1400 BLOCK S MARTIN LUTHER KING JR AVE": 8,
+    "1400 BLOCK S MARTIN LUTHER KING JR AVE": 9,
     "OTIS C GREEN DR / N BETTY LN": 1,
     "2600 BLOCK MCMULLEN BOOTH RD": 5,
     "S MADISON AVE / PIERCE ST": 2,
@@ -1000,7 +1000,8 @@
     "GULF TO BAY BLVD / EDENVILLE AVE": 1,
     "HOWARD ST / TIOGA AVE": 1,
     "900 BLOCK CHESTNUT ST": 1,
-    "1500 BLOCK CARMEL AVE": 1
+    "1500 BLOCK CARMEL AVE": 1,
+    "-700 BLOCK 898 N BELCHER RD": 1
   },
   "hourly_distribution": {
     "0": 69,
@@ -1011,8 +1012,8 @@
     "5": 47,
     "6": 63,
     "7": 52,
-    "8": 118,
-    "9": 118,
+    "8": 120,
+    "9": 120,
     "10": 117,
     "11": 107,
     "12": 114,
@@ -1029,7 +1030,7 @@
     "23": 65
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-07T14:14:41.987204+00:00",
+  "last_updated": "2025-12-07T14:32:32.281785+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 635
+  "total_snapshots": 636
 }
