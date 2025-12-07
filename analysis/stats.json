@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 1969,
-  "total_resolved": 1962,
+  "total_calls_tracked": 1972,
+  "total_resolved": 1965,
   "call_types": {
     "DIRECTED PATROL": 646,
-    "TRAFFIC STOP": 295,
+    "TRAFFIC STOP": 296,
     "DRUNK DRIVER": 6,
     "DISTURBANCE": 48,
     "BATTERY": 13,
@@ -17,7 +17,7 @@
     "PROPERTY FOUND/LOST": 12,
     "THEFT": 26,
     "NEIGHBOR CALL": 11,
-    "911 HANG-UP": 73,
+    "911 HANG-UP": 74,
     "SUSPICIOUS VEHICLE": 15,
     "PANHANDLER/SOLICITOR": 4,
     "VEHICLE ILLEGALLY PARKED": 4,
@@ -40,7 +40,7 @@
     "BUILDING CHECK": 5,
     "SHOPLIFTING": 8,
     "DECEASED PERSON": 2,
-    "BURGLARY": 9,
+    "BURGLARY": 10,
     "SHOTS FIRED": 1,
     "HIT & RUN": 15,
     "SCHOOL CROSSING": 6,
@@ -416,7 +416,7 @@
     "3000 BLOCK SR 590": 1,
     "1500 BLOCK N BELCHER RD": 1,
     "-100 BLOCK 299 S MAIN AVE": 3,
-    "CHARLES AVE / SR 580": 3,
+    "CHARLES AVE / SR 580": 4,
     "1600 BLOCK N WASHINGTON AVE": 2,
     "US HIGHWAY 19 N / NURSERY RD": 4,
     "18900 BLOCK US HIGHWAY 19 N": 2,
@@ -796,7 +796,7 @@
     "1100 BLOCK S MYRTLE AVE": 2,
     "1500 BLOCK GULF TO BAY BLVD": 3,
     "-600 BLOCK 617 MANDALAY AVE": 1,
-    "1700 BLOCK N HIGHLAND AVE": 1,
+    "1700 BLOCK N HIGHLAND AVE": 2,
     "N FORT HARRISON AVE / VENETIAN POINT DR": 1,
     "3000 BLOCK WILLOW OAKS WAY": 1,
     "N MARTIN LUTHER KING JR AVE / ENGMAN ST": 1,
@@ -1014,7 +1014,8 @@
     "GULF TO BAY BLVD / S MAIN AVE": 1,
     "1100 BLOCK CLEVELAND ST": 1,
     "DREW ST / N EAST AVE": 1,
-    "CHARLES AVE / DANIEL ST": 1
+    "CHARLES AVE / DANIEL ST": 1,
+    "0 BLOCK GLENDALE ST": 1
   },
   "hourly_distribution": {
     "0": 69,
@@ -1029,7 +1030,7 @@
     "9": 136,
     "10": 123,
     "11": 120,
-    "12": 118,
+    "12": 121,
     "13": 115,
     "14": 136,
     "15": 130,
@@ -1043,7 +1044,7 @@
     "23": 65
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-07T17:51:04.052101+00:00",
+  "last_updated": "2025-12-07T17:58:35.057514+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 652
+  "total_snapshots": 653
 }
