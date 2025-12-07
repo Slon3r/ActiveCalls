@@ -84,6 +84,102 @@
           "Response_Date": "2025-12-06T19:36:28"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-07T02:55:44.131511+00:00",
+      "call_count": 15,
+      "calls": [
+        {
+          "Master_Incident_Number": "120625-00495",
+          "Online_Description": "SUSPICIOUS PERSON",
+          "Address": "S SAN REMO AVE / BROWNING ST",
+          "Response_Date": "2025-12-06T19:42:18"
+        },
+        {
+          "Master_Incident_Number": "120625-00499",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "N MISSOURI AVE / DREW ST",
+          "Response_Date": "2025-12-06T19:48:52"
+        },
+        {
+          "Master_Incident_Number": "120625-00507",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "1100 BLOCK BECKETT ST",
+          "Response_Date": "2025-12-06T20:05:55"
+        },
+        {
+          "Master_Incident_Number": "120625-00508",
+          "Online_Description": "SUSPICIOUS PERSON",
+          "Address": "1100 BLOCK BECKETT ST",
+          "Response_Date": "2025-12-06T20:07:41"
+        },
+        {
+          "Master_Incident_Number": "120625-00518",
+          "Online_Description": "SHOPLIFTING",
+          "Address": "27000 BLOCK US HIGHWAY 19 N",
+          "Response_Date": "2025-12-06T20:25:57"
+        },
+        {
+          "Master_Incident_Number": "120625-00530",
+          "Online_Description": "ORDINANCE VIOLATION",
+          "Address": "1100 BLOCK BECKETT ST",
+          "Response_Date": "2025-12-06T20:46:59"
+        },
+        {
+          "Master_Incident_Number": "120625-00532",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "CLEVELAND ST / N GARDEN AVE",
+          "Response_Date": "2025-12-06T20:49:29"
+        },
+        {
+          "Master_Incident_Number": "120625-00536",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "1600 BLOCK N ARCTURAS AVE",
+          "Response_Date": "2025-12-06T20:56:32"
+        },
+        {
+          "Master_Incident_Number": "120625-00537",
+          "Online_Description": "DOMESTIC",
+          "Address": "1100 BLOCK TUSKAWILLA DR",
+          "Response_Date": "2025-12-06T20:57:18"
+        },
+        {
+          "Master_Incident_Number": "120625-00549",
+          "Online_Description": "WELFARE CHECK",
+          "Address": "1200 BLOCK S HIGHLAND AVE",
+          "Response_Date": "2025-12-06T21:04:15"
+        },
+        {
+          "Master_Incident_Number": "120625-00546",
+          "Online_Description": "PARK WALK AND TALK",
+          "Address": "400 BLOCK CLEVELAND ST",
+          "Response_Date": "2025-12-06T21:05:28"
+        },
+        {
+          "Master_Incident_Number": "120625-00550",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "N GARDEN AVE / CLEVELAND ST",
+          "Response_Date": "2025-12-06T21:10:34"
+        },
+        {
+          "Master_Incident_Number": "120625-00553",
+          "Online_Description": "PARK WALK AND TALK",
+          "Address": "-1100 BLOCK 1199 S FORT HARRISON AVE",
+          "Response_Date": "2025-12-06T21:18:29"
+        },
+        {
+          "Master_Incident_Number": "120625-00557",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "26500 BLOCK US HIGHWAY 19 N",
+          "Response_Date": "2025-12-06T21:29:52"
+        },
+        {
+          "Master_Incident_Number": "120625-00558",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "COURTNEY CAMPBELL CSWY / DR KIRAN C PATEL BLVD",
+          "Response_Date": "2025-12-06T21:34:00"
+        }
+      ]
     }
   ]
 }
