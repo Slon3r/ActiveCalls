@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 2020,
-  "total_resolved": 2016,
+  "total_calls_tracked": 2028,
+  "total_resolved": 2018,
   "call_types": {
-    "DIRECTED PATROL": 661,
-    "TRAFFIC STOP": 298,
+    "DIRECTED PATROL": 663,
+    "TRAFFIC STOP": 301,
     "DRUNK DRIVER": 6,
     "DISTURBANCE": 49,
     "BATTERY": 14,
@@ -11,13 +11,13 @@
     "ALARM": 28,
     "KEEP THE PEACE": 24,
     "WELFARE CHECK": 45,
-    "PARK WALK AND TALK": 181,
+    "PARK WALK AND TALK": 183,
     "SUSPICIOUS PERSON": 82,
     "TRESPASS": 47,
     "PROPERTY FOUND/LOST": 12,
     "THEFT": 27,
     "NEIGHBOR CALL": 11,
-    "911 HANG-UP": 77,
+    "911 HANG-UP": 78,
     "SUSPICIOUS VEHICLE": 15,
     "PANHANDLER/SOLICITOR": 4,
     "VEHICLE ILLEGALLY PARKED": 4,
@@ -60,7 +60,7 @@
     "PROTEST/DEMONSTRATION": 2
   },
   "addresses": {
-    "MEMORIAL CSWY / ISLAND WAY": 18,
+    "MEMORIAL CSWY / ISLAND WAY": 19,
     "GULF TO BAY BLVD / S BELCHER RD": 5,
     "1900 BLOCK N BETTY LN": 1,
     "1400 BLOCK CLEVELAND ST": 2,
@@ -130,7 +130,7 @@
     "3300 BLOCK COURTNEY CAMPBELL CSWY": 5,
     "1200 BLOCK COURT ST": 4,
     "1400 BLOCK OWEN DR": 1,
-    "200 BLOCK ISLAND WAY": 5,
+    "200 BLOCK ISLAND WAY": 6,
     "-500 BLOCK BLK CLEVELAND ST": 3,
     "0 BLOCK MEMORIAL CSWY": 16,
     "COUNTRYSIDE BLVD / NORTHRIDGE DR": 1,
@@ -198,7 +198,7 @@
     "500 BLOCK MANDALAY AVE": 8,
     "3000 BLOCK HAVERFORD DR": 2,
     "DREW ST / OLD COACHMAN RD": 3,
-    "2500 BLOCK HARN BLVD": 20,
+    "2500 BLOCK HARN BLVD": 21,
     "1000 BLOCK MCMULLEN BOOTH RD": 2,
     "1200 BLOCK S MARTIN LUTHER KING JR AVE": 1,
     "2000 BLOCK PARAGON CIR W": 1,
@@ -334,7 +334,7 @@
     "GULF TO BAY BLVD / LANDRY AVE": 1,
     "1400 BLOCK N MADISON AVE": 6,
     "600 BLOCK GULF BLVD": 3,
-    "DREW ST / MCMULLEN BOOTH RD": 3,
+    "DREW ST / MCMULLEN BOOTH RD": 4,
     "2700 BLOCK COTTONWOOD CT": 1,
     "200 BLOCK SEMINOLE ST": 3,
     "1400 BLOCK N FORT HARRISON AVE": 1,
@@ -972,7 +972,7 @@
     "-1100 BLOCK 1199 S FORT HARRISON AVE": 1,
     "S FORT HARRISON AVE / CHESTNUT ST": 1,
     "500 BLOCK CLEVELAND ST": 2,
-    "1200 BLOCK HOLT AVE": 1,
+    "1200 BLOCK HOLT AVE": 2,
     "NORTH PARKING GARAGE": 1,
     "BAYSHORE BLVD / COURTNEY CAMPBELL CSWY": 1,
     "25100 BLOCK US HIGHWAY 19 N": 1,
@@ -1023,7 +1023,10 @@
     "N BETTY LN / DREW ST": 1,
     "BRIGHTWATER DR / HAMDEN DR": 1,
     "-3300 BLOCK 3334 HYDE PARK DR": 1,
-    "ENT/INVER": 1
+    "ENT/INVER": 1,
+    "1600 BLOCK RAINBOW DR": 1,
+    "-1300 BLOCK 1398 N MARTIN LUTHER KING JR AVE": 1,
+    "-2600 BLOCK 2699 GLENEAGLES DR": 1
   },
   "hourly_distribution": {
     "0": 69,
@@ -1044,7 +1047,7 @@
     "15": 139,
     "16": 127,
     "17": 115,
-    "18": 96,
+    "18": 104,
     "19": 31,
     "20": 36,
     "21": 40,
@@ -1052,7 +1055,7 @@
     "23": 65
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-07T23:31:44.559745+00:00",
+  "last_updated": "2025-12-07T23:42:04.240204+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 678
+  "total_snapshots": 679
 }

@@ -3221,6 +3221,72 @@
           "Response_Date": "2025-12-07T18:09:35"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-07T23:42:04.235390+00:00",
+      "call_count": 10,
+      "calls": [
+        {
+          "Master_Incident_Number": "120725-00320",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "2800 BLOCK GLORIA CT",
+          "Response_Date": "2025-12-07T18:00:07.707"
+        },
+        {
+          "Master_Incident_Number": "120725-00303",
+          "Online_Description": "BATTERY",
+          "Address": "500 BLOCK CLEVELAND ST",
+          "Response_Date": "2025-12-07T16:47:43"
+        },
+        {
+          "Master_Incident_Number": "120725-00342",
+          "Online_Description": "911 HANG-UP",
+          "Address": "2500 BLOCK HARN BLVD",
+          "Response_Date": "2025-12-07T18:08:30"
+        },
+        {
+          "Master_Incident_Number": "120725-00348",
+          "Online_Description": "PARK WALK AND TALK",
+          "Address": "1600 BLOCK RAINBOW DR",
+          "Response_Date": "2025-12-07T18:13:28"
+        },
+        {
+          "Master_Incident_Number": "120725-00349",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "1200 BLOCK HOLT AVE",
+          "Response_Date": "2025-12-07T18:14:12"
+        },
+        {
+          "Master_Incident_Number": "120725-00351",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "200 BLOCK ISLAND WAY",
+          "Response_Date": "2025-12-07T18:17:57"
+        },
+        {
+          "Master_Incident_Number": "120725-00352",
+          "Online_Description": "PARK WALK AND TALK",
+          "Address": "-1300 BLOCK 1398 N MARTIN LUTHER KING JR AVE",
+          "Response_Date": "2025-12-07T18:18:52"
+        },
+        {
+          "Master_Incident_Number": "120725-00353",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "-2600 BLOCK 2699 GLENEAGLES DR",
+          "Response_Date": "2025-12-07T18:19:33"
+        },
+        {
+          "Master_Incident_Number": "120725-00354",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "MEMORIAL CSWY / ISLAND WAY",
+          "Response_Date": "2025-12-07T18:20:14"
+        },
+        {
+          "Master_Incident_Number": "120725-00355",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "DREW ST / MCMULLEN BOOTH RD",
+          "Response_Date": "2025-12-07T18:20:42"
+        }
+      ]
     }
   ]
 }
