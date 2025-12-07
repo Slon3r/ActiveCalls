@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 1915,
-  "total_resolved": 1913,
+  "total_calls_tracked": 1917,
+  "total_resolved": 1915,
   "call_types": {
-    "DIRECTED PATROL": 626,
+    "DIRECTED PATROL": 627,
     "TRAFFIC STOP": 285,
     "DRUNK DRIVER": 6,
     "DISTURBANCE": 47,
@@ -31,7 +31,7 @@
     "RECKLESS VEHICLE": 6,
     "JUVENILE CASE": 8,
     "HAZARD": 4,
-    "UNKNOWN PROBLEM": 11,
+    "UNKNOWN PROBLEM": 12,
     "NOISE COMPLAINT": 7,
     "CIVIL MATTER": 12,
     "DOMESTIC": 16,
@@ -288,7 +288,7 @@
     "DREW ST / BAYVIEW AVE": 3,
     "2800 BLOCK APPLEWOOD DRIVE": 1,
     "1500 BLOCK EXCALIBER DR": 1,
-    "300 BLOCK PINELLAS ST": 8,
+    "300 BLOCK PINELLAS ST": 9,
     "1700 BLOCK EL TAIR TRL": 1,
     "SETON DR / MONTCLAIR RD": 1,
     "700 BLOCK S GULFVIEW BLVD": 1,
@@ -996,7 +996,8 @@
     "36300 BLOCK EAST LAKE RD": 1,
     "2000 BLOCK DRUID RD": 1,
     "S FORT HARRISON AVE / TURNER ST": 1,
-    "3100 BLOCK MCMULLEN BOOTH RD": 1
+    "3100 BLOCK MCMULLEN BOOTH RD": 1,
+    "GULF TO BAY BLVD / EDENVILLE AVE": 1
   },
   "hourly_distribution": {
     "0": 69,
@@ -1006,7 +1007,7 @@
     "4": 19,
     "5": 47,
     "6": 63,
-    "7": 49,
+    "7": 51,
     "8": 110,
     "9": 118,
     "10": 117,
@@ -1025,7 +1026,7 @@
     "23": 65
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-07T12:57:30.850527+00:00",
+  "last_updated": "2025-12-07T13:25:07.723172+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 630
+  "total_snapshots": 631
 }
