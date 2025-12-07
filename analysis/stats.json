@@ -1,6 +1,6 @@
 {
-  "total_calls_tracked": 1888,
-  "total_resolved": 1882,
+  "total_calls_tracked": 1891,
+  "total_resolved": 1883,
   "call_types": {
     "DIRECTED PATROL": 619,
     "TRAFFIC STOP": 285,
@@ -8,12 +8,12 @@
     "DISTURBANCE": 46,
     "BATTERY": 12,
     "CRIMINAL MISCHIEF": 11,
-    "ALARM": 26,
+    "ALARM": 27,
     "KEEP THE PEACE": 24,
     "WELFARE CHECK": 39,
     "PARK WALK AND TALK": 170,
     "SUSPICIOUS PERSON": 76,
-    "TRESPASS": 44,
+    "TRESPASS": 45,
     "PROPERTY FOUND/LOST": 12,
     "THEFT": 25,
     "NEIGHBOR CALL": 10,
@@ -28,7 +28,7 @@
     "ASSIST OTHER AGENCY": 30,
     "FIRE": 2,
     "FRAUD": 14,
-    "RECKLESS VEHICLE": 5,
+    "RECKLESS VEHICLE": 6,
     "JUVENILE CASE": 8,
     "HAZARD": 4,
     "UNKNOWN PROBLEM": 10,
@@ -146,7 +146,7 @@
     "1200 BLOCK S MISSOURI AVE": 12,
     "2000 BLOCK N HIGHLAND AVE": 8,
     "N DUNCAN AVE / DREW ST": 1,
-    "1100 BLOCK COURT ST": 1,
+    "1100 BLOCK COURT ST": 2,
     "-1300 BLOCK BLK ADMIRAL WOODSON LN": 1,
     "19300 BLOCK US HIGHWAY 19 N": 2,
     "600 BLOCK PIERCE ST": 16,
@@ -211,7 +211,7 @@
     "23600 BLOCK US HIGHWAY 19 N": 4,
     "300 BLOCK MANDALAY AVE": 3,
     "JONES ST / FERN AVE": 1,
-    "1600 BLOCK GULF TO BAY BLVD": 10,
+    "1600 BLOCK GULF TO BAY BLVD": 11,
     "1600 BLOCK DARTMOUTH ST": 1,
     "HAMDEN DR / BRIGHTWATER DR": 2,
     "HAMPTON RD / GULF TO BAY BLVD": 2,
@@ -252,7 +252,7 @@
     "600 BLOCK S MARTIN LUTHER KING JR AVE": 2,
     "MCMULLEN BOOTH RD / DREW ST": 1,
     "2000 BLOCK MADRID CT N": 1,
-    "BAYSIDE BRG / BAYSIDE BRG SERVICE RD": 2,
+    "BAYSIDE BRG / BAYSIDE BRG SERVICE RD": 3,
     "800 BLOCK S MISSOURI AVE": 2,
     "-500 BLOCK 699 S GULFVIEW BLVD": 1,
     "1000 BLOCK MARSHALL ST": 2,
@@ -989,7 +989,7 @@
   },
   "hourly_distribution": {
     "0": 68,
-    "1": 57,
+    "1": 60,
     "2": 43,
     "3": 31,
     "4": 16,
@@ -1014,7 +1014,7 @@
     "23": 65
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-07T06:44:12.556833+00:00",
+  "last_updated": "2025-12-07T06:55:26.651930+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 604
+  "total_snapshots": 605
 }
