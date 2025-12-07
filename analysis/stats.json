@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 1881,
-  "total_resolved": 1867,
+  "total_calls_tracked": 1884,
+  "total_resolved": 1872,
   "call_types": {
-    "DIRECTED PATROL": 615,
+    "DIRECTED PATROL": 617,
     "TRAFFIC STOP": 284,
     "DRUNK DRIVER": 6,
     "DISTURBANCE": 45,
@@ -11,7 +11,7 @@
     "ALARM": 26,
     "KEEP THE PEACE": 24,
     "WELFARE CHECK": 39,
-    "PARK WALK AND TALK": 169,
+    "PARK WALK AND TALK": 170,
     "SUSPICIOUS PERSON": 76,
     "TRESPASS": 44,
     "PROPERTY FOUND/LOST": 12,
@@ -236,7 +236,7 @@
     "1100 BLOCK BECKETT ST": 12,
     "PAPAYA ST / MANDALAY AVE": 1,
     "CLEVELAND ST / N MISSOURI AVE": 2,
-    "600 BLOCK COURT ST": 3,
+    "600 BLOCK COURT ST": 4,
     "GULF TO BAY BLVD / S NIMBUS AVE": 1,
     "-300 BLOCK 437 MANDALAY AVE": 1,
     "600 BLOCK LEMBO CIR": 1,
@@ -865,7 +865,7 @@
     "COURT ST / S MARTIN LUTHER KING JR AVE": 1,
     "CALUMET ST / N BELCHER RD": 1,
     "S PROSPECT AVE / GRAND CENTRAL ST": 1,
-    "-2900 BLOCK 2998 MEADOW OAK DR S": 1,
+    "-2900 BLOCK 2998 MEADOW OAK DR S": 2,
     "1200 BLOCK FRANKLIN ST": 1,
     "21500 BLOCK US HIGHWAY 19 N": 1,
     "-300 BLOCK 499 S MAIN AVE": 3,
@@ -980,10 +980,11 @@
     "0 BLOCK 37 LAUREL ST": 1,
     "1800 BLOCK WASHINGTON AVE": 1,
     "-19000 BLOCK 19128 US HIGHWAY 19 N": 1,
-    "-800 BLOCK 899 S MISSOURI AVE": 1
+    "-800 BLOCK 899 S MISSOURI AVE": 1,
+    "COURT STREET/ MYRTLE AVE": 1
   },
   "hourly_distribution": {
-    "0": 63,
+    "0": 66,
     "1": 55,
     "2": 43,
     "3": 31,
@@ -1009,7 +1010,7 @@
     "23": 65
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-07T05:37:27.540396+00:00",
+  "last_updated": "2025-12-07T05:45:36.111508+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 600
+  "total_snapshots": 601
 }

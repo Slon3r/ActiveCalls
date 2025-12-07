@@ -708,6 +708,84 @@
           "Response_Date": "2025-12-07T00:11:54"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-07T05:45:36.109472+00:00",
+      "call_count": 12,
+      "calls": [
+        {
+          "Master_Incident_Number": "120625-00578",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "500 BLOCK CLEVELAND ST",
+          "Response_Date": "2025-12-06T22:19:39"
+        },
+        {
+          "Master_Incident_Number": "120625-00591",
+          "Online_Description": "TRAFFIC CRASH",
+          "Address": "25100 BLOCK US HIGHWAY 19 N",
+          "Response_Date": "2025-12-06T22:34:02"
+        },
+        {
+          "Master_Incident_Number": "120625-00621",
+          "Online_Description": "BATTERY",
+          "Address": "1800 BLOCK WASHINGTON AVE",
+          "Response_Date": "2025-12-06T23:12:15"
+        },
+        {
+          "Master_Incident_Number": "120625-00624",
+          "Online_Description": "MISSING PERSON",
+          "Address": "US HIGHWAY 19 N / GULF TO BAY BLVD",
+          "Response_Date": "2025-12-06T23:22:15"
+        },
+        {
+          "Master_Incident_Number": "120625-00629",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "US HIGHWAY 19 N / NE COACHMAN RD",
+          "Response_Date": "2025-12-06T23:32:28"
+        },
+        {
+          "Master_Incident_Number": "120625-00633",
+          "Online_Description": "ASSIST CITIZEN",
+          "Address": "1100 BLOCK DRUID RD",
+          "Response_Date": "2025-12-06T23:39:42"
+        },
+        {
+          "Master_Incident_Number": "120625-00635",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "2500 BLOCK HARN BLVD",
+          "Response_Date": "2025-12-06T23:44:16"
+        },
+        {
+          "Master_Incident_Number": "120625-00640",
+          "Online_Description": "PARK WALK AND TALK",
+          "Address": "-800 BLOCK 899 S MISSOURI AVE",
+          "Response_Date": "2025-12-06T23:56:45"
+        },
+        {
+          "Master_Incident_Number": "120725-00007",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "US HIGHWAY 19 N / HARN BLVD",
+          "Response_Date": "2025-12-07T00:11:54"
+        },
+        {
+          "Master_Incident_Number": "120725-00010",
+          "Online_Description": "PARK WALK AND TALK",
+          "Address": "600 BLOCK COURT ST",
+          "Response_Date": "2025-12-07T00:18:10"
+        },
+        {
+          "Master_Incident_Number": "120725-00012",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "COURT STREET/ MYRTLE AVE",
+          "Response_Date": "2025-12-07T00:19:10"
+        },
+        {
+          "Master_Incident_Number": "120725-00016",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "-2900 BLOCK 2998 MEADOW OAK DR S",
+          "Response_Date": "2025-12-07T00:22:53"
+        }
+      ]
     }
   ]
 }
