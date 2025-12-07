@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 1962,
-  "total_resolved": 1955,
+  "total_calls_tracked": 1965,
+  "total_resolved": 1960,
   "call_types": {
-    "DIRECTED PATROL": 644,
+    "DIRECTED PATROL": 645,
     "TRAFFIC STOP": 293,
     "DRUNK DRIVER": 6,
     "DISTURBANCE": 48,
@@ -12,7 +12,7 @@
     "KEEP THE PEACE": 24,
     "WELFARE CHECK": 42,
     "PARK WALK AND TALK": 177,
-    "SUSPICIOUS PERSON": 79,
+    "SUSPICIOUS PERSON": 80,
     "TRESPASS": 46,
     "PROPERTY FOUND/LOST": 12,
     "THEFT": 26,
@@ -22,7 +22,7 @@
     "PANHANDLER/SOLICITOR": 4,
     "VEHICLE ILLEGALLY PARKED": 4,
     "SUSPICIOUS EVENT": 34,
-    "TRAFFIC CRASH": 75,
+    "TRAFFIC CRASH": 76,
     "DISABLED VEHICLE": 13,
     "ASSIST CITIZEN": 53,
     "ASSIST OTHER AGENCY": 32,
@@ -243,7 +243,7 @@
     "1500 BLOCK RIDGEWOOD ST": 2,
     "2500 BLOCK FOREST RUN CT": 2,
     "1800 BLOCK SUNSET POINT RD": 3,
-    "1100 BLOCK GRANT ST": 3,
+    "1100 BLOCK GRANT ST": 4,
     "COURTNEY CAMPBELL CSWY / DR KIRAN C PATEL BLVD": 5,
     "2000 BLOCK PLATEAU RD": 3,
     "DREW ST / N HIGHLAND AVE": 1,
@@ -1010,7 +1010,9 @@
     "200 BLOCK S MISSOURI AVE": 1,
     "1100 BLOCK PORT WAY": 1,
     "PIERCE ST / S EAST AVE": 1,
-    "HOLT AVE / ENGMAN ST": 1
+    "HOLT AVE / ENGMAN ST": 1,
+    "GULF TO BAY BLVD / S MAIN AVE": 1,
+    "1100 BLOCK CLEVELAND ST": 1
   },
   "hourly_distribution": {
     "0": 69,
@@ -1024,7 +1026,7 @@
     "8": 120,
     "9": 136,
     "10": 123,
-    "11": 117,
+    "11": 120,
     "12": 114,
     "13": 115,
     "14": 136,
@@ -1039,7 +1041,7 @@
     "23": 65
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-07T16:59:53.560406+00:00",
+  "last_updated": "2025-12-07T17:20:40.054132+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 648
+  "total_snapshots": 649
 }
