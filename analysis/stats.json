@@ -1,6 +1,6 @@
 {
-  "total_calls_tracked": 1900,
-  "total_resolved": 1897,
+  "total_calls_tracked": 1902,
+  "total_resolved": 1900,
   "call_types": {
     "DIRECTED PATROL": 620,
     "TRAFFIC STOP": 285,
@@ -12,13 +12,13 @@
     "KEEP THE PEACE": 24,
     "WELFARE CHECK": 39,
     "PARK WALK AND TALK": 171,
-    "SUSPICIOUS PERSON": 76,
+    "SUSPICIOUS PERSON": 77,
     "TRESPASS": 46,
     "PROPERTY FOUND/LOST": 12,
     "THEFT": 25,
     "NEIGHBOR CALL": 10,
     "911 HANG-UP": 72,
-    "SUSPICIOUS VEHICLE": 12,
+    "SUSPICIOUS VEHICLE": 13,
     "PANHANDLER/SOLICITOR": 4,
     "VEHICLE ILLEGALLY PARKED": 4,
     "SUSPICIOUS EVENT": 32,
@@ -122,7 +122,7 @@
     "27000 BLOCK US HIGHWAY 19 N": 17,
     "DRIVEWAY PARKING": 2,
     "1100 BLOCK GULF BLVD": 5,
-    "2500 BLOCK GULF TO BAY BLVD": 8,
+    "2500 BLOCK GULF TO BAY BLVD": 9,
     "1600 BLOCK N MCMULLEN BOOTH RD": 1,
     "1200 BLOCK DREW ST": 3,
     "2400 BLOCK DREW ST": 4,
@@ -989,14 +989,15 @@
     "3100 BLOCK JOHNS PKWY": 1,
     "COUNTRYCLUB DR / COUNTRYSIDE BLVD": 1,
     "300 BLOCK S ORION AVE": 1,
-    "1100 BLOCK S KEENE RD": 1
+    "1100 BLOCK S KEENE RD": 1,
+    "DREW ST / N METEOR AVE": 1
   },
   "hourly_distribution": {
     "0": 69,
     "1": 66,
     "2": 43,
-    "3": 33,
-    "4": 16,
+    "3": 34,
+    "4": 17,
     "5": 43,
     "6": 57,
     "7": 48,
@@ -1018,7 +1019,7 @@
     "23": 65
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-07T09:23:25.225937+00:00",
+  "last_updated": "2025-12-07T09:36:24.288373+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 615
+  "total_snapshots": 616
 }
