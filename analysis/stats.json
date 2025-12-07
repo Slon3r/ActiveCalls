@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 1942,
-  "total_resolved": 1933,
+  "total_calls_tracked": 1944,
+  "total_resolved": 1939,
   "call_types": {
     "DIRECTED PATROL": 637,
-    "TRAFFIC STOP": 291,
+    "TRAFFIC STOP": 292,
     "DRUNK DRIVER": 6,
     "DISTURBANCE": 47,
     "BATTERY": 13,
@@ -16,7 +16,7 @@
     "TRESPASS": 46,
     "PROPERTY FOUND/LOST": 12,
     "THEFT": 26,
-    "NEIGHBOR CALL": 10,
+    "NEIGHBOR CALL": 11,
     "911 HANG-UP": 72,
     "SUSPICIOUS VEHICLE": 14,
     "PANHANDLER/SOLICITOR": 4,
@@ -250,7 +250,7 @@
     "-400 BLOCK 498 S GULFVIEW BLVD": 2,
     "1500 BLOCK EWING AVE": 1,
     "600 BLOCK S MARTIN LUTHER KING JR AVE": 2,
-    "MCMULLEN BOOTH RD / DREW ST": 1,
+    "MCMULLEN BOOTH RD / DREW ST": 2,
     "2000 BLOCK MADRID CT N": 1,
     "BAYSIDE BRG / BAYSIDE BRG SERVICE RD": 3,
     "800 BLOCK S MISSOURI AVE": 2,
@@ -1005,7 +1005,8 @@
     "400 BLOCK N JUPITER AVE": 1,
     "-3400 BLOCK 3449 COURTNEY CAMPBELL CSWY": 1,
     "1900 BLOCK KINGS HWY": 1,
-    "N MARTIN LUTHER KING JR AVE / CLEVELAND ST": 1
+    "N MARTIN LUTHER KING JR AVE / CLEVELAND ST": 1,
+    "1000 BLOCK FAIRMONT ST": 1
   },
   "hourly_distribution": {
     "0": 69,
@@ -1017,7 +1018,7 @@
     "6": 63,
     "7": 52,
     "8": 120,
-    "9": 132,
+    "9": 134,
     "10": 117,
     "11": 107,
     "12": 114,
@@ -1034,7 +1035,7 @@
     "23": 65
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-07T14:59:51.384858+00:00",
+  "last_updated": "2025-12-07T15:24:06.076275+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 639
+  "total_snapshots": 640
 }

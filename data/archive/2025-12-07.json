@@ -1849,6 +1849,42 @@
           "Response_Date": "2025-12-07T09:38:09"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-07T15:24:06.054391+00:00",
+      "call_count": 5,
+      "calls": [
+        {
+          "Master_Incident_Number": "120725-00130",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "400 BLOCK S GULFVIEW BLVD",
+          "Response_Date": "2025-12-07T08:27:48"
+        },
+        {
+          "Master_Incident_Number": "120725-00157",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "-3400 BLOCK 3449 COURTNEY CAMPBELL CSWY",
+          "Response_Date": "2025-12-07T09:19:20"
+        },
+        {
+          "Master_Incident_Number": "120725-00159",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "RUTH ECKERD HALL DR",
+          "Response_Date": "2025-12-07T09:19:52"
+        },
+        {
+          "Master_Incident_Number": "120725-00179",
+          "Online_Description": "NEIGHBOR CALL",
+          "Address": "1000 BLOCK FAIRMONT ST",
+          "Response_Date": "2025-12-07T09:54:57"
+        },
+        {
+          "Master_Incident_Number": "120725-00181",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "MCMULLEN BOOTH RD / DREW ST",
+          "Response_Date": "2025-12-07T09:58:26"
+        }
+      ]
     }
   ]
 }
