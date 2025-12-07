@@ -7,22 +7,10 @@
       "Response_Date": "2025-12-06T22:19:39"
     },
     {
-      "Master_Incident_Number": "120625-00591",
-      "Online_Description": "TRAFFIC CRASH",
-      "Address": "25100 BLOCK US HIGHWAY 19 N",
-      "Response_Date": "2025-12-06T22:34:02"
-    },
-    {
       "Master_Incident_Number": "120625-00621",
       "Online_Description": "BATTERY",
       "Address": "1800 BLOCK WASHINGTON AVE",
       "Response_Date": "2025-12-06T23:12:15"
-    },
-    {
-      "Master_Incident_Number": "120625-00629",
-      "Online_Description": "TRAFFIC STOP",
-      "Address": "US HIGHWAY 19 N / NE COACHMAN RD",
-      "Response_Date": "2025-12-06T23:32:28"
     },
     {
       "Master_Incident_Number": "120625-00635",
@@ -35,8 +23,20 @@
       "Online_Description": "DISTURBANCE",
       "Address": "0 BLOCK S GARDEN AVE",
       "Response_Date": "2025-12-07T00:45:57"
+    },
+    {
+      "Master_Incident_Number": "120725-00033",
+      "Online_Description": "TRAFFIC STOP",
+      "Address": "18700 BLOCK US HIGHWAY 19 N",
+      "Response_Date": "2025-12-07T01:08:46"
+    },
+    {
+      "Master_Incident_Number": "120725-00043",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "-2600 BLOCK 2668 AUGUSTA DR N",
+      "Response_Date": "2025-12-07T01:23:36"
     }
   ],
-  "timestamp": "2025-12-07T06:15:26.428432+00:00",
+  "timestamp": "2025-12-07T06:44:12.554704+00:00",
   "count": 6
 }
