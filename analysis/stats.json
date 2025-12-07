@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 1953,
-  "total_resolved": 1949,
+  "total_calls_tracked": 1955,
+  "total_resolved": 1951,
   "call_types": {
-    "DIRECTED PATROL": 641,
+    "DIRECTED PATROL": 642,
     "TRAFFIC STOP": 292,
     "DRUNK DRIVER": 6,
     "DISTURBANCE": 48,
@@ -11,7 +11,7 @@
     "ALARM": 28,
     "KEEP THE PEACE": 24,
     "WELFARE CHECK": 41,
-    "PARK WALK AND TALK": 176,
+    "PARK WALK AND TALK": 177,
     "SUSPICIOUS PERSON": 79,
     "TRESPASS": 46,
     "PROPERTY FOUND/LOST": 12,
@@ -228,12 +228,12 @@
     "HOLT AVE / RUSSELL ST": 1,
     "S GULFVIEW BLVD / SECOND ST": 1,
     "2500 BLOCK COUNTRYSIDE BLVD": 11,
-    "-300 BLOCK 339 CORONADO DR": 1,
+    "-300 BLOCK 339 CORONADO DR": 2,
     "-600 BLOCK 698 CLEVELAND ST": 1,
     "1500 BLOCK S HIGHLAND AVE": 3,
     "PINELLAS ST / S FORT HARRISON AVE": 1,
     "1600 BLOCK N ARCTURAS AVE": 4,
-    "1100 BLOCK BECKETT ST": 13,
+    "1100 BLOCK BECKETT ST": 14,
     "PAPAYA ST / MANDALAY AVE": 1,
     "CLEVELAND ST / N MISSOURI AVE": 2,
     "600 BLOCK COURT ST": 4,
@@ -1022,7 +1022,7 @@
     "8": 120,
     "9": 136,
     "10": 123,
-    "11": 108,
+    "11": 110,
     "12": 114,
     "13": 115,
     "14": 136,
@@ -1037,7 +1037,7 @@
     "23": 65
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-07T16:23:24.037608+00:00",
+  "last_updated": "2025-12-07T16:41:55.715269+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 645
+  "total_snapshots": 646
 }
