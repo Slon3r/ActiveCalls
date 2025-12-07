@@ -13,12 +13,6 @@
       "Response_Date": "2025-12-07T17:04:40"
     },
     {
-      "Master_Incident_Number": "120725-00314",
-      "Online_Description": "TRAFFIC STOP",
-      "Address": "N BETTY LN / DREW ST",
-      "Response_Date": "2025-12-07T17:21:00"
-    },
-    {
       "Master_Incident_Number": "120725-00318",
       "Online_Description": "THEFT",
       "Address": "1600 BLOCK GULF TO BAY BLVD",
@@ -27,7 +21,7 @@
     {
       "Master_Incident_Number": "120725-00317",
       "Online_Description": "PERSON DOWN",
-      "Address": "BRIGHTWATER DR / HAMDEN DR",
+      "Address": "100 BLOCK BRIGHTWATER DR",
       "Response_Date": "2025-12-07T17:26:08"
     },
     {
@@ -35,8 +29,14 @@
       "Online_Description": "DIRECTED PATROL",
       "Address": "3200 BLOCK COURTNEY CAMPBELL CSWY",
       "Response_Date": "2025-12-07T17:28:31"
+    },
+    {
+      "Master_Incident_Number": "120725-00322",
+      "Online_Description": "TRAFFIC STOP",
+      "Address": "0 BLOCK CAUSEWAY BLVD",
+      "Response_Date": "2025-12-07T17:34:13"
     }
   ],
-  "timestamp": "2025-12-07T22:50:52.516132+00:00",
+  "timestamp": "2025-12-07T22:58:42.707044+00:00",
   "count": 6
 }
