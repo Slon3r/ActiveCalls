@@ -294,6 +294,90 @@
           "Response_Date": "2025-12-06T22:32:39"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-07T04:28:40.451591+00:00",
+      "call_count": 13,
+      "calls": [
+        {
+          "Master_Incident_Number": "120625-00508",
+          "Online_Description": "SUSPICIOUS PERSON",
+          "Address": "1100 BLOCK BECKETT ST",
+          "Response_Date": "2025-12-06T20:07:41"
+        },
+        {
+          "Master_Incident_Number": "120625-00571",
+          "Online_Description": "DRUNK DRIVER",
+          "Address": "S FORT HARRISON AVE / CHESTNUT ST",
+          "Response_Date": "2025-12-06T22:08:53"
+        },
+        {
+          "Master_Incident_Number": "120625-00574",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "600 BLOCK CLEVELAND ST",
+          "Response_Date": "2025-12-06T22:16:54"
+        },
+        {
+          "Master_Incident_Number": "120625-00578",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "500 BLOCK CLEVELAND ST",
+          "Response_Date": "2025-12-06T22:19:39"
+        },
+        {
+          "Master_Incident_Number": "120625-00580",
+          "Online_Description": "BATTERY",
+          "Address": "1100 BLOCK DRUID RD",
+          "Response_Date": "2025-12-06T22:22:02"
+        },
+        {
+          "Master_Incident_Number": "120625-00584",
+          "Online_Description": "NEIGHBOR CALL",
+          "Address": "1200 BLOCK S MISSOURI AVE",
+          "Response_Date": "2025-12-06T22:25:57"
+        },
+        {
+          "Master_Incident_Number": "120625-00591",
+          "Online_Description": "TRAFFIC CRASH",
+          "Address": "25100 BLOCK US HIGHWAY 19 N",
+          "Response_Date": "2025-12-06T22:34:02"
+        },
+        {
+          "Master_Incident_Number": "120625-00601",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "HENDRICKS ST/N GARDEN AVE",
+          "Response_Date": "2025-12-06T22:50:13"
+        },
+        {
+          "Master_Incident_Number": "120625-00605",
+          "Online_Description": "NOISE COMPLAINT",
+          "Address": "2200 BLOCK GULF TO BAY BLVD",
+          "Response_Date": "2025-12-06T22:54:33"
+        },
+        {
+          "Master_Incident_Number": "120625-00606",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "0 BLOCK 37 LAUREL ST",
+          "Response_Date": "2025-12-06T22:55:00"
+        },
+        {
+          "Master_Incident_Number": "120625-00610",
+          "Online_Description": "WELFARE CHECK",
+          "Address": "2500 BLOCK HARN BLVD",
+          "Response_Date": "2025-12-06T22:57:44"
+        },
+        {
+          "Master_Incident_Number": "120625-00611",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "0 BLOCK MEMORIAL CSWY",
+          "Response_Date": "2025-12-06T23:00:24"
+        },
+        {
+          "Master_Incident_Number": "120625-00613",
+          "Online_Description": "RECKLESS VEHICLE",
+          "Address": "S MISSOURI AVE / COURT ST",
+          "Response_Date": "2025-12-06T23:04:07"
+        }
+      ]
     }
   ]
 }
