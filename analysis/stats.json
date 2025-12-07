@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 1965,
-  "total_resolved": 1960,
+  "total_calls_tracked": 1967,
+  "total_resolved": 1961,
   "call_types": {
-    "DIRECTED PATROL": 645,
+    "DIRECTED PATROL": 646,
     "TRAFFIC STOP": 293,
     "DRUNK DRIVER": 6,
     "DISTURBANCE": 48,
@@ -13,7 +13,7 @@
     "WELFARE CHECK": 42,
     "PARK WALK AND TALK": 177,
     "SUSPICIOUS PERSON": 80,
-    "TRESPASS": 46,
+    "TRESPASS": 47,
     "PROPERTY FOUND/LOST": 12,
     "THEFT": 26,
     "NEIGHBOR CALL": 11,
@@ -99,7 +99,7 @@
     "2100 BLOCK BELCHER RD": 1,
     "SAND KEY PARK ENTRANCE": 5,
     "S MISSOURI AVE / LAKEVIEW RD": 3,
-    "23100 BLOCK US HIGHWAY 19 N": 8,
+    "23100 BLOCK US HIGHWAY 19 N": 9,
     "1200 BLOCK N BETTY LN": 1,
     "MCMULLEN BOOTH RD / SR 590": 3,
     "LAKEVIEW RD / S MISSOURI AVE": 2,
@@ -288,7 +288,7 @@
     "DREW ST / BAYVIEW AVE": 3,
     "2800 BLOCK APPLEWOOD DRIVE": 1,
     "1500 BLOCK EXCALIBER DR": 1,
-    "300 BLOCK PINELLAS ST": 10,
+    "300 BLOCK PINELLAS ST": 11,
     "1700 BLOCK EL TAIR TRL": 1,
     "SETON DR / MONTCLAIR RD": 1,
     "700 BLOCK S GULFVIEW BLVD": 1,
@@ -1027,7 +1027,7 @@
     "9": 136,
     "10": 123,
     "11": 120,
-    "12": 114,
+    "12": 116,
     "13": 115,
     "14": 136,
     "15": 130,
@@ -1041,7 +1041,7 @@
     "23": 65
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-07T17:20:40.054132+00:00",
+  "last_updated": "2025-12-07T17:33:22.244524+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 649
+  "total_snapshots": 650
 }
