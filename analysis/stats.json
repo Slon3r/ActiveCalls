@@ -1,6 +1,6 @@
 {
-  "total_calls_tracked": 1994,
-  "total_resolved": 1989,
+  "total_calls_tracked": 1996,
+  "total_resolved": 1991,
   "call_types": {
     "DIRECTED PATROL": 651,
     "TRAFFIC STOP": 296,
@@ -21,7 +21,7 @@
     "SUSPICIOUS VEHICLE": 15,
     "PANHANDLER/SOLICITOR": 4,
     "VEHICLE ILLEGALLY PARKED": 4,
-    "SUSPICIOUS EVENT": 34,
+    "SUSPICIOUS EVENT": 36,
     "TRAFFIC CRASH": 78,
     "DISABLED VEHICLE": 13,
     "ASSIST CITIZEN": 53,
@@ -65,7 +65,7 @@
     "1900 BLOCK N BETTY LN": 1,
     "1400 BLOCK CLEVELAND ST": 2,
     "1000 BLOCK WEST AVE": 2,
-    "600 BLOCK S GULFVIEW BLVD": 9,
+    "600 BLOCK S GULFVIEW BLVD": 10,
     "-800 BLOCK 1099 MARSHALL ST": 1,
     "US HIGHWAY 19 N / DREW ST": 14,
     "US HIGHWAY 19 N / SR 590": 7,
@@ -1017,7 +1017,8 @@
     "CHARLES AVE / DANIEL ST": 1,
     "0 BLOCK GLENDALE ST": 1,
     "800 BLOCK LANTERN WAY": 1,
-    "GULF TO BAY BLVD / S HERCULES AVE": 1
+    "GULF TO BAY BLVD / S HERCULES AVE": 1,
+    "1400 BLOCK BARBARA AVE": 1
   },
   "hourly_distribution": {
     "0": 69,
@@ -1035,7 +1036,7 @@
     "12": 124,
     "13": 121,
     "14": 143,
-    "15": 135,
+    "15": 137,
     "16": 119,
     "17": 104,
     "18": 93,
@@ -1046,7 +1047,7 @@
     "23": 65
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-07T20:55:39.844304+00:00",
+  "last_updated": "2025-12-07T21:12:01.896719+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 666
+  "total_snapshots": 667
 }

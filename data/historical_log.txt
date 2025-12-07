@@ -9632,3 +9632,16 @@ TOTAL ACTIVE CALLS: 5
 
 --- RESOLVED CALLS (1) ---
 [RESOLVED] 120725-00269 | 911 HANG-UP | 0 BLOCK CAUSEWAY BLVD | Response: 03:07 PM
+
+================================================================================
+TIMESTAMP: 2025-12-07T21:12:01.892541+00:00
+TOTAL ACTIVE CALLS: 5
+================================================================================
+
+--- NEW CALLS (2) ---
+[NEW] 120725-00280 | SUSPICIOUS EVENT | 600 BLOCK S GULFVIEW BLVD | Response: 03:38 PM
+[NEW] 120725-00281 | SUSPICIOUS EVENT | 1400 BLOCK BARBARA AVE | Response: 03:45 PM
+
+--- RESOLVED CALLS (2) ---
+[RESOLVED] 120725-00252 | SHOPLIFTING | 27000 BLOCK US HIGHWAY 19 N | Response: 02:06 PM
+[RESOLVED] 120725-00275 | TRAFFIC CONTROL | PARK PLACE BLVD / GULF TO BAY BLVD | Response: 03:30 PM
