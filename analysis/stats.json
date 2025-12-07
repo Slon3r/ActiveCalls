@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 2015,
-  "total_resolved": 2009,
+  "total_calls_tracked": 2017,
+  "total_resolved": 2012,
   "call_types": {
-    "DIRECTED PATROL": 657,
+    "DIRECTED PATROL": 659,
     "TRAFFIC STOP": 298,
     "DRUNK DRIVER": 6,
     "DISTURBANCE": 49,
@@ -301,7 +301,7 @@
     "-100 BLOCK 218 S GULFVIEW BLVD": 1,
     "N BELCHER RD / NE COACHMAN RD": 1,
     "SAMS CLUB": 1,
-    "2300 BLOCK STAG RUN BLVD": 1,
+    "2300 BLOCK STAG RUN BLVD": 2,
     "700 BLOCK S MADISON AVE": 1,
     "N MYRTLE AVE / ELDRIDGE ST": 2,
     "GRANGER DR / N BELCHER RD": 2,
@@ -506,7 +506,7 @@
     "1300 BLOCK PARKWOOD ST": 1,
     "S OSCEOLA AVE / COURT ST": 1,
     "N BELCHER RD / SUNSET POINT RD": 1,
-    "-2800 BLOCK 2898 EAGLE ESTATES CIR N": 1,
+    "-2800 BLOCK 2898 EAGLE ESTATES CIR N": 2,
     "1400 BLOCK SPRINGDALE ST": 3,
     "-2000 BLOCK 2098 SUNSET GROVE LN": 1,
     "2300 BLOCK DREW ST": 2,
@@ -1041,7 +1041,7 @@
     "14": 143,
     "15": 139,
     "16": 127,
-    "17": 113,
+    "17": 115,
     "18": 93,
     "19": 31,
     "20": 36,
@@ -1050,7 +1050,7 @@
     "23": 65
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-07T22:58:42.718473+00:00",
+  "last_updated": "2025-12-07T23:20:09.339144+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 676
+  "total_snapshots": 677
 }
