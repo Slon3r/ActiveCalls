@@ -9528,3 +9528,16 @@ TOTAL ACTIVE CALLS: 4
 ================================================================================
 
 No changes since last check.
+
+================================================================================
+TIMESTAMP: 2025-12-07T19:25:26.561095+00:00
+TOTAL ACTIVE CALLS: 4
+================================================================================
+
+--- NEW CALLS (2) ---
+[NEW] 120725-00247 | SUSPICIOUS PERSON | 1100 BLOCK WOODLAWN ST | Response: 01:35 PM
+[NEW] 120725-00249 | PARK WALK AND TALK | 400 BLOCK S GULFVIEW BLVD | Response: 01:56 PM
+
+--- RESOLVED CALLS (2) ---
+[RESOLVED] 120725-00225 | BURGLARY | 1700 BLOCK N HIGHLAND AVE | Response: 12:17 PM
+[RESOLVED] 120725-00240 | DISTURBANCE | 1300 BLOCK YOUNG AVE | Response: 01:16 PM

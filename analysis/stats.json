@@ -1,6 +1,6 @@
 {
-  "total_calls_tracked": 1978,
-  "total_resolved": 1974,
+  "total_calls_tracked": 1980,
+  "total_resolved": 1976,
   "call_types": {
     "DIRECTED PATROL": 648,
     "TRAFFIC STOP": 296,
@@ -11,8 +11,8 @@
     "ALARM": 28,
     "KEEP THE PEACE": 24,
     "WELFARE CHECK": 42,
-    "PARK WALK AND TALK": 178,
-    "SUSPICIOUS PERSON": 80,
+    "PARK WALK AND TALK": 179,
+    "SUSPICIOUS PERSON": 81,
     "TRESPASS": 47,
     "PROPERTY FOUND/LOST": 12,
     "THEFT": 26,
@@ -78,7 +78,7 @@
     "-800 BLOCK 819 NARCISSUS AVE": 2,
     "0 BLOCK ISLAND WAY": 6,
     "US HIGHWAY 19 N / SR 580": 3,
-    "400 BLOCK S GULFVIEW BLVD": 6,
+    "400 BLOCK S GULFVIEW BLVD": 7,
     "100 BLOCK S MYRTLE AVE": 3,
     "0 BLOCK CAUSEWAY BLVD": 16,
     "400 BLOCK FAIRWOOD AVE": 4,
@@ -532,7 +532,7 @@
     "23200 BLOCK US HIGHWAY 19 N": 4,
     "900 BLOCK COURT ST": 2,
     "GULF TO BAY BLVD / THORNTON RD": 1,
-    "1100 BLOCK WOODLAWN ST": 2,
+    "1100 BLOCK WOODLAWN ST": 3,
     "200 BLOCK S STARCREST DR": 1,
     "3000 BLOCK GULF TO BAY BLVD": 2,
     "-2000 BLOCK 2198 PALMETTO ST": 2,
@@ -1032,7 +1032,7 @@
     "10": 123,
     "11": 120,
     "12": 124,
-    "13": 118,
+    "13": 120,
     "14": 136,
     "15": 130,
     "16": 119,
@@ -1045,7 +1045,7 @@
     "23": 65
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-07T19:12:25.910894+00:00",
+  "last_updated": "2025-12-07T19:25:26.566743+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 657
+  "total_snapshots": 658
 }
