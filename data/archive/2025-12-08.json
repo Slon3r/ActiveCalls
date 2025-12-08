@@ -312,6 +312,24 @@
           "Response_Date": "2025-12-08T03:24:51"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-08T09:17:44.634139+00:00",
+      "call_count": 2,
+      "calls": [
+        {
+          "Master_Incident_Number": "120725-00400",
+          "Online_Description": "SHOOTING",
+          "Address": "1200 BLOCK S HIGHLAND AVE",
+          "Response_Date": "2025-12-07T19:58:12"
+        },
+        {
+          "Master_Incident_Number": "120825-00036",
+          "Online_Description": "DISABLED VEHICLE",
+          "Address": "2100 BLOCK GULF TO BAY BLVD",
+          "Response_Date": "2025-12-08T03:24:51"
+        }
+      ]
     }
   ]
 }
