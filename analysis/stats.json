@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 2108,
-  "total_resolved": 2102,
+  "total_calls_tracked": 2114,
+  "total_resolved": 2107,
   "call_types": {
-    "DIRECTED PATROL": 688,
-    "TRAFFIC STOP": 315,
+    "DIRECTED PATROL": 692,
+    "TRAFFIC STOP": 316,
     "DRUNK DRIVER": 6,
     "DISTURBANCE": 49,
     "BATTERY": 15,
@@ -25,7 +25,7 @@
     "TRAFFIC CRASH": 84,
     "DISABLED VEHICLE": 15,
     "ASSIST CITIZEN": 56,
-    "ASSIST OTHER AGENCY": 37,
+    "ASSIST OTHER AGENCY": 38,
     "FIRE": 2,
     "FRAUD": 14,
     "RECKLESS VEHICLE": 7,
@@ -89,7 +89,7 @@
     "1300 BLOCK S BELCHER RD": 10,
     "200 BLOCK WINDWARD PSGE": 4,
     "2700 BLOCK DREW ST": 1,
-    "FLUSHING AVE / HARN BLVD": 1,
+    "FLUSHING AVE / HARN BLVD": 2,
     "S BELCHER RD / BARCELONA DR": 1,
     "-1400 BLOCK 1417 S MISSOURI AVE": 1,
     "1000 BLOCK GULF BLVD": 24,
@@ -282,8 +282,8 @@
     "3000 BLOCK EASTLAND BLVD": 3,
     "-2300 BLOCK 2373 GULF TO BAY BLVD": 1,
     "1800 BLOCK MONTCLAIR RD": 2,
-    "20500 BLOCK US HIGHWAY 19 N": 7,
-    "200 BLOCK LARBOARD WAY": 1,
+    "20500 BLOCK US HIGHWAY 19 N": 8,
+    "200 BLOCK LARBOARD WAY": 2,
     "COURT ST / S MISSOURI AVE": 3,
     "-500 BLOCK 1068 GULF BLVD": 1,
     "26300 BLOCK US HIGHWAY 19 N": 2,
@@ -603,7 +603,7 @@
     "700 BLOCK LAKEVIEW RD": 2,
     "1500 BLOCK N BETTY LN": 1,
     "COURTNEY CAMPBELL CSWY / BAYSHORE BLVD": 1,
-    "25300 BLOCK US HIGHWAY 19 N": 4,
+    "25300 BLOCK US HIGHWAY 19 N": 5,
     "-3100 BLOCK 3161 MASTERS DR": 1,
     "-2600 BLOCK 2698 CLUBHOUSE DR N": 1,
     "SR 580 / COUNTRYSIDE BLVD": 2,
@@ -649,7 +649,7 @@
     "OLD COACHMAN RD / DREW ST": 4,
     "900 BLOCK CARLTON ST": 1,
     "1200 BLOCK S MYRTLE AVE": 1,
-    "1300 BLOCK S MARTIN LUTHER KING JR AVE": 1,
+    "1300 BLOCK S MARTIN LUTHER KING JR AVE": 2,
     "26400 BLOCK US HIGHWAY 19 N": 1,
     "S MARTIN LUTHER KING JR AVE / BELLEAIR RD": 1,
     "500 BLOCK ISLAND WAY": 1,
@@ -1051,7 +1051,8 @@
     "2000 BLOCK DOUGLAS AVE": 1,
     "GULF TO BAY BLVD / DAVID AVE": 1,
     "0 BLOCK N GARDEN AVE": 1,
-    "GUNN AVE / CAMELLIA DR": 1
+    "GUNN AVE / CAMELLIA DR": 1,
+    "FERN AVE / DREW ST": 1
   },
   "hourly_distribution": {
     "0": 75,
@@ -1064,7 +1065,7 @@
     "7": 54,
     "8": 130,
     "9": 153,
-    "10": 129,
+    "10": 135,
     "11": 120,
     "12": 124,
     "13": 121,
@@ -1080,7 +1081,7 @@
     "23": 65
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-08T15:37:28.661969+00:00",
+  "last_updated": "2025-12-08T15:48:05.500130+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 716
+  "total_snapshots": 717
 }
