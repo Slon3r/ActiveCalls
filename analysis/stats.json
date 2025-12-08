@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 2096,
-  "total_resolved": 2090,
+  "total_calls_tracked": 2103,
+  "total_resolved": 2093,
   "call_types": {
-    "DIRECTED PATROL": 685,
-    "TRAFFIC STOP": 310,
+    "DIRECTED PATROL": 687,
+    "TRAFFIC STOP": 312,
     "DRUNK DRIVER": 6,
     "DISTURBANCE": 49,
     "BATTERY": 15,
@@ -11,13 +11,13 @@
     "ALARM": 31,
     "KEEP THE PEACE": 24,
     "WELFARE CHECK": 46,
-    "PARK WALK AND TALK": 188,
-    "SUSPICIOUS PERSON": 83,
+    "PARK WALK AND TALK": 189,
+    "SUSPICIOUS PERSON": 84,
     "TRESPASS": 50,
     "PROPERTY FOUND/LOST": 12,
     "THEFT": 28,
     "NEIGHBOR CALL": 11,
-    "911 HANG-UP": 80,
+    "911 HANG-UP": 81,
     "SUSPICIOUS VEHICLE": 15,
     "PANHANDLER/SOLICITOR": 4,
     "VEHICLE ILLEGALLY PARKED": 4,
@@ -144,7 +144,7 @@
     "GULF TO BAY BLVD / THORTON RD": 1,
     "COUNTRYSIDE BLVD / ENDICOTT CT": 4,
     "3000 BLOCK DREW ST": 4,
-    "2400 BLOCK COUNTRYSIDE BLVD": 4,
+    "2400 BLOCK COUNTRYSIDE BLVD": 6,
     "1200 BLOCK S MISSOURI AVE": 12,
     "2000 BLOCK N HIGHLAND AVE": 9,
     "N DUNCAN AVE / DREW ST": 1,
@@ -317,7 +317,7 @@
     "2800 BLOCK GULF TO BAY BLVD": 3,
     "19100 BLOCK US HIGHWAY 19 N": 2,
     "1200 BLOCK S HIGHLAND AVE": 11,
-    "1200 BLOCK TURNER ST": 1,
+    "1200 BLOCK TURNER ST": 2,
     "THIRD ST / CORONADO DR": 1,
     "900 BLOCK N MCMULLEN BOOTH RD": 1,
     "GULF TO BAY BLVD / S GLENWOOD AVE": 1,
@@ -1045,7 +1045,11 @@
     "GULF TO BAY BLVD / CLEVELAND ST": 1,
     "SR 580 / LANDMARK DR": 1,
     "CLEVELAND ST / N LINCOLN AVE": 1,
-    "SR 580 / SABAL SPRINGS CIR": 1
+    "SR 580 / SABAL SPRINGS CIR": 1,
+    "-1300 BLOCK 1338 PALMETTO ST": 1,
+    "SKY HARBOR DR": 1,
+    "2000 BLOCK DOUGLAS AVE": 1,
+    "GULF TO BAY BLVD / DAVID AVE": 1
   },
   "hourly_distribution": {
     "0": 75,
@@ -1057,7 +1061,7 @@
     "6": 75,
     "7": 54,
     "8": 130,
-    "9": 146,
+    "9": 153,
     "10": 124,
     "11": 120,
     "12": 124,
@@ -1074,7 +1078,7 @@
     "23": 65
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-08T14:54:56.132552+00:00",
+  "last_updated": "2025-12-08T15:15:43.139570+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 714
+  "total_snapshots": 715
 }
