@@ -10480,3 +10480,12 @@ TOTAL ACTIVE CALLS: 9
 [RESOLVED] 120825-00277 | DIRECTED PATROL | 2900 BLOCK DREW ST | Response: 01:47 PM
 [RESOLVED] 120825-00281 | 911 HANG-UP | 1000 BLOCK IROQUOIS ST | Response: 01:54 PM
 [RESOLVED] 120825-00282 | DIRECTED PATROL | PALMETTO ST & KINGS HWY | Response: 01:59 PM
+
+================================================================================
+TIMESTAMP: 2025-12-08T19:44:38.836597+00:00
+TOTAL ACTIVE CALLS: 11
+================================================================================
+
+--- NEW CALLS (2) ---
+[NEW] 120825-00290 | DIRECTED PATROL | 1200 BLOCK CLEVELAND ST | Response: 02:22 PM
+[NEW] 120825-00291 | TRAFFIC CONTROL | GULF TO BAY BLVD / US HIGHWAY 19 N | Response: 02:23 PM

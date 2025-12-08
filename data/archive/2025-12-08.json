@@ -1583,6 +1583,78 @@
           "Response_Date": "2025-12-08T14:14:29"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-08T19:44:38.836597+00:00",
+      "call_count": 11,
+      "calls": [
+        {
+          "Master_Incident_Number": "120725-00400",
+          "Online_Description": "HOMICIDE",
+          "Address": "1200 BLOCK S HIGHLAND AVE",
+          "Response_Date": "2025-12-07T19:58:12"
+        },
+        {
+          "Master_Incident_Number": "120825-00260",
+          "Online_Description": "WELFARE CHECK",
+          "Address": "2600 BLOCK SABAL SPRINGS CIR",
+          "Response_Date": "2025-12-08T12:59:02"
+        },
+        {
+          "Master_Incident_Number": "120825-00265",
+          "Online_Description": "TRAFFIC CRASH",
+          "Address": "GULF TO BAY BLVD / S KEENE RD",
+          "Response_Date": "2025-12-08T13:10:44"
+        },
+        {
+          "Master_Incident_Number": "120825-00273",
+          "Online_Description": "SUSPICIOUS EVENT",
+          "Address": "300 BLOCK S LAKE DR",
+          "Response_Date": "2025-12-08T13:31:52"
+        },
+        {
+          "Master_Incident_Number": "120825-00284",
+          "Online_Description": "ASSAULT",
+          "Address": "1100 BLOCK PINELLAS ST",
+          "Response_Date": "2025-12-08T14:06:20"
+        },
+        {
+          "Master_Incident_Number": "120825-00283",
+          "Online_Description": "TRAFFIC CRASH",
+          "Address": "US HIGHWAY 19 N / DREW ST",
+          "Response_Date": "2025-12-08T14:06:45"
+        },
+        {
+          "Master_Incident_Number": "120825-00285",
+          "Online_Description": "PARK WALK AND TALK",
+          "Address": "0 BLOCK 99 THIRD ST",
+          "Response_Date": "2025-12-08T14:13:38"
+        },
+        {
+          "Master_Incident_Number": "120825-00286",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "2600 BLOCK SABAL SPRINGS DR",
+          "Response_Date": "2025-12-08T14:14:16"
+        },
+        {
+          "Master_Incident_Number": "120825-00287",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "2900 BLOCK DREW ST",
+          "Response_Date": "2025-12-08T14:14:29"
+        },
+        {
+          "Master_Incident_Number": "120825-00290",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "1200 BLOCK CLEVELAND ST",
+          "Response_Date": "2025-12-08T14:22:19"
+        },
+        {
+          "Master_Incident_Number": "120825-00291",
+          "Online_Description": "TRAFFIC CONTROL",
+          "Address": "GULF TO BAY BLVD / US HIGHWAY 19 N",
+          "Response_Date": "2025-12-08T14:23:36"
+        }
+      ]
     }
   ]
 }
