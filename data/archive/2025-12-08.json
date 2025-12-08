@@ -1,0 +1,29 @@
+{
+  "date": "2025-12-08",
+  "snapshots": [
+    {
+      "timestamp": "2025-12-08T01:45:17.914466+00:00",
+      "call_count": 3,
+      "calls": [
+        {
+          "Master_Incident_Number": "120725-00367",
+          "Online_Description": "TRAFFIC CRASH",
+          "Address": "S BELCHER RD / DRUID RD",
+          "Response_Date": "2025-12-07T18:36:06"
+        },
+        {
+          "Master_Incident_Number": "120725-00381",
+          "Online_Description": "911 HANG-UP",
+          "Address": "700 BLOCK S MADISON AVE",
+          "Response_Date": "2025-12-07T18:53:00"
+        },
+        {
+          "Master_Incident_Number": "120725-00400",
+          "Online_Description": "SHOOTING",
+          "Address": "1200 BLOCK S HIGHLAND AVE",
+          "Response_Date": "2025-12-07T19:58:12"
+        }
+      ]
+    }
+  ]
+}
