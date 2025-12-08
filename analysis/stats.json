@@ -1,6 +1,6 @@
 {
-  "total_calls_tracked": 2037,
-  "total_resolved": 2034,
+  "total_calls_tracked": 2039,
+  "total_resolved": 2036,
   "call_types": {
     "DIRECTED PATROL": 665,
     "TRAFFIC STOP": 303,
@@ -21,7 +21,7 @@
     "SUSPICIOUS VEHICLE": 15,
     "PANHANDLER/SOLICITOR": 4,
     "VEHICLE ILLEGALLY PARKED": 4,
-    "SUSPICIOUS EVENT": 37,
+    "SUSPICIOUS EVENT": 39,
     "TRAFFIC CRASH": 80,
     "DISABLED VEHICLE": 14,
     "ASSIST CITIZEN": 53,
@@ -482,7 +482,7 @@
     "100 BLOCK N JEFFERSON AVE": 1,
     "1500 BLOCK JEFFORDS ST": 4,
     "1100 BLOCK LA SALLE ST": 2,
-    "200 BLOCK MCMULLEN BOOTH RD S": 1,
+    "200 BLOCK MCMULLEN BOOTH RD S": 2,
     "0 BLOCK N EVERGREEN AVE": 1,
     "-200 BLOCK 299 CORONADO DR": 1,
     "1500 BLOCK S WASHINGTON AVE": 1,
@@ -1027,7 +1027,8 @@
     "ENT/INVER": 1,
     "1600 BLOCK RAINBOW DR": 1,
     "-1300 BLOCK 1398 N MARTIN LUTHER KING JR AVE": 1,
-    "-2600 BLOCK 2699 GLENEAGLES DR": 1
+    "-2600 BLOCK 2699 GLENEAGLES DR": 1,
+    "900 BLOCK ENGMAN ST": 1
   },
   "hourly_distribution": {
     "0": 69,
@@ -1051,12 +1052,12 @@
     "18": 112,
     "19": 32,
     "20": 36,
-    "21": 40,
+    "21": 42,
     "22": 90,
     "23": 65
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-08T01:45:17.915691+00:00",
+  "last_updated": "2025-12-08T03:12:17.737325+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 682
+  "total_snapshots": 683
 }
