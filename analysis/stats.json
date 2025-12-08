@@ -1,6 +1,6 @@
 {
-  "total_calls_tracked": 2127,
-  "total_resolved": 2122,
+  "total_calls_tracked": 2131,
+  "total_resolved": 2123,
   "call_types": {
     "DIRECTED PATROL": 698,
     "TRAFFIC STOP": 317,
@@ -12,7 +12,7 @@
     "KEEP THE PEACE": 24,
     "WELFARE CHECK": 46,
     "PARK WALK AND TALK": 189,
-    "SUSPICIOUS PERSON": 86,
+    "SUSPICIOUS PERSON": 88,
     "TRESPASS": 50,
     "PROPERTY FOUND/LOST": 12,
     "THEFT": 28,
@@ -24,14 +24,14 @@
     "SUSPICIOUS EVENT": 40,
     "TRAFFIC CRASH": 84,
     "DISABLED VEHICLE": 15,
-    "ASSIST CITIZEN": 56,
+    "ASSIST CITIZEN": 57,
     "ASSIST OTHER AGENCY": 39,
     "FIRE": 2,
     "FRAUD": 14,
     "RECKLESS VEHICLE": 7,
     "JUVENILE CASE": 8,
     "HAZARD": 4,
-    "UNKNOWN PROBLEM": 13,
+    "UNKNOWN PROBLEM": 14,
     "NOISE COMPLAINT": 8,
     "CIVIL MATTER": 12,
     "DOMESTIC": 17,
@@ -96,7 +96,7 @@
     "1400 BLOCK LAURA ST": 4,
     "ENTERPRISE RD E / VILLAGE DR": 2,
     "GULF TO BAY BLVD / HAMPTON RD": 1,
-    "2100 BLOCK GULF TO BAY BLVD": 21,
+    "2100 BLOCK GULF TO BAY BLVD": 22,
     "1300 BLOCK CLEVELAND ST": 10,
     "2100 BLOCK BELCHER RD": 1,
     "SAND KEY PARK ENTRANCE": 5,
@@ -121,7 +121,7 @@
     "2300 BLOCK GULF TO BAY BLVD": 4,
     "1200 BLOCK CLEVELAND ST": 11,
     "-500 BLOCK 549 MANDALAY AVE": 1,
-    "27000 BLOCK US HIGHWAY 19 N": 23,
+    "27000 BLOCK US HIGHWAY 19 N": 24,
     "DRIVEWAY PARKING": 2,
     "1100 BLOCK GULF BLVD": 5,
     "2500 BLOCK GULF TO BAY BLVD": 9,
@@ -213,7 +213,7 @@
     "23600 BLOCK US HIGHWAY 19 N": 4,
     "300 BLOCK MANDALAY AVE": 3,
     "JONES ST / FERN AVE": 1,
-    "1600 BLOCK GULF TO BAY BLVD": 16,
+    "1600 BLOCK GULF TO BAY BLVD": 17,
     "1600 BLOCK DARTMOUTH ST": 1,
     "HAMDEN DR / BRIGHTWATER DR": 2,
     "HAMPTON RD / GULF TO BAY BLVD": 2,
@@ -1055,7 +1055,8 @@
     "FERN AVE / DREW ST": 1,
     "2700 BLOCK WESTCHESTER DR N": 1,
     "1100 BLOCK OLD COACHMAN RD": 1,
-    "300 BLOCK COURT ST": 1
+    "300 BLOCK COURT ST": 1,
+    "1500 BLOCK BARBARA AVE": 1
   },
   "hourly_distribution": {
     "0": 75,
@@ -1069,8 +1070,8 @@
     "8": 130,
     "9": 153,
     "10": 143,
-    "11": 125,
-    "12": 124,
+    "11": 126,
+    "12": 127,
     "13": 121,
     "14": 143,
     "15": 139,
@@ -1084,7 +1085,7 @@
     "23": 65
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-08T17:10:13.889440+00:00",
+  "last_updated": "2025-12-08T17:33:53.940410+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 720
+  "total_snapshots": 721
 }
