@@ -10045,3 +10045,13 @@ TOTAL ACTIVE CALLS: 1
 --- RESOLVED CALLS (2) ---
 [RESOLVED] 120825-00044 | SUSPICIOUS PERSON | 2500 BLOCK HARN BLVD | Response: 04:28 AM
 [RESOLVED] 120825-00046 | DIRECTED PATROL | 1000 BLOCK GULF BLVD | Response: 04:35 AM
+
+================================================================================
+TIMESTAMP: 2025-12-08T10:44:40.830157+00:00
+TOTAL ACTIVE CALLS: 4
+================================================================================
+
+--- NEW CALLS (3) ---
+[NEW] 120825-00057 | ASSIST OTHER AGENCY | S MISSOURI AVE / DRUID RD | Response: 05:12 AM
+[NEW] 120825-00058 | ALARM | 1600 BLOCK GULF TO BAY BLVD | Response: 05:12 AM
+[NEW] 120825-00059 | DIRECTED PATROL | -600 BLOCK 689 BAY ESPLANADE | Response: 05:18 AM

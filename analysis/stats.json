@@ -1,14 +1,14 @@
 {
-  "total_calls_tracked": 2055,
+  "total_calls_tracked": 2058,
   "total_resolved": 2054,
   "call_types": {
-    "DIRECTED PATROL": 669,
+    "DIRECTED PATROL": 670,
     "TRAFFIC STOP": 303,
     "DRUNK DRIVER": 6,
     "DISTURBANCE": 49,
     "BATTERY": 15,
     "CRIMINAL MISCHIEF": 11,
-    "ALARM": 28,
+    "ALARM": 29,
     "KEEP THE PEACE": 24,
     "WELFARE CHECK": 46,
     "PARK WALK AND TALK": 186,
@@ -25,7 +25,7 @@
     "TRAFFIC CRASH": 80,
     "DISABLED VEHICLE": 15,
     "ASSIST CITIZEN": 54,
-    "ASSIST OTHER AGENCY": 35,
+    "ASSIST OTHER AGENCY": 36,
     "FIRE": 2,
     "FRAUD": 14,
     "RECKLESS VEHICLE": 7,
@@ -212,7 +212,7 @@
     "23600 BLOCK US HIGHWAY 19 N": 4,
     "300 BLOCK MANDALAY AVE": 3,
     "JONES ST / FERN AVE": 1,
-    "1600 BLOCK GULF TO BAY BLVD": 13,
+    "1600 BLOCK GULF TO BAY BLVD": 14,
     "1600 BLOCK DARTMOUTH ST": 1,
     "HAMDEN DR / BRIGHTWATER DR": 2,
     "HAMPTON RD / GULF TO BAY BLVD": 2,
@@ -614,7 +614,7 @@
     "-2100 BLOCK 2199 NURSERY RD": 1,
     "SR 580 / MCMULLEN BOOTH RD": 1,
     "300 BLOCK S ARCTURAS AVE": 1,
-    "S MISSOURI AVE / DRUID RD": 2,
+    "S MISSOURI AVE / DRUID RD": 3,
     "1000 BLOCK CARLTON ST": 2,
     "GULF TO BAY BLVD / BAYSIDE BRG": 1,
     "GULF TO BAY BLVD / S BAYSHORE BLVD": 1,
@@ -1033,7 +1033,8 @@
     "2900 BLOCK CR 193": 1,
     "0 BLOCK N LADY MARY DR": 1,
     "RIGSBY LN / SR 580": 1,
-    "-2700 BLOCK 2849 APPLEWOOD DR": 1
+    "-2700 BLOCK 2849 APPLEWOOD DR": 1,
+    "-600 BLOCK 689 BAY ESPLANADE": 1
   },
   "hourly_distribution": {
     "0": 75,
@@ -1041,7 +1042,7 @@
     "2": 45,
     "3": 35,
     "4": 21,
-    "5": 47,
+    "5": 50,
     "6": 63,
     "7": 52,
     "8": 120,
@@ -1062,7 +1063,7 @@
     "23": 65
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-08T10:20:22.536026+00:00",
+  "last_updated": "2025-12-08T10:44:40.831791+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 701
+  "total_snapshots": 702
 }
