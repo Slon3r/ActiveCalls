@@ -7,48 +7,30 @@
       "Response_Date": "2025-12-07T19:58:12"
     },
     {
-      "Master_Incident_Number": "120825-00198",
-      "Online_Description": "CRIMINAL MISCHIEF",
-      "Address": "800 BLOCK LANTERN WAY",
-      "Response_Date": "2025-12-08T10:41:48"
+      "Master_Incident_Number": "120825-00218",
+      "Online_Description": "ASSIST OTHER AGENCY",
+      "Address": "1100 BLOCK OLD COACHMAN RD",
+      "Response_Date": "2025-12-08T11:14:22"
     },
     {
-      "Master_Incident_Number": "120825-00196",
+      "Master_Incident_Number": "120825-00221",
+      "Online_Description": "911 HANG-UP",
+      "Address": "100 BLOCK HAMPTON RD",
+      "Response_Date": "2025-12-08T11:21:39"
+    },
+    {
+      "Master_Incident_Number": "120825-00226",
       "Online_Description": "DIRECTED PATROL",
-      "Address": "1600 BLOCK GULF TO BAY BLVD",
-      "Response_Date": "2025-12-08T10:44:10"
+      "Address": "2900 BLOCK GLEN OAK AVE N",
+      "Response_Date": "2025-12-08T11:39:34"
     },
     {
-      "Master_Incident_Number": "120825-00204",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "2100 BLOCK SOULE RD",
-      "Response_Date": "2025-12-08T10:50:38"
-    },
-    {
-      "Master_Incident_Number": "120825-00205",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "20500 BLOCK US HIGHWAY 19 N",
-      "Response_Date": "2025-12-08T10:51:12"
-    },
-    {
-      "Master_Incident_Number": "120825-00207",
-      "Online_Description": "SUSPICIOUS PERSON",
-      "Address": "1400 BLOCK SUNSET POINT RD",
-      "Response_Date": "2025-12-08T10:53:37"
-    },
-    {
-      "Master_Incident_Number": "120825-00209",
-      "Online_Description": "SUSPICIOUS PERSON",
-      "Address": "2400 BLOCK COUNTRYSIDE BLVD",
-      "Response_Date": "2025-12-08T10:59:47"
-    },
-    {
-      "Master_Incident_Number": "120825-00210",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "2400 BLOCK DREW ST",
-      "Response_Date": "2025-12-08T11:00:09"
+      "Master_Incident_Number": "120825-00227",
+      "Online_Description": "911 HANG-UP",
+      "Address": "300 BLOCK COURT ST",
+      "Response_Date": "2025-12-08T11:40:25"
     }
   ],
-  "timestamp": "2025-12-08T16:25:30.313570+00:00",
-  "count": 8
+  "timestamp": "2025-12-08T17:10:13.887044+00:00",
+  "count": 5
 }
