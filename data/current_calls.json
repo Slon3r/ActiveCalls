@@ -7,36 +7,60 @@
       "Response_Date": "2025-12-07T19:58:12"
     },
     {
-      "Master_Incident_Number": "120825-00081",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "800 BLOCK COURT ST",
-      "Response_Date": "2025-12-08T06:37:20"
-    },
-    {
       "Master_Incident_Number": "120825-00127",
       "Online_Description": "TRAFFIC CRASH",
       "Address": "SUNSET POINT RD / US HIGHWAY 19 N",
       "Response_Date": "2025-12-08T08:41:19"
     },
     {
-      "Master_Incident_Number": "120825-00132",
-      "Online_Description": "ALARM",
-      "Address": "27000 BLOCK US HIGHWAY 19 N",
-      "Response_Date": "2025-12-08T08:52:12"
-    },
-    {
-      "Master_Incident_Number": "120825-00133",
-      "Online_Description": "TRAFFIC STOP",
-      "Address": "GULF TO BAY BLVD / CLEVELAND ST",
-      "Response_Date": "2025-12-08T08:55:35"
-    },
-    {
-      "Master_Incident_Number": "120825-00134",
+      "Master_Incident_Number": "120825-00138",
       "Online_Description": "DIRECTED PATROL",
-      "Address": "BRIGHTWATER DR / HAMDEN DR",
-      "Response_Date": "2025-12-08T08:57:16"
+      "Address": "1300 BLOCK S BELCHER RD",
+      "Response_Date": "2025-12-08T09:09:53"
+    },
+    {
+      "Master_Incident_Number": "120825-00139",
+      "Online_Description": "TRAFFIC STOP",
+      "Address": "US HIGHWAY 19 N / DREW ST",
+      "Response_Date": "2025-12-08T09:10:08"
+    },
+    {
+      "Master_Incident_Number": "120825-00142",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "SR 580 / COUNTRYSIDE BLVD",
+      "Response_Date": "2025-12-08T09:15:48"
+    },
+    {
+      "Master_Incident_Number": "120825-00143",
+      "Online_Description": "TRAFFIC STOP",
+      "Address": "SR 580 / LANDMARK DR",
+      "Response_Date": "2025-12-08T09:17:49"
+    },
+    {
+      "Master_Incident_Number": "120825-00145",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "1600 BLOCK GULF TO BAY BLVD",
+      "Response_Date": "2025-12-08T09:21:50"
+    },
+    {
+      "Master_Incident_Number": "120825-00146",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "600 BLOCK MANDALAY AVE",
+      "Response_Date": "2025-12-08T09:22:17"
+    },
+    {
+      "Master_Incident_Number": "120825-00147",
+      "Online_Description": "TRAFFIC STOP",
+      "Address": "CLEVELAND ST / N LINCOLN AVE",
+      "Response_Date": "2025-12-08T09:22:34"
+    },
+    {
+      "Master_Incident_Number": "120825-00148",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "200 BLOCK SEMINOLE ST",
+      "Response_Date": "2025-12-08T09:22:48"
     }
   ],
-  "timestamp": "2025-12-08T14:20:12.665543+00:00",
-  "count": 6
+  "timestamp": "2025-12-08T14:43:23.268292+00:00",
+  "count": 10
 }
