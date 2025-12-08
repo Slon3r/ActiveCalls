@@ -1,6 +1,6 @@
 {
-  "total_calls_tracked": 2058,
-  "total_resolved": 2054,
+  "total_calls_tracked": 2059,
+  "total_resolved": 2055,
   "call_types": {
     "DIRECTED PATROL": 670,
     "TRAFFIC STOP": 303,
@@ -15,7 +15,7 @@
     "SUSPICIOUS PERSON": 83,
     "TRESPASS": 48,
     "PROPERTY FOUND/LOST": 12,
-    "THEFT": 27,
+    "THEFT": 28,
     "NEIGHBOR CALL": 11,
     "911 HANG-UP": 79,
     "SUSPICIOUS VEHICLE": 15,
@@ -150,7 +150,7 @@
     "1100 BLOCK COURT ST": 4,
     "-1300 BLOCK BLK ADMIRAL WOODSON LN": 1,
     "19300 BLOCK US HIGHWAY 19 N": 2,
-    "600 BLOCK PIERCE ST": 17,
+    "600 BLOCK PIERCE ST": 18,
     "0 BLOCK 99 THIRD ST": 4,
     "0 BLOCK 98 THIRD ST": 5,
     "100 BLOCK HAMPTON RD": 3,
@@ -1042,7 +1042,7 @@
     "2": 45,
     "3": 35,
     "4": 21,
-    "5": 50,
+    "5": 51,
     "6": 63,
     "7": 52,
     "8": 120,
@@ -1063,7 +1063,7 @@
     "23": 65
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-08T10:44:40.831791+00:00",
+  "last_updated": "2025-12-08T10:56:28.222027+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 702
+  "total_snapshots": 703
 }
