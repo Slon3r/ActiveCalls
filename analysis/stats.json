@@ -1,11 +1,11 @@
 {
-  "total_calls_tracked": 2207,
-  "total_resolved": 2192,
+  "total_calls_tracked": 2210,
+  "total_resolved": 2196,
   "call_types": {
     "DIRECTED PATROL": 721,
-    "TRAFFIC STOP": 323,
+    "TRAFFIC STOP": 324,
     "DRUNK DRIVER": 6,
-    "DISTURBANCE": 49,
+    "DISTURBANCE": 50,
     "BATTERY": 16,
     "CRIMINAL MISCHIEF": 12,
     "ALARM": 31,
@@ -17,7 +17,7 @@
     "PROPERTY FOUND/LOST": 14,
     "THEFT": 28,
     "NEIGHBOR CALL": 12,
-    "911 HANG-UP": 86,
+    "911 HANG-UP": 87,
     "SUSPICIOUS VEHICLE": 15,
     "PANHANDLER/SOLICITOR": 4,
     "VEHICLE ILLEGALLY PARKED": 6,
@@ -665,7 +665,7 @@
     "1200 BLOCK SUNSET POINT RD": 1,
     "2700 BLOCK ENTERPRISE RD E": 1,
     "400 BLOCK PINELLAS ST": 1,
-    "1000 BLOCK N MARTIN LUTHER KING JR AVE": 3,
+    "1000 BLOCK N MARTIN LUTHER KING JR AVE": 4,
     "800 BLOCK HOWARD ST": 1,
     "1000 BLOCK S MYRTLE AVE": 1,
     "2500 BLOCK LANDMARK DR": 1,
@@ -693,7 +693,7 @@
     "0 BLOCK 29 SAN MARCO ST": 1,
     "1600 BLOCK FULTON AVE": 6,
     "CAUSEWAY BLVD / EAST SHORE DR": 2,
-    "SUNSET POINT RD / N HERCULES AVE": 5,
+    "SUNSET POINT RD / N HERCULES AVE": 6,
     "400 BLOCK HAMDEN DR": 1,
     "1300 BLOCK SUNSET POINT RD": 1,
     "COUNTRYSIDE BLVD / SR 580": 1,
@@ -1078,7 +1078,8 @@
     "500 BLOCK N LINCOLN AVE": 1,
     "2600 BLOCK COUNTRYSIDE BLVD": 1,
     "KINGS HWY / OTTEN ST": 1,
-    "TROPIC HILLS DR / US HIGHWAY 19 N": 1
+    "TROPIC HILLS DR / US HIGHWAY 19 N": 1,
+    "100 BLOCK N MCMULLEN BOOTH RD": 1
   },
   "hourly_distribution": {
     "0": 75,
@@ -1098,7 +1099,7 @@
     "14": 156,
     "15": 152,
     "16": 148,
-    "17": 122,
+    "17": 125,
     "18": 112,
     "19": 33,
     "20": 36,
@@ -1107,7 +1108,7 @@
     "23": 65
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-08T22:38:38.726480+00:00",
+  "last_updated": "2025-12-08T22:49:27.518458+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 741
+  "total_snapshots": 742
 }

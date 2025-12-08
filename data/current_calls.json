@@ -43,18 +43,6 @@
       "Response_Date": "2025-12-08T16:47:09"
     },
     {
-      "Master_Incident_Number": "120825-00361",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "1500 BLOCK GULF BLVD",
-      "Response_Date": "2025-12-08T16:58:47"
-    },
-    {
-      "Master_Incident_Number": "120825-00363",
-      "Online_Description": "DISABLED VEHICLE",
-      "Address": "GULF TO BAY BLVD / S MAIN AVE",
-      "Response_Date": "2025-12-08T17:01:04"
-    },
-    {
       "Master_Incident_Number": "120825-00366",
       "Online_Description": "PROPERTY FOUND/LOST",
       "Address": "1400 BLOCK S BELCHER RD",
@@ -62,7 +50,7 @@
     },
     {
       "Master_Incident_Number": "120825-00367",
-      "Online_Description": "PERSON DOWN",
+      "Online_Description": "ASSIST OTHER AGENCY",
       "Address": "400 BLOCK TURNER ST",
       "Response_Date": "2025-12-08T17:06:19"
     },
@@ -79,18 +67,24 @@
       "Response_Date": "2025-12-08T17:09:16"
     },
     {
-      "Master_Incident_Number": "120825-00373",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "1400 BLOCK S MARTIN LUTHER KING JR AVE",
-      "Response_Date": "2025-12-08T17:15:19"
+      "Master_Incident_Number": "120825-00370",
+      "Online_Description": "911 HANG-UP",
+      "Address": "100 BLOCK N MCMULLEN BOOTH RD",
+      "Response_Date": "2025-12-08T17:13:21"
     },
     {
-      "Master_Incident_Number": "120825-00374",
+      "Master_Incident_Number": "120825-00375",
+      "Online_Description": "DISTURBANCE",
+      "Address": "1000 BLOCK N MARTIN LUTHER KING JR AVE",
+      "Response_Date": "2025-12-08T17:16:08"
+    },
+    {
+      "Master_Incident_Number": "120825-00377",
       "Online_Description": "TRAFFIC STOP",
       "Address": "SUNSET POINT RD / N HERCULES AVE",
-      "Response_Date": "2025-12-08T17:17:21"
+      "Response_Date": "2025-12-08T17:27:35"
     }
   ],
-  "timestamp": "2025-12-08T22:38:38.722502+00:00",
-  "count": 15
+  "timestamp": "2025-12-08T22:49:27.514410+00:00",
+  "count": 14
 }

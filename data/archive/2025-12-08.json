@@ -2519,6 +2519,96 @@
           "Response_Date": "2025-12-08T17:17:21"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-08T22:49:27.514410+00:00",
+      "call_count": 14,
+      "calls": [
+        {
+          "Master_Incident_Number": "120825-00330",
+          "Online_Description": "MISSING PERSON",
+          "Address": "1700 BLOCK W MANOR AVE",
+          "Response_Date": "2025-12-08T15:58:56"
+        },
+        {
+          "Master_Incident_Number": "120825-00337",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "MEMORIAL CSWY",
+          "Response_Date": "2025-12-08T16:12:52"
+        },
+        {
+          "Master_Incident_Number": "120825-00340",
+          "Online_Description": "MISSING PERSON",
+          "Address": "700 BLOCK S KEENE RD",
+          "Response_Date": "2025-12-08T16:15:40"
+        },
+        {
+          "Master_Incident_Number": "120825-00342",
+          "Online_Description": "BATTERY",
+          "Address": "N BELCHER RD / SUNSET POINT RD",
+          "Response_Date": "2025-12-08T16:21:13"
+        },
+        {
+          "Master_Incident_Number": "120825-00353",
+          "Online_Description": "WEAPONS VIOLATION",
+          "Address": "2500 BLOCK SANDS DR",
+          "Response_Date": "2025-12-08T16:40:54"
+        },
+        {
+          "Master_Incident_Number": "120825-00356",
+          "Online_Description": "SUSPICIOUS EVENT",
+          "Address": "500 BLOCK N LINCOLN AVE",
+          "Response_Date": "2025-12-08T16:43:08"
+        },
+        {
+          "Master_Incident_Number": "120825-00359",
+          "Online_Description": "WELFARE CHECK",
+          "Address": "2600 BLOCK COUNTRYSIDE BLVD",
+          "Response_Date": "2025-12-08T16:47:09"
+        },
+        {
+          "Master_Incident_Number": "120825-00366",
+          "Online_Description": "PROPERTY FOUND/LOST",
+          "Address": "1400 BLOCK S BELCHER RD",
+          "Response_Date": "2025-12-08T17:05:05"
+        },
+        {
+          "Master_Incident_Number": "120825-00367",
+          "Online_Description": "ASSIST OTHER AGENCY",
+          "Address": "400 BLOCK TURNER ST",
+          "Response_Date": "2025-12-08T17:06:19"
+        },
+        {
+          "Master_Incident_Number": "120825-00368",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "N HERCULES AVE / SUNSET POINT RD",
+          "Response_Date": "2025-12-08T17:08:17"
+        },
+        {
+          "Master_Incident_Number": "120825-00369",
+          "Online_Description": "VEHICLE ILLEGALLY PARKED",
+          "Address": "TROPIC HILLS DR / US HIGHWAY 19 N",
+          "Response_Date": "2025-12-08T17:09:16"
+        },
+        {
+          "Master_Incident_Number": "120825-00370",
+          "Online_Description": "911 HANG-UP",
+          "Address": "100 BLOCK N MCMULLEN BOOTH RD",
+          "Response_Date": "2025-12-08T17:13:21"
+        },
+        {
+          "Master_Incident_Number": "120825-00375",
+          "Online_Description": "DISTURBANCE",
+          "Address": "1000 BLOCK N MARTIN LUTHER KING JR AVE",
+          "Response_Date": "2025-12-08T17:16:08"
+        },
+        {
+          "Master_Incident_Number": "120825-00377",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "SUNSET POINT RD / N HERCULES AVE",
+          "Response_Date": "2025-12-08T17:27:35"
+        }
+      ]
     }
   ]
 }
