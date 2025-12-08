@@ -7,18 +7,6 @@
       "Response_Date": "2025-12-07T19:58:12"
     },
     {
-      "Master_Incident_Number": "120825-00218",
-      "Online_Description": "ASSIST OTHER AGENCY",
-      "Address": "1100 BLOCK OLD COACHMAN RD",
-      "Response_Date": "2025-12-08T11:14:22"
-    },
-    {
-      "Master_Incident_Number": "120825-00241",
-      "Online_Description": "TRAFFIC STOP",
-      "Address": "0 BLOCK CAUSEWAY BLVD",
-      "Response_Date": "2025-12-08T12:20:12"
-    },
-    {
       "Master_Incident_Number": "120825-00252",
       "Online_Description": "TRAFFIC CRASH",
       "Address": "SUNSET POINT RD / US HIGHWAY 19 N",
@@ -31,24 +19,36 @@
       "Response_Date": "2025-12-08T12:49:57"
     },
     {
-      "Master_Incident_Number": "120825-00254",
-      "Online_Description": "SUSPICIOUS EVENT",
-      "Address": "2500 BLOCK HARN BLVD",
-      "Response_Date": "2025-12-08T12:52:12"
+      "Master_Incident_Number": "120825-00261",
+      "Online_Description": "KEEP THE PEACE",
+      "Address": "2800 BLOCK COUNTRYSIDE BLVD",
+      "Response_Date": "2025-12-08T13:05:00"
     },
     {
-      "Master_Incident_Number": "120825-00258",
+      "Master_Incident_Number": "120825-00266",
+      "Online_Description": "CHILD PROTECTION INVESTIGATION",
+      "Address": "1400 BLOCK OVERLEA ST",
+      "Response_Date": "2025-12-08T13:09:48"
+    },
+    {
+      "Master_Incident_Number": "120825-00265",
+      "Online_Description": "TRAFFIC CRASH",
+      "Address": "GULF TO BAY BLVD / S KEENE RD",
+      "Response_Date": "2025-12-08T13:10:44"
+    },
+    {
+      "Master_Incident_Number": "120825-00268",
       "Online_Description": "DIRECTED PATROL",
-      "Address": "0 BLOCK ACACIA ST",
-      "Response_Date": "2025-12-08T13:00:30"
+      "Address": "1900 BLOCK N BELCHER RD",
+      "Response_Date": "2025-12-08T13:23:43"
     },
     {
-      "Master_Incident_Number": "120825-00259",
-      "Online_Description": "TRAFFIC STOP",
-      "Address": "CLEVELAND ST / N MISSOURI AVE",
-      "Response_Date": "2025-12-08T13:01:22"
+      "Master_Incident_Number": "120825-00269",
+      "Online_Description": "ANIMAL CASE",
+      "Address": "100 BLOCK N HERCULES AVE",
+      "Response_Date": "2025-12-08T13:27:29"
     }
   ],
-  "timestamp": "2025-12-08T18:24:01.655080+00:00",
+  "timestamp": "2025-12-08T18:50:05.032314+00:00",
   "count": 8
 }
