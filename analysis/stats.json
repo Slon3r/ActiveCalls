@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 2045,
-  "total_resolved": 2041,
+  "total_calls_tracked": 2048,
+  "total_resolved": 2044,
   "call_types": {
-    "DIRECTED PATROL": 665,
+    "DIRECTED PATROL": 667,
     "TRAFFIC STOP": 303,
     "DRUNK DRIVER": 6,
     "DISTURBANCE": 49,
@@ -24,7 +24,7 @@
     "SUSPICIOUS EVENT": 39,
     "TRAFFIC CRASH": 80,
     "DISABLED VEHICLE": 14,
-    "ASSIST CITIZEN": 53,
+    "ASSIST CITIZEN": 54,
     "ASSIST OTHER AGENCY": 35,
     "FIRE": 2,
     "FRAUD": 14,
@@ -159,7 +159,7 @@
     "1300 BLOCK FRANKLIN ST": 2,
     "SUNSET MEADOW DR / COLONY REED LN": 1,
     "0 BLOCK BAY ESPLANADE": 5,
-    "200 BLOCK S GLENWOOD AVE": 23,
+    "200 BLOCK S GLENWOOD AVE": 24,
     "S KEENE RD / DRUID RD": 2,
     "GULF TO BAY BLVD / BAMBOO LN": 2,
     "GULF TO BAY BLVD / BROOKSIDE DR": 1,
@@ -516,7 +516,7 @@
     "1100 BLOCK GROVE ST": 2,
     "1300 BLOCK AMBLE LN": 1,
     "1000 BLOCK ELDORADO AVE": 3,
-    "-3300 BLOCK 3348 HYDE PARK DR": 1,
+    "-3300 BLOCK 3348 HYDE PARK DR": 2,
     "1400 BLOCK N MARTIN LUTHER KING JR AVE": 2,
     "600 BLOCK BLANCHE B LITTLEJOHN TRL": 1,
     "-600 BLOCK 799 JONES ST": 1,
@@ -1030,10 +1030,11 @@
     "-2600 BLOCK 2699 GLENEAGLES DR": 1,
     "900 BLOCK ENGMAN ST": 1,
     "1100 BLOCK MCMULLEN BOOTH RD": 1,
-    "2900 BLOCK CR 193": 1
+    "2900 BLOCK CR 193": 1,
+    "0 BLOCK N LADY MARY DR": 1
   },
   "hourly_distribution": {
-    "0": 72,
+    "0": 75,
     "1": 66,
     "2": 43,
     "3": 34,
@@ -1059,7 +1060,7 @@
     "23": 65
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-08T05:53:53.928390+00:00",
+  "last_updated": "2025-12-08T06:20:32.891983+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 689
+  "total_snapshots": 690
 }
