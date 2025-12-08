@@ -10066,3 +10066,16 @@ TOTAL ACTIVE CALLS: 4
 
 --- RESOLVED CALLS (1) ---
 [RESOLVED] 120825-00057 | ASSIST OTHER AGENCY | S MISSOURI AVE / DRUID RD | Response: 05:12 AM
+
+================================================================================
+TIMESTAMP: 2025-12-08T11:16:16.753841+00:00
+TOTAL ACTIVE CALLS: 4
+================================================================================
+
+--- NEW CALLS (2) ---
+[NEW] 120825-00063 | DIRECTED PATROL | 0 BLOCK ISLAND WAY | Response: 05:40 AM
+[NEW] 120825-00064 | ASSIST OTHER AGENCY | 0 BLOCK °57'2 / 82°30'56 | Response: 05:45 AM
+
+--- RESOLVED CALLS (2) ---
+[RESOLVED] 120825-00058 | ALARM | 1600 BLOCK GULF TO BAY BLVD | Response: 05:12 AM
+[RESOLVED] 120825-00059 | DIRECTED PATROL | -600 BLOCK 689 BAY ESPLANADE | Response: 05:18 AM
