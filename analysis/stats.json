@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 2150,
-  "total_resolved": 2143,
+  "total_calls_tracked": 2153,
+  "total_resolved": 2146,
   "call_types": {
-    "DIRECTED PATROL": 703,
+    "DIRECTED PATROL": 705,
     "TRAFFIC STOP": 320,
     "DRUNK DRIVER": 6,
     "DISTURBANCE": 49,
@@ -17,7 +17,7 @@
     "PROPERTY FOUND/LOST": 12,
     "THEFT": 28,
     "NEIGHBOR CALL": 11,
-    "911 HANG-UP": 84,
+    "911 HANG-UP": 85,
     "SUSPICIOUS VEHICLE": 15,
     "PANHANDLER/SOLICITOR": 4,
     "VEHICLE ILLEGALLY PARKED": 4,
@@ -115,7 +115,7 @@
     "CLEVELAND ST/S MADISON AVE": 2,
     "2700 BLOCK GULF TO BAY BLVD": 18,
     "1400 BLOCK N HIBISCUS ST": 1,
-    "2900 BLOCK DREW ST": 4,
+    "2900 BLOCK DREW ST": 5,
     "21200 BLOCK US HIGHWAY 19 N": 5,
     "1700 BLOCK SUNSET POINT RD": 1,
     "2300 BLOCK GULF TO BAY BLVD": 4,
@@ -1061,7 +1061,9 @@
     "2800 BLOCK COUNTRYSIDE BLVD": 1,
     "100 BLOCK N HERCULES AVE": 1,
     "2600 BLOCK SABAL SPRINGS CIR": 1,
-    "300 BLOCK S LAKE DR": 1
+    "300 BLOCK S LAKE DR": 1,
+    "1000 BLOCK IROQUOIS ST": 1,
+    "PALMETTO ST & KINGS HWY": 1
   },
   "hourly_distribution": {
     "0": 75,
@@ -1077,7 +1079,7 @@
     "10": 143,
     "11": 127,
     "12": 136,
-    "13": 130,
+    "13": 133,
     "14": 143,
     "15": 139,
     "16": 127,
@@ -1090,7 +1092,7 @@
     "23": 65
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-08T19:02:27.252925+00:00",
+  "last_updated": "2025-12-08T19:25:40.950413+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 726
+  "total_snapshots": 727
 }
