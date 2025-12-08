@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 2189,
-  "total_resolved": 2178,
+  "total_calls_tracked": 2192,
+  "total_resolved": 2179,
   "call_types": {
-    "DIRECTED PATROL": 716,
+    "DIRECTED PATROL": 717,
     "TRAFFIC STOP": 322,
     "DRUNK DRIVER": 6,
     "DISTURBANCE": 49,
@@ -22,7 +22,7 @@
     "PANHANDLER/SOLICITOR": 4,
     "VEHICLE ILLEGALLY PARKED": 5,
     "SUSPICIOUS EVENT": 43,
-    "TRAFFIC CRASH": 88,
+    "TRAFFIC CRASH": 89,
     "DISABLED VEHICLE": 16,
     "ASSIST CITIZEN": 58,
     "ASSIST OTHER AGENCY": 39,
@@ -36,7 +36,7 @@
     "CIVIL MATTER": 12,
     "DOMESTIC": 17,
     "ANIMAL CASE": 11,
-    "MISSING PERSON": 22,
+    "MISSING PERSON": 23,
     "BUILDING CHECK": 5,
     "SHOPLIFTING": 11,
     "DECEASED PERSON": 2,
@@ -97,7 +97,7 @@
     "ENTERPRISE RD E / VILLAGE DR": 2,
     "GULF TO BAY BLVD / HAMPTON RD": 1,
     "2100 BLOCK GULF TO BAY BLVD": 22,
-    "1300 BLOCK CLEVELAND ST": 10,
+    "1300 BLOCK CLEVELAND ST": 11,
     "2100 BLOCK BELCHER RD": 1,
     "SAND KEY PARK ENTRANCE": 5,
     "S MISSOURI AVE / LAKEVIEW RD": 4,
@@ -370,7 +370,7 @@
     "500 BLOCK N BETTY LN": 12,
     "600 BLOCK ELDRIDGE ST": 1,
     "2100 BLOCK MONTCLAIR RD": 1,
-    "700 BLOCK S KEENE RD": 2,
+    "700 BLOCK S KEENE RD": 3,
     "CHESTNUT ST / S GARDEN AVE": 1,
     "1300 BLOCK COURT ST": 3,
     "COURT ST / S MADISON AVE": 2,
@@ -1070,7 +1070,8 @@
     "-1400 BLOCK 1479 SUNSET POINT RD": 1,
     "CAUSEWAY BLVD/ ISLAND WAY": 1,
     "DRUID RD / S MISSOURI AVE": 1,
-    "SUN DOWN DR / COLONY REED LN": 1
+    "SUN DOWN DR / COLONY REED LN": 1,
+    "COURTNEY CAMPBELL CSWY": 1
   },
   "hourly_distribution": {
     "0": 75,
@@ -1089,7 +1090,7 @@
     "13": 133,
     "14": 156,
     "15": 152,
-    "16": 137,
+    "16": 140,
     "17": 115,
     "18": 112,
     "19": 33,
@@ -1099,7 +1100,7 @@
     "23": 65
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-08T21:49:13.752478+00:00",
+  "last_updated": "2025-12-08T21:57:08.247345+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 738
+  "total_snapshots": 739
 }
