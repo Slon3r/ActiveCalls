@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 2053,
-  "total_resolved": 2051,
+  "total_calls_tracked": 2055,
+  "total_resolved": 2052,
   "call_types": {
-    "DIRECTED PATROL": 668,
+    "DIRECTED PATROL": 669,
     "TRAFFIC STOP": 303,
     "DRUNK DRIVER": 6,
     "DISTURBANCE": 49,
@@ -12,7 +12,7 @@
     "KEEP THE PEACE": 24,
     "WELFARE CHECK": 46,
     "PARK WALK AND TALK": 186,
-    "SUSPICIOUS PERSON": 82,
+    "SUSPICIOUS PERSON": 83,
     "TRESPASS": 48,
     "PROPERTY FOUND/LOST": 12,
     "THEFT": 27,
@@ -91,7 +91,7 @@
     "FLUSHING AVE / HARN BLVD": 1,
     "S BELCHER RD / BARCELONA DR": 1,
     "-1400 BLOCK 1417 S MISSOURI AVE": 1,
-    "1000 BLOCK GULF BLVD": 23,
+    "1000 BLOCK GULF BLVD": 24,
     "1400 BLOCK LAURA ST": 3,
     "ENTERPRISE RD E / VILLAGE DR": 2,
     "GULF TO BAY BLVD / HAMPTON RD": 1,
@@ -199,7 +199,7 @@
     "500 BLOCK MANDALAY AVE": 8,
     "3000 BLOCK HAVERFORD DR": 2,
     "DREW ST / OLD COACHMAN RD": 3,
-    "2500 BLOCK HARN BLVD": 21,
+    "2500 BLOCK HARN BLVD": 22,
     "1000 BLOCK MCMULLEN BOOTH RD": 2,
     "1200 BLOCK S MARTIN LUTHER KING JR AVE": 1,
     "2000 BLOCK PARAGON CIR W": 1,
@@ -1040,7 +1040,7 @@
     "1": 68,
     "2": 45,
     "3": 35,
-    "4": 19,
+    "4": 21,
     "5": 47,
     "6": 63,
     "7": 52,
@@ -1062,7 +1062,7 @@
     "23": 65
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-08T09:44:33.004832+00:00",
+  "last_updated": "2025-12-08T09:56:24.787500+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 699
+  "total_snapshots": 700
 }
