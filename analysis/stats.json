@@ -1,14 +1,14 @@
 {
-  "total_calls_tracked": 2082,
-  "total_resolved": 2075,
+  "total_calls_tracked": 2086,
+  "total_resolved": 2080,
   "call_types": {
-    "DIRECTED PATROL": 679,
-    "TRAFFIC STOP": 305,
+    "DIRECTED PATROL": 680,
+    "TRAFFIC STOP": 306,
     "DRUNK DRIVER": 6,
     "DISTURBANCE": 49,
     "BATTERY": 15,
     "CRIMINAL MISCHIEF": 11,
-    "ALARM": 30,
+    "ALARM": 31,
     "KEEP THE PEACE": 24,
     "WELFARE CHECK": 46,
     "PARK WALK AND TALK": 188,
@@ -22,7 +22,7 @@
     "PANHANDLER/SOLICITOR": 4,
     "VEHICLE ILLEGALLY PARKED": 4,
     "SUSPICIOUS EVENT": 40,
-    "TRAFFIC CRASH": 83,
+    "TRAFFIC CRASH": 84,
     "DISABLED VEHICLE": 15,
     "ASSIST CITIZEN": 55,
     "ASSIST OTHER AGENCY": 37,
@@ -121,7 +121,7 @@
     "2300 BLOCK GULF TO BAY BLVD": 4,
     "1200 BLOCK CLEVELAND ST": 11,
     "-500 BLOCK 549 MANDALAY AVE": 1,
-    "27000 BLOCK US HIGHWAY 19 N": 22,
+    "27000 BLOCK US HIGHWAY 19 N": 23,
     "DRIVEWAY PARKING": 2,
     "1100 BLOCK GULF BLVD": 5,
     "2500 BLOCK GULF TO BAY BLVD": 9,
@@ -1023,7 +1023,7 @@
     "1400 BLOCK BARBARA AVE": 1,
     "800 BLOCK PINELLAS ST": 1,
     "N BETTY LN / DREW ST": 1,
-    "BRIGHTWATER DR / HAMDEN DR": 1,
+    "BRIGHTWATER DR / HAMDEN DR": 2,
     "-3300 BLOCK 3334 HYDE PARK DR": 1,
     "ENT/INVER": 1,
     "1600 BLOCK RAINBOW DR": 1,
@@ -1040,7 +1040,9 @@
     "300 BLOCK CORONADO DR ": 1,
     "GULF TO BAY BLVD / SKYVIEW AVE": 1,
     "2800 BLOCK SR 590": 1,
-    "CLEVELAND ST / S MAIN AVE": 1
+    "CLEVELAND ST / S MAIN AVE": 1,
+    "SUNSET POINT RD / US HIGHWAY 19 N": 1,
+    "GULF TO BAY BLVD / CLEVELAND ST": 1
   },
   "hourly_distribution": {
     "0": 75,
@@ -1051,7 +1053,7 @@
     "5": 53,
     "6": 75,
     "7": 54,
-    "8": 126,
+    "8": 130,
     "9": 136,
     "10": 124,
     "11": 120,
@@ -1069,7 +1071,7 @@
     "23": 65
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-08T13:56:47.397728+00:00",
+  "last_updated": "2025-12-08T14:20:12.667607+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 711
+  "total_snapshots": 712
 }

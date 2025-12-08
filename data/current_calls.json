@@ -13,36 +13,30 @@
       "Response_Date": "2025-12-08T06:37:20"
     },
     {
-      "Master_Incident_Number": "120825-00090",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "26000 BLOCK US HIGHWAY 19 N",
-      "Response_Date": "2025-12-08T07:19:19"
-    },
-    {
-      "Master_Incident_Number": "120825-00092",
+      "Master_Incident_Number": "120825-00127",
       "Online_Description": "TRAFFIC CRASH",
-      "Address": "3300 BLOCK COURTNEY CAMPBELL CSWY",
-      "Response_Date": "2025-12-08T07:30:04"
+      "Address": "SUNSET POINT RD / US HIGHWAY 19 N",
+      "Response_Date": "2025-12-08T08:41:19"
     },
     {
-      "Master_Incident_Number": "120825-00112",
-      "Online_Description": "TRAFFIC CRASH",
-      "Address": "US HIGHWAY 19 N / SEVILLE BLVD",
-      "Response_Date": "2025-12-08T08:12:20"
+      "Master_Incident_Number": "120825-00132",
+      "Online_Description": "ALARM",
+      "Address": "27000 BLOCK US HIGHWAY 19 N",
+      "Response_Date": "2025-12-08T08:52:12"
     },
     {
-      "Master_Incident_Number": "120825-00120",
+      "Master_Incident_Number": "120825-00133",
       "Online_Description": "TRAFFIC STOP",
-      "Address": "CLEVELAND ST / S MAIN AVE",
-      "Response_Date": "2025-12-08T08:25:06"
+      "Address": "GULF TO BAY BLVD / CLEVELAND ST",
+      "Response_Date": "2025-12-08T08:55:35"
     },
     {
-      "Master_Incident_Number": "120825-00123",
+      "Master_Incident_Number": "120825-00134",
       "Online_Description": "DIRECTED PATROL",
-      "Address": "CLEVELAND ST/S MADISON AVE",
-      "Response_Date": "2025-12-08T08:29:57"
+      "Address": "BRIGHTWATER DR / HAMDEN DR",
+      "Response_Date": "2025-12-08T08:57:16"
     }
   ],
-  "timestamp": "2025-12-08T13:56:47.395802+00:00",
-  "count": 7
+  "timestamp": "2025-12-08T14:20:12.665543+00:00",
+  "count": 6
 }
