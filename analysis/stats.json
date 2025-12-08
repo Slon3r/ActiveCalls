@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 2220,
-  "total_resolved": 2216,
+  "total_calls_tracked": 2223,
+  "total_resolved": 2217,
   "call_types": {
-    "DIRECTED PATROL": 723,
-    "TRAFFIC STOP": 326,
+    "DIRECTED PATROL": 724,
+    "TRAFFIC STOP": 327,
     "DRUNK DRIVER": 6,
     "DISTURBANCE": 50,
     "BATTERY": 16,
@@ -36,7 +36,7 @@
     "CIVIL MATTER": 12,
     "DOMESTIC": 17,
     "ANIMAL CASE": 11,
-    "MISSING PERSON": 23,
+    "MISSING PERSON": 24,
     "BUILDING CHECK": 5,
     "SHOPLIFTING": 11,
     "DECEASED PERSON": 2,
@@ -101,7 +101,7 @@
     "1300 BLOCK CLEVELAND ST": 11,
     "2100 BLOCK BELCHER RD": 1,
     "SAND KEY PARK ENTRANCE": 5,
-    "S MISSOURI AVE / LAKEVIEW RD": 4,
+    "S MISSOURI AVE / LAKEVIEW RD": 5,
     "23100 BLOCK US HIGHWAY 19 N": 10,
     "1200 BLOCK N BETTY LN": 1,
     "MCMULLEN BOOTH RD / SR 590": 3,
@@ -133,7 +133,7 @@
     "3300 BLOCK COURTNEY CAMPBELL CSWY": 6,
     "1200 BLOCK COURT ST": 4,
     "1400 BLOCK OWEN DR": 1,
-    "200 BLOCK ISLAND WAY": 7,
+    "200 BLOCK ISLAND WAY": 8,
     "-500 BLOCK BLK CLEVELAND ST": 3,
     "0 BLOCK MEMORIAL CSWY": 16,
     "COUNTRYSIDE BLVD / NORTHRIDGE DR": 1,
@@ -693,7 +693,7 @@
     "0 BLOCK 29 SAN MARCO ST": 1,
     "1600 BLOCK FULTON AVE": 6,
     "CAUSEWAY BLVD / EAST SHORE DR": 2,
-    "SUNSET POINT RD / N HERCULES AVE": 7,
+    "SUNSET POINT RD / N HERCULES AVE": 8,
     "400 BLOCK HAMDEN DR": 1,
     "1300 BLOCK SUNSET POINT RD": 1,
     "COUNTRYSIDE BLVD / SR 580": 1,
@@ -1102,7 +1102,7 @@
     "15": 152,
     "16": 148,
     "17": 133,
-    "18": 114,
+    "18": 117,
     "19": 33,
     "20": 36,
     "21": 44,
@@ -1110,7 +1110,7 @@
     "23": 65
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-08T23:44:14.396693+00:00",
+  "last_updated": "2025-12-08T23:52:19.774781+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 746
+  "total_snapshots": 747
 }
