@@ -1271,6 +1271,54 @@
           "Response_Date": "2025-12-08T12:25:47"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-08T17:55:59.202772+00:00",
+      "call_count": 7,
+      "calls": [
+        {
+          "Master_Incident_Number": "120825-00246",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "200 BLOCK PALM IS NW",
+          "Response_Date": "2025-12-08T12:30:30"
+        },
+        {
+          "Master_Incident_Number": "120825-00224",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "2800 BLOCK GLORIA CT",
+          "Response_Date": "2025-12-08T12:23:48.13"
+        },
+        {
+          "Master_Incident_Number": "120725-00400",
+          "Online_Description": "HOMICIDE",
+          "Address": "1200 BLOCK S HIGHLAND AVE",
+          "Response_Date": "2025-12-07T19:58:12"
+        },
+        {
+          "Master_Incident_Number": "120825-00218",
+          "Online_Description": "ASSIST OTHER AGENCY",
+          "Address": "1100 BLOCK OLD COACHMAN RD",
+          "Response_Date": "2025-12-08T11:14:22"
+        },
+        {
+          "Master_Incident_Number": "120825-00226",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "2900 BLOCK GLEN OAK AVE N",
+          "Response_Date": "2025-12-08T11:39:34"
+        },
+        {
+          "Master_Incident_Number": "120825-00241",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "0 BLOCK CAUSEWAY BLVD",
+          "Response_Date": "2025-12-08T12:20:12"
+        },
+        {
+          "Master_Incident_Number": "120825-00244",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "S BELCHER RD / GULF TO BAY BLVD",
+          "Response_Date": "2025-12-08T12:25:47"
+        }
+      ]
     }
   ]
 }
