@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 2063,
-  "total_resolved": 2059,
+  "total_calls_tracked": 2066,
+  "total_resolved": 2061,
   "call_types": {
-    "DIRECTED PATROL": 671,
-    "TRAFFIC STOP": 303,
+    "DIRECTED PATROL": 672,
+    "TRAFFIC STOP": 304,
     "DRUNK DRIVER": 6,
     "DISTURBANCE": 49,
     "BATTERY": 15,
@@ -13,7 +13,7 @@
     "WELFARE CHECK": 46,
     "PARK WALK AND TALK": 187,
     "SUSPICIOUS PERSON": 83,
-    "TRESPASS": 48,
+    "TRESPASS": 49,
     "PROPERTY FOUND/LOST": 12,
     "THEFT": 28,
     "NEIGHBOR CALL": 11,
@@ -159,7 +159,7 @@
     "1300 BLOCK FRANKLIN ST": 2,
     "SUNSET MEADOW DR / COLONY REED LN": 1,
     "0 BLOCK BAY ESPLANADE": 5,
-    "200 BLOCK S GLENWOOD AVE": 24,
+    "200 BLOCK S GLENWOOD AVE": 25,
     "S KEENE RD / DRUID RD": 2,
     "GULF TO BAY BLVD / BAMBOO LN": 2,
     "GULF TO BAY BLVD / BROOKSIDE DR": 1,
@@ -188,7 +188,7 @@
     "DREW ST / N BELCHER RD": 6,
     "900 BLOCK GULF BLVD": 3,
     "POINSETTIA AVE / PAPAYA ST": 1,
-    "600 BLOCK CLEVELAND ST": 9,
+    "600 BLOCK CLEVELAND ST": 10,
     "HAMDEN DR / CORONADO DR": 1,
     "2900 BLOCK SWEETGUM WAY S": 1,
     "18600 BLOCK US HIGHWAY 19 N": 1,
@@ -861,7 +861,7 @@
     "0 BLOCK PINELLAS TRAIL": 1,
     "1200 BLOCK CALUSA CIR": 1,
     "S MARTIN LUTHER KING JR AVE / LAKEVIEW RD": 1,
-    "MCMULLEN BOOTH RD / SR 580": 1,
+    "MCMULLEN BOOTH RD / SR 580": 2,
     "S MISSOURI AVE / COURT ST": 2,
     "COURT ST / S MARTIN LUTHER KING JR AVE": 1,
     "CALUMET ST / N BELCHER RD": 1,
@@ -1045,7 +1045,7 @@
     "3": 35,
     "4": 21,
     "5": 53,
-    "6": 65,
+    "6": 68,
     "7": 52,
     "8": 120,
     "9": 136,
@@ -1065,7 +1065,7 @@
     "23": 65
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-08T11:32:14.927389+00:00",
+  "last_updated": "2025-12-08T11:44:42.546724+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 705
+  "total_snapshots": 706
 }
