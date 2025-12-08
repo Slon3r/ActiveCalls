@@ -192,6 +192,24 @@
           "Response_Date": "2025-12-08T00:57:39"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-08T06:53:22.388397+00:00",
+      "call_count": 2,
+      "calls": [
+        {
+          "Master_Incident_Number": "120725-00400",
+          "Online_Description": "SHOOTING",
+          "Address": "1200 BLOCK S HIGHLAND AVE",
+          "Response_Date": "2025-12-07T19:58:12"
+        },
+        {
+          "Master_Incident_Number": "120825-00025",
+          "Online_Description": "ANIMAL CASE",
+          "Address": "RIGSBY LN / SR 580",
+          "Response_Date": "2025-12-08T01:21:15"
+        }
+      ]
     }
   ]
 }

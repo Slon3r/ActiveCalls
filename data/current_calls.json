@@ -1,30 +1,18 @@
 {
   "calls": [
     {
-      "Master_Incident_Number": "120725-00434",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "200 BLOCK S GLENWOOD AVE",
-      "Response_Date": "2025-12-08T00:58:04"
-    },
-    {
       "Master_Incident_Number": "120725-00400",
       "Online_Description": "SHOOTING",
       "Address": "1200 BLOCK S HIGHLAND AVE",
       "Response_Date": "2025-12-07T19:58:12"
     },
     {
-      "Master_Incident_Number": "120825-00014",
-      "Online_Description": "ASSIST CITIZEN",
-      "Address": "0 BLOCK N LADY MARY DR",
-      "Response_Date": "2025-12-08T00:53:35"
-    },
-    {
-      "Master_Incident_Number": "120825-00016",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "-3300 BLOCK 3348 HYDE PARK DR",
-      "Response_Date": "2025-12-08T00:57:39"
+      "Master_Incident_Number": "120825-00025",
+      "Online_Description": "ANIMAL CASE",
+      "Address": "RIGSBY LN / SR 580",
+      "Response_Date": "2025-12-08T01:21:15"
     }
   ],
-  "timestamp": "2025-12-08T06:20:32.890671+00:00",
-  "count": 4
+  "timestamp": "2025-12-08T06:53:22.388397+00:00",
+  "count": 2
 }

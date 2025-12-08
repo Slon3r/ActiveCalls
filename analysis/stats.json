@@ -1,6 +1,6 @@
 {
-  "total_calls_tracked": 2048,
-  "total_resolved": 2044,
+  "total_calls_tracked": 2049,
+  "total_resolved": 2047,
   "call_types": {
     "DIRECTED PATROL": 667,
     "TRAFFIC STOP": 303,
@@ -35,7 +35,7 @@
     "NOISE COMPLAINT": 7,
     "CIVIL MATTER": 12,
     "DOMESTIC": 17,
-    "ANIMAL CASE": 9,
+    "ANIMAL CASE": 10,
     "MISSING PERSON": 21,
     "BUILDING CHECK": 5,
     "SHOPLIFTING": 11,
@@ -1031,11 +1031,12 @@
     "900 BLOCK ENGMAN ST": 1,
     "1100 BLOCK MCMULLEN BOOTH RD": 1,
     "2900 BLOCK CR 193": 1,
-    "0 BLOCK N LADY MARY DR": 1
+    "0 BLOCK N LADY MARY DR": 1,
+    "RIGSBY LN / SR 580": 1
   },
   "hourly_distribution": {
     "0": 75,
-    "1": 66,
+    "1": 67,
     "2": 43,
     "3": 34,
     "4": 19,
@@ -1060,7 +1061,7 @@
     "23": 65
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-08T06:20:32.891983+00:00",
+  "last_updated": "2025-12-08T06:53:22.389775+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 690
+  "total_snapshots": 691
 }
