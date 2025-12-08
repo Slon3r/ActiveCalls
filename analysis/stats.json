@@ -1,6 +1,6 @@
 {
-  "total_calls_tracked": 2039,
-  "total_resolved": 2036,
+  "total_calls_tracked": 2041,
+  "total_resolved": 2038,
   "call_types": {
     "DIRECTED PATROL": 665,
     "TRAFFIC STOP": 303,
@@ -11,7 +11,7 @@
     "ALARM": 28,
     "KEEP THE PEACE": 24,
     "WELFARE CHECK": 45,
-    "PARK WALK AND TALK": 184,
+    "PARK WALK AND TALK": 185,
     "SUSPICIOUS PERSON": 82,
     "TRESPASS": 47,
     "PROPERTY FOUND/LOST": 12,
@@ -42,7 +42,7 @@
     "DECEASED PERSON": 2,
     "BURGLARY": 10,
     "SHOTS FIRED": 1,
-    "HIT & RUN": 16,
+    "HIT & RUN": 17,
     "SCHOOL CROSSING": 6,
     "ORDINANCE VIOLATION": 6,
     "ABANDONED VEHICLE": 7,
@@ -307,7 +307,7 @@
     "N MYRTLE AVE / ELDRIDGE ST": 2,
     "GRANGER DR / N BELCHER RD": 2,
     "NE COACHMAN RD / MARILYN ST": 1,
-    "26500 BLOCK US HIGHWAY 19 N": 2,
+    "26500 BLOCK US HIGHWAY 19 N": 3,
     "600 BLOCK DREW ST": 3,
     "200 BLOCK DOLPHIN PT": 1,
     "DEVON DR  / CORONADO DR": 2,
@@ -1028,7 +1028,8 @@
     "1600 BLOCK RAINBOW DR": 1,
     "-1300 BLOCK 1398 N MARTIN LUTHER KING JR AVE": 1,
     "-2600 BLOCK 2699 GLENEAGLES DR": 1,
-    "900 BLOCK ENGMAN ST": 1
+    "900 BLOCK ENGMAN ST": 1,
+    "1100 BLOCK MCMULLEN BOOTH RD": 1
   },
   "hourly_distribution": {
     "0": 69,
@@ -1052,12 +1053,12 @@
     "18": 112,
     "19": 32,
     "20": 36,
-    "21": 42,
-    "22": 90,
+    "21": 43,
+    "22": 91,
     "23": 65
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-08T03:12:17.737325+00:00",
+  "last_updated": "2025-12-08T04:03:00.174853+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 683
+  "total_snapshots": 684
 }
