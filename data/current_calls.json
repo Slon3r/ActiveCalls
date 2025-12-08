@@ -47,8 +47,32 @@
       "Online_Description": "TRAFFIC CRASH",
       "Address": "S MISSOURI AVE / KINGSLEY ST",
       "Response_Date": "2025-12-08T14:42:42"
+    },
+    {
+      "Master_Incident_Number": "120825-00307",
+      "Online_Description": "TRESPASS",
+      "Address": "100 BLOCK N BELCHER RD",
+      "Response_Date": "2025-12-08T15:17:45"
+    },
+    {
+      "Master_Incident_Number": "120825-00308",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "-1400 BLOCK 1479 SUNSET POINT RD",
+      "Response_Date": "2025-12-08T15:18:04"
+    },
+    {
+      "Master_Incident_Number": "120825-00311",
+      "Online_Description": "HAZARD",
+      "Address": "US HIGHWAY 19 N / NE COACHMAN RD",
+      "Response_Date": "2025-12-08T15:22:38"
+    },
+    {
+      "Master_Incident_Number": "120825-00309",
+      "Online_Description": "PROPERTY FOUND/LOST",
+      "Address": "200 BLOCK DREW ST",
+      "Response_Date": "2025-12-08T15:22:39"
     }
   ],
-  "timestamp": "2025-12-08T20:32:49.023885+00:00",
-  "count": 8
+  "timestamp": "2025-12-08T20:47:58.969543+00:00",
+  "count": 12
 }

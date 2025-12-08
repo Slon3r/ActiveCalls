@@ -1835,6 +1835,84 @@
           "Response_Date": "2025-12-08T14:42:42"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-08T20:47:58.969543+00:00",
+      "call_count": 12,
+      "calls": [
+        {
+          "Master_Incident_Number": "120725-00400",
+          "Online_Description": "HOMICIDE",
+          "Address": "1200 BLOCK S HIGHLAND AVE",
+          "Response_Date": "2025-12-07T19:58:12"
+        },
+        {
+          "Master_Incident_Number": "120825-00284",
+          "Online_Description": "ASSAULT",
+          "Address": "1100 BLOCK PINELLAS ST",
+          "Response_Date": "2025-12-08T14:06:20"
+        },
+        {
+          "Master_Incident_Number": "120825-00283",
+          "Online_Description": "TRAFFIC CRASH",
+          "Address": "US HIGHWAY 19 N / SEVILLE BLVD",
+          "Response_Date": "2025-12-08T14:06:45"
+        },
+        {
+          "Master_Incident_Number": "120825-00288",
+          "Online_Description": "BURGLARY",
+          "Address": "1200 BLOCK S MARTIN LUTHER KING JR AVE",
+          "Response_Date": "2025-12-08T14:11:36"
+        },
+        {
+          "Master_Incident_Number": "120825-00285",
+          "Online_Description": "PARK WALK AND TALK",
+          "Address": "0 BLOCK 99 THIRD ST",
+          "Response_Date": "2025-12-08T14:13:38"
+        },
+        {
+          "Master_Incident_Number": "120825-00290",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "1200 BLOCK CLEVELAND ST",
+          "Response_Date": "2025-12-08T14:22:19"
+        },
+        {
+          "Master_Incident_Number": "120825-00294",
+          "Online_Description": "KEEP THE PEACE",
+          "Address": "1400 BLOCK S BELCHER RD",
+          "Response_Date": "2025-12-08T14:25:39"
+        },
+        {
+          "Master_Incident_Number": "120825-00300",
+          "Online_Description": "TRAFFIC CRASH",
+          "Address": "S MISSOURI AVE / KINGSLEY ST",
+          "Response_Date": "2025-12-08T14:42:42"
+        },
+        {
+          "Master_Incident_Number": "120825-00307",
+          "Online_Description": "TRESPASS",
+          "Address": "100 BLOCK N BELCHER RD",
+          "Response_Date": "2025-12-08T15:17:45"
+        },
+        {
+          "Master_Incident_Number": "120825-00308",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "-1400 BLOCK 1479 SUNSET POINT RD",
+          "Response_Date": "2025-12-08T15:18:04"
+        },
+        {
+          "Master_Incident_Number": "120825-00311",
+          "Online_Description": "HAZARD",
+          "Address": "US HIGHWAY 19 N / NE COACHMAN RD",
+          "Response_Date": "2025-12-08T15:22:38"
+        },
+        {
+          "Master_Incident_Number": "120825-00309",
+          "Online_Description": "PROPERTY FOUND/LOST",
+          "Address": "200 BLOCK DREW ST",
+          "Response_Date": "2025-12-08T15:22:39"
+        }
+      ]
     }
   ]
 }

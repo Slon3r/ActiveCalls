@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 2166,
+  "total_calls_tracked": 2170,
   "total_resolved": 2158,
   "call_types": {
-    "DIRECTED PATROL": 708,
+    "DIRECTED PATROL": 709,
     "TRAFFIC STOP": 321,
     "DRUNK DRIVER": 6,
     "DISTURBANCE": 49,
@@ -13,8 +13,8 @@
     "WELFARE CHECK": 48,
     "PARK WALK AND TALK": 190,
     "SUSPICIOUS PERSON": 89,
-    "TRESPASS": 50,
-    "PROPERTY FOUND/LOST": 12,
+    "TRESPASS": 51,
+    "PROPERTY FOUND/LOST": 13,
     "THEFT": 28,
     "NEIGHBOR CALL": 11,
     "911 HANG-UP": 85,
@@ -30,7 +30,7 @@
     "FRAUD": 14,
     "RECKLESS VEHICLE": 7,
     "JUVENILE CASE": 8,
-    "HAZARD": 4,
+    "HAZARD": 5,
     "UNKNOWN PROBLEM": 14,
     "NOISE COMPLAINT": 8,
     "CIVIL MATTER": 12,
@@ -76,7 +76,7 @@
     "0 BLOCK ACACIA ST": 6,
     "-600 BLOCK 647 BAY ESPLANADE": 1,
     "1900 BLOCK UNION ST": 2,
-    "200 BLOCK DREW ST": 7,
+    "200 BLOCK DREW ST": 8,
     "-800 BLOCK 819 NARCISSUS AVE": 2,
     "0 BLOCK ISLAND WAY": 7,
     "US HIGHWAY 19 N / SR 580": 3,
@@ -631,7 +631,7 @@
     "GULF TO BAY BLVD / S DUNCAN AVE": 2,
     "S LINCOLN AVE / COURT ST": 1,
     "COURT ST / S HILLCREST AVE": 1,
-    "100 BLOCK N BELCHER RD": 1,
+    "100 BLOCK N BELCHER RD": 2,
     "S SAN REMO AVE / GULF TO BAY BLVD": 1,
     "S BELCHER RD / GULF TO BAY BLVD": 4,
     "0 BLOCK N BELCHER RD": 1,
@@ -775,7 +775,7 @@
     "2500 BLOCK BRENTWOOD DR": 1,
     "1200 BLOCK N MARTIN LUTHER KING JR AVE": 1,
     "2300 BLOCK LANDMARK DR": 2,
-    "US HIGHWAY 19 N / NE COACHMAN RD": 3,
+    "US HIGHWAY 19 N / NE COACHMAN RD": 4,
     "600 BLOCK WOODLAWN ST": 1,
     "US HIGHWAY 19 N / ENTERPRISE RD": 1,
     "N FORT HARRISON AVE / LAURA ST": 1,
@@ -1066,7 +1066,8 @@
     "PALMETTO ST & KINGS HWY": 1,
     "1100 BLOCK PINELLAS ST": 1,
     "-500 BLOCK 548 SKY HARBOR DR": 1,
-    "KINGS HWY / HIBISCUS ST": 1
+    "KINGS HWY / HIBISCUS ST": 1,
+    "-1400 BLOCK 1479 SUNSET POINT RD": 1
   },
   "hourly_distribution": {
     "0": 75,
@@ -1084,7 +1085,7 @@
     "12": 136,
     "13": 133,
     "14": 156,
-    "15": 139,
+    "15": 143,
     "16": 127,
     "17": 115,
     "18": 112,
@@ -1095,7 +1096,7 @@
     "23": 65
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-08T20:32:49.064698+00:00",
+  "last_updated": "2025-12-08T20:47:58.972869+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 732
+  "total_snapshots": 733
 }
