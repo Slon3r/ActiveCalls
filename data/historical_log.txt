@@ -9965,3 +9965,14 @@ TOTAL ACTIVE CALLS: 2
 
 --- RESOLVED CALLS (1) ---
 [RESOLVED] 120825-00025 | ANIMAL CASE | RIGSBY LN / SR 580 | Response: 01:21 AM
+
+================================================================================
+TIMESTAMP: 2025-12-08T07:37:16.604304+00:00
+TOTAL ACTIVE CALLS: 2
+================================================================================
+
+--- NEW CALLS (1) ---
+[NEW] 120825-00031 | PARK WALK AND TALK | -2700 BLOCK 2849 APPLEWOOD DR | Response: 02:03 AM
+
+--- RESOLVED CALLS (1) ---
+[RESOLVED] 120825-00029 | SUSPICIOUS EVENT | 600 BLOCK DREW ST | Response: 01:52 AM

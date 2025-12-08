@@ -1,6 +1,6 @@
 {
-  "total_calls_tracked": 2050,
-  "total_resolved": 2048,
+  "total_calls_tracked": 2051,
+  "total_resolved": 2049,
   "call_types": {
     "DIRECTED PATROL": 667,
     "TRAFFIC STOP": 303,
@@ -11,7 +11,7 @@
     "ALARM": 28,
     "KEEP THE PEACE": 24,
     "WELFARE CHECK": 46,
-    "PARK WALK AND TALK": 185,
+    "PARK WALK AND TALK": 186,
     "SUSPICIOUS PERSON": 82,
     "TRESPASS": 48,
     "PROPERTY FOUND/LOST": 12,
@@ -1032,12 +1032,13 @@
     "1100 BLOCK MCMULLEN BOOTH RD": 1,
     "2900 BLOCK CR 193": 1,
     "0 BLOCK N LADY MARY DR": 1,
-    "RIGSBY LN / SR 580": 1
+    "RIGSBY LN / SR 580": 1,
+    "-2700 BLOCK 2849 APPLEWOOD DR": 1
   },
   "hourly_distribution": {
     "0": 75,
     "1": 68,
-    "2": 43,
+    "2": 44,
     "3": 34,
     "4": 19,
     "5": 47,
@@ -1061,7 +1062,7 @@
     "23": 65
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-08T07:15:41.525096+00:00",
+  "last_updated": "2025-12-08T07:37:16.605723+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 692
+  "total_snapshots": 693
 }
