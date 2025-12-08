@@ -25,24 +25,6 @@
       "Response_Date": "2025-12-08T16:21:13"
     },
     {
-      "Master_Incident_Number": "120825-00347",
-      "Online_Description": "TRAFFIC CRASH",
-      "Address": "COURTNEY CAMPBELL CSWY",
-      "Response_Date": "2025-12-08T16:29:04"
-    },
-    {
-      "Master_Incident_Number": "120825-00346",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "1300 BLOCK CLEVELAND ST",
-      "Response_Date": "2025-12-08T16:29:10"
-    },
-    {
-      "Master_Incident_Number": "120825-00350",
-      "Online_Description": "ASSIST CITIZEN",
-      "Address": "19800 BLOCK US HIGHWAY 19 N",
-      "Response_Date": "2025-12-08T16:33:26"
-    },
-    {
       "Master_Incident_Number": "120825-00353",
       "Online_Description": "WEAPONS VIOLATION",
       "Address": "2500 BLOCK SANDS DR",
@@ -55,30 +37,60 @@
       "Response_Date": "2025-12-08T16:43:08"
     },
     {
-      "Master_Incident_Number": "120825-00355",
-      "Online_Description": "TRESPASS",
-      "Address": "600 BLOCK COURT ST",
-      "Response_Date": "2025-12-08T16:43:51"
-    },
-    {
       "Master_Incident_Number": "120825-00359",
       "Online_Description": "WELFARE CHECK",
       "Address": "2600 BLOCK COUNTRYSIDE BLVD",
       "Response_Date": "2025-12-08T16:47:09"
     },
     {
-      "Master_Incident_Number": "120825-00358",
-      "Online_Description": "TRESPASS",
-      "Address": "2600 BLOCK GULF TO BAY BLVD",
-      "Response_Date": "2025-12-08T16:49:15"
+      "Master_Incident_Number": "120825-00361",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "1500 BLOCK GULF BLVD",
+      "Response_Date": "2025-12-08T16:58:47"
     },
     {
-      "Master_Incident_Number": "120825-00360",
+      "Master_Incident_Number": "120825-00363",
+      "Online_Description": "DISABLED VEHICLE",
+      "Address": "GULF TO BAY BLVD / S MAIN AVE",
+      "Response_Date": "2025-12-08T17:01:04"
+    },
+    {
+      "Master_Incident_Number": "120825-00366",
+      "Online_Description": "PROPERTY FOUND/LOST",
+      "Address": "1400 BLOCK S BELCHER RD",
+      "Response_Date": "2025-12-08T17:05:05"
+    },
+    {
+      "Master_Incident_Number": "120825-00367",
+      "Online_Description": "PERSON DOWN",
+      "Address": "400 BLOCK TURNER ST",
+      "Response_Date": "2025-12-08T17:06:19"
+    },
+    {
+      "Master_Incident_Number": "120825-00368",
       "Online_Description": "DIRECTED PATROL",
-      "Address": "KINGS HWY / OTTEN ST",
-      "Response_Date": "2025-12-08T16:52:06"
+      "Address": "N HERCULES AVE / SUNSET POINT RD",
+      "Response_Date": "2025-12-08T17:08:17"
+    },
+    {
+      "Master_Incident_Number": "120825-00369",
+      "Online_Description": "VEHICLE ILLEGALLY PARKED",
+      "Address": "TROPIC HILLS DR / US HIGHWAY 19 N",
+      "Response_Date": "2025-12-08T17:09:16"
+    },
+    {
+      "Master_Incident_Number": "120825-00373",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "1400 BLOCK S MARTIN LUTHER KING JR AVE",
+      "Response_Date": "2025-12-08T17:15:19"
+    },
+    {
+      "Master_Incident_Number": "120825-00374",
+      "Online_Description": "TRAFFIC STOP",
+      "Address": "SUNSET POINT RD / N HERCULES AVE",
+      "Response_Date": "2025-12-08T17:17:21"
     }
   ],
-  "timestamp": "2025-12-08T22:18:32.598058+00:00",
-  "count": 13
+  "timestamp": "2025-12-08T22:38:38.722502+00:00",
+  "count": 15
 }
