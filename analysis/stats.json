@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 2066,
-  "total_resolved": 2061,
+  "total_calls_tracked": 2068,
+  "total_resolved": 2064,
   "call_types": {
-    "DIRECTED PATROL": 672,
+    "DIRECTED PATROL": 673,
     "TRAFFIC STOP": 304,
     "DRUNK DRIVER": 6,
     "DISTURBANCE": 49,
@@ -22,7 +22,7 @@
     "PANHANDLER/SOLICITOR": 4,
     "VEHICLE ILLEGALLY PARKED": 4,
     "SUSPICIOUS EVENT": 40,
-    "TRAFFIC CRASH": 80,
+    "TRAFFIC CRASH": 81,
     "DISABLED VEHICLE": 15,
     "ASSIST CITIZEN": 54,
     "ASSIST OTHER AGENCY": 37,
@@ -75,7 +75,7 @@
     "0 BLOCK ACACIA ST": 5,
     "-600 BLOCK 647 BAY ESPLANADE": 1,
     "1900 BLOCK UNION ST": 2,
-    "200 BLOCK DREW ST": 6,
+    "200 BLOCK DREW ST": 7,
     "-800 BLOCK 819 NARCISSUS AVE": 2,
     "0 BLOCK ISLAND WAY": 7,
     "US HIGHWAY 19 N / SR 580": 3,
@@ -1036,7 +1036,8 @@
     "-2700 BLOCK 2849 APPLEWOOD DR": 1,
     "-600 BLOCK 689 BAY ESPLANADE": 1,
     "0 BLOCK \u00b057'2 / 82\u00b030'56": 1,
-    "300 BLOCK CORONADO DR ": 1
+    "300 BLOCK CORONADO DR ": 1,
+    "GULF TO BAY BLVD / SKYVIEW AVE": 1
   },
   "hourly_distribution": {
     "0": 75,
@@ -1045,7 +1046,7 @@
     "3": 35,
     "4": 21,
     "5": 53,
-    "6": 68,
+    "6": 70,
     "7": 52,
     "8": 120,
     "9": 136,
@@ -1065,7 +1066,7 @@
     "23": 65
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-08T11:44:42.546724+00:00",
+  "last_updated": "2025-12-08T11:52:42.034716+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 706
+  "total_snapshots": 707
 }
