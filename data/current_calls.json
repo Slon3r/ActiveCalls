@@ -7,40 +7,10 @@
       "Response_Date": "2025-12-07T19:58:12"
     },
     {
-      "Master_Incident_Number": "120825-00284",
-      "Online_Description": "ASSAULT",
-      "Address": "1100 BLOCK PINELLAS ST",
-      "Response_Date": "2025-12-08T14:06:20"
-    },
-    {
-      "Master_Incident_Number": "120825-00283",
-      "Online_Description": "TRAFFIC CRASH",
-      "Address": "US HIGHWAY 19 N / SEVILLE BLVD",
-      "Response_Date": "2025-12-08T14:06:45"
-    },
-    {
       "Master_Incident_Number": "120825-00288",
       "Online_Description": "BURGLARY",
       "Address": "1200 BLOCK S MARTIN LUTHER KING JR AVE",
       "Response_Date": "2025-12-08T14:11:36"
-    },
-    {
-      "Master_Incident_Number": "120825-00285",
-      "Online_Description": "PARK WALK AND TALK",
-      "Address": "0 BLOCK 99 THIRD ST",
-      "Response_Date": "2025-12-08T14:13:38"
-    },
-    {
-      "Master_Incident_Number": "120825-00290",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "1200 BLOCK CLEVELAND ST",
-      "Response_Date": "2025-12-08T14:22:19"
-    },
-    {
-      "Master_Incident_Number": "120825-00294",
-      "Online_Description": "KEEP THE PEACE",
-      "Address": "1400 BLOCK S BELCHER RD",
-      "Response_Date": "2025-12-08T14:25:39"
     },
     {
       "Master_Incident_Number": "120825-00300",
@@ -61,18 +31,36 @@
       "Response_Date": "2025-12-08T15:18:04"
     },
     {
-      "Master_Incident_Number": "120825-00311",
-      "Online_Description": "HAZARD",
-      "Address": "US HIGHWAY 19 N / NE COACHMAN RD",
-      "Response_Date": "2025-12-08T15:22:38"
-    },
-    {
       "Master_Incident_Number": "120825-00309",
       "Online_Description": "PROPERTY FOUND/LOST",
       "Address": "200 BLOCK DREW ST",
       "Response_Date": "2025-12-08T15:22:39"
+    },
+    {
+      "Master_Incident_Number": "120825-00314",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "0 BLOCK 99 THIRD ST",
+      "Response_Date": "2025-12-08T15:29:23"
+    },
+    {
+      "Master_Incident_Number": "120825-00315",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "1300 BLOCK S BELCHER RD",
+      "Response_Date": "2025-12-08T15:30:12"
+    },
+    {
+      "Master_Incident_Number": "120825-00317",
+      "Online_Description": "911 HANG-UP",
+      "Address": "MCMULLEN BOOTH RD / RUTH ECKERD HALL DR",
+      "Response_Date": "2025-12-08T15:30:52"
+    },
+    {
+      "Master_Incident_Number": "120825-00318",
+      "Online_Description": "KEEP THE PEACE",
+      "Address": "200 BLOCK S STARCREST DR",
+      "Response_Date": "2025-12-08T15:31:23"
     }
   ],
-  "timestamp": "2025-12-08T20:47:58.969543+00:00",
-  "count": 12
+  "timestamp": "2025-12-08T20:56:31.123443+00:00",
+  "count": 10
 }
