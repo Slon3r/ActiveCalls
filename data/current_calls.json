@@ -7,12 +7,6 @@
       "Response_Date": "2025-12-08T15:58:56"
     },
     {
-      "Master_Incident_Number": "120825-00337",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "MEMORIAL CSWY",
-      "Response_Date": "2025-12-08T16:12:52"
-    },
-    {
       "Master_Incident_Number": "120825-00340",
       "Online_Description": "MISSING PERSON",
       "Address": "700 BLOCK S KEENE RD",
@@ -61,18 +55,6 @@
       "Response_Date": "2025-12-08T17:08:17"
     },
     {
-      "Master_Incident_Number": "120825-00369",
-      "Online_Description": "VEHICLE ILLEGALLY PARKED",
-      "Address": "TROPIC HILLS DR / US HIGHWAY 19 N",
-      "Response_Date": "2025-12-08T17:09:16"
-    },
-    {
-      "Master_Incident_Number": "120825-00370",
-      "Online_Description": "911 HANG-UP",
-      "Address": "100 BLOCK N MCMULLEN BOOTH RD",
-      "Response_Date": "2025-12-08T17:13:21"
-    },
-    {
       "Master_Incident_Number": "120825-00375",
       "Online_Description": "DISTURBANCE",
       "Address": "1000 BLOCK N MARTIN LUTHER KING JR AVE",
@@ -83,8 +65,20 @@
       "Online_Description": "TRAFFIC STOP",
       "Address": "SUNSET POINT RD / N HERCULES AVE",
       "Response_Date": "2025-12-08T17:27:35"
+    },
+    {
+      "Master_Incident_Number": "120825-00380",
+      "Online_Description": "PROPERTY FOUND/LOST",
+      "Address": "1400 BLOCK S MARTIN LUTHER KING JR AVE",
+      "Response_Date": "2025-12-08T17:30:46"
+    },
+    {
+      "Master_Incident_Number": "120825-00382",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "0 BLOCK 53 KIPLING PLZ",
+      "Response_Date": "2025-12-08T17:34:16"
     }
   ],
-  "timestamp": "2025-12-08T22:49:27.514410+00:00",
-  "count": 14
+  "timestamp": "2025-12-08T22:57:15.546917+00:00",
+  "count": 13
 }

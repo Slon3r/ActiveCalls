@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 2210,
-  "total_resolved": 2196,
+  "total_calls_tracked": 2212,
+  "total_resolved": 2199,
   "call_types": {
-    "DIRECTED PATROL": 721,
+    "DIRECTED PATROL": 722,
     "TRAFFIC STOP": 324,
     "DRUNK DRIVER": 6,
     "DISTURBANCE": 50,
@@ -14,7 +14,7 @@
     "PARK WALK AND TALK": 191,
     "SUSPICIOUS PERSON": 90,
     "TRESPASS": 53,
-    "PROPERTY FOUND/LOST": 14,
+    "PROPERTY FOUND/LOST": 15,
     "THEFT": 28,
     "NEIGHBOR CALL": 12,
     "911 HANG-UP": 87,
@@ -437,7 +437,7 @@
     "600 BLOCK N FORT HARRISON AVE": 1,
     "200 BLOCK S BETTY LN": 1,
     "2400 BLOCK HARN BLVD": 3,
-    "1400 BLOCK S MARTIN LUTHER KING JR AVE": 11,
+    "1400 BLOCK S MARTIN LUTHER KING JR AVE": 12,
     "OTIS C GREEN DR / N BETTY LN": 1,
     "2600 BLOCK MCMULLEN BOOTH RD": 5,
     "S MADISON AVE / PIERCE ST": 2,
@@ -1079,7 +1079,8 @@
     "2600 BLOCK COUNTRYSIDE BLVD": 1,
     "KINGS HWY / OTTEN ST": 1,
     "TROPIC HILLS DR / US HIGHWAY 19 N": 1,
-    "100 BLOCK N MCMULLEN BOOTH RD": 1
+    "100 BLOCK N MCMULLEN BOOTH RD": 1,
+    "0 BLOCK 53 KIPLING PLZ": 1
   },
   "hourly_distribution": {
     "0": 75,
@@ -1099,7 +1100,7 @@
     "14": 156,
     "15": 152,
     "16": 148,
-    "17": 125,
+    "17": 127,
     "18": 112,
     "19": 33,
     "20": 36,
@@ -1108,7 +1109,7 @@
     "23": 65
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-08T22:49:27.518458+00:00",
+  "last_updated": "2025-12-08T22:57:15.558001+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 742
+  "total_snapshots": 743
 }
