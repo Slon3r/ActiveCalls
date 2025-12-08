@@ -1,6 +1,6 @@
 {
-  "total_calls_tracked": 2219,
-  "total_resolved": 2212,
+  "total_calls_tracked": 2220,
+  "total_resolved": 2216,
   "call_types": {
     "DIRECTED PATROL": 723,
     "TRAFFIC STOP": 326,
@@ -18,7 +18,7 @@
     "THEFT": 28,
     "NEIGHBOR CALL": 12,
     "911 HANG-UP": 88,
-    "SUSPICIOUS VEHICLE": 15,
+    "SUSPICIOUS VEHICLE": 16,
     "PANHANDLER/SOLICITOR": 4,
     "VEHICLE ILLEGALLY PARKED": 6,
     "SUSPICIOUS EVENT": 44,
@@ -775,7 +775,7 @@
     "1600 BLOCK N BETTY LN": 1,
     "2500 BLOCK BRENTWOOD DR": 1,
     "1200 BLOCK N MARTIN LUTHER KING JR AVE": 1,
-    "2300 BLOCK LANDMARK DR": 2,
+    "2300 BLOCK LANDMARK DR": 3,
     "US HIGHWAY 19 N / NE COACHMAN RD": 4,
     "600 BLOCK WOODLAWN ST": 1,
     "US HIGHWAY 19 N / ENTERPRISE RD": 1,
@@ -1102,7 +1102,7 @@
     "15": 152,
     "16": 148,
     "17": 133,
-    "18": 113,
+    "18": 114,
     "19": 33,
     "20": 36,
     "21": 44,
@@ -1110,7 +1110,7 @@
     "23": 65
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-08T23:33:26.479917+00:00",
+  "last_updated": "2025-12-08T23:44:14.396693+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 745
+  "total_snapshots": 746
 }
