@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 2153,
-  "total_resolved": 2146,
+  "total_calls_tracked": 2158,
+  "total_resolved": 2149,
   "call_types": {
-    "DIRECTED PATROL": 705,
+    "DIRECTED PATROL": 707,
     "TRAFFIC STOP": 320,
     "DRUNK DRIVER": 6,
     "DISTURBANCE": 49,
@@ -11,7 +11,7 @@
     "ALARM": 31,
     "KEEP THE PEACE": 25,
     "WELFARE CHECK": 47,
-    "PARK WALK AND TALK": 189,
+    "PARK WALK AND TALK": 190,
     "SUSPICIOUS PERSON": 89,
     "TRESPASS": 50,
     "PROPERTY FOUND/LOST": 12,
@@ -22,7 +22,7 @@
     "PANHANDLER/SOLICITOR": 4,
     "VEHICLE ILLEGALLY PARKED": 4,
     "SUSPICIOUS EVENT": 42,
-    "TRAFFIC CRASH": 86,
+    "TRAFFIC CRASH": 87,
     "DISABLED VEHICLE": 16,
     "ASSIST CITIZEN": 57,
     "ASSIST OTHER AGENCY": 39,
@@ -50,7 +50,7 @@
     "FIGHT": 1,
     "CHILD PROTECTION INVESTIGATION": 5,
     "DRUNK PEDESTRIAN": 2,
-    "ASSAULT": 5,
+    "ASSAULT": 6,
     "PERSON DOWN": 8,
     "ROBBERY": 1,
     "INJUNCTION VIOLATION": 1,
@@ -69,7 +69,7 @@
     "1000 BLOCK WEST AVE": 2,
     "600 BLOCK S GULFVIEW BLVD": 10,
     "-800 BLOCK 1099 MARSHALL ST": 1,
-    "US HIGHWAY 19 N / DREW ST": 15,
+    "US HIGHWAY 19 N / DREW ST": 16,
     "US HIGHWAY 19 N / SR 590": 7,
     "1100 BLOCK DRUID RD": 6,
     "2100 BLOCK RANGE RD": 1,
@@ -115,7 +115,7 @@
     "CLEVELAND ST/S MADISON AVE": 2,
     "2700 BLOCK GULF TO BAY BLVD": 18,
     "1400 BLOCK N HIBISCUS ST": 1,
-    "2900 BLOCK DREW ST": 5,
+    "2900 BLOCK DREW ST": 6,
     "21200 BLOCK US HIGHWAY 19 N": 5,
     "1700 BLOCK SUNSET POINT RD": 1,
     "2300 BLOCK GULF TO BAY BLVD": 4,
@@ -152,7 +152,7 @@
     "-1300 BLOCK BLK ADMIRAL WOODSON LN": 1,
     "19300 BLOCK US HIGHWAY 19 N": 2,
     "600 BLOCK PIERCE ST": 18,
-    "0 BLOCK 99 THIRD ST": 4,
+    "0 BLOCK 99 THIRD ST": 5,
     "0 BLOCK 98 THIRD ST": 5,
     "100 BLOCK HAMPTON RD": 4,
     "GULF TO BAY BLVD / PARK PLACE BLVD": 2,
@@ -919,7 +919,7 @@
     "2000 BLOCK PALMETTO ST": 1,
     "300 BLOCK SEMINOLE ST": 1,
     "2500 BLOCK ALEXANDER PL": 1,
-    "2600 BLOCK SABAL SPRINGS DR": 3,
+    "2600 BLOCK SABAL SPRINGS DR": 4,
     "1900 BLOCK STARDUST DR": 1,
     "1800 BLOCK PINE ST": 1,
     "1200 BLOCK STATE ST": 1,
@@ -1063,7 +1063,8 @@
     "2600 BLOCK SABAL SPRINGS CIR": 1,
     "300 BLOCK S LAKE DR": 1,
     "1000 BLOCK IROQUOIS ST": 1,
-    "PALMETTO ST & KINGS HWY": 1
+    "PALMETTO ST & KINGS HWY": 1,
+    "1100 BLOCK PINELLAS ST": 1
   },
   "hourly_distribution": {
     "0": 75,
@@ -1080,7 +1081,7 @@
     "11": 127,
     "12": 136,
     "13": 133,
-    "14": 143,
+    "14": 148,
     "15": 139,
     "16": 127,
     "17": 115,
@@ -1092,7 +1093,7 @@
     "23": 65
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-08T19:25:40.950413+00:00",
+  "last_updated": "2025-12-08T19:37:05.116052+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 727
+  "total_snapshots": 728
 }

@@ -25,24 +25,36 @@
       "Response_Date": "2025-12-08T13:31:52"
     },
     {
-      "Master_Incident_Number": "120825-00277",
+      "Master_Incident_Number": "120825-00284",
+      "Online_Description": "ASSAULT",
+      "Address": "1100 BLOCK PINELLAS ST",
+      "Response_Date": "2025-12-08T14:06:20"
+    },
+    {
+      "Master_Incident_Number": "120825-00283",
+      "Online_Description": "TRAFFIC CRASH",
+      "Address": "US HIGHWAY 19 N / DREW ST",
+      "Response_Date": "2025-12-08T14:06:45"
+    },
+    {
+      "Master_Incident_Number": "120825-00285",
+      "Online_Description": "PARK WALK AND TALK",
+      "Address": "0 BLOCK 99 THIRD ST",
+      "Response_Date": "2025-12-08T14:13:38"
+    },
+    {
+      "Master_Incident_Number": "120825-00286",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "2600 BLOCK SABAL SPRINGS DR",
+      "Response_Date": "2025-12-08T14:14:16"
+    },
+    {
+      "Master_Incident_Number": "120825-00287",
       "Online_Description": "DIRECTED PATROL",
       "Address": "2900 BLOCK DREW ST",
-      "Response_Date": "2025-12-08T13:47:13"
-    },
-    {
-      "Master_Incident_Number": "120825-00281",
-      "Online_Description": "911 HANG-UP",
-      "Address": "1000 BLOCK IROQUOIS ST",
-      "Response_Date": "2025-12-08T13:54:34"
-    },
-    {
-      "Master_Incident_Number": "120825-00282",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "PALMETTO ST & KINGS HWY",
-      "Response_Date": "2025-12-08T13:59:31"
+      "Response_Date": "2025-12-08T14:14:29"
     }
   ],
-  "timestamp": "2025-12-08T19:25:40.947685+00:00",
-  "count": 7
+  "timestamp": "2025-12-08T19:37:05.113160+00:00",
+  "count": 9
 }
