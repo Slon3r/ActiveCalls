@@ -1,6 +1,6 @@
 {
-  "total_calls_tracked": 2052,
-  "total_resolved": 2050,
+  "total_calls_tracked": 2053,
+  "total_resolved": 2051,
   "call_types": {
     "DIRECTED PATROL": 668,
     "TRAFFIC STOP": 303,
@@ -23,7 +23,7 @@
     "VEHICLE ILLEGALLY PARKED": 4,
     "SUSPICIOUS EVENT": 40,
     "TRAFFIC CRASH": 80,
-    "DISABLED VEHICLE": 14,
+    "DISABLED VEHICLE": 15,
     "ASSIST CITIZEN": 54,
     "ASSIST OTHER AGENCY": 35,
     "FIRE": 2,
@@ -95,7 +95,7 @@
     "1400 BLOCK LAURA ST": 3,
     "ENTERPRISE RD E / VILLAGE DR": 2,
     "GULF TO BAY BLVD / HAMPTON RD": 1,
-    "2100 BLOCK GULF TO BAY BLVD": 20,
+    "2100 BLOCK GULF TO BAY BLVD": 21,
     "1300 BLOCK CLEVELAND ST": 10,
     "2100 BLOCK BELCHER RD": 1,
     "SAND KEY PARK ENTRANCE": 5,
@@ -1039,7 +1039,7 @@
     "0": 75,
     "1": 68,
     "2": 45,
-    "3": 34,
+    "3": 35,
     "4": 19,
     "5": 47,
     "6": 63,
@@ -1062,7 +1062,7 @@
     "23": 65
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-08T08:27:06.504099+00:00",
+  "last_updated": "2025-12-08T08:53:23.332941+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 696
+  "total_snapshots": 697
 }

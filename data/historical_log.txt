@@ -9999,3 +9999,14 @@ TOTAL ACTIVE CALLS: 2
 
 --- NEW CALLS (1) ---
 [NEW] 120825-00034 | DIRECTED PATROL | 26500 BLOCK US HIGHWAY 19 N | Response: 02:54 AM
+
+================================================================================
+TIMESTAMP: 2025-12-08T08:53:23.290281+00:00
+TOTAL ACTIVE CALLS: 2
+================================================================================
+
+--- NEW CALLS (1) ---
+[NEW] 120825-00036 | DISABLED VEHICLE | 2100 BLOCK GULF TO BAY BLVD | Response: 03:24 AM
+
+--- RESOLVED CALLS (1) ---
+[RESOLVED] 120825-00034 | DIRECTED PATROL | 26500 BLOCK US HIGHWAY 19 N | Response: 02:54 AM
