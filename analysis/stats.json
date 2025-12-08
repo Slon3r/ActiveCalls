@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 2217,
-  "total_resolved": 2207,
+  "total_calls_tracked": 2219,
+  "total_resolved": 2212,
   "call_types": {
-    "DIRECTED PATROL": 722,
+    "DIRECTED PATROL": 723,
     "TRAFFIC STOP": 326,
     "DRUNK DRIVER": 6,
     "DISTURBANCE": 50,
@@ -25,7 +25,7 @@
     "TRAFFIC CRASH": 89,
     "DISABLED VEHICLE": 17,
     "ASSIST CITIZEN": 59,
-    "ASSIST OTHER AGENCY": 39,
+    "ASSIST OTHER AGENCY": 40,
     "FIRE": 2,
     "FRAUD": 14,
     "RECKLESS VEHICLE": 7,
@@ -81,7 +81,7 @@
     "-800 BLOCK 819 NARCISSUS AVE": 2,
     "0 BLOCK ISLAND WAY": 7,
     "US HIGHWAY 19 N / SR 580": 3,
-    "400 BLOCK S GULFVIEW BLVD": 7,
+    "400 BLOCK S GULFVIEW BLVD": 8,
     "100 BLOCK S MYRTLE AVE": 3,
     "0 BLOCK CAUSEWAY BLVD": 19,
     "400 BLOCK FAIRWOOD AVE": 4,
@@ -1080,7 +1080,8 @@
     "KINGS HWY / OTTEN ST": 1,
     "TROPIC HILLS DR / US HIGHWAY 19 N": 1,
     "100 BLOCK N MCMULLEN BOOTH RD": 1,
-    "0 BLOCK 53 KIPLING PLZ": 1
+    "0 BLOCK 53 KIPLING PLZ": 1,
+    "COURT ST/S MISSOURI": 1
   },
   "hourly_distribution": {
     "0": 75,
@@ -1100,8 +1101,8 @@
     "14": 156,
     "15": 152,
     "16": 148,
-    "17": 132,
-    "18": 112,
+    "17": 133,
+    "18": 113,
     "19": 33,
     "20": 36,
     "21": 44,
@@ -1109,7 +1110,7 @@
     "23": 65
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-08T23:18:56.168491+00:00",
+  "last_updated": "2025-12-08T23:33:26.479917+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 744
+  "total_snapshots": 745
 }

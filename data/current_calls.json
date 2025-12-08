@@ -7,12 +7,6 @@
       "Response_Date": "2025-12-08T17:05:05"
     },
     {
-      "Master_Incident_Number": "120825-00367",
-      "Online_Description": "ASSIST OTHER AGENCY",
-      "Address": "400 BLOCK TURNER ST",
-      "Response_Date": "2025-12-08T17:06:19"
-    },
-    {
       "Master_Incident_Number": "120825-00368",
       "Online_Description": "DIRECTED PATROL",
       "Address": "N HERCULES AVE / SUNSET POINT RD",
@@ -25,28 +19,10 @@
       "Response_Date": "2025-12-08T17:30:46"
     },
     {
-      "Master_Incident_Number": "120825-00382",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "0 BLOCK 53 KIPLING PLZ",
-      "Response_Date": "2025-12-08T17:34:16"
-    },
-    {
       "Master_Incident_Number": "120825-00387",
       "Online_Description": "KEEP THE PEACE",
       "Address": "2800 BLOCK COUNTRYSIDE BLVD",
       "Response_Date": "2025-12-08T17:44:25"
-    },
-    {
-      "Master_Incident_Number": "120825-00385",
-      "Online_Description": "PARK WALK AND TALK",
-      "Address": "200 BLOCK ISLAND WAY",
-      "Response_Date": "2025-12-08T17:45:38"
-    },
-    {
-      "Master_Incident_Number": "120825-00390",
-      "Online_Description": "911 HANG-UP",
-      "Address": "2700 BLOCK GULF TO BAY BLVD",
-      "Response_Date": "2025-12-08T17:50:00"
     },
     {
       "Master_Incident_Number": "120825-00392",
@@ -55,12 +31,18 @@
       "Response_Date": "2025-12-08T17:53:53"
     },
     {
-      "Master_Incident_Number": "120825-00393",
-      "Online_Description": "TRAFFIC STOP",
-      "Address": "SUNSET POINT RD / N HERCULES AVE",
-      "Response_Date": "2025-12-08T17:55:10"
+      "Master_Incident_Number": "120825-00395",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "COURT ST/S MISSOURI",
+      "Response_Date": "2025-12-08T17:59:52"
+    },
+    {
+      "Master_Incident_Number": "120825-00400",
+      "Online_Description": "ASSIST OTHER AGENCY",
+      "Address": "400 BLOCK S GULFVIEW BLVD",
+      "Response_Date": "2025-12-08T18:05:47"
     }
   ],
-  "timestamp": "2025-12-08T23:18:56.164289+00:00",
-  "count": 10
+  "timestamp": "2025-12-08T23:33:26.475499+00:00",
+  "count": 7
 }
