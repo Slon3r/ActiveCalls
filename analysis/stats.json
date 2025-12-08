@@ -1,6 +1,6 @@
 {
-  "total_calls_tracked": 2061,
-  "total_resolved": 2057,
+  "total_calls_tracked": 2063,
+  "total_resolved": 2059,
   "call_types": {
     "DIRECTED PATROL": 671,
     "TRAFFIC STOP": 303,
@@ -8,10 +8,10 @@
     "DISTURBANCE": 49,
     "BATTERY": 15,
     "CRIMINAL MISCHIEF": 11,
-    "ALARM": 29,
+    "ALARM": 30,
     "KEEP THE PEACE": 24,
     "WELFARE CHECK": 46,
-    "PARK WALK AND TALK": 186,
+    "PARK WALK AND TALK": 187,
     "SUSPICIOUS PERSON": 83,
     "TRESPASS": 48,
     "PROPERTY FOUND/LOST": 12,
@@ -942,7 +942,7 @@
     "0 BLOCK 27 N FORT HARRISON AVE": 1,
     "DREW ST / PARK PLACE BLVD": 1,
     "DOUGLAS AVE / SUNSET POINT RD": 1,
-    "800 BLOCK COURT ST": 1,
+    "800 BLOCK COURT ST": 2,
     "SOUTH SHORE BLVD": 1,
     "200 BLOCK S GULFVIEW BLVD": 2,
     "JEFFORDS ST / S HIGHLAND AVE": 1,
@@ -1035,7 +1035,8 @@
     "RIGSBY LN / SR 580": 1,
     "-2700 BLOCK 2849 APPLEWOOD DR": 1,
     "-600 BLOCK 689 BAY ESPLANADE": 1,
-    "0 BLOCK \u00b057'2 / 82\u00b030'56": 1
+    "0 BLOCK \u00b057'2 / 82\u00b030'56": 1,
+    "300 BLOCK CORONADO DR ": 1
   },
   "hourly_distribution": {
     "0": 75,
@@ -1044,7 +1045,7 @@
     "3": 35,
     "4": 21,
     "5": 53,
-    "6": 63,
+    "6": 65,
     "7": 52,
     "8": 120,
     "9": 136,
@@ -1064,7 +1065,7 @@
     "23": 65
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-08T11:16:16.755514+00:00",
+  "last_updated": "2025-12-08T11:32:14.927389+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 704
+  "total_snapshots": 705
 }
