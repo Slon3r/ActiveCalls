@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 2080,
-  "total_resolved": 2072,
+  "total_calls_tracked": 2082,
+  "total_resolved": 2075,
   "call_types": {
-    "DIRECTED PATROL": 678,
-    "TRAFFIC STOP": 304,
+    "DIRECTED PATROL": 679,
+    "TRAFFIC STOP": 305,
     "DRUNK DRIVER": 6,
     "DISTURBANCE": 49,
     "BATTERY": 15,
@@ -112,7 +112,7 @@
     "CLEVELAND ST / N MAIN AVE": 1,
     "S MISSOURI AVE / KINGSLEY ST": 1,
     "2200 BLOCK GULF TO BAY BLVD": 8,
-    "CLEVELAND ST/S MADISON AVE": 1,
+    "CLEVELAND ST/S MADISON AVE": 2,
     "2700 BLOCK GULF TO BAY BLVD": 18,
     "1400 BLOCK N HIBISCUS ST": 1,
     "2900 BLOCK DREW ST": 4,
@@ -1039,7 +1039,8 @@
     "0 BLOCK \u00b057'2 / 82\u00b030'56": 1,
     "300 BLOCK CORONADO DR ": 1,
     "GULF TO BAY BLVD / SKYVIEW AVE": 1,
-    "2800 BLOCK SR 590": 1
+    "2800 BLOCK SR 590": 1,
+    "CLEVELAND ST / S MAIN AVE": 1
   },
   "hourly_distribution": {
     "0": 75,
@@ -1050,7 +1051,7 @@
     "5": 53,
     "6": 75,
     "7": 54,
-    "8": 124,
+    "8": 126,
     "9": 136,
     "10": 124,
     "11": 120,
@@ -1068,7 +1069,7 @@
     "23": 65
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-08T13:44:26.889398+00:00",
+  "last_updated": "2025-12-08T13:56:47.397728+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 710
+  "total_snapshots": 711
 }

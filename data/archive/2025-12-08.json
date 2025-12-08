@@ -677,6 +677,54 @@
           "Response_Date": "2025-12-08T08:22:45"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-08T13:56:47.395802+00:00",
+      "call_count": 7,
+      "calls": [
+        {
+          "Master_Incident_Number": "120725-00400",
+          "Online_Description": "HOMICIDE",
+          "Address": "1200 BLOCK S HIGHLAND AVE",
+          "Response_Date": "2025-12-07T19:58:12"
+        },
+        {
+          "Master_Incident_Number": "120825-00081",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "800 BLOCK COURT ST",
+          "Response_Date": "2025-12-08T06:37:20"
+        },
+        {
+          "Master_Incident_Number": "120825-00090",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "26000 BLOCK US HIGHWAY 19 N",
+          "Response_Date": "2025-12-08T07:19:19"
+        },
+        {
+          "Master_Incident_Number": "120825-00092",
+          "Online_Description": "TRAFFIC CRASH",
+          "Address": "3300 BLOCK COURTNEY CAMPBELL CSWY",
+          "Response_Date": "2025-12-08T07:30:04"
+        },
+        {
+          "Master_Incident_Number": "120825-00112",
+          "Online_Description": "TRAFFIC CRASH",
+          "Address": "US HIGHWAY 19 N / SEVILLE BLVD",
+          "Response_Date": "2025-12-08T08:12:20"
+        },
+        {
+          "Master_Incident_Number": "120825-00120",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "CLEVELAND ST / S MAIN AVE",
+          "Response_Date": "2025-12-08T08:25:06"
+        },
+        {
+          "Master_Incident_Number": "120825-00123",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "CLEVELAND ST/S MADISON AVE",
+          "Response_Date": "2025-12-08T08:29:57"
+        }
+      ]
     }
   ]
 }
