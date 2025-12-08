@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 2094,
-  "total_resolved": 2084,
+  "total_calls_tracked": 2096,
+  "total_resolved": 2090,
   "call_types": {
     "DIRECTED PATROL": 685,
-    "TRAFFIC STOP": 309,
+    "TRAFFIC STOP": 310,
     "DRUNK DRIVER": 6,
     "DISTURBANCE": 49,
     "BATTERY": 15,
@@ -17,7 +17,7 @@
     "PROPERTY FOUND/LOST": 12,
     "THEFT": 28,
     "NEIGHBOR CALL": 11,
-    "911 HANG-UP": 79,
+    "911 HANG-UP": 80,
     "SUSPICIOUS VEHICLE": 15,
     "PANHANDLER/SOLICITOR": 4,
     "VEHICLE ILLEGALLY PARKED": 4,
@@ -826,7 +826,7 @@
     "1900 BLOCK N HERCULES AVE": 1,
     "25400 BLOCK US HIGHWAY 19 N": 1,
     "COURT ST / S PROSPECT AVE": 2,
-    "ENTERPRISE RD / US HIGHWAY 19 N": 1,
+    "ENTERPRISE RD / US HIGHWAY 19 N": 2,
     "800 BLOCK AUDUBON ST": 1,
     "-400 BLOCK BLK CLEVELAND ST": 1,
     "1900 BLOCK DOUGLAS AVE": 1,
@@ -1044,7 +1044,8 @@
     "SUNSET POINT RD / US HIGHWAY 19 N": 1,
     "GULF TO BAY BLVD / CLEVELAND ST": 1,
     "SR 580 / LANDMARK DR": 1,
-    "CLEVELAND ST / N LINCOLN AVE": 1
+    "CLEVELAND ST / N LINCOLN AVE": 1,
+    "SR 580 / SABAL SPRINGS CIR": 1
   },
   "hourly_distribution": {
     "0": 75,
@@ -1056,7 +1057,7 @@
     "6": 75,
     "7": 54,
     "8": 130,
-    "9": 144,
+    "9": 146,
     "10": 124,
     "11": 120,
     "12": 124,
@@ -1073,7 +1074,7 @@
     "23": 65
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-08T14:43:23.270402+00:00",
+  "last_updated": "2025-12-08T14:54:56.132552+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 713
+  "total_snapshots": 714
 }

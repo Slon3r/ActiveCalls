@@ -833,6 +833,48 @@
           "Response_Date": "2025-12-08T09:22:48"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-08T14:54:56.130433+00:00",
+      "call_count": 6,
+      "calls": [
+        {
+          "Master_Incident_Number": "120725-00400",
+          "Online_Description": "HOMICIDE",
+          "Address": "1200 BLOCK S HIGHLAND AVE",
+          "Response_Date": "2025-12-07T19:58:12"
+        },
+        {
+          "Master_Incident_Number": "120825-00127",
+          "Online_Description": "TRAFFIC CRASH",
+          "Address": "SUNSET POINT RD / US HIGHWAY 19 N",
+          "Response_Date": "2025-12-08T08:41:19"
+        },
+        {
+          "Master_Incident_Number": "120825-00138",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "1300 BLOCK S BELCHER RD",
+          "Response_Date": "2025-12-08T09:09:53"
+        },
+        {
+          "Master_Incident_Number": "120825-00141",
+          "Online_Description": "911 HANG-UP",
+          "Address": "ENTERPRISE RD / US HIGHWAY 19 N",
+          "Response_Date": "2025-12-08T09:14:28"
+        },
+        {
+          "Master_Incident_Number": "120825-00145",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "1600 BLOCK GULF TO BAY BLVD",
+          "Response_Date": "2025-12-08T09:21:50"
+        },
+        {
+          "Master_Incident_Number": "120825-00155",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "SR 580 / SABAL SPRINGS CIR",
+          "Response_Date": "2025-12-08T09:31:50"
+        }
+      ]
     }
   ]
 }
