@@ -941,6 +941,48 @@
           "Response_Date": "2025-12-08T09:54:38"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-08T15:37:28.659749+00:00",
+      "call_count": 6,
+      "calls": [
+        {
+          "Master_Incident_Number": "120725-00400",
+          "Online_Description": "HOMICIDE",
+          "Address": "1200 BLOCK S HIGHLAND AVE",
+          "Response_Date": "2025-12-07T19:58:12"
+        },
+        {
+          "Master_Incident_Number": "120825-00171",
+          "Online_Description": "ASSIST CITIZEN",
+          "Address": "0 BLOCK N GARDEN AVE",
+          "Response_Date": "2025-12-08T10:03:40"
+        },
+        {
+          "Master_Incident_Number": "120825-00169",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "1200 BLOCK DOUGLAS AVE",
+          "Response_Date": "2025-12-08T10:06:11"
+        },
+        {
+          "Master_Incident_Number": "120825-00172",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "SR 580 / LANDMARK DR",
+          "Response_Date": "2025-12-08T10:08:06"
+        },
+        {
+          "Master_Incident_Number": "120825-00173",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "25300 BLOCK US HIGHWAY 19 N",
+          "Response_Date": "2025-12-08T10:10:42"
+        },
+        {
+          "Master_Incident_Number": "120825-00174",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "GUNN AVE / CAMELLIA DR",
+          "Response_Date": "2025-12-08T10:14:09"
+        }
+      ]
     }
   ]
 }

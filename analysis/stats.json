@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 2103,
-  "total_resolved": 2093,
+  "total_calls_tracked": 2108,
+  "total_resolved": 2102,
   "call_types": {
-    "DIRECTED PATROL": 687,
-    "TRAFFIC STOP": 312,
+    "DIRECTED PATROL": 688,
+    "TRAFFIC STOP": 315,
     "DRUNK DRIVER": 6,
     "DISTURBANCE": 49,
     "BATTERY": 15,
@@ -24,7 +24,7 @@
     "SUSPICIOUS EVENT": 40,
     "TRAFFIC CRASH": 84,
     "DISABLED VEHICLE": 15,
-    "ASSIST CITIZEN": 55,
+    "ASSIST CITIZEN": 56,
     "ASSIST OTHER AGENCY": 37,
     "FIRE": 2,
     "FRAUD": 14,
@@ -603,7 +603,7 @@
     "700 BLOCK LAKEVIEW RD": 2,
     "1500 BLOCK N BETTY LN": 1,
     "COURTNEY CAMPBELL CSWY / BAYSHORE BLVD": 1,
-    "25300 BLOCK US HIGHWAY 19 N": 3,
+    "25300 BLOCK US HIGHWAY 19 N": 4,
     "-3100 BLOCK 3161 MASTERS DR": 1,
     "-2600 BLOCK 2698 CLUBHOUSE DR N": 1,
     "SR 580 / COUNTRYSIDE BLVD": 2,
@@ -668,7 +668,7 @@
     "800 BLOCK HOWARD ST": 1,
     "1000 BLOCK S MYRTLE AVE": 1,
     "2500 BLOCK LANDMARK DR": 1,
-    "1200 BLOCK DOUGLAS AVE": 1,
+    "1200 BLOCK DOUGLAS AVE": 2,
     "100 BLOCK SAND KEY ESTATES DR": 1,
     "900 BLOCK N GARDEN AVE": 1,
     "500 BLOCK S LINCOLN AVE": 1,
@@ -1043,13 +1043,15 @@
     "CLEVELAND ST / S MAIN AVE": 1,
     "SUNSET POINT RD / US HIGHWAY 19 N": 1,
     "GULF TO BAY BLVD / CLEVELAND ST": 1,
-    "SR 580 / LANDMARK DR": 1,
+    "SR 580 / LANDMARK DR": 2,
     "CLEVELAND ST / N LINCOLN AVE": 1,
     "SR 580 / SABAL SPRINGS CIR": 1,
     "-1300 BLOCK 1338 PALMETTO ST": 1,
     "SKY HARBOR DR": 1,
     "2000 BLOCK DOUGLAS AVE": 1,
-    "GULF TO BAY BLVD / DAVID AVE": 1
+    "GULF TO BAY BLVD / DAVID AVE": 1,
+    "0 BLOCK N GARDEN AVE": 1,
+    "GUNN AVE / CAMELLIA DR": 1
   },
   "hourly_distribution": {
     "0": 75,
@@ -1062,7 +1064,7 @@
     "7": 54,
     "8": 130,
     "9": 153,
-    "10": 124,
+    "10": 129,
     "11": 120,
     "12": 124,
     "13": 121,
@@ -1078,7 +1080,7 @@
     "23": 65
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-08T15:15:43.139570+00:00",
+  "last_updated": "2025-12-08T15:37:28.661969+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 715
+  "total_snapshots": 716
 }
