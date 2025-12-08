@@ -7,24 +7,6 @@
       "Response_Date": "2025-12-07T19:58:12"
     },
     {
-      "Master_Incident_Number": "120825-00176",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "FLUSHING AVE / HARN BLVD",
-      "Response_Date": "2025-12-08T10:17:01"
-    },
-    {
-      "Master_Incident_Number": "120825-00177",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "200 BLOCK LARBOARD WAY",
-      "Response_Date": "2025-12-08T10:17:08"
-    },
-    {
-      "Master_Incident_Number": "120825-00178",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "1300 BLOCK S MARTIN LUTHER KING JR AVE",
-      "Response_Date": "2025-12-08T10:17:44"
-    },
-    {
       "Master_Incident_Number": "120825-00179",
       "Online_Description": "TRAFFIC STOP",
       "Address": "FERN AVE / DREW ST",
@@ -37,12 +19,18 @@
       "Response_Date": "2025-12-08T10:20:29"
     },
     {
-      "Master_Incident_Number": "120825-00182",
+      "Master_Incident_Number": "120825-00185",
       "Online_Description": "DIRECTED PATROL",
-      "Address": "20500 BLOCK US HIGHWAY 19 N",
-      "Response_Date": "2025-12-08T10:21:19"
+      "Address": "2700 BLOCK WESTCHESTER DR N",
+      "Response_Date": "2025-12-08T10:28:36"
+    },
+    {
+      "Master_Incident_Number": "120825-00188",
+      "Online_Description": "TRAFFIC STOP",
+      "Address": "S MISSOURI AVE / LAKEVIEW RD",
+      "Response_Date": "2025-12-08T10:35:06"
     }
   ],
-  "timestamp": "2025-12-08T15:48:05.497860+00:00",
-  "count": 7
+  "timestamp": "2025-12-08T15:56:49.793635+00:00",
+  "count": 5
 }
