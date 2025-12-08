@@ -9917,3 +9917,12 @@ TOTAL ACTIVE CALLS: 2
 
 --- NEW CALLS (1) ---
 [NEW] 120825-00005 | BATTERY | 20900 BLOCK US HIGHWAY 19 N | Response: 12:09 AM
+
+================================================================================
+TIMESTAMP: 2025-12-08T05:53:53.927040+00:00
+TOTAL ACTIVE CALLS: 4
+================================================================================
+
+--- NEW CALLS (2) ---
+[NEW] 120825-00007 | TRESPASS | 1100 BLOCK COURT ST | Response: 12:22 AM
+[NEW] 120825-00008 | ASSIST OTHER AGENCY | 2900 BLOCK CR 193 | Response: 12:24 AM

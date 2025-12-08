@@ -1,5 +1,5 @@
 {
-  "total_calls_tracked": 2043,
+  "total_calls_tracked": 2045,
   "total_resolved": 2041,
   "call_types": {
     "DIRECTED PATROL": 665,
@@ -13,7 +13,7 @@
     "WELFARE CHECK": 46,
     "PARK WALK AND TALK": 185,
     "SUSPICIOUS PERSON": 82,
-    "TRESPASS": 47,
+    "TRESPASS": 48,
     "PROPERTY FOUND/LOST": 12,
     "THEFT": 27,
     "NEIGHBOR CALL": 11,
@@ -25,7 +25,7 @@
     "TRAFFIC CRASH": 80,
     "DISABLED VEHICLE": 14,
     "ASSIST CITIZEN": 53,
-    "ASSIST OTHER AGENCY": 34,
+    "ASSIST OTHER AGENCY": 35,
     "FIRE": 2,
     "FRAUD": 14,
     "RECKLESS VEHICLE": 7,
@@ -147,7 +147,7 @@
     "1200 BLOCK S MISSOURI AVE": 12,
     "2000 BLOCK N HIGHLAND AVE": 9,
     "N DUNCAN AVE / DREW ST": 1,
-    "1100 BLOCK COURT ST": 3,
+    "1100 BLOCK COURT ST": 4,
     "-1300 BLOCK BLK ADMIRAL WOODSON LN": 1,
     "19300 BLOCK US HIGHWAY 19 N": 2,
     "600 BLOCK PIERCE ST": 17,
@@ -1029,10 +1029,11 @@
     "-1300 BLOCK 1398 N MARTIN LUTHER KING JR AVE": 1,
     "-2600 BLOCK 2699 GLENEAGLES DR": 1,
     "900 BLOCK ENGMAN ST": 1,
-    "1100 BLOCK MCMULLEN BOOTH RD": 1
+    "1100 BLOCK MCMULLEN BOOTH RD": 1,
+    "2900 BLOCK CR 193": 1
   },
   "hourly_distribution": {
-    "0": 70,
+    "0": 72,
     "1": 66,
     "2": 43,
     "3": 34,
@@ -1058,7 +1059,7 @@
     "23": 65
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-08T05:43:30.011745+00:00",
+  "last_updated": "2025-12-08T05:53:53.928390+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 688
+  "total_snapshots": 689
 }
