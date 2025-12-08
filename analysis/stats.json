@@ -1,6 +1,6 @@
 {
-  "total_calls_tracked": 2049,
-  "total_resolved": 2047,
+  "total_calls_tracked": 2050,
+  "total_resolved": 2048,
   "call_types": {
     "DIRECTED PATROL": 667,
     "TRAFFIC STOP": 303,
@@ -21,7 +21,7 @@
     "SUSPICIOUS VEHICLE": 15,
     "PANHANDLER/SOLICITOR": 4,
     "VEHICLE ILLEGALLY PARKED": 4,
-    "SUSPICIOUS EVENT": 39,
+    "SUSPICIOUS EVENT": 40,
     "TRAFFIC CRASH": 80,
     "DISABLED VEHICLE": 14,
     "ASSIST CITIZEN": 54,
@@ -308,7 +308,7 @@
     "GRANGER DR / N BELCHER RD": 2,
     "NE COACHMAN RD / MARILYN ST": 1,
     "26500 BLOCK US HIGHWAY 19 N": 3,
-    "600 BLOCK DREW ST": 3,
+    "600 BLOCK DREW ST": 4,
     "200 BLOCK DOLPHIN PT": 1,
     "DEVON DR  / CORONADO DR": 2,
     "600 BLOCK OLD COACHMAN RD": 2,
@@ -1036,7 +1036,7 @@
   },
   "hourly_distribution": {
     "0": 75,
-    "1": 67,
+    "1": 68,
     "2": 43,
     "3": 34,
     "4": 19,
@@ -1061,7 +1061,7 @@
     "23": 65
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-08T06:53:22.389775+00:00",
+  "last_updated": "2025-12-08T07:15:41.525096+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 691
+  "total_snapshots": 692
 }

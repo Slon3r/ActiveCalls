@@ -9954,3 +9954,14 @@ TOTAL ACTIVE CALLS: 2
 [RESOLVED] 120725-00434 | DIRECTED PATROL | 200 BLOCK S GLENWOOD AVE | Response: 12:58 AM
 [RESOLVED] 120825-00014 | ASSIST CITIZEN | 0 BLOCK N LADY MARY DR | Response: 12:53 AM
 [RESOLVED] 120825-00016 | DIRECTED PATROL | -3300 BLOCK 3348 HYDE PARK DR | Response: 12:57 AM
+
+================================================================================
+TIMESTAMP: 2025-12-08T07:15:41.523779+00:00
+TOTAL ACTIVE CALLS: 2
+================================================================================
+
+--- NEW CALLS (1) ---
+[NEW] 120825-00029 | SUSPICIOUS EVENT | 600 BLOCK DREW ST | Response: 01:52 AM
+
+--- RESOLVED CALLS (1) ---
+[RESOLVED] 120825-00025 | ANIMAL CASE | RIGSBY LN / SR 580 | Response: 01:21 AM
