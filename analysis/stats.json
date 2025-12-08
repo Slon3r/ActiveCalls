@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 2174,
-  "total_resolved": 2164,
+  "total_calls_tracked": 2177,
+  "total_resolved": 2167,
   "call_types": {
-    "DIRECTED PATROL": 711,
+    "DIRECTED PATROL": 713,
     "TRAFFIC STOP": 321,
     "DRUNK DRIVER": 6,
     "DISTURBANCE": 49,
@@ -16,7 +16,7 @@
     "TRESPASS": 51,
     "PROPERTY FOUND/LOST": 13,
     "THEFT": 28,
-    "NEIGHBOR CALL": 11,
+    "NEIGHBOR CALL": 12,
     "911 HANG-UP": 86,
     "SUSPICIOUS VEHICLE": 15,
     "PANHANDLER/SOLICITOR": 4,
@@ -314,7 +314,7 @@
     "DEVON DR  / CORONADO DR": 2,
     "600 BLOCK OLD COACHMAN RD": 2,
     "DREW ST / PINEWOOD AVE": 1,
-    "2800 BLOCK GULF TO BAY BLVD": 3,
+    "2800 BLOCK GULF TO BAY BLVD": 4,
     "19100 BLOCK US HIGHWAY 19 N": 2,
     "1200 BLOCK S HIGHLAND AVE": 11,
     "1200 BLOCK TURNER ST": 2,
@@ -847,7 +847,7 @@
     "MCMULLEN BOOTH RD / UNION ST": 1,
     "2400 BLOCK MOORE HAVEN DR E": 1,
     "N WASHINGTON AVE / FAIRMONT ST": 1,
-    "2600 BLOCK DREW ST": 1,
+    "2600 BLOCK DREW ST": 2,
     "700 BLOCK N MYRTLE AVE": 1,
     "-1000 BLOCK 1198 MANDALAY POINT RD": 1,
     "N BETTY LN / OTIS C GREEN DR": 1,
@@ -1067,7 +1067,8 @@
     "1100 BLOCK PINELLAS ST": 1,
     "-500 BLOCK 548 SKY HARBOR DR": 1,
     "KINGS HWY / HIBISCUS ST": 1,
-    "-1400 BLOCK 1479 SUNSET POINT RD": 1
+    "-1400 BLOCK 1479 SUNSET POINT RD": 1,
+    "CAUSEWAY BLVD/ ISLAND WAY": 1
   },
   "hourly_distribution": {
     "0": 75,
@@ -1085,7 +1086,7 @@
     "12": 136,
     "13": 133,
     "14": 156,
-    "15": 147,
+    "15": 150,
     "16": 127,
     "17": 115,
     "18": 112,
@@ -1096,7 +1097,7 @@
     "23": 65
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-08T20:56:31.126899+00:00",
+  "last_updated": "2025-12-08T21:15:07.382038+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 734
+  "total_snapshots": 735
 }
