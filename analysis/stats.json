@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 2051,
+  "total_calls_tracked": 2052,
   "total_resolved": 2050,
   "call_types": {
-    "DIRECTED PATROL": 667,
+    "DIRECTED PATROL": 668,
     "TRAFFIC STOP": 303,
     "DRUNK DRIVER": 6,
     "DISTURBANCE": 49,
@@ -307,7 +307,7 @@
     "N MYRTLE AVE / ELDRIDGE ST": 2,
     "GRANGER DR / N BELCHER RD": 2,
     "NE COACHMAN RD / MARILYN ST": 1,
-    "26500 BLOCK US HIGHWAY 19 N": 3,
+    "26500 BLOCK US HIGHWAY 19 N": 4,
     "600 BLOCK DREW ST": 4,
     "200 BLOCK DOLPHIN PT": 1,
     "DEVON DR  / CORONADO DR": 2,
@@ -1038,7 +1038,7 @@
   "hourly_distribution": {
     "0": 75,
     "1": 68,
-    "2": 44,
+    "2": 45,
     "3": 34,
     "4": 19,
     "5": 47,
@@ -1062,7 +1062,7 @@
     "23": 65
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-08T07:56:21.785098+00:00",
+  "last_updated": "2025-12-08T08:27:06.504099+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 695
+  "total_snapshots": 696
 }
