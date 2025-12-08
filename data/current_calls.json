@@ -7,24 +7,42 @@
       "Response_Date": "2025-12-07T19:58:12"
     },
     {
-      "Master_Incident_Number": "120825-00072",
-      "Online_Description": "ALARM",
-      "Address": "800 BLOCK COURT ST",
-      "Response_Date": "2025-12-08T06:10:08"
-    },
-    {
       "Master_Incident_Number": "120825-00076",
       "Online_Description": "TRAFFIC CRASH",
-      "Address": "GULF TO BAY BLVD / SKYVIEW AVE",
+      "Address": "1500 BLOCK GULF TO BAY BLVD",
       "Response_Date": "2025-12-08T06:24:00"
     },
     {
       "Master_Incident_Number": "120825-00077",
       "Online_Description": "DIRECTED PATROL",
-      "Address": "200 BLOCK DREW ST",
+      "Address": "2100 BLOCK DREW ST",
       "Response_Date": "2025-12-08T06:27:36"
+    },
+    {
+      "Master_Incident_Number": "120825-00081",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "800 BLOCK COURT ST",
+      "Response_Date": "2025-12-08T06:37:20"
+    },
+    {
+      "Master_Incident_Number": "120825-00082",
+      "Online_Description": "TRESPASS",
+      "Address": "600 BLOCK CLEVELAND ST",
+      "Response_Date": "2025-12-08T06:44:53"
+    },
+    {
+      "Master_Incident_Number": "120825-00083",
+      "Online_Description": "NOISE COMPLAINT",
+      "Address": "1100 BLOCK LA SALLE ST",
+      "Response_Date": "2025-12-08T06:51:25"
+    },
+    {
+      "Master_Incident_Number": "120825-00084",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "1800 BLOCK N HIGHLAND AVE",
+      "Response_Date": "2025-12-08T06:54:36"
     }
   ],
-  "timestamp": "2025-12-08T11:52:42.032937+00:00",
-  "count": 4
+  "timestamp": "2025-12-08T12:17:09.760319+00:00",
+  "count": 7
 }
