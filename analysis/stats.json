@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 2192,
-  "total_resolved": 2179,
+  "total_calls_tracked": 2199,
+  "total_resolved": 2186,
   "call_types": {
-    "DIRECTED PATROL": 717,
+    "DIRECTED PATROL": 718,
     "TRAFFIC STOP": 322,
     "DRUNK DRIVER": 6,
     "DISTURBANCE": 49,
@@ -10,10 +10,10 @@
     "CRIMINAL MISCHIEF": 12,
     "ALARM": 31,
     "KEEP THE PEACE": 27,
-    "WELFARE CHECK": 48,
+    "WELFARE CHECK": 49,
     "PARK WALK AND TALK": 191,
     "SUSPICIOUS PERSON": 90,
-    "TRESPASS": 51,
+    "TRESPASS": 53,
     "PROPERTY FOUND/LOST": 13,
     "THEFT": 28,
     "NEIGHBOR CALL": 12,
@@ -21,10 +21,10 @@
     "SUSPICIOUS VEHICLE": 15,
     "PANHANDLER/SOLICITOR": 4,
     "VEHICLE ILLEGALLY PARKED": 5,
-    "SUSPICIOUS EVENT": 43,
+    "SUSPICIOUS EVENT": 44,
     "TRAFFIC CRASH": 89,
     "DISABLED VEHICLE": 16,
-    "ASSIST CITIZEN": 58,
+    "ASSIST CITIZEN": 59,
     "ASSIST OTHER AGENCY": 39,
     "FIRE": 2,
     "FRAUD": 14,
@@ -59,7 +59,8 @@
     "WIRES DOWN": 1,
     "PROTEST/DEMONSTRATION": 2,
     "SHOOTING": 1,
-    "HOMICIDE": 1
+    "HOMICIDE": 1,
+    "WEAPONS VIOLATION": 1
   },
   "addresses": {
     "MEMORIAL CSWY / ISLAND WAY": 19,
@@ -177,7 +178,7 @@
     "300 BLOCK CLEVELAND ST": 16,
     "GULF TO BAY BLVD / S LAKE DR": 1,
     "-400 BLOCK BLK BLANCHE B LITTLEJOHN TRL": 1,
-    "2600 BLOCK GULF TO BAY BLVD": 11,
+    "2600 BLOCK GULF TO BAY BLVD": 12,
     "400 BLOCK MANDALAY AVE": 9,
     "-3200 BLOCK 3399 COURTNEY CAMPBELL CSWY": 2,
     "1200 BLOCK GROVE ST": 1,
@@ -238,7 +239,7 @@
     "1100 BLOCK BECKETT ST": 15,
     "PAPAYA ST / MANDALAY AVE": 1,
     "CLEVELAND ST / N MISSOURI AVE": 3,
-    "600 BLOCK COURT ST": 4,
+    "600 BLOCK COURT ST": 5,
     "GULF TO BAY BLVD / S NIMBUS AVE": 1,
     "-300 BLOCK 437 MANDALAY AVE": 1,
     "600 BLOCK LEMBO CIR": 1,
@@ -1071,7 +1072,12 @@
     "CAUSEWAY BLVD/ ISLAND WAY": 1,
     "DRUID RD / S MISSOURI AVE": 1,
     "SUN DOWN DR / COLONY REED LN": 1,
-    "COURTNEY CAMPBELL CSWY": 1
+    "COURTNEY CAMPBELL CSWY": 1,
+    "19800 BLOCK US HIGHWAY 19 N": 1,
+    "2500 BLOCK SANDS DR": 1,
+    "500 BLOCK N LINCOLN AVE": 1,
+    "2600 BLOCK COUNTRYSIDE BLVD": 1,
+    "KINGS HWY / OTTEN ST": 1
   },
   "hourly_distribution": {
     "0": 75,
@@ -1090,7 +1096,7 @@
     "13": 133,
     "14": 156,
     "15": 152,
-    "16": 140,
+    "16": 147,
     "17": 115,
     "18": 112,
     "19": 33,
@@ -1100,7 +1106,7 @@
     "23": 65
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-08T21:57:08.247345+00:00",
+  "last_updated": "2025-12-08T22:18:32.602131+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 739
+  "total_snapshots": 740
 }
