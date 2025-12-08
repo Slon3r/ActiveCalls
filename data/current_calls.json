@@ -25,12 +25,6 @@
       "Response_Date": "2025-12-08T15:18:04"
     },
     {
-      "Master_Incident_Number": "120825-00309",
-      "Online_Description": "PROPERTY FOUND/LOST",
-      "Address": "200 BLOCK DREW ST",
-      "Response_Date": "2025-12-08T15:22:39"
-    },
-    {
       "Master_Incident_Number": "120825-00315",
       "Online_Description": "DIRECTED PATROL",
       "Address": "1300 BLOCK S BELCHER RD",
@@ -43,15 +37,9 @@
       "Response_Date": "2025-12-08T15:31:23"
     },
     {
-      "Master_Incident_Number": "120825-00321",
-      "Online_Description": "NEIGHBOR CALL",
-      "Address": "2600 BLOCK DREW ST",
-      "Response_Date": "2025-12-08T15:46:01"
-    },
-    {
       "Master_Incident_Number": "120825-00324",
       "Online_Description": "DIRECTED PATROL",
-      "Address": "CAUSEWAY BLVD/ ISLAND WAY",
+      "Address": "MEMORIAL CSWY / ISLAND WAY",
       "Response_Date": "2025-12-08T15:51:53"
     },
     {
@@ -59,8 +47,26 @@
       "Online_Description": "DIRECTED PATROL",
       "Address": "2800 BLOCK GULF TO BAY BLVD",
       "Response_Date": "2025-12-08T15:52:06"
+    },
+    {
+      "Master_Incident_Number": "120825-00326",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "2600 BLOCK SABAL SPRINGS DR",
+      "Response_Date": "2025-12-08T15:54:06"
+    },
+    {
+      "Master_Incident_Number": "120825-00332",
+      "Online_Description": "SUSPICIOUS EVENT",
+      "Address": "DRUID RD / S MISSOURI AVE",
+      "Response_Date": "2025-12-08T16:00:38"
+    },
+    {
+      "Master_Incident_Number": "120825-00333",
+      "Online_Description": "NOISE COMPLAINT",
+      "Address": "1300 BLOCK PARKWOOD ST",
+      "Response_Date": "2025-12-08T16:03:23"
     }
   ],
-  "timestamp": "2025-12-08T21:15:07.378613+00:00",
-  "count": 10
+  "timestamp": "2025-12-08T21:29:28.048088+00:00",
+  "count": 11
 }

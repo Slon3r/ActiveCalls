@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 2177,
-  "total_resolved": 2167,
+  "total_calls_tracked": 2180,
+  "total_resolved": 2169,
   "call_types": {
-    "DIRECTED PATROL": 713,
+    "DIRECTED PATROL": 714,
     "TRAFFIC STOP": 321,
     "DRUNK DRIVER": 6,
     "DISTURBANCE": 49,
@@ -21,7 +21,7 @@
     "SUSPICIOUS VEHICLE": 15,
     "PANHANDLER/SOLICITOR": 4,
     "VEHICLE ILLEGALLY PARKED": 4,
-    "SUSPICIOUS EVENT": 42,
+    "SUSPICIOUS EVENT": 43,
     "TRAFFIC CRASH": 88,
     "DISABLED VEHICLE": 16,
     "ASSIST CITIZEN": 58,
@@ -32,7 +32,7 @@
     "JUVENILE CASE": 8,
     "HAZARD": 5,
     "UNKNOWN PROBLEM": 14,
-    "NOISE COMPLAINT": 8,
+    "NOISE COMPLAINT": 9,
     "CIVIL MATTER": 12,
     "DOMESTIC": 17,
     "ANIMAL CASE": 11,
@@ -505,7 +505,7 @@
     "1500 BLOCK SADLON AVE": 1,
     "1300 BLOCK BOYLAN AVE": 1,
     "1800 BLOCK ASBURY DR": 1,
-    "1300 BLOCK PARKWOOD ST": 1,
+    "1300 BLOCK PARKWOOD ST": 2,
     "S OSCEOLA AVE / COURT ST": 1,
     "N BELCHER RD / SUNSET POINT RD": 1,
     "-2800 BLOCK 2898 EAGLE ESTATES CIR N": 2,
@@ -919,7 +919,7 @@
     "2000 BLOCK PALMETTO ST": 1,
     "300 BLOCK SEMINOLE ST": 1,
     "2500 BLOCK ALEXANDER PL": 1,
-    "2600 BLOCK SABAL SPRINGS DR": 4,
+    "2600 BLOCK SABAL SPRINGS DR": 5,
     "1900 BLOCK STARDUST DR": 1,
     "1800 BLOCK PINE ST": 1,
     "1200 BLOCK STATE ST": 1,
@@ -1068,7 +1068,8 @@
     "-500 BLOCK 548 SKY HARBOR DR": 1,
     "KINGS HWY / HIBISCUS ST": 1,
     "-1400 BLOCK 1479 SUNSET POINT RD": 1,
-    "CAUSEWAY BLVD/ ISLAND WAY": 1
+    "CAUSEWAY BLVD/ ISLAND WAY": 1,
+    "DRUID RD / S MISSOURI AVE": 1
   },
   "hourly_distribution": {
     "0": 75,
@@ -1086,8 +1087,8 @@
     "12": 136,
     "13": 133,
     "14": 156,
-    "15": 150,
-    "16": 127,
+    "15": 151,
+    "16": 129,
     "17": 115,
     "18": 112,
     "19": 33,
@@ -1097,7 +1098,7 @@
     "23": 65
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-08T21:15:07.382038+00:00",
+  "last_updated": "2025-12-08T21:29:28.051613+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 735
+  "total_snapshots": 736
 }
