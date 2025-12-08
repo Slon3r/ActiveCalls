@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 2147,
-  "total_resolved": 2139,
+  "total_calls_tracked": 2150,
+  "total_resolved": 2143,
   "call_types": {
-    "DIRECTED PATROL": 702,
+    "DIRECTED PATROL": 703,
     "TRAFFIC STOP": 320,
     "DRUNK DRIVER": 6,
     "DISTURBANCE": 49,
@@ -10,7 +10,7 @@
     "CRIMINAL MISCHIEF": 12,
     "ALARM": 31,
     "KEEP THE PEACE": 25,
-    "WELFARE CHECK": 46,
+    "WELFARE CHECK": 47,
     "PARK WALK AND TALK": 189,
     "SUSPICIOUS PERSON": 89,
     "TRESPASS": 50,
@@ -21,7 +21,7 @@
     "SUSPICIOUS VEHICLE": 15,
     "PANHANDLER/SOLICITOR": 4,
     "VEHICLE ILLEGALLY PARKED": 4,
-    "SUSPICIOUS EVENT": 41,
+    "SUSPICIOUS EVENT": 42,
     "TRAFFIC CRASH": 86,
     "DISABLED VEHICLE": 16,
     "ASSIST CITIZEN": 57,
@@ -728,7 +728,7 @@
     "SR 580 / CHARLES AVE": 1,
     "S FORT HARRISON AVE / LAKEVIEW RD": 1,
     "DREW ST": 1,
-    "400 BLOCK ISLAND WAY": 2,
+    "400 BLOCK ISLAND WAY": 3,
     "300 BLOCK PALM IS SE": 1,
     "1500 BLOCK ROSEWOOD ST": 1,
     "1800 BLOCK BETTY LN": 1,
@@ -1059,7 +1059,9 @@
     "1500 BLOCK BARBARA AVE": 1,
     "1900 BLOCK RAINBOW DR": 1,
     "2800 BLOCK COUNTRYSIDE BLVD": 1,
-    "100 BLOCK N HERCULES AVE": 1
+    "100 BLOCK N HERCULES AVE": 1,
+    "2600 BLOCK SABAL SPRINGS CIR": 1,
+    "300 BLOCK S LAKE DR": 1
   },
   "hourly_distribution": {
     "0": 75,
@@ -1074,8 +1076,8 @@
     "9": 153,
     "10": 143,
     "11": 127,
-    "12": 135,
-    "13": 128,
+    "12": 136,
+    "13": 130,
     "14": 143,
     "15": 139,
     "16": 127,
@@ -1088,7 +1090,7 @@
     "23": 65
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-08T18:50:05.035000+00:00",
+  "last_updated": "2025-12-08T19:02:27.252925+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 725
+  "total_snapshots": 726
 }

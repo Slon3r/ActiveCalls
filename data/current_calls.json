@@ -7,22 +7,16 @@
       "Response_Date": "2025-12-07T19:58:12"
     },
     {
-      "Master_Incident_Number": "120825-00252",
-      "Online_Description": "TRAFFIC CRASH",
-      "Address": "SUNSET POINT RD / US HIGHWAY 19 N",
-      "Response_Date": "2025-12-08T12:48:21"
-    },
-    {
       "Master_Incident_Number": "120825-00253",
       "Online_Description": "DISABLED VEHICLE",
       "Address": "US HIGHWAY 19 N / NE COACHMAN RD",
       "Response_Date": "2025-12-08T12:49:57"
     },
     {
-      "Master_Incident_Number": "120825-00261",
-      "Online_Description": "KEEP THE PEACE",
-      "Address": "2800 BLOCK COUNTRYSIDE BLVD",
-      "Response_Date": "2025-12-08T13:05:00"
+      "Master_Incident_Number": "120825-00260",
+      "Online_Description": "WELFARE CHECK",
+      "Address": "2600 BLOCK SABAL SPRINGS CIR",
+      "Response_Date": "2025-12-08T12:59:02"
     },
     {
       "Master_Incident_Number": "120825-00266",
@@ -37,18 +31,18 @@
       "Response_Date": "2025-12-08T13:10:44"
     },
     {
-      "Master_Incident_Number": "120825-00268",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "1900 BLOCK N BELCHER RD",
-      "Response_Date": "2025-12-08T13:23:43"
+      "Master_Incident_Number": "120825-00273",
+      "Online_Description": "SUSPICIOUS EVENT",
+      "Address": "300 BLOCK S LAKE DR",
+      "Response_Date": "2025-12-08T13:31:52"
     },
     {
-      "Master_Incident_Number": "120825-00269",
-      "Online_Description": "ANIMAL CASE",
-      "Address": "100 BLOCK N HERCULES AVE",
-      "Response_Date": "2025-12-08T13:27:29"
+      "Master_Incident_Number": "120825-00271",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "400 BLOCK ISLAND WAY",
+      "Response_Date": "2025-12-08T13:31:59"
     }
   ],
-  "timestamp": "2025-12-08T18:50:05.032314+00:00",
-  "count": 8
+  "timestamp": "2025-12-08T19:02:27.250259+00:00",
+  "count": 7
 }
