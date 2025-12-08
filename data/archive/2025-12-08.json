@@ -1655,6 +1655,78 @@
           "Response_Date": "2025-12-08T14:23:36"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-08T19:52:43.076753+00:00",
+      "call_count": 11,
+      "calls": [
+        {
+          "Master_Incident_Number": "120725-00400",
+          "Online_Description": "HOMICIDE",
+          "Address": "1200 BLOCK S HIGHLAND AVE",
+          "Response_Date": "2025-12-07T19:58:12"
+        },
+        {
+          "Master_Incident_Number": "120825-00273",
+          "Online_Description": "SUSPICIOUS EVENT",
+          "Address": "300 BLOCK S LAKE DR",
+          "Response_Date": "2025-12-08T13:31:52"
+        },
+        {
+          "Master_Incident_Number": "120825-00284",
+          "Online_Description": "ASSAULT",
+          "Address": "1100 BLOCK PINELLAS ST",
+          "Response_Date": "2025-12-08T14:06:20"
+        },
+        {
+          "Master_Incident_Number": "120825-00283",
+          "Online_Description": "TRAFFIC CRASH",
+          "Address": "US HIGHWAY 19 N / DREW ST",
+          "Response_Date": "2025-12-08T14:06:45"
+        },
+        {
+          "Master_Incident_Number": "120825-00285",
+          "Online_Description": "PARK WALK AND TALK",
+          "Address": "0 BLOCK 99 THIRD ST",
+          "Response_Date": "2025-12-08T14:13:38"
+        },
+        {
+          "Master_Incident_Number": "120825-00286",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "2600 BLOCK SABAL SPRINGS DR",
+          "Response_Date": "2025-12-08T14:14:16"
+        },
+        {
+          "Master_Incident_Number": "120825-00287",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "2900 BLOCK DREW ST",
+          "Response_Date": "2025-12-08T14:14:29"
+        },
+        {
+          "Master_Incident_Number": "120825-00289",
+          "Online_Description": "WELFARE CHECK",
+          "Address": "1600 BLOCK FULTON AVE",
+          "Response_Date": "2025-12-08T14:15:26"
+        },
+        {
+          "Master_Incident_Number": "120825-00290",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "1200 BLOCK CLEVELAND ST",
+          "Response_Date": "2025-12-08T14:22:19"
+        },
+        {
+          "Master_Incident_Number": "120825-00295",
+          "Online_Description": "ASSIST CITIZEN",
+          "Address": "-500 BLOCK 548 SKY HARBOR DR",
+          "Response_Date": "2025-12-08T14:29:52"
+        },
+        {
+          "Master_Incident_Number": "120825-00296",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "KINGS HWY / HIBISCUS ST",
+          "Response_Date": "2025-12-08T14:30:38"
+        }
+      ]
     }
   ]
 }
