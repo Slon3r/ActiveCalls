@@ -13,40 +13,10 @@
       "Response_Date": "2025-12-09T13:04:28"
     },
     {
-      "Master_Incident_Number": "120925-00279",
-      "Online_Description": "TRAFFIC CRASH",
-      "Address": "US HIGHWAY 19 N / GULF TO BAY BLVD",
-      "Response_Date": "2025-12-09T13:24:24"
-    },
-    {
       "Master_Incident_Number": "120925-00283",
       "Online_Description": "DIRECTED PATROL",
       "Address": "CLEVELAND ST / N GARDEN AVE",
       "Response_Date": "2025-12-09T13:34:57"
-    },
-    {
-      "Master_Incident_Number": "120925-00293",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "S MADISON AVE / PIERCE ST",
-      "Response_Date": "2025-12-09T13:57:48"
-    },
-    {
-      "Master_Incident_Number": "120925-00297",
-      "Online_Description": "PARK WALK AND TALK",
-      "Address": "200 BLOCK DORY PSGE",
-      "Response_Date": "2025-12-09T14:07:40"
-    },
-    {
-      "Master_Incident_Number": "120925-00298",
-      "Online_Description": "PROPERTY FOUND/LOST",
-      "Address": "1400 BLOCK BARBARA AVE",
-      "Response_Date": "2025-12-09T14:07:50"
-    },
-    {
-      "Master_Incident_Number": "120925-00304",
-      "Online_Description": "PERSON DOWN",
-      "Address": "MEMORIAL CSWY / ISLAND WAY",
-      "Response_Date": "2025-12-09T14:17:11"
     },
     {
       "Master_Incident_Number": "120925-00305",
@@ -61,18 +31,24 @@
       "Response_Date": "2025-12-09T14:19:02"
     },
     {
-      "Master_Incident_Number": "120925-00307",
-      "Online_Description": "TRAFFIC STOP",
-      "Address": "COUNTRYSIDE BLVD / WINDING WOOD DR",
-      "Response_Date": "2025-12-09T14:21:05"
-    },
-    {
       "Master_Incident_Number": "120925-00308",
       "Online_Description": "DIRECTED PATROL",
-      "Address": "500 BLOCK BLK OF S FT HARRISON",
+      "Address": "-500 BLOCK BLK S FORT HARRISON AVE",
       "Response_Date": "2025-12-09T14:23:14"
+    },
+    {
+      "Master_Incident_Number": "120925-00309",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "2500 BLOCK GULF TO BAY BLVD",
+      "Response_Date": "2025-12-09T14:33:11"
+    },
+    {
+      "Master_Incident_Number": "120925-00310",
+      "Online_Description": "TRAFFIC STOP",
+      "Address": "DOUGLAS AVE / RUSSELL ST",
+      "Response_Date": "2025-12-09T14:33:33"
     }
   ],
-  "timestamp": "2025-12-09T19:45:57.174381+00:00",
-  "count": 12
+  "timestamp": "2025-12-09T19:54:27.689176+00:00",
+  "count": 8
 }

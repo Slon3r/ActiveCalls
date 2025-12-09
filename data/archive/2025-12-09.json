@@ -2014,6 +2014,60 @@
           "Response_Date": "2025-12-09T14:23:14"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-09T19:54:27.689176+00:00",
+      "call_count": 8,
+      "calls": [
+        {
+          "Master_Incident_Number": "120925-00253",
+          "Online_Description": "TRAFFIC CRASH",
+          "Address": "DREW ST / N JEFFERSON AVE",
+          "Response_Date": "2025-12-09T12:25:32"
+        },
+        {
+          "Master_Incident_Number": "120925-00275",
+          "Online_Description": "WELFARE CHECK",
+          "Address": "500 BLOCK BROOKSIDE DR",
+          "Response_Date": "2025-12-09T13:04:28"
+        },
+        {
+          "Master_Incident_Number": "120925-00283",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "CLEVELAND ST / N GARDEN AVE",
+          "Response_Date": "2025-12-09T13:34:57"
+        },
+        {
+          "Master_Incident_Number": "120925-00305",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "200 BLOCK S GLENWOOD AVE",
+          "Response_Date": "2025-12-09T14:18:29"
+        },
+        {
+          "Master_Incident_Number": "120925-00306",
+          "Online_Description": "PARK WALK AND TALK",
+          "Address": "1600 BLOCK GULF TO BAY BLVD",
+          "Response_Date": "2025-12-09T14:19:02"
+        },
+        {
+          "Master_Incident_Number": "120925-00308",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "-500 BLOCK BLK S FORT HARRISON AVE",
+          "Response_Date": "2025-12-09T14:23:14"
+        },
+        {
+          "Master_Incident_Number": "120925-00309",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "2500 BLOCK GULF TO BAY BLVD",
+          "Response_Date": "2025-12-09T14:33:11"
+        },
+        {
+          "Master_Incident_Number": "120925-00310",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "DOUGLAS AVE / RUSSELL ST",
+          "Response_Date": "2025-12-09T14:33:33"
+        }
+      ]
     }
   ]
 }
