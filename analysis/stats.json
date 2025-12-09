@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 2349,
-  "total_resolved": 2340,
+  "total_calls_tracked": 2351,
+  "total_resolved": 2345,
   "call_types": {
     "DIRECTED PATROL": 774,
-    "TRAFFIC STOP": 345,
+    "TRAFFIC STOP": 346,
     "DRUNK DRIVER": 7,
     "DISTURBANCE": 54,
     "BATTERY": 16,
@@ -32,7 +32,7 @@
     "JUVENILE CASE": 8,
     "HAZARD": 7,
     "UNKNOWN PROBLEM": 15,
-    "NOISE COMPLAINT": 9,
+    "NOISE COMPLAINT": 10,
     "CIVIL MATTER": 12,
     "DOMESTIC": 18,
     "ANIMAL CASE": 12,
@@ -1115,7 +1115,9 @@
     "1300 BLOCK PINEBROOK DR": 1,
     "PINELLAS TRAIL / BELLEAIR RD": 1,
     "RAINBOW DR / S CIRUS AVE": 1,
-    "DREW ST / N MAYWOOD AVE": 1
+    "DREW ST / N MAYWOOD AVE": 1,
+    "800 BLOCK BAYWAY BLVD": 1,
+    "DREW ST / N MYRTLE AVE": 1
   },
   "hourly_distribution": {
     "0": 85,
@@ -1130,7 +1132,7 @@
     "9": 163,
     "10": 156,
     "11": 143,
-    "12": 138,
+    "12": 140,
     "13": 133,
     "14": 156,
     "15": 152,
@@ -1144,7 +1146,7 @@
     "23": 73
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-09T17:27:22.942249+00:00",
+  "last_updated": "2025-12-09T17:44:19.756702+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 790
+  "total_snapshots": 791
 }
