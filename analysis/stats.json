@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 2271,
-  "total_resolved": 2270,
+  "total_calls_tracked": 2273,
+  "total_resolved": 2271,
   "call_types": {
-    "DIRECTED PATROL": 735,
+    "DIRECTED PATROL": 737,
     "TRAFFIC STOP": 336,
     "DRUNK DRIVER": 7,
     "DISTURBANCE": 54,
@@ -77,7 +77,7 @@
     "0 BLOCK ACACIA ST": 6,
     "-600 BLOCK 647 BAY ESPLANADE": 1,
     "1900 BLOCK UNION ST": 2,
-    "200 BLOCK DREW ST": 8,
+    "200 BLOCK DREW ST": 9,
     "-800 BLOCK 819 NARCISSUS AVE": 2,
     "0 BLOCK ISLAND WAY": 7,
     "US HIGHWAY 19 N / SR 580": 3,
@@ -1095,7 +1095,8 @@
     "PALMETTO ST / HOLT AVE": 2,
     "1100 BLOCK MARSHALL ST": 1,
     "200 BLOCK S OSCEOLA AVE": 1,
-    "600 BLOCK ERMINE ST": 1
+    "600 BLOCK ERMINE ST": 1,
+    "-800 BLOCK 818 NARCISSUS AVE": 1
   },
   "hourly_distribution": {
     "0": 85,
@@ -1103,7 +1104,7 @@
     "2": 48,
     "3": 38,
     "4": 24,
-    "5": 53,
+    "5": 55,
     "6": 75,
     "7": 54,
     "8": 130,
@@ -1124,7 +1125,7 @@
     "23": 73
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-09T10:20:57.290917+00:00",
+  "last_updated": "2025-12-09T10:44:52.240951+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 770
+  "total_snapshots": 771
 }
