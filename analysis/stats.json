@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 2322,
-  "total_resolved": 2315,
+  "total_calls_tracked": 2324,
+  "total_resolved": 2317,
   "call_types": {
-    "DIRECTED PATROL": 763,
+    "DIRECTED PATROL": 764,
     "TRAFFIC STOP": 344,
     "DRUNK DRIVER": 7,
     "DISTURBANCE": 54,
@@ -17,7 +17,7 @@
     "PROPERTY FOUND/LOST": 15,
     "THEFT": 30,
     "NEIGHBOR CALL": 12,
-    "911 HANG-UP": 91,
+    "911 HANG-UP": 92,
     "SUSPICIOUS VEHICLE": 16,
     "PANHANDLER/SOLICITOR": 4,
     "VEHICLE ILLEGALLY PARKED": 6,
@@ -202,7 +202,7 @@
     "500 BLOCK MANDALAY AVE": 9,
     "3000 BLOCK HAVERFORD DR": 2,
     "DREW ST / OLD COACHMAN RD": 3,
-    "2500 BLOCK HARN BLVD": 23,
+    "2500 BLOCK HARN BLVD": 24,
     "1000 BLOCK MCMULLEN BOOTH RD": 2,
     "1200 BLOCK S MARTIN LUTHER KING JR AVE": 2,
     "2000 BLOCK PARAGON CIR W": 1,
@@ -1108,7 +1108,8 @@
     "200 BLOCK S HIGHLAND AVE": 1,
     "1000 BLOCK BAY ESPLANADE": 1,
     "-400 BLOCK 491 ISLAND WAY": 1,
-    "100 BLOCK N OSCEOLA AVE": 1
+    "100 BLOCK N OSCEOLA AVE": 1,
+    "23100 BLOCK US HWY 19 N": 1
   },
   "hourly_distribution": {
     "0": 85,
@@ -1121,7 +1122,7 @@
     "7": 59,
     "8": 147,
     "9": 163,
-    "10": 147,
+    "10": 149,
     "11": 127,
     "12": 136,
     "13": 133,
@@ -1137,7 +1138,7 @@
     "23": 73
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-09T15:44:27.986673+00:00",
+  "last_updated": "2025-12-09T15:53:43.805114+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 785
+  "total_snapshots": 786
 }
