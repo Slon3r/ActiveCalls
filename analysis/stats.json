@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 2319,
-  "total_resolved": 2313,
+  "total_calls_tracked": 2322,
+  "total_resolved": 2315,
   "call_types": {
-    "DIRECTED PATROL": 760,
+    "DIRECTED PATROL": 763,
     "TRAFFIC STOP": 344,
     "DRUNK DRIVER": 7,
     "DISTURBANCE": 54,
@@ -98,7 +98,7 @@
     "1400 BLOCK LAURA ST": 4,
     "ENTERPRISE RD E / VILLAGE DR": 3,
     "GULF TO BAY BLVD / HAMPTON RD": 1,
-    "2100 BLOCK GULF TO BAY BLVD": 22,
+    "2100 BLOCK GULF TO BAY BLVD": 23,
     "1300 BLOCK CLEVELAND ST": 11,
     "2100 BLOCK BELCHER RD": 1,
     "SAND KEY PARK ENTRANCE": 6,
@@ -1106,7 +1106,9 @@
     "HOMEWOOD ST / HOLLYWOOD AVE": 1,
     "2200 BLOCK HENNESEN DR": 1,
     "200 BLOCK S HIGHLAND AVE": 1,
-    "1000 BLOCK BAY ESPLANADE": 1
+    "1000 BLOCK BAY ESPLANADE": 1,
+    "-400 BLOCK 491 ISLAND WAY": 1,
+    "100 BLOCK N OSCEOLA AVE": 1
   },
   "hourly_distribution": {
     "0": 85,
@@ -1119,7 +1121,7 @@
     "7": 59,
     "8": 147,
     "9": 163,
-    "10": 144,
+    "10": 147,
     "11": 127,
     "12": 136,
     "13": 133,
@@ -1135,7 +1137,7 @@
     "23": 73
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-09T15:28:28.938601+00:00",
+  "last_updated": "2025-12-09T15:44:27.986673+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 784
+  "total_snapshots": 785
 }

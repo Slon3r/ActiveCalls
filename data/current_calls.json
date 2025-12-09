@@ -7,12 +7,6 @@
       "Response_Date": "2025-12-09T09:07:13"
     },
     {
-      "Master_Incident_Number": "120925-00154",
-      "Online_Description": "ASSIST CITIZEN",
-      "Address": "600 BLOCK PIERCE ST",
-      "Response_Date": "2025-12-09T09:24:29"
-    },
-    {
       "Master_Incident_Number": "120925-00157",
       "Online_Description": "DIRECTED PATROL",
       "Address": "500 BLOCK ISLAND WAY",
@@ -31,12 +25,24 @@
       "Response_Date": "2025-12-09T09:59:59"
     },
     {
-      "Master_Incident_Number": "120925-00180",
+      "Master_Incident_Number": "120925-00185",
       "Online_Description": "DIRECTED PATROL",
-      "Address": "1000 BLOCK BAY ESPLANADE",
-      "Response_Date": "2025-12-09T10:07:10"
+      "Address": "-400 BLOCK 491 ISLAND WAY",
+      "Response_Date": "2025-12-09T10:11:35"
+    },
+    {
+      "Master_Incident_Number": "120925-00186",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "2100 BLOCK GULF TO BAY BLVD",
+      "Response_Date": "2025-12-09T10:12:58"
+    },
+    {
+      "Master_Incident_Number": "120925-00188",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "100 BLOCK N OSCEOLA AVE",
+      "Response_Date": "2025-12-09T10:15:16"
     }
   ],
-  "timestamp": "2025-12-09T15:28:28.936034+00:00",
-  "count": 6
+  "timestamp": "2025-12-09T15:44:27.984174+00:00",
+  "count": 7
 }
