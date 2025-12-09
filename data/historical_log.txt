@@ -11046,3 +11046,11 @@ TOTAL ACTIVE CALLS: 1
 --- RESOLVED CALLS (2) ---
 [RESOLVED] 120925-00038 | ALARM | 1600 BLOCK N ARCTURAS AVE | Response: 03:31 AM
 [RESOLVED] 120925-00043 | DIRECTED PATROL | 2500 BLOCK MCMULLEN BOOTH RD | Response: 04:00 AM
+
+================================================================================
+TIMESTAMP: 2025-12-09T09:56:37.062553+00:00
+TOTAL ACTIVE CALLS: 2
+================================================================================
+
+--- NEW CALLS (1) ---
+[NEW] 120925-00045 | DIRECTED PATROL | 3200 BLOCK COURTNEY CAMPBELL CSWY | Response: 04:30 AM
