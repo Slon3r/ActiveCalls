@@ -7,72 +7,36 @@
       "Response_Date": "2025-12-09T09:07:13"
     },
     {
-      "Master_Incident_Number": "120925-00157",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "500 BLOCK ISLAND WAY",
-      "Response_Date": "2025-12-09T09:30:37"
-    },
-    {
-      "Master_Incident_Number": "120925-00178",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "1600 BLOCK GULF TO BAY BLVD",
-      "Response_Date": "2025-12-09T09:59:59"
-    },
-    {
-      "Master_Incident_Number": "120925-00188",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "100 BLOCK N OSCEOLA AVE",
-      "Response_Date": "2025-12-09T10:15:16"
-    },
-    {
-      "Master_Incident_Number": "120925-00190",
-      "Online_Description": "911 HANG-UP",
-      "Address": "2500 BLOCK HARN BLVD",
-      "Response_Date": "2025-12-09T10:29:05"
-    },
-    {
       "Master_Incident_Number": "120925-00192",
       "Online_Description": "DIRECTED PATROL",
       "Address": "1300 BLOCK S BELCHER RD",
       "Response_Date": "2025-12-09T10:33:26"
     },
     {
-      "Master_Incident_Number": "120925-00194",
+      "Master_Incident_Number": "120925-00212",
       "Online_Description": "DIRECTED PATROL",
-      "Address": "900 BLOCK MCMULLEN BOOTH RD",
-      "Response_Date": "2025-12-09T10:34:57"
+      "Address": "600 BLOCK MANDALAY AVE",
+      "Response_Date": "2025-12-09T11:11:56"
     },
     {
-      "Master_Incident_Number": "120925-00195",
-      "Online_Description": "SUSPICIOUS PERSON",
-      "Address": "S PROSPECT AVE / CHESTNUT ST",
-      "Response_Date": "2025-12-09T10:35:22"
-    },
-    {
-      "Master_Incident_Number": "120925-00197",
-      "Online_Description": "911 HANG-UP",
-      "Address": "27000 BLOCK US HIGHWAY 19 N",
-      "Response_Date": "2025-12-09T10:37:47"
-    },
-    {
-      "Master_Incident_Number": "120925-00198",
-      "Online_Description": "SUSPICIOUS EVENT",
-      "Address": "23100 BLOCK US HIGHWAY 19 N",
-      "Response_Date": "2025-12-09T10:38:34"
-    },
-    {
-      "Master_Incident_Number": "120925-00205",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "1300 BLOCK CLEVELAND ST",
-      "Response_Date": "2025-12-09T10:49:59"
-    },
-    {
-      "Master_Incident_Number": "120925-00206",
+      "Master_Incident_Number": "120925-00214",
       "Online_Description": "PARK WALK AND TALK",
-      "Address": "ISLAND WAY / PALM IS NW",
-      "Response_Date": "2025-12-09T10:50:00"
+      "Address": "1300 BLOCK PINEBROOK DR",
+      "Response_Date": "2025-12-09T11:15:50"
+    },
+    {
+      "Master_Incident_Number": "120925-00215",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "200 BLOCK S GLENWOOD AVE",
+      "Response_Date": "2025-12-09T11:16:34"
+    },
+    {
+      "Master_Incident_Number": "120925-00216",
+      "Online_Description": "PROPERTY FOUND/LOST",
+      "Address": "PINELLAS TRAIL / BELLEAIR RD",
+      "Response_Date": "2025-12-09T11:17:27"
     }
   ],
-  "timestamp": "2025-12-09T16:15:18.016218+00:00",
-  "count": 12
+  "timestamp": "2025-12-09T16:44:57.249206+00:00",
+  "count": 6
 }

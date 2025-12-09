@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 2331,
-  "total_resolved": 2319,
+  "total_calls_tracked": 2335,
+  "total_resolved": 2329,
   "call_types": {
-    "DIRECTED PATROL": 767,
+    "DIRECTED PATROL": 769,
     "TRAFFIC STOP": 344,
     "DRUNK DRIVER": 7,
     "DISTURBANCE": 54,
@@ -11,10 +11,10 @@
     "ALARM": 35,
     "KEEP THE PEACE": 29,
     "WELFARE CHECK": 49,
-    "PARK WALK AND TALK": 196,
+    "PARK WALK AND TALK": 197,
     "SUSPICIOUS PERSON": 91,
     "TRESPASS": 54,
-    "PROPERTY FOUND/LOST": 15,
+    "PROPERTY FOUND/LOST": 16,
     "THEFT": 30,
     "NEIGHBOR CALL": 12,
     "911 HANG-UP": 93,
@@ -162,7 +162,7 @@
     "1300 BLOCK FRANKLIN ST": 2,
     "SUNSET MEADOW DR / COLONY REED LN": 1,
     "0 BLOCK BAY ESPLANADE": 6,
-    "200 BLOCK S GLENWOOD AVE": 26,
+    "200 BLOCK S GLENWOOD AVE": 27,
     "S KEENE RD / DRUID RD": 2,
     "GULF TO BAY BLVD / BAMBOO LN": 2,
     "GULF TO BAY BLVD / BROOKSIDE DR": 1,
@@ -410,7 +410,7 @@
     "GULF TO BAY BLVD / MCMULLEN BOOTH RD S": 5,
     "1400 BLOCK FAIRMONT ST": 1,
     "DREW ST / N BETTY LN": 2,
-    "600 BLOCK MANDALAY AVE": 6,
+    "600 BLOCK MANDALAY AVE": 7,
     "1900 BLOCK GULF TO BAY BLVD": 3,
     "22100 BLOCK US HIGHWAY 19 N": 2,
     "SEVILLE BLVD / US HIGHWAY 19 N": 2,
@@ -1111,7 +1111,9 @@
     "100 BLOCK N OSCEOLA AVE": 1,
     "23100 BLOCK US HWY 19 N": 1,
     "S PROSPECT AVE / CHESTNUT ST": 1,
-    "ISLAND WAY / PALM IS NW": 1
+    "ISLAND WAY / PALM IS NW": 1,
+    "1300 BLOCK PINEBROOK DR": 1,
+    "PINELLAS TRAIL / BELLEAIR RD": 1
   },
   "hourly_distribution": {
     "0": 85,
@@ -1125,7 +1127,7 @@
     "8": 147,
     "9": 163,
     "10": 156,
-    "11": 127,
+    "11": 131,
     "12": 136,
     "13": 133,
     "14": 156,
@@ -1140,7 +1142,7 @@
     "23": 73
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-09T16:15:18.018814+00:00",
+  "last_updated": "2025-12-09T16:44:57.251984+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 787
+  "total_snapshots": 788
 }
