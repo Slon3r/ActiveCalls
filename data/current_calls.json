@@ -7,36 +7,18 @@
       "Response_Date": "2025-12-09T11:42:59"
     },
     {
-      "Master_Incident_Number": "120925-00236",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "1400 BLOCK LAURA ST",
-      "Response_Date": "2025-12-09T11:47:13"
-    },
-    {
-      "Master_Incident_Number": "120925-00238",
-      "Online_Description": "PARK WALK AND TALK",
-      "Address": "0 BLOCK 99 THIRD ST",
-      "Response_Date": "2025-12-09T11:47:50"
-    },
-    {
-      "Master_Incident_Number": "120925-00241",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "2600 BLOCK COUNTRYSIDE BLVD",
-      "Response_Date": "2025-12-09T11:51:17"
-    },
-    {
       "Master_Incident_Number": "120925-00248",
       "Online_Description": "NOISE COMPLAINT",
       "Address": "800 BLOCK BAYWAY BLVD",
       "Response_Date": "2025-12-09T12:07:01"
     },
     {
-      "Master_Incident_Number": "120925-00251",
-      "Online_Description": "TRAFFIC STOP",
-      "Address": "DREW ST / N MYRTLE AVE",
-      "Response_Date": "2025-12-09T12:22:04"
+      "Master_Incident_Number": "120925-00253",
+      "Online_Description": "TRAFFIC CRASH",
+      "Address": "DREW ST / N JEFFERSON AVE",
+      "Response_Date": "2025-12-09T12:25:32"
     }
   ],
-  "timestamp": "2025-12-09T17:44:19.753790+00:00",
-  "count": 6
+  "timestamp": "2025-12-09T17:53:38.734270+00:00",
+  "count": 3
 }

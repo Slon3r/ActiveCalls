@@ -1558,6 +1558,30 @@
           "Response_Date": "2025-12-09T12:22:04"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-09T17:53:38.734270+00:00",
+      "call_count": 3,
+      "calls": [
+        {
+          "Master_Incident_Number": "120925-00231",
+          "Online_Description": "TRAFFIC CRASH",
+          "Address": "RAINBOW DR / S CIRUS AVE",
+          "Response_Date": "2025-12-09T11:42:59"
+        },
+        {
+          "Master_Incident_Number": "120925-00248",
+          "Online_Description": "NOISE COMPLAINT",
+          "Address": "800 BLOCK BAYWAY BLVD",
+          "Response_Date": "2025-12-09T12:07:01"
+        },
+        {
+          "Master_Incident_Number": "120925-00253",
+          "Online_Description": "TRAFFIC CRASH",
+          "Address": "DREW ST / N JEFFERSON AVE",
+          "Response_Date": "2025-12-09T12:25:32"
+        }
+      ]
     }
   ]
 }

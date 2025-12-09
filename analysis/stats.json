@@ -1,6 +1,6 @@
 {
-  "total_calls_tracked": 2351,
-  "total_resolved": 2345,
+  "total_calls_tracked": 2352,
+  "total_resolved": 2349,
   "call_types": {
     "DIRECTED PATROL": 774,
     "TRAFFIC STOP": 346,
@@ -22,7 +22,7 @@
     "PANHANDLER/SOLICITOR": 4,
     "VEHICLE ILLEGALLY PARKED": 6,
     "SUSPICIOUS EVENT": 47,
-    "TRAFFIC CRASH": 94,
+    "TRAFFIC CRASH": 95,
     "DISABLED VEHICLE": 18,
     "ASSIST CITIZEN": 61,
     "ASSIST OTHER AGENCY": 45,
@@ -1117,7 +1117,8 @@
     "RAINBOW DR / S CIRUS AVE": 1,
     "DREW ST / N MAYWOOD AVE": 1,
     "800 BLOCK BAYWAY BLVD": 1,
-    "DREW ST / N MYRTLE AVE": 1
+    "DREW ST / N MYRTLE AVE": 1,
+    "DREW ST / N JEFFERSON AVE": 1
   },
   "hourly_distribution": {
     "0": 85,
@@ -1132,7 +1133,7 @@
     "9": 163,
     "10": 156,
     "11": 143,
-    "12": 140,
+    "12": 141,
     "13": 133,
     "14": 156,
     "15": 152,
@@ -1146,7 +1147,7 @@
     "23": 73
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-09T17:44:19.756702+00:00",
+  "last_updated": "2025-12-09T17:53:38.737208+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 791
+  "total_snapshots": 792
 }
