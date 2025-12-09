@@ -826,6 +826,66 @@
           "Response_Date": "2025-12-09T07:46:51"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-09T13:46:01.784629+00:00",
+      "call_count": 9,
+      "calls": [
+        {
+          "Master_Incident_Number": "120925-00100",
+          "Online_Description": "PARK WALK AND TALK",
+          "Address": "1300 BLOCK PARK ST",
+          "Response_Date": "2025-12-09T08:00:24.537"
+        },
+        {
+          "Master_Incident_Number": "120925-00091",
+          "Online_Description": "911 HANG-UP",
+          "Address": "800 BLOCK S GULFVIEW BLVD",
+          "Response_Date": "2025-12-09T07:19:57"
+        },
+        {
+          "Master_Incident_Number": "120925-00094",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "26000 BLOCK US HIGHWAY 19 N",
+          "Response_Date": "2025-12-09T07:37:21"
+        },
+        {
+          "Master_Incident_Number": "120925-00096",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "1400 BLOCK S BELCHER RD",
+          "Response_Date": "2025-12-09T07:46:51"
+        },
+        {
+          "Master_Incident_Number": "120925-00102",
+          "Online_Description": "DISABLED VEHICLE",
+          "Address": "EASTLAND BLVD / MCMULLEN BOOTH RD",
+          "Response_Date": "2025-12-09T08:03:16"
+        },
+        {
+          "Master_Incident_Number": "120925-00103",
+          "Online_Description": "ANIMAL CASE",
+          "Address": "1300 BLOCK N MARTIN LUTHER KING JR AVE",
+          "Response_Date": "2025-12-09T08:06:13"
+        },
+        {
+          "Master_Incident_Number": "120925-00107",
+          "Online_Description": "HAZARD",
+          "Address": "US HIGHWAY 19 N / COUNTRYSIDE BLVD",
+          "Response_Date": "2025-12-09T08:18:58"
+        },
+        {
+          "Master_Incident_Number": "120925-00106",
+          "Online_Description": "SUSPICIOUS EVENT",
+          "Address": "HOMEWOOD ST / HOLLYWOOD AVE",
+          "Response_Date": "2025-12-09T08:19:57"
+        },
+        {
+          "Master_Incident_Number": "120925-00110",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "2400 BLOCK GULF TO BAY BLVD",
+          "Response_Date": "2025-12-09T08:23:18"
+        }
+      ]
     }
   ]
 }
