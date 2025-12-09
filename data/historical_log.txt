@@ -11078,3 +11078,13 @@ TOTAL ACTIVE CALLS: 2
 
 --- RESOLVED CALLS (1) ---
 [RESOLVED] 120925-00047 | DISTURBANCE | 600 BLOCK ERMINE ST | Response: 04:56 AM
+
+================================================================================
+TIMESTAMP: 2025-12-09T10:56:06.273629+00:00
+TOTAL ACTIVE CALLS: 5
+================================================================================
+
+--- NEW CALLS (3) ---
+[NEW] 120925-00048 | ALARM | 1600 BLOCK GULF TO BAY BLVD | Response: 04:58 AM
+[NEW] 120925-00057 | DIRECTED PATROL | 2400 BLOCK COUNTRYSIDE BLVD | Response: 05:24 AM
+[NEW] 120925-00058 | DIRECTED PATROL | 1500 BLOCK GULF BLVD | Response: 05:33 AM
