@@ -1,6 +1,6 @@
 {
-  "total_calls_tracked": 2249,
-  "total_resolved": 2245,
+  "total_calls_tracked": 2250,
+  "total_resolved": 2247,
   "call_types": {
     "DIRECTED PATROL": 730,
     "TRAFFIC STOP": 336,
@@ -25,7 +25,7 @@
     "TRAFFIC CRASH": 89,
     "DISABLED VEHICLE": 17,
     "ASSIST CITIZEN": 60,
-    "ASSIST OTHER AGENCY": 42,
+    "ASSIST OTHER AGENCY": 43,
     "FIRE": 2,
     "FRAUD": 14,
     "RECKLESS VEHICLE": 8,
@@ -1088,10 +1088,11 @@
     "S KEYSTONE AVE / GULF TO BAY BLVD": 1,
     "-400 BLOCK 499 GUNN AVE": 1,
     "1400 BLOCK ALPINE RD": 1,
-    "COURT ST / S LINCOLN AVE": 1
+    "COURT ST / S LINCOLN AVE": 1,
+    "N FORT HARRISON AVE / CLEVELAND ST": 1
   },
   "hourly_distribution": {
-    "0": 75,
+    "0": 76,
     "1": 68,
     "2": 45,
     "3": 35,
@@ -1117,7 +1118,7 @@
     "23": 73
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-09T05:10:52.291980+00:00",
+  "last_updated": "2025-12-09T05:34:29.858928+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 754
+  "total_snapshots": 755
 }

@@ -282,6 +282,30 @@
           "Response_Date": "2025-12-08T23:42:27"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-09T05:34:29.857466+00:00",
+      "call_count": 3,
+      "calls": [
+        {
+          "Master_Incident_Number": "120825-00469",
+          "Online_Description": "DRUNK DRIVER",
+          "Address": "400 BLOCK BAY AVE",
+          "Response_Date": "2025-12-08T20:47:40"
+        },
+        {
+          "Master_Incident_Number": "120825-00498",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "MEMORIAL CSWY / ISLAND WAY",
+          "Response_Date": "2025-12-08T22:11:18"
+        },
+        {
+          "Master_Incident_Number": "120925-00004",
+          "Online_Description": "ASSIST OTHER AGENCY",
+          "Address": "N FORT HARRISON AVE / CLEVELAND ST",
+          "Response_Date": "2025-12-09T00:08:43"
+        }
+      ]
     }
   ]
 }
