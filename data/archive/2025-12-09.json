@@ -1582,6 +1582,48 @@
           "Response_Date": "2025-12-09T12:25:32"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-09T18:15:05.804972+00:00",
+      "call_count": 6,
+      "calls": [
+        {
+          "Master_Incident_Number": "120925-00231",
+          "Online_Description": "TRAFFIC CRASH",
+          "Address": "RAINBOW DR / S CIRUS AVE",
+          "Response_Date": "2025-12-09T11:42:59"
+        },
+        {
+          "Master_Incident_Number": "120925-00248",
+          "Online_Description": "NOISE COMPLAINT",
+          "Address": "800 BLOCK BAYWAY BLVD",
+          "Response_Date": "2025-12-09T12:07:01"
+        },
+        {
+          "Master_Incident_Number": "120925-00250",
+          "Online_Description": "WELFARE CHECK",
+          "Address": "800 BLOCK SEVARD AVE",
+          "Response_Date": "2025-12-09T12:18:02"
+        },
+        {
+          "Master_Incident_Number": "120925-00252",
+          "Online_Description": "BATTERY",
+          "Address": "800 BLOCK BAY ESPLANADE",
+          "Response_Date": "2025-12-09T12:22:49"
+        },
+        {
+          "Master_Incident_Number": "120925-00253",
+          "Online_Description": "TRAFFIC CRASH",
+          "Address": "DREW ST / N JEFFERSON AVE",
+          "Response_Date": "2025-12-09T12:25:32"
+        },
+        {
+          "Master_Incident_Number": "120925-00266",
+          "Online_Description": "PROPERTY FOUND/LOST",
+          "Address": "600 BLOCK PIERCE ST",
+          "Response_Date": "2025-12-09T12:45:48"
+        }
+      ]
     }
   ]
 }
