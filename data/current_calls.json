@@ -1,24 +1,12 @@
 {
   "calls": [
     {
-      "Master_Incident_Number": "120925-00038",
-      "Online_Description": "ALARM",
-      "Address": "1600 BLOCK N ARCTURAS AVE",
-      "Response_Date": "2025-12-09T03:31:11"
-    },
-    {
       "Master_Incident_Number": "120925-00037",
       "Online_Description": "ASSIST OTHER AGENCY",
       "Address": "MCMULLEN BOOTH RD / SR 590",
       "Response_Date": "2025-12-09T03:40:22"
-    },
-    {
-      "Master_Incident_Number": "120925-00043",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "2500 BLOCK MCMULLEN BOOTH RD",
-      "Response_Date": "2025-12-09T04:00:17"
     }
   ],
-  "timestamp": "2025-12-09T09:32:21.723405+00:00",
-  "count": 3
+  "timestamp": "2025-12-09T09:48:02.536226+00:00",
+  "count": 1
 }

@@ -11037,3 +11037,12 @@ TOTAL ACTIVE CALLS: 3
 --- RESOLVED CALLS (2) ---
 [RESOLVED] 120925-00028 | DOMESTIC | 900 BLOCK WOODLEY RD | Response: 02:22 AM
 [RESOLVED] 120925-00033 | BURGLARY | 2900 BLOCK GULF TO BAY BLVD | Response: 03:01 AM
+
+================================================================================
+TIMESTAMP: 2025-12-09T09:48:02.536226+00:00
+TOTAL ACTIVE CALLS: 1
+================================================================================
+
+--- RESOLVED CALLS (2) ---
+[RESOLVED] 120925-00038 | ALARM | 1600 BLOCK N ARCTURAS AVE | Response: 03:31 AM
+[RESOLVED] 120925-00043 | DIRECTED PATROL | 2500 BLOCK MCMULLEN BOOTH RD | Response: 04:00 AM
