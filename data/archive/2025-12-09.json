@@ -1672,6 +1672,78 @@
           "Response_Date": "2025-12-09T13:15:24"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-09T18:58:16.217754+00:00",
+      "call_count": 11,
+      "calls": [
+        {
+          "Master_Incident_Number": "120925-00280",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "1400 BLOCK GULF BLVD",
+          "Response_Date": "2025-12-09T13:33:39.34"
+        },
+        {
+          "Master_Incident_Number": "120925-00252",
+          "Online_Description": "BATTERY",
+          "Address": "800 BLOCK BAY ESPLANADE",
+          "Response_Date": "2025-12-09T12:22:49"
+        },
+        {
+          "Master_Incident_Number": "120925-00253",
+          "Online_Description": "TRAFFIC CRASH",
+          "Address": "DREW ST / N JEFFERSON AVE",
+          "Response_Date": "2025-12-09T12:25:32"
+        },
+        {
+          "Master_Incident_Number": "120925-00267",
+          "Online_Description": "KEEP THE PEACE",
+          "Address": "1400 BLOCK S MARTIN LUTHER KING JR AVE",
+          "Response_Date": "2025-12-09T12:49:30"
+        },
+        {
+          "Master_Incident_Number": "120925-00271",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "2600 BLOCK LANDMARK DR",
+          "Response_Date": "2025-12-09T13:01:48"
+        },
+        {
+          "Master_Incident_Number": "120925-00275",
+          "Online_Description": "WELFARE CHECK",
+          "Address": "500 BLOCK BROOKSIDE DR",
+          "Response_Date": "2025-12-09T13:04:28"
+        },
+        {
+          "Master_Incident_Number": "120925-00276",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "PIERCE ST / S MADISON AVE",
+          "Response_Date": "2025-12-09T13:13:01"
+        },
+        {
+          "Master_Incident_Number": "120925-00277",
+          "Online_Description": "911 HANG-UP",
+          "Address": "1200 BLOCK DRUID RD",
+          "Response_Date": "2025-12-09T13:15:24"
+        },
+        {
+          "Master_Incident_Number": "120925-00279",
+          "Online_Description": "TRAFFIC CRASH",
+          "Address": "US HIGHWAY 19 N / GULF TO BAY BLVD",
+          "Response_Date": "2025-12-09T13:24:24"
+        },
+        {
+          "Master_Incident_Number": "120925-00281",
+          "Online_Description": "PROPERTY FOUND/LOST",
+          "Address": "1900 BLOCK CLEARVIEW LAKE DR",
+          "Response_Date": "2025-12-09T13:28:52"
+        },
+        {
+          "Master_Incident_Number": "120925-00283",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "CLEVELAND ST / N GARDEN AVE",
+          "Response_Date": "2025-12-09T13:34:57"
+        }
+      ]
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 2360,
+  "total_calls_tracked": 2364,
   "total_resolved": 2353,
   "call_types": {
-    "DIRECTED PATROL": 776,
+    "DIRECTED PATROL": 778,
     "TRAFFIC STOP": 346,
     "DRUNK DRIVER": 7,
     "DISTURBANCE": 54,
@@ -14,7 +14,7 @@
     "PARK WALK AND TALK": 200,
     "SUSPICIOUS PERSON": 91,
     "TRESPASS": 54,
-    "PROPERTY FOUND/LOST": 17,
+    "PROPERTY FOUND/LOST": 18,
     "THEFT": 31,
     "NEIGHBOR CALL": 13,
     "911 HANG-UP": 94,
@@ -22,7 +22,7 @@
     "PANHANDLER/SOLICITOR": 4,
     "VEHICLE ILLEGALLY PARKED": 6,
     "SUSPICIOUS EVENT": 47,
-    "TRAFFIC CRASH": 95,
+    "TRAFFIC CRASH": 96,
     "DISABLED VEHICLE": 18,
     "ASSIST CITIZEN": 61,
     "ASSIST OTHER AGENCY": 45,
@@ -210,7 +210,7 @@
     "S MAIN AVE / RAINBOW DR": 5,
     "1000 BLOCK N MADISON AVE": 1,
     "2800 BLOCK DREW ST": 2,
-    "US HIGHWAY 19 N / GULF TO BAY BLVD": 3,
+    "US HIGHWAY 19 N / GULF TO BAY BLVD": 4,
     "300 BLOCK CORONADO DR": 17,
     "23600 BLOCK US HIGHWAY 19 N": 4,
     "300 BLOCK MANDALAY AVE": 3,
@@ -426,7 +426,7 @@
     "18900 BLOCK US HIGHWAY 19 N": 2,
     "400 BLOCK BAY AVE": 3,
     "GULF TO BAY BLVD / US HIGHWAY 19 N": 8,
-    "1400 BLOCK GULF BLVD": 6,
+    "1400 BLOCK GULF BLVD": 7,
     "900 BLOCK NARCISSUS AVE": 1,
     "GARDEN AVE/ CLEVELAND ST": 1,
     "S MARTIN LUTHER KING JR AVE / KINGSLEY ST": 1,
@@ -971,7 +971,7 @@
     "PARK PLACE BLVD / GULF TO BAY BLVD": 2,
     "S SAN REMO AVE / BROWNING ST": 1,
     "N MISSOURI AVE / DREW ST": 1,
-    "CLEVELAND ST / N GARDEN AVE": 1,
+    "CLEVELAND ST / N GARDEN AVE": 2,
     "1100 BLOCK TUSKAWILLA DR": 1,
     "-1100 BLOCK 1199 S FORT HARRISON AVE": 1,
     "S FORT HARRISON AVE / CHESTNUT ST": 1,
@@ -1123,7 +1123,8 @@
     "800 BLOCK BAY ESPLANADE": 1,
     "500 BLOCK BROOKSIDE DR": 1,
     "PIERCE ST / S MADISON AVE": 1,
-    "1200 BLOCK DRUID RD": 1
+    "1200 BLOCK DRUID RD": 1,
+    "1900 BLOCK CLEARVIEW LAKE DR": 1
   },
   "hourly_distribution": {
     "0": 85,
@@ -1139,7 +1140,7 @@
     "10": 156,
     "11": 143,
     "12": 145,
-    "13": 137,
+    "13": 141,
     "14": 156,
     "15": 152,
     "16": 148,
@@ -1152,7 +1153,7 @@
     "23": 73
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-09T18:45:28.513809+00:00",
+  "last_updated": "2025-12-09T18:58:16.220868+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 794
+  "total_snapshots": 795
 }
