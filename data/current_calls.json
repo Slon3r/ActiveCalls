@@ -25,24 +25,12 @@
       "Response_Date": "2025-12-09T14:41:58"
     },
     {
-      "Master_Incident_Number": "120925-00318",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "600 BLOCK DRUID RD",
-      "Response_Date": "2025-12-09T14:53:09"
-    },
-    {
       "Master_Incident_Number": "120925-00323",
       "Online_Description": "DIRECTED PATROL",
       "Address": "600 BLOCK OLD COACHMAN RD",
       "Response_Date": "2025-12-09T15:08:03"
-    },
-    {
-      "Master_Incident_Number": "120925-00326",
-      "Online_Description": "TRAFFIC STOP",
-      "Address": "MCMULLEN BOOTH RD / SR 580",
-      "Response_Date": "2025-12-09T15:22:08"
     }
   ],
-  "timestamp": "2025-12-09T20:43:31.142514+00:00",
-  "count": 7
+  "timestamp": "2025-12-09T20:51:57.015555+00:00",
+  "count": 5
 }
