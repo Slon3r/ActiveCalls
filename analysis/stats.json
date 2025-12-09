@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 2417,
-  "total_resolved": 2407,
+  "total_calls_tracked": 2422,
+  "total_resolved": 2411,
   "call_types": {
-    "DIRECTED PATROL": 795,
+    "DIRECTED PATROL": 797,
     "TRAFFIC STOP": 358,
     "DRUNK DRIVER": 7,
     "DISTURBANCE": 55,
@@ -10,7 +10,7 @@
     "CRIMINAL MISCHIEF": 13,
     "ALARM": 35,
     "KEEP THE PEACE": 30,
-    "WELFARE CHECK": 51,
+    "WELFARE CHECK": 52,
     "PARK WALK AND TALK": 206,
     "SUSPICIOUS PERSON": 92,
     "TRESPASS": 54,
@@ -25,7 +25,7 @@
     "TRAFFIC CRASH": 102,
     "DISABLED VEHICLE": 18,
     "ASSIST CITIZEN": 61,
-    "ASSIST OTHER AGENCY": 47,
+    "ASSIST OTHER AGENCY": 49,
     "FIRE": 2,
     "FRAUD": 14,
     "RECKLESS VEHICLE": 8,
@@ -64,7 +64,7 @@
     "OPEN DOOR/WINDOW": 1
   },
   "addresses": {
-    "MEMORIAL CSWY / ISLAND WAY": 24,
+    "MEMORIAL CSWY / ISLAND WAY": 25,
     "GULF TO BAY BLVD / S BELCHER RD": 5,
     "1900 BLOCK N BETTY LN": 1,
     "1400 BLOCK CLEVELAND ST": 2,
@@ -131,7 +131,7 @@
     "1200 BLOCK DREW ST": 3,
     "2400 BLOCK DREW ST": 5,
     "-1100 BLOCK 1582 GULF BLVD": 4,
-    "3300 BLOCK COURTNEY CAMPBELL CSWY": 7,
+    "3300 BLOCK COURTNEY CAMPBELL CSWY": 8,
     "1200 BLOCK COURT ST": 4,
     "1400 BLOCK OWEN DR": 1,
     "200 BLOCK ISLAND WAY": 9,
@@ -401,7 +401,7 @@
     "1400 BLOCK GULF TO BAY BLVD": 5,
     "2200 BLOCK BELLEAIR RD": 1,
     "1300 BLOCK PARK ST": 10,
-    "DREW ST / US HIGHWAY 19 N": 2,
+    "DREW ST / US HIGHWAY 19 N": 3,
     "1300 BLOCK N MARTIN LUTHER KING JR AVE": 7,
     "N BELCHER RD / OLD COACHMAN RD": 1,
     "600 BLOCK S FORT HARRISON AVE": 7,
@@ -608,7 +608,7 @@
     "25300 BLOCK US HIGHWAY 19 N": 5,
     "-3100 BLOCK 3161 MASTERS DR": 1,
     "-2600 BLOCK 2698 CLUBHOUSE DR N": 1,
-    "SR 580 / COUNTRYSIDE BLVD": 2,
+    "SR 580 / COUNTRYSIDE BLVD": 3,
     "400 BLOCK POINSETTIA AVE": 5,
     "700 BLOCK MANDALAY AVE": 1,
     "JOEL LN / FLORA LN": 1,
@@ -859,7 +859,7 @@
     "1200 BLOCK S FORT HARRISON AVE": 1,
     "500 BLOCK S BELCHER RD": 2,
     "100 BLOCK ISLAND WAY": 1,
-    "1500 BLOCK S BELCHER RD": 2,
+    "1500 BLOCK S BELCHER RD": 3,
     "S MARTIN LUTHER KING JR AVE / WOODLAWN ST": 2,
     "0 BLOCK PINELLAS TRAIL": 1,
     "1200 BLOCK CALUSA CIR": 1,
@@ -1162,7 +1162,7 @@
     "14": 171,
     "15": 163,
     "16": 158,
-    "17": 144,
+    "17": 149,
     "18": 117,
     "19": 34,
     "20": 45,
@@ -1171,7 +1171,7 @@
     "23": 73
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-09T22:53:08.970494+00:00",
+  "last_updated": "2025-12-09T23:09:37.711570+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 813
+  "total_snapshots": 814
 }

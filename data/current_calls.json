@@ -37,30 +37,36 @@
       "Response_Date": "2025-12-09T17:17:59"
     },
     {
-      "Master_Incident_Number": "120925-00384",
-      "Online_Description": "PARK WALK AND TALK",
-      "Address": "-26300 BLOCK 26498 US HIGHWAY 19 N",
-      "Response_Date": "2025-12-09T17:26:59"
+      "Master_Incident_Number": "120925-00400",
+      "Online_Description": "WELFARE CHECK",
+      "Address": "DREW ST / US HIGHWAY 19 N",
+      "Response_Date": "2025-12-09T17:33:08"
     },
     {
-      "Master_Incident_Number": "120925-00386",
-      "Online_Description": "PARK WALK AND TALK",
-      "Address": "2100 BLOCK GULF TO BAY BLVD",
-      "Response_Date": "2025-12-09T17:29:29"
+      "Master_Incident_Number": "120925-00393",
+      "Online_Description": "ASSIST OTHER AGENCY",
+      "Address": "1500 BLOCK S BELCHER RD",
+      "Response_Date": "2025-12-09T17:33:19"
     },
     {
-      "Master_Incident_Number": "120925-00387",
+      "Master_Incident_Number": "120925-00401",
+      "Online_Description": "ASSIST OTHER AGENCY",
+      "Address": "3300 BLOCK COURTNEY CAMPBELL CSWY",
+      "Response_Date": "2025-12-09T17:41:20"
+    },
+    {
+      "Master_Incident_Number": "120925-00402",
       "Online_Description": "DIRECTED PATROL",
-      "Address": "3000 BLOCK EASTLAND BLVD",
-      "Response_Date": "2025-12-09T17:30:10"
+      "Address": "SR 580 / COUNTRYSIDE BLVD",
+      "Response_Date": "2025-12-09T17:44:10"
     },
     {
-      "Master_Incident_Number": "120925-00389",
-      "Online_Description": "PARK WALK AND TALK",
-      "Address": "300 BLOCK CORONADO DR",
-      "Response_Date": "2025-12-09T17:31:23"
+      "Master_Incident_Number": "120925-00404",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "MEMORIAL CSWY / ISLAND WAY",
+      "Response_Date": "2025-12-09T17:45:14"
     }
   ],
-  "timestamp": "2025-12-09T22:53:08.966383+00:00",
-  "count": 10
+  "timestamp": "2025-12-09T23:09:37.706318+00:00",
+  "count": 11
 }
