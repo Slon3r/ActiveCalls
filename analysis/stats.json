@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 2282,
-  "total_resolved": 2279,
+  "total_calls_tracked": 2284,
+  "total_resolved": 2280,
   "call_types": {
-    "DIRECTED PATROL": 742,
-    "TRAFFIC STOP": 336,
+    "DIRECTED PATROL": 743,
+    "TRAFFIC STOP": 337,
     "DRUNK DRIVER": 7,
     "DISTURBANCE": 54,
     "BATTERY": 16,
@@ -129,7 +129,7 @@
     "1600 BLOCK N MCMULLEN BOOTH RD": 1,
     "1200 BLOCK DREW ST": 3,
     "2400 BLOCK DREW ST": 5,
-    "-1100 BLOCK 1582 GULF BLVD": 3,
+    "-1100 BLOCK 1582 GULF BLVD": 4,
     "3300 BLOCK COURTNEY CAMPBELL CSWY": 7,
     "1200 BLOCK COURT ST": 4,
     "1400 BLOCK OWEN DR": 1,
@@ -425,7 +425,7 @@
     "18900 BLOCK US HIGHWAY 19 N": 2,
     "400 BLOCK BAY AVE": 3,
     "GULF TO BAY BLVD / US HIGHWAY 19 N": 8,
-    "1400 BLOCK GULF BLVD": 4,
+    "1400 BLOCK GULF BLVD": 5,
     "900 BLOCK NARCISSUS AVE": 1,
     "GARDEN AVE/ CLEVELAND ST": 1,
     "S MARTIN LUTHER KING JR AVE / KINGSLEY ST": 1,
@@ -1105,7 +1105,7 @@
     "3": 38,
     "4": 25,
     "5": 63,
-    "6": 75,
+    "6": 77,
     "7": 54,
     "8": 130,
     "9": 153,
@@ -1125,7 +1125,7 @@
     "23": 73
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-09T11:32:35.478639+00:00",
+  "last_updated": "2025-12-09T11:44:26.652624+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 774
+  "total_snapshots": 775
 }

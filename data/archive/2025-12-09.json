@@ -712,6 +712,36 @@
           "Response_Date": "2025-12-09T05:45:03"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-09T11:44:26.650693+00:00",
+      "call_count": 4,
+      "calls": [
+        {
+          "Master_Incident_Number": "120925-00049",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "200 BLOCK S GLENWOOD AVE",
+          "Response_Date": "2025-12-09T05:59:04.083"
+        },
+        {
+          "Master_Incident_Number": "120925-00057",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "2400 BLOCK COUNTRYSIDE BLVD",
+          "Response_Date": "2025-12-09T05:24:03"
+        },
+        {
+          "Master_Incident_Number": "120925-00077",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "-1100 BLOCK 1582 GULF BLVD",
+          "Response_Date": "2025-12-09T06:18:21"
+        },
+        {
+          "Master_Incident_Number": "120925-00078",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "1400 BLOCK GULF BLVD",
+          "Response_Date": "2025-12-09T06:21:58"
+        }
+      ]
     }
   ]
 }
