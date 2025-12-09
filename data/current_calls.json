@@ -19,12 +19,6 @@
       "Response_Date": "2025-12-09T09:59:59"
     },
     {
-      "Master_Incident_Number": "120925-00185",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "-400 BLOCK 491 ISLAND WAY",
-      "Response_Date": "2025-12-09T10:11:35"
-    },
-    {
       "Master_Incident_Number": "120925-00188",
       "Online_Description": "DIRECTED PATROL",
       "Address": "100 BLOCK N OSCEOLA AVE",
@@ -37,12 +31,48 @@
       "Response_Date": "2025-12-09T10:29:05"
     },
     {
-      "Master_Incident_Number": "120925-00191",
+      "Master_Incident_Number": "120925-00192",
       "Online_Description": "DIRECTED PATROL",
-      "Address": "23100 BLOCK US HWY 19 N",
-      "Response_Date": "2025-12-09T10:32:57"
+      "Address": "1300 BLOCK S BELCHER RD",
+      "Response_Date": "2025-12-09T10:33:26"
+    },
+    {
+      "Master_Incident_Number": "120925-00194",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "900 BLOCK MCMULLEN BOOTH RD",
+      "Response_Date": "2025-12-09T10:34:57"
+    },
+    {
+      "Master_Incident_Number": "120925-00195",
+      "Online_Description": "SUSPICIOUS PERSON",
+      "Address": "S PROSPECT AVE / CHESTNUT ST",
+      "Response_Date": "2025-12-09T10:35:22"
+    },
+    {
+      "Master_Incident_Number": "120925-00197",
+      "Online_Description": "911 HANG-UP",
+      "Address": "27000 BLOCK US HIGHWAY 19 N",
+      "Response_Date": "2025-12-09T10:37:47"
+    },
+    {
+      "Master_Incident_Number": "120925-00198",
+      "Online_Description": "SUSPICIOUS EVENT",
+      "Address": "23100 BLOCK US HIGHWAY 19 N",
+      "Response_Date": "2025-12-09T10:38:34"
+    },
+    {
+      "Master_Incident_Number": "120925-00205",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "1300 BLOCK CLEVELAND ST",
+      "Response_Date": "2025-12-09T10:49:59"
+    },
+    {
+      "Master_Incident_Number": "120925-00206",
+      "Online_Description": "PARK WALK AND TALK",
+      "Address": "ISLAND WAY / PALM IS NW",
+      "Response_Date": "2025-12-09T10:50:00"
     }
   ],
-  "timestamp": "2025-12-09T15:53:43.802631+00:00",
-  "count": 7
+  "timestamp": "2025-12-09T16:15:18.016218+00:00",
+  "count": 12
 }
