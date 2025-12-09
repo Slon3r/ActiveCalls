@@ -2494,6 +2494,24 @@
           "Response_Date": "2025-12-09T16:33:34"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-09T22:13:41.907045+00:00",
+      "call_count": 2,
+      "calls": [
+        {
+          "Master_Incident_Number": "120925-00341",
+          "Online_Description": "TRAFFIC CRASH",
+          "Address": "BELCHER RD / LAURELWOOD DR",
+          "Response_Date": "2025-12-09T16:02:05"
+        },
+        {
+          "Master_Incident_Number": "120925-00361",
+          "Online_Description": "TRAFFIC CRASH",
+          "Address": "2200 BLOCK DREW ST",
+          "Response_Date": "2025-12-09T16:43:25"
+        }
+      ]
     }
   ]
 }

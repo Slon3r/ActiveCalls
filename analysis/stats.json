@@ -1,6 +1,6 @@
 {
-  "total_calls_tracked": 2403,
-  "total_resolved": 2397,
+  "total_calls_tracked": 2404,
+  "total_resolved": 2402,
   "call_types": {
     "DIRECTED PATROL": 791,
     "TRAFFIC STOP": 357,
@@ -22,7 +22,7 @@
     "PANHANDLER/SOLICITOR": 4,
     "VEHICLE ILLEGALLY PARKED": 6,
     "SUSPICIOUS EVENT": 47,
-    "TRAFFIC CRASH": 99,
+    "TRAFFIC CRASH": 100,
     "DISABLED VEHICLE": 18,
     "ASSIST CITIZEN": 61,
     "ASSIST OTHER AGENCY": 47,
@@ -296,7 +296,7 @@
     "1700 BLOCK EL TAIR TRL": 1,
     "SETON DR / MONTCLAIR RD": 1,
     "700 BLOCK S GULFVIEW BLVD": 1,
-    "2200 BLOCK DREW ST": 3,
+    "2200 BLOCK DREW ST": 4,
     "200 BLOCK S MARS AVE": 2,
     "CLEARWATER MALL": 1,
     "S MARTIN LUTHER KING JR AVE / TUSKAWILLA DR": 1,
@@ -1156,7 +1156,7 @@
     "13": 147,
     "14": 171,
     "15": 163,
-    "16": 155,
+    "16": 156,
     "17": 133,
     "18": 117,
     "19": 34,
@@ -1166,7 +1166,7 @@
     "23": 73
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-09T21:54:30.159067+00:00",
+  "last_updated": "2025-12-09T22:13:41.910861+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 809
+  "total_snapshots": 810
 }
