@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 2248,
-  "total_resolved": 2243,
+  "total_calls_tracked": 2249,
+  "total_resolved": 2245,
   "call_types": {
     "DIRECTED PATROL": 730,
-    "TRAFFIC STOP": 335,
+    "TRAFFIC STOP": 336,
     "DRUNK DRIVER": 7,
     "DISTURBANCE": 52,
     "BATTERY": 16,
@@ -135,7 +135,7 @@
     "1400 BLOCK OWEN DR": 1,
     "200 BLOCK ISLAND WAY": 8,
     "-500 BLOCK BLK CLEVELAND ST": 3,
-    "0 BLOCK MEMORIAL CSWY": 19,
+    "0 BLOCK MEMORIAL CSWY": 20,
     "COUNTRYSIDE BLVD / NORTHRIDGE DR": 1,
     "NE COACHMAN RD / US HIGHWAY 19 N": 2,
     "LOTUS PATH / BAY AVE": 1,
@@ -1114,10 +1114,10 @@
     "20": 45,
     "21": 46,
     "22": 97,
-    "23": 72
+    "23": 73
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-09T04:53:00.697716+00:00",
+  "last_updated": "2025-12-09T05:10:52.291980+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 753
+  "total_snapshots": 754
 }
