@@ -31,12 +31,6 @@
       "Response_Date": "2025-12-09T13:28:52"
     },
     {
-      "Master_Incident_Number": "120925-00284",
-      "Online_Description": "ASSIST OTHER AGENCY",
-      "Address": "3000 BLOCK EASTLAND BLVD",
-      "Response_Date": "2025-12-09T13:33:53"
-    },
-    {
       "Master_Incident_Number": "120925-00283",
       "Online_Description": "DIRECTED PATROL",
       "Address": "CLEVELAND ST / N GARDEN AVE",
@@ -49,24 +43,18 @@
       "Response_Date": "2025-12-09T13:42:45"
     },
     {
-      "Master_Incident_Number": "120925-00288",
-      "Online_Description": "TRAFFIC STOP",
-      "Address": "FAIRWOOD AVE / APPLEWOOD DR",
-      "Response_Date": "2025-12-09T13:44:54"
+      "Master_Incident_Number": "120925-00293",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "S MADISON AVE / PIERCE ST",
+      "Response_Date": "2025-12-09T13:57:48"
     },
     {
-      "Master_Incident_Number": "120925-00289",
-      "Online_Description": "ASSIST OTHER AGENCY",
-      "Address": "S BELCHER RD / GULF TO BAY BLVD",
-      "Response_Date": "2025-12-09T13:45:29"
-    },
-    {
-      "Master_Incident_Number": "120925-00291",
-      "Online_Description": "TRAFFIC STOP",
-      "Address": "1200 BLOCK GULF BLVD",
-      "Response_Date": "2025-12-09T13:53:37"
+      "Master_Incident_Number": "120925-00296",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "900 BLOCK N MARTIN LUTHER KING JR AVE",
+      "Response_Date": "2025-12-09T14:03:03"
     }
   ],
-  "timestamp": "2025-12-09T19:16:41.604252+00:00",
-  "count": 11
+  "timestamp": "2025-12-09T19:27:05.886770+00:00",
+  "count": 9
 }

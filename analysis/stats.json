@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 2369,
-  "total_resolved": 2358,
+  "total_calls_tracked": 2371,
+  "total_resolved": 2362,
   "call_types": {
-    "DIRECTED PATROL": 779,
+    "DIRECTED PATROL": 781,
     "TRAFFIC STOP": 348,
     "DRUNK DRIVER": 7,
     "DISTURBANCE": 54,
@@ -441,7 +441,7 @@
     "1400 BLOCK S MARTIN LUTHER KING JR AVE": 13,
     "OTIS C GREEN DR / N BETTY LN": 1,
     "2600 BLOCK MCMULLEN BOOTH RD": 5,
-    "S MADISON AVE / PIERCE ST": 2,
+    "S MADISON AVE / PIERCE ST": 3,
     "1000 BLOCK VINE AVE": 1,
     "2200 BLOCK MORNINGSIDE DR": 2,
     "400 BLOCK S MARTIN LUTHER KING JR AVE": 1,
@@ -579,7 +579,7 @@
     "ISLAND WAY/MEMORIAL CSWY": 1,
     "600 BLOCK WILDWOOD WAY": 1,
     "FRANKLIN ST / GULF TO BAY BLVD": 1,
-    "900 BLOCK N MARTIN LUTHER KING JR AVE": 4,
+    "900 BLOCK N MARTIN LUTHER KING JR AVE": 5,
     "1800 BLOCK MCMULLEN BOOTH RD": 1,
     "N BETTY LN / ENGMAN ST": 2,
     "1000 BLOCK APACHE TRAIL": 1,
@@ -1141,8 +1141,8 @@
     "10": 156,
     "11": 143,
     "12": 145,
-    "13": 146,
-    "14": 156,
+    "13": 147,
+    "14": 157,
     "15": 152,
     "16": 148,
     "17": 133,
@@ -1154,7 +1154,7 @@
     "23": 73
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-09T19:16:41.607314+00:00",
+  "last_updated": "2025-12-09T19:27:05.889971+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 796
+  "total_snapshots": 797
 }
