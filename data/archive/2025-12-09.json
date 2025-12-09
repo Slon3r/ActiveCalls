@@ -2871,6 +2871,84 @@
           "Response_Date": "2025-12-09T18:18:18"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-09T23:48:29.795089+00:00",
+      "call_count": 12,
+      "calls": [
+        {
+          "Master_Incident_Number": "120925-00361",
+          "Online_Description": "TRAFFIC CRASH",
+          "Address": "2200 BLOCK DREW ST",
+          "Response_Date": "2025-12-09T16:43:25"
+        },
+        {
+          "Master_Incident_Number": "120925-00372",
+          "Online_Description": "ROBBERY",
+          "Address": "600 BLOCK S FORT HARRISON AVE",
+          "Response_Date": "2025-12-09T17:04:51"
+        },
+        {
+          "Master_Incident_Number": "120925-00378",
+          "Online_Description": "WELFARE CHECK",
+          "Address": "100 BLOCK N LADY MARY DR",
+          "Response_Date": "2025-12-09T17:11:01"
+        },
+        {
+          "Master_Incident_Number": "120925-00385",
+          "Online_Description": "BATTERY",
+          "Address": "1200 BLOCK SHERIDAN RD",
+          "Response_Date": "2025-12-09T17:26:12"
+        },
+        {
+          "Master_Incident_Number": "120925-00392",
+          "Online_Description": "SUSPICIOUS PERSON",
+          "Address": "TURNER ST / WELLS CT",
+          "Response_Date": "2025-12-09T17:33:25"
+        },
+        {
+          "Master_Incident_Number": "120925-00416",
+          "Online_Description": "TRAFFIC CRASH",
+          "Address": "SR 580 / LANDMARK DR",
+          "Response_Date": "2025-12-09T18:01:31"
+        },
+        {
+          "Master_Incident_Number": "120925-00418",
+          "Online_Description": "TRAFFIC CRASH",
+          "Address": "1900 BLOCK CALUMET ST",
+          "Response_Date": "2025-12-09T18:05:00"
+        },
+        {
+          "Master_Incident_Number": "120925-00422",
+          "Online_Description": "ASSIST OTHER AGENCY",
+          "Address": "1500 BLOCK GREENLEA DR",
+          "Response_Date": "2025-12-09T18:14:37"
+        },
+        {
+          "Master_Incident_Number": "120925-00423",
+          "Online_Description": "SUSPICIOUS EVENT",
+          "Address": "1600 BLOCK GULF TO BAY BLVD",
+          "Response_Date": "2025-12-09T18:15:11"
+        },
+        {
+          "Master_Incident_Number": "120925-00426",
+          "Online_Description": "TRAFFIC CRASH",
+          "Address": "3000 BLOCK MARLO BLVD",
+          "Response_Date": "2025-12-09T18:18:22"
+        },
+        {
+          "Master_Incident_Number": "120925-00430",
+          "Online_Description": "PANHANDLER/SOLICITOR",
+          "Address": "US HIGHWAY 19 N / GULF TO BAY BLVD",
+          "Response_Date": "2025-12-09T18:24:28"
+        },
+        {
+          "Master_Incident_Number": "120925-00431",
+          "Online_Description": "TRAFFIC CRASH",
+          "Address": "US HIGHWAY 19 N / DREW ST",
+          "Response_Date": "2025-12-09T18:24:41"
+        }
+      ]
     }
   ]
 }

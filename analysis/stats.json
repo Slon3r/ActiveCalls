@@ -1,6 +1,6 @@
 {
-  "total_calls_tracked": 2436,
-  "total_resolved": 2424,
+  "total_calls_tracked": 2441,
+  "total_resolved": 2429,
   "call_types": {
     "DIRECTED PATROL": 797,
     "TRAFFIC STOP": 359,
@@ -19,10 +19,10 @@
     "NEIGHBOR CALL": 13,
     "911 HANG-UP": 96,
     "SUSPICIOUS VEHICLE": 16,
-    "PANHANDLER/SOLICITOR": 4,
+    "PANHANDLER/SOLICITOR": 5,
     "VEHICLE ILLEGALLY PARKED": 6,
-    "SUSPICIOUS EVENT": 47,
-    "TRAFFIC CRASH": 103,
+    "SUSPICIOUS EVENT": 48,
+    "TRAFFIC CRASH": 106,
     "DISABLED VEHICLE": 18,
     "ASSIST CITIZEN": 62,
     "ASSIST OTHER AGENCY": 50,
@@ -71,7 +71,7 @@
     "1000 BLOCK WEST AVE": 2,
     "600 BLOCK S GULFVIEW BLVD": 10,
     "-800 BLOCK 1099 MARSHALL ST": 1,
-    "US HIGHWAY 19 N / DREW ST": 18,
+    "US HIGHWAY 19 N / DREW ST": 19,
     "US HIGHWAY 19 N / SR 590": 7,
     "1100 BLOCK DRUID RD": 7,
     "2100 BLOCK RANGE RD": 1,
@@ -210,12 +210,12 @@
     "S MAIN AVE / RAINBOW DR": 5,
     "1000 BLOCK N MADISON AVE": 1,
     "2800 BLOCK DREW ST": 2,
-    "US HIGHWAY 19 N / GULF TO BAY BLVD": 5,
+    "US HIGHWAY 19 N / GULF TO BAY BLVD": 6,
     "300 BLOCK CORONADO DR": 18,
     "23600 BLOCK US HIGHWAY 19 N": 4,
     "300 BLOCK MANDALAY AVE": 3,
     "JONES ST / FERN AVE": 1,
-    "1600 BLOCK GULF TO BAY BLVD": 21,
+    "1600 BLOCK GULF TO BAY BLVD": 22,
     "1600 BLOCK DARTMOUTH ST": 1,
     "HAMDEN DR / BRIGHTWATER DR": 3,
     "HAMPTON RD / GULF TO BAY BLVD": 2,
@@ -1148,7 +1148,9 @@
     "TURNER ST / S MYRTLE AVE": 1,
     "2800 BLOCK ST JOHN DR": 1,
     "1500 BLOCK GREENLEA DR": 1,
-    "25700 BLOCK US HIGHWAY 19 N": 1
+    "25700 BLOCK US HIGHWAY 19 N": 1,
+    "1900 BLOCK CALUMET ST": 1,
+    "3000 BLOCK MARLO BLVD": 1
   },
   "hourly_distribution": {
     "0": 85,
@@ -1169,7 +1171,7 @@
     "15": 163,
     "16": 158,
     "17": 157,
-    "18": 122,
+    "18": 127,
     "19": 34,
     "20": 45,
     "21": 46,
@@ -1177,7 +1179,7 @@
     "23": 73
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-09T23:40:15.711859+00:00",
+  "last_updated": "2025-12-09T23:48:29.799724+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 816
+  "total_snapshots": 817
 }
