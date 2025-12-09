@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 2240,
-  "total_resolved": 2232,
+  "total_calls_tracked": 2246,
+  "total_resolved": 2238,
   "call_types": {
-    "DIRECTED PATROL": 728,
-    "TRAFFIC STOP": 331,
+    "DIRECTED PATROL": 730,
+    "TRAFFIC STOP": 334,
     "DRUNK DRIVER": 7,
     "DISTURBANCE": 52,
     "BATTERY": 16,
@@ -28,7 +28,7 @@
     "ASSIST OTHER AGENCY": 42,
     "FIRE": 2,
     "FRAUD": 14,
-    "RECKLESS VEHICLE": 7,
+    "RECKLESS VEHICLE": 8,
     "JUVENILE CASE": 8,
     "HAZARD": 5,
     "UNKNOWN PROBLEM": 14,
@@ -70,7 +70,7 @@
     "1000 BLOCK WEST AVE": 2,
     "600 BLOCK S GULFVIEW BLVD": 10,
     "-800 BLOCK 1099 MARSHALL ST": 1,
-    "US HIGHWAY 19 N / DREW ST": 17,
+    "US HIGHWAY 19 N / DREW ST": 18,
     "US HIGHWAY 19 N / SR 590": 7,
     "1100 BLOCK DRUID RD": 6,
     "2100 BLOCK RANGE RD": 1,
@@ -135,7 +135,7 @@
     "1400 BLOCK OWEN DR": 1,
     "200 BLOCK ISLAND WAY": 8,
     "-500 BLOCK BLK CLEVELAND ST": 3,
-    "0 BLOCK MEMORIAL CSWY": 17,
+    "0 BLOCK MEMORIAL CSWY": 18,
     "COUNTRYSIDE BLVD / NORTHRIDGE DR": 1,
     "NE COACHMAN RD / US HIGHWAY 19 N": 2,
     "LOTUS PATH / BAY AVE": 1,
@@ -214,7 +214,7 @@
     "23600 BLOCK US HIGHWAY 19 N": 4,
     "300 BLOCK MANDALAY AVE": 3,
     "JONES ST / FERN AVE": 1,
-    "1600 BLOCK GULF TO BAY BLVD": 17,
+    "1600 BLOCK GULF TO BAY BLVD": 18,
     "1600 BLOCK DARTMOUTH ST": 1,
     "HAMDEN DR / BRIGHTWATER DR": 2,
     "HAMPTON RD / GULF TO BAY BLVD": 2,
@@ -1085,7 +1085,10 @@
     "300 BLOCK FAIRWOOD AVE": 1,
     "AIRPORT DR / N KEENE RD": 1,
     "2500 BLOCK SWEETGUM WAY W": 1,
-    "S KEYSTONE AVE / GULF TO BAY BLVD": 1
+    "S KEYSTONE AVE / GULF TO BAY BLVD": 1,
+    "-400 BLOCK 499 GUNN AVE": 1,
+    "1400 BLOCK ALPINE RD": 1,
+    "COURT ST / S LINCOLN AVE": 1
   },
   "hourly_distribution": {
     "0": 75,
@@ -1110,11 +1113,11 @@
     "19": 34,
     "20": 45,
     "21": 46,
-    "22": 96,
-    "23": 65
+    "22": 97,
+    "23": 70
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-09T04:00:38.531136+00:00",
+  "last_updated": "2025-12-09T04:36:19.601834+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 751
+  "total_snapshots": 752
 }
