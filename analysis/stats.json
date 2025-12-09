@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 2286,
-  "total_resolved": 2284,
+  "total_calls_tracked": 2291,
+  "total_resolved": 2285,
   "call_types": {
-    "DIRECTED PATROL": 744,
+    "DIRECTED PATROL": 748,
     "TRAFFIC STOP": 338,
     "DRUNK DRIVER": 7,
     "DISTURBANCE": 54,
@@ -17,7 +17,7 @@
     "PROPERTY FOUND/LOST": 15,
     "THEFT": 29,
     "NEIGHBOR CALL": 12,
-    "911 HANG-UP": 90,
+    "911 HANG-UP": 91,
     "SUSPICIOUS VEHICLE": 16,
     "PANHANDLER/SOLICITOR": 4,
     "VEHICLE ILLEGALLY PARKED": 6,
@@ -86,7 +86,7 @@
     "0 BLOCK CAUSEWAY BLVD": 19,
     "400 BLOCK FAIRWOOD AVE": 4,
     "500 BLOCK S FORT HARRISON AVE": 8,
-    "26000 BLOCK US HIGHWAY 19 N": 5,
+    "26000 BLOCK US HIGHWAY 19 N": 6,
     "1300 BLOCK S BELCHER RD": 11,
     "200 BLOCK WINDWARD PSGE": 4,
     "2700 BLOCK DREW ST": 1,
@@ -542,7 +542,7 @@
     "US HIGHWAY 19 N / SEVILLE BLVD": 2,
     "WOODBINE ST / ROLLEN RD": 1,
     "3000 BLOCK WOODSONG LN": 1,
-    "2500 BLOCK MCMULLEN BOOTH RD": 2,
+    "2500 BLOCK MCMULLEN BOOTH RD": 3,
     "2600 BLOCK SR 590": 2,
     "2400 BLOCK GULF TO BAY BLVD": 5,
     "2800 BLOCK MCMULLEN BOOTH RD": 1,
@@ -1097,7 +1097,10 @@
     "200 BLOCK S OSCEOLA AVE": 1,
     "600 BLOCK ERMINE ST": 1,
     "-800 BLOCK 818 NARCISSUS AVE": 1,
-    "0 BLOCK 99 ISLAND WAY": 1
+    "0 BLOCK 99 ISLAND WAY": 1,
+    "800 BLOCK S GULFVIEW BLVD": 1,
+    "UNION ST / DOUGLAS AVE": 1,
+    "1400 BLOCK BLOCK S BELCHER": 1
   },
   "hourly_distribution": {
     "0": 85,
@@ -1107,7 +1110,7 @@
     "4": 25,
     "5": 63,
     "6": 79,
-    "7": 54,
+    "7": 59,
     "8": 130,
     "9": 153,
     "10": 143,
@@ -1126,7 +1129,7 @@
     "23": 73
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-09T12:17:49.375145+00:00",
+  "last_updated": "2025-12-09T13:07:24.894444+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 777
+  "total_snapshots": 778
 }
