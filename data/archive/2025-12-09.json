@@ -2715,6 +2715,84 @@
           "Response_Date": "2025-12-09T17:45:14"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-09T23:29:23.654061+00:00",
+      "call_count": 12,
+      "calls": [
+        {
+          "Master_Incident_Number": "120925-00252",
+          "Online_Description": "BATTERY",
+          "Address": "800 BLOCK BAY ESPLANADE",
+          "Response_Date": "2025-12-09T12:22:49"
+        },
+        {
+          "Master_Incident_Number": "120925-00361",
+          "Online_Description": "TRAFFIC CRASH",
+          "Address": "2200 BLOCK DREW ST",
+          "Response_Date": "2025-12-09T16:43:25"
+        },
+        {
+          "Master_Incident_Number": "120925-00374",
+          "Online_Description": "SUSPICIOUS PERSON",
+          "Address": "600 BLOCK DRUID RD",
+          "Response_Date": "2025-12-09T17:05:15"
+        },
+        {
+          "Master_Incident_Number": "120925-00372",
+          "Online_Description": "ROBBERY",
+          "Address": "600 BLOCK S FORT HARRISON AVE",
+          "Response_Date": "2025-12-09T17:04:51"
+        },
+        {
+          "Master_Incident_Number": "120925-00378",
+          "Online_Description": "WELFARE CHECK",
+          "Address": "100 BLOCK N LADY MARY DR",
+          "Response_Date": "2025-12-09T17:11:01"
+        },
+        {
+          "Master_Incident_Number": "120925-00381",
+          "Online_Description": "TRAFFIC CRASH",
+          "Address": "US HIGHWAY 19 N / GULF TO BAY BLVD",
+          "Response_Date": "2025-12-09T17:17:59"
+        },
+        {
+          "Master_Incident_Number": "120925-00385",
+          "Online_Description": "BATTERY",
+          "Address": "1200 BLOCK SHERIDAN RD",
+          "Response_Date": "2025-12-09T17:26:12"
+        },
+        {
+          "Master_Incident_Number": "120925-00392",
+          "Online_Description": "SUSPICIOUS PERSON",
+          "Address": "TURNER ST / S MYRTLE AVE",
+          "Response_Date": "2025-12-09T17:33:25"
+        },
+        {
+          "Master_Incident_Number": "120925-00398",
+          "Online_Description": "911 HANG-UP",
+          "Address": "2200 BLOCK GULF TO BAY BLVD",
+          "Response_Date": "2025-12-09T17:36:22"
+        },
+        {
+          "Master_Incident_Number": "120925-00399",
+          "Online_Description": "HIT & RUN",
+          "Address": "2600 BLOCK GULF TO BAY BLVD",
+          "Response_Date": "2025-12-09T17:38:17"
+        },
+        {
+          "Master_Incident_Number": "120925-00410",
+          "Online_Description": "MISSING PERSON",
+          "Address": "2500 BLOCK HARN BLVD",
+          "Response_Date": "2025-12-09T17:58:05"
+        },
+        {
+          "Master_Incident_Number": "120925-00417",
+          "Online_Description": "911 HANG-UP",
+          "Address": "700 BLOCK BLANCHE B LITTLEJOHN TRL",
+          "Response_Date": "2025-12-09T18:03:11"
+        }
+      ]
     }
   ]
 }
