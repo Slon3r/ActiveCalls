@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 2246,
-  "total_resolved": 2238,
+  "total_calls_tracked": 2248,
+  "total_resolved": 2243,
   "call_types": {
     "DIRECTED PATROL": 730,
-    "TRAFFIC STOP": 334,
+    "TRAFFIC STOP": 335,
     "DRUNK DRIVER": 7,
     "DISTURBANCE": 52,
     "BATTERY": 16,
@@ -24,7 +24,7 @@
     "SUSPICIOUS EVENT": 44,
     "TRAFFIC CRASH": 89,
     "DISABLED VEHICLE": 17,
-    "ASSIST CITIZEN": 59,
+    "ASSIST CITIZEN": 60,
     "ASSIST OTHER AGENCY": 42,
     "FIRE": 2,
     "FRAUD": 14,
@@ -135,7 +135,7 @@
     "1400 BLOCK OWEN DR": 1,
     "200 BLOCK ISLAND WAY": 8,
     "-500 BLOCK BLK CLEVELAND ST": 3,
-    "0 BLOCK MEMORIAL CSWY": 18,
+    "0 BLOCK MEMORIAL CSWY": 19,
     "COUNTRYSIDE BLVD / NORTHRIDGE DR": 1,
     "NE COACHMAN RD / US HIGHWAY 19 N": 2,
     "LOTUS PATH / BAY AVE": 1,
@@ -315,7 +315,7 @@
     "DEVON DR  / CORONADO DR": 2,
     "600 BLOCK OLD COACHMAN RD": 2,
     "DREW ST / PINEWOOD AVE": 1,
-    "2800 BLOCK GULF TO BAY BLVD": 4,
+    "2800 BLOCK GULF TO BAY BLVD": 5,
     "19100 BLOCK US HIGHWAY 19 N": 2,
     "1200 BLOCK S HIGHLAND AVE": 12,
     "1200 BLOCK TURNER ST": 2,
@@ -1114,10 +1114,10 @@
     "20": 45,
     "21": 46,
     "22": 97,
-    "23": 70
+    "23": 72
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-09T04:36:19.601834+00:00",
+  "last_updated": "2025-12-09T04:53:00.697716+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 752
+  "total_snapshots": 753
 }

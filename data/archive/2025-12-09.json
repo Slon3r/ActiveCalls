@@ -216,6 +216,42 @@
           "Response_Date": "2025-12-08T23:15:46"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-09T04:53:00.696306+00:00",
+      "call_count": 5,
+      "calls": [
+        {
+          "Master_Incident_Number": "120825-00469",
+          "Online_Description": "DRUNK DRIVER",
+          "Address": "400 BLOCK BAY AVE",
+          "Response_Date": "2025-12-08T20:47:40"
+        },
+        {
+          "Master_Incident_Number": "120825-00498",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "MEMORIAL CSWY / ISLAND WAY",
+          "Response_Date": "2025-12-08T22:11:18"
+        },
+        {
+          "Master_Incident_Number": "120825-00522",
+          "Online_Description": "RECKLESS VEHICLE",
+          "Address": "1400 BLOCK ALPINE RD",
+          "Response_Date": "2025-12-08T23:10:50"
+        },
+        {
+          "Master_Incident_Number": "120825-00525",
+          "Online_Description": "ASSIST CITIZEN",
+          "Address": "2800 BLOCK GULF TO BAY BLVD",
+          "Response_Date": "2025-12-08T23:17:34"
+        },
+        {
+          "Master_Incident_Number": "120825-00527",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "0 BLOCK MEMORIAL CSWY",
+          "Response_Date": "2025-12-08T23:28:56"
+        }
+      ]
     }
   ]
 }
