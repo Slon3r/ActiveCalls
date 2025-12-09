@@ -1378,6 +1378,84 @@
           "Response_Date": "2025-12-09T11:17:27"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-09T17:00:28.351565+00:00",
+      "call_count": 12,
+      "calls": [
+        {
+          "Master_Incident_Number": "120925-00146",
+          "Online_Description": "SUSPICIOUS PERSON",
+          "Address": "200 BLOCK S HIGHLAND AVE",
+          "Response_Date": "2025-12-09T09:07:13"
+        },
+        {
+          "Master_Incident_Number": "120925-00192",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "1300 BLOCK S BELCHER RD",
+          "Response_Date": "2025-12-09T10:33:26"
+        },
+        {
+          "Master_Incident_Number": "120925-00217",
+          "Online_Description": "THEFT",
+          "Address": "900 BLOCK SEMINOLE ST",
+          "Response_Date": "2025-12-09T11:12:59"
+        },
+        {
+          "Master_Incident_Number": "120925-00214",
+          "Online_Description": "PARK WALK AND TALK",
+          "Address": "1300 BLOCK PINEBROOK DR",
+          "Response_Date": "2025-12-09T11:15:50"
+        },
+        {
+          "Master_Incident_Number": "120925-00215",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "200 BLOCK S GLENWOOD AVE",
+          "Response_Date": "2025-12-09T11:16:34"
+        },
+        {
+          "Master_Incident_Number": "120925-00216",
+          "Online_Description": "PROPERTY FOUND/LOST",
+          "Address": "PINELLAS TRAIL / BELLEAIR RD",
+          "Response_Date": "2025-12-09T11:17:27"
+        },
+        {
+          "Master_Incident_Number": "120925-00220",
+          "Online_Description": "ASSIST OTHER AGENCY",
+          "Address": "1400 BLOCK GULF BLVD",
+          "Response_Date": "2025-12-09T11:23:23"
+        },
+        {
+          "Master_Incident_Number": "120925-00222",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "27000 BLOCK US HIGHWAY 19 N",
+          "Response_Date": "2025-12-09T11:27:42"
+        },
+        {
+          "Master_Incident_Number": "120925-00226",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "2500 BLOCK COUNTRYSIDE BLVD",
+          "Response_Date": "2025-12-09T11:31:37"
+        },
+        {
+          "Master_Incident_Number": "120925-00228",
+          "Online_Description": "NEIGHBOR CALL",
+          "Address": "1100 BLOCK DRUID RD",
+          "Response_Date": "2025-12-09T11:32:41"
+        },
+        {
+          "Master_Incident_Number": "120925-00227",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "600 BLOCK OLD COACHMAN RD",
+          "Response_Date": "2025-12-09T11:33:00"
+        },
+        {
+          "Master_Incident_Number": "120925-00229",
+          "Online_Description": "SUSPICIOUS EVENT",
+          "Address": "600 BLOCK PIERCE ST",
+          "Response_Date": "2025-12-09T11:35:23"
+        }
+      ]
     }
   ]
 }
