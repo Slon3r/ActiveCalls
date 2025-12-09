@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 2364,
-  "total_resolved": 2353,
+  "total_calls_tracked": 2369,
+  "total_resolved": 2358,
   "call_types": {
-    "DIRECTED PATROL": 778,
-    "TRAFFIC STOP": 346,
+    "DIRECTED PATROL": 779,
+    "TRAFFIC STOP": 348,
     "DRUNK DRIVER": 7,
     "DISTURBANCE": 54,
     "BATTERY": 17,
@@ -25,7 +25,7 @@
     "TRAFFIC CRASH": 96,
     "DISABLED VEHICLE": 18,
     "ASSIST CITIZEN": 61,
-    "ASSIST OTHER AGENCY": 45,
+    "ASSIST OTHER AGENCY": 47,
     "FIRE": 2,
     "FRAUD": 14,
     "RECKLESS VEHICLE": 8,
@@ -108,7 +108,7 @@
     "MCMULLEN BOOTH RD / SR 590": 4,
     "LAKEVIEW RD / S MISSOURI AVE": 2,
     "2400 BLOCK MELLOW LN": 1,
-    "1200 BLOCK GULF BLVD": 11,
+    "1200 BLOCK GULF BLVD": 12,
     "1900 BLOCK N BELCHER RD": 2,
     "20100 BLOCK US HIGHWAY 19 N": 1,
     "CLEVELAND ST / N MAIN AVE": 1,
@@ -279,9 +279,9 @@
     "-200 BLOCK 298 WINDWARD PSGE": 1,
     "2600 BLOCK LANDMARK DR": 3,
     "1400 BLOCK N BETTY LN": 6,
-    "CLEVELAND ST / S MADISON AVE": 2,
+    "CLEVELAND ST / S MADISON AVE": 3,
     "900 BLOCK BAY ESPLANADE": 2,
-    "3000 BLOCK EASTLAND BLVD": 3,
+    "3000 BLOCK EASTLAND BLVD": 4,
     "-2300 BLOCK 2373 GULF TO BAY BLVD": 1,
     "1800 BLOCK MONTCLAIR RD": 2,
     "20500 BLOCK US HIGHWAY 19 N": 9,
@@ -635,7 +635,7 @@
     "COURT ST / S HILLCREST AVE": 1,
     "100 BLOCK N BELCHER RD": 2,
     "S SAN REMO AVE / GULF TO BAY BLVD": 1,
-    "S BELCHER RD / GULF TO BAY BLVD": 4,
+    "S BELCHER RD / GULF TO BAY BLVD": 5,
     "0 BLOCK N BELCHER RD": 1,
     "HARN BLVD / FLUSHING AVE": 2,
     "2800 BLOCK MEADOW HILL DR S": 2,
@@ -1124,7 +1124,8 @@
     "500 BLOCK BROOKSIDE DR": 1,
     "PIERCE ST / S MADISON AVE": 1,
     "1200 BLOCK DRUID RD": 1,
-    "1900 BLOCK CLEARVIEW LAKE DR": 1
+    "1900 BLOCK CLEARVIEW LAKE DR": 1,
+    "FAIRWOOD AVE / APPLEWOOD DR": 1
   },
   "hourly_distribution": {
     "0": 85,
@@ -1140,7 +1141,7 @@
     "10": 156,
     "11": 143,
     "12": 145,
-    "13": 141,
+    "13": 146,
     "14": 156,
     "15": 152,
     "16": 148,
@@ -1153,7 +1154,7 @@
     "23": 73
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-09T18:58:16.220868+00:00",
+  "last_updated": "2025-12-09T19:16:41.607314+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 795
+  "total_snapshots": 796
 }
