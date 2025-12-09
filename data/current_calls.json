@@ -1,30 +1,5 @@
 {
-  "calls": [
-    {
-      "Master_Incident_Number": "120825-00498",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "MEMORIAL CSWY / ISLAND WAY",
-      "Response_Date": "2025-12-08T22:11:18"
-    },
-    {
-      "Master_Incident_Number": "120925-00006",
-      "Online_Description": "TRAFFIC CRASH",
-      "Address": "US HIGHWAY 19 N / COUNTRYSIDE BLVD",
-      "Response_Date": "2025-12-09T00:13:29"
-    },
-    {
-      "Master_Incident_Number": "120925-00011",
-      "Online_Description": "DISTURBANCE",
-      "Address": "900 BLOCK WOODLEY RD",
-      "Response_Date": "2025-12-09T00:35:43"
-    },
-    {
-      "Master_Incident_Number": "120925-00012",
-      "Online_Description": "TRAFFIC CRASH",
-      "Address": "PALMETTO ST / HOLT AVE",
-      "Response_Date": "2025-12-09T00:37:06"
-    }
-  ],
-  "timestamp": "2025-12-09T06:26:57.181550+00:00",
-  "count": 4
+  "calls": [],
+  "timestamp": "2025-12-09T06:54:06.675054+00:00",
+  "count": 0
 }
