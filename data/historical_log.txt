@@ -10984,3 +10984,12 @@ TOTAL ACTIVE CALLS: 3
 
 --- RESOLVED CALLS (1) ---
 [RESOLVED] 120925-00024 | 911 HANG-UP | 2000 BLOCK KINGS HWY | Response: 02:00 AM
+
+================================================================================
+TIMESTAMP: 2025-12-09T07:53:53.532688+00:00
+TOTAL ACTIVE CALLS: 1
+================================================================================
+
+--- RESOLVED CALLS (2) ---
+[RESOLVED] 120925-00013 | HIT & RUN | N KEENE RD / DREW ST | Response: 12:39 AM
+[RESOLVED] 120925-00015 | HIT & RUN | 1100 BLOCK MARSHALL ST | Response: 12:50 AM
