@@ -1,11 +1,11 @@
 {
-  "total_calls_tracked": 2252,
+  "total_calls_tracked": 2256,
   "total_resolved": 2252,
   "call_types": {
-    "DIRECTED PATROL": 730,
+    "DIRECTED PATROL": 731,
     "TRAFFIC STOP": 336,
     "DRUNK DRIVER": 7,
-    "DISTURBANCE": 52,
+    "DISTURBANCE": 53,
     "BATTERY": 16,
     "CRIMINAL MISCHIEF": 12,
     "ALARM": 32,
@@ -22,7 +22,7 @@
     "PANHANDLER/SOLICITOR": 4,
     "VEHICLE ILLEGALLY PARKED": 6,
     "SUSPICIOUS EVENT": 44,
-    "TRAFFIC CRASH": 90,
+    "TRAFFIC CRASH": 92,
     "DISABLED VEHICLE": 17,
     "ASSIST CITIZEN": 60,
     "ASSIST OTHER AGENCY": 43,
@@ -63,7 +63,7 @@
     "WEAPONS VIOLATION": 1
   },
   "addresses": {
-    "MEMORIAL CSWY / ISLAND WAY": 20,
+    "MEMORIAL CSWY / ISLAND WAY": 21,
     "GULF TO BAY BLVD / S BELCHER RD": 5,
     "1900 BLOCK N BETTY LN": 1,
     "1400 BLOCK CLEVELAND ST": 2,
@@ -221,7 +221,7 @@
     "N HIGHLAND AVE / SUNSET POINT RD": 3,
     "1100 BLOCK TANGERINE ST": 1,
     "N HERCULES AVE / SUNSET POINT RD": 2,
-    "US HIGHWAY 19 N / COUNTRYSIDE BLVD": 3,
+    "US HIGHWAY 19 N / COUNTRYSIDE BLVD": 4,
     "900 BLOCK TURNER ST": 1,
     "N HERCULES AVE / CALUMET ST": 1,
     "3100 BLOCK WOLFE RD": 1,
@@ -1090,10 +1090,12 @@
     "1400 BLOCK ALPINE RD": 1,
     "COURT ST / S LINCOLN AVE": 1,
     "N FORT HARRISON AVE / CLEVELAND ST": 1,
-    "1100 BLOCK SEMINOLE ST": 1
+    "1100 BLOCK SEMINOLE ST": 1,
+    "900 BLOCK WOODLEY RD": 1,
+    "PALMETTO ST / HOLT AVE": 1
   },
   "hourly_distribution": {
-    "0": 78,
+    "0": 81,
     "1": 68,
     "2": 45,
     "3": 35,
@@ -1115,11 +1117,11 @@
     "19": 34,
     "20": 45,
     "21": 46,
-    "22": 97,
+    "22": 98,
     "23": 73
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-09T05:56:06.687823+00:00",
+  "last_updated": "2025-12-09T06:26:57.183081+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 757
+  "total_snapshots": 758
 }
