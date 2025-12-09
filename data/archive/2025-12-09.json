@@ -1,0 +1,29 @@
+{
+  "date": "2025-12-09",
+  "snapshots": [
+    {
+      "timestamp": "2025-12-09T00:00:03.275114+00:00",
+      "call_count": 3,
+      "calls": [
+        {
+          "Master_Incident_Number": "120825-00387",
+          "Online_Description": "KEEP THE PEACE",
+          "Address": "2800 BLOCK COUNTRYSIDE BLVD",
+          "Response_Date": "2025-12-08T17:44:25"
+        },
+        {
+          "Master_Incident_Number": "120825-00408",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "200 BLOCK ISLAND WAY",
+          "Response_Date": "2025-12-08T18:24:45"
+        },
+        {
+          "Master_Incident_Number": "120825-00410",
+          "Online_Description": "MISSING PERSON",
+          "Address": "S MISSOURI AVE / LAKEVIEW RD",
+          "Response_Date": "2025-12-08T18:28:24"
+        }
+      ]
+    }
+  ]
+}
