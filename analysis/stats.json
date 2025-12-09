@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 2297,
-  "total_resolved": 2288,
+  "total_calls_tracked": 2301,
+  "total_resolved": 2292,
   "call_types": {
-    "DIRECTED PATROL": 748,
-    "TRAFFIC STOP": 339,
+    "DIRECTED PATROL": 749,
+    "TRAFFIC STOP": 341,
     "DRUNK DRIVER": 7,
     "DISTURBANCE": 54,
     "BATTERY": 16,
@@ -31,7 +31,7 @@
     "RECKLESS VEHICLE": 8,
     "JUVENILE CASE": 8,
     "HAZARD": 7,
-    "UNKNOWN PROBLEM": 14,
+    "UNKNOWN PROBLEM": 15,
     "NOISE COMPLAINT": 9,
     "CIVIL MATTER": 12,
     "DOMESTIC": 18,
@@ -63,7 +63,7 @@
     "WEAPONS VIOLATION": 1
   },
   "addresses": {
-    "MEMORIAL CSWY / ISLAND WAY": 21,
+    "MEMORIAL CSWY / ISLAND WAY": 22,
     "GULF TO BAY BLVD / S BELCHER RD": 5,
     "1900 BLOCK N BETTY LN": 1,
     "1400 BLOCK CLEVELAND ST": 2,
@@ -95,7 +95,7 @@
     "-1400 BLOCK 1417 S MISSOURI AVE": 1,
     "1000 BLOCK GULF BLVD": 24,
     "1400 BLOCK LAURA ST": 4,
-    "ENTERPRISE RD E / VILLAGE DR": 2,
+    "ENTERPRISE RD E / VILLAGE DR": 3,
     "GULF TO BAY BLVD / HAMPTON RD": 1,
     "2100 BLOCK GULF TO BAY BLVD": 22,
     "1300 BLOCK CLEVELAND ST": 11,
@@ -198,7 +198,7 @@
     "300 BLOCK S GULFVIEW BLVD": 11,
     "500 BLOCK S HIGHLAND AVE": 1,
     "1700 BLOCK KINGS HWY": 2,
-    "500 BLOCK MANDALAY AVE": 8,
+    "500 BLOCK MANDALAY AVE": 9,
     "3000 BLOCK HAVERFORD DR": 2,
     "DREW ST / OLD COACHMAN RD": 3,
     "2500 BLOCK HARN BLVD": 23,
@@ -658,7 +658,7 @@
     "LEILA DAVIS ELEMENTARY": 1,
     "300 BLOCK S BELCHER RD": 1,
     "RAINBOW DR / S MAIN AVE": 1,
-    "3000 BLOCK SR 580": 1,
+    "3000 BLOCK SR 580": 2,
     "2600 BLOCK ENTERPRISE RD": 1,
     "MARILYN ST / NE COACHMAN RD": 1,
     "2100 BLOCK ELYSIUM BLVD": 1,
@@ -1113,7 +1113,7 @@
     "5": 63,
     "6": 79,
     "7": 59,
-    "8": 136,
+    "8": 140,
     "9": 153,
     "10": 143,
     "11": 127,
@@ -1131,7 +1131,7 @@
     "23": 73
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-09T13:46:01.786818+00:00",
+  "last_updated": "2025-12-09T13:58:07.595799+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 779
+  "total_snapshots": 780
 }
