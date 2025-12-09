@@ -1,11 +1,11 @@
 {
-  "total_calls_tracked": 2389,
-  "total_resolved": 2384,
+  "total_calls_tracked": 2391,
+  "total_resolved": 2386,
   "call_types": {
     "DIRECTED PATROL": 788,
-    "TRAFFIC STOP": 353,
+    "TRAFFIC STOP": 354,
     "DRUNK DRIVER": 7,
-    "DISTURBANCE": 54,
+    "DISTURBANCE": 55,
     "BATTERY": 17,
     "CRIMINAL MISCHIEF": 12,
     "ALARM": 35,
@@ -724,7 +724,7 @@
     "N GARDEN AVE / DREW ST": 1,
     "-400 BLOCK 499 POINSETTIA AVE": 1,
     "BAYVIEW AVE / GULF TO BAY BLVD": 1,
-    "N BELCHER RD / DREW ST": 1,
+    "N BELCHER RD / DREW ST": 2,
     "2500 BLOCK KNOTTY PINE WAY": 1,
     "400 BLOCK TURNER ST": 2,
     "SR 580 / CHARLES AVE": 1,
@@ -1129,7 +1129,8 @@
     "500 BLOCK BLK OF S FT HARRISON": 1,
     "DOUGLAS AVE / RUSSELL ST": 1,
     "N BETTY LN / PALMETTO ST": 1,
-    "-2100 BLOCK 2179 NE COACHMAN RD": 1
+    "-2100 BLOCK 2179 NE COACHMAN RD": 1,
+    "1200 BLOCK SANTA ROSA ST": 1
   },
   "hourly_distribution": {
     "0": 85,
@@ -1147,7 +1148,7 @@
     "12": 145,
     "13": 147,
     "14": 171,
-    "15": 156,
+    "15": 158,
     "16": 148,
     "17": 133,
     "18": 117,
@@ -1158,7 +1159,7 @@
     "23": 73
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-09T20:51:57.019134+00:00",
+  "last_updated": "2025-12-09T21:00:03.252491+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 804
+  "total_snapshots": 805
 }
