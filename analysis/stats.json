@@ -1,6 +1,6 @@
 {
-  "total_calls_tracked": 2371,
-  "total_resolved": 2362,
+  "total_calls_tracked": 2373,
+  "total_resolved": 2364,
   "call_types": {
     "DIRECTED PATROL": 781,
     "TRAFFIC STOP": 348,
@@ -11,10 +11,10 @@
     "ALARM": 35,
     "KEEP THE PEACE": 30,
     "WELFARE CHECK": 51,
-    "PARK WALK AND TALK": 200,
+    "PARK WALK AND TALK": 201,
     "SUSPICIOUS PERSON": 91,
     "TRESPASS": 54,
-    "PROPERTY FOUND/LOST": 18,
+    "PROPERTY FOUND/LOST": 19,
     "THEFT": 31,
     "NEIGHBOR CALL": 13,
     "911 HANG-UP": 94,
@@ -750,7 +750,7 @@
     "1900 BLOCK E SKYLINE DR": 1,
     "-2700 BLOCK BLK LANDMARK DR": 1,
     "0 BLOCK SAND KEY PARKING": 3,
-    "200 BLOCK DORY PSGE": 1,
+    "200 BLOCK DORY PSGE": 2,
     "100 BLOCK PIERCE ST": 1,
     "COUNTRYSIDE BLVD / BRAELOCH CIR W": 1,
     "2300 BLOCK SUNSET POINT RD": 2,
@@ -1022,7 +1022,7 @@
     "0 BLOCK GLENDALE ST": 1,
     "800 BLOCK LANTERN WAY": 2,
     "GULF TO BAY BLVD / S HERCULES AVE": 1,
-    "1400 BLOCK BARBARA AVE": 1,
+    "1400 BLOCK BARBARA AVE": 2,
     "800 BLOCK PINELLAS ST": 1,
     "N BETTY LN / DREW ST": 1,
     "BRIGHTWATER DR / HAMDEN DR": 2,
@@ -1142,7 +1142,7 @@
     "11": 143,
     "12": 145,
     "13": 147,
-    "14": 157,
+    "14": 159,
     "15": 152,
     "16": 148,
     "17": 133,
@@ -1154,7 +1154,7 @@
     "23": 73
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-09T19:27:05.889971+00:00",
+  "last_updated": "2025-12-09T19:37:37.952796+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 797
+  "total_snapshots": 798
 }

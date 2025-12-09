@@ -7,12 +7,6 @@
       "Response_Date": "2025-12-09T12:25:32"
     },
     {
-      "Master_Incident_Number": "120925-00267",
-      "Online_Description": "KEEP THE PEACE",
-      "Address": "1400 BLOCK S MARTIN LUTHER KING JR AVE",
-      "Response_Date": "2025-12-09T12:49:30"
-    },
-    {
       "Master_Incident_Number": "120925-00275",
       "Online_Description": "WELFARE CHECK",
       "Address": "500 BLOCK BROOKSIDE DR",
@@ -37,12 +31,6 @@
       "Response_Date": "2025-12-09T13:34:57"
     },
     {
-      "Master_Incident_Number": "120925-00287",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "CLEVELAND ST / S MADISON AVE",
-      "Response_Date": "2025-12-09T13:42:45"
-    },
-    {
       "Master_Incident_Number": "120925-00293",
       "Online_Description": "DIRECTED PATROL",
       "Address": "S MADISON AVE / PIERCE ST",
@@ -53,8 +41,20 @@
       "Online_Description": "DIRECTED PATROL",
       "Address": "900 BLOCK N MARTIN LUTHER KING JR AVE",
       "Response_Date": "2025-12-09T14:03:03"
+    },
+    {
+      "Master_Incident_Number": "120925-00297",
+      "Online_Description": "PARK WALK AND TALK",
+      "Address": "200 BLOCK DORY PSGE",
+      "Response_Date": "2025-12-09T14:07:40"
+    },
+    {
+      "Master_Incident_Number": "120925-00298",
+      "Online_Description": "PROPERTY FOUND/LOST",
+      "Address": "1400 BLOCK BARBARA AVE",
+      "Response_Date": "2025-12-09T14:07:50"
     }
   ],
-  "timestamp": "2025-12-09T19:27:05.886770+00:00",
+  "timestamp": "2025-12-09T19:37:37.949493+00:00",
   "count": 9
 }
