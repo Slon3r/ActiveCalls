@@ -19,42 +19,54 @@
       "Response_Date": "2025-12-09T08:03:16"
     },
     {
-      "Master_Incident_Number": "120925-00103",
-      "Online_Description": "ANIMAL CASE",
-      "Address": "1300 BLOCK N MARTIN LUTHER KING JR AVE",
-      "Response_Date": "2025-12-09T08:06:13"
-    },
-    {
-      "Master_Incident_Number": "120925-00106",
-      "Online_Description": "SUSPICIOUS EVENT",
-      "Address": "HOMEWOOD ST / HOLLYWOOD AVE",
-      "Response_Date": "2025-12-09T08:19:57"
-    },
-    {
-      "Master_Incident_Number": "120925-00112",
-      "Online_Description": "UNKNOWN PROBLEM",
-      "Address": "3000 BLOCK SR 580",
-      "Response_Date": "2025-12-09T08:25:48"
-    },
-    {
-      "Master_Incident_Number": "120925-00114",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "500 BLOCK MANDALAY AVE",
-      "Response_Date": "2025-12-09T08:26:51"
-    },
-    {
-      "Master_Incident_Number": "120925-00115",
-      "Online_Description": "TRAFFIC STOP",
-      "Address": "ENTERPRISE RD E / VILLAGE DR",
-      "Response_Date": "2025-12-09T08:28:32"
-    },
-    {
       "Master_Incident_Number": "120925-00120",
       "Online_Description": "TRAFFIC STOP",
       "Address": "MEMORIAL CSWY / ISLAND WAY",
       "Response_Date": "2025-12-09T08:36:46"
+    },
+    {
+      "Master_Incident_Number": "120925-00124",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "SAND KEY PARK ENTRANCE",
+      "Response_Date": "2025-12-09T08:44:28"
+    },
+    {
+      "Master_Incident_Number": "120925-00126",
+      "Online_Description": "THEFT",
+      "Address": "1400 BLOCK S BELCHER RD",
+      "Response_Date": "2025-12-09T08:45:06"
+    },
+    {
+      "Master_Incident_Number": "120925-00128",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "800 BLOCK DREW ST",
+      "Response_Date": "2025-12-09T08:48:37"
+    },
+    {
+      "Master_Incident_Number": "120925-00131",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "2400 BLOCK HARN BLVD",
+      "Response_Date": "2025-12-09T08:51:39"
+    },
+    {
+      "Master_Incident_Number": "120925-00135",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "2900 BLOCK DREW ST",
+      "Response_Date": "2025-12-09T08:53:48"
+    },
+    {
+      "Master_Incident_Number": "120925-00136",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "1700 BLOCK DREW ST",
+      "Response_Date": "2025-12-09T08:54:50"
+    },
+    {
+      "Master_Incident_Number": "120925-00141",
+      "Online_Description": "TRAFFIC STOP",
+      "Address": "2200 BLOCK HENNESEN DR",
+      "Response_Date": "2025-12-09T08:59:40"
     }
   ],
-  "timestamp": "2025-12-09T13:58:07.592913+00:00",
-  "count": 9
+  "timestamp": "2025-12-09T14:24:38.903673+00:00",
+  "count": 11
 }
