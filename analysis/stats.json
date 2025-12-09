@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 2308,
-  "total_resolved": 2297,
+  "total_calls_tracked": 2314,
+  "total_resolved": 2305,
   "call_types": {
-    "DIRECTED PATROL": 754,
-    "TRAFFIC STOP": 342,
+    "DIRECTED PATROL": 756,
+    "TRAFFIC STOP": 344,
     "DRUNK DRIVER": 7,
     "DISTURBANCE": 54,
     "BATTERY": 16,
@@ -24,7 +24,7 @@
     "SUSPICIOUS EVENT": 45,
     "TRAFFIC CRASH": 93,
     "DISABLED VEHICLE": 18,
-    "ASSIST CITIZEN": 60,
+    "ASSIST CITIZEN": 61,
     "ASSIST OTHER AGENCY": 44,
     "FIRE": 2,
     "FRAUD": 14,
@@ -60,10 +60,11 @@
     "PROTEST/DEMONSTRATION": 2,
     "SHOOTING": 1,
     "HOMICIDE": 1,
-    "WEAPONS VIOLATION": 1
+    "WEAPONS VIOLATION": 1,
+    "OPEN DOOR/WINDOW": 1
   },
   "addresses": {
-    "MEMORIAL CSWY / ISLAND WAY": 22,
+    "MEMORIAL CSWY / ISLAND WAY": 23,
     "GULF TO BAY BLVD / S BELCHER RD": 5,
     "1900 BLOCK N BETTY LN": 1,
     "1400 BLOCK CLEVELAND ST": 2,
@@ -101,7 +102,7 @@
     "1300 BLOCK CLEVELAND ST": 11,
     "2100 BLOCK BELCHER RD": 1,
     "SAND KEY PARK ENTRANCE": 6,
-    "S MISSOURI AVE / LAKEVIEW RD": 5,
+    "S MISSOURI AVE / LAKEVIEW RD": 6,
     "23100 BLOCK US HIGHWAY 19 N": 10,
     "1200 BLOCK N BETTY LN": 1,
     "MCMULLEN BOOTH RD / SR 590": 4,
@@ -114,7 +115,7 @@
     "S MISSOURI AVE / KINGSLEY ST": 2,
     "2200 BLOCK GULF TO BAY BLVD": 8,
     "CLEVELAND ST/S MADISON AVE": 2,
-    "2700 BLOCK GULF TO BAY BLVD": 20,
+    "2700 BLOCK GULF TO BAY BLVD": 21,
     "1400 BLOCK N HIBISCUS ST": 1,
     "2900 BLOCK DREW ST": 7,
     "21200 BLOCK US HIGHWAY 19 N": 5,
@@ -152,7 +153,7 @@
     "1100 BLOCK COURT ST": 4,
     "-1300 BLOCK BLK ADMIRAL WOODSON LN": 1,
     "19300 BLOCK US HIGHWAY 19 N": 2,
-    "600 BLOCK PIERCE ST": 18,
+    "600 BLOCK PIERCE ST": 19,
     "0 BLOCK 99 THIRD ST": 6,
     "0 BLOCK 98 THIRD ST": 5,
     "100 BLOCK HAMPTON RD": 4,
@@ -646,7 +647,7 @@
     "800 BLOCK WOODLAWN LOOP": 2,
     "800 BLOCK HARBOR IS": 2,
     "RIDGE TOP WAY / MISTY PLATEAU TRL": 1,
-    "800 BLOCK DREW ST": 2,
+    "800 BLOCK DREW ST": 3,
     "OLD COACHMAN RD / DREW ST": 4,
     "900 BLOCK CARLTON ST": 1,
     "1200 BLOCK S MYRTLE AVE": 1,
@@ -1103,7 +1104,8 @@
     "1400 BLOCK BLOCK S BELCHER": 1,
     "EASTLAND BLVD / MCMULLEN BOOTH RD": 1,
     "HOMEWOOD ST / HOLLYWOOD AVE": 1,
-    "2200 BLOCK HENNESEN DR": 1
+    "2200 BLOCK HENNESEN DR": 1,
+    "200 BLOCK S HIGHLAND AVE": 1
   },
   "hourly_distribution": {
     "0": 85,
@@ -1115,7 +1117,7 @@
     "6": 79,
     "7": 59,
     "8": 147,
-    "9": 153,
+    "9": 159,
     "10": 143,
     "11": 127,
     "12": 136,
@@ -1132,7 +1134,7 @@
     "23": 73
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-09T14:24:38.905937+00:00",
+  "last_updated": "2025-12-09T14:46:04.300245+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 781
+  "total_snapshots": 782
 }
