@@ -13,12 +13,6 @@
       "Response_Date": "2025-12-09T16:43:25"
     },
     {
-      "Master_Incident_Number": "120925-00374",
-      "Online_Description": "SUSPICIOUS PERSON",
-      "Address": "600 BLOCK DRUID RD",
-      "Response_Date": "2025-12-09T17:05:15"
-    },
-    {
       "Master_Incident_Number": "120925-00372",
       "Online_Description": "ROBBERY",
       "Address": "600 BLOCK S FORT HARRISON AVE",
@@ -29,12 +23,6 @@
       "Online_Description": "WELFARE CHECK",
       "Address": "100 BLOCK N LADY MARY DR",
       "Response_Date": "2025-12-09T17:11:01"
-    },
-    {
-      "Master_Incident_Number": "120925-00381",
-      "Online_Description": "TRAFFIC CRASH",
-      "Address": "US HIGHWAY 19 N / GULF TO BAY BLVD",
-      "Response_Date": "2025-12-09T17:17:59"
     },
     {
       "Master_Incident_Number": "120925-00385",
@@ -49,16 +37,10 @@
       "Response_Date": "2025-12-09T17:33:25"
     },
     {
-      "Master_Incident_Number": "120925-00398",
-      "Online_Description": "911 HANG-UP",
-      "Address": "2200 BLOCK GULF TO BAY BLVD",
-      "Response_Date": "2025-12-09T17:36:22"
-    },
-    {
-      "Master_Incident_Number": "120925-00399",
-      "Online_Description": "HIT & RUN",
-      "Address": "2600 BLOCK GULF TO BAY BLVD",
-      "Response_Date": "2025-12-09T17:38:17"
+      "Master_Incident_Number": "120925-00408",
+      "Online_Description": "ASSIST CITIZEN",
+      "Address": "2800 BLOCK ST JOHN DR",
+      "Response_Date": "2025-12-09T17:52:30"
     },
     {
       "Master_Incident_Number": "120925-00410",
@@ -67,12 +49,30 @@
       "Response_Date": "2025-12-09T17:58:05"
     },
     {
-      "Master_Incident_Number": "120925-00417",
-      "Online_Description": "911 HANG-UP",
-      "Address": "700 BLOCK BLANCHE B LITTLEJOHN TRL",
-      "Response_Date": "2025-12-09T18:03:11"
+      "Master_Incident_Number": "120925-00416",
+      "Online_Description": "TRAFFIC CRASH",
+      "Address": "SR 580 / LANDMARK DR",
+      "Response_Date": "2025-12-09T18:01:31"
+    },
+    {
+      "Master_Incident_Number": "120925-00422",
+      "Online_Description": "ASSIST OTHER AGENCY",
+      "Address": "1500 BLOCK GREENLEA DR",
+      "Response_Date": "2025-12-09T18:14:37"
+    },
+    {
+      "Master_Incident_Number": "120925-00424",
+      "Online_Description": "TRAFFIC STOP",
+      "Address": "25700 BLOCK US HIGHWAY 19 N",
+      "Response_Date": "2025-12-09T18:18:15"
+    },
+    {
+      "Master_Incident_Number": "120925-00425",
+      "Online_Description": "DISTURBANCE",
+      "Address": "MEMORIAL CSWY",
+      "Response_Date": "2025-12-09T18:18:18"
     }
   ],
-  "timestamp": "2025-12-09T23:29:23.654061+00:00",
+  "timestamp": "2025-12-09T23:40:15.707526+00:00",
   "count": 12
 }
