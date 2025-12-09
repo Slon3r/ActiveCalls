@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 2316,
-  "total_resolved": 2310,
+  "total_calls_tracked": 2319,
+  "total_resolved": 2313,
   "call_types": {
-    "DIRECTED PATROL": 758,
+    "DIRECTED PATROL": 760,
     "TRAFFIC STOP": 344,
     "DRUNK DRIVER": 7,
     "DISTURBANCE": 54,
@@ -36,7 +36,7 @@
     "CIVIL MATTER": 12,
     "DOMESTIC": 18,
     "ANIMAL CASE": 12,
-    "MISSING PERSON": 24,
+    "MISSING PERSON": 25,
     "BUILDING CHECK": 5,
     "SHOPLIFTING": 12,
     "DECEASED PERSON": 2,
@@ -215,7 +215,7 @@
     "23600 BLOCK US HIGHWAY 19 N": 4,
     "300 BLOCK MANDALAY AVE": 3,
     "JONES ST / FERN AVE": 1,
-    "1600 BLOCK GULF TO BAY BLVD": 19,
+    "1600 BLOCK GULF TO BAY BLVD": 20,
     "1600 BLOCK DARTMOUTH ST": 1,
     "HAMDEN DR / BRIGHTWATER DR": 3,
     "HAMPTON RD / GULF TO BAY BLVD": 2,
@@ -838,7 +838,7 @@
     "3300 BLOCK BLK- MASTERS DR": 1,
     "GULF BLVD / MARINA DEL REY CT": 1,
     "SKY HARBOR DR / GULF TO BAY BLVD": 1,
-    "2000 BLOCK KINGS HWY": 2,
+    "2000 BLOCK KINGS HWY": 3,
     "100 BLOCK KILMER AVE": 1,
     "100 BLOCK CORONADO DR": 1,
     "N FORT HARRISON AVE / SUNSET POINT RD": 1,
@@ -1105,7 +1105,8 @@
     "EASTLAND BLVD / MCMULLEN BOOTH RD": 1,
     "HOMEWOOD ST / HOLLYWOOD AVE": 1,
     "2200 BLOCK HENNESEN DR": 1,
-    "200 BLOCK S HIGHLAND AVE": 1
+    "200 BLOCK S HIGHLAND AVE": 1,
+    "1000 BLOCK BAY ESPLANADE": 1
   },
   "hourly_distribution": {
     "0": 85,
@@ -1117,8 +1118,8 @@
     "6": 79,
     "7": 59,
     "8": 147,
-    "9": 161,
-    "10": 143,
+    "9": 163,
+    "10": 144,
     "11": 127,
     "12": 136,
     "13": 133,
@@ -1134,7 +1135,7 @@
     "23": 73
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-09T14:58:53.093742+00:00",
+  "last_updated": "2025-12-09T15:28:28.938601+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 783
+  "total_snapshots": 784
 }
