@@ -766,6 +766,24 @@
           "Response_Date": "2025-12-09T06:18:21"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-09T12:17:49.373162+00:00",
+      "call_count": 2,
+      "calls": [
+        {
+          "Master_Incident_Number": "120925-00081",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "GULF TO BAY BLVD / THORNTON RD",
+          "Response_Date": "2025-12-09T06:46:28"
+        },
+        {
+          "Master_Incident_Number": "120925-00083",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "0 BLOCK 99 ISLAND WAY",
+          "Response_Date": "2025-12-09T06:55:00"
+        }
+      ]
     }
   ]
 }
