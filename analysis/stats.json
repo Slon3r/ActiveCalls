@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 2396,
-  "total_resolved": 2388,
+  "total_calls_tracked": 2400,
+  "total_resolved": 2392,
   "call_types": {
-    "DIRECTED PATROL": 789,
+    "DIRECTED PATROL": 791,
     "TRAFFIC STOP": 355,
     "DRUNK DRIVER": 7,
     "DISTURBANCE": 55,
@@ -11,7 +11,7 @@
     "ALARM": 35,
     "KEEP THE PEACE": 30,
     "WELFARE CHECK": 51,
-    "PARK WALK AND TALK": 202,
+    "PARK WALK AND TALK": 203,
     "SUSPICIOUS PERSON": 92,
     "TRESPASS": 54,
     "PROPERTY FOUND/LOST": 19,
@@ -22,7 +22,7 @@
     "PANHANDLER/SOLICITOR": 4,
     "VEHICLE ILLEGALLY PARKED": 6,
     "SUSPICIOUS EVENT": 47,
-    "TRAFFIC CRASH": 98,
+    "TRAFFIC CRASH": 99,
     "DISABLED VEHICLE": 18,
     "ASSIST CITIZEN": 61,
     "ASSIST OTHER AGENCY": 47,
@@ -345,7 +345,7 @@
     "400 BLOCK S MISSOURI AVE": 1,
     "-1700 BLOCK 1748 WESTON DR": 1,
     "1300 BLOCK GULF BLVD": 3,
-    "0 BLOCK N NEPTUNE AVE": 2,
+    "0 BLOCK N NEPTUNE AVE": 3,
     "S MYRTLE AVE / COURT ST": 2,
     "OLD COACHMAN RD / GULF TO BAY BLVD": 1,
     "700 BLOCK ELDORADO AVE": 5,
@@ -1133,7 +1133,10 @@
     "1200 BLOCK SANTA ROSA ST": 1,
     "200 BLOCK N OSCEOLA AVE": 1,
     "SR 580 / FRISCO DR": 1,
-    "MCMULLEN BOOTH RD / CHARLES AVE": 1
+    "MCMULLEN BOOTH RD / CHARLES AVE": 1,
+    "BELCHER RD / LAURELWOOD DR": 1,
+    "1500 BLOCK N MCMULLEN BOOTH RD": 1,
+    "0 BLOCK S MYRTLE AVE": 1
   },
   "hourly_distribution": {
     "0": 85,
@@ -1152,7 +1155,7 @@
     "13": 147,
     "14": 171,
     "15": 163,
-    "16": 148,
+    "16": 152,
     "17": 133,
     "18": 117,
     "19": 34,
@@ -1162,7 +1165,7 @@
     "23": 73
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-09T21:24:03.159322+00:00",
+  "last_updated": "2025-12-09T21:37:39.118747+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 806
+  "total_snapshots": 807
 }
