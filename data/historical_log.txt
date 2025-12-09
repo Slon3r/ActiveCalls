@@ -10976,3 +10976,11 @@ TOTAL ACTIVE CALLS: 4
 [RESOLVED] 120925-00011 | KEEP THE PEACE | 900 BLOCK WOODLEY RD | Response: 12:35 AM
 [RESOLVED] 120925-00017 | 911 HANG-UP | 200 BLOCK S OSCEOLA AVE | Response: 01:04 AM
 [RESOLVED] 120925-00021 | DIRECTED PATROL | 1800 BLOCK SUNSET POINT RD | Response: 01:49 AM
+
+================================================================================
+TIMESTAMP: 2025-12-09T07:46:01.728747+00:00
+TOTAL ACTIVE CALLS: 3
+================================================================================
+
+--- RESOLVED CALLS (1) ---
+[RESOLVED] 120925-00024 | 911 HANG-UP | 2000 BLOCK KINGS HWY | Response: 02:00 AM
