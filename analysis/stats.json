@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 2401,
-  "total_resolved": 2394,
+  "total_calls_tracked": 2403,
+  "total_resolved": 2397,
   "call_types": {
     "DIRECTED PATROL": 791,
-    "TRAFFIC STOP": 356,
+    "TRAFFIC STOP": 357,
     "DRUNK DRIVER": 7,
     "DISTURBANCE": 55,
     "BATTERY": 17,
@@ -45,7 +45,7 @@
     "HIT & RUN": 19,
     "SCHOOL CROSSING": 6,
     "ORDINANCE VIOLATION": 6,
-    "ABANDONED VEHICLE": 7,
+    "ABANDONED VEHICLE": 8,
     "CHILD ABUSE": 2,
     "FIGHT": 1,
     "CHILD PROTECTION INVESTIGATION": 5,
@@ -454,7 +454,7 @@
     "300 BLOCK N JUPITER AVE": 1,
     "SR 580 / US HIGHWAY 19 N": 1,
     "PIERCE ST / S MARTIN LUTHER KING JR AVE": 1,
-    "OLD COACHMAN RD / NE COACHMAN RD": 1,
+    "OLD COACHMAN RD / NE COACHMAN RD": 2,
     "-100 BLOCK 103 N EAST AVE": 1,
     "1100 BLOCK ENGMAN ST": 3,
     "600 BLOCK COURT": 1,
@@ -1136,7 +1136,8 @@
     "MCMULLEN BOOTH RD / CHARLES AVE": 1,
     "BELCHER RD / LAURELWOOD DR": 1,
     "1500 BLOCK N MCMULLEN BOOTH RD": 1,
-    "0 BLOCK S MYRTLE AVE": 1
+    "0 BLOCK S MYRTLE AVE": 1,
+    "100 BLOCK S OSCEOLA AVE": 1
   },
   "hourly_distribution": {
     "0": 85,
@@ -1155,7 +1156,7 @@
     "13": 147,
     "14": 171,
     "15": 163,
-    "16": 153,
+    "16": 155,
     "17": 133,
     "18": 117,
     "19": 34,
@@ -1165,7 +1166,7 @@
     "23": 73
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-09T21:46:08.807323+00:00",
+  "last_updated": "2025-12-09T21:54:30.159067+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 808
+  "total_snapshots": 809
 }
