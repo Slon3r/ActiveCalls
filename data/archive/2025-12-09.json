@@ -2517,6 +2517,66 @@
       "timestamp": "2025-12-09T22:33:08.109009+00:00",
       "call_count": 0,
       "calls": []
+    },
+    {
+      "timestamp": "2025-12-09T22:44:38.903301+00:00",
+      "call_count": 9,
+      "calls": [
+        {
+          "Master_Incident_Number": "120925-00361",
+          "Online_Description": "TRAFFIC CRASH",
+          "Address": "2200 BLOCK DREW ST",
+          "Response_Date": "2025-12-09T16:43:25"
+        },
+        {
+          "Master_Incident_Number": "120925-00366",
+          "Online_Description": "BUILDING CHECK",
+          "Address": "1500 BLOCK S MISSOURI AVE",
+          "Response_Date": "2025-12-09T16:58:58"
+        },
+        {
+          "Master_Incident_Number": "120925-00369",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "PALMETTO ST / PALM TERRACE DR",
+          "Response_Date": "2025-12-09T17:02:17"
+        },
+        {
+          "Master_Incident_Number": "120925-00370",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "N HIGHLAND AVE / FAIRMONT ST",
+          "Response_Date": "2025-12-09T17:04:03"
+        },
+        {
+          "Master_Incident_Number": "120925-00372",
+          "Online_Description": "ROBBERY",
+          "Address": "600 BLOCK S FORT HARRISON AVE",
+          "Response_Date": "2025-12-09T17:04:51"
+        },
+        {
+          "Master_Incident_Number": "120925-00375",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "DIMMITT DR / CHAUTAUQUA AVE",
+          "Response_Date": "2025-12-09T17:07:08"
+        },
+        {
+          "Master_Incident_Number": "120925-00376",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "N HERCULES AVE / SUNSET POINT RD",
+          "Response_Date": "2025-12-09T17:07:28"
+        },
+        {
+          "Master_Incident_Number": "120925-00380",
+          "Online_Description": "TRAFFIC CONTROL",
+          "Address": "EASTLAND BLVD / MCMULLEN BOOTH RD",
+          "Response_Date": "2025-12-09T17:16:09"
+        },
+        {
+          "Master_Incident_Number": "120925-00381",
+          "Online_Description": "TRAFFIC CRASH",
+          "Address": "US HIGHWAY 19 N / GULF TO BAY BLVD",
+          "Response_Date": "2025-12-09T17:17:59"
+        }
+      ]
     }
   ]
 }
