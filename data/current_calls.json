@@ -13,18 +13,6 @@
       "Response_Date": "2025-12-09T13:04:28"
     },
     {
-      "Master_Incident_Number": "120925-00283",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "CLEVELAND ST / N GARDEN AVE",
-      "Response_Date": "2025-12-09T13:34:57"
-    },
-    {
-      "Master_Incident_Number": "120925-00305",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "200 BLOCK S GLENWOOD AVE",
-      "Response_Date": "2025-12-09T14:18:29"
-    },
-    {
       "Master_Incident_Number": "120925-00312",
       "Online_Description": "TRAFFIC CRASH",
       "Address": "CAUSEWAY BLVD",
@@ -37,18 +25,30 @@
       "Response_Date": "2025-12-09T14:41:58"
     },
     {
-      "Master_Incident_Number": "120925-00316",
-      "Online_Description": "SUSPICIOUS PERSON",
-      "Address": "1800 BLOCK MCMULLEN BOOTH RD",
-      "Response_Date": "2025-12-09T14:45:11"
+      "Master_Incident_Number": "120925-00318",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "600 BLOCK DRUID RD",
+      "Response_Date": "2025-12-09T14:53:09"
     },
     {
-      "Master_Incident_Number": "120925-00317",
+      "Master_Incident_Number": "120925-00322",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "-2100 BLOCK 2179 NE COACHMAN RD",
+      "Response_Date": "2025-12-09T15:03:47"
+    },
+    {
+      "Master_Incident_Number": "120925-00323",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "600 BLOCK OLD COACHMAN RD",
+      "Response_Date": "2025-12-09T15:08:03"
+    },
+    {
+      "Master_Incident_Number": "120925-00324",
       "Online_Description": "TRAFFIC STOP",
-      "Address": "N BETTY LN / PALMETTO ST",
-      "Response_Date": "2025-12-09T14:51:47"
+      "Address": "GULF TO BAY BLVD / THORNTON RD",
+      "Response_Date": "2025-12-09T15:11:26"
     }
   ],
-  "timestamp": "2025-12-09T20:13:29.888352+00:00",
+  "timestamp": "2025-12-09T20:32:47.993404+00:00",
   "count": 8
 }

@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 2384,
-  "total_resolved": 2376,
+  "total_calls_tracked": 2388,
+  "total_resolved": 2380,
   "call_types": {
-    "DIRECTED PATROL": 785,
-    "TRAFFIC STOP": 351,
+    "DIRECTED PATROL": 788,
+    "TRAFFIC STOP": 352,
     "DRUNK DRIVER": 7,
     "DISTURBANCE": 54,
     "BATTERY": 17,
@@ -314,7 +314,7 @@
     "600 BLOCK DREW ST": 4,
     "200 BLOCK DOLPHIN PT": 1,
     "DEVON DR  / CORONADO DR": 2,
-    "600 BLOCK OLD COACHMAN RD": 3,
+    "600 BLOCK OLD COACHMAN RD": 4,
     "DREW ST / PINEWOOD AVE": 1,
     "2800 BLOCK GULF TO BAY BLVD": 5,
     "19100 BLOCK US HIGHWAY 19 N": 2,
@@ -535,7 +535,7 @@
     "N KEENE RD / FLAGLER DR": 2,
     "23200 BLOCK US HIGHWAY 19 N": 4,
     "900 BLOCK COURT ST": 2,
-    "GULF TO BAY BLVD / THORNTON RD": 2,
+    "GULF TO BAY BLVD / THORNTON RD": 3,
     "1100 BLOCK WOODLAWN ST": 3,
     "200 BLOCK S STARCREST DR": 2,
     "3000 BLOCK GULF TO BAY BLVD": 2,
@@ -596,7 +596,7 @@
     "SR 590 / US HIGHWAY 19 N": 4,
     "CLEVELAND ST / N BELCHER RD": 1,
     "BAYSHORE BLVD / GULF TO BAY BLVD": 2,
-    "600 BLOCK DRUID RD": 1,
+    "600 BLOCK DRUID RD": 2,
     "1800 BLOCK BELLEMEADE DR": 1,
     "-2500 BLOCK 2578 VILLAGE DR": 1,
     "-2800 BLOCK 2899 EAGLE ESTATES CIR N": 3,
@@ -1128,7 +1128,8 @@
     "FAIRWOOD AVE / APPLEWOOD DR": 1,
     "500 BLOCK BLK OF S FT HARRISON": 1,
     "DOUGLAS AVE / RUSSELL ST": 1,
-    "N BETTY LN / PALMETTO ST": 1
+    "N BETTY LN / PALMETTO ST": 1,
+    "-2100 BLOCK 2179 NE COACHMAN RD": 1
   },
   "hourly_distribution": {
     "0": 85,
@@ -1145,8 +1146,8 @@
     "11": 143,
     "12": 145,
     "13": 147,
-    "14": 170,
-    "15": 152,
+    "14": 171,
+    "15": 155,
     "16": 148,
     "17": 133,
     "18": 117,
@@ -1157,7 +1158,7 @@
     "23": 73
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-09T20:13:29.891861+00:00",
+  "last_updated": "2025-12-09T20:32:47.996915+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 801
+  "total_snapshots": 802
 }

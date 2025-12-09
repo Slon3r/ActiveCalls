@@ -2122,6 +2122,60 @@
           "Response_Date": "2025-12-09T14:51:47"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-09T20:32:47.993404+00:00",
+      "call_count": 8,
+      "calls": [
+        {
+          "Master_Incident_Number": "120925-00253",
+          "Online_Description": "TRAFFIC CRASH",
+          "Address": "DREW ST / N JEFFERSON AVE",
+          "Response_Date": "2025-12-09T12:25:32"
+        },
+        {
+          "Master_Incident_Number": "120925-00275",
+          "Online_Description": "WELFARE CHECK",
+          "Address": "500 BLOCK BROOKSIDE DR",
+          "Response_Date": "2025-12-09T13:04:28"
+        },
+        {
+          "Master_Incident_Number": "120925-00312",
+          "Online_Description": "TRAFFIC CRASH",
+          "Address": "CAUSEWAY BLVD",
+          "Response_Date": "2025-12-09T14:38:04"
+        },
+        {
+          "Master_Incident_Number": "120925-00313",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "MEMORIAL CSWY",
+          "Response_Date": "2025-12-09T14:41:58"
+        },
+        {
+          "Master_Incident_Number": "120925-00318",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "600 BLOCK DRUID RD",
+          "Response_Date": "2025-12-09T14:53:09"
+        },
+        {
+          "Master_Incident_Number": "120925-00322",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "-2100 BLOCK 2179 NE COACHMAN RD",
+          "Response_Date": "2025-12-09T15:03:47"
+        },
+        {
+          "Master_Incident_Number": "120925-00323",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "600 BLOCK OLD COACHMAN RD",
+          "Response_Date": "2025-12-09T15:08:03"
+        },
+        {
+          "Master_Incident_Number": "120925-00324",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "GULF TO BAY BLVD / THORNTON RD",
+          "Response_Date": "2025-12-09T15:11:26"
+        }
+      ]
     }
   ]
 }
