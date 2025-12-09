@@ -1,14 +1,14 @@
 {
-  "total_calls_tracked": 2267,
-  "total_resolved": 2264,
+  "total_calls_tracked": 2269,
+  "total_resolved": 2266,
   "call_types": {
-    "DIRECTED PATROL": 733,
+    "DIRECTED PATROL": 734,
     "TRAFFIC STOP": 336,
     "DRUNK DRIVER": 7,
     "DISTURBANCE": 53,
     "BATTERY": 16,
     "CRIMINAL MISCHIEF": 12,
-    "ALARM": 32,
+    "ALARM": 33,
     "KEEP THE PEACE": 29,
     "WELFARE CHECK": 49,
     "PARK WALK AND TALK": 193,
@@ -235,7 +235,7 @@
     "-600 BLOCK 698 CLEVELAND ST": 1,
     "1500 BLOCK S HIGHLAND AVE": 3,
     "PINELLAS ST / S FORT HARRISON AVE": 2,
-    "1600 BLOCK N ARCTURAS AVE": 4,
+    "1600 BLOCK N ARCTURAS AVE": 5,
     "1100 BLOCK BECKETT ST": 15,
     "PAPAYA ST / MANDALAY AVE": 1,
     "CLEVELAND ST / N MISSOURI AVE": 3,
@@ -542,7 +542,7 @@
     "US HIGHWAY 19 N / SEVILLE BLVD": 2,
     "WOODBINE ST / ROLLEN RD": 1,
     "3000 BLOCK WOODSONG LN": 1,
-    "2500 BLOCK MCMULLEN BOOTH RD": 1,
+    "2500 BLOCK MCMULLEN BOOTH RD": 2,
     "2600 BLOCK SR 590": 2,
     "2400 BLOCK GULF TO BAY BLVD": 5,
     "2800 BLOCK MCMULLEN BOOTH RD": 1,
@@ -1100,8 +1100,8 @@
     "0": 85,
     "1": 70,
     "2": 48,
-    "3": 37,
-    "4": 21,
+    "3": 38,
+    "4": 22,
     "5": 53,
     "6": 75,
     "7": 54,
@@ -1123,7 +1123,7 @@
     "23": 73
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-09T09:01:29.340035+00:00",
+  "last_updated": "2025-12-09T09:32:21.725149+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 766
+  "total_snapshots": 767
 }

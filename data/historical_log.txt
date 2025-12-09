@@ -11024,3 +11024,16 @@ TOTAL ACTIVE CALLS: 3
 --- NEW CALLS (2) ---
 [NEW] 120925-00028 | DOMESTIC | 900 BLOCK WOODLEY RD | Response: 02:22 AM
 [NEW] 120925-00037 | ASSIST OTHER AGENCY | MCMULLEN BOOTH RD / SR 590 | Response: 03:40 AM
+
+================================================================================
+TIMESTAMP: 2025-12-09T09:32:21.723405+00:00
+TOTAL ACTIVE CALLS: 3
+================================================================================
+
+--- NEW CALLS (2) ---
+[NEW] 120925-00038 | ALARM | 1600 BLOCK N ARCTURAS AVE | Response: 03:31 AM
+[NEW] 120925-00043 | DIRECTED PATROL | 2500 BLOCK MCMULLEN BOOTH RD | Response: 04:00 AM
+
+--- RESOLVED CALLS (2) ---
+[RESOLVED] 120925-00028 | DOMESTIC | 900 BLOCK WOODLEY RD | Response: 02:22 AM
+[RESOLVED] 120925-00033 | BURGLARY | 2900 BLOCK GULF TO BAY BLVD | Response: 03:01 AM
