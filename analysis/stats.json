@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 2373,
-  "total_resolved": 2364,
+  "total_calls_tracked": 2378,
+  "total_resolved": 2366,
   "call_types": {
-    "DIRECTED PATROL": 781,
-    "TRAFFIC STOP": 348,
+    "DIRECTED PATROL": 783,
+    "TRAFFIC STOP": 349,
     "DRUNK DRIVER": 7,
     "DISTURBANCE": 54,
     "BATTERY": 17,
@@ -11,7 +11,7 @@
     "ALARM": 35,
     "KEEP THE PEACE": 30,
     "WELFARE CHECK": 51,
-    "PARK WALK AND TALK": 201,
+    "PARK WALK AND TALK": 202,
     "SUSPICIOUS PERSON": 91,
     "TRESPASS": 54,
     "PROPERTY FOUND/LOST": 19,
@@ -51,7 +51,7 @@
     "CHILD PROTECTION INVESTIGATION": 5,
     "DRUNK PEDESTRIAN": 2,
     "ASSAULT": 6,
-    "PERSON DOWN": 10,
+    "PERSON DOWN": 11,
     "ROBBERY": 1,
     "INJUNCTION VIOLATION": 1,
     "STALKING": 1,
@@ -64,7 +64,7 @@
     "OPEN DOOR/WINDOW": 1
   },
   "addresses": {
-    "MEMORIAL CSWY / ISLAND WAY": 23,
+    "MEMORIAL CSWY / ISLAND WAY": 24,
     "GULF TO BAY BLVD / S BELCHER RD": 5,
     "1900 BLOCK N BETTY LN": 1,
     "1400 BLOCK CLEVELAND ST": 2,
@@ -162,7 +162,7 @@
     "1300 BLOCK FRANKLIN ST": 2,
     "SUNSET MEADOW DR / COLONY REED LN": 1,
     "0 BLOCK BAY ESPLANADE": 6,
-    "200 BLOCK S GLENWOOD AVE": 27,
+    "200 BLOCK S GLENWOOD AVE": 28,
     "S KEENE RD / DRUID RD": 2,
     "GULF TO BAY BLVD / BAMBOO LN": 2,
     "GULF TO BAY BLVD / BROOKSIDE DR": 1,
@@ -215,7 +215,7 @@
     "23600 BLOCK US HIGHWAY 19 N": 4,
     "300 BLOCK MANDALAY AVE": 3,
     "JONES ST / FERN AVE": 1,
-    "1600 BLOCK GULF TO BAY BLVD": 20,
+    "1600 BLOCK GULF TO BAY BLVD": 21,
     "1600 BLOCK DARTMOUTH ST": 1,
     "HAMDEN DR / BRIGHTWATER DR": 3,
     "HAMPTON RD / GULF TO BAY BLVD": 2,
@@ -414,7 +414,7 @@
     "1900 BLOCK GULF TO BAY BLVD": 3,
     "22100 BLOCK US HIGHWAY 19 N": 2,
     "SEVILLE BLVD / US HIGHWAY 19 N": 2,
-    "COUNTRYSIDE BLVD / WINDING WOOD DR": 2,
+    "COUNTRYSIDE BLVD / WINDING WOOD DR": 3,
     "WEST AVE / PALM BLUFF ST": 1,
     "N MYRTLE AVE / DREW ST": 1,
     "3000 BLOCK SR 590": 1,
@@ -1125,7 +1125,8 @@
     "PIERCE ST / S MADISON AVE": 1,
     "1200 BLOCK DRUID RD": 1,
     "1900 BLOCK CLEARVIEW LAKE DR": 1,
-    "FAIRWOOD AVE / APPLEWOOD DR": 1
+    "FAIRWOOD AVE / APPLEWOOD DR": 1,
+    "500 BLOCK BLK OF S FT HARRISON": 1
   },
   "hourly_distribution": {
     "0": 85,
@@ -1142,7 +1143,7 @@
     "11": 143,
     "12": 145,
     "13": 147,
-    "14": 159,
+    "14": 164,
     "15": 152,
     "16": 148,
     "17": 133,
@@ -1154,7 +1155,7 @@
     "23": 73
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-09T19:37:37.952796+00:00",
+  "last_updated": "2025-12-09T19:45:57.177778+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 798
+  "total_snapshots": 799
 }

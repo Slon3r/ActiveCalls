@@ -19,12 +19,6 @@
       "Response_Date": "2025-12-09T13:24:24"
     },
     {
-      "Master_Incident_Number": "120925-00281",
-      "Online_Description": "PROPERTY FOUND/LOST",
-      "Address": "1900 BLOCK CLEARVIEW LAKE DR",
-      "Response_Date": "2025-12-09T13:28:52"
-    },
-    {
       "Master_Incident_Number": "120925-00283",
       "Online_Description": "DIRECTED PATROL",
       "Address": "CLEVELAND ST / N GARDEN AVE",
@@ -37,12 +31,6 @@
       "Response_Date": "2025-12-09T13:57:48"
     },
     {
-      "Master_Incident_Number": "120925-00296",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "900 BLOCK N MARTIN LUTHER KING JR AVE",
-      "Response_Date": "2025-12-09T14:03:03"
-    },
-    {
       "Master_Incident_Number": "120925-00297",
       "Online_Description": "PARK WALK AND TALK",
       "Address": "200 BLOCK DORY PSGE",
@@ -53,8 +41,38 @@
       "Online_Description": "PROPERTY FOUND/LOST",
       "Address": "1400 BLOCK BARBARA AVE",
       "Response_Date": "2025-12-09T14:07:50"
+    },
+    {
+      "Master_Incident_Number": "120925-00304",
+      "Online_Description": "PERSON DOWN",
+      "Address": "MEMORIAL CSWY / ISLAND WAY",
+      "Response_Date": "2025-12-09T14:17:11"
+    },
+    {
+      "Master_Incident_Number": "120925-00305",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "200 BLOCK S GLENWOOD AVE",
+      "Response_Date": "2025-12-09T14:18:29"
+    },
+    {
+      "Master_Incident_Number": "120925-00306",
+      "Online_Description": "PARK WALK AND TALK",
+      "Address": "1600 BLOCK GULF TO BAY BLVD",
+      "Response_Date": "2025-12-09T14:19:02"
+    },
+    {
+      "Master_Incident_Number": "120925-00307",
+      "Online_Description": "TRAFFIC STOP",
+      "Address": "COUNTRYSIDE BLVD / WINDING WOOD DR",
+      "Response_Date": "2025-12-09T14:21:05"
+    },
+    {
+      "Master_Incident_Number": "120925-00308",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "500 BLOCK BLK OF S FT HARRISON",
+      "Response_Date": "2025-12-09T14:23:14"
     }
   ],
-  "timestamp": "2025-12-09T19:37:37.949493+00:00",
-  "count": 9
+  "timestamp": "2025-12-09T19:45:57.174381+00:00",
+  "count": 12
 }
