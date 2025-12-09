@@ -306,6 +306,30 @@
           "Response_Date": "2025-12-09T00:08:43"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-09T05:47:54.727169+00:00",
+      "call_count": 3,
+      "calls": [
+        {
+          "Master_Incident_Number": "120825-00498",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "MEMORIAL CSWY / ISLAND WAY",
+          "Response_Date": "2025-12-08T22:11:18"
+        },
+        {
+          "Master_Incident_Number": "120925-00006",
+          "Online_Description": "TRAFFIC CRASH",
+          "Address": "US HIGHWAY 19 N / COUNTRYSIDE BLVD",
+          "Response_Date": "2025-12-09T00:13:29"
+        },
+        {
+          "Master_Incident_Number": "120925-00008",
+          "Online_Description": "ALARM",
+          "Address": "1100 BLOCK SEMINOLE ST",
+          "Response_Date": "2025-12-09T00:19:44"
+        }
+      ]
     }
   ]
 }
