@@ -25,12 +25,6 @@
       "Response_Date": "2025-12-09T17:26:12"
     },
     {
-      "Master_Incident_Number": "120925-00392",
-      "Online_Description": "SUSPICIOUS PERSON",
-      "Address": "TURNER ST / WELLS CT",
-      "Response_Date": "2025-12-09T17:33:25"
-    },
-    {
       "Master_Incident_Number": "120925-00416",
       "Online_Description": "TRAFFIC CRASH",
       "Address": "SR 580 / LANDMARK DR",
@@ -73,6 +67,6 @@
       "Response_Date": "2025-12-09T18:24:41"
     }
   ],
-  "timestamp": "2025-12-09T23:48:29.795089+00:00",
-  "count": 12
+  "timestamp": "2025-12-09T23:56:19.881443+00:00",
+  "count": 11
 }

@@ -11804,3 +11804,11 @@ TOTAL ACTIVE CALLS: 12
 [RESOLVED] 120925-00410 | MISSING PERSON | 2500 BLOCK HARN BLVD | Response: 05:58 PM
 [RESOLVED] 120925-00424 | TRAFFIC STOP | 25700 BLOCK US HIGHWAY 19 N | Response: 06:18 PM
 [RESOLVED] 120925-00425 | DISTURBANCE | MEMORIAL CSWY | Response: 06:18 PM
+
+================================================================================
+TIMESTAMP: 2025-12-09T23:56:19.881443+00:00
+TOTAL ACTIVE CALLS: 11
+================================================================================
+
+--- RESOLVED CALLS (1) ---
+[RESOLVED] 120925-00392 | SUSPICIOUS PERSON | TURNER ST / WELLS CT | Response: 05:33 PM
