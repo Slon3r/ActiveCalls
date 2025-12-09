@@ -1,42 +1,24 @@
 {
   "calls": [
     {
+      "Master_Incident_Number": "120925-00049",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "200 BLOCK S GLENWOOD AVE",
+      "Response_Date": "2025-12-09T05:59:04.083"
+    },
+    {
       "Master_Incident_Number": "120925-00057",
       "Online_Description": "DIRECTED PATROL",
       "Address": "2400 BLOCK COUNTRYSIDE BLVD",
       "Response_Date": "2025-12-09T05:24:03"
     },
     {
-      "Master_Incident_Number": "120925-00060",
-      "Online_Description": "HAZARD",
-      "Address": "3300 BLOCK COURTNEY CAMPBELL CSWY",
-      "Response_Date": "2025-12-09T05:33:37"
-    },
-    {
-      "Master_Incident_Number": "120925-00059",
-      "Online_Description": "ALARM",
-      "Address": "2900 BLOCK GULF TO BAY BLVD",
-      "Response_Date": "2025-12-09T05:32:37"
-    },
-    {
-      "Master_Incident_Number": "120925-00061",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "0 BLOCK ISLAND WAY",
-      "Response_Date": "2025-12-09T05:41:33"
-    },
-    {
       "Master_Incident_Number": "120925-00063",
       "Online_Description": "PARK WALK AND TALK",
       "Address": "300 BLOCK PINELLAS ST",
       "Response_Date": "2025-12-09T05:45:03"
-    },
-    {
-      "Master_Incident_Number": "120925-00066",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "HAMDEN DR / BRIGHTWATER DR",
-      "Response_Date": "2025-12-09T05:54:32"
     }
   ],
-  "timestamp": "2025-12-09T11:16:05.731095+00:00",
-  "count": 6
+  "timestamp": "2025-12-09T11:32:35.476520+00:00",
+  "count": 3
 }
