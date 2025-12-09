@@ -1,5 +1,5 @@
 {
-  "total_calls_tracked": 2265,
+  "total_calls_tracked": 2267,
   "total_resolved": 2264,
   "call_types": {
     "DIRECTED PATROL": 733,
@@ -25,7 +25,7 @@
     "TRAFFIC CRASH": 93,
     "DISABLED VEHICLE": 17,
     "ASSIST CITIZEN": 60,
-    "ASSIST OTHER AGENCY": 43,
+    "ASSIST OTHER AGENCY": 44,
     "FIRE": 2,
     "FRAUD": 14,
     "RECKLESS VEHICLE": 8,
@@ -34,7 +34,7 @@
     "UNKNOWN PROBLEM": 14,
     "NOISE COMPLAINT": 9,
     "CIVIL MATTER": 12,
-    "DOMESTIC": 17,
+    "DOMESTIC": 18,
     "ANIMAL CASE": 11,
     "MISSING PERSON": 24,
     "BUILDING CHECK": 5,
@@ -104,7 +104,7 @@
     "S MISSOURI AVE / LAKEVIEW RD": 5,
     "23100 BLOCK US HIGHWAY 19 N": 10,
     "1200 BLOCK N BETTY LN": 1,
-    "MCMULLEN BOOTH RD / SR 590": 3,
+    "MCMULLEN BOOTH RD / SR 590": 4,
     "LAKEVIEW RD / S MISSOURI AVE": 2,
     "2400 BLOCK MELLOW LN": 1,
     "1200 BLOCK GULF BLVD": 11,
@@ -1091,7 +1091,7 @@
     "COURT ST / S LINCOLN AVE": 1,
     "N FORT HARRISON AVE / CLEVELAND ST": 1,
     "1100 BLOCK SEMINOLE ST": 1,
-    "900 BLOCK WOODLEY RD": 2,
+    "900 BLOCK WOODLEY RD": 3,
     "PALMETTO ST / HOLT AVE": 2,
     "1100 BLOCK MARSHALL ST": 1,
     "200 BLOCK S OSCEOLA AVE": 1
@@ -1099,8 +1099,8 @@
   "hourly_distribution": {
     "0": 85,
     "1": 70,
-    "2": 47,
-    "3": 36,
+    "2": 48,
+    "3": 37,
     "4": 21,
     "5": 53,
     "6": 75,
@@ -1123,7 +1123,7 @@
     "23": 73
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-09T08:46:59.519137+00:00",
+  "last_updated": "2025-12-09T09:01:29.340035+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 765
+  "total_snapshots": 766
 }

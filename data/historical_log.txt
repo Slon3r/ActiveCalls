@@ -11015,3 +11015,12 @@ TOTAL ACTIVE CALLS: 1
 
 --- RESOLVED CALLS (1) ---
 [RESOLVED] 120925-00031 | DIRECTED PATROL | 500 BLOCK N BETTY LN | Response: 02:33 AM
+
+================================================================================
+TIMESTAMP: 2025-12-09T09:01:29.338347+00:00
+TOTAL ACTIVE CALLS: 3
+================================================================================
+
+--- NEW CALLS (2) ---
+[NEW] 120925-00028 | DOMESTIC | 900 BLOCK WOODLEY RD | Response: 02:22 AM
+[NEW] 120925-00037 | ASSIST OTHER AGENCY | MCMULLEN BOOTH RD / SR 590 | Response: 03:40 AM
