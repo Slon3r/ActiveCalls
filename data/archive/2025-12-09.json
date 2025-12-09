@@ -2068,6 +2068,60 @@
           "Response_Date": "2025-12-09T14:33:33"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-09T20:13:29.888352+00:00",
+      "call_count": 8,
+      "calls": [
+        {
+          "Master_Incident_Number": "120925-00253",
+          "Online_Description": "TRAFFIC CRASH",
+          "Address": "DREW ST / N JEFFERSON AVE",
+          "Response_Date": "2025-12-09T12:25:32"
+        },
+        {
+          "Master_Incident_Number": "120925-00275",
+          "Online_Description": "WELFARE CHECK",
+          "Address": "500 BLOCK BROOKSIDE DR",
+          "Response_Date": "2025-12-09T13:04:28"
+        },
+        {
+          "Master_Incident_Number": "120925-00283",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "CLEVELAND ST / N GARDEN AVE",
+          "Response_Date": "2025-12-09T13:34:57"
+        },
+        {
+          "Master_Incident_Number": "120925-00305",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "200 BLOCK S GLENWOOD AVE",
+          "Response_Date": "2025-12-09T14:18:29"
+        },
+        {
+          "Master_Incident_Number": "120925-00312",
+          "Online_Description": "TRAFFIC CRASH",
+          "Address": "CAUSEWAY BLVD",
+          "Response_Date": "2025-12-09T14:38:04"
+        },
+        {
+          "Master_Incident_Number": "120925-00313",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "MEMORIAL CSWY",
+          "Response_Date": "2025-12-09T14:41:58"
+        },
+        {
+          "Master_Incident_Number": "120925-00316",
+          "Online_Description": "SUSPICIOUS PERSON",
+          "Address": "1800 BLOCK MCMULLEN BOOTH RD",
+          "Response_Date": "2025-12-09T14:45:11"
+        },
+        {
+          "Master_Incident_Number": "120925-00317",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "N BETTY LN / PALMETTO ST",
+          "Response_Date": "2025-12-09T14:51:47"
+        }
+      ]
     }
   ]
 }

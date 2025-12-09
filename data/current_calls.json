@@ -25,30 +25,30 @@
       "Response_Date": "2025-12-09T14:18:29"
     },
     {
-      "Master_Incident_Number": "120925-00306",
-      "Online_Description": "PARK WALK AND TALK",
-      "Address": "1600 BLOCK GULF TO BAY BLVD",
-      "Response_Date": "2025-12-09T14:19:02"
+      "Master_Incident_Number": "120925-00312",
+      "Online_Description": "TRAFFIC CRASH",
+      "Address": "CAUSEWAY BLVD",
+      "Response_Date": "2025-12-09T14:38:04"
     },
     {
-      "Master_Incident_Number": "120925-00308",
+      "Master_Incident_Number": "120925-00313",
       "Online_Description": "DIRECTED PATROL",
-      "Address": "-500 BLOCK BLK S FORT HARRISON AVE",
-      "Response_Date": "2025-12-09T14:23:14"
+      "Address": "MEMORIAL CSWY",
+      "Response_Date": "2025-12-09T14:41:58"
     },
     {
-      "Master_Incident_Number": "120925-00309",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "2500 BLOCK GULF TO BAY BLVD",
-      "Response_Date": "2025-12-09T14:33:11"
+      "Master_Incident_Number": "120925-00316",
+      "Online_Description": "SUSPICIOUS PERSON",
+      "Address": "1800 BLOCK MCMULLEN BOOTH RD",
+      "Response_Date": "2025-12-09T14:45:11"
     },
     {
-      "Master_Incident_Number": "120925-00310",
+      "Master_Incident_Number": "120925-00317",
       "Online_Description": "TRAFFIC STOP",
-      "Address": "DOUGLAS AVE / RUSSELL ST",
-      "Response_Date": "2025-12-09T14:33:33"
+      "Address": "N BETTY LN / PALMETTO ST",
+      "Response_Date": "2025-12-09T14:51:47"
     }
   ],
-  "timestamp": "2025-12-09T19:54:27.689176+00:00",
+  "timestamp": "2025-12-09T20:13:29.888352+00:00",
   "count": 8
 }

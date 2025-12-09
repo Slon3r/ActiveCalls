@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 2380,
-  "total_resolved": 2372,
+  "total_calls_tracked": 2384,
+  "total_resolved": 2376,
   "call_types": {
-    "DIRECTED PATROL": 784,
-    "TRAFFIC STOP": 350,
+    "DIRECTED PATROL": 785,
+    "TRAFFIC STOP": 351,
     "DRUNK DRIVER": 7,
     "DISTURBANCE": 54,
     "BATTERY": 17,
@@ -12,7 +12,7 @@
     "KEEP THE PEACE": 30,
     "WELFARE CHECK": 51,
     "PARK WALK AND TALK": 202,
-    "SUSPICIOUS PERSON": 91,
+    "SUSPICIOUS PERSON": 92,
     "TRESPASS": 54,
     "PROPERTY FOUND/LOST": 19,
     "THEFT": 31,
@@ -22,7 +22,7 @@
     "PANHANDLER/SOLICITOR": 4,
     "VEHICLE ILLEGALLY PARKED": 6,
     "SUSPICIOUS EVENT": 47,
-    "TRAFFIC CRASH": 96,
+    "TRAFFIC CRASH": 97,
     "DISABLED VEHICLE": 18,
     "ASSIST CITIZEN": 61,
     "ASSIST OTHER AGENCY": 47,
@@ -140,7 +140,7 @@
     "COUNTRYSIDE BLVD / NORTHRIDGE DR": 1,
     "NE COACHMAN RD / US HIGHWAY 19 N": 2,
     "LOTUS PATH / BAY AVE": 1,
-    "MEMORIAL CSWY": 14,
+    "MEMORIAL CSWY": 15,
     "1300 BLOCK ADMIRAL WOODSON LN": 1,
     "DREW ST / N SATURN AVE": 2,
     "GULF TO BAY BLVD / THORTON RD": 1,
@@ -580,7 +580,7 @@
     "600 BLOCK WILDWOOD WAY": 1,
     "FRANKLIN ST / GULF TO BAY BLVD": 1,
     "900 BLOCK N MARTIN LUTHER KING JR AVE": 5,
-    "1800 BLOCK MCMULLEN BOOTH RD": 1,
+    "1800 BLOCK MCMULLEN BOOTH RD": 2,
     "N BETTY LN / ENGMAN ST": 2,
     "1000 BLOCK APACHE TRAIL": 1,
     "N FORT HARRISON AVE / PALM BLUFF ST": 1,
@@ -956,7 +956,7 @@
     "900 BLOCK VINE AVE": 1,
     "SUNSET POINT RD / SETON DR": 1,
     "3200 BLOCK SR 580": 1,
-    "CAUSEWAY BLVD": 1,
+    "CAUSEWAY BLVD": 2,
     "500 BLOCK VIRGINIA LN": 2,
     "1400 BLOCK AMBASSADOR DR": 1,
     "CORONADO DR / S GULFVIEW BLVD": 1,
@@ -1127,7 +1127,8 @@
     "1900 BLOCK CLEARVIEW LAKE DR": 1,
     "FAIRWOOD AVE / APPLEWOOD DR": 1,
     "500 BLOCK BLK OF S FT HARRISON": 1,
-    "DOUGLAS AVE / RUSSELL ST": 1
+    "DOUGLAS AVE / RUSSELL ST": 1,
+    "N BETTY LN / PALMETTO ST": 1
   },
   "hourly_distribution": {
     "0": 85,
@@ -1144,7 +1145,7 @@
     "11": 143,
     "12": 145,
     "13": 147,
-    "14": 166,
+    "14": 170,
     "15": 152,
     "16": 148,
     "17": 133,
@@ -1156,7 +1157,7 @@
     "23": 73
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-09T19:54:27.692663+00:00",
+  "last_updated": "2025-12-09T20:13:29.891861+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 800
+  "total_snapshots": 801
 }
