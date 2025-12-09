@@ -1078,6 +1078,48 @@
           "Response_Date": "2025-12-09T09:24:29"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-09T14:58:53.091387+00:00",
+      "call_count": 6,
+      "calls": [
+        {
+          "Master_Incident_Number": "120925-00094",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "26000 BLOCK US HIGHWAY 19 N",
+          "Response_Date": "2025-12-09T07:37:21"
+        },
+        {
+          "Master_Incident_Number": "120925-00136",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "1700 BLOCK DREW ST",
+          "Response_Date": "2025-12-09T08:54:50"
+        },
+        {
+          "Master_Incident_Number": "120925-00146",
+          "Online_Description": "OPEN DOOR/WINDOW",
+          "Address": "200 BLOCK S HIGHLAND AVE",
+          "Response_Date": "2025-12-09T09:07:13"
+        },
+        {
+          "Master_Incident_Number": "120925-00154",
+          "Online_Description": "ASSIST CITIZEN",
+          "Address": "600 BLOCK PIERCE ST",
+          "Response_Date": "2025-12-09T09:24:29"
+        },
+        {
+          "Master_Incident_Number": "120925-00155",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "2600 BLOCK SABAL SPRINGS DR",
+          "Response_Date": "2025-12-09T09:26:14"
+        },
+        {
+          "Master_Incident_Number": "120925-00157",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "500 BLOCK ISLAND WAY",
+          "Response_Date": "2025-12-09T09:30:37"
+        }
+      ]
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 2314,
-  "total_resolved": 2305,
+  "total_calls_tracked": 2316,
+  "total_resolved": 2310,
   "call_types": {
-    "DIRECTED PATROL": 756,
+    "DIRECTED PATROL": 758,
     "TRAFFIC STOP": 344,
     "DRUNK DRIVER": 7,
     "DISTURBANCE": 54,
@@ -654,7 +654,7 @@
     "1300 BLOCK S MARTIN LUTHER KING JR AVE": 2,
     "26400 BLOCK US HIGHWAY 19 N": 1,
     "S MARTIN LUTHER KING JR AVE / BELLEAIR RD": 1,
-    "500 BLOCK ISLAND WAY": 1,
+    "500 BLOCK ISLAND WAY": 2,
     "BELCHER RD / E WORLD PARKWAY BLVD": 1,
     "LEILA DAVIS ELEMENTARY": 1,
     "300 BLOCK S BELCHER RD": 1,
@@ -921,7 +921,7 @@
     "2000 BLOCK PALMETTO ST": 1,
     "300 BLOCK SEMINOLE ST": 1,
     "2500 BLOCK ALEXANDER PL": 1,
-    "2600 BLOCK SABAL SPRINGS DR": 5,
+    "2600 BLOCK SABAL SPRINGS DR": 6,
     "1900 BLOCK STARDUST DR": 1,
     "1800 BLOCK PINE ST": 1,
     "1200 BLOCK STATE ST": 1,
@@ -1117,7 +1117,7 @@
     "6": 79,
     "7": 59,
     "8": 147,
-    "9": 159,
+    "9": 161,
     "10": 143,
     "11": 127,
     "12": 136,
@@ -1134,7 +1134,7 @@
     "23": 73
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-09T14:46:04.300245+00:00",
+  "last_updated": "2025-12-09T14:58:53.093742+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 782
+  "total_snapshots": 783
 }
