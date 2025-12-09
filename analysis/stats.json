@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 2263,
-  "total_resolved": 2262,
+  "total_calls_tracked": 2264,
+  "total_resolved": 2263,
   "call_types": {
-    "DIRECTED PATROL": 732,
+    "DIRECTED PATROL": 733,
     "TRAFFIC STOP": 336,
     "DRUNK DRIVER": 7,
     "DISTURBANCE": 53,
@@ -368,7 +368,7 @@
     "500 BLOCK MOSS AVE": 1,
     "-1000 BLOCK 1170 GULF BLVD": 2,
     "27000 BLOCK US 19": 1,
-    "500 BLOCK N BETTY LN": 12,
+    "500 BLOCK N BETTY LN": 13,
     "600 BLOCK ELDRIDGE ST": 1,
     "2100 BLOCK MONTCLAIR RD": 1,
     "700 BLOCK S KEENE RD": 3,
@@ -1099,7 +1099,7 @@
   "hourly_distribution": {
     "0": 85,
     "1": 70,
-    "2": 46,
+    "2": 47,
     "3": 35,
     "4": 21,
     "5": 53,
@@ -1123,7 +1123,7 @@
     "23": 73
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-09T07:53:53.534223+00:00",
+  "last_updated": "2025-12-09T08:17:24.254550+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 763
+  "total_snapshots": 764
 }

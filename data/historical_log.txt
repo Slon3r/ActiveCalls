@@ -10993,3 +10993,14 @@ TOTAL ACTIVE CALLS: 1
 --- RESOLVED CALLS (2) ---
 [RESOLVED] 120925-00013 | HIT & RUN | N KEENE RD / DREW ST | Response: 12:39 AM
 [RESOLVED] 120925-00015 | HIT & RUN | 1100 BLOCK MARSHALL ST | Response: 12:50 AM
+
+================================================================================
+TIMESTAMP: 2025-12-09T08:17:24.252941+00:00
+TOTAL ACTIVE CALLS: 1
+================================================================================
+
+--- NEW CALLS (1) ---
+[NEW] 120925-00031 | DIRECTED PATROL | 500 BLOCK N BETTY LN | Response: 02:33 AM
+
+--- RESOLVED CALLS (1) ---
+[RESOLVED] 120925-00012 | DRUNK DRIVER | PALMETTO ST / HOLT AVE | Response: 12:37 AM
