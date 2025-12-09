@@ -1,11 +1,11 @@
 {
-  "total_calls_tracked": 2270,
-  "total_resolved": 2268,
+  "total_calls_tracked": 2271,
+  "total_resolved": 2270,
   "call_types": {
     "DIRECTED PATROL": 735,
     "TRAFFIC STOP": 336,
     "DRUNK DRIVER": 7,
-    "DISTURBANCE": 53,
+    "DISTURBANCE": 54,
     "BATTERY": 16,
     "CRIMINAL MISCHIEF": 12,
     "ALARM": 33,
@@ -1094,14 +1094,15 @@
     "900 BLOCK WOODLEY RD": 3,
     "PALMETTO ST / HOLT AVE": 2,
     "1100 BLOCK MARSHALL ST": 1,
-    "200 BLOCK S OSCEOLA AVE": 1
+    "200 BLOCK S OSCEOLA AVE": 1,
+    "600 BLOCK ERMINE ST": 1
   },
   "hourly_distribution": {
     "0": 85,
     "1": 70,
     "2": 48,
     "3": 38,
-    "4": 23,
+    "4": 24,
     "5": 53,
     "6": 75,
     "7": 54,
@@ -1123,7 +1124,7 @@
     "23": 73
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-09T09:56:37.064287+00:00",
+  "last_updated": "2025-12-09T10:20:57.290917+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 769
+  "total_snapshots": 770
 }

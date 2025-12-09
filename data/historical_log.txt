@@ -11054,3 +11054,15 @@ TOTAL ACTIVE CALLS: 2
 
 --- NEW CALLS (1) ---
 [NEW] 120925-00045 | DIRECTED PATROL | 3200 BLOCK COURTNEY CAMPBELL CSWY | Response: 04:30 AM
+
+================================================================================
+TIMESTAMP: 2025-12-09T10:20:57.289048+00:00
+TOTAL ACTIVE CALLS: 1
+================================================================================
+
+--- NEW CALLS (1) ---
+[NEW] 120925-00047 | DISTURBANCE | 600 BLOCK ERMINE ST | Response: 04:56 AM
+
+--- RESOLVED CALLS (2) ---
+[RESOLVED] 120925-00037 | ASSIST OTHER AGENCY | MCMULLEN BOOTH RD / SR 590 | Response: 03:40 AM
+[RESOLVED] 120925-00045 | DIRECTED PATROL | 3200 BLOCK COURTNEY CAMPBELL CSWY | Response: 04:30 AM
