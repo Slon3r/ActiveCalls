@@ -7,12 +7,6 @@
       "Response_Date": "2025-12-09T16:05:04.42"
     },
     {
-      "Master_Incident_Number": "120925-00313",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "MEMORIAL CSWY",
-      "Response_Date": "2025-12-09T14:41:58"
-    },
-    {
       "Master_Incident_Number": "120925-00333",
       "Online_Description": "DIRECTED PATROL",
       "Address": "1700 BLOCK GULF TO BAY BLVD",
@@ -39,16 +33,16 @@
     {
       "Master_Incident_Number": "120925-00344",
       "Online_Description": "DIRECTED PATROL",
-      "Address": "1500 BLOCK N MCMULLEN BOOTH RD",
+      "Address": "1500 BLOCK MCMULLEN BOOTH RD",
       "Response_Date": "2025-12-09T16:14:03"
     },
     {
-      "Master_Incident_Number": "120925-00345",
-      "Online_Description": "PARK WALK AND TALK",
-      "Address": "0 BLOCK S MYRTLE AVE",
-      "Response_Date": "2025-12-09T16:14:26"
+      "Master_Incident_Number": "120925-00346",
+      "Online_Description": "TRAFFIC STOP",
+      "Address": "SR 580 / FRISCO DR",
+      "Response_Date": "2025-12-09T16:18:35"
     }
   ],
-  "timestamp": "2025-12-09T21:37:39.114880+00:00",
-  "count": 8
+  "timestamp": "2025-12-09T21:46:08.803493+00:00",
+  "count": 7
 }

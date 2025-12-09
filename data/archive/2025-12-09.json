@@ -2404,6 +2404,54 @@
           "Response_Date": "2025-12-09T16:14:26"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-09T21:46:08.803493+00:00",
+      "call_count": 7,
+      "calls": [
+        {
+          "Master_Incident_Number": "120925-00340",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "0 BLOCK N NEPTUNE AVE",
+          "Response_Date": "2025-12-09T16:05:04.42"
+        },
+        {
+          "Master_Incident_Number": "120925-00333",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "1700 BLOCK GULF TO BAY BLVD",
+          "Response_Date": "2025-12-09T15:45:50"
+        },
+        {
+          "Master_Incident_Number": "120925-00336",
+          "Online_Description": "CRIMINAL MISCHIEF",
+          "Address": "200 BLOCK N OSCEOLA AVE",
+          "Response_Date": "2025-12-09T15:47:54"
+        },
+        {
+          "Master_Incident_Number": "120925-00335",
+          "Online_Description": "TRAFFIC CRASH",
+          "Address": "SR 580 / FRISCO DR",
+          "Response_Date": "2025-12-09T15:48:09"
+        },
+        {
+          "Master_Incident_Number": "120925-00341",
+          "Online_Description": "TRAFFIC CRASH",
+          "Address": "BELCHER RD / LAURELWOOD DR",
+          "Response_Date": "2025-12-09T16:02:05"
+        },
+        {
+          "Master_Incident_Number": "120925-00344",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "1500 BLOCK MCMULLEN BOOTH RD",
+          "Response_Date": "2025-12-09T16:14:03"
+        },
+        {
+          "Master_Incident_Number": "120925-00346",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "SR 580 / FRISCO DR",
+          "Response_Date": "2025-12-09T16:18:35"
+        }
+      ]
     }
   ]
 }
