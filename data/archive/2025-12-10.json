@@ -1,0 +1,59 @@
+{
+  "date": "2025-12-10",
+  "snapshots": [
+    {
+      "timestamp": "2025-12-10T01:19:18.078867+00:00",
+      "call_count": 8,
+      "calls": [
+        {
+          "Master_Incident_Number": "120925-00372",
+          "Online_Description": "ROBBERY",
+          "Address": "600 BLOCK S FORT HARRISON AVE",
+          "Response_Date": "2025-12-09T17:04:51"
+        },
+        {
+          "Master_Incident_Number": "120925-00426",
+          "Online_Description": "TRAFFIC CRASH",
+          "Address": "3000 BLOCK MARLO BLVD",
+          "Response_Date": "2025-12-09T18:18:22"
+        },
+        {
+          "Master_Incident_Number": "120925-00435",
+          "Online_Description": "ASSIST CITIZEN",
+          "Address": "600 BLOCK PIERCE ST",
+          "Response_Date": "2025-12-09T18:32:23"
+        },
+        {
+          "Master_Incident_Number": "120925-00438",
+          "Online_Description": "ASSAULT",
+          "Address": "1700 BLOCK N BETTY LN",
+          "Response_Date": "2025-12-09T18:35:44"
+        },
+        {
+          "Master_Incident_Number": "120925-00463",
+          "Online_Description": "DOMESTIC",
+          "Address": "800 BLOCK BAYWAY BLVD",
+          "Response_Date": "2025-12-09T19:31:48"
+        },
+        {
+          "Master_Incident_Number": "120925-00470",
+          "Online_Description": "ASSIST OTHER AGENCY",
+          "Address": "1000 BLOCK MARSHALL ST",
+          "Response_Date": "2025-12-09T19:46:50"
+        },
+        {
+          "Master_Incident_Number": "120925-00472",
+          "Online_Description": "ANIMAL CASE",
+          "Address": "1100 BLOCK BELLEAIR RD",
+          "Response_Date": "2025-12-09T19:50:00"
+        },
+        {
+          "Master_Incident_Number": "120925-00473",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "1600 BLOCK MCMULLEN BOOTH RD",
+          "Response_Date": "2025-12-09T19:56:50"
+        }
+      ]
+    }
+  ]
+}
