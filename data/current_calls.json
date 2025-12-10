@@ -19,16 +19,16 @@
       "Response_Date": "2025-12-10T17:06:00"
     },
     {
-      "Master_Incident_Number": "121025-00413",
-      "Online_Description": "ASSIST OTHER AGENCY",
-      "Address": "2600 BLOCK GULF TO BAY BLVD",
-      "Response_Date": "2025-12-10T17:23:02"
-    },
-    {
       "Master_Incident_Number": "121025-00416",
       "Online_Description": "DIRECTED PATROL",
       "Address": "600 BLOCK PIERCE ST",
       "Response_Date": "2025-12-10T17:37:43"
+    },
+    {
+      "Master_Incident_Number": "121025-00421",
+      "Online_Description": "SUSPICIOUS PERSON",
+      "Address": "N GARDEN AVE / DREW ST",
+      "Response_Date": "2025-12-10T17:46:54"
     },
     {
       "Master_Incident_Number": "121025-00422",
@@ -55,24 +55,24 @@
       "Response_Date": "2025-12-10T17:55:19"
     },
     {
-      "Master_Incident_Number": "121025-00428",
-      "Online_Description": "TRAFFIC STOP",
-      "Address": "N HIGHLAND AVE / ROSEMONT DR",
-      "Response_Date": "2025-12-10T17:55:47"
-    },
-    {
       "Master_Incident_Number": "121025-00431",
       "Online_Description": "DIRECTED PATROL",
-      "Address": "DRUID & PINELLAS TRAIL",
+      "Address": "DRUID RD / S MYRTLE AVE",
       "Response_Date": "2025-12-10T17:58:09"
     },
     {
-      "Master_Incident_Number": "121025-00436",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "-100 BLOCK 319 WINDWARD IS",
-      "Response_Date": "2025-12-10T18:02:38"
+      "Master_Incident_Number": "121025-00438",
+      "Online_Description": "BURGLARY",
+      "Address": "1900 BLOCK KINGS HWY",
+      "Response_Date": "2025-12-10T18:06:56"
+    },
+    {
+      "Master_Incident_Number": "121025-00440",
+      "Online_Description": "PARK WALK AND TALK",
+      "Address": "-400 BLOCK 498 MANDALAY AVE",
+      "Response_Date": "2025-12-10T18:08:51"
     }
   ],
-  "timestamp": "2025-12-10T23:24:27.543245+00:00",
+  "timestamp": "2025-12-10T23:36:57.415876+00:00",
   "count": 12
 }

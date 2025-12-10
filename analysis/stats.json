@@ -1,6 +1,6 @@
 {
-  "total_calls_tracked": 2630,
-  "total_resolved": 2618,
+  "total_calls_tracked": 2633,
+  "total_resolved": 2621,
   "call_types": {
     "DIRECTED PATROL": 859,
     "TRAFFIC STOP": 377,
@@ -11,8 +11,8 @@
     "ALARM": 37,
     "KEEP THE PEACE": 31,
     "WELFARE CHECK": 63,
-    "PARK WALK AND TALK": 223,
-    "SUSPICIOUS PERSON": 103,
+    "PARK WALK AND TALK": 224,
+    "SUSPICIOUS PERSON": 104,
     "TRESPASS": 56,
     "PROPERTY FOUND/LOST": 19,
     "THEFT": 36,
@@ -40,7 +40,7 @@
     "BUILDING CHECK": 8,
     "SHOPLIFTING": 12,
     "DECEASED PERSON": 2,
-    "BURGLARY": 12,
+    "BURGLARY": 13,
     "SHOTS FIRED": 2,
     "HIT & RUN": 20,
     "SCHOOL CROSSING": 6,
@@ -721,7 +721,7 @@
     "3400 BLOCK MCMULLEN BOOTH RD": 1,
     "S BELCHER RD / DRUID RD": 4,
     "1600 BLOCK GULF BLVD": 1,
-    "N GARDEN AVE / DREW ST": 1,
+    "N GARDEN AVE / DREW ST": 2,
     "-400 BLOCK 499 POINSETTIA AVE": 1,
     "BAYVIEW AVE / GULF TO BAY BLVD": 1,
     "N BELCHER RD / DREW ST": 2,
@@ -1008,7 +1008,7 @@
     "-700 BLOCK 898 N BELCHER RD": 1,
     "400 BLOCK N JUPITER AVE": 1,
     "-3400 BLOCK 3449 COURTNEY CAMPBELL CSWY": 2,
-    "1900 BLOCK KINGS HWY": 1,
+    "1900 BLOCK KINGS HWY": 2,
     "N MARTIN LUTHER KING JR AVE / CLEVELAND ST": 1,
     "1000 BLOCK FAIRMONT ST": 1,
     "200 BLOCK S MISSOURI AVE": 2,
@@ -1215,7 +1215,8 @@
     "S MISSOURI AVE / BELLEAIR RD": 1,
     "N HIGHLAND AVE / ROSEMONT DR": 1,
     "DRUID & PINELLAS TRAIL": 1,
-    "-100 BLOCK 319 WINDWARD IS": 1
+    "-100 BLOCK 319 WINDWARD IS": 1,
+    "-400 BLOCK 498 MANDALAY AVE": 1
   },
   "hourly_distribution": {
     "0": 85,
@@ -1235,8 +1236,8 @@
     "14": 186,
     "15": 181,
     "16": 172,
-    "17": 176,
-    "18": 130,
+    "17": 177,
+    "18": 132,
     "19": 38,
     "20": 46,
     "21": 52,
@@ -1244,7 +1245,7 @@
     "23": 79
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-10T23:24:27.548395+00:00",
+  "last_updated": "2025-12-10T23:36:57.420195+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 879
+  "total_snapshots": 880
 }
