@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 2544,
-  "total_resolved": 2533,
+  "total_calls_tracked": 2550,
+  "total_resolved": 2539,
   "call_types": {
-    "DIRECTED PATROL": 834,
+    "DIRECTED PATROL": 836,
     "TRAFFIC STOP": 372,
     "DRUNK DRIVER": 8,
     "DISTURBANCE": 58,
@@ -21,8 +21,8 @@
     "SUSPICIOUS VEHICLE": 18,
     "PANHANDLER/SOLICITOR": 5,
     "VEHICLE ILLEGALLY PARKED": 6,
-    "SUSPICIOUS EVENT": 49,
-    "TRAFFIC CRASH": 109,
+    "SUSPICIOUS EVENT": 51,
+    "TRAFFIC CRASH": 110,
     "DISABLED VEHICLE": 20,
     "ASSIST CITIZEN": 66,
     "ASSIST OTHER AGENCY": 55,
@@ -48,7 +48,7 @@
     "ABANDONED VEHICLE": 8,
     "CHILD ABUSE": 2,
     "FIGHT": 1,
-    "CHILD PROTECTION INVESTIGATION": 5,
+    "CHILD PROTECTION INVESTIGATION": 6,
     "DRUNK PEDESTRIAN": 2,
     "ASSAULT": 7,
     "PERSON DOWN": 11,
@@ -88,7 +88,7 @@
     "400 BLOCK FAIRWOOD AVE": 4,
     "500 BLOCK S FORT HARRISON AVE": 8,
     "26000 BLOCK US HIGHWAY 19 N": 6,
-    "1300 BLOCK S BELCHER RD": 14,
+    "1300 BLOCK S BELCHER RD": 15,
     "200 BLOCK WINDWARD PSGE": 4,
     "2700 BLOCK DREW ST": 1,
     "FLUSHING AVE / HARN BLVD": 2,
@@ -176,7 +176,7 @@
     "FIFTH ST & HAMDEN DR": 1,
     "FIFTH ST / HAMDEN DR": 1,
     "E WORLD PARKWAY BLVD / BELCHER RD": 1,
-    "300 BLOCK CLEVELAND ST": 17,
+    "300 BLOCK CLEVELAND ST": 19,
     "GULF TO BAY BLVD / S LAKE DR": 1,
     "-400 BLOCK BLK BLANCHE B LITTLEJOHN TRL": 1,
     "2600 BLOCK GULF TO BAY BLVD": 14,
@@ -332,7 +332,7 @@
     "3200 BLOCK COURTNEY CAMPBELL CSWY": 8,
     "300 BLOCK N HIGHLAND AVE": 1,
     "2700 BLOCK WINDING WOOD DR": 1,
-    "1700 BLOCK GULF TO BAY BLVD": 8,
+    "1700 BLOCK GULF TO BAY BLVD": 9,
     "600 BLOCK SIREN WIND LN": 1,
     "MANDALAY PASS": 1,
     "GULF TO BAY BLVD / LANDRY AVE": 1,
@@ -1116,7 +1116,7 @@
     "PINELLAS TRAIL / BELLEAIR RD": 1,
     "RAINBOW DR / S CIRUS AVE": 1,
     "DREW ST / N MAYWOOD AVE": 1,
-    "800 BLOCK BAYWAY BLVD": 3,
+    "800 BLOCK BAYWAY BLVD": 4,
     "DREW ST / N MYRTLE AVE": 1,
     "DREW ST / N JEFFERSON AVE": 1,
     "800 BLOCK SEVARD AVE": 1,
@@ -1184,7 +1184,8 @@
     "TURNER ST / S PROSPECT AVE": 1,
     "SR 590 / AUDREY DR": 1,
     "DREW ST / N ARCTURAS AVE": 1,
-    "PARKING / DRIVEWAY": 1
+    "PARKING / DRIVEWAY": 1,
+    "MAGNOLIA DR / S FORT HARRISON AVE": 1
   },
   "hourly_distribution": {
     "0": 85,
@@ -1199,8 +1200,8 @@
     "9": 174,
     "10": 166,
     "11": 160,
-    "12": 154,
-    "13": 147,
+    "12": 159,
+    "13": 148,
     "14": 171,
     "15": 163,
     "16": 158,
@@ -1213,7 +1214,7 @@
     "23": 79
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-10T17:57:07.400199+00:00",
+  "last_updated": "2025-12-10T18:29:04.623889+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 860
+  "total_snapshots": 861
 }
