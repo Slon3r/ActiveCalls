@@ -7,12 +7,6 @@
       "Response_Date": "2025-12-10T08:29:10"
     },
     {
-      "Master_Incident_Number": "121025-00144",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "600 BLOCK DREW ST",
-      "Response_Date": "2025-12-10T09:10:51"
-    },
-    {
       "Master_Incident_Number": "121025-00160",
       "Online_Description": "ANIMAL CASE",
       "Address": "2400 BLOCK NURSERY RD",
@@ -25,30 +19,42 @@
       "Response_Date": "2025-12-10T10:01:47"
     },
     {
-      "Master_Incident_Number": "121025-00185",
-      "Online_Description": "MISSING PERSON",
-      "Address": "900 BLOCK JONES ST",
-      "Response_Date": "2025-12-10T10:17:36"
-    },
-    {
       "Master_Incident_Number": "121025-00198",
       "Online_Description": "SUSPICIOUS EVENT",
       "Address": "1300 BLOCK S BELCHER RD",
       "Response_Date": "2025-12-10T10:45:03"
     },
     {
-      "Master_Incident_Number": "121025-00200",
+      "Master_Incident_Number": "121025-00206",
       "Online_Description": "DIRECTED PATROL",
-      "Address": "MADISON AVE/CLEVELAND ST",
-      "Response_Date": "2025-12-10T10:45:30"
+      "Address": "1300 BLOCK S BELCHER RD",
+      "Response_Date": "2025-12-10T11:00:08"
     },
     {
-      "Master_Incident_Number": "121025-00204",
-      "Online_Description": "ALARM",
-      "Address": "400 BLOCK S OLD COACHMAN RD",
-      "Response_Date": "2025-12-10T10:50:55"
+      "Master_Incident_Number": "121025-00213",
+      "Online_Description": "WELFARE CHECK",
+      "Address": "1400 BLOCK LAKEVIEW RD",
+      "Response_Date": "2025-12-10T11:09:34"
+    },
+    {
+      "Master_Incident_Number": "121025-00211",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "2400 BLOCK DREW ST",
+      "Response_Date": "2025-12-10T11:09:37"
+    },
+    {
+      "Master_Incident_Number": "121025-00215",
+      "Online_Description": "KEEP THE PEACE",
+      "Address": "1300 BLOCK S MICHIGAN AVE",
+      "Response_Date": "2025-12-10T11:12:09"
+    },
+    {
+      "Master_Incident_Number": "121025-00217",
+      "Online_Description": "ASSIST OTHER AGENCY",
+      "Address": "2000 BLOCK EDGEWATER DR",
+      "Response_Date": "2025-12-10T11:20:34"
     }
   ],
-  "timestamp": "2025-12-10T16:21:13.439041+00:00",
-  "count": 8
+  "timestamp": "2025-12-10T16:47:46.110846+00:00",
+  "count": 9
 }

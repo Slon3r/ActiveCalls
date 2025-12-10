@@ -1,16 +1,16 @@
 {
-  "total_calls_tracked": 2519,
-  "total_resolved": 2511,
+  "total_calls_tracked": 2524,
+  "total_resolved": 2515,
   "call_types": {
-    "DIRECTED PATROL": 823,
+    "DIRECTED PATROL": 825,
     "TRAFFIC STOP": 370,
     "DRUNK DRIVER": 8,
     "DISTURBANCE": 58,
     "BATTERY": 19,
     "CRIMINAL MISCHIEF": 13,
     "ALARM": 36,
-    "KEEP THE PEACE": 30,
-    "WELFARE CHECK": 55,
+    "KEEP THE PEACE": 31,
+    "WELFARE CHECK": 56,
     "PARK WALK AND TALK": 213,
     "SUSPICIOUS PERSON": 98,
     "TRESPASS": 56,
@@ -25,7 +25,7 @@
     "TRAFFIC CRASH": 107,
     "DISABLED VEHICLE": 20,
     "ASSIST CITIZEN": 64,
-    "ASSIST OTHER AGENCY": 54,
+    "ASSIST OTHER AGENCY": 55,
     "FIRE": 3,
     "FRAUD": 14,
     "RECKLESS VEHICLE": 8,
@@ -88,7 +88,7 @@
     "400 BLOCK FAIRWOOD AVE": 4,
     "500 BLOCK S FORT HARRISON AVE": 8,
     "26000 BLOCK US HIGHWAY 19 N": 6,
-    "1300 BLOCK S BELCHER RD": 13,
+    "1300 BLOCK S BELCHER RD": 14,
     "200 BLOCK WINDWARD PSGE": 4,
     "2700 BLOCK DREW ST": 1,
     "FLUSHING AVE / HARN BLVD": 2,
@@ -129,7 +129,7 @@
     "2500 BLOCK GULF TO BAY BLVD": 10,
     "1600 BLOCK N MCMULLEN BOOTH RD": 1,
     "1200 BLOCK DREW ST": 3,
-    "2400 BLOCK DREW ST": 5,
+    "2400 BLOCK DREW ST": 6,
     "-1100 BLOCK 1582 GULF BLVD": 5,
     "3300 BLOCK COURTNEY CAMPBELL CSWY": 8,
     "1200 BLOCK COURT ST": 4,
@@ -781,7 +781,7 @@
     "600 BLOCK WOODLAWN ST": 1,
     "US HIGHWAY 19 N / ENTERPRISE RD": 1,
     "N FORT HARRISON AVE / LAURA ST": 1,
-    "1300 BLOCK S MICHIGAN AVE": 1,
+    "1300 BLOCK S MICHIGAN AVE": 2,
     "1500 BLOCK LINWOOD DR": 2,
     "800 BLOCK MANDALAY AVE": 2,
     "N HIGHLAND AVE / OVERLEA ST": 2,
@@ -1174,7 +1174,9 @@
     "100 BLOCK S GARDEN AVE": 1,
     "900 BLOCK JONES ST": 1,
     "MADISON AVE/CLEVELAND ST": 1,
-    "400 BLOCK S OLD COACHMAN RD": 1
+    "400 BLOCK S OLD COACHMAN RD": 1,
+    "1400 BLOCK LAKEVIEW RD": 1,
+    "2000 BLOCK EDGEWATER DR": 1
   },
   "hourly_distribution": {
     "0": 85,
@@ -1188,7 +1190,7 @@
     "8": 154,
     "9": 174,
     "10": 166,
-    "11": 143,
+    "11": 148,
     "12": 146,
     "13": 147,
     "14": 171,
@@ -1203,7 +1205,7 @@
     "23": 79
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-10T16:21:13.441424+00:00",
+  "last_updated": "2025-12-10T16:47:46.113271+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 855
+  "total_snapshots": 856
 }
