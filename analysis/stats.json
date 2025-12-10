@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 2466,
-  "total_resolved": 2463,
+  "total_calls_tracked": 2467,
+  "total_resolved": 2465,
   "call_types": {
-    "DIRECTED PATROL": 799,
+    "DIRECTED PATROL": 800,
     "TRAFFIC STOP": 365,
     "DRUNK DRIVER": 8,
     "DISTURBANCE": 57,
@@ -130,7 +130,7 @@
     "1600 BLOCK N MCMULLEN BOOTH RD": 1,
     "1200 BLOCK DREW ST": 3,
     "2400 BLOCK DREW ST": 5,
-    "-1100 BLOCK 1582 GULF BLVD": 4,
+    "-1100 BLOCK 1582 GULF BLVD": 5,
     "3300 BLOCK COURTNEY CAMPBELL CSWY": 8,
     "1200 BLOCK COURT ST": 4,
     "1400 BLOCK OWEN DR": 1,
@@ -1162,7 +1162,7 @@
   },
   "hourly_distribution": {
     "0": 85,
-    "1": 71,
+    "1": 72,
     "2": 48,
     "3": 38,
     "4": 25,
@@ -1187,7 +1187,7 @@
     "23": 79
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-10T06:42:06.961508+00:00",
+  "last_updated": "2025-12-10T07:00:20.090093+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 828
+  "total_snapshots": 829
 }
