@@ -1938,6 +1938,60 @@
           "Response_Date": "2025-12-10T14:28:38"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-10T19:57:36.141632+00:00",
+      "call_count": 8,
+      "calls": [
+        {
+          "Master_Incident_Number": "121025-00266",
+          "Online_Description": "CHILD PROTECTION INVESTIGATION",
+          "Address": "800 BLOCK BAYWAY BLVD",
+          "Response_Date": "2025-12-10T12:44:55"
+        },
+        {
+          "Master_Incident_Number": "121025-00272",
+          "Online_Description": "ASSIST OTHER AGENCY",
+          "Address": "26100 BLOCK US HIGHWAY 19 N",
+          "Response_Date": "2025-12-10T12:56:37"
+        },
+        {
+          "Master_Incident_Number": "121025-00282",
+          "Online_Description": "ASSIST CITIZEN",
+          "Address": "1900 BLOCK GULF TO BAY BLVD",
+          "Response_Date": "2025-12-10T13:27:46"
+        },
+        {
+          "Master_Incident_Number": "121025-00306",
+          "Online_Description": "911 HANG-UP",
+          "Address": "2600 BLOCK PEARCE DR",
+          "Response_Date": "2025-12-10T14:09:35"
+        },
+        {
+          "Master_Incident_Number": "121025-00313",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "2700 BLOCK GULF TO BAY BLVD",
+          "Response_Date": "2025-12-10T14:22:41"
+        },
+        {
+          "Master_Incident_Number": "121025-00315",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "21400 BLOCK US HIGHWAY 19 N",
+          "Response_Date": "2025-12-10T14:26:28"
+        },
+        {
+          "Master_Incident_Number": "121025-00317",
+          "Online_Description": "THEFT",
+          "Address": "1700 BLOCK N MARTIN LUTHER KING JR AVE",
+          "Response_Date": "2025-12-10T14:29:25"
+        },
+        {
+          "Master_Incident_Number": "121025-00319",
+          "Online_Description": "PARK WALK AND TALK",
+          "Address": "MEMORIAL CAUSEWAY / PIERCE ST",
+          "Response_Date": "2025-12-10T14:34:35"
+        }
+      ]
     }
   ]
 }

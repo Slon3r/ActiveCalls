@@ -1,6 +1,6 @@
 {
-  "total_calls_tracked": 2572,
-  "total_resolved": 2564,
+  "total_calls_tracked": 2574,
+  "total_resolved": 2566,
   "call_types": {
     "DIRECTED PATROL": 842,
     "TRAFFIC STOP": 373,
@@ -11,11 +11,11 @@
     "ALARM": 36,
     "KEEP THE PEACE": 31,
     "WELFARE CHECK": 59,
-    "PARK WALK AND TALK": 220,
+    "PARK WALK AND TALK": 221,
     "SUSPICIOUS PERSON": 99,
     "TRESPASS": 56,
     "PROPERTY FOUND/LOST": 19,
-    "THEFT": 31,
+    "THEFT": 32,
     "NEIGHBOR CALL": 13,
     "911 HANG-UP": 97,
     "SUSPICIOUS VEHICLE": 18,
@@ -1192,7 +1192,9 @@
     "-100 BLOCK 219 S GULFVIEW BLVD": 1,
     "PARK ST / GULF TO BAY BLVD": 1,
     "900 BLOCK LAKEVIEW RD": 1,
-    "2600 BLOCK PEARCE DR": 1
+    "2600 BLOCK PEARCE DR": 1,
+    "1700 BLOCK N MARTIN LUTHER KING JR AVE": 1,
+    "MEMORIAL CAUSEWAY / PIERCE ST": 1
   },
   "hourly_distribution": {
     "0": 85,
@@ -1209,7 +1211,7 @@
     "11": 161,
     "12": 160,
     "13": 157,
-    "14": 181,
+    "14": 183,
     "15": 163,
     "16": 158,
     "17": 157,
@@ -1221,7 +1223,7 @@
     "23": 79
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-10T19:49:23.850473+00:00",
+  "last_updated": "2025-12-10T19:57:36.145123+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 866
+  "total_snapshots": 867
 }
