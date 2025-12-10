@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 2471,
-  "total_resolved": 2468,
+  "total_calls_tracked": 2472,
+  "total_resolved": 2470,
   "call_types": {
-    "DIRECTED PATROL": 801,
+    "DIRECTED PATROL": 802,
     "TRAFFIC STOP": 365,
     "DRUNK DRIVER": 8,
     "DISTURBANCE": 57,
@@ -865,7 +865,7 @@
     "1200 BLOCK CALUSA CIR": 1,
     "S MARTIN LUTHER KING JR AVE / LAKEVIEW RD": 1,
     "MCMULLEN BOOTH RD / SR 580": 3,
-    "S MISSOURI AVE / COURT ST": 2,
+    "S MISSOURI AVE / COURT ST": 3,
     "COURT ST / S MARTIN LUTHER KING JR AVE": 1,
     "CALUMET ST / N BELCHER RD": 1,
     "S PROSPECT AVE / GRAND CENTRAL ST": 1,
@@ -1164,7 +1164,7 @@
   "hourly_distribution": {
     "0": 85,
     "1": 74,
-    "2": 50,
+    "2": 51,
     "3": 38,
     "4": 25,
     "5": 63,
@@ -1188,7 +1188,7 @@
     "23": 79
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-10T07:53:53.537493+00:00",
+  "last_updated": "2025-12-10T08:17:00.335599+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 832
+  "total_snapshots": 833
 }
