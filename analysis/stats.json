@@ -1,6 +1,6 @@
 {
-  "total_calls_tracked": 2476,
-  "total_resolved": 2475,
+  "total_calls_tracked": 2477,
+  "total_resolved": 2476,
   "call_types": {
     "DIRECTED PATROL": 802,
     "TRAFFIC STOP": 366,
@@ -13,7 +13,7 @@
     "WELFARE CHECK": 54,
     "PARK WALK AND TALK": 211,
     "SUSPICIOUS PERSON": 96,
-    "TRESPASS": 54,
+    "TRESPASS": 55,
     "PROPERTY FOUND/LOST": 19,
     "THEFT": 31,
     "NEIGHBOR CALL": 13,
@@ -445,7 +445,7 @@
     "1000 BLOCK VINE AVE": 1,
     "2200 BLOCK MORNINGSIDE DR": 2,
     "400 BLOCK S MARTIN LUTHER KING JR AVE": 1,
-    "600 BLOCK BAYWAY BLVD": 3,
+    "600 BLOCK BAYWAY BLVD": 4,
     "1600 BLOCK N BELCHER RD": 1,
     "-1100 BLOCK 1148 PIERCE ST": 1,
     "FERNWOOD AVE / GULF TO BAY BLVD": 2,
@@ -1168,7 +1168,7 @@
     "3": 38,
     "4": 25,
     "5": 67,
-    "6": 79,
+    "6": 80,
     "7": 59,
     "8": 147,
     "9": 163,
@@ -1188,7 +1188,7 @@
     "23": 79
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-10T11:22:43.711786+00:00",
+  "last_updated": "2025-12-10T11:36:38.273721+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 842
+  "total_snapshots": 843
 }
