@@ -822,6 +822,78 @@
           "Response_Date": "2025-12-10T09:12:51"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-10T14:57:11.807611+00:00",
+      "call_count": 11,
+      "calls": [
+        {
+          "Master_Incident_Number": "121025-00111",
+          "Online_Description": "PARK WALK AND TALK",
+          "Address": "1300 BLOCK PARK ST",
+          "Response_Date": "2025-12-10T08:07:18"
+        },
+        {
+          "Master_Incident_Number": "121025-00123",
+          "Online_Description": "ORDINANCE VIOLATION",
+          "Address": "2000 BLOCK THE MALL",
+          "Response_Date": "2025-12-10T08:29:10"
+        },
+        {
+          "Master_Incident_Number": "121025-00128",
+          "Online_Description": "DISTURBANCE",
+          "Address": "2500 BLOCK COUNTRYSIDE BLVD",
+          "Response_Date": "2025-12-10T08:36:47"
+        },
+        {
+          "Master_Incident_Number": "121025-00135",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "2100 BLOCK GULF TO BAY BLVD",
+          "Response_Date": "2025-12-10T08:52:58"
+        },
+        {
+          "Master_Incident_Number": "121025-00144",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "600 BLOCK DREW ST",
+          "Response_Date": "2025-12-10T09:10:51"
+        },
+        {
+          "Master_Incident_Number": "121025-00147",
+          "Online_Description": "PARK WALK AND TALK",
+          "Address": "2000 BLOCK N HIGHLAND AVE",
+          "Response_Date": "2025-12-10T09:20:25"
+        },
+        {
+          "Master_Incident_Number": "121025-00149",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "PARK PLACE BLVD / GULF TO BAY BLVD",
+          "Response_Date": "2025-12-10T09:20:56"
+        },
+        {
+          "Master_Incident_Number": "121025-00150",
+          "Online_Description": "ASSIST CITIZEN",
+          "Address": "600 BLOCK PIERCE ST",
+          "Response_Date": "2025-12-10T09:23:38"
+        },
+        {
+          "Master_Incident_Number": "121025-00151",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "S BELCHER RD / CURTIS DR N",
+          "Response_Date": "2025-12-10T09:23:39"
+        },
+        {
+          "Master_Incident_Number": "121025-00162",
+          "Online_Description": "ANIMAL CASE",
+          "Address": "1100 BLOCK MARSHALL ST",
+          "Response_Date": "2025-12-10T09:33:49"
+        },
+        {
+          "Master_Incident_Number": "121025-00164",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "2800 BLOCK CURLEW RD",
+          "Response_Date": "2025-12-10T09:35:44"
+        }
+      ]
     }
   ]
 }
