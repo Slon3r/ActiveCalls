@@ -1,12 +1,5 @@
 {
-  "calls": [
-    {
-      "Master_Incident_Number": "121025-00020",
-      "Online_Description": "ASSIST OTHER AGENCY",
-      "Address": "22900 BLOCK US HIGHWAY 19 N",
-      "Response_Date": "2025-12-10T01:53:06"
-    }
-  ],
-  "timestamp": "2025-12-10T08:46:30.355945+00:00",
-  "count": 1
+  "calls": [],
+  "timestamp": "2025-12-10T09:02:16.835876+00:00",
+  "count": 0
 }

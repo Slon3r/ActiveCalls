@@ -12018,3 +12018,11 @@ TOTAL ACTIVE CALLS: 1
 
 --- RESOLVED CALLS (1) ---
 [RESOLVED] 121025-00029 | DIRECTED PATROL | S MISSOURI AVE / COURT ST | Response: 02:45 AM
+
+================================================================================
+TIMESTAMP: 2025-12-10T09:02:16.835876+00:00
+TOTAL ACTIVE CALLS: 0
+================================================================================
+
+--- RESOLVED CALLS (1) ---
+[RESOLVED] 121025-00020 | ASSIST OTHER AGENCY | 22900 BLOCK US HIGHWAY 19 N | Response: 01:53 AM
