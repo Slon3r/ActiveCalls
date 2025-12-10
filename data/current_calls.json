@@ -13,40 +13,10 @@
       "Response_Date": "2025-12-10T09:26:54"
     },
     {
-      "Master_Incident_Number": "121025-00179",
-      "Online_Description": "ASSIST OTHER AGENCY",
-      "Address": "2000 BLOCK ALPINE RD",
-      "Response_Date": "2025-12-10T10:01:47"
-    },
-    {
-      "Master_Incident_Number": "121025-00215",
-      "Online_Description": "KEEP THE PEACE",
-      "Address": "1300 BLOCK S MICHIGAN AVE",
-      "Response_Date": "2025-12-10T11:12:09"
-    },
-    {
       "Master_Incident_Number": "121025-00217",
       "Online_Description": "ASSIST OTHER AGENCY",
       "Address": "2000 BLOCK EDGEWATER DR",
       "Response_Date": "2025-12-10T11:20:34"
-    },
-    {
-      "Master_Incident_Number": "121025-00225",
-      "Online_Description": "BUILDING CHECK",
-      "Address": "600 BLOCK S FORT HARRISON AVE",
-      "Response_Date": "2025-12-10T11:33:45"
-    },
-    {
-      "Master_Incident_Number": "121025-00226",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "2700 BLOCK SR 580",
-      "Response_Date": "2025-12-10T11:35:19"
-    },
-    {
-      "Master_Incident_Number": "121025-00227",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "SOUTH SHORE BLVD",
-      "Response_Date": "2025-12-10T11:35:36"
     },
     {
       "Master_Incident_Number": "121025-00229",
@@ -65,8 +35,56 @@
       "Online_Description": "DIRECTED PATROL",
       "Address": "1000 BLOCK GULF BLVD",
       "Response_Date": "2025-12-10T11:41:04"
+    },
+    {
+      "Master_Incident_Number": "121025-00233",
+      "Online_Description": "TRAFFIC CRASH",
+      "Address": "S FORT HARRISON AVE / JEFFORDS ST",
+      "Response_Date": "2025-12-10T11:42:21"
+    },
+    {
+      "Master_Incident_Number": "121025-00235",
+      "Online_Description": "ASSIST CITIZEN",
+      "Address": "2900 BLOCK CHANCERY LN",
+      "Response_Date": "2025-12-10T11:46:11"
+    },
+    {
+      "Master_Incident_Number": "121025-00238",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "GULF TO BAY BLVD / EDENVILLE AVE",
+      "Response_Date": "2025-12-10T11:51:15"
+    },
+    {
+      "Master_Incident_Number": "121025-00244",
+      "Online_Description": "ASSIST CITIZEN",
+      "Address": "800 BLOCK BAYWAY BLVD",
+      "Response_Date": "2025-12-10T11:54:08"
+    },
+    {
+      "Master_Incident_Number": "121025-00240",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "CLEVELAND ST / N FORT HARRISON AVE",
+      "Response_Date": "2025-12-10T11:55:28"
+    },
+    {
+      "Master_Incident_Number": "121025-00243",
+      "Online_Description": "PARK WALK AND TALK",
+      "Address": "CLEVELAND ST / N FORT HARRISON AVE",
+      "Response_Date": "2025-12-10T11:56:58"
+    },
+    {
+      "Master_Incident_Number": "121025-00245",
+      "Online_Description": "TRAFFIC STOP",
+      "Address": "TURNER ST / S PROSPECT AVE",
+      "Response_Date": "2025-12-10T12:00:33"
+    },
+    {
+      "Master_Incident_Number": "121025-00249",
+      "Online_Description": "TRAFFIC STOP",
+      "Address": "SR 590 / AUDREY DR",
+      "Response_Date": "2025-12-10T12:10:06"
     }
   ],
-  "timestamp": "2025-12-10T17:02:39.737203+00:00",
-  "count": 11
+  "timestamp": "2025-12-10T17:32:41.740829+00:00",
+  "count": 14
 }

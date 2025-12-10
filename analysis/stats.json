@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 2530,
-  "total_resolved": 2519,
+  "total_calls_tracked": 2538,
+  "total_resolved": 2524,
   "call_types": {
-    "DIRECTED PATROL": 830,
-    "TRAFFIC STOP": 370,
+    "DIRECTED PATROL": 832,
+    "TRAFFIC STOP": 372,
     "DRUNK DRIVER": 8,
     "DISTURBANCE": 58,
     "BATTERY": 19,
@@ -11,7 +11,7 @@
     "ALARM": 36,
     "KEEP THE PEACE": 31,
     "WELFARE CHECK": 56,
-    "PARK WALK AND TALK": 213,
+    "PARK WALK AND TALK": 214,
     "SUSPICIOUS PERSON": 98,
     "TRESPASS": 56,
     "PROPERTY FOUND/LOST": 19,
@@ -22,9 +22,9 @@
     "PANHANDLER/SOLICITOR": 5,
     "VEHICLE ILLEGALLY PARKED": 6,
     "SUSPICIOUS EVENT": 49,
-    "TRAFFIC CRASH": 107,
+    "TRAFFIC CRASH": 108,
     "DISABLED VEHICLE": 20,
-    "ASSIST CITIZEN": 64,
+    "ASSIST CITIZEN": 66,
     "ASSIST OTHER AGENCY": 55,
     "FIRE": 3,
     "FRAUD": 14,
@@ -1001,7 +1001,7 @@
     "2000 BLOCK DRUID RD": 1,
     "S FORT HARRISON AVE / TURNER ST": 1,
     "3100 BLOCK MCMULLEN BOOTH RD": 2,
-    "GULF TO BAY BLVD / EDENVILLE AVE": 1,
+    "GULF TO BAY BLVD / EDENVILLE AVE": 2,
     "HOWARD ST / TIOGA AVE": 1,
     "900 BLOCK CHESTNUT ST": 1,
     "1500 BLOCK CARMEL AVE": 1,
@@ -1116,7 +1116,7 @@
     "PINELLAS TRAIL / BELLEAIR RD": 1,
     "RAINBOW DR / S CIRUS AVE": 1,
     "DREW ST / N MAYWOOD AVE": 1,
-    "800 BLOCK BAYWAY BLVD": 2,
+    "800 BLOCK BAYWAY BLVD": 3,
     "DREW ST / N MYRTLE AVE": 1,
     "DREW ST / N JEFFERSON AVE": 1,
     "800 BLOCK SEVARD AVE": 1,
@@ -1177,7 +1177,12 @@
     "400 BLOCK S OLD COACHMAN RD": 1,
     "1400 BLOCK LAKEVIEW RD": 1,
     "2000 BLOCK EDGEWATER DR": 1,
-    "S FORT HARRISON AVE / CLEVELAND ST": 1
+    "S FORT HARRISON AVE / CLEVELAND ST": 1,
+    "S FORT HARRISON AVE / JEFFORDS ST": 1,
+    "2900 BLOCK CHANCERY LN": 1,
+    "CLEVELAND ST / N FORT HARRISON AVE": 2,
+    "TURNER ST / S PROSPECT AVE": 1,
+    "SR 590 / AUDREY DR": 1
   },
   "hourly_distribution": {
     "0": 85,
@@ -1191,8 +1196,8 @@
     "8": 154,
     "9": 174,
     "10": 166,
-    "11": 154,
-    "12": 146,
+    "11": 160,
+    "12": 148,
     "13": 147,
     "14": 171,
     "15": 163,
@@ -1206,7 +1211,7 @@
     "23": 79
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-10T17:02:39.739680+00:00",
+  "last_updated": "2025-12-10T17:32:41.743451+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 857
+  "total_snapshots": 858
 }
