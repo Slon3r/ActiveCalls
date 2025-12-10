@@ -1,12 +1,6 @@
 {
   "calls": [
     {
-      "Master_Incident_Number": "121025-00206",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "1300 BLOCK S BELCHER RD",
-      "Response_Date": "2025-12-10T11:00:08"
-    },
-    {
       "Master_Incident_Number": "121025-00342",
       "Online_Description": "TRAFFIC CRASH",
       "Address": "DREW ST / US HIGHWAY 19 N",
@@ -17,12 +11,6 @@
       "Online_Description": "ANIMAL CASE",
       "Address": "600 BLOCK S GLENWOOD AVE",
       "Response_Date": "2025-12-10T15:35:42"
-    },
-    {
-      "Master_Incident_Number": "121025-00343",
-      "Online_Description": "TRAFFIC CRASH",
-      "Address": "N KEENE RD / LONG ST",
-      "Response_Date": "2025-12-10T15:36:29"
     },
     {
       "Master_Incident_Number": "121025-00351",
@@ -61,6 +49,6 @@
       "Response_Date": "2025-12-10T16:15:08"
     }
   ],
-  "timestamp": "2025-12-10T21:42:46.953334+00:00",
-  "count": 10
+  "timestamp": "2025-12-10T21:51:12.812666+00:00",
+  "count": 8
 }

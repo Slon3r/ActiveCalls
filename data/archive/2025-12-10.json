@@ -2310,6 +2310,60 @@
           "Response_Date": "2025-12-10T16:15:08"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-10T21:51:12.812666+00:00",
+      "call_count": 8,
+      "calls": [
+        {
+          "Master_Incident_Number": "121025-00342",
+          "Online_Description": "TRAFFIC CRASH",
+          "Address": "DREW ST / US HIGHWAY 19 N",
+          "Response_Date": "2025-12-10T15:33:46"
+        },
+        {
+          "Master_Incident_Number": "121025-00344",
+          "Online_Description": "ANIMAL CASE",
+          "Address": "600 BLOCK S GLENWOOD AVE",
+          "Response_Date": "2025-12-10T15:35:42"
+        },
+        {
+          "Master_Incident_Number": "121025-00351",
+          "Online_Description": "TRAFFIC CRASH",
+          "Address": "S FORT HARRISON AVE / WILDWOOD WAY",
+          "Response_Date": "2025-12-10T15:47:46"
+        },
+        {
+          "Master_Incident_Number": "121025-00356",
+          "Online_Description": "TRAFFIC CONTROL",
+          "Address": "GREENBRIAR BLVD / BELCHER RD (GREENBRIAR BLVD)",
+          "Response_Date": "2025-12-10T15:56:41"
+        },
+        {
+          "Master_Incident_Number": "121025-00357",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "BELLEAIR RD / SCRANTON AVE",
+          "Response_Date": "2025-12-10T15:59:04"
+        },
+        {
+          "Master_Incident_Number": "121025-00363",
+          "Online_Description": "TRAFFIC CRASH",
+          "Address": "S MISSOURI AVE / GOULD ST",
+          "Response_Date": "2025-12-10T16:02:33"
+        },
+        {
+          "Master_Incident_Number": "121025-00366",
+          "Online_Description": "UNKNOWN PROBLEM",
+          "Address": "BELLEAIR RD / S MARTIN LUTHER KING JR AVE",
+          "Response_Date": "2025-12-10T16:12:13"
+        },
+        {
+          "Master_Incident_Number": "121025-00368",
+          "Online_Description": "BATTERY",
+          "Address": "1500 BLOCK N GARDEN AVE",
+          "Response_Date": "2025-12-10T16:15:08"
+        }
+      ]
     }
   ]
 }
