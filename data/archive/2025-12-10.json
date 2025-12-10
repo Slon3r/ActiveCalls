@@ -156,6 +156,42 @@
           "Response_Date": "2025-12-09T22:18:09"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-10T04:31:57.342526+00:00",
+      "call_count": 5,
+      "calls": [
+        {
+          "Master_Incident_Number": "120925-00543",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "200 BLOCK S GLENWOOD AVE",
+          "Response_Date": "2025-12-09T23:00:14.38"
+        },
+        {
+          "Master_Incident_Number": "120925-00507",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "MEMORIAL CSWY / ISLAND WAY",
+          "Response_Date": "2025-12-09T21:33:57"
+        },
+        {
+          "Master_Incident_Number": "120925-00522",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "17700 BLOCK US HIGHWAY 19 N",
+          "Response_Date": "2025-12-09T22:06:15"
+        },
+        {
+          "Master_Incident_Number": "120925-00534",
+          "Online_Description": "SUSPICIOUS PERSON",
+          "Address": "800 BLOCK MANDALAY AVE",
+          "Response_Date": "2025-12-09T22:45:04"
+        },
+        {
+          "Master_Incident_Number": "120925-00542",
+          "Online_Description": "SUSPICIOUS VEHICLE",
+          "Address": "0 BLOCK N BELCHER RD",
+          "Response_Date": "2025-12-09T22:57:53"
+        }
+      ]
     }
   ]
 }
