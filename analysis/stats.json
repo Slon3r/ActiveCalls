@@ -1,10 +1,10 @@
 {
-  "total_calls_tracked": 2464,
-  "total_resolved": 2458,
+  "total_calls_tracked": 2465,
+  "total_resolved": 2460,
   "call_types": {
     "DIRECTED PATROL": 798,
     "TRAFFIC STOP": 365,
-    "DRUNK DRIVER": 7,
+    "DRUNK DRIVER": 8,
     "DISTURBANCE": 57,
     "BATTERY": 19,
     "CRIMINAL MISCHIEF": 13,
@@ -956,7 +956,7 @@
     "900 BLOCK VINE AVE": 1,
     "SUNSET POINT RD / SETON DR": 1,
     "3200 BLOCK SR 580": 1,
-    "CAUSEWAY BLVD": 2,
+    "CAUSEWAY BLVD": 3,
     "500 BLOCK VIRGINIA LN": 2,
     "1400 BLOCK AMBASSADOR DR": 1,
     "CORONADO DR / S GULFVIEW BLVD": 1,
@@ -1184,10 +1184,10 @@
     "20": 46,
     "21": 52,
     "22": 103,
-    "23": 78
+    "23": 79
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-10T05:17:16.785641+00:00",
+  "last_updated": "2025-12-10T05:40:16.350853+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 824
+  "total_snapshots": 825
 }

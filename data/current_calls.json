@@ -7,16 +7,16 @@
       "Response_Date": "2025-12-09T22:06:15"
     },
     {
-      "Master_Incident_Number": "120925-00534",
-      "Online_Description": "SUSPICIOUS PERSON",
-      "Address": "800 BLOCK MANDALAY AVE",
-      "Response_Date": "2025-12-09T22:45:04"
-    },
-    {
       "Master_Incident_Number": "120925-00542",
       "Online_Description": "DRUNK DRIVER",
       "Address": "25300 BLOCK US HIGHWAY 19 N",
       "Response_Date": "2025-12-09T22:57:53"
+    },
+    {
+      "Master_Incident_Number": "120925-00548",
+      "Online_Description": "DRUNK DRIVER",
+      "Address": "CAUSEWAY BLVD",
+      "Response_Date": "2025-12-09T23:31:35"
     },
     {
       "Master_Incident_Number": "120925-00551",
@@ -25,18 +25,12 @@
       "Response_Date": "2025-12-09T23:41:10"
     },
     {
-      "Master_Incident_Number": "120925-00556",
-      "Online_Description": "WELFARE CHECK",
-      "Address": "2500 BLOCK SANDS TER N",
-      "Response_Date": "2025-12-09T23:48:28"
-    },
-    {
       "Master_Incident_Number": "120925-00555",
       "Online_Description": "TRAFFIC CRASH",
       "Address": "SUNSET POINT RD / US HIGHWAY 19 N",
       "Response_Date": "2025-12-09T23:49:18"
     }
   ],
-  "timestamp": "2025-12-10T05:17:16.784134+00:00",
-  "count": 6
+  "timestamp": "2025-12-10T05:40:16.349210+00:00",
+  "count": 5
 }
