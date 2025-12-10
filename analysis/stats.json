@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 2569,
-  "total_resolved": 2556,
+  "total_calls_tracked": 2572,
+  "total_resolved": 2564,
   "call_types": {
-    "DIRECTED PATROL": 840,
+    "DIRECTED PATROL": 842,
     "TRAFFIC STOP": 373,
     "DRUNK DRIVER": 8,
     "DISTURBANCE": 59,
@@ -12,7 +12,7 @@
     "KEEP THE PEACE": 31,
     "WELFARE CHECK": 59,
     "PARK WALK AND TALK": 220,
-    "SUSPICIOUS PERSON": 98,
+    "SUSPICIOUS PERSON": 99,
     "TRESPASS": 56,
     "PROPERTY FOUND/LOST": 19,
     "THEFT": 31,
@@ -115,7 +115,7 @@
     "S MISSOURI AVE / KINGSLEY ST": 2,
     "2200 BLOCK GULF TO BAY BLVD": 9,
     "CLEVELAND ST/S MADISON AVE": 2,
-    "2700 BLOCK GULF TO BAY BLVD": 21,
+    "2700 BLOCK GULF TO BAY BLVD": 23,
     "1400 BLOCK N HIBISCUS ST": 1,
     "2900 BLOCK DREW ST": 7,
     "21200 BLOCK US HIGHWAY 19 N": 5,
@@ -468,7 +468,7 @@
     "3300 BLOCK SAN GABRIEL ST": 3,
     "700 BLOCK ISLAND WAY": 1,
     "1100 BLOCK LAKEVIEW RD": 1,
-    "21400 BLOCK US HIGHWAY 19 N": 6,
+    "21400 BLOCK US HIGHWAY 19 N": 7,
     "0 BLOCK 98 S MAIN AVE": 1,
     "TURNER ST / S FORT HARRISON AVE": 1,
     "24800 BLOCK US HIGHWAY 19 N": 3,
@@ -1209,7 +1209,7 @@
     "11": 161,
     "12": 160,
     "13": 157,
-    "14": 178,
+    "14": 181,
     "15": 163,
     "16": 158,
     "17": 157,
@@ -1221,7 +1221,7 @@
     "23": 79
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-10T19:40:39.623452+00:00",
+  "last_updated": "2025-12-10T19:49:23.850473+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 865
+  "total_snapshots": 866
 }
