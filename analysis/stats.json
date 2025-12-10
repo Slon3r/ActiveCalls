@@ -1,16 +1,16 @@
 {
-  "total_calls_tracked": 2461,
-  "total_resolved": 2456,
+  "total_calls_tracked": 2464,
+  "total_resolved": 2458,
   "call_types": {
     "DIRECTED PATROL": 798,
     "TRAFFIC STOP": 365,
     "DRUNK DRIVER": 7,
-    "DISTURBANCE": 56,
+    "DISTURBANCE": 57,
     "BATTERY": 19,
     "CRIMINAL MISCHIEF": 13,
     "ALARM": 35,
     "KEEP THE PEACE": 30,
-    "WELFARE CHECK": 53,
+    "WELFARE CHECK": 54,
     "PARK WALK AND TALK": 208,
     "SUSPICIOUS PERSON": 96,
     "TRESPASS": 54,
@@ -22,7 +22,7 @@
     "PANHANDLER/SOLICITOR": 5,
     "VEHICLE ILLEGALLY PARKED": 6,
     "SUSPICIOUS EVENT": 48,
-    "TRAFFIC CRASH": 106,
+    "TRAFFIC CRASH": 107,
     "DISABLED VEHICLE": 19,
     "ASSIST CITIZEN": 63,
     "ASSIST OTHER AGENCY": 51,
@@ -915,7 +915,7 @@
     "2000 BLOCK GLASS LN": 1,
     "2100 BLOCK GULF TO BAY": 1,
     "1100 BLOCK SEDEEVA ST": 1,
-    "900 BLOCK LOTUS PATH": 1,
+    "900 BLOCK LOTUS PATH": 2,
     "GULF TO BAY BLVD/S KEENE RD": 1,
     "400 BLOCK N BELCHER RD": 1,
     "2000 BLOCK PALMETTO ST": 1,
@@ -1043,7 +1043,7 @@
     "GULF TO BAY BLVD / SKYVIEW AVE": 1,
     "2800 BLOCK SR 590": 1,
     "CLEVELAND ST / S MAIN AVE": 1,
-    "SUNSET POINT RD / US HIGHWAY 19 N": 2,
+    "SUNSET POINT RD / US HIGHWAY 19 N": 3,
     "GULF TO BAY BLVD / CLEVELAND ST": 1,
     "SR 580 / LANDMARK DR": 3,
     "CLEVELAND ST / N LINCOLN AVE": 1,
@@ -1157,7 +1157,8 @@
     "MANDALAY AVE / ROYAL WAY": 1,
     "2500 BLOCK SR 580": 1,
     "17700 BLOCK US HIGHWAY 19 N": 1,
-    "1400 BLOCK BYRAM DR": 1
+    "1400 BLOCK BYRAM DR": 1,
+    "2500 BLOCK SANDS TER N": 1
   },
   "hourly_distribution": {
     "0": 85,
@@ -1183,10 +1184,10 @@
     "20": 46,
     "21": 52,
     "22": 103,
-    "23": 75
+    "23": 78
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-10T04:55:37.132034+00:00",
+  "last_updated": "2025-12-10T05:17:16.785641+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 823
+  "total_snapshots": 824
 }
