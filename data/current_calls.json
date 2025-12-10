@@ -19,28 +19,10 @@
       "Response_Date": "2025-12-10T09:26:54"
     },
     {
-      "Master_Incident_Number": "121025-00162",
-      "Online_Description": "ANIMAL CASE",
-      "Address": "1100 BLOCK GRANT ST",
-      "Response_Date": "2025-12-10T09:33:49"
-    },
-    {
-      "Master_Incident_Number": "121025-00173",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "ELDORADO AVE / ACACIA ST",
-      "Response_Date": "2025-12-10T09:55:00"
-    },
-    {
       "Master_Incident_Number": "121025-00179",
       "Online_Description": "ASSIST OTHER AGENCY",
       "Address": "2000 BLOCK ALPINE RD",
       "Response_Date": "2025-12-10T10:01:47"
-    },
-    {
-      "Master_Incident_Number": "121025-00178",
-      "Online_Description": "TRAFFIC STOP",
-      "Address": "US HIGHWAY 19 N / DREW ST",
-      "Response_Date": "2025-12-10T10:05:27"
     },
     {
       "Master_Incident_Number": "121025-00181",
@@ -49,12 +31,18 @@
       "Response_Date": "2025-12-10T10:09:06"
     },
     {
-      "Master_Incident_Number": "121025-00182",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "1800 BLOCK DREW ST",
-      "Response_Date": "2025-12-10T10:14:35"
+      "Master_Incident_Number": "121025-00188",
+      "Online_Description": "TRESPASS",
+      "Address": "100 BLOCK S GARDEN AVE",
+      "Response_Date": "2025-12-10T10:23:06"
+    },
+    {
+      "Master_Incident_Number": "121025-00190",
+      "Online_Description": "TRAFFIC STOP",
+      "Address": "CHARLES AVE / SR 580",
+      "Response_Date": "2025-12-10T10:31:57"
     }
   ],
-  "timestamp": "2025-12-10T15:42:50.808408+00:00",
-  "count": 9
+  "timestamp": "2025-12-10T15:55:14.421860+00:00",
+  "count": 7
 }

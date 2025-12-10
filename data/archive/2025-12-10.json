@@ -1014,6 +1014,54 @@
           "Response_Date": "2025-12-10T10:14:35"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-10T15:55:14.421860+00:00",
+      "call_count": 7,
+      "calls": [
+        {
+          "Master_Incident_Number": "121025-00123",
+          "Online_Description": "ORDINANCE VIOLATION",
+          "Address": "2000 BLOCK THE MALL",
+          "Response_Date": "2025-12-10T08:29:10"
+        },
+        {
+          "Master_Incident_Number": "121025-00144",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "600 BLOCK DREW ST",
+          "Response_Date": "2025-12-10T09:10:51"
+        },
+        {
+          "Master_Incident_Number": "121025-00160",
+          "Online_Description": "ANIMAL CASE",
+          "Address": "2400 BLOCK NURSERY RD",
+          "Response_Date": "2025-12-10T09:26:54"
+        },
+        {
+          "Master_Incident_Number": "121025-00179",
+          "Online_Description": "ASSIST OTHER AGENCY",
+          "Address": "2000 BLOCK ALPINE RD",
+          "Response_Date": "2025-12-10T10:01:47"
+        },
+        {
+          "Master_Incident_Number": "121025-00181",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "-600 BLOCK 699 MANDALAY AVE",
+          "Response_Date": "2025-12-10T10:09:06"
+        },
+        {
+          "Master_Incident_Number": "121025-00188",
+          "Online_Description": "TRESPASS",
+          "Address": "100 BLOCK S GARDEN AVE",
+          "Response_Date": "2025-12-10T10:23:06"
+        },
+        {
+          "Master_Incident_Number": "121025-00190",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "CHARLES AVE / SR 580",
+          "Response_Date": "2025-12-10T10:31:57"
+        }
+      ]
     }
   ]
 }
