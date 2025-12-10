@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 2469,
+  "total_calls_tracked": 2471,
   "total_resolved": 2466,
   "call_types": {
-    "DIRECTED PATROL": 800,
+    "DIRECTED PATROL": 801,
     "TRAFFIC STOP": 365,
     "DRUNK DRIVER": 8,
     "DISTURBANCE": 57,
@@ -25,7 +25,7 @@
     "TRAFFIC CRASH": 107,
     "DISABLED VEHICLE": 19,
     "ASSIST CITIZEN": 63,
-    "ASSIST OTHER AGENCY": 52,
+    "ASSIST OTHER AGENCY": 53,
     "FIRE": 2,
     "FRAUD": 14,
     "RECKLESS VEHICLE": 8,
@@ -719,7 +719,7 @@
     "SUMMERLIN DR / STEWART BLVD": 1,
     "21300 BLOCK US HIGHWAY 19 N": 1,
     "3400 BLOCK MCMULLEN BOOTH RD": 1,
-    "S BELCHER RD / DRUID RD": 3,
+    "S BELCHER RD / DRUID RD": 4,
     "1600 BLOCK GULF BLVD": 1,
     "N GARDEN AVE / DREW ST": 1,
     "-400 BLOCK 499 POINSETTIA AVE": 1,
@@ -1158,12 +1158,13 @@
     "2500 BLOCK SR 580": 1,
     "17700 BLOCK US HIGHWAY 19 N": 1,
     "1400 BLOCK BYRAM DR": 1,
-    "2500 BLOCK SANDS TER N": 1
+    "2500 BLOCK SANDS TER N": 1,
+    "2400 BLOCK MCMULLEN BOOTH RD": 1
   },
   "hourly_distribution": {
     "0": 85,
     "1": 74,
-    "2": 48,
+    "2": 50,
     "3": 38,
     "4": 25,
     "5": 63,
@@ -1187,7 +1188,7 @@
     "23": 79
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-10T07:29:10.704156+00:00",
+  "last_updated": "2025-12-10T07:44:47.244612+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 830
+  "total_snapshots": 831
 }
