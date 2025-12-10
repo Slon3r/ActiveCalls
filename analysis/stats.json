@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 2488,
-  "total_resolved": 2481,
+  "total_calls_tracked": 2491,
+  "total_resolved": 2488,
   "call_types": {
-    "DIRECTED PATROL": 810,
+    "DIRECTED PATROL": 811,
     "TRAFFIC STOP": 368,
     "DRUNK DRIVER": 8,
     "DISTURBANCE": 57,
@@ -10,7 +10,7 @@
     "CRIMINAL MISCHIEF": 13,
     "ALARM": 35,
     "KEEP THE PEACE": 30,
-    "WELFARE CHECK": 54,
+    "WELFARE CHECK": 55,
     "PARK WALK AND TALK": 211,
     "SUSPICIOUS PERSON": 97,
     "TRESPASS": 55,
@@ -26,7 +26,7 @@
     "DISABLED VEHICLE": 19,
     "ASSIST CITIZEN": 63,
     "ASSIST OTHER AGENCY": 53,
-    "FIRE": 2,
+    "FIRE": 3,
     "FRAUD": 14,
     "RECKLESS VEHICLE": 8,
     "JUVENILE CASE": 8,
@@ -1160,7 +1160,10 @@
     "1400 BLOCK BYRAM DR": 1,
     "2500 BLOCK SANDS TER N": 1,
     "2400 BLOCK MCMULLEN BOOTH RD": 1,
-    "600 BLOCK S FT HARRISON AVE": 1
+    "600 BLOCK S FT HARRISON AVE": 1,
+    "2400 BLOCK ENTERPRISE RD": 1,
+    "24000 BLOCK US HIGHWAY 19 N": 1,
+    "S FORT HARRISON AVE / D ST": 1
   },
   "hourly_distribution": {
     "0": 85,
@@ -1170,7 +1173,7 @@
     "4": 25,
     "5": 67,
     "6": 88,
-    "7": 62,
+    "7": 65,
     "8": 147,
     "9": 163,
     "10": 156,
@@ -1189,7 +1192,7 @@
     "23": 79
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-10T12:32:42.987367+00:00",
+  "last_updated": "2025-12-10T13:21:50.097124+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 846
+  "total_snapshots": 847
 }
