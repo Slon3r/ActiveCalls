@@ -1,18 +1,18 @@
 {
-  "total_calls_tracked": 2492,
+  "total_calls_tracked": 2496,
   "total_resolved": 2491,
   "call_types": {
-    "DIRECTED PATROL": 811,
+    "DIRECTED PATROL": 813,
     "TRAFFIC STOP": 368,
     "DRUNK DRIVER": 8,
-    "DISTURBANCE": 57,
+    "DISTURBANCE": 58,
     "BATTERY": 19,
     "CRIMINAL MISCHIEF": 13,
     "ALARM": 35,
     "KEEP THE PEACE": 30,
     "WELFARE CHECK": 55,
     "PARK WALK AND TALK": 212,
-    "SUSPICIOUS PERSON": 97,
+    "SUSPICIOUS PERSON": 98,
     "TRESPASS": 55,
     "PROPERTY FOUND/LOST": 19,
     "THEFT": 31,
@@ -94,7 +94,7 @@
     "FLUSHING AVE / HARN BLVD": 2,
     "S BELCHER RD / BARCELONA DR": 1,
     "-1400 BLOCK 1417 S MISSOURI AVE": 1,
-    "1000 BLOCK GULF BLVD": 24,
+    "1000 BLOCK GULF BLVD": 25,
     "1400 BLOCK LAURA ST": 5,
     "ENTERPRISE RD E / VILLAGE DR": 3,
     "GULF TO BAY BLVD / HAMPTON RD": 1,
@@ -231,7 +231,7 @@
     "1300 BLOCK S FORT HARRISON AVE": 1,
     "HOLT AVE / RUSSELL ST": 1,
     "S GULFVIEW BLVD / SECOND ST": 1,
-    "2500 BLOCK COUNTRYSIDE BLVD": 12,
+    "2500 BLOCK COUNTRYSIDE BLVD": 13,
     "-300 BLOCK 339 CORONADO DR": 2,
     "-600 BLOCK 698 CLEVELAND ST": 1,
     "1500 BLOCK S HIGHLAND AVE": 3,
@@ -648,7 +648,7 @@
     "800 BLOCK HARBOR IS": 2,
     "RIDGE TOP WAY / MISTY PLATEAU TRL": 1,
     "800 BLOCK DREW ST": 3,
-    "OLD COACHMAN RD / DREW ST": 4,
+    "OLD COACHMAN RD / DREW ST": 5,
     "900 BLOCK CARLTON ST": 1,
     "1200 BLOCK S MYRTLE AVE": 1,
     "1300 BLOCK S MARTIN LUTHER KING JR AVE": 3,
@@ -1163,7 +1163,8 @@
     "600 BLOCK S FT HARRISON AVE": 1,
     "2400 BLOCK ENTERPRISE RD": 1,
     "24000 BLOCK US HIGHWAY 19 N": 1,
-    "S FORT HARRISON AVE / D ST": 1
+    "S FORT HARRISON AVE / D ST": 1,
+    "WILDWOOD WAY / S FORT HARRISON AVE": 1
   },
   "hourly_distribution": {
     "0": 85,
@@ -1174,7 +1175,7 @@
     "5": 67,
     "6": 88,
     "7": 65,
-    "8": 148,
+    "8": 152,
     "9": 163,
     "10": 156,
     "11": 143,
@@ -1192,7 +1193,7 @@
     "23": 79
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-10T13:52:09.101302+00:00",
+  "last_updated": "2025-12-10T14:11:31.884847+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 848
+  "total_snapshots": 849
 }
