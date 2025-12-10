@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 2616,
-  "total_resolved": 2602,
+  "total_calls_tracked": 2620,
+  "total_resolved": 2608,
   "call_types": {
-    "DIRECTED PATROL": 855,
+    "DIRECTED PATROL": 856,
     "TRAFFIC STOP": 375,
     "DRUNK DRIVER": 8,
     "DISTURBANCE": 59,
@@ -12,10 +12,10 @@
     "KEEP THE PEACE": 31,
     "WELFARE CHECK": 63,
     "PARK WALK AND TALK": 223,
-    "SUSPICIOUS PERSON": 102,
+    "SUSPICIOUS PERSON": 103,
     "TRESPASS": 56,
     "PROPERTY FOUND/LOST": 19,
-    "THEFT": 34,
+    "THEFT": 35,
     "NEIGHBOR CALL": 14,
     "911 HANG-UP": 98,
     "SUSPICIOUS VEHICLE": 18,
@@ -49,7 +49,7 @@
     "CHILD ABUSE": 2,
     "FIGHT": 1,
     "CHILD PROTECTION INVESTIGATION": 6,
-    "DRUNK PEDESTRIAN": 2,
+    "DRUNK PEDESTRIAN": 3,
     "ASSAULT": 7,
     "PERSON DOWN": 12,
     "ROBBERY": 2,
@@ -123,7 +123,7 @@
     "2300 BLOCK GULF TO BAY BLVD": 4,
     "1200 BLOCK CLEVELAND ST": 13,
     "-500 BLOCK 549 MANDALAY AVE": 1,
-    "27000 BLOCK US HIGHWAY 19 N": 30,
+    "27000 BLOCK US HIGHWAY 19 N": 31,
     "DRIVEWAY PARKING": 2,
     "1100 BLOCK GULF BLVD": 5,
     "2500 BLOCK GULF TO BAY BLVD": 11,
@@ -199,7 +199,7 @@
     "300 BLOCK S GULFVIEW BLVD": 11,
     "500 BLOCK S HIGHLAND AVE": 1,
     "1700 BLOCK KINGS HWY": 2,
-    "500 BLOCK MANDALAY AVE": 9,
+    "500 BLOCK MANDALAY AVE": 10,
     "3000 BLOCK HAVERFORD DR": 2,
     "DREW ST / OLD COACHMAN RD": 3,
     "2500 BLOCK HARN BLVD": 26,
@@ -596,7 +596,7 @@
     "SR 590 / US HIGHWAY 19 N": 4,
     "CLEVELAND ST / N BELCHER RD": 1,
     "BAYSHORE BLVD / GULF TO BAY BLVD": 2,
-    "600 BLOCK DRUID RD": 3,
+    "600 BLOCK DRUID RD": 4,
     "1800 BLOCK BELLEMEADE DR": 1,
     "-2500 BLOCK 2578 VILLAGE DR": 1,
     "-2800 BLOCK 2899 EAGLE ESTATES CIR N": 3,
@@ -1209,7 +1209,8 @@
     "1000 BLOCK N HERCULES AVE": 1,
     "1400 BLOCK RIDGE AVE": 1,
     "1000 BLOCK EDENVILLE AVE": 1,
-    "2600 BLOCK GLENEAGLES CT": 1
+    "2600 BLOCK GLENEAGLES CT": 1,
+    "2900 BLOCK HILLCREEK CIR S": 1
   },
   "hourly_distribution": {
     "0": 85,
@@ -1229,7 +1230,7 @@
     "14": 186,
     "15": 181,
     "16": 171,
-    "17": 164,
+    "17": 168,
     "18": 129,
     "19": 38,
     "20": 46,
@@ -1238,7 +1239,7 @@
     "23": 79
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-10T22:42:28.614976+00:00",
+  "last_updated": "2025-12-10T22:52:22.419588+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 876
+  "total_snapshots": 877
 }
