@@ -1,14 +1,14 @@
 {
-  "total_calls_tracked": 2515,
-  "total_resolved": 2508,
+  "total_calls_tracked": 2519,
+  "total_resolved": 2511,
   "call_types": {
-    "DIRECTED PATROL": 822,
+    "DIRECTED PATROL": 823,
     "TRAFFIC STOP": 370,
     "DRUNK DRIVER": 8,
     "DISTURBANCE": 58,
     "BATTERY": 19,
     "CRIMINAL MISCHIEF": 13,
-    "ALARM": 35,
+    "ALARM": 36,
     "KEEP THE PEACE": 30,
     "WELFARE CHECK": 55,
     "PARK WALK AND TALK": 213,
@@ -21,7 +21,7 @@
     "SUSPICIOUS VEHICLE": 18,
     "PANHANDLER/SOLICITOR": 5,
     "VEHICLE ILLEGALLY PARKED": 6,
-    "SUSPICIOUS EVENT": 48,
+    "SUSPICIOUS EVENT": 49,
     "TRAFFIC CRASH": 107,
     "DISABLED VEHICLE": 20,
     "ASSIST CITIZEN": 64,
@@ -36,7 +36,7 @@
     "CIVIL MATTER": 12,
     "DOMESTIC": 19,
     "ANIMAL CASE": 15,
-    "MISSING PERSON": 26,
+    "MISSING PERSON": 27,
     "BUILDING CHECK": 7,
     "SHOPLIFTING": 12,
     "DECEASED PERSON": 2,
@@ -88,7 +88,7 @@
     "400 BLOCK FAIRWOOD AVE": 4,
     "500 BLOCK S FORT HARRISON AVE": 8,
     "26000 BLOCK US HIGHWAY 19 N": 6,
-    "1300 BLOCK S BELCHER RD": 12,
+    "1300 BLOCK S BELCHER RD": 13,
     "200 BLOCK WINDWARD PSGE": 4,
     "2700 BLOCK DREW ST": 1,
     "FLUSHING AVE / HARN BLVD": 2,
@@ -1171,7 +1171,10 @@
     "ELDORADO AVE / ACACIA ST": 1,
     "-600 BLOCK 699 MANDALAY AVE": 1,
     "1800 BLOCK DREW ST": 1,
-    "100 BLOCK S GARDEN AVE": 1
+    "100 BLOCK S GARDEN AVE": 1,
+    "900 BLOCK JONES ST": 1,
+    "MADISON AVE/CLEVELAND ST": 1,
+    "400 BLOCK S OLD COACHMAN RD": 1
   },
   "hourly_distribution": {
     "0": 85,
@@ -1184,7 +1187,7 @@
     "7": 65,
     "8": 154,
     "9": 174,
-    "10": 162,
+    "10": 166,
     "11": 143,
     "12": 146,
     "13": 147,
@@ -1200,7 +1203,7 @@
     "23": 79
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-10T15:55:14.424392+00:00",
+  "last_updated": "2025-12-10T16:21:13.441424+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 854
+  "total_snapshots": 855
 }
