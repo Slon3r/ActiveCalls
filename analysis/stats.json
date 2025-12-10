@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 2509,
-  "total_resolved": 2500,
+  "total_calls_tracked": 2513,
+  "total_resolved": 2504,
   "call_types": {
-    "DIRECTED PATROL": 820,
-    "TRAFFIC STOP": 368,
+    "DIRECTED PATROL": 822,
+    "TRAFFIC STOP": 369,
     "DRUNK DRIVER": 8,
     "DISTURBANCE": 58,
     "BATTERY": 19,
@@ -25,7 +25,7 @@
     "TRAFFIC CRASH": 107,
     "DISABLED VEHICLE": 20,
     "ASSIST CITIZEN": 64,
-    "ASSIST OTHER AGENCY": 53,
+    "ASSIST OTHER AGENCY": 54,
     "FIRE": 3,
     "FRAUD": 14,
     "RECKLESS VEHICLE": 8,
@@ -71,7 +71,7 @@
     "1000 BLOCK WEST AVE": 2,
     "600 BLOCK S GULFVIEW BLVD": 10,
     "-800 BLOCK 1099 MARSHALL ST": 1,
-    "US HIGHWAY 19 N / DREW ST": 19,
+    "US HIGHWAY 19 N / DREW ST": 20,
     "US HIGHWAY 19 N / SR 590": 7,
     "1100 BLOCK DRUID RD": 7,
     "2100 BLOCK RANGE RD": 1,
@@ -939,7 +939,7 @@
     "1500 BLOCK TILLEY AVE": 1,
     "3100 BLOCK LANDMARK DR": 1,
     "1900 BLOCK LAKEVIEW RD": 1,
-    "2000 BLOCK ALPINE RD": 1,
+    "2000 BLOCK ALPINE RD": 2,
     "MONTCLAIR RD / SETON DR": 1,
     "-2600 BLOCK 2625 SOUTH DR": 2,
     "0 BLOCK 27 N FORT HARRISON AVE": 1,
@@ -1168,7 +1168,9 @@
     "2000 BLOCK THE MALL": 1,
     "S BELCHER RD / CURTIS DR N": 1,
     "2400 BLOCK NURSERY RD": 1,
-    "ELDORADO AVE / ACACIA ST": 1
+    "ELDORADO AVE / ACACIA ST": 1,
+    "-600 BLOCK 699 MANDALAY AVE": 1,
+    "1800 BLOCK DREW ST": 1
   },
   "hourly_distribution": {
     "0": 85,
@@ -1181,7 +1183,7 @@
     "7": 65,
     "8": 154,
     "9": 174,
-    "10": 156,
+    "10": 160,
     "11": 143,
     "12": 146,
     "13": 147,
@@ -1197,7 +1199,7 @@
     "23": 79
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-10T15:23:45.101053+00:00",
+  "last_updated": "2025-12-10T15:42:50.810647+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 852
+  "total_snapshots": 853
 }
