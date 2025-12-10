@@ -1176,6 +1176,78 @@
           "Response_Date": "2025-12-10T11:20:34"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-10T17:02:39.737203+00:00",
+      "call_count": 11,
+      "calls": [
+        {
+          "Master_Incident_Number": "121025-00123",
+          "Online_Description": "ORDINANCE VIOLATION",
+          "Address": "2000 BLOCK THE MALL",
+          "Response_Date": "2025-12-10T08:29:10"
+        },
+        {
+          "Master_Incident_Number": "121025-00160",
+          "Online_Description": "ANIMAL CASE",
+          "Address": "2400 BLOCK NURSERY RD",
+          "Response_Date": "2025-12-10T09:26:54"
+        },
+        {
+          "Master_Incident_Number": "121025-00179",
+          "Online_Description": "ASSIST OTHER AGENCY",
+          "Address": "2000 BLOCK ALPINE RD",
+          "Response_Date": "2025-12-10T10:01:47"
+        },
+        {
+          "Master_Incident_Number": "121025-00215",
+          "Online_Description": "KEEP THE PEACE",
+          "Address": "1300 BLOCK S MICHIGAN AVE",
+          "Response_Date": "2025-12-10T11:12:09"
+        },
+        {
+          "Master_Incident_Number": "121025-00217",
+          "Online_Description": "ASSIST OTHER AGENCY",
+          "Address": "2000 BLOCK EDGEWATER DR",
+          "Response_Date": "2025-12-10T11:20:34"
+        },
+        {
+          "Master_Incident_Number": "121025-00225",
+          "Online_Description": "BUILDING CHECK",
+          "Address": "600 BLOCK S FORT HARRISON AVE",
+          "Response_Date": "2025-12-10T11:33:45"
+        },
+        {
+          "Master_Incident_Number": "121025-00226",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "2700 BLOCK SR 580",
+          "Response_Date": "2025-12-10T11:35:19"
+        },
+        {
+          "Master_Incident_Number": "121025-00227",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "SOUTH SHORE BLVD",
+          "Response_Date": "2025-12-10T11:35:36"
+        },
+        {
+          "Master_Incident_Number": "121025-00229",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "300 BLOCK CORONADO DR",
+          "Response_Date": "2025-12-10T11:38:03"
+        },
+        {
+          "Master_Incident_Number": "121025-00230",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "S FORT HARRISON AVE / CLEVELAND ST",
+          "Response_Date": "2025-12-10T11:39:49"
+        },
+        {
+          "Master_Incident_Number": "121025-00231",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "1000 BLOCK GULF BLVD",
+          "Response_Date": "2025-12-10T11:41:04"
+        }
+      ]
     }
   ]
 }

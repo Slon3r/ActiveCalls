@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 2524,
-  "total_resolved": 2515,
+  "total_calls_tracked": 2530,
+  "total_resolved": 2519,
   "call_types": {
-    "DIRECTED PATROL": 825,
+    "DIRECTED PATROL": 830,
     "TRAFFIC STOP": 370,
     "DRUNK DRIVER": 8,
     "DISTURBANCE": 58,
@@ -37,7 +37,7 @@
     "DOMESTIC": 19,
     "ANIMAL CASE": 15,
     "MISSING PERSON": 27,
-    "BUILDING CHECK": 7,
+    "BUILDING CHECK": 8,
     "SHOPLIFTING": 12,
     "DECEASED PERSON": 2,
     "BURGLARY": 12,
@@ -94,7 +94,7 @@
     "FLUSHING AVE / HARN BLVD": 2,
     "S BELCHER RD / BARCELONA DR": 1,
     "-1400 BLOCK 1417 S MISSOURI AVE": 1,
-    "1000 BLOCK GULF BLVD": 25,
+    "1000 BLOCK GULF BLVD": 26,
     "1400 BLOCK LAURA ST": 5,
     "ENTERPRISE RD E / VILLAGE DR": 3,
     "GULF TO BAY BLVD / HAMPTON RD": 1,
@@ -211,7 +211,7 @@
     "1000 BLOCK N MADISON AVE": 1,
     "2800 BLOCK DREW ST": 2,
     "US HIGHWAY 19 N / GULF TO BAY BLVD": 6,
-    "300 BLOCK CORONADO DR": 18,
+    "300 BLOCK CORONADO DR": 19,
     "23600 BLOCK US HIGHWAY 19 N": 4,
     "300 BLOCK MANDALAY AVE": 3,
     "JONES ST / FERN AVE": 1,
@@ -404,7 +404,7 @@
     "DREW ST / US HIGHWAY 19 N": 3,
     "1300 BLOCK N MARTIN LUTHER KING JR AVE": 7,
     "N BELCHER RD / OLD COACHMAN RD": 1,
-    "600 BLOCK S FORT HARRISON AVE": 7,
+    "600 BLOCK S FORT HARRISON AVE": 8,
     "MONTCLAIR RD / N BELCHER RD": 1,
     "MCMULLEN BOOTH RD / RUTH ECKERD HALL DR": 2,
     "GULF TO BAY BLVD / MCMULLEN BOOTH RD S": 5,
@@ -820,7 +820,7 @@
     "700 BLOCK ELDRIDGE ST": 1,
     "2700 BLOCK REGENCY OAKS BLVD": 1,
     "3000 BLOCK BRAELOCH CIR E": 1,
-    "2700 BLOCK SR 580": 1,
+    "2700 BLOCK SR 580": 2,
     "-600 BLOCK 669 MANDALAY AVE": 1,
     "200 BLOCK PALM IS NW": 3,
     "600 BLOCK LAKEVIEW RD": 1,
@@ -946,7 +946,7 @@
     "DREW ST / PARK PLACE BLVD": 1,
     "DOUGLAS AVE / SUNSET POINT RD": 1,
     "800 BLOCK COURT ST": 5,
-    "SOUTH SHORE BLVD": 1,
+    "SOUTH SHORE BLVD": 2,
     "200 BLOCK S GULFVIEW BLVD": 2,
     "JEFFORDS ST / S HIGHLAND AVE": 1,
     "200 BLOCK S MYRTLE AVE": 1,
@@ -1176,7 +1176,8 @@
     "MADISON AVE/CLEVELAND ST": 1,
     "400 BLOCK S OLD COACHMAN RD": 1,
     "1400 BLOCK LAKEVIEW RD": 1,
-    "2000 BLOCK EDGEWATER DR": 1
+    "2000 BLOCK EDGEWATER DR": 1,
+    "S FORT HARRISON AVE / CLEVELAND ST": 1
   },
   "hourly_distribution": {
     "0": 85,
@@ -1190,7 +1191,7 @@
     "8": 154,
     "9": 174,
     "10": 166,
-    "11": 148,
+    "11": 154,
     "12": 146,
     "13": 147,
     "14": 171,
@@ -1205,7 +1206,7 @@
     "23": 79
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-10T16:47:46.113271+00:00",
+  "last_updated": "2025-12-10T17:02:39.739680+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 856
+  "total_snapshots": 857
 }
