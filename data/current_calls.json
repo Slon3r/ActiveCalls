@@ -1,24 +1,5 @@
 {
-  "calls": [
-    {
-      "Master_Incident_Number": "121025-00051",
-      "Online_Description": "TRAFFIC STOP",
-      "Address": "GULF TO BAY BLVD / S BELCHER RD",
-      "Response_Date": "2025-12-10T05:25:33"
-    },
-    {
-      "Master_Incident_Number": "121025-00052",
-      "Online_Description": "PARK WALK AND TALK",
-      "Address": "N HIGHLAND AVE / SUNSET POINT RD",
-      "Response_Date": "2025-12-10T05:25:53"
-    },
-    {
-      "Master_Incident_Number": "121025-00054",
-      "Online_Description": "PARK WALK AND TALK",
-      "Address": "1600 BLOCK GULF TO BAY BLVD",
-      "Response_Date": "2025-12-10T05:27:55"
-    }
-  ],
-  "timestamp": "2025-12-10T10:49:00.416334+00:00",
-  "count": 3
+  "calls": [],
+  "timestamp": "2025-12-10T10:59:06.668465+00:00",
+  "count": 0
 }
