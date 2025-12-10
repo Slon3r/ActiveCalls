@@ -12093,3 +12093,11 @@ TOTAL ACTIVE CALLS: 1
 
 --- RESOLVED CALLS (1) ---
 [RESOLVED] 121025-00061 | SUSPICIOUS VEHICLE | 3200 BLOCK COURTNEY CAMPBELL CSWY | Response: 05:54 AM
+
+================================================================================
+TIMESTAMP: 2025-12-10T11:47:19.172607+00:00
+TOTAL ACTIVE CALLS: 2
+================================================================================
+
+--- NEW CALLS (1) ---
+[NEW] 121025-00070 | SUSPICIOUS PERSON | 1600 BLOCK GULF TO BAY BLVD | Response: 06:19 AM
