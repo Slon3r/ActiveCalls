@@ -1,5 +1,5 @@
 {
-  "total_calls_tracked": 2475,
+  "total_calls_tracked": 2476,
   "total_resolved": 2475,
   "call_types": {
     "DIRECTED PATROL": 802,
@@ -18,7 +18,7 @@
     "THEFT": 31,
     "NEIGHBOR CALL": 13,
     "911 HANG-UP": 96,
-    "SUSPICIOUS VEHICLE": 17,
+    "SUSPICIOUS VEHICLE": 18,
     "PANHANDLER/SOLICITOR": 5,
     "VEHICLE ILLEGALLY PARKED": 6,
     "SUSPICIOUS EVENT": 48,
@@ -329,7 +329,7 @@
     "1000 BLOCK S MISSOURI AVE": 2,
     "1400 BLOCK S BELCHER RD": 7,
     "-500 BLOCK BLK ISLAND WAY": 1,
-    "3200 BLOCK COURTNEY CAMPBELL CSWY": 7,
+    "3200 BLOCK COURTNEY CAMPBELL CSWY": 8,
     "300 BLOCK N HIGHLAND AVE": 1,
     "2700 BLOCK WINDING WOOD DR": 1,
     "1700 BLOCK GULF TO BAY BLVD": 8,
@@ -1167,7 +1167,7 @@
     "2": 51,
     "3": 38,
     "4": 25,
-    "5": 66,
+    "5": 67,
     "6": 79,
     "7": 59,
     "8": 147,
@@ -1188,7 +1188,7 @@
     "23": 79
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-10T10:59:06.670278+00:00",
+  "last_updated": "2025-12-10T11:22:43.711786+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 841
+  "total_snapshots": 842
 }

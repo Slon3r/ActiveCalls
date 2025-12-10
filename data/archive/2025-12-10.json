@@ -582,6 +582,18 @@
       "timestamp": "2025-12-10T10:59:06.668465+00:00",
       "call_count": 0,
       "calls": []
+    },
+    {
+      "timestamp": "2025-12-10T11:22:43.709985+00:00",
+      "call_count": 1,
+      "calls": [
+        {
+          "Master_Incident_Number": "121025-00061",
+          "Online_Description": "SUSPICIOUS VEHICLE",
+          "Address": "3200 BLOCK COURTNEY CAMPBELL CSWY",
+          "Response_Date": "2025-12-10T05:54:38"
+        }
+      ]
     }
   ]
 }

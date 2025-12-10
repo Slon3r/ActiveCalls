@@ -12074,3 +12074,11 @@ TOTAL ACTIVE CALLS: 0
 [RESOLVED] 121025-00051 | TRAFFIC STOP | GULF TO BAY BLVD / S BELCHER RD | Response: 05:25 AM
 [RESOLVED] 121025-00052 | PARK WALK AND TALK | N HIGHLAND AVE / SUNSET POINT RD | Response: 05:25 AM
 [RESOLVED] 121025-00054 | PARK WALK AND TALK | 1600 BLOCK GULF TO BAY BLVD | Response: 05:27 AM
+
+================================================================================
+TIMESTAMP: 2025-12-10T11:22:43.709985+00:00
+TOTAL ACTIVE CALLS: 1
+================================================================================
+
+--- NEW CALLS (1) ---
+[NEW] 121025-00061 | SUSPICIOUS VEHICLE | 3200 BLOCK COURTNEY CAMPBELL CSWY | Response: 05:54 AM
