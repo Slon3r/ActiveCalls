@@ -7,10 +7,22 @@
       "Response_Date": "2025-12-10T16:06:47"
     },
     {
+      "Master_Incident_Number": "121025-00375",
+      "Online_Description": "TRAFFIC CRASH",
+      "Address": "3300 BLOCK COURTNEY CAMPBELL CSWY",
+      "Response_Date": "2025-12-10T16:22:35"
+    },
+    {
       "Master_Incident_Number": "121025-00378",
       "Online_Description": "WELFARE CHECK",
       "Address": "1400 BLOCK RIDGE AVE",
       "Response_Date": "2025-12-10T16:27:34"
+    },
+    {
+      "Master_Incident_Number": "121025-00390",
+      "Online_Description": "TRAFFIC CRASH",
+      "Address": "100 BLOCK HAMPTON RD",
+      "Response_Date": "2025-12-10T16:48:50"
     },
     {
       "Master_Incident_Number": "121025-00404",
@@ -49,30 +61,12 @@
       "Response_Date": "2025-12-10T17:53:58"
     },
     {
-      "Master_Incident_Number": "121025-00427",
-      "Online_Description": "TRAFFIC STOP",
-      "Address": "S MISSOURI AVE / BELLEAIR RD",
-      "Response_Date": "2025-12-10T17:55:19"
-    },
-    {
-      "Master_Incident_Number": "121025-00431",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "DRUID RD / S MYRTLE AVE",
-      "Response_Date": "2025-12-10T17:58:09"
-    },
-    {
       "Master_Incident_Number": "121025-00438",
       "Online_Description": "BURGLARY",
       "Address": "1900 BLOCK KINGS HWY",
       "Response_Date": "2025-12-10T18:06:56"
-    },
-    {
-      "Master_Incident_Number": "121025-00440",
-      "Online_Description": "PARK WALK AND TALK",
-      "Address": "-400 BLOCK 498 MANDALAY AVE",
-      "Response_Date": "2025-12-10T18:08:51"
     }
   ],
-  "timestamp": "2025-12-10T23:36:57.415876+00:00",
-  "count": 12
+  "timestamp": "2025-12-10T23:45:18.815037+00:00",
+  "count": 11
 }

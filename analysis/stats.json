@@ -1,6 +1,6 @@
 {
-  "total_calls_tracked": 2633,
-  "total_resolved": 2621,
+  "total_calls_tracked": 2635,
+  "total_resolved": 2624,
   "call_types": {
     "DIRECTED PATROL": 859,
     "TRAFFIC STOP": 377,
@@ -22,7 +22,7 @@
     "PANHANDLER/SOLICITOR": 5,
     "VEHICLE ILLEGALLY PARKED": 6,
     "SUSPICIOUS EVENT": 53,
-    "TRAFFIC CRASH": 115,
+    "TRAFFIC CRASH": 117,
     "DISABLED VEHICLE": 20,
     "ASSIST CITIZEN": 68,
     "ASSIST OTHER AGENCY": 58,
@@ -131,7 +131,7 @@
     "1200 BLOCK DREW ST": 3,
     "2400 BLOCK DREW ST": 6,
     "-1100 BLOCK 1582 GULF BLVD": 5,
-    "3300 BLOCK COURTNEY CAMPBELL CSWY": 8,
+    "3300 BLOCK COURTNEY CAMPBELL CSWY": 9,
     "1200 BLOCK COURT ST": 4,
     "1400 BLOCK OWEN DR": 1,
     "200 BLOCK ISLAND WAY": 9,
@@ -156,7 +156,7 @@
     "600 BLOCK PIERCE ST": 24,
     "0 BLOCK 99 THIRD ST": 7,
     "0 BLOCK 98 THIRD ST": 5,
-    "100 BLOCK HAMPTON RD": 4,
+    "100 BLOCK HAMPTON RD": 5,
     "GULF TO BAY BLVD / PARK PLACE BLVD": 2,
     "2000 BLOCK N HERCULES AVE": 2,
     "1300 BLOCK FRANKLIN ST": 2,
@@ -1235,7 +1235,7 @@
     "13": 157,
     "14": 186,
     "15": 181,
-    "16": 172,
+    "16": 174,
     "17": 177,
     "18": 132,
     "19": 38,
@@ -1245,7 +1245,7 @@
     "23": 79
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-10T23:36:57.420195+00:00",
+  "last_updated": "2025-12-10T23:45:18.819040+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 880
+  "total_snapshots": 881
 }
