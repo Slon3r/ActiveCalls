@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 2472,
+  "total_calls_tracked": 2475,
   "total_resolved": 2472,
   "call_types": {
     "DIRECTED PATROL": 802,
-    "TRAFFIC STOP": 365,
+    "TRAFFIC STOP": 366,
     "DRUNK DRIVER": 8,
     "DISTURBANCE": 57,
     "BATTERY": 19,
@@ -11,7 +11,7 @@
     "ALARM": 35,
     "KEEP THE PEACE": 30,
     "WELFARE CHECK": 54,
-    "PARK WALK AND TALK": 209,
+    "PARK WALK AND TALK": 211,
     "SUSPICIOUS PERSON": 96,
     "TRESPASS": 54,
     "PROPERTY FOUND/LOST": 19,
@@ -65,7 +65,7 @@
   },
   "addresses": {
     "MEMORIAL CSWY / ISLAND WAY": 27,
-    "GULF TO BAY BLVD / S BELCHER RD": 5,
+    "GULF TO BAY BLVD / S BELCHER RD": 6,
     "1900 BLOCK N BETTY LN": 1,
     "1400 BLOCK CLEVELAND ST": 2,
     "1000 BLOCK WEST AVE": 2,
@@ -215,11 +215,11 @@
     "23600 BLOCK US HIGHWAY 19 N": 4,
     "300 BLOCK MANDALAY AVE": 3,
     "JONES ST / FERN AVE": 1,
-    "1600 BLOCK GULF TO BAY BLVD": 22,
+    "1600 BLOCK GULF TO BAY BLVD": 23,
     "1600 BLOCK DARTMOUTH ST": 1,
     "HAMDEN DR / BRIGHTWATER DR": 3,
     "HAMPTON RD / GULF TO BAY BLVD": 2,
-    "N HIGHLAND AVE / SUNSET POINT RD": 3,
+    "N HIGHLAND AVE / SUNSET POINT RD": 4,
     "1100 BLOCK TANGERINE ST": 1,
     "N HERCULES AVE / SUNSET POINT RD": 3,
     "US HIGHWAY 19 N / COUNTRYSIDE BLVD": 5,
@@ -1167,7 +1167,7 @@
     "2": 51,
     "3": 38,
     "4": 25,
-    "5": 63,
+    "5": 66,
     "6": 79,
     "7": 59,
     "8": 147,
@@ -1188,7 +1188,7 @@
     "23": 79
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-10T10:26:44.577503+00:00",
+  "last_updated": "2025-12-10T10:49:00.425445+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 839
+  "total_snapshots": 840
 }
