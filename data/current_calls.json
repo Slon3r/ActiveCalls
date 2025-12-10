@@ -1,12 +1,6 @@
 {
   "calls": [
     {
-      "Master_Incident_Number": "121025-00318",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "3300 BLOCK SAN GABRIEL ST",
-      "Response_Date": "2025-12-10T15:19:07"
-    },
-    {
       "Master_Incident_Number": "121025-00319",
       "Online_Description": "PARK WALK AND TALK",
       "Address": "0 BLOCK MEMORIAL CSWY",
@@ -19,42 +13,72 @@
       "Response_Date": "2025-12-10T15:01:35"
     },
     {
-      "Master_Incident_Number": "121025-00334",
-      "Online_Description": "WELFARE CHECK",
-      "Address": "1400 BLOCK SUNSET POINT RD",
-      "Response_Date": "2025-12-10T15:04:09"
-    },
-    {
-      "Master_Incident_Number": "121025-00336",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "300 BLOCK CLEVELAND ST",
-      "Response_Date": "2025-12-10T15:17:57"
-    },
-    {
       "Master_Incident_Number": "121025-00339",
       "Online_Description": "THEFT",
       "Address": "23600 BLOCK US HIGHWAY 19 N",
       "Response_Date": "2025-12-10T15:23:37"
     },
     {
-      "Master_Incident_Number": "121025-00340",
-      "Online_Description": "SUSPICIOUS PERSON",
-      "Address": "23600 BLOCK US HIGHWAY 19 N",
-      "Response_Date": "2025-12-10T15:28:22"
-    },
-    {
-      "Master_Incident_Number": "121025-00341",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "-300 BLOCK 398 ELDRIDGE ST",
-      "Response_Date": "2025-12-10T15:29:32"
-    },
-    {
       "Master_Incident_Number": "121025-00342",
       "Online_Description": "TRAFFIC CRASH",
       "Address": "DREW ST / US HIGHWAY 19 N",
       "Response_Date": "2025-12-10T15:33:46"
+    },
+    {
+      "Master_Incident_Number": "121025-00345",
+      "Online_Description": "ASSIST CITIZEN",
+      "Address": "2400 BLOCK HILLCREEK CIR E",
+      "Response_Date": "2025-12-10T15:34:42"
+    },
+    {
+      "Master_Incident_Number": "121025-00344",
+      "Online_Description": "ANIMAL CASE",
+      "Address": "600 BLOCK S GLENWOOD AVE",
+      "Response_Date": "2025-12-10T15:35:42"
+    },
+    {
+      "Master_Incident_Number": "121025-00343",
+      "Online_Description": "TRAFFIC CRASH",
+      "Address": "N KEENE RD / LONG ST",
+      "Response_Date": "2025-12-10T15:36:29"
+    },
+    {
+      "Master_Incident_Number": "121025-00351",
+      "Online_Description": "TRAFFIC CRASH",
+      "Address": "S FORT HARRISON AVE / WILDWOOD WAY",
+      "Response_Date": "2025-12-10T15:47:46"
+    },
+    {
+      "Master_Incident_Number": "121025-00355",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "23100 BLOCK US HIGHWAY 19 N",
+      "Response_Date": "2025-12-10T15:56:21"
+    },
+    {
+      "Master_Incident_Number": "121025-00357",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "BELLEAIR RD / SCRANTON AVE",
+      "Response_Date": "2025-12-10T15:59:04"
+    },
+    {
+      "Master_Incident_Number": "121025-00361",
+      "Online_Description": "PARK WALK AND TALK",
+      "Address": "1300 BLOCK WOODBINE ST",
+      "Response_Date": "2025-12-10T16:00:21"
+    },
+    {
+      "Master_Incident_Number": "121025-00363",
+      "Online_Description": "TRAFFIC CRASH",
+      "Address": "S MISSOURI AVE / GOULD ST",
+      "Response_Date": "2025-12-10T16:02:33"
+    },
+    {
+      "Master_Incident_Number": "121025-00364",
+      "Online_Description": "TRAFFIC STOP",
+      "Address": "S BELCHER RD / GULF TO BAY BLVD",
+      "Response_Date": "2025-12-10T16:04:18"
     }
   ],
-  "timestamp": "2025-12-10T20:59:00.741074+00:00",
-  "count": 9
+  "timestamp": "2025-12-10T21:25:43.206778+00:00",
+  "count": 13
 }
