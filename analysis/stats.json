@@ -1,6 +1,6 @@
 {
-  "total_calls_tracked": 2601,
-  "total_resolved": 2593,
+  "total_calls_tracked": 2602,
+  "total_resolved": 2594,
   "call_types": {
     "DIRECTED PATROL": 852,
     "TRAFFIC STOP": 374,
@@ -21,7 +21,7 @@
     "SUSPICIOUS VEHICLE": 18,
     "PANHANDLER/SOLICITOR": 5,
     "VEHICLE ILLEGALLY PARKED": 6,
-    "SUSPICIOUS EVENT": 51,
+    "SUSPICIOUS EVENT": 52,
     "TRAFFIC CRASH": 114,
     "DISABLED VEHICLE": 20,
     "ASSIST CITIZEN": 68,
@@ -404,7 +404,7 @@
     "DREW ST / US HIGHWAY 19 N": 4,
     "1300 BLOCK N MARTIN LUTHER KING JR AVE": 7,
     "N BELCHER RD / OLD COACHMAN RD": 1,
-    "600 BLOCK S FORT HARRISON AVE": 8,
+    "600 BLOCK S FORT HARRISON AVE": 9,
     "MONTCLAIR RD / N BELCHER RD": 1,
     "MCMULLEN BOOTH RD / RUTH ECKERD HALL DR": 2,
     "GULF TO BAY BLVD / MCMULLEN BOOTH RD S": 5,
@@ -1224,7 +1224,7 @@
     "13": 157,
     "14": 186,
     "15": 181,
-    "16": 163,
+    "16": 164,
     "17": 157,
     "18": 129,
     "19": 38,
@@ -1234,7 +1234,7 @@
     "23": 79
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-10T21:51:12.816491+00:00",
+  "last_updated": "2025-12-10T21:59:42.490566+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 873
+  "total_snapshots": 874
 }

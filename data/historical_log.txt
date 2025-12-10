@@ -12596,3 +12596,14 @@ TOTAL ACTIVE CALLS: 8
 --- RESOLVED CALLS (2) ---
 [RESOLVED] 121025-00206 | DIRECTED PATROL | 1300 BLOCK S BELCHER RD | Response: 11:00 AM
 [RESOLVED] 121025-00343 | TRAFFIC CRASH | N KEENE RD / LONG ST | Response: 03:36 PM
+
+================================================================================
+TIMESTAMP: 2025-12-10T21:59:42.486875+00:00
+TOTAL ACTIVE CALLS: 8
+================================================================================
+
+--- NEW CALLS (1) ---
+[NEW] 121025-00381 | SUSPICIOUS EVENT | 600 BLOCK S FORT HARRISON AVE | Response: 04:28 PM
+
+--- RESOLVED CALLS (1) ---
+[RESOLVED] 121025-00356 | TRAFFIC CONTROL | GREENBRIAR BLVD / BELCHER RD (GREENBRIAR BLVD) | Response: 03:56 PM
