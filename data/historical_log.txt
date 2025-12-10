@@ -11989,3 +11989,12 @@ TOTAL ACTIVE CALLS: 5
 --- NEW CALLS (2) ---
 [NEW] 121025-00024 | DIRECTED PATROL | S BELCHER RD / DRUID RD | Response: 02:14 AM
 [NEW] 121025-00025 | ASSIST OTHER AGENCY | 2400 BLOCK MCMULLEN BOOTH RD | Response: 02:17 AM
+
+================================================================================
+TIMESTAMP: 2025-12-10T07:53:53.535695+00:00
+TOTAL ACTIVE CALLS: 3
+================================================================================
+
+--- RESOLVED CALLS (2) ---
+[RESOLVED] 120925-00555 | DRUNK DRIVER | SUNSET POINT RD / US HIGHWAY 19 N | Response: 11:49 PM
+[RESOLVED] 121025-00024 | DIRECTED PATROL | S BELCHER RD / DRUID RD | Response: 02:14 AM
