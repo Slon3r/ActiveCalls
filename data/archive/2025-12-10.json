@@ -114,6 +114,48 @@
           "Response_Date": "2025-12-09T21:37:29"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-10T03:56:58.569892+00:00",
+      "call_count": 6,
+      "calls": [
+        {
+          "Master_Incident_Number": "120925-00482",
+          "Online_Description": "INJUNCTION VIOLATION",
+          "Address": "1900 BLOCK UNION ST",
+          "Response_Date": "2025-12-09T20:23:01"
+        },
+        {
+          "Master_Incident_Number": "120925-00505",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "US HIGHWAY 19 N / BELLEAIR RD",
+          "Response_Date": "2025-12-09T21:32:10"
+        },
+        {
+          "Master_Incident_Number": "120925-00507",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "MEMORIAL CSWY / ISLAND WAY",
+          "Response_Date": "2025-12-09T21:33:57"
+        },
+        {
+          "Master_Incident_Number": "120925-00522",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "17700 BLOCK US HIGHWAY 19 N",
+          "Response_Date": "2025-12-09T22:06:15"
+        },
+        {
+          "Master_Incident_Number": "120925-00523",
+          "Online_Description": "SHOTS FIRED",
+          "Address": "1400 BLOCK BYRAM DR",
+          "Response_Date": "2025-12-09T22:06:55"
+        },
+        {
+          "Master_Incident_Number": "120925-00526",
+          "Online_Description": "PARK WALK AND TALK",
+          "Address": "-300 BLOCK 437 MANDALAY AVE",
+          "Response_Date": "2025-12-09T22:18:09"
+        }
+      ]
     }
   ]
 }

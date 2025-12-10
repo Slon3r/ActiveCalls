@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 2454,
-  "total_resolved": 2445,
+  "total_calls_tracked": 2457,
+  "total_resolved": 2451,
   "call_types": {
     "DIRECTED PATROL": 797,
-    "TRAFFIC STOP": 364,
+    "TRAFFIC STOP": 365,
     "DRUNK DRIVER": 7,
     "DISTURBANCE": 56,
     "BATTERY": 19,
@@ -11,7 +11,7 @@
     "ALARM": 35,
     "KEEP THE PEACE": 30,
     "WELFARE CHECK": 53,
-    "PARK WALK AND TALK": 207,
+    "PARK WALK AND TALK": 208,
     "SUSPICIOUS PERSON": 95,
     "TRESPASS": 54,
     "PROPERTY FOUND/LOST": 19,
@@ -41,7 +41,7 @@
     "SHOPLIFTING": 12,
     "DECEASED PERSON": 2,
     "BURGLARY": 12,
-    "SHOTS FIRED": 1,
+    "SHOTS FIRED": 2,
     "HIT & RUN": 20,
     "SCHOOL CROSSING": 6,
     "ORDINANCE VIOLATION": 6,
@@ -242,7 +242,7 @@
     "CLEVELAND ST / N MISSOURI AVE": 3,
     "600 BLOCK COURT ST": 7,
     "GULF TO BAY BLVD / S NIMBUS AVE": 1,
-    "-300 BLOCK 437 MANDALAY AVE": 2,
+    "-300 BLOCK 437 MANDALAY AVE": 3,
     "600 BLOCK LEMBO CIR": 1,
     "1500 BLOCK RIDGEWOOD ST": 2,
     "2500 BLOCK FOREST RUN CT": 2,
@@ -1155,7 +1155,9 @@
     "1600 BLOCK MCMULLEN BOOTH RD": 1,
     "US HIGHWAY 19 N / BELLEAIR RD": 1,
     "MANDALAY AVE / ROYAL WAY": 1,
-    "2500 BLOCK SR 580": 1
+    "2500 BLOCK SR 580": 1,
+    "17700 BLOCK US HIGHWAY 19 N": 1,
+    "1400 BLOCK BYRAM DR": 1
   },
   "hourly_distribution": {
     "0": 85,
@@ -1180,11 +1182,11 @@
     "19": 38,
     "20": 46,
     "21": 52,
-    "22": 98,
+    "22": 101,
     "23": 73
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-10T02:59:40.536349+00:00",
+  "last_updated": "2025-12-10T03:56:58.571270+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 820
+  "total_snapshots": 821
 }
