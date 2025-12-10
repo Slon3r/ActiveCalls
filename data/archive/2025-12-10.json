@@ -54,6 +54,66 @@
           "Response_Date": "2025-12-09T19:56:50"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-10T02:59:40.535048+00:00",
+      "call_count": 9,
+      "calls": [
+        {
+          "Master_Incident_Number": "120925-00372",
+          "Online_Description": "ROBBERY",
+          "Address": "600 BLOCK S FORT HARRISON AVE",
+          "Response_Date": "2025-12-09T17:04:51"
+        },
+        {
+          "Master_Incident_Number": "120925-00426",
+          "Online_Description": "DRUNK DRIVER",
+          "Address": "3000 BLOCK MARLO BLVD",
+          "Response_Date": "2025-12-09T18:18:22"
+        },
+        {
+          "Master_Incident_Number": "120925-00482",
+          "Online_Description": "INJUNCTION VIOLATION",
+          "Address": "1900 BLOCK UNION ST",
+          "Response_Date": "2025-12-09T20:23:01"
+        },
+        {
+          "Master_Incident_Number": "120925-00503",
+          "Online_Description": "PARK WALK AND TALK",
+          "Address": "-300 BLOCK 437 MANDALAY AVE",
+          "Response_Date": "2025-12-09T21:12:20"
+        },
+        {
+          "Master_Incident_Number": "120925-00505",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "US HIGHWAY 19 N / BELLEAIR RD",
+          "Response_Date": "2025-12-09T21:32:10"
+        },
+        {
+          "Master_Incident_Number": "120925-00506",
+          "Online_Description": "SUSPICIOUS PERSON",
+          "Address": "MANDALAY AVE / ROYAL WAY",
+          "Response_Date": "2025-12-09T21:33:11"
+        },
+        {
+          "Master_Incident_Number": "120925-00507",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "MEMORIAL CSWY / ISLAND WAY",
+          "Response_Date": "2025-12-09T21:33:57"
+        },
+        {
+          "Master_Incident_Number": "120925-00508",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "2500 BLOCK SR 580",
+          "Response_Date": "2025-12-09T21:35:23"
+        },
+        {
+          "Master_Incident_Number": "120925-00510",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "MEMORIAL CSWY / ISLAND WAY",
+          "Response_Date": "2025-12-09T21:37:29"
+        }
+      ]
     }
   ]
 }

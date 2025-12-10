@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 2447,
-  "total_resolved": 2439,
+  "total_calls_tracked": 2454,
+  "total_resolved": 2445,
   "call_types": {
     "DIRECTED PATROL": 797,
-    "TRAFFIC STOP": 360,
+    "TRAFFIC STOP": 364,
     "DRUNK DRIVER": 7,
     "DISTURBANCE": 56,
     "BATTERY": 19,
@@ -11,8 +11,8 @@
     "ALARM": 35,
     "KEEP THE PEACE": 30,
     "WELFARE CHECK": 53,
-    "PARK WALK AND TALK": 206,
-    "SUSPICIOUS PERSON": 94,
+    "PARK WALK AND TALK": 207,
+    "SUSPICIOUS PERSON": 95,
     "TRESPASS": 54,
     "PROPERTY FOUND/LOST": 19,
     "THEFT": 31,
@@ -53,7 +53,7 @@
     "ASSAULT": 7,
     "PERSON DOWN": 11,
     "ROBBERY": 2,
-    "INJUNCTION VIOLATION": 1,
+    "INJUNCTION VIOLATION": 2,
     "STALKING": 1,
     "TRAFFIC CONTROL": 4,
     "WIRES DOWN": 1,
@@ -64,7 +64,7 @@
     "OPEN DOOR/WINDOW": 1
   },
   "addresses": {
-    "MEMORIAL CSWY / ISLAND WAY": 25,
+    "MEMORIAL CSWY / ISLAND WAY": 27,
     "GULF TO BAY BLVD / S BELCHER RD": 5,
     "1900 BLOCK N BETTY LN": 1,
     "1400 BLOCK CLEVELAND ST": 2,
@@ -77,7 +77,7 @@
     "2100 BLOCK RANGE RD": 1,
     "0 BLOCK ACACIA ST": 6,
     "-600 BLOCK 647 BAY ESPLANADE": 1,
-    "1900 BLOCK UNION ST": 2,
+    "1900 BLOCK UNION ST": 3,
     "200 BLOCK DREW ST": 9,
     "-800 BLOCK 819 NARCISSUS AVE": 2,
     "0 BLOCK ISLAND WAY": 8,
@@ -242,7 +242,7 @@
     "CLEVELAND ST / N MISSOURI AVE": 3,
     "600 BLOCK COURT ST": 7,
     "GULF TO BAY BLVD / S NIMBUS AVE": 1,
-    "-300 BLOCK 437 MANDALAY AVE": 1,
+    "-300 BLOCK 437 MANDALAY AVE": 2,
     "600 BLOCK LEMBO CIR": 1,
     "1500 BLOCK RIDGEWOOD ST": 2,
     "2500 BLOCK FOREST RUN CT": 2,
@@ -1152,7 +1152,10 @@
     "1900 BLOCK CALUMET ST": 1,
     "3000 BLOCK MARLO BLVD": 1,
     "1700 BLOCK N BETTY LN": 1,
-    "1600 BLOCK MCMULLEN BOOTH RD": 1
+    "1600 BLOCK MCMULLEN BOOTH RD": 1,
+    "US HIGHWAY 19 N / BELLEAIR RD": 1,
+    "MANDALAY AVE / ROYAL WAY": 1,
+    "2500 BLOCK SR 580": 1
   },
   "hourly_distribution": {
     "0": 85,
@@ -1175,13 +1178,13 @@
     "17": 157,
     "18": 129,
     "19": 38,
-    "20": 45,
-    "21": 46,
+    "20": 46,
+    "21": 52,
     "22": 98,
     "23": 73
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-10T01:19:18.080123+00:00",
+  "last_updated": "2025-12-10T02:59:40.536349+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 819
+  "total_snapshots": 820
 }
