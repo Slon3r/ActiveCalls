@@ -1338,6 +1338,84 @@
           "Response_Date": "2025-12-10T12:10:06"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-10T17:49:15.237883+00:00",
+      "call_count": 12,
+      "calls": [
+        {
+          "Master_Incident_Number": "121025-00217",
+          "Online_Description": "ASSIST OTHER AGENCY",
+          "Address": "2000 BLOCK EDGEWATER DR",
+          "Response_Date": "2025-12-10T11:20:34"
+        },
+        {
+          "Master_Incident_Number": "121025-00229",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "300 BLOCK CORONADO DR",
+          "Response_Date": "2025-12-10T11:38:03"
+        },
+        {
+          "Master_Incident_Number": "121025-00230",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "S FORT HARRISON AVE / CLEVELAND ST",
+          "Response_Date": "2025-12-10T11:39:49"
+        },
+        {
+          "Master_Incident_Number": "121025-00231",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "1000 BLOCK GULF BLVD",
+          "Response_Date": "2025-12-10T11:41:04"
+        },
+        {
+          "Master_Incident_Number": "121025-00235",
+          "Online_Description": "ASSIST CITIZEN",
+          "Address": "2900 BLOCK CHANCERY LN",
+          "Response_Date": "2025-12-10T11:46:11"
+        },
+        {
+          "Master_Incident_Number": "121025-00244",
+          "Online_Description": "ASSIST CITIZEN",
+          "Address": "800 BLOCK BAYWAY BLVD",
+          "Response_Date": "2025-12-10T11:54:08"
+        },
+        {
+          "Master_Incident_Number": "121025-00240",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "CLEVELAND ST / N FORT HARRISON AVE",
+          "Response_Date": "2025-12-10T11:55:28"
+        },
+        {
+          "Master_Incident_Number": "121025-00243",
+          "Online_Description": "PARK WALK AND TALK",
+          "Address": "CLEVELAND ST / N FORT HARRISON AVE",
+          "Response_Date": "2025-12-10T11:56:58"
+        },
+        {
+          "Master_Incident_Number": "121025-00252",
+          "Online_Description": "TRAFFIC CRASH",
+          "Address": "2000 BLOCK ALPINE RD",
+          "Response_Date": "2025-12-10T12:13:30"
+        },
+        {
+          "Master_Incident_Number": "121025-00255",
+          "Online_Description": "WELFARE CHECK",
+          "Address": "DREW ST / N ARCTURAS AVE",
+          "Response_Date": "2025-12-10T12:13:43"
+        },
+        {
+          "Master_Incident_Number": "121025-00251",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "PARKING / DRIVEWAY",
+          "Response_Date": "2025-12-10T12:13:47"
+        },
+        {
+          "Master_Incident_Number": "121025-00253",
+          "Online_Description": "PARK WALK AND TALK",
+          "Address": "23100 BLOCK US HIGHWAY 19 N",
+          "Response_Date": "2025-12-10T12:17:27"
+        }
+      ]
     }
   ]
 }

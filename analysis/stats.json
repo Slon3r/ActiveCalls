@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 2538,
-  "total_resolved": 2524,
+  "total_calls_tracked": 2542,
+  "total_resolved": 2530,
   "call_types": {
-    "DIRECTED PATROL": 832,
+    "DIRECTED PATROL": 833,
     "TRAFFIC STOP": 372,
     "DRUNK DRIVER": 8,
     "DISTURBANCE": 58,
@@ -10,8 +10,8 @@
     "CRIMINAL MISCHIEF": 13,
     "ALARM": 36,
     "KEEP THE PEACE": 31,
-    "WELFARE CHECK": 56,
-    "PARK WALK AND TALK": 214,
+    "WELFARE CHECK": 57,
+    "PARK WALK AND TALK": 215,
     "SUSPICIOUS PERSON": 98,
     "TRESPASS": 56,
     "PROPERTY FOUND/LOST": 19,
@@ -22,7 +22,7 @@
     "PANHANDLER/SOLICITOR": 5,
     "VEHICLE ILLEGALLY PARKED": 6,
     "SUSPICIOUS EVENT": 49,
-    "TRAFFIC CRASH": 108,
+    "TRAFFIC CRASH": 109,
     "DISABLED VEHICLE": 20,
     "ASSIST CITIZEN": 66,
     "ASSIST OTHER AGENCY": 55,
@@ -103,7 +103,7 @@
     "2100 BLOCK BELCHER RD": 1,
     "SAND KEY PARK ENTRANCE": 7,
     "S MISSOURI AVE / LAKEVIEW RD": 6,
-    "23100 BLOCK US HIGHWAY 19 N": 11,
+    "23100 BLOCK US HIGHWAY 19 N": 12,
     "1200 BLOCK N BETTY LN": 1,
     "MCMULLEN BOOTH RD / SR 590": 4,
     "LAKEVIEW RD / S MISSOURI AVE": 2,
@@ -939,7 +939,7 @@
     "1500 BLOCK TILLEY AVE": 1,
     "3100 BLOCK LANDMARK DR": 1,
     "1900 BLOCK LAKEVIEW RD": 1,
-    "2000 BLOCK ALPINE RD": 2,
+    "2000 BLOCK ALPINE RD": 3,
     "MONTCLAIR RD / SETON DR": 1,
     "-2600 BLOCK 2625 SOUTH DR": 2,
     "0 BLOCK 27 N FORT HARRISON AVE": 1,
@@ -1182,7 +1182,9 @@
     "2900 BLOCK CHANCERY LN": 1,
     "CLEVELAND ST / N FORT HARRISON AVE": 2,
     "TURNER ST / S PROSPECT AVE": 1,
-    "SR 590 / AUDREY DR": 1
+    "SR 590 / AUDREY DR": 1,
+    "DREW ST / N ARCTURAS AVE": 1,
+    "PARKING / DRIVEWAY": 1
   },
   "hourly_distribution": {
     "0": 85,
@@ -1197,7 +1199,7 @@
     "9": 174,
     "10": 166,
     "11": 160,
-    "12": 148,
+    "12": 152,
     "13": 147,
     "14": 171,
     "15": 163,
@@ -1211,7 +1213,7 @@
     "23": 79
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-10T17:32:41.743451+00:00",
+  "last_updated": "2025-12-10T17:49:15.240700+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 858
+  "total_snapshots": 859
 }

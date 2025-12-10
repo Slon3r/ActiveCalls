@@ -1,18 +1,6 @@
 {
   "calls": [
     {
-      "Master_Incident_Number": "121025-00123",
-      "Online_Description": "ORDINANCE VIOLATION",
-      "Address": "2000 BLOCK THE MALL",
-      "Response_Date": "2025-12-10T08:29:10"
-    },
-    {
-      "Master_Incident_Number": "121025-00160",
-      "Online_Description": "ANIMAL CASE",
-      "Address": "2400 BLOCK NURSERY RD",
-      "Response_Date": "2025-12-10T09:26:54"
-    },
-    {
       "Master_Incident_Number": "121025-00217",
       "Online_Description": "ASSIST OTHER AGENCY",
       "Address": "2000 BLOCK EDGEWATER DR",
@@ -37,22 +25,10 @@
       "Response_Date": "2025-12-10T11:41:04"
     },
     {
-      "Master_Incident_Number": "121025-00233",
-      "Online_Description": "TRAFFIC CRASH",
-      "Address": "S FORT HARRISON AVE / JEFFORDS ST",
-      "Response_Date": "2025-12-10T11:42:21"
-    },
-    {
       "Master_Incident_Number": "121025-00235",
       "Online_Description": "ASSIST CITIZEN",
       "Address": "2900 BLOCK CHANCERY LN",
       "Response_Date": "2025-12-10T11:46:11"
-    },
-    {
-      "Master_Incident_Number": "121025-00238",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "GULF TO BAY BLVD / EDENVILLE AVE",
-      "Response_Date": "2025-12-10T11:51:15"
     },
     {
       "Master_Incident_Number": "121025-00244",
@@ -73,18 +49,30 @@
       "Response_Date": "2025-12-10T11:56:58"
     },
     {
-      "Master_Incident_Number": "121025-00245",
-      "Online_Description": "TRAFFIC STOP",
-      "Address": "TURNER ST / S PROSPECT AVE",
-      "Response_Date": "2025-12-10T12:00:33"
+      "Master_Incident_Number": "121025-00252",
+      "Online_Description": "TRAFFIC CRASH",
+      "Address": "2000 BLOCK ALPINE RD",
+      "Response_Date": "2025-12-10T12:13:30"
     },
     {
-      "Master_Incident_Number": "121025-00249",
-      "Online_Description": "TRAFFIC STOP",
-      "Address": "SR 590 / AUDREY DR",
-      "Response_Date": "2025-12-10T12:10:06"
+      "Master_Incident_Number": "121025-00255",
+      "Online_Description": "WELFARE CHECK",
+      "Address": "DREW ST / N ARCTURAS AVE",
+      "Response_Date": "2025-12-10T12:13:43"
+    },
+    {
+      "Master_Incident_Number": "121025-00251",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "PARKING / DRIVEWAY",
+      "Response_Date": "2025-12-10T12:13:47"
+    },
+    {
+      "Master_Incident_Number": "121025-00253",
+      "Online_Description": "PARK WALK AND TALK",
+      "Address": "23100 BLOCK US HIGHWAY 19 N",
+      "Response_Date": "2025-12-10T12:17:27"
     }
   ],
-  "timestamp": "2025-12-10T17:32:41.740829+00:00",
-  "count": 14
+  "timestamp": "2025-12-10T17:49:15.237883+00:00",
+  "count": 12
 }
