@@ -372,6 +372,30 @@
           "Response_Date": "2025-12-09T23:49:18"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-10T06:42:06.959942+00:00",
+      "call_count": 3,
+      "calls": [
+        {
+          "Master_Incident_Number": "120925-00548",
+          "Online_Description": "DRUNK DRIVER",
+          "Address": "CAUSEWAY BLVD",
+          "Response_Date": "2025-12-09T23:31:35"
+        },
+        {
+          "Master_Incident_Number": "120925-00555",
+          "Online_Description": "TRAFFIC CRASH",
+          "Address": "SUNSET POINT RD / US HIGHWAY 19 N",
+          "Response_Date": "2025-12-09T23:49:18"
+        },
+        {
+          "Master_Incident_Number": "121025-00014",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "SAND KEY PARK ENTRANCE",
+          "Response_Date": "2025-12-10T01:05:32"
+        }
+      ]
     }
   ]
 }

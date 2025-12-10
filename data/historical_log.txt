@@ -11944,3 +11944,15 @@ TOTAL ACTIVE CALLS: 4
 
 --- RESOLVED CALLS (1) ---
 [RESOLVED] 120925-00522 | TRAFFIC STOP | 17700 BLOCK US HIGHWAY 19 N | Response: 10:06 PM
+
+================================================================================
+TIMESTAMP: 2025-12-10T06:42:06.959942+00:00
+TOTAL ACTIVE CALLS: 3
+================================================================================
+
+--- NEW CALLS (1) ---
+[NEW] 121025-00014 | DIRECTED PATROL | SAND KEY PARK ENTRANCE | Response: 01:05 AM
+
+--- RESOLVED CALLS (2) ---
+[RESOLVED] 120925-00542 | DRUNK DRIVER | 25300 BLOCK US HIGHWAY 19 N | Response: 10:57 PM
+[RESOLVED] 120925-00551 | DISTURBANCE | 900 BLOCK LOTUS PATH | Response: 11:41 PM
