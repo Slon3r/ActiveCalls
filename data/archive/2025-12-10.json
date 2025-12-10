@@ -894,6 +894,66 @@
           "Response_Date": "2025-12-10T09:35:44"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-10T15:23:45.098990+00:00",
+      "call_count": 9,
+      "calls": [
+        {
+          "Master_Incident_Number": "121025-00111",
+          "Online_Description": "PARK WALK AND TALK",
+          "Address": "1300 BLOCK PARK ST",
+          "Response_Date": "2025-12-10T08:07:18"
+        },
+        {
+          "Master_Incident_Number": "121025-00123",
+          "Online_Description": "ORDINANCE VIOLATION",
+          "Address": "2000 BLOCK THE MALL",
+          "Response_Date": "2025-12-10T08:29:10"
+        },
+        {
+          "Master_Incident_Number": "121025-00135",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "2100 BLOCK GULF TO BAY BLVD",
+          "Response_Date": "2025-12-10T08:52:58"
+        },
+        {
+          "Master_Incident_Number": "121025-00144",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "600 BLOCK DREW ST",
+          "Response_Date": "2025-12-10T09:10:51"
+        },
+        {
+          "Master_Incident_Number": "121025-00149",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "PARK PLACE BLVD / GULF TO BAY BLVD",
+          "Response_Date": "2025-12-10T09:20:56"
+        },
+        {
+          "Master_Incident_Number": "121025-00150",
+          "Online_Description": "ASSIST CITIZEN",
+          "Address": "600 BLOCK PIERCE ST",
+          "Response_Date": "2025-12-10T09:23:38"
+        },
+        {
+          "Master_Incident_Number": "121025-00160",
+          "Online_Description": "ANIMAL CASE",
+          "Address": "2400 BLOCK NURSERY RD",
+          "Response_Date": "2025-12-10T09:26:54"
+        },
+        {
+          "Master_Incident_Number": "121025-00162",
+          "Online_Description": "ANIMAL CASE",
+          "Address": "1100 BLOCK GRANT ST",
+          "Response_Date": "2025-12-10T09:33:49"
+        },
+        {
+          "Master_Incident_Number": "121025-00173",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "ELDORADO AVE / ACACIA ST",
+          "Response_Date": "2025-12-10T09:55:00"
+        }
+      ]
     }
   ]
 }

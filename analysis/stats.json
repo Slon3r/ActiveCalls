@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 2507,
-  "total_resolved": 2496,
+  "total_calls_tracked": 2509,
+  "total_resolved": 2500,
   "call_types": {
-    "DIRECTED PATROL": 819,
+    "DIRECTED PATROL": 820,
     "TRAFFIC STOP": 368,
     "DRUNK DRIVER": 8,
     "DISTURBANCE": 58,
@@ -35,7 +35,7 @@
     "NOISE COMPLAINT": 10,
     "CIVIL MATTER": 12,
     "DOMESTIC": 19,
-    "ANIMAL CASE": 14,
+    "ANIMAL CASE": 15,
     "MISSING PERSON": 26,
     "BUILDING CHECK": 7,
     "SHOPLIFTING": 12,
@@ -1166,7 +1166,9 @@
     "S FORT HARRISON AVE / D ST": 1,
     "WILDWOOD WAY / S FORT HARRISON AVE": 1,
     "2000 BLOCK THE MALL": 1,
-    "S BELCHER RD / CURTIS DR N": 1
+    "S BELCHER RD / CURTIS DR N": 1,
+    "2400 BLOCK NURSERY RD": 1,
+    "ELDORADO AVE / ACACIA ST": 1
   },
   "hourly_distribution": {
     "0": 85,
@@ -1178,7 +1180,7 @@
     "6": 88,
     "7": 65,
     "8": 154,
-    "9": 172,
+    "9": 174,
     "10": 156,
     "11": 143,
     "12": 146,
@@ -1195,7 +1197,7 @@
     "23": 79
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-10T14:57:11.809809+00:00",
+  "last_updated": "2025-12-10T15:23:45.101053+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 851
+  "total_snapshots": 852
 }
