@@ -342,6 +342,36 @@
           "Response_Date": "2025-12-09T23:49:18"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-10T06:00:17.918164+00:00",
+      "call_count": 4,
+      "calls": [
+        {
+          "Master_Incident_Number": "120925-00542",
+          "Online_Description": "DRUNK DRIVER",
+          "Address": "25300 BLOCK US HIGHWAY 19 N",
+          "Response_Date": "2025-12-09T22:57:53"
+        },
+        {
+          "Master_Incident_Number": "120925-00548",
+          "Online_Description": "DRUNK DRIVER",
+          "Address": "CAUSEWAY BLVD",
+          "Response_Date": "2025-12-09T23:31:35"
+        },
+        {
+          "Master_Incident_Number": "120925-00551",
+          "Online_Description": "DISTURBANCE",
+          "Address": "900 BLOCK LOTUS PATH",
+          "Response_Date": "2025-12-09T23:41:10"
+        },
+        {
+          "Master_Incident_Number": "120925-00555",
+          "Online_Description": "TRAFFIC CRASH",
+          "Address": "SUNSET POINT RD / US HIGHWAY 19 N",
+          "Response_Date": "2025-12-09T23:49:18"
+        }
+      ]
     }
   ]
 }
