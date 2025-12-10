@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 2620,
-  "total_resolved": 2608,
+  "total_calls_tracked": 2622,
+  "total_resolved": 2610,
   "call_types": {
-    "DIRECTED PATROL": 856,
+    "DIRECTED PATROL": 857,
     "TRAFFIC STOP": 375,
     "DRUNK DRIVER": 8,
     "DISTURBANCE": 59,
@@ -25,7 +25,7 @@
     "TRAFFIC CRASH": 114,
     "DISABLED VEHICLE": 20,
     "ASSIST CITIZEN": 68,
-    "ASSIST OTHER AGENCY": 57,
+    "ASSIST OTHER AGENCY": 58,
     "FIRE": 3,
     "FRAUD": 15,
     "RECKLESS VEHICLE": 8,
@@ -153,7 +153,7 @@
     "1100 BLOCK COURT ST": 4,
     "-1300 BLOCK BLK ADMIRAL WOODSON LN": 1,
     "19300 BLOCK US HIGHWAY 19 N": 2,
-    "600 BLOCK PIERCE ST": 23,
+    "600 BLOCK PIERCE ST": 24,
     "0 BLOCK 99 THIRD ST": 7,
     "0 BLOCK 98 THIRD ST": 5,
     "100 BLOCK HAMPTON RD": 4,
@@ -179,7 +179,7 @@
     "300 BLOCK CLEVELAND ST": 20,
     "GULF TO BAY BLVD / S LAKE DR": 1,
     "-400 BLOCK BLK BLANCHE B LITTLEJOHN TRL": 1,
-    "2600 BLOCK GULF TO BAY BLVD": 15,
+    "2600 BLOCK GULF TO BAY BLVD": 16,
     "400 BLOCK MANDALAY AVE": 10,
     "-3200 BLOCK 3399 COURTNEY CAMPBELL CSWY": 2,
     "1200 BLOCK GROVE ST": 1,
@@ -1230,7 +1230,7 @@
     "14": 186,
     "15": 181,
     "16": 171,
-    "17": 168,
+    "17": 170,
     "18": 129,
     "19": 38,
     "20": 46,
@@ -1239,7 +1239,7 @@
     "23": 79
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-10T22:52:22.419588+00:00",
+  "last_updated": "2025-12-10T23:00:13.584705+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 877
+  "total_snapshots": 878
 }
