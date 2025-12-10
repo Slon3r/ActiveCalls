@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 2584,
-  "total_resolved": 2574,
+  "total_calls_tracked": 2588,
+  "total_resolved": 2579,
   "call_types": {
-    "DIRECTED PATROL": 848,
+    "DIRECTED PATROL": 849,
     "TRAFFIC STOP": 373,
     "DRUNK DRIVER": 8,
     "DISTURBANCE": 59,
@@ -12,17 +12,17 @@
     "KEEP THE PEACE": 31,
     "WELFARE CHECK": 60,
     "PARK WALK AND TALK": 221,
-    "SUSPICIOUS PERSON": 101,
+    "SUSPICIOUS PERSON": 102,
     "TRESPASS": 56,
     "PROPERTY FOUND/LOST": 19,
-    "THEFT": 33,
+    "THEFT": 34,
     "NEIGHBOR CALL": 13,
     "911 HANG-UP": 97,
     "SUSPICIOUS VEHICLE": 18,
     "PANHANDLER/SOLICITOR": 5,
     "VEHICLE ILLEGALLY PARKED": 6,
     "SUSPICIOUS EVENT": 51,
-    "TRAFFIC CRASH": 110,
+    "TRAFFIC CRASH": 111,
     "DISABLED VEHICLE": 20,
     "ASSIST CITIZEN": 67,
     "ASSIST OTHER AGENCY": 56,
@@ -212,7 +212,7 @@
     "2800 BLOCK DREW ST": 2,
     "US HIGHWAY 19 N / GULF TO BAY BLVD": 6,
     "300 BLOCK CORONADO DR": 19,
-    "23600 BLOCK US HIGHWAY 19 N": 4,
+    "23600 BLOCK US HIGHWAY 19 N": 6,
     "300 BLOCK MANDALAY AVE": 3,
     "JONES ST / FERN AVE": 1,
     "1600 BLOCK GULF TO BAY BLVD": 24,
@@ -401,7 +401,7 @@
     "1400 BLOCK GULF TO BAY BLVD": 5,
     "2200 BLOCK BELLEAIR RD": 1,
     "1300 BLOCK PARK ST": 11,
-    "DREW ST / US HIGHWAY 19 N": 3,
+    "DREW ST / US HIGHWAY 19 N": 4,
     "1300 BLOCK N MARTIN LUTHER KING JR AVE": 7,
     "N BELCHER RD / OLD COACHMAN RD": 1,
     "600 BLOCK S FORT HARRISON AVE": 8,
@@ -1196,7 +1196,8 @@
     "1700 BLOCK N MARTIN LUTHER KING JR AVE": 1,
     "MEMORIAL CAUSEWAY / PIERCE ST": 1,
     "BELLEAIR RD / S MARTIN LUTHER KING JR AVE": 1,
-    "S MISSOURI AVE / WOODLAWN ST": 1
+    "S MISSOURI AVE / WOODLAWN ST": 1,
+    "-300 BLOCK 398 ELDRIDGE ST": 1
   },
   "hourly_distribution": {
     "0": 85,
@@ -1214,7 +1215,7 @@
     "12": 160,
     "13": 157,
     "14": 186,
-    "15": 170,
+    "15": 174,
     "16": 158,
     "17": 157,
     "18": 129,
@@ -1225,7 +1226,7 @@
     "23": 79
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-10T20:45:18.504673+00:00",
+  "last_updated": "2025-12-10T20:59:00.744498+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 869
+  "total_snapshots": 870
 }
