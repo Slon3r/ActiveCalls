@@ -516,6 +516,18 @@
           "Response_Date": "2025-12-10T02:45:30"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-10T08:46:30.355945+00:00",
+      "call_count": 1,
+      "calls": [
+        {
+          "Master_Incident_Number": "121025-00020",
+          "Online_Description": "ASSIST OTHER AGENCY",
+          "Address": "22900 BLOCK US HIGHWAY 19 N",
+          "Response_Date": "2025-12-10T01:53:06"
+        }
+      ]
     }
   ]
 }
