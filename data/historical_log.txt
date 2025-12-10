@@ -12101,3 +12101,13 @@ TOTAL ACTIVE CALLS: 2
 
 --- NEW CALLS (1) ---
 [NEW] 121025-00070 | SUSPICIOUS PERSON | 1600 BLOCK GULF TO BAY BLVD | Response: 06:19 AM
+
+================================================================================
+TIMESTAMP: 2025-12-10T11:55:32.332601+00:00
+TOTAL ACTIVE CALLS: 5
+================================================================================
+
+--- NEW CALLS (3) ---
+[NEW] 121025-00075 | TRAFFIC STOP | CLEVELAND ST / GULF TO BAY BLVD | Response: 06:31 AM
+[NEW] 121025-00076 | DIRECTED PATROL | 600 BLOCK S FT HARRISON AVE | Response: 06:32 AM
+[NEW] 121025-00077 | DIRECTED PATROL | 800 BLOCK COURT ST | Response: 06:34 AM

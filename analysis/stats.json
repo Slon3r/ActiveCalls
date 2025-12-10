@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 2478,
+  "total_calls_tracked": 2481,
   "total_resolved": 2476,
   "call_types": {
-    "DIRECTED PATROL": 802,
-    "TRAFFIC STOP": 366,
+    "DIRECTED PATROL": 804,
+    "TRAFFIC STOP": 367,
     "DRUNK DRIVER": 8,
     "DISTURBANCE": 57,
     "BATTERY": 19,
@@ -397,7 +397,7 @@
     "S MYRTLE AVE / LAKEVIEW RD": 2,
     "S SAN REMO AVE/ GULF TO BAY BLVD": 1,
     "1300 BLOCK S HIGHLAND AVE": 3,
-    "CLEVELAND ST / GULF TO BAY BLVD": 4,
+    "CLEVELAND ST / GULF TO BAY BLVD": 5,
     "1400 BLOCK GULF TO BAY BLVD": 5,
     "2200 BLOCK BELLEAIR RD": 1,
     "1300 BLOCK PARK ST": 10,
@@ -945,7 +945,7 @@
     "0 BLOCK 27 N FORT HARRISON AVE": 1,
     "DREW ST / PARK PLACE BLVD": 1,
     "DOUGLAS AVE / SUNSET POINT RD": 1,
-    "800 BLOCK COURT ST": 4,
+    "800 BLOCK COURT ST": 5,
     "SOUTH SHORE BLVD": 1,
     "200 BLOCK S GULFVIEW BLVD": 2,
     "JEFFORDS ST / S HIGHLAND AVE": 1,
@@ -1159,7 +1159,8 @@
     "17700 BLOCK US HIGHWAY 19 N": 1,
     "1400 BLOCK BYRAM DR": 1,
     "2500 BLOCK SANDS TER N": 1,
-    "2400 BLOCK MCMULLEN BOOTH RD": 1
+    "2400 BLOCK MCMULLEN BOOTH RD": 1,
+    "600 BLOCK S FT HARRISON AVE": 1
   },
   "hourly_distribution": {
     "0": 85,
@@ -1168,7 +1169,7 @@
     "3": 38,
     "4": 25,
     "5": 67,
-    "6": 81,
+    "6": 84,
     "7": 59,
     "8": 147,
     "9": 163,
@@ -1188,7 +1189,7 @@
     "23": 79
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-10T11:47:19.174406+00:00",
+  "last_updated": "2025-12-10T11:55:32.334520+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 844
+  "total_snapshots": 845
 }

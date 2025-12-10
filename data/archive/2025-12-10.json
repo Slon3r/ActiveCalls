@@ -624,6 +624,42 @@
           "Response_Date": "2025-12-10T06:19:36"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-10T11:55:32.332601+00:00",
+      "call_count": 5,
+      "calls": [
+        {
+          "Master_Incident_Number": "121025-00067",
+          "Online_Description": "TRESPASS",
+          "Address": "600 BLOCK BAYWAY BLVD",
+          "Response_Date": "2025-12-10T06:01:36"
+        },
+        {
+          "Master_Incident_Number": "121025-00070",
+          "Online_Description": "SUSPICIOUS PERSON",
+          "Address": "1600 BLOCK GULF TO BAY BLVD",
+          "Response_Date": "2025-12-10T06:19:36"
+        },
+        {
+          "Master_Incident_Number": "121025-00075",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "CLEVELAND ST / GULF TO BAY BLVD",
+          "Response_Date": "2025-12-10T06:31:22"
+        },
+        {
+          "Master_Incident_Number": "121025-00076",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "600 BLOCK S FT HARRISON AVE",
+          "Response_Date": "2025-12-10T06:32:28"
+        },
+        {
+          "Master_Incident_Number": "121025-00077",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "800 BLOCK COURT ST",
+          "Response_Date": "2025-12-10T06:34:19"
+        }
+      ]
     }
   ]
 }
