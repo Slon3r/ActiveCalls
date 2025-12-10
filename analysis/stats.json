@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 2542,
-  "total_resolved": 2530,
+  "total_calls_tracked": 2544,
+  "total_resolved": 2533,
   "call_types": {
-    "DIRECTED PATROL": 833,
+    "DIRECTED PATROL": 834,
     "TRAFFIC STOP": 372,
     "DRUNK DRIVER": 8,
     "DISTURBANCE": 58,
@@ -27,7 +27,7 @@
     "ASSIST CITIZEN": 66,
     "ASSIST OTHER AGENCY": 55,
     "FIRE": 3,
-    "FRAUD": 14,
+    "FRAUD": 15,
     "RECKLESS VEHICLE": 8,
     "JUVENILE CASE": 8,
     "HAZARD": 7,
@@ -284,7 +284,7 @@
     "3000 BLOCK EASTLAND BLVD": 5,
     "-2300 BLOCK 2373 GULF TO BAY BLVD": 1,
     "1800 BLOCK MONTCLAIR RD": 2,
-    "20500 BLOCK US HIGHWAY 19 N": 9,
+    "20500 BLOCK US HIGHWAY 19 N": 10,
     "200 BLOCK LARBOARD WAY": 2,
     "COURT ST / S MISSOURI AVE": 3,
     "-500 BLOCK 1068 GULF BLVD": 1,
@@ -544,7 +544,7 @@
     "WOODBINE ST / ROLLEN RD": 1,
     "3000 BLOCK WOODSONG LN": 1,
     "2500 BLOCK MCMULLEN BOOTH RD": 3,
-    "2600 BLOCK SR 590": 2,
+    "2600 BLOCK SR 590": 3,
     "2400 BLOCK GULF TO BAY BLVD": 6,
     "2800 BLOCK MCMULLEN BOOTH RD": 1,
     "SABAL SPRINGS CIR / SR 580": 1,
@@ -1199,7 +1199,7 @@
     "9": 174,
     "10": 166,
     "11": 160,
-    "12": 152,
+    "12": 154,
     "13": 147,
     "14": 171,
     "15": 163,
@@ -1213,7 +1213,7 @@
     "23": 79
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-10T17:49:15.240700+00:00",
+  "last_updated": "2025-12-10T17:57:07.400199+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 859
+  "total_snapshots": 860
 }
