@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 2574,
-  "total_resolved": 2566,
+  "total_calls_tracked": 2577,
+  "total_resolved": 2571,
   "call_types": {
-    "DIRECTED PATROL": 842,
+    "DIRECTED PATROL": 845,
     "TRAFFIC STOP": 373,
     "DRUNK DRIVER": 8,
     "DISTURBANCE": 59,
@@ -162,7 +162,7 @@
     "1300 BLOCK FRANKLIN ST": 2,
     "SUNSET MEADOW DR / COLONY REED LN": 1,
     "0 BLOCK BAY ESPLANADE": 7,
-    "200 BLOCK S GLENWOOD AVE": 29,
+    "200 BLOCK S GLENWOOD AVE": 30,
     "S KEENE RD / DRUID RD": 2,
     "GULF TO BAY BLVD / BAMBOO LN": 2,
     "GULF TO BAY BLVD / BROOKSIDE DR": 1,
@@ -446,7 +446,7 @@
     "2200 BLOCK MORNINGSIDE DR": 2,
     "400 BLOCK S MARTIN LUTHER KING JR AVE": 1,
     "600 BLOCK BAYWAY BLVD": 4,
-    "1600 BLOCK N BELCHER RD": 1,
+    "1600 BLOCK N BELCHER RD": 2,
     "-1100 BLOCK 1148 PIERCE ST": 1,
     "FERNWOOD AVE / GULF TO BAY BLVD": 2,
     "N BELCHER RD / CLEVELAND ST": 1,
@@ -1194,7 +1194,8 @@
     "900 BLOCK LAKEVIEW RD": 1,
     "2600 BLOCK PEARCE DR": 1,
     "1700 BLOCK N MARTIN LUTHER KING JR AVE": 1,
-    "MEMORIAL CAUSEWAY / PIERCE ST": 1
+    "MEMORIAL CAUSEWAY / PIERCE ST": 1,
+    "BELLEAIR RD / S MARTIN LUTHER KING JR AVE": 1
   },
   "hourly_distribution": {
     "0": 85,
@@ -1211,8 +1212,8 @@
     "11": 161,
     "12": 160,
     "13": 157,
-    "14": 183,
-    "15": 163,
+    "14": 185,
+    "15": 164,
     "16": 158,
     "17": 157,
     "18": 129,
@@ -1223,7 +1224,7 @@
     "23": 79
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-10T19:57:36.145123+00:00",
+  "last_updated": "2025-12-10T20:25:06.512464+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 867
+  "total_snapshots": 868
 }
