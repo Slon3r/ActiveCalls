@@ -1728,6 +1728,78 @@
           "Response_Date": "2025-12-10T13:49:49"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-10T19:29:02.372905+00:00",
+      "call_count": 11,
+      "calls": [
+        {
+          "Master_Incident_Number": "121025-00160",
+          "Online_Description": "ANIMAL CASE",
+          "Address": "2400 BLOCK NURSERY RD",
+          "Response_Date": "2025-12-10T09:26:54"
+        },
+        {
+          "Master_Incident_Number": "121025-00252",
+          "Online_Description": "TRAFFIC CRASH",
+          "Address": "2000 BLOCK ALPINE RD",
+          "Response_Date": "2025-12-10T12:13:30"
+        },
+        {
+          "Master_Incident_Number": "121025-00266",
+          "Online_Description": "CHILD PROTECTION INVESTIGATION",
+          "Address": "800 BLOCK BAYWAY BLVD",
+          "Response_Date": "2025-12-10T12:44:55"
+        },
+        {
+          "Master_Incident_Number": "121025-00272",
+          "Online_Description": "ASSIST OTHER AGENCY",
+          "Address": "26100 BLOCK US HIGHWAY 19 N",
+          "Response_Date": "2025-12-10T12:56:37"
+        },
+        {
+          "Master_Incident_Number": "121025-00279",
+          "Online_Description": "PERSON DOWN",
+          "Address": "600 BLOCK DREW ST",
+          "Response_Date": "2025-12-10T13:12:39"
+        },
+        {
+          "Master_Incident_Number": "121025-00282",
+          "Online_Description": "ASSIST CITIZEN",
+          "Address": "1900 BLOCK GULF TO BAY BLVD",
+          "Response_Date": "2025-12-10T13:27:46"
+        },
+        {
+          "Master_Incident_Number": "121025-00284",
+          "Online_Description": "WELFARE CHECK",
+          "Address": "1600 BLOCK WALSH LN",
+          "Response_Date": "2025-12-10T13:29:58"
+        },
+        {
+          "Master_Incident_Number": "121025-00288",
+          "Online_Description": "DISTURBANCE",
+          "Address": "1300 BLOCK S WASHINGTON AVE",
+          "Response_Date": "2025-12-10T13:35:15"
+        },
+        {
+          "Master_Incident_Number": "121025-00293",
+          "Online_Description": "PARK WALK AND TALK",
+          "Address": "2600 BLOCK GULF TO BAY BLVD",
+          "Response_Date": "2025-12-10T13:43:18"
+        },
+        {
+          "Master_Incident_Number": "121025-00303",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "MEMORIAL CSWY",
+          "Response_Date": "2025-12-10T14:07:18"
+        },
+        {
+          "Master_Incident_Number": "121025-00304",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "PARK ST / GULF TO BAY BLVD",
+          "Response_Date": "2025-12-10T14:07:29"
+        }
+      ]
     }
   ]
 }

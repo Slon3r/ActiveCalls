@@ -7,18 +7,6 @@
       "Response_Date": "2025-12-10T09:26:54"
     },
     {
-      "Master_Incident_Number": "121025-00206",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "1300 BLOCK S BELCHER RD",
-      "Response_Date": "2025-12-10T11:00:08"
-    },
-    {
-      "Master_Incident_Number": "121025-00247",
-      "Online_Description": "SUSPICIOUS EVENT",
-      "Address": "1700 BLOCK GULF TO BAY BLVD",
-      "Response_Date": "2025-12-10T12:01:49"
-    },
-    {
       "Master_Incident_Number": "121025-00252",
       "Online_Description": "TRAFFIC CRASH",
       "Address": "2000 BLOCK ALPINE RD",
@@ -41,12 +29,6 @@
       "Online_Description": "PERSON DOWN",
       "Address": "600 BLOCK DREW ST",
       "Response_Date": "2025-12-10T13:12:39"
-    },
-    {
-      "Master_Incident_Number": "121025-00281",
-      "Online_Description": "DOMESTIC",
-      "Address": "1200 BLOCK CLEVELAND ST",
-      "Response_Date": "2025-12-10T13:25:34"
     },
     {
       "Master_Incident_Number": "121025-00282",
@@ -73,12 +55,18 @@
       "Response_Date": "2025-12-10T13:43:18"
     },
     {
-      "Master_Incident_Number": "121025-00294",
-      "Online_Description": "PARK WALK AND TALK",
-      "Address": "-100 BLOCK 219 S GULFVIEW BLVD",
-      "Response_Date": "2025-12-10T13:49:49"
+      "Master_Incident_Number": "121025-00303",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "MEMORIAL CSWY",
+      "Response_Date": "2025-12-10T14:07:18"
+    },
+    {
+      "Master_Incident_Number": "121025-00304",
+      "Online_Description": "TRAFFIC STOP",
+      "Address": "PARK ST / GULF TO BAY BLVD",
+      "Response_Date": "2025-12-10T14:07:29"
     }
   ],
-  "timestamp": "2025-12-10T19:10:55.505413+00:00",
-  "count": 13
+  "timestamp": "2025-12-10T19:29:02.372905+00:00",
+  "count": 11
 }
