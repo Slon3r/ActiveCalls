@@ -1,6 +1,6 @@
 {
-  "total_calls_tracked": 2467,
-  "total_resolved": 2465,
+  "total_calls_tracked": 2469,
+  "total_resolved": 2466,
   "call_types": {
     "DIRECTED PATROL": 800,
     "TRAFFIC STOP": 365,
@@ -11,7 +11,7 @@
     "ALARM": 35,
     "KEEP THE PEACE": 30,
     "WELFARE CHECK": 54,
-    "PARK WALK AND TALK": 208,
+    "PARK WALK AND TALK": 209,
     "SUSPICIOUS PERSON": 96,
     "TRESPASS": 54,
     "PROPERTY FOUND/LOST": 19,
@@ -25,7 +25,7 @@
     "TRAFFIC CRASH": 107,
     "DISABLED VEHICLE": 19,
     "ASSIST CITIZEN": 63,
-    "ASSIST OTHER AGENCY": 51,
+    "ASSIST OTHER AGENCY": 52,
     "FIRE": 2,
     "FRAUD": 14,
     "RECKLESS VEHICLE": 8,
@@ -176,7 +176,7 @@
     "FIFTH ST & HAMDEN DR": 1,
     "FIFTH ST / HAMDEN DR": 1,
     "E WORLD PARKWAY BLVD / BELCHER RD": 1,
-    "300 BLOCK CLEVELAND ST": 16,
+    "300 BLOCK CLEVELAND ST": 17,
     "GULF TO BAY BLVD / S LAKE DR": 1,
     "-400 BLOCK BLK BLANCHE B LITTLEJOHN TRL": 1,
     "2600 BLOCK GULF TO BAY BLVD": 14,
@@ -489,7 +489,7 @@
     "0 BLOCK N EVERGREEN AVE": 1,
     "-200 BLOCK 299 CORONADO DR": 1,
     "1500 BLOCK S WASHINGTON AVE": 1,
-    "22900 BLOCK US HIGHWAY 19 N": 3,
+    "22900 BLOCK US HIGHWAY 19 N": 4,
     "-2800 BLOCK 2865 MEADOW HILL DR S": 1,
     "1000 BLOCK PENNSYLVANIA AVE": 1,
     "US HIGHWAY 19 N / MCCORMICK DR": 2,
@@ -1162,7 +1162,7 @@
   },
   "hourly_distribution": {
     "0": 85,
-    "1": 72,
+    "1": 74,
     "2": 48,
     "3": 38,
     "4": 25,
@@ -1187,7 +1187,7 @@
     "23": 79
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-10T07:00:20.090093+00:00",
+  "last_updated": "2025-12-10T07:29:10.704156+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 829
+  "total_snapshots": 830
 }
