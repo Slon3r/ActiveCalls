@@ -53,8 +53,26 @@
       "Online_Description": "DIRECTED PATROL",
       "Address": "1100 BLOCK GULF BLVD",
       "Response_Date": "2025-12-11T15:26:40"
+    },
+    {
+      "Master_Incident_Number": "121125-00346",
+      "Online_Description": "TRAFFIC STOP",
+      "Address": "CORONADO DR / DEVON DR",
+      "Response_Date": "2025-12-11T15:31:57"
+    },
+    {
+      "Master_Incident_Number": "121125-00347",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "2300 BLOCK LANDMARK DR",
+      "Response_Date": "2025-12-11T15:31:57"
+    },
+    {
+      "Master_Incident_Number": "121125-00349",
+      "Online_Description": "PARK WALK AND TALK",
+      "Address": "300 BLOCK CORONADO DR",
+      "Response_Date": "2025-12-11T15:32:44"
     }
   ],
-  "timestamp": "2025-12-11T20:47:05.726722+00:00",
-  "count": 9
+  "timestamp": "2025-12-11T20:55:30.780513+00:00",
+  "count": 12
 }

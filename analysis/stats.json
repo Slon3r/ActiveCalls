@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 2785,
+  "total_calls_tracked": 2788,
   "total_resolved": 2776,
   "call_types": {
-    "DIRECTED PATROL": 900,
-    "TRAFFIC STOP": 406,
+    "DIRECTED PATROL": 901,
+    "TRAFFIC STOP": 407,
     "DRUNK DRIVER": 8,
     "DISTURBANCE": 61,
     "BATTERY": 22,
@@ -11,7 +11,7 @@
     "ALARM": 38,
     "KEEP THE PEACE": 33,
     "WELFARE CHECK": 66,
-    "PARK WALK AND TALK": 243,
+    "PARK WALK AND TALK": 244,
     "SUSPICIOUS PERSON": 107,
     "TRESPASS": 58,
     "PROPERTY FOUND/LOST": 23,
@@ -211,7 +211,7 @@
     "1000 BLOCK N MADISON AVE": 1,
     "2800 BLOCK DREW ST": 2,
     "US HIGHWAY 19 N / GULF TO BAY BLVD": 7,
-    "300 BLOCK CORONADO DR": 22,
+    "300 BLOCK CORONADO DR": 23,
     "23600 BLOCK US HIGHWAY 19 N": 6,
     "300 BLOCK MANDALAY AVE": 3,
     "JONES ST / FERN AVE": 1,
@@ -776,7 +776,7 @@
     "1600 BLOCK N BETTY LN": 1,
     "2500 BLOCK BRENTWOOD DR": 1,
     "1200 BLOCK N MARTIN LUTHER KING JR AVE": 1,
-    "2300 BLOCK LANDMARK DR": 3,
+    "2300 BLOCK LANDMARK DR": 4,
     "US HIGHWAY 19 N / NE COACHMAN RD": 5,
     "600 BLOCK WOODLAWN ST": 1,
     "US HIGHWAY 19 N / ENTERPRISE RD": 1,
@@ -1257,7 +1257,8 @@
     "GULF TO BAY BLVD / S CIRUS AVE": 1,
     "500 BLOCK ROGERS ST": 1,
     "500 BLOCK N WASHINGTON AVE": 1,
-    "1900 BLOCK DRUID RD": 1
+    "1900 BLOCK DRUID RD": 1,
+    "CORONADO DR / DEVON DR": 1
   },
   "hourly_distribution": {
     "0": 93,
@@ -1275,7 +1276,7 @@
     "12": 166,
     "13": 166,
     "14": 194,
-    "15": 184,
+    "15": 187,
     "16": 175,
     "17": 178,
     "18": 135,
@@ -1286,7 +1287,7 @@
     "23": 81
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-11T20:47:05.730059+00:00",
+  "last_updated": "2025-12-11T20:55:30.783960+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 931
+  "total_snapshots": 932
 }
