@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 2721,
-  "total_resolved": 2719,
+  "total_calls_tracked": 2725,
+  "total_resolved": 2720,
   "call_types": {
     "DIRECTED PATROL": 888,
-    "TRAFFIC STOP": 398,
+    "TRAFFIC STOP": 399,
     "DRUNK DRIVER": 8,
     "DISTURBANCE": 60,
     "BATTERY": 21,
@@ -11,10 +11,10 @@
     "ALARM": 38,
     "KEEP THE PEACE": 31,
     "WELFARE CHECK": 65,
-    "PARK WALK AND TALK": 236,
-    "SUSPICIOUS PERSON": 105,
+    "PARK WALK AND TALK": 237,
+    "SUSPICIOUS PERSON": 106,
     "TRESPASS": 57,
-    "PROPERTY FOUND/LOST": 20,
+    "PROPERTY FOUND/LOST": 21,
     "THEFT": 37,
     "NEIGHBOR CALL": 14,
     "911 HANG-UP": 99,
@@ -84,7 +84,7 @@
     "US HIGHWAY 19 N / SR 580": 3,
     "400 BLOCK S GULFVIEW BLVD": 8,
     "100 BLOCK S MYRTLE AVE": 3,
-    "0 BLOCK CAUSEWAY BLVD": 20,
+    "0 BLOCK CAUSEWAY BLVD": 21,
     "400 BLOCK FAIRWOOD AVE": 4,
     "500 BLOCK S FORT HARRISON AVE": 9,
     "26000 BLOCK US HIGHWAY 19 N": 6,
@@ -211,7 +211,7 @@
     "1000 BLOCK N MADISON AVE": 1,
     "2800 BLOCK DREW ST": 2,
     "US HIGHWAY 19 N / GULF TO BAY BLVD": 7,
-    "300 BLOCK CORONADO DR": 20,
+    "300 BLOCK CORONADO DR": 21,
     "23600 BLOCK US HIGHWAY 19 N": 6,
     "300 BLOCK MANDALAY AVE": 3,
     "JONES ST / FERN AVE": 1,
@@ -1241,7 +1241,9 @@
     "0 BLOCK 98 CORONADO DR": 2,
     "-500 BLOCK 989 GULF BLVD": 1,
     "500 BLOCK DRUID RD": 1,
-    "500 BLOCK GILBERT ST": 1
+    "500 BLOCK GILBERT ST": 1,
+    "600 BLOCK DRUID RD W": 1,
+    "PEBBLE BEACH DR / COUNTRYSIDE BLVD": 1
   },
   "hourly_distribution": {
     "0": 93,
@@ -1251,7 +1253,7 @@
     "4": 27,
     "5": 71,
     "6": 93,
-    "7": 66,
+    "7": 70,
     "8": 154,
     "9": 175,
     "10": 166,
@@ -1270,7 +1272,7 @@
     "23": 81
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-11T12:32:27.549769+00:00",
+  "last_updated": "2025-12-11T13:22:56.664518+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 910
+  "total_snapshots": 911
 }
