@@ -13511,3 +13511,12 @@ TOTAL ACTIVE CALLS: 1
 [RESOLVED] 121125-00345 | ANIMAL CASE | 500 BLOCK S GLENWOOD AVE | Response: 03:30 PM
 [RESOLVED] 121125-00357 | TRESPASS | 500 BLOCK PARK ST | Response: 04:01 PM
 [RESOLVED] 121125-00360 | TRAFFIC STOP | 27000 BLOCK US HIGHWAY 19 N | Response: 04:12 PM
+
+================================================================================
+TIMESTAMP: 2025-12-11T21:54:21.043469+00:00
+TOTAL ACTIVE CALLS: 3
+================================================================================
+
+--- NEW CALLS (2) ---
+[NEW] 121125-00359 | THEFT | 600 BLOCK CLEVELAND ST | Response: 04:07 PM
+[NEW] 121125-00364 | DISTURBANCE | 19100 BLOCK US HIGHWAY 19 N | Response: 04:18 PM

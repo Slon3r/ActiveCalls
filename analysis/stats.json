@@ -1,11 +1,11 @@
 {
-  "total_calls_tracked": 2795,
+  "total_calls_tracked": 2797,
   "total_resolved": 2794,
   "call_types": {
     "DIRECTED PATROL": 901,
     "TRAFFIC STOP": 408,
     "DRUNK DRIVER": 8,
-    "DISTURBANCE": 61,
+    "DISTURBANCE": 62,
     "BATTERY": 22,
     "CRIMINAL MISCHIEF": 17,
     "ALARM": 38,
@@ -15,7 +15,7 @@
     "SUSPICIOUS PERSON": 108,
     "TRESPASS": 59,
     "PROPERTY FOUND/LOST": 23,
-    "THEFT": 40,
+    "THEFT": 41,
     "NEIGHBOR CALL": 14,
     "911 HANG-UP": 100,
     "SUSPICIOUS VEHICLE": 21,
@@ -192,7 +192,7 @@
     "DREW ST / N BELCHER RD": 7,
     "900 BLOCK GULF BLVD": 3,
     "POINSETTIA AVE / PAPAYA ST": 1,
-    "600 BLOCK CLEVELAND ST": 11,
+    "600 BLOCK CLEVELAND ST": 12,
     "HAMDEN DR / CORONADO DR": 1,
     "2900 BLOCK SWEETGUM WAY S": 1,
     "18600 BLOCK US HIGHWAY 19 N": 1,
@@ -318,7 +318,7 @@
     "600 BLOCK OLD COACHMAN RD": 4,
     "DREW ST / PINEWOOD AVE": 1,
     "2800 BLOCK GULF TO BAY BLVD": 8,
-    "19100 BLOCK US HIGHWAY 19 N": 2,
+    "19100 BLOCK US HIGHWAY 19 N": 3,
     "1200 BLOCK S HIGHLAND AVE": 12,
     "1200 BLOCK TURNER ST": 2,
     "THIRD ST / CORONADO DR": 1,
@@ -1281,7 +1281,7 @@
     "13": 166,
     "14": 194,
     "15": 192,
-    "16": 177,
+    "16": 179,
     "17": 178,
     "18": 135,
     "19": 45,
@@ -1291,7 +1291,7 @@
     "23": 81
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-11T21:45:49.337750+00:00",
+  "last_updated": "2025-12-11T21:54:21.046931+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 935
+  "total_snapshots": 936
 }
