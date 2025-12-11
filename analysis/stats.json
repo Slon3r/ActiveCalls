@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 2740,
-  "total_resolved": 2736,
+  "total_calls_tracked": 2744,
+  "total_resolved": 2738,
   "call_types": {
     "DIRECTED PATROL": 893,
-    "TRAFFIC STOP": 402,
+    "TRAFFIC STOP": 404,
     "DRUNK DRIVER": 8,
     "DISTURBANCE": 60,
     "BATTERY": 21,
@@ -17,14 +17,14 @@
     "PROPERTY FOUND/LOST": 23,
     "THEFT": 38,
     "NEIGHBOR CALL": 14,
-    "911 HANG-UP": 99,
+    "911 HANG-UP": 100,
     "SUSPICIOUS VEHICLE": 21,
     "PANHANDLER/SOLICITOR": 5,
     "VEHICLE ILLEGALLY PARKED": 6,
     "SUSPICIOUS EVENT": 56,
     "TRAFFIC CRASH": 119,
     "DISABLED VEHICLE": 21,
-    "ASSIST CITIZEN": 69,
+    "ASSIST CITIZEN": 70,
     "ASSIST OTHER AGENCY": 58,
     "FIRE": 3,
     "FRAUD": 15,
@@ -411,7 +411,7 @@
     "1400 BLOCK FAIRMONT ST": 1,
     "DREW ST / N BETTY LN": 3,
     "600 BLOCK MANDALAY AVE": 8,
-    "1900 BLOCK GULF TO BAY BLVD": 5,
+    "1900 BLOCK GULF TO BAY BLVD": 6,
     "22100 BLOCK US HIGHWAY 19 N": 2,
     "SEVILLE BLVD / US HIGHWAY 19 N": 2,
     "COUNTRYSIDE BLVD / WINDING WOOD DR": 3,
@@ -483,7 +483,7 @@
     "26200 BLOCK US HIGHWAY 19 N": 4,
     "N KEENE RD / DREW ST": 2,
     "100 BLOCK N JEFFERSON AVE": 1,
-    "1500 BLOCK JEFFORDS ST": 5,
+    "1500 BLOCK JEFFORDS ST": 6,
     "1100 BLOCK LA SALLE ST": 3,
     "200 BLOCK MCMULLEN BOOTH RD S": 2,
     "0 BLOCK N EVERGREEN AVE": 1,
@@ -1248,7 +1248,9 @@
     "400 BLOCK S GARDEN AVE": 1,
     "-1500 BLOCK 1515 CLEVELAND ST": 1,
     "21700 BLOCK US HIGHWAY 19 N": 1,
-    "N MYRTLE AVE / CARLTON ST": 1
+    "N MYRTLE AVE / CARLTON ST": 1,
+    "MCMULLEN BOOTH RD / WOLFE RD": 1,
+    "1500 BLOCK N MYRTLE AVE": 1
   },
   "hourly_distribution": {
     "0": 93,
@@ -1261,7 +1263,7 @@
     "7": 70,
     "8": 157,
     "9": 184,
-    "10": 168,
+    "10": 172,
     "11": 162,
     "12": 160,
     "13": 157,
@@ -1277,7 +1279,7 @@
     "23": 81
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-11T15:33:09.323608+00:00",
+  "last_updated": "2025-12-11T15:51:23.271636+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 917
+  "total_snapshots": 918
 }
