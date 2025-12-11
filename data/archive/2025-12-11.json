@@ -1,0 +1,83 @@
+{
+  "date": "2025-12-11",
+  "snapshots": [
+    {
+      "timestamp": "2025-12-11T00:53:21.113517+00:00",
+      "call_count": 12,
+      "calls": [
+        {
+          "Master_Incident_Number": "121025-00365",
+          "Online_Description": "THEFT",
+          "Address": "1100 BLOCK S MISSOURI AVE",
+          "Response_Date": "2025-12-10T16:06:47"
+        },
+        {
+          "Master_Incident_Number": "121025-00378",
+          "Online_Description": "WELFARE CHECK",
+          "Address": "1400 BLOCK RIDGE AVE",
+          "Response_Date": "2025-12-10T16:27:34"
+        },
+        {
+          "Master_Incident_Number": "121025-00416",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "600 BLOCK PIERCE ST",
+          "Response_Date": "2025-12-10T17:37:43"
+        },
+        {
+          "Master_Incident_Number": "121025-00438",
+          "Online_Description": "BURGLARY",
+          "Address": "1900 BLOCK KINGS HWY",
+          "Response_Date": "2025-12-10T18:06:56"
+        },
+        {
+          "Master_Incident_Number": "121025-00446",
+          "Online_Description": "TRAFFIC CRASH",
+          "Address": "2600 BLOCK MCMULLEN BOOTH RD",
+          "Response_Date": "2025-12-10T18:30:01"
+        },
+        {
+          "Master_Incident_Number": "121025-00448",
+          "Online_Description": "TRAFFIC CRASH",
+          "Address": "COURT ST / S MISSOURI AVE",
+          "Response_Date": "2025-12-10T18:35:26"
+        },
+        {
+          "Master_Incident_Number": "121025-00463",
+          "Online_Description": "BURGLARY",
+          "Address": "1500 BLOCK S HIGHLAND AVE",
+          "Response_Date": "2025-12-10T19:04:02"
+        },
+        {
+          "Master_Incident_Number": "121025-00467",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "-300 BLOCK 499 DAVID AVE",
+          "Response_Date": "2025-12-10T19:12:56"
+        },
+        {
+          "Master_Incident_Number": "121025-00472",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "MARSHALL ST / N MARTIN LUTHER KING JR AVE",
+          "Response_Date": "2025-12-10T19:21:31"
+        },
+        {
+          "Master_Incident_Number": "121025-00478",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "1000 BLOCK DREW ST",
+          "Response_Date": "2025-12-10T19:26:33"
+        },
+        {
+          "Master_Incident_Number": "121025-00479",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "US HIGHWAY 19 N / DREW ST",
+          "Response_Date": "2025-12-10T19:27:32"
+        },
+        {
+          "Master_Incident_Number": "121025-00482",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "S BELCHER RD / RAINBOW DR",
+          "Response_Date": "2025-12-10T19:30:31"
+        }
+      ]
+    }
+  ]
+}
