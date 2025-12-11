@@ -1,6 +1,6 @@
 {
-  "total_calls_tracked": 2758,
-  "total_resolved": 2750,
+  "total_calls_tracked": 2761,
+  "total_resolved": 2753,
   "call_types": {
     "DIRECTED PATROL": 895,
     "TRAFFIC STOP": 406,
@@ -11,7 +11,7 @@
     "ALARM": 38,
     "KEEP THE PEACE": 32,
     "WELFARE CHECK": 65,
-    "PARK WALK AND TALK": 241,
+    "PARK WALK AND TALK": 242,
     "SUSPICIOUS PERSON": 106,
     "TRESPASS": 57,
     "PROPERTY FOUND/LOST": 23,
@@ -22,14 +22,14 @@
     "PANHANDLER/SOLICITOR": 5,
     "VEHICLE ILLEGALLY PARKED": 6,
     "SUSPICIOUS EVENT": 57,
-    "TRAFFIC CRASH": 120,
+    "TRAFFIC CRASH": 121,
     "DISABLED VEHICLE": 21,
     "ASSIST CITIZEN": 71,
     "ASSIST OTHER AGENCY": 58,
     "FIRE": 3,
     "FRAUD": 16,
     "RECKLESS VEHICLE": 8,
-    "JUVENILE CASE": 10,
+    "JUVENILE CASE": 11,
     "HAZARD": 7,
     "UNKNOWN PROBLEM": 17,
     "NOISE COMPLAINT": 10,
@@ -109,7 +109,7 @@
     "LAKEVIEW RD / S MISSOURI AVE": 2,
     "2400 BLOCK MELLOW LN": 1,
     "1200 BLOCK GULF BLVD": 12,
-    "1900 BLOCK N BELCHER RD": 2,
+    "1900 BLOCK N BELCHER RD": 3,
     "20100 BLOCK US HIGHWAY 19 N": 1,
     "CLEVELAND ST / N MAIN AVE": 1,
     "S MISSOURI AVE / KINGSLEY ST": 2,
@@ -341,7 +341,7 @@
     "DREW ST / MCMULLEN BOOTH RD": 4,
     "2700 BLOCK COTTONWOOD CT": 1,
     "200 BLOCK SEMINOLE ST": 4,
-    "1400 BLOCK N FORT HARRISON AVE": 1,
+    "1400 BLOCK N FORT HARRISON AVE": 2,
     "400 BLOCK S MISSOURI AVE": 1,
     "-1700 BLOCK 1748 WESTON DR": 1,
     "1300 BLOCK GULF BLVD": 3,
@@ -1251,7 +1251,8 @@
     "N MYRTLE AVE / CARLTON ST": 1,
     "MCMULLEN BOOTH RD / WOLFE RD": 1,
     "1500 BLOCK N MYRTLE AVE": 1,
-    "1400 BLOCK SAN JUAN CT": 1
+    "1400 BLOCK SAN JUAN CT": 1,
+    "MCMULLEN BOOTH RD / EASTLAND BLVD": 1
   },
   "hourly_distribution": {
     "0": 93,
@@ -1265,8 +1266,8 @@
     "8": 157,
     "9": 184,
     "10": 179,
-    "11": 169,
-    "12": 160,
+    "11": 170,
+    "12": 162,
     "13": 157,
     "14": 186,
     "15": 181,
@@ -1280,7 +1281,7 @@
     "23": 81
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-11T17:02:26.376904+00:00",
+  "last_updated": "2025-12-11T17:36:09.016023+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 921
+  "total_snapshots": 922
 }
