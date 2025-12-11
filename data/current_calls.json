@@ -23,14 +23,8 @@
       "Online_Description": "DIRECTED PATROL",
       "Address": "0 BLOCK CAUSEWAY BLVD",
       "Response_Date": "2025-12-11T03:54:42"
-    },
-    {
-      "Master_Incident_Number": "121125-00084",
-      "Online_Description": "PROPERTY FOUND/LOST",
-      "Address": "500 BLOCK MANDALAY AVE",
-      "Response_Date": "2025-12-11T04:13:26"
     }
   ],
-  "timestamp": "2025-12-11T09:50:45.161215+00:00",
-  "count": 5
+  "timestamp": "2025-12-11T09:58:28.127664+00:00",
+  "count": 4
 }

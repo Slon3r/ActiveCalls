@@ -13061,3 +13061,11 @@ TOTAL ACTIVE CALLS: 5
 
 --- NEW CALLS (1) ---
 [NEW] 121125-00084 | PROPERTY FOUND/LOST | 500 BLOCK MANDALAY AVE | Response: 04:13 AM
+
+================================================================================
+TIMESTAMP: 2025-12-11T09:58:28.127664+00:00
+TOTAL ACTIVE CALLS: 4
+================================================================================
+
+--- RESOLVED CALLS (1) ---
+[RESOLVED] 121125-00084 | PROPERTY FOUND/LOST | 500 BLOCK MANDALAY AVE | Response: 04:13 AM
