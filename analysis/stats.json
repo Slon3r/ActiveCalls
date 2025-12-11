@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 2728,
-  "total_resolved": 2724,
+  "total_calls_tracked": 2731,
+  "total_resolved": 2725,
   "call_types": {
-    "DIRECTED PATROL": 891,
-    "TRAFFIC STOP": 399,
+    "DIRECTED PATROL": 892,
+    "TRAFFIC STOP": 400,
     "DRUNK DRIVER": 8,
     "DISTURBANCE": 60,
     "BATTERY": 21,
@@ -11,7 +11,7 @@
     "ALARM": 38,
     "KEEP THE PEACE": 31,
     "WELFARE CHECK": 65,
-    "PARK WALK AND TALK": 237,
+    "PARK WALK AND TALK": 238,
     "SUSPICIOUS PERSON": 106,
     "TRESPASS": 57,
     "PROPERTY FOUND/LOST": 21,
@@ -71,7 +71,7 @@
     "1000 BLOCK WEST AVE": 2,
     "600 BLOCK S GULFVIEW BLVD": 10,
     "-800 BLOCK 1099 MARSHALL ST": 1,
-    "US HIGHWAY 19 N / DREW ST": 21,
+    "US HIGHWAY 19 N / DREW ST": 22,
     "US HIGHWAY 19 N / SR 590": 8,
     "1100 BLOCK DRUID RD": 8,
     "2100 BLOCK RANGE RD": 1,
@@ -545,7 +545,7 @@
     "3000 BLOCK WOODSONG LN": 1,
     "2500 BLOCK MCMULLEN BOOTH RD": 3,
     "2600 BLOCK SR 590": 3,
-    "2400 BLOCK GULF TO BAY BLVD": 6,
+    "2400 BLOCK GULF TO BAY BLVD": 7,
     "2800 BLOCK MCMULLEN BOOTH RD": 1,
     "SABAL SPRINGS CIR / SR 580": 1,
     "300 BLOCK DREW ST": 1,
@@ -554,7 +554,7 @@
     "1300 BLOCK FAIRMONT ST": 1,
     "MCMULLEN BOOTH RD / CHAMBLEE LN": 1,
     "900 BLOCK ELDRIDGE ST": 1,
-    "2800 BLOCK CURLEW RD": 3,
+    "2800 BLOCK CURLEW RD": 4,
     "0 BLOCK 299 S GLENWOOD AVE": 1,
     "US HIGHWAY 19 N / SUNSET POINT RD": 2,
     "S HILLCREST AVE / CLEVELAND ST": 1,
@@ -1258,7 +1258,7 @@
     "6": 93,
     "7": 70,
     "8": 157,
-    "9": 175,
+    "9": 178,
     "10": 166,
     "11": 162,
     "12": 160,
@@ -1275,7 +1275,7 @@
     "23": 81
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-11T14:14:21.964089+00:00",
+  "last_updated": "2025-12-11T14:37:55.411012+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 913
+  "total_snapshots": 914
 }

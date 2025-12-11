@@ -13,18 +13,30 @@
       "Response_Date": "2025-12-11T07:54:58"
     },
     {
-      "Master_Incident_Number": "121125-00154",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "400 BLOCK S GARDEN AVE",
-      "Response_Date": "2025-12-11T08:36:32"
-    },
-    {
       "Master_Incident_Number": "121125-00161",
       "Online_Description": "DIRECTED PATROL",
       "Address": "-1500 BLOCK 1515 CLEVELAND ST",
       "Response_Date": "2025-12-11T08:48:27"
+    },
+    {
+      "Master_Incident_Number": "121125-00167",
+      "Online_Description": "PARK WALK AND TALK",
+      "Address": "2400 BLOCK GULF TO BAY BLVD",
+      "Response_Date": "2025-12-11T09:07:19"
+    },
+    {
+      "Master_Incident_Number": "121125-00169",
+      "Online_Description": "TRAFFIC STOP",
+      "Address": "US HIGHWAY 19 N / DREW ST",
+      "Response_Date": "2025-12-11T09:11:32"
+    },
+    {
+      "Master_Incident_Number": "121125-00170",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "2800 BLOCK CURLEW RD",
+      "Response_Date": "2025-12-11T09:14:35"
     }
   ],
-  "timestamp": "2025-12-11T14:14:21.961428+00:00",
-  "count": 4
+  "timestamp": "2025-12-11T14:37:55.408462+00:00",
+  "count": 6
 }
