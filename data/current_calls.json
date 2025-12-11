@@ -7,12 +7,6 @@
       "Response_Date": "2025-12-11T09:26:24"
     },
     {
-      "Master_Incident_Number": "121125-00191",
-      "Online_Description": "911 HANG-UP",
-      "Address": "1500 BLOCK JEFFORDS ST",
-      "Response_Date": "2025-12-11T10:04:00"
-    },
-    {
       "Master_Incident_Number": "121125-00196",
       "Online_Description": "DIRECTED PATROL",
       "Address": "ELDORADO AVE / ACACIA ST",
@@ -25,18 +19,24 @@
       "Response_Date": "2025-12-11T10:26:09"
     },
     {
-      "Master_Incident_Number": "121125-00203",
+      "Master_Incident_Number": "121125-00206",
       "Online_Description": "TRAFFIC STOP",
-      "Address": "MCMULLEN BOOTH RD / WOLFE RD",
-      "Response_Date": "2025-12-11T10:27:38"
+      "Address": "US HIGHWAY 19 N / DREW ST",
+      "Response_Date": "2025-12-11T10:32:06"
     },
     {
-      "Master_Incident_Number": "121125-00205",
-      "Online_Description": "TRAFFIC STOP",
-      "Address": "1500 BLOCK N MYRTLE AVE",
-      "Response_Date": "2025-12-11T10:29:55"
+      "Master_Incident_Number": "121125-00208",
+      "Online_Description": "PARK WALK AND TALK",
+      "Address": "1400 BLOCK SAN JUAN CT",
+      "Response_Date": "2025-12-11T10:38:01"
+    },
+    {
+      "Master_Incident_Number": "121125-00210",
+      "Online_Description": "UNKNOWN PROBLEM",
+      "Address": "MCMULLEN BOOTH RD / SUNSET POINT RD",
+      "Response_Date": "2025-12-11T10:40:52"
     }
   ],
-  "timestamp": "2025-12-11T15:51:23.106542+00:00",
+  "timestamp": "2025-12-11T16:01:18.727347+00:00",
   "count": 6
 }

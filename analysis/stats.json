@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 2744,
-  "total_resolved": 2738,
+  "total_calls_tracked": 2747,
+  "total_resolved": 2741,
   "call_types": {
     "DIRECTED PATROL": 893,
-    "TRAFFIC STOP": 404,
+    "TRAFFIC STOP": 405,
     "DRUNK DRIVER": 8,
     "DISTURBANCE": 60,
     "BATTERY": 21,
@@ -11,7 +11,7 @@
     "ALARM": 38,
     "KEEP THE PEACE": 31,
     "WELFARE CHECK": 65,
-    "PARK WALK AND TALK": 239,
+    "PARK WALK AND TALK": 240,
     "SUSPICIOUS PERSON": 106,
     "TRESPASS": 57,
     "PROPERTY FOUND/LOST": 23,
@@ -31,7 +31,7 @@
     "RECKLESS VEHICLE": 8,
     "JUVENILE CASE": 10,
     "HAZARD": 7,
-    "UNKNOWN PROBLEM": 16,
+    "UNKNOWN PROBLEM": 17,
     "NOISE COMPLAINT": 10,
     "CIVIL MATTER": 12,
     "DOMESTIC": 21,
@@ -71,7 +71,7 @@
     "1000 BLOCK WEST AVE": 2,
     "600 BLOCK S GULFVIEW BLVD": 10,
     "-800 BLOCK 1099 MARSHALL ST": 1,
-    "US HIGHWAY 19 N / DREW ST": 22,
+    "US HIGHWAY 19 N / DREW ST": 23,
     "US HIGHWAY 19 N / SR 590": 8,
     "1100 BLOCK DRUID RD": 8,
     "2100 BLOCK RANGE RD": 1,
@@ -377,7 +377,7 @@
     "1300 BLOCK COURT ST": 3,
     "COURT ST / S MADISON AVE": 2,
     "600 BLOCK N MYRTLE AVE": 1,
-    "MCMULLEN BOOTH RD / SUNSET POINT RD": 1,
+    "MCMULLEN BOOTH RD / SUNSET POINT RD": 2,
     "1400 BLOCK S MISSOURI": 1,
     "1000 BLOCK MOHAWK ST": 1,
     "400 BLOCK S HILLCREST AVE": 2,
@@ -1250,7 +1250,8 @@
     "21700 BLOCK US HIGHWAY 19 N": 1,
     "N MYRTLE AVE / CARLTON ST": 1,
     "MCMULLEN BOOTH RD / WOLFE RD": 1,
-    "1500 BLOCK N MYRTLE AVE": 1
+    "1500 BLOCK N MYRTLE AVE": 1,
+    "1400 BLOCK SAN JUAN CT": 1
   },
   "hourly_distribution": {
     "0": 93,
@@ -1263,7 +1264,7 @@
     "7": 70,
     "8": 157,
     "9": 184,
-    "10": 172,
+    "10": 175,
     "11": 162,
     "12": 160,
     "13": 157,
@@ -1279,7 +1280,7 @@
     "23": 81
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-11T15:51:23.271636+00:00",
+  "last_updated": "2025-12-11T16:01:18.729976+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 918
+  "total_snapshots": 919
 }
