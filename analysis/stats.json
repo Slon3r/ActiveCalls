@@ -1,14 +1,14 @@
 {
-  "total_calls_tracked": 2681,
-  "total_resolved": 2674,
+  "total_calls_tracked": 2684,
+  "total_resolved": 2681,
   "call_types": {
-    "DIRECTED PATROL": 866,
+    "DIRECTED PATROL": 867,
     "TRAFFIC STOP": 396,
     "DRUNK DRIVER": 8,
     "DISTURBANCE": 60,
     "BATTERY": 21,
     "CRIMINAL MISCHIEF": 15,
-    "ALARM": 37,
+    "ALARM": 38,
     "KEEP THE PEACE": 31,
     "WELFARE CHECK": 64,
     "PARK WALK AND TALK": 230,
@@ -36,7 +36,7 @@
     "CIVIL MATTER": 12,
     "DOMESTIC": 21,
     "ANIMAL CASE": 17,
-    "MISSING PERSON": 27,
+    "MISSING PERSON": 28,
     "BUILDING CHECK": 8,
     "SHOPLIFTING": 12,
     "DECEASED PERSON": 2,
@@ -180,7 +180,7 @@
     "GULF TO BAY BLVD / S LAKE DR": 1,
     "-400 BLOCK BLK BLANCHE B LITTLEJOHN TRL": 1,
     "2600 BLOCK GULF TO BAY BLVD": 16,
-    "400 BLOCK MANDALAY AVE": 10,
+    "400 BLOCK MANDALAY AVE": 11,
     "-3200 BLOCK 3399 COURTNEY CAMPBELL CSWY": 2,
     "1200 BLOCK GROVE ST": 1,
     "0 BLOCK OLD COACHMAN RD": 1,
@@ -792,7 +792,7 @@
     "GULF TO BAY BLVD / MCMULLEN BOOTH RD S SERVICE RD": 1,
     "US HIGHWAY 19 N / SOUTH DR": 1,
     "2100 BLOCK DREW ST": 1,
-    "1300 BLOCK YOUNG AVE": 3,
+    "1300 BLOCK YOUNG AVE": 4,
     "-1700 BLOCK 1718 DRUID RD": 1,
     "-1700 BLOCK 1769 DOUGLAS AVE": 1,
     "1800 BLOCK N BETTY LANE": 1,
@@ -1230,11 +1230,12 @@
     "800 BLOCK WOOD DR": 1,
     "CIRCLE K BELCHER/NURSERY": 1,
     "-3100 BLOCK 3398 COURTNEY CAMPBELL CSWY": 1,
-    "DREW ST / ANNA AVE": 1
+    "DREW ST / ANNA AVE": 1,
+    "S MISSOURI AVE/CLEVELAND ST": 1
   },
   "hourly_distribution": {
-    "0": 91,
-    "1": 74,
+    "0": 93,
+    "1": 75,
     "2": 51,
     "3": 38,
     "4": 25,
@@ -1259,7 +1260,7 @@
     "23": 81
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-11T06:00:52.066921+00:00",
+  "last_updated": "2025-12-11T06:46:25.883763+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 891
+  "total_snapshots": 892
 }
