@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 2824,
-  "total_resolved": 2813,
+  "total_calls_tracked": 2825,
+  "total_resolved": 2814,
   "call_types": {
-    "DIRECTED PATROL": 904,
+    "DIRECTED PATROL": 905,
     "TRAFFIC STOP": 409,
     "DRUNK DRIVER": 8,
     "DISTURBANCE": 64,
@@ -447,7 +447,7 @@
     "2200 BLOCK MORNINGSIDE DR": 2,
     "400 BLOCK S MARTIN LUTHER KING JR AVE": 1,
     "600 BLOCK BAYWAY BLVD": 5,
-    "1600 BLOCK N BELCHER RD": 2,
+    "1600 BLOCK N BELCHER RD": 3,
     "-1100 BLOCK 1148 PIERCE ST": 1,
     "FERNWOOD AVE / GULF TO BAY BLVD": 2,
     "N BELCHER RD / CLEVELAND ST": 1,
@@ -1296,7 +1296,7 @@
     "15": 194,
     "16": 188,
     "17": 186,
-    "18": 143,
+    "18": 144,
     "19": 45,
     "20": 49,
     "21": 62,
@@ -1304,7 +1304,7 @@
     "23": 81
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-11T23:45:09.277864+00:00",
+  "last_updated": "2025-12-11T23:53:43.044089+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 943
+  "total_snapshots": 944
 }
