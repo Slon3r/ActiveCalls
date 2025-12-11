@@ -13435,3 +13435,19 @@ TOTAL ACTIVE CALLS: 0
 ================================================================================
 
 No changes since last check.
+
+================================================================================
+TIMESTAMP: 2025-12-11T20:47:05.726722+00:00
+TOTAL ACTIVE CALLS: 9
+================================================================================
+
+--- NEW CALLS (9) ---
+[NEW] 121125-00286 | BURGLARY | 2100 BLOCK DREW ST | Response: 01:21 PM
+[NEW] 121125-00288 | CHILD PROTECTION INVESTIGATION | 900 BLOCK 1ST AVE N | Response: 01:26 PM
+[NEW] 121125-00319 | THEFT | 500 BLOCK MANDALAY AVE | Response: 02:27 PM
+[NEW] 121125-00332 | SHOPLIFTING | 26900 BLOCK US HIGHWAY 19 N | Response: 02:53 PM
+[NEW] 121125-00334 | TRAFFIC CRASH | SR 580 / LANDMARK DR | Response: 02:57 PM
+[NEW] 121125-00337 | WELFARE CHECK | 1400 BLOCK COURT ST | Response: 02:58 PM
+[NEW] 121125-00341 | DIRECTED PATROL | OLD COACHMAN RD / DREW ST | Response: 03:21 PM
+[NEW] 121125-00342 | SUSPICIOUS PERSON | 100 BLOCK N OSCEOLA AVE | Response: 03:23 PM
+[NEW] 121125-00343 | DIRECTED PATROL | 1100 BLOCK GULF BLVD | Response: 03:26 PM
