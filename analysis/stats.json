@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 2736,
+  "total_calls_tracked": 2740,
   "total_resolved": 2736,
   "call_types": {
-    "DIRECTED PATROL": 892,
-    "TRAFFIC STOP": 401,
+    "DIRECTED PATROL": 893,
+    "TRAFFIC STOP": 402,
     "DRUNK DRIVER": 8,
     "DISTURBANCE": 60,
     "BATTERY": 21,
@@ -14,8 +14,8 @@
     "PARK WALK AND TALK": 239,
     "SUSPICIOUS PERSON": 106,
     "TRESPASS": 57,
-    "PROPERTY FOUND/LOST": 22,
-    "THEFT": 37,
+    "PROPERTY FOUND/LOST": 23,
+    "THEFT": 38,
     "NEIGHBOR CALL": 14,
     "911 HANG-UP": 99,
     "SUSPICIOUS VEHICLE": 21,
@@ -316,7 +316,7 @@
     "DEVON DR  / CORONADO DR": 2,
     "600 BLOCK OLD COACHMAN RD": 4,
     "DREW ST / PINEWOOD AVE": 1,
-    "2800 BLOCK GULF TO BAY BLVD": 7,
+    "2800 BLOCK GULF TO BAY BLVD": 8,
     "19100 BLOCK US HIGHWAY 19 N": 2,
     "1200 BLOCK S HIGHLAND AVE": 12,
     "1200 BLOCK TURNER ST": 2,
@@ -1168,7 +1168,7 @@
     "2000 BLOCK THE MALL": 1,
     "S BELCHER RD / CURTIS DR N": 1,
     "2400 BLOCK NURSERY RD": 2,
-    "ELDORADO AVE / ACACIA ST": 1,
+    "ELDORADO AVE / ACACIA ST": 2,
     "-600 BLOCK 699 MANDALAY AVE": 1,
     "1800 BLOCK DREW ST": 1,
     "100 BLOCK S GARDEN AVE": 1,
@@ -1241,13 +1241,14 @@
     "0 BLOCK 98 CORONADO DR": 2,
     "-500 BLOCK 989 GULF BLVD": 1,
     "500 BLOCK DRUID RD": 1,
-    "500 BLOCK GILBERT ST": 1,
+    "500 BLOCK GILBERT ST": 2,
     "600 BLOCK DRUID RD W": 1,
     "PEBBLE BEACH DR / COUNTRYSIDE BLVD": 1,
     "-3100 BLOCK 3149 SAN BERNADINO ST": 1,
     "400 BLOCK S GARDEN AVE": 1,
     "-1500 BLOCK 1515 CLEVELAND ST": 1,
-    "21700 BLOCK US HIGHWAY 19 N": 1
+    "21700 BLOCK US HIGHWAY 19 N": 1,
+    "N MYRTLE AVE / CARLTON ST": 1
   },
   "hourly_distribution": {
     "0": 93,
@@ -1256,11 +1257,11 @@
     "3": 45,
     "4": 27,
     "5": 71,
-    "6": 93,
+    "6": 94,
     "7": 70,
     "8": 157,
-    "9": 183,
-    "10": 166,
+    "9": 184,
+    "10": 168,
     "11": 162,
     "12": 160,
     "13": 157,
@@ -1276,7 +1277,7 @@
     "23": 81
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-11T15:00:07.790523+00:00",
+  "last_updated": "2025-12-11T15:33:09.323608+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 916
+  "total_snapshots": 917
 }
