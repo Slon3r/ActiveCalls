@@ -1,19 +1,19 @@
 {
-  "total_calls_tracked": 2669,
-  "total_resolved": 2653,
+  "total_calls_tracked": 2673,
+  "total_resolved": 2662,
   "call_types": {
-    "DIRECTED PATROL": 863,
-    "TRAFFIC STOP": 393,
+    "DIRECTED PATROL": 864,
+    "TRAFFIC STOP": 394,
     "DRUNK DRIVER": 8,
     "DISTURBANCE": 60,
     "BATTERY": 21,
-    "CRIMINAL MISCHIEF": 14,
+    "CRIMINAL MISCHIEF": 15,
     "ALARM": 37,
     "KEEP THE PEACE": 31,
     "WELFARE CHECK": 64,
     "PARK WALK AND TALK": 228,
     "SUSPICIOUS PERSON": 104,
-    "TRESPASS": 56,
+    "TRESPASS": 57,
     "PROPERTY FOUND/LOST": 19,
     "THEFT": 36,
     "NEIGHBOR CALL": 14,
@@ -148,7 +148,7 @@
     "3000 BLOCK DREW ST": 4,
     "2400 BLOCK COUNTRYSIDE BLVD": 8,
     "1200 BLOCK S MISSOURI AVE": 12,
-    "2000 BLOCK N HIGHLAND AVE": 10,
+    "2000 BLOCK N HIGHLAND AVE": 11,
     "N DUNCAN AVE / DREW ST": 1,
     "1100 BLOCK COURT ST": 4,
     "-1300 BLOCK BLK ADMIRAL WOODSON LN": 1,
@@ -316,7 +316,7 @@
     "DEVON DR  / CORONADO DR": 2,
     "600 BLOCK OLD COACHMAN RD": 4,
     "DREW ST / PINEWOOD AVE": 1,
-    "2800 BLOCK GULF TO BAY BLVD": 5,
+    "2800 BLOCK GULF TO BAY BLVD": 6,
     "19100 BLOCK US HIGHWAY 19 N": 2,
     "1200 BLOCK S HIGHLAND AVE": 12,
     "1200 BLOCK TURNER ST": 2,
@@ -1224,7 +1224,9 @@
     "N KEENE RD / UNION ST": 1,
     "GARDEN AVE / CLEVELAND ST": 1,
     "DREW ST / N CREST AVE": 1,
-    "500 BLOCK SKYVIEW AVE": 1
+    "500 BLOCK SKYVIEW AVE": 1,
+    "600 BLOCK S ARCTURAS AVE": 1,
+    "SUNSET POINT RD / OLD COACHMAN RD": 1
   },
   "hourly_distribution": {
     "0": 85,
@@ -1249,11 +1251,11 @@
     "19": 45,
     "20": 49,
     "21": 62,
-    "22": 112,
+    "22": 116,
     "23": 79
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-11T03:49:15.254404+00:00",
+  "last_updated": "2025-12-11T04:23:22.418413+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 885
+  "total_snapshots": 886
 }
