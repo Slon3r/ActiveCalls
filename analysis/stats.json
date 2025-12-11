@@ -1,6 +1,6 @@
 {
-  "total_calls_tracked": 2814,
-  "total_resolved": 2805,
+  "total_calls_tracked": 2820,
+  "total_resolved": 2811,
   "call_types": {
     "DIRECTED PATROL": 902,
     "TRAFFIC STOP": 409,
@@ -11,7 +11,7 @@
     "ALARM": 38,
     "KEEP THE PEACE": 33,
     "WELFARE CHECK": 66,
-    "PARK WALK AND TALK": 244,
+    "PARK WALK AND TALK": 248,
     "SUSPICIOUS PERSON": 110,
     "TRESPASS": 60,
     "PROPERTY FOUND/LOST": 23,
@@ -24,7 +24,7 @@
     "SUSPICIOUS EVENT": 57,
     "TRAFFIC CRASH": 127,
     "DISABLED VEHICLE": 22,
-    "ASSIST CITIZEN": 72,
+    "ASSIST CITIZEN": 73,
     "ASSIST OTHER AGENCY": 59,
     "FIRE": 3,
     "FRAUD": 16,
@@ -48,7 +48,7 @@
     "ABANDONED VEHICLE": 8,
     "CHILD ABUSE": 2,
     "FIGHT": 1,
-    "CHILD PROTECTION INVESTIGATION": 9,
+    "CHILD PROTECTION INVESTIGATION": 10,
     "DRUNK PEDESTRIAN": 4,
     "ASSAULT": 7,
     "PERSON DOWN": 12,
@@ -154,7 +154,7 @@
     "1100 BLOCK COURT ST": 4,
     "-1300 BLOCK BLK ADMIRAL WOODSON LN": 1,
     "19300 BLOCK US HIGHWAY 19 N": 2,
-    "600 BLOCK PIERCE ST": 27,
+    "600 BLOCK PIERCE ST": 28,
     "0 BLOCK 99 THIRD ST": 7,
     "0 BLOCK 98 THIRD ST": 5,
     "100 BLOCK HAMPTON RD": 6,
@@ -327,7 +327,7 @@
     "300 BLOCK ISLAND WAY": 1,
     "2900 BLOCK GULF TO BAY BLVD": 9,
     "MONTCLAIR RD / N HERCULES AVE": 1,
-    "1000 BLOCK S MISSOURI AVE": 2,
+    "1000 BLOCK S MISSOURI AVE": 4,
     "1400 BLOCK S BELCHER RD": 9,
     "-500 BLOCK BLK ISLAND WAY": 1,
     "3200 BLOCK COURTNEY CAMPBELL CSWY": 8,
@@ -1269,7 +1269,10 @@
     "TANGERINE ST / N MARTIN LUTHER KING JR AVE": 1,
     "1300 BLOCK OVERLEA ST": 1,
     "2000 BLOCK SUNSET MEADOW DR": 1,
-    "N LINCOLN AVE / DREW ST": 1
+    "N LINCOLN AVE / DREW ST": 1,
+    "100 BLOCK FERNWOOD AVE": 1,
+    "N OSCEOLA AVE / CLEVELAND ST": 1,
+    "-1200 BLOCK 1241 MAGNOLIA DR": 1
   },
   "hourly_distribution": {
     "0": 93,
@@ -1287,10 +1290,10 @@
     "12": 166,
     "13": 166,
     "14": 194,
-    "15": 193,
+    "15": 194,
     "16": 188,
-    "17": 185,
-    "18": 135,
+    "17": 186,
+    "18": 139,
     "19": 45,
     "20": 49,
     "21": 62,
@@ -1298,7 +1301,7 @@
     "23": 81
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-11T23:18:03.928427+00:00",
+  "last_updated": "2025-12-11T23:33:55.154507+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 941
+  "total_snapshots": 942
 }

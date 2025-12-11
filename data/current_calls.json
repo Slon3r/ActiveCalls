@@ -7,28 +7,16 @@
       "Response_Date": "2025-12-11T15:34:05"
     },
     {
+      "Master_Incident_Number": "121125-00353",
+      "Online_Description": "CHILD PROTECTION INVESTIGATION",
+      "Address": "100 BLOCK FERNWOOD AVE",
+      "Response_Date": "2025-12-11T15:48:55"
+    },
+    {
       "Master_Incident_Number": "121125-00365",
       "Online_Description": "TRAFFIC CRASH",
       "Address": "N KEENE RD / SUNSET POINT RD",
       "Response_Date": "2025-12-11T16:18:38"
-    },
-    {
-      "Master_Incident_Number": "121125-00375",
-      "Online_Description": "THEFT",
-      "Address": "3200 BLOCK SAN MATEO ST",
-      "Response_Date": "2025-12-11T16:30:00"
-    },
-    {
-      "Master_Incident_Number": "121125-00383",
-      "Online_Description": "TRAFFIC CRASH",
-      "Address": "S BELCHER RD / GULF TO BAY BLVD",
-      "Response_Date": "2025-12-11T16:52:55"
-    },
-    {
-      "Master_Incident_Number": "121125-00393",
-      "Online_Description": "DISABLED VEHICLE",
-      "Address": "SR 580 / LANDMARK DR",
-      "Response_Date": "2025-12-11T17:07:44"
     },
     {
       "Master_Incident_Number": "121125-00400",
@@ -37,24 +25,36 @@
       "Response_Date": "2025-12-11T17:33:39"
     },
     {
-      "Master_Incident_Number": "121125-00405",
-      "Online_Description": "911 HANG-UP",
-      "Address": "1200 BLOCK SANTA ROSA ST",
-      "Response_Date": "2025-12-11T17:44:08"
+      "Master_Incident_Number": "121125-00419",
+      "Online_Description": "ASSIST CITIZEN",
+      "Address": "600 BLOCK PIERCE ST",
+      "Response_Date": "2025-12-11T17:58:32"
     },
     {
-      "Master_Incident_Number": "121125-00411",
-      "Online_Description": "SUSPICIOUS PERSON",
-      "Address": "600 BLOCK BAYWAY BLVD",
-      "Response_Date": "2025-12-11T17:51:45"
+      "Master_Incident_Number": "121125-00429",
+      "Online_Description": "PARK WALK AND TALK",
+      "Address": "N OSCEOLA AVE / CLEVELAND ST",
+      "Response_Date": "2025-12-11T18:03:04"
     },
     {
-      "Master_Incident_Number": "121125-00414",
-      "Online_Description": "TRAFFIC STOP",
-      "Address": "N LINCOLN AVE / DREW ST",
-      "Response_Date": "2025-12-11T17:52:39"
+      "Master_Incident_Number": "121125-00431",
+      "Online_Description": "PARK WALK AND TALK",
+      "Address": "1000 BLOCK S MISSOURI AVE",
+      "Response_Date": "2025-12-11T18:03:11"
+    },
+    {
+      "Master_Incident_Number": "121125-00432",
+      "Online_Description": "PARK WALK AND TALK",
+      "Address": "1000 BLOCK S MISSOURI AVE",
+      "Response_Date": "2025-12-11T18:10:17"
+    },
+    {
+      "Master_Incident_Number": "121125-00433",
+      "Online_Description": "PARK WALK AND TALK",
+      "Address": "-1200 BLOCK 1241 MAGNOLIA DR",
+      "Response_Date": "2025-12-11T18:12:02"
     }
   ],
-  "timestamp": "2025-12-11T23:18:03.924456+00:00",
+  "timestamp": "2025-12-11T23:33:55.150611+00:00",
   "count": 9
 }
