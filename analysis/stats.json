@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 2808,
+  "total_calls_tracked": 2810,
   "total_resolved": 2801,
   "call_types": {
-    "DIRECTED PATROL": 901,
+    "DIRECTED PATROL": 902,
     "TRAFFIC STOP": 408,
     "DRUNK DRIVER": 8,
     "DISTURBANCE": 64,
@@ -31,7 +31,7 @@
     "RECKLESS VEHICLE": 8,
     "JUVENILE CASE": 11,
     "HAZARD": 7,
-    "UNKNOWN PROBLEM": 17,
+    "UNKNOWN PROBLEM": 18,
     "NOISE COMPLAINT": 11,
     "CIVIL MATTER": 13,
     "DOMESTIC": 21,
@@ -1265,7 +1265,9 @@
     "1200 BLOCK KINGSWOOD DR": 1,
     "2100 BLOCK ACADEMY DR": 1,
     "3200 BLOCK SAN MATEO ST": 2,
-    "0 BLOCK N OSCEOLA AVE": 1
+    "0 BLOCK N OSCEOLA AVE": 1,
+    "TANGERINE ST / N MARTIN LUTHER KING JR AVE": 1,
+    "1300 BLOCK OVERLEA ST": 1
   },
   "hourly_distribution": {
     "0": 93,
@@ -1285,7 +1287,7 @@
     "14": 194,
     "15": 193,
     "16": 188,
-    "17": 179,
+    "17": 181,
     "18": 135,
     "19": 45,
     "20": 49,
@@ -1294,7 +1296,7 @@
     "23": 81
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-11T22:49:10.985866+00:00",
+  "last_updated": "2025-12-11T22:56:50.224923+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 939
+  "total_snapshots": 940
 }

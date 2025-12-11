@@ -13565,3 +13565,12 @@ TOTAL ACTIVE CALLS: 7
 --- RESOLVED CALLS (2) ---
 [RESOLVED] 121125-00354 | CIVIL MATTER | 2100 BLOCK ACADEMY DR | Response: 03:47 PM
 [RESOLVED] 121125-00371 | TRAFFIC CRASH | US HIGHWAY 19 N / GULF TO BAY BLVD | Response: 04:21 PM
+
+================================================================================
+TIMESTAMP: 2025-12-11T22:56:50.221207+00:00
+TOTAL ACTIVE CALLS: 9
+================================================================================
+
+--- NEW CALLS (2) ---
+[NEW] 121125-00399 | DIRECTED PATROL | TANGERINE ST / N MARTIN LUTHER KING JR AVE | Response: 05:32 PM
+[NEW] 121125-00401 | UNKNOWN PROBLEM | 1300 BLOCK OVERLEA ST | Response: 05:34 PM
