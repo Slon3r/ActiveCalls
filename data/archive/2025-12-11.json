@@ -402,6 +402,42 @@
           "Response_Date": "2025-12-10T23:22:22"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-11T05:12:48.290767+00:00",
+      "call_count": 5,
+      "calls": [
+        {
+          "Master_Incident_Number": "121025-00430",
+          "Online_Description": "CRIMINAL MISCHIEF",
+          "Address": "2000 BLOCK EDGEWATER DR",
+          "Response_Date": "2025-12-10T17:55:44"
+        },
+        {
+          "Master_Incident_Number": "121025-00590",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "DREW ST / N CREST AVE",
+          "Response_Date": "2025-12-10T21:56:04"
+        },
+        {
+          "Master_Incident_Number": "121025-00615",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "600 BLOCK S ARCTURAS AVE",
+          "Response_Date": "2025-12-10T22:29:26"
+        },
+        {
+          "Master_Incident_Number": "121025-00620",
+          "Online_Description": "TRESPASS",
+          "Address": "2000 BLOCK N HIGHLAND AVE",
+          "Response_Date": "2025-12-10T22:35:38"
+        },
+        {
+          "Master_Incident_Number": "121025-00639",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "N HIGHLAND AVE / SUNSET POINT RD",
+          "Response_Date": "2025-12-10T23:22:22"
+        }
+      ]
     }
   ]
 }

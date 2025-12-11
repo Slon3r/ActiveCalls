@@ -13,18 +13,6 @@
       "Response_Date": "2025-12-10T21:56:04"
     },
     {
-      "Master_Incident_Number": "121025-00600",
-      "Online_Description": "PARK WALK AND TALK",
-      "Address": "400 BLOCK POINSETTIA AVE",
-      "Response_Date": "2025-12-10T22:11:25"
-    },
-    {
-      "Master_Incident_Number": "121025-00601",
-      "Online_Description": "TRAFFIC STOP",
-      "Address": "MEMORIAL CSWY / ISLAND WAY",
-      "Response_Date": "2025-12-10T22:12:36"
-    },
-    {
       "Master_Incident_Number": "121025-00615",
       "Online_Description": "DIRECTED PATROL",
       "Address": "600 BLOCK S ARCTURAS AVE",
@@ -37,18 +25,12 @@
       "Response_Date": "2025-12-10T22:35:38"
     },
     {
-      "Master_Incident_Number": "121025-00628",
-      "Online_Description": "TRAFFIC STOP",
-      "Address": "SUNSET POINT RD / OLD COACHMAN RD",
-      "Response_Date": "2025-12-10T22:50:34"
-    },
-    {
       "Master_Incident_Number": "121025-00639",
       "Online_Description": "TRAFFIC STOP",
       "Address": "N HIGHLAND AVE / SUNSET POINT RD",
       "Response_Date": "2025-12-10T23:22:22"
     }
   ],
-  "timestamp": "2025-12-11T04:52:17.409680+00:00",
-  "count": 8
+  "timestamp": "2025-12-11T05:12:48.290767+00:00",
+  "count": 5
 }
