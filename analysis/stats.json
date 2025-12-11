@@ -1,6 +1,6 @@
 {
-  "total_calls_tracked": 2807,
-  "total_resolved": 2799,
+  "total_calls_tracked": 2808,
+  "total_resolved": 2801,
   "call_types": {
     "DIRECTED PATROL": 901,
     "TRAFFIC STOP": 408,
@@ -15,7 +15,7 @@
     "SUSPICIOUS PERSON": 109,
     "TRESPASS": 60,
     "PROPERTY FOUND/LOST": 23,
-    "THEFT": 42,
+    "THEFT": 43,
     "NEIGHBOR CALL": 14,
     "911 HANG-UP": 100,
     "SUSPICIOUS VEHICLE": 21,
@@ -1264,7 +1264,7 @@
     "500 BLOCK S GLENWOOD AVE": 1,
     "1200 BLOCK KINGSWOOD DR": 1,
     "2100 BLOCK ACADEMY DR": 1,
-    "3200 BLOCK SAN MATEO ST": 1,
+    "3200 BLOCK SAN MATEO ST": 2,
     "0 BLOCK N OSCEOLA AVE": 1
   },
   "hourly_distribution": {
@@ -1284,7 +1284,7 @@
     "13": 166,
     "14": 194,
     "15": 193,
-    "16": 187,
+    "16": 188,
     "17": 179,
     "18": 135,
     "19": 45,
@@ -1294,7 +1294,7 @@
     "23": 81
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-11T22:35:39.654366+00:00",
+  "last_updated": "2025-12-11T22:49:10.985866+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 938
+  "total_snapshots": 939
 }

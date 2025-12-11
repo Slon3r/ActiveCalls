@@ -7,12 +7,6 @@
       "Response_Date": "2025-12-11T15:34:05"
     },
     {
-      "Master_Incident_Number": "121125-00354",
-      "Online_Description": "CIVIL MATTER",
-      "Address": "2100 BLOCK ACADEMY DR",
-      "Response_Date": "2025-12-11T15:47:06"
-    },
-    {
       "Master_Incident_Number": "121125-00361",
       "Online_Description": "TRESPASS",
       "Address": "19000 BLOCK US HIGHWAY 19 N",
@@ -25,10 +19,10 @@
       "Response_Date": "2025-12-11T16:18:38"
     },
     {
-      "Master_Incident_Number": "121125-00371",
-      "Online_Description": "TRAFFIC CRASH",
-      "Address": "US HIGHWAY 19 N / GULF TO BAY BLVD",
-      "Response_Date": "2025-12-11T16:21:36"
+      "Master_Incident_Number": "121125-00375",
+      "Online_Description": "THEFT",
+      "Address": "3200 BLOCK SAN MATEO ST",
+      "Response_Date": "2025-12-11T16:30:00"
     },
     {
       "Master_Incident_Number": "121125-00379",
@@ -49,6 +43,6 @@
       "Response_Date": "2025-12-11T17:07:44"
     }
   ],
-  "timestamp": "2025-12-11T22:35:39.650710+00:00",
-  "count": 8
+  "timestamp": "2025-12-11T22:49:10.982167+00:00",
+  "count": 7
 }
