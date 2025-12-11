@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 2673,
-  "total_resolved": 2662,
+  "total_calls_tracked": 2674,
+  "total_resolved": 2666,
   "call_types": {
     "DIRECTED PATROL": 864,
-    "TRAFFIC STOP": 394,
+    "TRAFFIC STOP": 395,
     "DRUNK DRIVER": 8,
     "DISTURBANCE": 60,
     "BATTERY": 21,
@@ -219,7 +219,7 @@
     "1600 BLOCK DARTMOUTH ST": 1,
     "HAMDEN DR / BRIGHTWATER DR": 3,
     "HAMPTON RD / GULF TO BAY BLVD": 2,
-    "N HIGHLAND AVE / SUNSET POINT RD": 4,
+    "N HIGHLAND AVE / SUNSET POINT RD": 5,
     "1100 BLOCK TANGERINE ST": 1,
     "N HERCULES AVE / SUNSET POINT RD": 3,
     "US HIGHWAY 19 N / COUNTRYSIDE BLVD": 7,
@@ -1252,10 +1252,10 @@
     "20": 49,
     "21": 62,
     "22": 116,
-    "23": 79
+    "23": 80
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-11T04:23:22.418413+00:00",
+  "last_updated": "2025-12-11T04:52:17.411446+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 886
+  "total_snapshots": 887
 }
