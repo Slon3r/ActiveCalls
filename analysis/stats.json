@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 2719,
-  "total_resolved": 2716,
+  "total_calls_tracked": 2721,
+  "total_resolved": 2719,
   "call_types": {
-    "DIRECTED PATROL": 887,
+    "DIRECTED PATROL": 888,
     "TRAFFIC STOP": 398,
     "DRUNK DRIVER": 8,
     "DISTURBANCE": 60,
@@ -15,7 +15,7 @@
     "SUSPICIOUS PERSON": 105,
     "TRESPASS": 57,
     "PROPERTY FOUND/LOST": 20,
-    "THEFT": 36,
+    "THEFT": 37,
     "NEIGHBOR CALL": 14,
     "911 HANG-UP": 99,
     "SUSPICIOUS VEHICLE": 20,
@@ -437,7 +437,7 @@
     "2500 BLOCK DREW ST": 1,
     "600 BLOCK N FORT HARRISON AVE": 1,
     "200 BLOCK S BETTY LN": 1,
-    "2400 BLOCK HARN BLVD": 4,
+    "2400 BLOCK HARN BLVD": 5,
     "1400 BLOCK S MARTIN LUTHER KING JR AVE": 13,
     "OTIS C GREEN DR / N BETTY LN": 1,
     "2600 BLOCK MCMULLEN BOOTH RD": 6,
@@ -1240,7 +1240,8 @@
     "0 BLOCK TH ST": 1,
     "0 BLOCK 98 CORONADO DR": 2,
     "-500 BLOCK 989 GULF BLVD": 1,
-    "500 BLOCK DRUID RD": 1
+    "500 BLOCK DRUID RD": 1,
+    "500 BLOCK GILBERT ST": 1
   },
   "hourly_distribution": {
     "0": 93,
@@ -1249,8 +1250,8 @@
     "3": 45,
     "4": 27,
     "5": 71,
-    "6": 92,
-    "7": 65,
+    "6": 93,
+    "7": 66,
     "8": 154,
     "9": 175,
     "10": 166,
@@ -1269,7 +1270,7 @@
     "23": 81
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-11T11:55:23.336921+00:00",
+  "last_updated": "2025-12-11T12:32:27.549769+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 909
+  "total_snapshots": 910
 }
