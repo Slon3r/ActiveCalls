@@ -13111,3 +13111,15 @@ TOTAL ACTIVE CALLS: 4
 
 --- NEW CALLS (1) ---
 [NEW] 121125-00100 | DIRECTED PATROL | -2000 BLOCK 2198 PALMETTO ST | Response: 05:45 AM
+
+================================================================================
+TIMESTAMP: 2025-12-11T11:36:25.566835+00:00
+TOTAL ACTIVE CALLS: 3
+================================================================================
+
+--- NEW CALLS (1) ---
+[NEW] 121125-00110 | SUSPICIOUS PERSON | 500 BLOCK S FORT HARRISON AVE | Response: 06:11 AM
+
+--- RESOLVED CALLS (2) ---
+[RESOLVED] 121125-00027 | DIRECTED PATROL | -800 BLOCK 899 S MISSOURI AVE | Response: 01:30 AM
+[RESOLVED] 121125-00100 | DIRECTED PATROL | -2000 BLOCK 2198 PALMETTO ST | Response: 05:45 AM

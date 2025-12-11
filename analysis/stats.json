@@ -1,6 +1,6 @@
 {
-  "total_calls_tracked": 2715,
-  "total_resolved": 2711,
+  "total_calls_tracked": 2716,
+  "total_resolved": 2713,
   "call_types": {
     "DIRECTED PATROL": 885,
     "TRAFFIC STOP": 398,
@@ -12,7 +12,7 @@
     "KEEP THE PEACE": 31,
     "WELFARE CHECK": 65,
     "PARK WALK AND TALK": 236,
-    "SUSPICIOUS PERSON": 104,
+    "SUSPICIOUS PERSON": 105,
     "TRESPASS": 57,
     "PROPERTY FOUND/LOST": 20,
     "THEFT": 36,
@@ -86,7 +86,7 @@
     "100 BLOCK S MYRTLE AVE": 3,
     "0 BLOCK CAUSEWAY BLVD": 20,
     "400 BLOCK FAIRWOOD AVE": 4,
-    "500 BLOCK S FORT HARRISON AVE": 8,
+    "500 BLOCK S FORT HARRISON AVE": 9,
     "26000 BLOCK US HIGHWAY 19 N": 6,
     "1300 BLOCK S BELCHER RD": 17,
     "200 BLOCK WINDWARD PSGE": 4,
@@ -1248,7 +1248,7 @@
     "3": 45,
     "4": 27,
     "5": 71,
-    "6": 88,
+    "6": 89,
     "7": 65,
     "8": 154,
     "9": 175,
@@ -1268,7 +1268,7 @@
     "23": 81
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-11T11:22:15.591900+00:00",
+  "last_updated": "2025-12-11T11:36:25.569246+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 906
+  "total_snapshots": 907
 }
