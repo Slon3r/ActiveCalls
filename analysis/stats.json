@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 2693,
-  "total_resolved": 2683,
+  "total_calls_tracked": 2697,
+  "total_resolved": 2687,
   "call_types": {
-    "DIRECTED PATROL": 873,
+    "DIRECTED PATROL": 875,
     "TRAFFIC STOP": 397,
     "DRUNK DRIVER": 8,
     "DISTURBANCE": 60,
@@ -10,7 +10,7 @@
     "CRIMINAL MISCHIEF": 15,
     "ALARM": 38,
     "KEEP THE PEACE": 31,
-    "WELFARE CHECK": 64,
+    "WELFARE CHECK": 65,
     "PARK WALK AND TALK": 232,
     "SUSPICIOUS PERSON": 104,
     "TRESPASS": 57,
@@ -21,7 +21,7 @@
     "SUSPICIOUS VEHICLE": 19,
     "PANHANDLER/SOLICITOR": 5,
     "VEHICLE ILLEGALLY PARKED": 6,
-    "SUSPICIOUS EVENT": 54,
+    "SUSPICIOUS EVENT": 55,
     "TRAFFIC CRASH": 119,
     "DISABLED VEHICLE": 20,
     "ASSIST CITIZEN": 69,
@@ -500,7 +500,7 @@
     "-600 BLOCK 804 SNUG IS": 2,
     "700 BLOCK DREW ST": 2,
     "0 BLOCK 98 N MYRTLE AVE": 1,
-    "2000 BLOCK GULF TO BAY BLVD": 7,
+    "2000 BLOCK GULF TO BAY BLVD": 8,
     "-3100 BLOCK 3195 SANDY RIDGE DR": 3,
     "COURT ST / S HILLCREST AVE ": 1,
     "700 BLOCK BRUCE AVE": 1,
@@ -1231,11 +1231,14 @@
     "CIRCLE K BELCHER/NURSERY": 1,
     "-3100 BLOCK 3398 COURTNEY CAMPBELL CSWY": 1,
     "DREW ST / ANNA AVE": 1,
-    "S MISSOURI AVE/CLEVELAND ST": 1
+    "S MISSOURI AVE/CLEVELAND ST": 1,
+    "2400 BLOCK DRUID RD": 1,
+    "LAKE SHORE DR / FOURTH AVE S": 1,
+    "N MARTIN LUTHER KING JR AVE / CARLTON ST": 1
   },
   "hourly_distribution": {
     "0": 93,
-    "1": 84,
+    "1": 88,
     "2": 51,
     "3": 38,
     "4": 25,
@@ -1260,7 +1263,7 @@
     "23": 81
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-11T07:02:23.394622+00:00",
+  "last_updated": "2025-12-11T07:31:53.172353+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 893
+  "total_snapshots": 894
 }
