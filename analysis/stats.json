@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 2717,
-  "total_resolved": 2714,
+  "total_calls_tracked": 2719,
+  "total_resolved": 2716,
   "call_types": {
-    "DIRECTED PATROL": 886,
+    "DIRECTED PATROL": 887,
     "TRAFFIC STOP": 398,
     "DRUNK DRIVER": 8,
     "DISTURBANCE": 60,
@@ -18,7 +18,7 @@
     "THEFT": 36,
     "NEIGHBOR CALL": 14,
     "911 HANG-UP": 99,
-    "SUSPICIOUS VEHICLE": 19,
+    "SUSPICIOUS VEHICLE": 20,
     "PANHANDLER/SOLICITOR": 5,
     "VEHICLE ILLEGALLY PARKED": 6,
     "SUSPICIOUS EVENT": 56,
@@ -284,7 +284,7 @@
     "3000 BLOCK EASTLAND BLVD": 6,
     "-2300 BLOCK 2373 GULF TO BAY BLVD": 1,
     "1800 BLOCK MONTCLAIR RD": 2,
-    "20500 BLOCK US HIGHWAY 19 N": 10,
+    "20500 BLOCK US HIGHWAY 19 N": 11,
     "200 BLOCK LARBOARD WAY": 2,
     "COURT ST / S MISSOURI AVE": 4,
     "-500 BLOCK 1068 GULF BLVD": 1,
@@ -1239,7 +1239,8 @@
     "200 BLOCK BRIGHTWATER DR": 1,
     "0 BLOCK TH ST": 1,
     "0 BLOCK 98 CORONADO DR": 2,
-    "-500 BLOCK 989 GULF BLVD": 1
+    "-500 BLOCK 989 GULF BLVD": 1,
+    "500 BLOCK DRUID RD": 1
   },
   "hourly_distribution": {
     "0": 93,
@@ -1248,7 +1249,7 @@
     "3": 45,
     "4": 27,
     "5": 71,
-    "6": 90,
+    "6": 92,
     "7": 65,
     "8": 154,
     "9": 175,
@@ -1268,7 +1269,7 @@
     "23": 81
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-11T11:46:58.477552+00:00",
+  "last_updated": "2025-12-11T11:55:23.336921+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 908
+  "total_snapshots": 909
 }
