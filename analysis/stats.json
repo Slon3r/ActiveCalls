@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 2674,
-  "total_resolved": 2669,
+  "total_calls_tracked": 2677,
+  "total_resolved": 2671,
   "call_types": {
-    "DIRECTED PATROL": 864,
+    "DIRECTED PATROL": 865,
     "TRAFFIC STOP": 395,
     "DRUNK DRIVER": 8,
     "DISTURBANCE": 60,
@@ -11,13 +11,13 @@
     "ALARM": 37,
     "KEEP THE PEACE": 31,
     "WELFARE CHECK": 64,
-    "PARK WALK AND TALK": 228,
+    "PARK WALK AND TALK": 229,
     "SUSPICIOUS PERSON": 104,
     "TRESPASS": 57,
     "PROPERTY FOUND/LOST": 19,
     "THEFT": 36,
     "NEIGHBOR CALL": 14,
-    "911 HANG-UP": 98,
+    "911 HANG-UP": 99,
     "SUSPICIOUS VEHICLE": 19,
     "PANHANDLER/SOLICITOR": 5,
     "VEHICLE ILLEGALLY PARKED": 6,
@@ -513,7 +513,7 @@
     "-2800 BLOCK 2898 EAGLE ESTATES CIR N": 2,
     "1400 BLOCK SPRINGDALE ST": 4,
     "-2000 BLOCK 2098 SUNSET GROVE LN": 1,
-    "2300 BLOCK DREW ST": 2,
+    "2300 BLOCK DREW ST": 3,
     "23000 BLOCK US HIGHWAY 19 N": 2,
     "1900 BLOCK RADCLIFFE DR N": 2,
     "1100 BLOCK GROVE ST": 2,
@@ -1226,10 +1226,12 @@
     "DREW ST / N CREST AVE": 1,
     "500 BLOCK SKYVIEW AVE": 1,
     "600 BLOCK S ARCTURAS AVE": 1,
-    "SUNSET POINT RD / OLD COACHMAN RD": 1
+    "SUNSET POINT RD / OLD COACHMAN RD": 1,
+    "800 BLOCK WOOD DR": 1,
+    "CIRCLE K BELCHER/NURSERY": 1
   },
   "hourly_distribution": {
-    "0": 85,
+    "0": 87,
     "1": 74,
     "2": 51,
     "3": 38,
@@ -1252,10 +1254,10 @@
     "20": 49,
     "21": 62,
     "22": 116,
-    "23": 80
+    "23": 81
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-11T05:12:48.292475+00:00",
+  "last_updated": "2025-12-11T05:39:27.670269+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 888
+  "total_snapshots": 889
 }
