@@ -774,6 +774,48 @@
           "Response_Date": "2025-12-11T02:24:58"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-11T07:54:21.438039+00:00",
+      "call_count": 6,
+      "calls": [
+        {
+          "Master_Incident_Number": "121125-00027",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "-800 BLOCK 899 S MISSOURI AVE",
+          "Response_Date": "2025-12-11T01:30:56"
+        },
+        {
+          "Master_Incident_Number": "121125-00036",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "LAKE SHORE DR / FOURTH AVE S",
+          "Response_Date": "2025-12-11T01:53:02"
+        },
+        {
+          "Master_Incident_Number": "121125-00048",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "-3100 BLOCK 3195 SANDY RIDGE DR",
+          "Response_Date": "2025-12-11T02:30:14"
+        },
+        {
+          "Master_Incident_Number": "121125-00050",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "COURT ST / S HIGHLAND AVE",
+          "Response_Date": "2025-12-11T02:32:16"
+        },
+        {
+          "Master_Incident_Number": "121125-00051",
+          "Online_Description": "PARK WALK AND TALK",
+          "Address": "1200 BLOCK BELLEAIR RD",
+          "Response_Date": "2025-12-11T02:32:52"
+        },
+        {
+          "Master_Incident_Number": "121125-00052",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "1000 BLOCK GULF BLVD",
+          "Response_Date": "2025-12-11T02:33:41"
+        }
+      ]
     }
   ]
 }

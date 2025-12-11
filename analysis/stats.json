@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 2698,
-  "total_resolved": 2692,
+  "total_calls_tracked": 2702,
+  "total_resolved": 2696,
   "call_types": {
-    "DIRECTED PATROL": 876,
-    "TRAFFIC STOP": 397,
+    "DIRECTED PATROL": 878,
+    "TRAFFIC STOP": 398,
     "DRUNK DRIVER": 8,
     "DISTURBANCE": 60,
     "BATTERY": 21,
@@ -11,7 +11,7 @@
     "ALARM": 38,
     "KEEP THE PEACE": 31,
     "WELFARE CHECK": 65,
-    "PARK WALK AND TALK": 232,
+    "PARK WALK AND TALK": 233,
     "SUSPICIOUS PERSON": 104,
     "TRESPASS": 57,
     "PROPERTY FOUND/LOST": 19,
@@ -94,7 +94,7 @@
     "FLUSHING AVE / HARN BLVD": 2,
     "S BELCHER RD / BARCELONA DR": 1,
     "-1400 BLOCK 1417 S MISSOURI AVE": 1,
-    "1000 BLOCK GULF BLVD": 27,
+    "1000 BLOCK GULF BLVD": 28,
     "1400 BLOCK LAURA ST": 5,
     "ENTERPRISE RD E / VILLAGE DR": 3,
     "GULF TO BAY BLVD / HAMPTON RD": 1,
@@ -501,7 +501,7 @@
     "700 BLOCK DREW ST": 2,
     "0 BLOCK 98 N MYRTLE AVE": 1,
     "2000 BLOCK GULF TO BAY BLVD": 8,
-    "-3100 BLOCK 3195 SANDY RIDGE DR": 3,
+    "-3100 BLOCK 3195 SANDY RIDGE DR": 4,
     "COURT ST / S HILLCREST AVE ": 1,
     "700 BLOCK BRUCE AVE": 1,
     "1500 BLOCK SADLON AVE": 1,
@@ -626,7 +626,7 @@
     "0 BLOCK 48 BAY ESPLANADE": 2,
     "-3100 BLOCK 3160 MASTERS DR": 1,
     "-2700 BLOCK 2748 DREW ST": 1,
-    "COURT ST / S HIGHLAND AVE": 2,
+    "COURT ST / S HIGHLAND AVE": 3,
     "GULF TO BAY BLVD / S KEENE RD": 2,
     "-2500 BLOCK 2528 DRIVEWAY PARKING": 2,
     "S MISSOURI AVE / JEFFORDS ST": 1,
@@ -1234,12 +1234,13 @@
     "S MISSOURI AVE/CLEVELAND ST": 1,
     "2400 BLOCK DRUID RD": 1,
     "LAKE SHORE DR / FOURTH AVE S": 1,
-    "N MARTIN LUTHER KING JR AVE / CARLTON ST": 1
+    "N MARTIN LUTHER KING JR AVE / CARLTON ST": 1,
+    "1200 BLOCK BELLEAIR RD": 1
   },
   "hourly_distribution": {
     "0": 93,
     "1": 88,
-    "2": 52,
+    "2": 56,
     "3": 38,
     "4": 25,
     "5": 67,
@@ -1263,7 +1264,7 @@
     "23": 81
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-11T07:45:45.263168+00:00",
+  "last_updated": "2025-12-11T07:54:21.440115+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 895
+  "total_snapshots": 896
 }
