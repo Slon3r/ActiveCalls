@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 2704,
-  "total_resolved": 2700,
+  "total_calls_tracked": 2707,
+  "total_resolved": 2702,
   "call_types": {
-    "DIRECTED PATROL": 879,
+    "DIRECTED PATROL": 880,
     "TRAFFIC STOP": 398,
     "DRUNK DRIVER": 8,
     "DISTURBANCE": 60,
@@ -11,7 +11,7 @@
     "ALARM": 38,
     "KEEP THE PEACE": 31,
     "WELFARE CHECK": 65,
-    "PARK WALK AND TALK": 233,
+    "PARK WALK AND TALK": 235,
     "SUSPICIOUS PERSON": 104,
     "TRESPASS": 57,
     "PROPERTY FOUND/LOST": 19,
@@ -132,7 +132,7 @@
     "2400 BLOCK DREW ST": 6,
     "-1100 BLOCK 1582 GULF BLVD": 5,
     "3300 BLOCK COURTNEY CAMPBELL CSWY": 11,
-    "1200 BLOCK COURT ST": 4,
+    "1200 BLOCK COURT ST": 5,
     "1400 BLOCK OWEN DR": 1,
     "200 BLOCK ISLAND WAY": 9,
     "-500 BLOCK BLK CLEVELAND ST": 3,
@@ -369,7 +369,7 @@
     "500 BLOCK MOSS AVE": 1,
     "-1000 BLOCK 1170 GULF BLVD": 2,
     "27000 BLOCK US 19": 1,
-    "500 BLOCK N BETTY LN": 14,
+    "500 BLOCK N BETTY LN": 15,
     "600 BLOCK ELDRIDGE ST": 1,
     "2100 BLOCK MONTCLAIR RD": 1,
     "700 BLOCK S KEENE RD": 3,
@@ -1235,13 +1235,14 @@
     "2400 BLOCK DRUID RD": 1,
     "LAKE SHORE DR / FOURTH AVE S": 1,
     "N MARTIN LUTHER KING JR AVE / CARLTON ST": 1,
-    "1200 BLOCK BELLEAIR RD": 1
+    "1200 BLOCK BELLEAIR RD": 1,
+    "200 BLOCK BRIGHTWATER DR": 1
   },
   "hourly_distribution": {
     "0": 93,
     "1": 88,
     "2": 56,
-    "3": 40,
+    "3": 43,
     "4": 25,
     "5": 67,
     "6": 88,
@@ -1264,7 +1265,7 @@
     "23": 81
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-11T08:47:48.830561+00:00",
+  "last_updated": "2025-12-11T09:01:42.719595+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 898
+  "total_snapshots": 899
 }
