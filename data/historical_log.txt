@@ -13053,3 +13053,11 @@ TOTAL ACTIVE CALLS: 4
 [RESOLVED] 121125-00067 | PARK WALK AND TALK | 200 BLOCK BRIGHTWATER DR | Response: 03:28 AM
 [RESOLVED] 121125-00069 | PARK WALK AND TALK | 500 BLOCK N BETTY LN | Response: 03:31 AM
 [RESOLVED] 121125-00071 | DIRECTED PATROL | 1200 BLOCK COURT ST | Response: 03:36 AM
+
+================================================================================
+TIMESTAMP: 2025-12-11T09:50:45.161215+00:00
+TOTAL ACTIVE CALLS: 5
+================================================================================
+
+--- NEW CALLS (1) ---
+[NEW] 121125-00084 | PROPERTY FOUND/LOST | 500 BLOCK MANDALAY AVE | Response: 04:13 AM

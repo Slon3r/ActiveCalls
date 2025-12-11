@@ -1,5 +1,5 @@
 {
-  "total_calls_tracked": 2709,
+  "total_calls_tracked": 2710,
   "total_resolved": 2705,
   "call_types": {
     "DIRECTED PATROL": 882,
@@ -14,7 +14,7 @@
     "PARK WALK AND TALK": 235,
     "SUSPICIOUS PERSON": 104,
     "TRESPASS": 57,
-    "PROPERTY FOUND/LOST": 19,
+    "PROPERTY FOUND/LOST": 20,
     "THEFT": 36,
     "NEIGHBOR CALL": 14,
     "911 HANG-UP": 99,
@@ -199,7 +199,7 @@
     "300 BLOCK S GULFVIEW BLVD": 12,
     "500 BLOCK S HIGHLAND AVE": 1,
     "1700 BLOCK KINGS HWY": 2,
-    "500 BLOCK MANDALAY AVE": 10,
+    "500 BLOCK MANDALAY AVE": 11,
     "3000 BLOCK HAVERFORD DR": 2,
     "DREW ST / OLD COACHMAN RD": 3,
     "2500 BLOCK HARN BLVD": 29,
@@ -1244,7 +1244,7 @@
     "1": 88,
     "2": 56,
     "3": 45,
-    "4": 25,
+    "4": 26,
     "5": 67,
     "6": 88,
     "7": 65,
@@ -1266,7 +1266,7 @@
     "23": 81
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-11T09:34:38.554036+00:00",
+  "last_updated": "2025-12-11T09:50:45.163396+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 900
+  "total_snapshots": 901
 }
