@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 2716,
-  "total_resolved": 2713,
+  "total_calls_tracked": 2717,
+  "total_resolved": 2714,
   "call_types": {
-    "DIRECTED PATROL": 885,
+    "DIRECTED PATROL": 886,
     "TRAFFIC STOP": 398,
     "DRUNK DRIVER": 8,
     "DISTURBANCE": 60,
@@ -146,7 +146,7 @@
     "GULF TO BAY BLVD / THORTON RD": 1,
     "COUNTRYSIDE BLVD / ENDICOTT CT": 4,
     "3000 BLOCK DREW ST": 4,
-    "2400 BLOCK COUNTRYSIDE BLVD": 9,
+    "2400 BLOCK COUNTRYSIDE BLVD": 10,
     "1200 BLOCK S MISSOURI AVE": 12,
     "2000 BLOCK N HIGHLAND AVE": 11,
     "N DUNCAN AVE / DREW ST": 1,
@@ -1248,7 +1248,7 @@
     "3": 45,
     "4": 27,
     "5": 71,
-    "6": 89,
+    "6": 90,
     "7": 65,
     "8": 154,
     "9": 175,
@@ -1268,7 +1268,7 @@
     "23": 81
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-11T11:36:25.569246+00:00",
+  "last_updated": "2025-12-11T11:46:58.477552+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 907
+  "total_snapshots": 908
 }
