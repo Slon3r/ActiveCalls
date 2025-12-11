@@ -7,30 +7,24 @@
       "Response_Date": "2025-12-11T06:37:52"
     },
     {
-      "Master_Incident_Number": "121125-00134",
-      "Online_Description": "SUSPICIOUS PERSON",
-      "Address": "600 BLOCK DRUID RD W",
-      "Response_Date": "2025-12-11T07:50:43"
-    },
-    {
       "Master_Incident_Number": "121125-00133",
       "Online_Description": "PARK WALK AND TALK",
       "Address": "300 BLOCK CORONADO DR",
       "Response_Date": "2025-12-11T07:50:31"
     },
     {
-      "Master_Incident_Number": "121125-00137",
-      "Online_Description": "TRAFFIC STOP",
-      "Address": "PEBBLE BEACH DR / COUNTRYSIDE BLVD",
-      "Response_Date": "2025-12-11T07:54:33"
-    },
-    {
       "Master_Incident_Number": "121125-00139",
       "Online_Description": "PROPERTY FOUND/LOST",
       "Address": "0 BLOCK CAUSEWAY BLVD",
       "Response_Date": "2025-12-11T07:54:58"
+    },
+    {
+      "Master_Incident_Number": "121125-00145",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "-3100 BLOCK 3149 SAN BERNADINO ST",
+      "Response_Date": "2025-12-11T08:16:22"
     }
   ],
-  "timestamp": "2025-12-11T13:22:56.661942+00:00",
-  "count": 5
+  "timestamp": "2025-12-11T13:53:27.308841+00:00",
+  "count": 4
 }

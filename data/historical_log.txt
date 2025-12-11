@@ -13175,3 +13175,15 @@ TOTAL ACTIVE CALLS: 5
 
 --- RESOLVED CALLS (1) ---
 [RESOLVED] 121125-00122 | DIRECTED PATROL | 2400 BLOCK HARN BLVD | Response: 07:07 AM
+
+================================================================================
+TIMESTAMP: 2025-12-11T13:53:27.308841+00:00
+TOTAL ACTIVE CALLS: 4
+================================================================================
+
+--- NEW CALLS (1) ---
+[NEW] 121125-00145 | DIRECTED PATROL | -3100 BLOCK 3149 SAN BERNADINO ST | Response: 08:16 AM
+
+--- RESOLVED CALLS (2) ---
+[RESOLVED] 121125-00134 | SUSPICIOUS PERSON | 600 BLOCK DRUID RD W | Response: 07:50 AM
+[RESOLVED] 121125-00137 | TRAFFIC STOP | PEBBLE BEACH DR / COUNTRYSIDE BLVD | Response: 07:54 AM
