@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 2697,
-  "total_resolved": 2687,
+  "total_calls_tracked": 2698,
+  "total_resolved": 2692,
   "call_types": {
-    "DIRECTED PATROL": 875,
+    "DIRECTED PATROL": 876,
     "TRAFFIC STOP": 397,
     "DRUNK DRIVER": 8,
     "DISTURBANCE": 60,
@@ -599,7 +599,7 @@
     "600 BLOCK DRUID RD": 4,
     "1800 BLOCK BELLEMEADE DR": 1,
     "-2500 BLOCK 2578 VILLAGE DR": 1,
-    "-2800 BLOCK 2899 EAGLE ESTATES CIR N": 3,
+    "-2800 BLOCK 2899 EAGLE ESTATES CIR N": 4,
     "1700 BLOCK GROVE DR": 1,
     "NURSERY RD / LAUREL CIR": 1,
     "700 BLOCK LAKEVIEW RD": 2,
@@ -1239,7 +1239,7 @@
   "hourly_distribution": {
     "0": 93,
     "1": 88,
-    "2": 51,
+    "2": 52,
     "3": 38,
     "4": 25,
     "5": 67,
@@ -1263,7 +1263,7 @@
     "23": 81
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-11T07:31:53.172353+00:00",
+  "last_updated": "2025-12-11T07:45:45.263168+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 894
+  "total_snapshots": 895
 }
