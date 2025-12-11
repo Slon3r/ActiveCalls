@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 2810,
-  "total_resolved": 2801,
+  "total_calls_tracked": 2814,
+  "total_resolved": 2805,
   "call_types": {
     "DIRECTED PATROL": 902,
-    "TRAFFIC STOP": 408,
+    "TRAFFIC STOP": 409,
     "DRUNK DRIVER": 8,
     "DISTURBANCE": 64,
     "BATTERY": 22,
@@ -12,12 +12,12 @@
     "KEEP THE PEACE": 33,
     "WELFARE CHECK": 66,
     "PARK WALK AND TALK": 244,
-    "SUSPICIOUS PERSON": 109,
+    "SUSPICIOUS PERSON": 110,
     "TRESPASS": 60,
     "PROPERTY FOUND/LOST": 23,
     "THEFT": 43,
     "NEIGHBOR CALL": 14,
-    "911 HANG-UP": 100,
+    "911 HANG-UP": 101,
     "SUSPICIOUS VEHICLE": 21,
     "PANHANDLER/SOLICITOR": 5,
     "VEHICLE ILLEGALLY PARKED": 6,
@@ -48,7 +48,7 @@
     "ABANDONED VEHICLE": 8,
     "CHILD ABUSE": 2,
     "FIGHT": 1,
-    "CHILD PROTECTION INVESTIGATION": 8,
+    "CHILD PROTECTION INVESTIGATION": 9,
     "DRUNK PEDESTRIAN": 4,
     "ASSAULT": 7,
     "PERSON DOWN": 12,
@@ -446,7 +446,7 @@
     "1000 BLOCK VINE AVE": 1,
     "2200 BLOCK MORNINGSIDE DR": 2,
     "400 BLOCK S MARTIN LUTHER KING JR AVE": 1,
-    "600 BLOCK BAYWAY BLVD": 4,
+    "600 BLOCK BAYWAY BLVD": 5,
     "1600 BLOCK N BELCHER RD": 2,
     "-1100 BLOCK 1148 PIERCE ST": 1,
     "FERNWOOD AVE / GULF TO BAY BLVD": 2,
@@ -1131,7 +1131,7 @@
     "DOUGLAS AVE / RUSSELL ST": 1,
     "N BETTY LN / PALMETTO ST": 1,
     "-2100 BLOCK 2179 NE COACHMAN RD": 1,
-    "1200 BLOCK SANTA ROSA ST": 1,
+    "1200 BLOCK SANTA ROSA ST": 2,
     "200 BLOCK N OSCEOLA AVE": 1,
     "SR 580 / FRISCO DR": 2,
     "MCMULLEN BOOTH RD / CHARLES AVE": 1,
@@ -1267,7 +1267,9 @@
     "3200 BLOCK SAN MATEO ST": 2,
     "0 BLOCK N OSCEOLA AVE": 1,
     "TANGERINE ST / N MARTIN LUTHER KING JR AVE": 1,
-    "1300 BLOCK OVERLEA ST": 1
+    "1300 BLOCK OVERLEA ST": 1,
+    "2000 BLOCK SUNSET MEADOW DR": 1,
+    "N LINCOLN AVE / DREW ST": 1
   },
   "hourly_distribution": {
     "0": 93,
@@ -1287,7 +1289,7 @@
     "14": 194,
     "15": 193,
     "16": 188,
-    "17": 181,
+    "17": 185,
     "18": 135,
     "19": 45,
     "20": 49,
@@ -1296,7 +1298,7 @@
     "23": 81
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-11T22:56:50.224923+00:00",
+  "last_updated": "2025-12-11T23:18:03.928427+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 940
+  "total_snapshots": 941
 }

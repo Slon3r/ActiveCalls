@@ -7,12 +7,6 @@
       "Response_Date": "2025-12-11T15:34:05"
     },
     {
-      "Master_Incident_Number": "121125-00361",
-      "Online_Description": "TRESPASS",
-      "Address": "19000 BLOCK US HIGHWAY 19 N",
-      "Response_Date": "2025-12-11T16:10:24"
-    },
-    {
       "Master_Incident_Number": "121125-00365",
       "Online_Description": "TRAFFIC CRASH",
       "Address": "N KEENE RD / SUNSET POINT RD",
@@ -23,12 +17,6 @@
       "Online_Description": "THEFT",
       "Address": "3200 BLOCK SAN MATEO ST",
       "Response_Date": "2025-12-11T16:30:00"
-    },
-    {
-      "Master_Incident_Number": "121125-00379",
-      "Online_Description": "DISTURBANCE",
-      "Address": "2800 BLOCK COUNTRYSIDE BLVD",
-      "Response_Date": "2025-12-11T16:38:59"
     },
     {
       "Master_Incident_Number": "121125-00383",
@@ -43,18 +31,30 @@
       "Response_Date": "2025-12-11T17:07:44"
     },
     {
-      "Master_Incident_Number": "121125-00399",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "TANGERINE ST / N MARTIN LUTHER KING JR AVE",
-      "Response_Date": "2025-12-11T17:32:26"
+      "Master_Incident_Number": "121125-00400",
+      "Online_Description": "CHILD PROTECTION INVESTIGATION",
+      "Address": "2000 BLOCK SUNSET MEADOW DR",
+      "Response_Date": "2025-12-11T17:33:39"
     },
     {
-      "Master_Incident_Number": "121125-00401",
-      "Online_Description": "UNKNOWN PROBLEM",
-      "Address": "1300 BLOCK OVERLEA ST",
-      "Response_Date": "2025-12-11T17:34:50"
+      "Master_Incident_Number": "121125-00405",
+      "Online_Description": "911 HANG-UP",
+      "Address": "1200 BLOCK SANTA ROSA ST",
+      "Response_Date": "2025-12-11T17:44:08"
+    },
+    {
+      "Master_Incident_Number": "121125-00411",
+      "Online_Description": "SUSPICIOUS PERSON",
+      "Address": "600 BLOCK BAYWAY BLVD",
+      "Response_Date": "2025-12-11T17:51:45"
+    },
+    {
+      "Master_Incident_Number": "121125-00414",
+      "Online_Description": "TRAFFIC STOP",
+      "Address": "N LINCOLN AVE / DREW ST",
+      "Response_Date": "2025-12-11T17:52:39"
     }
   ],
-  "timestamp": "2025-12-11T22:56:50.221207+00:00",
+  "timestamp": "2025-12-11T23:18:03.924456+00:00",
   "count": 9
 }
