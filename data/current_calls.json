@@ -7,18 +7,60 @@
       "Response_Date": "2025-12-11T00:49:02"
     },
     {
-      "Master_Incident_Number": "121125-00010",
-      "Online_Description": "ALARM",
-      "Address": "400 BLOCK MANDALAY AVE",
-      "Response_Date": "2025-12-11T00:53:59"
+      "Master_Incident_Number": "121125-00021",
+      "Online_Description": "PARK WALK AND TALK",
+      "Address": "500 BLOCK N BETTY LN",
+      "Response_Date": "2025-12-11T01:26:58"
     },
     {
-      "Master_Incident_Number": "121125-00017",
+      "Master_Incident_Number": "121125-00023",
+      "Online_Description": "PARK WALK AND TALK",
+      "Address": "N BETTY LN / DREW ST",
+      "Response_Date": "2025-12-11T01:28:28"
+    },
+    {
+      "Master_Incident_Number": "121125-00025",
       "Online_Description": "DIRECTED PATROL",
-      "Address": "S MISSOURI AVE/CLEVELAND ST",
-      "Response_Date": "2025-12-11T01:19:04"
+      "Address": "300 BLOCK S GULFVIEW BLVD",
+      "Response_Date": "2025-12-11T01:29:03"
+    },
+    {
+      "Master_Incident_Number": "121125-00027",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "-800 BLOCK 899 S MISSOURI AVE",
+      "Response_Date": "2025-12-11T01:30:56"
+    },
+    {
+      "Master_Incident_Number": "121125-00028",
+      "Online_Description": "TRAFFIC STOP",
+      "Address": "S MISSOURI AVE / DRUID RD",
+      "Response_Date": "2025-12-11T01:33:31"
+    },
+    {
+      "Master_Incident_Number": "121125-00029",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "2400 BLOCK COUNTRYSIDE BLVD",
+      "Response_Date": "2025-12-11T01:36:27"
+    },
+    {
+      "Master_Incident_Number": "121125-00030",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "-600 BLOCK 804 SNUG IS",
+      "Response_Date": "2025-12-11T01:36:49"
+    },
+    {
+      "Master_Incident_Number": "121125-00031",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "2500 BLOCK HARN BLVD",
+      "Response_Date": "2025-12-11T01:39:58"
+    },
+    {
+      "Master_Incident_Number": "121125-00033",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "DREW ST / N BETTY LN",
+      "Response_Date": "2025-12-11T01:41:31"
     }
   ],
-  "timestamp": "2025-12-11T06:46:25.881940+00:00",
-  "count": 3
+  "timestamp": "2025-12-11T07:02:23.392603+00:00",
+  "count": 10
 }
