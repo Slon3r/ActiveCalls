@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 2677,
-  "total_resolved": 2671,
+  "total_calls_tracked": 2679,
+  "total_resolved": 2672,
   "call_types": {
-    "DIRECTED PATROL": 865,
+    "DIRECTED PATROL": 866,
     "TRAFFIC STOP": 395,
     "DRUNK DRIVER": 8,
     "DISTURBANCE": 60,
@@ -11,7 +11,7 @@
     "ALARM": 37,
     "KEEP THE PEACE": 31,
     "WELFARE CHECK": 64,
-    "PARK WALK AND TALK": 229,
+    "PARK WALK AND TALK": 230,
     "SUSPICIOUS PERSON": 104,
     "TRESPASS": 57,
     "PROPERTY FOUND/LOST": 19,
@@ -518,7 +518,7 @@
     "1900 BLOCK RADCLIFFE DR N": 2,
     "1100 BLOCK GROVE ST": 2,
     "1300 BLOCK AMBLE LN": 1,
-    "1000 BLOCK ELDORADO AVE": 3,
+    "1000 BLOCK ELDORADO AVE": 4,
     "-3300 BLOCK 3348 HYDE PARK DR": 2,
     "1400 BLOCK N MARTIN LUTHER KING JR AVE": 2,
     "600 BLOCK BLANCHE B LITTLEJOHN TRL": 1,
@@ -1228,10 +1228,11 @@
     "600 BLOCK S ARCTURAS AVE": 1,
     "SUNSET POINT RD / OLD COACHMAN RD": 1,
     "800 BLOCK WOOD DR": 1,
-    "CIRCLE K BELCHER/NURSERY": 1
+    "CIRCLE K BELCHER/NURSERY": 1,
+    "-3100 BLOCK 3398 COURTNEY CAMPBELL CSWY": 1
   },
   "hourly_distribution": {
-    "0": 87,
+    "0": 89,
     "1": 74,
     "2": 51,
     "3": 38,
@@ -1257,7 +1258,7 @@
     "23": 81
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-11T05:39:27.670269+00:00",
+  "last_updated": "2025-12-11T05:52:21.996728+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 889
+  "total_snapshots": 890
 }
