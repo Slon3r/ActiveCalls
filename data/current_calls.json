@@ -7,36 +7,6 @@
       "Response_Date": "2025-12-11T13:21:58"
     },
     {
-      "Master_Incident_Number": "121125-00319",
-      "Online_Description": "THEFT",
-      "Address": "500 BLOCK MANDALAY AVE",
-      "Response_Date": "2025-12-11T14:27:11"
-    },
-    {
-      "Master_Incident_Number": "121125-00332",
-      "Online_Description": "SHOPLIFTING",
-      "Address": "26900 BLOCK US HIGHWAY 19 N",
-      "Response_Date": "2025-12-11T14:53:00"
-    },
-    {
-      "Master_Incident_Number": "121125-00337",
-      "Online_Description": "WELFARE CHECK",
-      "Address": "1400 BLOCK COURT ST",
-      "Response_Date": "2025-12-11T14:58:24"
-    },
-    {
-      "Master_Incident_Number": "121125-00336",
-      "Online_Description": "TRAFFIC CRASH",
-      "Address": "2500 BLOCK MCMULLEN BOOTH RD",
-      "Response_Date": "2025-12-11T15:01:14"
-    },
-    {
-      "Master_Incident_Number": "121125-00341",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "OLD COACHMAN RD / DREW ST",
-      "Response_Date": "2025-12-11T15:21:47"
-    },
-    {
       "Master_Incident_Number": "121125-00344",
       "Online_Description": "SUSPICIOUS PERSON",
       "Address": "900 BLOCK FAIRWOOD AVE",
@@ -49,18 +19,24 @@
       "Response_Date": "2025-12-11T15:30:13"
     },
     {
-      "Master_Incident_Number": "121125-00348",
-      "Online_Description": "NOISE COMPLAINT",
-      "Address": "1200 BLOCK KINGSWOOD DR",
-      "Response_Date": "2025-12-11T15:31:21"
-    },
-    {
       "Master_Incident_Number": "121125-00350",
       "Online_Description": "ARMED PERSON",
       "Address": "400 BLOCK MANDALAY AVE",
       "Response_Date": "2025-12-11T15:34:05"
+    },
+    {
+      "Master_Incident_Number": "121125-00357",
+      "Online_Description": "TRESPASS",
+      "Address": "500 BLOCK PARK ST",
+      "Response_Date": "2025-12-11T16:01:45"
+    },
+    {
+      "Master_Incident_Number": "121125-00360",
+      "Online_Description": "TRAFFIC STOP",
+      "Address": "27000 BLOCK US HIGHWAY 19 N",
+      "Response_Date": "2025-12-11T16:12:38"
     }
   ],
-  "timestamp": "2025-12-11T21:16:51.302321+00:00",
-  "count": 10
+  "timestamp": "2025-12-11T21:35:08.348649+00:00",
+  "count": 6
 }
