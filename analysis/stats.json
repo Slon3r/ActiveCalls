@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 2679,
-  "total_resolved": 2672,
+  "total_calls_tracked": 2681,
+  "total_resolved": 2674,
   "call_types": {
     "DIRECTED PATROL": 866,
-    "TRAFFIC STOP": 395,
+    "TRAFFIC STOP": 396,
     "DRUNK DRIVER": 8,
     "DISTURBANCE": 60,
     "BATTERY": 21,
@@ -24,7 +24,7 @@
     "SUSPICIOUS EVENT": 54,
     "TRAFFIC CRASH": 119,
     "DISABLED VEHICLE": 20,
-    "ASSIST CITIZEN": 68,
+    "ASSIST CITIZEN": 69,
     "ASSIST OTHER AGENCY": 58,
     "FIRE": 3,
     "FRAUD": 15,
@@ -292,7 +292,7 @@
     "DREW ST / BAYVIEW AVE": 4,
     "2800 BLOCK APPLEWOOD DRIVE": 1,
     "1500 BLOCK EXCALIBER DR": 1,
-    "300 BLOCK PINELLAS ST": 14,
+    "300 BLOCK PINELLAS ST": 15,
     "1700 BLOCK EL TAIR TRL": 1,
     "SETON DR / MONTCLAIR RD": 1,
     "700 BLOCK S GULFVIEW BLVD": 1,
@@ -1229,10 +1229,11 @@
     "SUNSET POINT RD / OLD COACHMAN RD": 1,
     "800 BLOCK WOOD DR": 1,
     "CIRCLE K BELCHER/NURSERY": 1,
-    "-3100 BLOCK 3398 COURTNEY CAMPBELL CSWY": 1
+    "-3100 BLOCK 3398 COURTNEY CAMPBELL CSWY": 1,
+    "DREW ST / ANNA AVE": 1
   },
   "hourly_distribution": {
-    "0": 89,
+    "0": 91,
     "1": 74,
     "2": 51,
     "3": 38,
@@ -1258,7 +1259,7 @@
     "23": 81
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-11T05:52:21.996728+00:00",
+  "last_updated": "2025-12-11T06:00:52.066921+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 890
+  "total_snapshots": 891
 }
