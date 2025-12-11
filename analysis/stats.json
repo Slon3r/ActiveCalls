@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 2820,
-  "total_resolved": 2811,
+  "total_calls_tracked": 2824,
+  "total_resolved": 2813,
   "call_types": {
-    "DIRECTED PATROL": 902,
+    "DIRECTED PATROL": 904,
     "TRAFFIC STOP": 409,
     "DRUNK DRIVER": 8,
     "DISTURBANCE": 64,
@@ -15,14 +15,14 @@
     "SUSPICIOUS PERSON": 110,
     "TRESPASS": 60,
     "PROPERTY FOUND/LOST": 23,
-    "THEFT": 43,
+    "THEFT": 44,
     "NEIGHBOR CALL": 14,
     "911 HANG-UP": 101,
     "SUSPICIOUS VEHICLE": 21,
     "PANHANDLER/SOLICITOR": 5,
     "VEHICLE ILLEGALLY PARKED": 6,
     "SUSPICIOUS EVENT": 57,
-    "TRAFFIC CRASH": 127,
+    "TRAFFIC CRASH": 128,
     "DISABLED VEHICLE": 22,
     "ASSIST CITIZEN": 73,
     "ASSIST OTHER AGENCY": 59,
@@ -104,7 +104,7 @@
     "2100 BLOCK BELCHER RD": 1,
     "SAND KEY PARK ENTRANCE": 7,
     "S MISSOURI AVE / LAKEVIEW RD": 6,
-    "23100 BLOCK US HIGHWAY 19 N": 14,
+    "23100 BLOCK US HIGHWAY 19 N": 15,
     "1200 BLOCK N BETTY LN": 1,
     "MCMULLEN BOOTH RD / SR 590": 4,
     "LAKEVIEW RD / S MISSOURI AVE": 2,
@@ -1272,7 +1272,10 @@
     "N LINCOLN AVE / DREW ST": 1,
     "100 BLOCK FERNWOOD AVE": 1,
     "N OSCEOLA AVE / CLEVELAND ST": 1,
-    "-1200 BLOCK 1241 MAGNOLIA DR": 1
+    "-1200 BLOCK 1241 MAGNOLIA DR": 1,
+    "CLEVELAND ST / MCMULLEN BOOTH RD": 1,
+    "1300 BLOCK N MYRTLE AVE": 1,
+    "-2800 BLOCK 2864 MEADOW HILL DR S": 1
   },
   "hourly_distribution": {
     "0": 93,
@@ -1293,7 +1296,7 @@
     "15": 194,
     "16": 188,
     "17": 186,
-    "18": 139,
+    "18": 143,
     "19": 45,
     "20": 49,
     "21": 62,
@@ -1301,7 +1304,7 @@
     "23": 81
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-11T23:33:55.154507+00:00",
+  "last_updated": "2025-12-11T23:45:09.277864+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 942
+  "total_snapshots": 943
 }
