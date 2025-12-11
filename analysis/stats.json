@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 2726,
-  "total_resolved": 2722,
+  "total_calls_tracked": 2728,
+  "total_resolved": 2724,
   "call_types": {
-    "DIRECTED PATROL": 889,
+    "DIRECTED PATROL": 891,
     "TRAFFIC STOP": 399,
     "DRUNK DRIVER": 8,
     "DISTURBANCE": 60,
@@ -1244,7 +1244,9 @@
     "500 BLOCK GILBERT ST": 1,
     "600 BLOCK DRUID RD W": 1,
     "PEBBLE BEACH DR / COUNTRYSIDE BLVD": 1,
-    "-3100 BLOCK 3149 SAN BERNADINO ST": 1
+    "-3100 BLOCK 3149 SAN BERNADINO ST": 1,
+    "400 BLOCK S GARDEN AVE": 1,
+    "-1500 BLOCK 1515 CLEVELAND ST": 1
   },
   "hourly_distribution": {
     "0": 93,
@@ -1255,7 +1257,7 @@
     "5": 71,
     "6": 93,
     "7": 70,
-    "8": 155,
+    "8": 157,
     "9": 175,
     "10": 166,
     "11": 162,
@@ -1273,7 +1275,7 @@
     "23": 81
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-11T13:53:27.311495+00:00",
+  "last_updated": "2025-12-11T14:14:21.964089+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 912
+  "total_snapshots": 913
 }
