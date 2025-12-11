@@ -1505,6 +1505,48 @@
           "Response_Date": "2025-12-11T10:40:52"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-11T16:41:06.138664+00:00",
+      "call_count": 6,
+      "calls": [
+        {
+          "Master_Incident_Number": "121125-00196",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "ELDORADO AVE / ACACIA ST",
+          "Response_Date": "2025-12-11T10:11:59"
+        },
+        {
+          "Master_Incident_Number": "121125-00201",
+          "Online_Description": "ASSIST CITIZEN",
+          "Address": "1900 BLOCK GULF TO BAY BLVD",
+          "Response_Date": "2025-12-11T10:26:09"
+        },
+        {
+          "Master_Incident_Number": "121125-00213",
+          "Online_Description": "KEEP THE PEACE",
+          "Address": "1300 BLOCK S WASHINGTON AVE",
+          "Response_Date": "2025-12-11T10:45:57"
+        },
+        {
+          "Master_Incident_Number": "121125-00224",
+          "Online_Description": "SUSPICIOUS EVENT",
+          "Address": "26900 BLOCK US HIGHWAY 19 N",
+          "Response_Date": "2025-12-11T10:56:22"
+        },
+        {
+          "Master_Incident_Number": "121125-00225",
+          "Online_Description": "PARK WALK AND TALK",
+          "Address": "1100 BLOCK DRUID RD",
+          "Response_Date": "2025-12-11T11:11:49"
+        },
+        {
+          "Master_Incident_Number": "121125-00228",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "23100 BLOCK US HIGHWAY 19 N",
+          "Response_Date": "2025-12-11T11:18:16"
+        }
+      ]
     }
   ]
 }
