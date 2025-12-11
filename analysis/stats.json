@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 2714,
+  "total_calls_tracked": 2715,
   "total_resolved": 2711,
   "call_types": {
-    "DIRECTED PATROL": 884,
+    "DIRECTED PATROL": 885,
     "TRAFFIC STOP": 398,
     "DRUNK DRIVER": 8,
     "DISTURBANCE": 60,
@@ -539,7 +539,7 @@
     "1100 BLOCK WOODLAWN ST": 3,
     "200 BLOCK S STARCREST DR": 2,
     "3000 BLOCK GULF TO BAY BLVD": 2,
-    "-2000 BLOCK 2198 PALMETTO ST": 2,
+    "-2000 BLOCK 2198 PALMETTO ST": 3,
     "US HIGHWAY 19 N / SEVILLE BLVD": 2,
     "WOODBINE ST / ROLLEN RD": 1,
     "3000 BLOCK WOODSONG LN": 1,
@@ -1247,7 +1247,7 @@
     "2": 56,
     "3": 45,
     "4": 27,
-    "5": 70,
+    "5": 71,
     "6": 88,
     "7": 65,
     "8": 154,
@@ -1268,7 +1268,7 @@
     "23": 81
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-11T10:58:50.528628+00:00",
+  "last_updated": "2025-12-11T11:22:15.591900+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 905
+  "total_snapshots": 906
 }

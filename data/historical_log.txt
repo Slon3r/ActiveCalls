@@ -13103,3 +13103,11 @@ TOTAL ACTIVE CALLS: 3
 
 --- RESOLVED CALLS (1) ---
 [RESOLVED] 121125-00096 | PARK WALK AND TALK | -500 BLOCK 989 GULF BLVD | Response: 05:13 AM
+
+================================================================================
+TIMESTAMP: 2025-12-11T11:22:15.589471+00:00
+TOTAL ACTIVE CALLS: 4
+================================================================================
+
+--- NEW CALLS (1) ---
+[NEW] 121125-00100 | DIRECTED PATROL | -2000 BLOCK 2198 PALMETTO ST | Response: 05:45 AM
