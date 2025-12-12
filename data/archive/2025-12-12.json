@@ -474,6 +474,36 @@
           "Response_Date": "2025-12-12T01:32:09"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-12T07:17:31.458205+00:00",
+      "call_count": 4,
+      "calls": [
+        {
+          "Master_Incident_Number": "121225-00036",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "S LINCOLN AVE / JEFFORDS ST",
+          "Response_Date": "2025-12-12T01:00:31"
+        },
+        {
+          "Master_Incident_Number": "121225-00046",
+          "Online_Description": "DISTURBANCE",
+          "Address": "2000 BLOCK N HIGHLAND AVE",
+          "Response_Date": "2025-12-12T01:34:30"
+        },
+        {
+          "Master_Incident_Number": "121225-00048",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "21400 BLOCK US HIGHWAY 19 N",
+          "Response_Date": "2025-12-12T01:39:35"
+        },
+        {
+          "Master_Incident_Number": "121225-00051",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "S GULFVIEW BLVD / HAMDEN DR",
+          "Response_Date": "2025-12-12T01:53:49"
+        }
+      ]
     }
   ]
 }

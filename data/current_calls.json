@@ -7,42 +7,24 @@
       "Response_Date": "2025-12-12T01:00:31"
     },
     {
-      "Master_Incident_Number": "121225-00038",
-      "Online_Description": "PARK WALK AND TALK",
-      "Address": "CLEVELAND ST / FORT HARRISON AVE",
-      "Response_Date": "2025-12-12T01:05:55"
+      "Master_Incident_Number": "121225-00046",
+      "Online_Description": "DISTURBANCE",
+      "Address": "2000 BLOCK N HIGHLAND AVE",
+      "Response_Date": "2025-12-12T01:34:30"
     },
     {
-      "Master_Incident_Number": "121225-00040",
-      "Online_Description": "NOISE COMPLAINT",
-      "Address": "600 BLOCK POINSETTIA AVE",
-      "Response_Date": "2025-12-12T01:07:15"
+      "Master_Incident_Number": "121225-00048",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "21400 BLOCK US HIGHWAY 19 N",
+      "Response_Date": "2025-12-12T01:39:35"
     },
     {
-      "Master_Incident_Number": "121225-00041",
-      "Online_Description": "SUSPICIOUS PERSON",
-      "Address": "400 BLOCK CLEVELAND ST",
-      "Response_Date": "2025-12-12T01:08:44"
-    },
-    {
-      "Master_Incident_Number": "121225-00043",
-      "Online_Description": "PARK WALK AND TALK",
-      "Address": "500 BLOCK N BETTY LN",
-      "Response_Date": "2025-12-12T01:15:19"
-    },
-    {
-      "Master_Incident_Number": "121225-00044",
+      "Master_Incident_Number": "121225-00051",
       "Online_Description": "TRAFFIC STOP",
-      "Address": "PARK PLACE BLVD / GULF TO BAY BLVD",
-      "Response_Date": "2025-12-12T01:27:21"
-    },
-    {
-      "Master_Incident_Number": "121225-00045",
-      "Online_Description": "TRAFFIC STOP",
-      "Address": "OLD COACHMAN RD / GULF TO BAY BLVD",
-      "Response_Date": "2025-12-12T01:32:09"
+      "Address": "S GULFVIEW BLVD / HAMDEN DR",
+      "Response_Date": "2025-12-12T01:53:49"
     }
   ],
-  "timestamp": "2025-12-12T06:54:42.138133+00:00",
-  "count": 7
+  "timestamp": "2025-12-12T07:17:31.458205+00:00",
+  "count": 4
 }
