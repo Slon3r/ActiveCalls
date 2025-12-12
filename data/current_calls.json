@@ -13,12 +13,6 @@
       "Response_Date": "2025-12-12T11:54:13"
     },
     {
-      "Master_Incident_Number": "121225-00310",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "1300 BLOCK S BELCHER RD",
-      "Response_Date": "2025-12-12T13:01:13"
-    },
-    {
       "Master_Incident_Number": "121225-00315",
       "Online_Description": "KEEP THE PEACE",
       "Address": "2600 BLOCK SEVILLE BLVD",
@@ -61,18 +55,24 @@
       "Response_Date": "2025-12-12T13:45:58"
     },
     {
-      "Master_Incident_Number": "121225-00334",
-      "Online_Description": "PARK WALK AND TALK",
-      "Address": "900 BLOCK N MARTIN LUTHER KING JR AVE",
-      "Response_Date": "2025-12-12T13:51:46"
+      "Master_Incident_Number": "121225-00338",
+      "Online_Description": "HIT & RUN",
+      "Address": "24400 BLOCK US HIGHWAY 19 N",
+      "Response_Date": "2025-12-12T14:04:30"
     },
     {
-      "Master_Incident_Number": "121225-00337",
-      "Online_Description": "TRAFFIC STOP",
-      "Address": "FAIRMONT ST / KINGS HWY",
-      "Response_Date": "2025-12-12T14:00:56"
+      "Master_Incident_Number": "121225-00340",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "900 BLOCK N MARTIN LUTHER KING JR AVE",
+      "Response_Date": "2025-12-12T14:14:46"
+    },
+    {
+      "Master_Incident_Number": "121225-00343",
+      "Online_Description": "PARK WALK AND TALK",
+      "Address": "0 BLOCK CAUSEWAY BLVD",
+      "Response_Date": "2025-12-12T14:20:13"
     }
   ],
-  "timestamp": "2025-12-12T19:31:17.083282+00:00",
+  "timestamp": "2025-12-12T19:42:38.487449+00:00",
   "count": 12
 }

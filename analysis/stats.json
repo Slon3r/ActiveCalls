@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 3015,
-  "total_resolved": 3003,
+  "total_calls_tracked": 3018,
+  "total_resolved": 3006,
   "call_types": {
-    "DIRECTED PATROL": 974,
+    "DIRECTED PATROL": 975,
     "TRAFFIC STOP": 434,
     "DRUNK DRIVER": 8,
     "DISTURBANCE": 68,
@@ -11,7 +11,7 @@
     "ALARM": 40,
     "KEEP THE PEACE": 35,
     "WELFARE CHECK": 70,
-    "PARK WALK AND TALK": 268,
+    "PARK WALK AND TALK": 269,
     "SUSPICIOUS PERSON": 118,
     "TRESPASS": 61,
     "PROPERTY FOUND/LOST": 23,
@@ -42,7 +42,7 @@
     "DECEASED PERSON": 3,
     "BURGLARY": 16,
     "SHOTS FIRED": 3,
-    "HIT & RUN": 24,
+    "HIT & RUN": 25,
     "SCHOOL CROSSING": 6,
     "ORDINANCE VIOLATION": 7,
     "ABANDONED VEHICLE": 9,
@@ -86,7 +86,7 @@
     "US HIGHWAY 19 N / SR 580": 3,
     "400 BLOCK S GULFVIEW BLVD": 8,
     "100 BLOCK S MYRTLE AVE": 3,
-    "0 BLOCK CAUSEWAY BLVD": 23,
+    "0 BLOCK CAUSEWAY BLVD": 24,
     "400 BLOCK FAIRWOOD AVE": 4,
     "500 BLOCK S FORT HARRISON AVE": 12,
     "26000 BLOCK US HIGHWAY 19 N": 7,
@@ -581,7 +581,7 @@
     "ISLAND WAY/MEMORIAL CSWY": 1,
     "600 BLOCK WILDWOOD WAY": 1,
     "FRANKLIN ST / GULF TO BAY BLVD": 1,
-    "900 BLOCK N MARTIN LUTHER KING JR AVE": 6,
+    "900 BLOCK N MARTIN LUTHER KING JR AVE": 7,
     "1800 BLOCK MCMULLEN BOOTH RD": 2,
     "N BETTY LN / ENGMAN ST": 2,
     "1000 BLOCK APACHE TRAIL": 1,
@@ -1334,7 +1334,8 @@
     "1000 BLOCK APPLEWOOD DR": 1,
     "WINDWARD PSGE / ISLAND WAY": 1,
     "2500 BLOCK ENTERPRISE RD": 1,
-    "FAIRMONT ST / KINGS HWY": 1
+    "FAIRMONT ST / KINGS HWY": 1,
+    "24400 BLOCK US HIGHWAY 19 N": 1
   },
   "hourly_distribution": {
     "0": 106,
@@ -1351,7 +1352,7 @@
     "11": 182,
     "12": 182,
     "13": 185,
-    "14": 195,
+    "14": 198,
     "15": 194,
     "16": 188,
     "17": 186,
@@ -1363,7 +1364,7 @@
     "23": 92
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-12T19:31:17.087149+00:00",
+  "last_updated": "2025-12-12T19:42:38.491301+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 993
+  "total_snapshots": 994
 }
