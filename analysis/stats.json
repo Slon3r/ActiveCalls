@@ -1,14 +1,14 @@
 {
-  "total_calls_tracked": 2862,
-  "total_resolved": 2852,
+  "total_calls_tracked": 2866,
+  "total_resolved": 2862,
   "call_types": {
-    "DIRECTED PATROL": 916,
-    "TRAFFIC STOP": 413,
+    "DIRECTED PATROL": 917,
+    "TRAFFIC STOP": 414,
     "DRUNK DRIVER": 8,
     "DISTURBANCE": 66,
     "BATTERY": 23,
     "CRIMINAL MISCHIEF": 17,
-    "ALARM": 38,
+    "ALARM": 39,
     "KEEP THE PEACE": 33,
     "WELFARE CHECK": 66,
     "PARK WALK AND TALK": 255,
@@ -32,7 +32,7 @@
     "JUVENILE CASE": 11,
     "HAZARD": 7,
     "UNKNOWN PROBLEM": 18,
-    "NOISE COMPLAINT": 11,
+    "NOISE COMPLAINT": 12,
     "CIVIL MATTER": 13,
     "DOMESTIC": 21,
     "ANIMAL CASE": 18,
@@ -141,7 +141,7 @@
     "COUNTRYSIDE BLVD / NORTHRIDGE DR": 1,
     "NE COACHMAN RD / US HIGHWAY 19 N": 2,
     "LOTUS PATH / BAY AVE": 1,
-    "MEMORIAL CSWY": 18,
+    "MEMORIAL CSWY": 19,
     "1300 BLOCK ADMIRAL WOODSON LN": 1,
     "DREW ST / N SATURN AVE": 2,
     "GULF TO BAY BLVD / THORTON RD": 1,
@@ -232,7 +232,7 @@
     "1300 BLOCK S FORT HARRISON AVE": 1,
     "HOLT AVE / RUSSELL ST": 2,
     "S GULFVIEW BLVD / SECOND ST": 1,
-    "2500 BLOCK COUNTRYSIDE BLVD": 13,
+    "2500 BLOCK COUNTRYSIDE BLVD": 14,
     "-300 BLOCK 339 CORONADO DR": 2,
     "-600 BLOCK 698 CLEVELAND ST": 1,
     "1500 BLOCK S HIGHLAND AVE": 5,
@@ -1286,10 +1286,12 @@
     "1300 BLOCK N FORT HARRISON AVE": 1,
     "MLK ROUNDABOUT / PALMETTO ST": 1,
     "GULF TO BAY BLVD/ S HERCULES AVE": 1,
-    "1500 BLOCK FLOURNOY LOOP": 1
+    "1500 BLOCK FLOURNOY LOOP": 1,
+    "600 BLOCK OAK AVE": 1,
+    "N HIGHLAND AVE / OTTEN ST": 1
   },
   "hourly_distribution": {
-    "0": 93,
+    "0": 97,
     "1": 88,
     "2": 56,
     "3": 45,
@@ -1315,7 +1317,7 @@
     "23": 92
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-12T05:01:20.499482+00:00",
+  "last_updated": "2025-12-12T05:47:30.168772+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 950
+  "total_snapshots": 951
 }
