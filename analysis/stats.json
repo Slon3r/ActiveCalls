@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 2898,
-  "total_resolved": 2895,
+  "total_calls_tracked": 2899,
+  "total_resolved": 2897,
   "call_types": {
-    "DIRECTED PATROL": 931,
+    "DIRECTED PATROL": 932,
     "TRAFFIC STOP": 419,
     "DRUNK DRIVER": 8,
     "DISTURBANCE": 68,
@@ -1300,7 +1300,8 @@
     "0 BLOCK SOMERSET ST": 1,
     "-600 BLOCK 648 CARLTON ST": 1,
     "400 BLOCK S SATURN AVE": 1,
-    "-900 BLOCK 913 CHESTNUT ST": 1
+    "-900 BLOCK 913 CHESTNUT ST": 1,
+    "0 BLOCK 59 ROYAL WAY": 1
   },
   "hourly_distribution": {
     "0": 106,
@@ -1308,7 +1309,7 @@
     "2": 62,
     "3": 47,
     "4": 30,
-    "5": 73,
+    "5": 74,
     "6": 94,
     "7": 70,
     "8": 157,
@@ -1329,7 +1330,7 @@
     "23": 92
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-12T10:41:39.421942+00:00",
+  "last_updated": "2025-12-12T10:55:01.130824+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 965
+  "total_snapshots": 966
 }

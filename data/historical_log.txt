@@ -13977,3 +13977,15 @@ TOTAL ACTIVE CALLS: 3
 
 --- RESOLVED CALLS (1) ---
 [RESOLVED] 121225-00080 | ASSIST OTHER AGENCY | 100 BLOCK HAMPTON RD | Response: 04:25 AM
+
+================================================================================
+TIMESTAMP: 2025-12-12T10:55:01.128891+00:00
+TOTAL ACTIVE CALLS: 2
+================================================================================
+
+--- NEW CALLS (1) ---
+[NEW] 121225-00092 | DIRECTED PATROL | 0 BLOCK 59 ROYAL WAY | Response: 05:25 AM
+
+--- RESOLVED CALLS (2) ---
+[RESOLVED] 121225-00081 | DIRECTED PATROL | -900 BLOCK 913 CHESTNUT ST | Response: 04:37 AM
+[RESOLVED] 121225-00087 | DIRECTED PATROL | 2400 BLOCK COUNTRYSIDE BLVD | Response: 05:04 AM
