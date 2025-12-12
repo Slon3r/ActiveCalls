@@ -2790,6 +2790,66 @@
           "Response_Date": "2025-12-12T15:44:49"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-12T21:29:44.050505+00:00",
+      "call_count": 9,
+      "calls": [
+        {
+          "Master_Incident_Number": "121225-00283",
+          "Online_Description": "SHOTS FIRED",
+          "Address": "900 BLOCK SEMINOLE ST",
+          "Response_Date": "2025-12-12T11:54:13"
+        },
+        {
+          "Master_Incident_Number": "121225-00375",
+          "Online_Description": "TRAFFIC CRASH",
+          "Address": "LANDMARK DR / SR 580",
+          "Response_Date": "2025-12-12T15:08:32"
+        },
+        {
+          "Master_Incident_Number": "121225-00388",
+          "Online_Description": "THEFT",
+          "Address": "900 BLOCK CLEVELAND ST",
+          "Response_Date": "2025-12-12T15:25:57"
+        },
+        {
+          "Master_Incident_Number": "121225-00394",
+          "Online_Description": "SUSPICIOUS EVENT",
+          "Address": "2200 BLOCK SPRINGRAIN DR",
+          "Response_Date": "2025-12-12T15:36:58"
+        },
+        {
+          "Master_Incident_Number": "121225-00401",
+          "Online_Description": "DOMESTIC",
+          "Address": "1900 BLOCK EDGEWATER DR",
+          "Response_Date": "2025-12-12T15:54:07"
+        },
+        {
+          "Master_Incident_Number": "121225-00403",
+          "Online_Description": "TRAFFIC CRASH",
+          "Address": "300 BLOCK MANDALAY AVE",
+          "Response_Date": "2025-12-12T15:58:31"
+        },
+        {
+          "Master_Incident_Number": "121225-00406",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "S BELCHER RD / HARN BLVD",
+          "Response_Date": "2025-12-12T16:01:33"
+        },
+        {
+          "Master_Incident_Number": "121225-00407",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "2700 BLOCK GULF TO BAY BLVD",
+          "Response_Date": "2025-12-12T16:02:33"
+        },
+        {
+          "Master_Incident_Number": "121225-00408",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "N BELCHER RD / DREW ST",
+          "Response_Date": "2025-12-12T16:04:53"
+        }
+      ]
     }
   ]
 }
