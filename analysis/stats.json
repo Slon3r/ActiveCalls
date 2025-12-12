@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 2896,
-  "total_resolved": 2894,
+  "total_calls_tracked": 2898,
+  "total_resolved": 2895,
   "call_types": {
-    "DIRECTED PATROL": 929,
+    "DIRECTED PATROL": 931,
     "TRAFFIC STOP": 419,
     "DRUNK DRIVER": 8,
     "DISTURBANCE": 68,
@@ -79,7 +79,7 @@
     "0 BLOCK ACACIA ST": 6,
     "-600 BLOCK 647 BAY ESPLANADE": 1,
     "1900 BLOCK UNION ST": 3,
-    "200 BLOCK DREW ST": 9,
+    "200 BLOCK DREW ST": 10,
     "-800 BLOCK 819 NARCISSUS AVE": 2,
     "0 BLOCK ISLAND WAY": 8,
     "US HIGHWAY 19 N / SR 580": 3,
@@ -147,7 +147,7 @@
     "GULF TO BAY BLVD / THORTON RD": 1,
     "COUNTRYSIDE BLVD / ENDICOTT CT": 4,
     "3000 BLOCK DREW ST": 4,
-    "2400 BLOCK COUNTRYSIDE BLVD": 11,
+    "2400 BLOCK COUNTRYSIDE BLVD": 12,
     "1200 BLOCK S MISSOURI AVE": 12,
     "2000 BLOCK N HIGHLAND AVE": 13,
     "N DUNCAN AVE / DREW ST": 1,
@@ -1308,7 +1308,7 @@
     "2": 62,
     "3": 47,
     "4": 30,
-    "5": 71,
+    "5": 73,
     "6": 94,
     "7": 70,
     "8": 157,
@@ -1329,7 +1329,7 @@
     "23": 92
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-12T10:13:53.971839+00:00",
+  "last_updated": "2025-12-12T10:41:39.421942+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 964
+  "total_snapshots": 965
 }
