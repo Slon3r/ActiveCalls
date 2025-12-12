@@ -1,6 +1,6 @@
 {
-  "total_calls_tracked": 2958,
-  "total_resolved": 2948,
+  "total_calls_tracked": 2962,
+  "total_resolved": 2950,
   "call_types": {
     "DIRECTED PATROL": 957,
     "TRAFFIC STOP": 429,
@@ -10,8 +10,8 @@
     "CRIMINAL MISCHIEF": 17,
     "ALARM": 40,
     "KEEP THE PEACE": 34,
-    "WELFARE CHECK": 69,
-    "PARK WALK AND TALK": 263,
+    "WELFARE CHECK": 70,
+    "PARK WALK AND TALK": 264,
     "SUSPICIOUS PERSON": 117,
     "TRESPASS": 61,
     "PROPERTY FOUND/LOST": 23,
@@ -22,7 +22,7 @@
     "PANHANDLER/SOLICITOR": 5,
     "VEHICLE ILLEGALLY PARKED": 6,
     "SUSPICIOUS EVENT": 57,
-    "TRAFFIC CRASH": 131,
+    "TRAFFIC CRASH": 132,
     "DISABLED VEHICLE": 22,
     "ASSIST CITIZEN": 75,
     "ASSIST OTHER AGENCY": 63,
@@ -46,7 +46,7 @@
     "SCHOOL CROSSING": 6,
     "ORDINANCE VIOLATION": 7,
     "ABANDONED VEHICLE": 8,
-    "CHILD ABUSE": 2,
+    "CHILD ABUSE": 3,
     "FIGHT": 2,
     "CHILD PROTECTION INVESTIGATION": 10,
     "DRUNK PEDESTRIAN": 4,
@@ -99,7 +99,7 @@
     "1400 BLOCK LAURA ST": 5,
     "ENTERPRISE RD E / VILLAGE DR": 4,
     "GULF TO BAY BLVD / HAMPTON RD": 1,
-    "2100 BLOCK GULF TO BAY BLVD": 28,
+    "2100 BLOCK GULF TO BAY BLVD": 29,
     "1300 BLOCK CLEVELAND ST": 14,
     "2100 BLOCK BELCHER RD": 1,
     "SAND KEY PARK ENTRANCE": 7,
@@ -1317,7 +1317,10 @@
     "800 BLOCK TURNER ST": 1,
     "24600 BLOCK US HIGHWAY 19 N": 1,
     "GULF TO BAY BLVD / S KEYSTONE AVE": 1,
-    "2000 BLOCK CHARTER OAKS DR": 1
+    "2000 BLOCK CHARTER OAKS DR": 1,
+    "1600 BLOCK N MADISON AVE": 1,
+    "1300 BLOCK S HILLCREST AVE": 1,
+    "1100 BLOCK N MARTIN LUTHER KING JR AVE": 1
   },
   "hourly_distribution": {
     "0": 106,
@@ -1330,7 +1333,7 @@
     "7": 74,
     "8": 177,
     "9": 202,
-    "10": 184,
+    "10": 188,
     "11": 170,
     "12": 166,
     "13": 166,
@@ -1346,7 +1349,7 @@
     "23": 92
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-12T15:40:32.346144+00:00",
+  "last_updated": "2025-12-12T15:52:42.958640+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 980
+  "total_snapshots": 981
 }
