@@ -31,12 +31,6 @@
       "Response_Date": "2025-12-12T15:58:31"
     },
     {
-      "Master_Incident_Number": "121225-00412",
-      "Online_Description": "TRAFFIC STOP",
-      "Address": "3300 BLOCK COURTNEY CAMPBELL CSWY",
-      "Response_Date": "2025-12-12T16:13:46"
-    },
-    {
       "Master_Incident_Number": "121225-00413",
       "Online_Description": "THEFT",
       "Address": "2000 BLOCK ALPINE RD",
@@ -47,8 +41,14 @@
       "Online_Description": "DIRECTED PATROL",
       "Address": "0 BLOCK BAY ESPLANADE",
       "Response_Date": "2025-12-12T16:16:49"
+    },
+    {
+      "Master_Incident_Number": "121225-00418",
+      "Online_Description": "TRAFFIC STOP",
+      "Address": "MEMORIAL CSWY / ISLAND WAY",
+      "Response_Date": "2025-12-12T16:21:15"
     }
   ],
-  "timestamp": "2025-12-12T21:40:33.339651+00:00",
+  "timestamp": "2025-12-12T21:48:56.553414+00:00",
   "count": 8
 }

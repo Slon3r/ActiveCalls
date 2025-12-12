@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 3047,
-  "total_resolved": 3039,
+  "total_calls_tracked": 3048,
+  "total_resolved": 3040,
   "call_types": {
     "DIRECTED PATROL": 982,
-    "TRAFFIC STOP": 444,
+    "TRAFFIC STOP": 445,
     "DRUNK DRIVER": 8,
     "DISTURBANCE": 69,
     "BATTERY": 24,
@@ -66,7 +66,7 @@
     "ROAD RAGE": 1
   },
   "addresses": {
-    "MEMORIAL CSWY / ISLAND WAY": 32,
+    "MEMORIAL CSWY / ISLAND WAY": 33,
     "GULF TO BAY BLVD / S BELCHER RD": 6,
     "1900 BLOCK N BETTY LN": 1,
     "1400 BLOCK CLEVELAND ST": 2,
@@ -1365,7 +1365,7 @@
     "13": 186,
     "14": 203,
     "15": 211,
-    "16": 194,
+    "16": 195,
     "17": 186,
     "18": 147,
     "19": 51,
@@ -1375,7 +1375,7 @@
     "23": 92
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-12T21:40:33.344071+00:00",
+  "last_updated": "2025-12-12T21:48:56.557705+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 1002
+  "total_snapshots": 1003
 }
