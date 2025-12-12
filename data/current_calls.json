@@ -13,54 +13,30 @@
       "Response_Date": "2025-12-12T07:47:10"
     },
     {
-      "Master_Incident_Number": "121225-00177",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "900 BLOCK S FORT HARRISON AVE",
-      "Response_Date": "2025-12-12T08:43:20"
-    },
-    {
-      "Master_Incident_Number": "121225-00178",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "DREW ST / NE COACHMAN RD",
-      "Response_Date": "2025-12-12T08:43:25"
-    },
-    {
-      "Master_Incident_Number": "121225-00182",
-      "Online_Description": "WELFARE CHECK",
-      "Address": "1300 BLOCK SPRINGDALE ST",
-      "Response_Date": "2025-12-12T08:44:12"
-    },
-    {
-      "Master_Incident_Number": "121225-00192",
-      "Online_Description": "PARK WALK AND TALK",
-      "Address": "900 BLOCK S FORT HARRISON AVE",
-      "Response_Date": "2025-12-12T09:00:51"
-    },
-    {
-      "Master_Incident_Number": "121225-00198",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "21400 BLOCK US HIGHWAY 19 N",
-      "Response_Date": "2025-12-12T09:08:43"
-    },
-    {
-      "Master_Incident_Number": "121225-00201",
-      "Online_Description": "JUVENILE CASE",
-      "Address": "1900 BLOCK GULF TO BAY BLVD",
-      "Response_Date": "2025-12-12T09:12:38"
-    },
-    {
       "Master_Incident_Number": "121225-00202",
       "Online_Description": "TRESPASS",
       "Address": "2100 BLOCK GULF TO BAY BLVD",
       "Response_Date": "2025-12-12T09:13:36"
     },
     {
-      "Master_Incident_Number": "121225-00204",
+      "Master_Incident_Number": "121225-00207",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "CLEVELAND ST / S MADISON AVE",
+      "Response_Date": "2025-12-12T09:18:50"
+    },
+    {
+      "Master_Incident_Number": "121225-00208",
+      "Online_Description": "PARK WALK AND TALK",
+      "Address": "500 BLOCK S FORT HARRISON AVE",
+      "Response_Date": "2025-12-12T09:20:13"
+    },
+    {
+      "Master_Incident_Number": "121225-00210",
       "Online_Description": "TRAFFIC STOP",
       "Address": "MEMORIAL CSWY / ISLAND WAY",
-      "Response_Date": "2025-12-12T09:16:37"
+      "Response_Date": "2025-12-12T09:26:28"
     }
   ],
-  "timestamp": "2025-12-12T14:37:44.985444+00:00",
-  "count": 10
+  "timestamp": "2025-12-12T14:47:42.559870+00:00",
+  "count": 6
 }

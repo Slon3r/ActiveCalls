@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 2940,
-  "total_resolved": 2930,
+  "total_calls_tracked": 2943,
+  "total_resolved": 2937,
   "call_types": {
-    "DIRECTED PATROL": 952,
-    "TRAFFIC STOP": 426,
+    "DIRECTED PATROL": 953,
+    "TRAFFIC STOP": 427,
     "DRUNK DRIVER": 8,
     "DISTURBANCE": 68,
     "BATTERY": 23,
@@ -11,7 +11,7 @@
     "ALARM": 40,
     "KEEP THE PEACE": 33,
     "WELFARE CHECK": 69,
-    "PARK WALK AND TALK": 262,
+    "PARK WALK AND TALK": 263,
     "SUSPICIOUS PERSON": 116,
     "TRESPASS": 61,
     "PROPERTY FOUND/LOST": 23,
@@ -65,7 +65,7 @@
     "ARMED PERSON": 1
   },
   "addresses": {
-    "MEMORIAL CSWY / ISLAND WAY": 30,
+    "MEMORIAL CSWY / ISLAND WAY": 31,
     "GULF TO BAY BLVD / S BELCHER RD": 6,
     "1900 BLOCK N BETTY LN": 1,
     "1400 BLOCK CLEVELAND ST": 2,
@@ -87,7 +87,7 @@
     "100 BLOCK S MYRTLE AVE": 3,
     "0 BLOCK CAUSEWAY BLVD": 22,
     "400 BLOCK FAIRWOOD AVE": 4,
-    "500 BLOCK S FORT HARRISON AVE": 11,
+    "500 BLOCK S FORT HARRISON AVE": 12,
     "26000 BLOCK US HIGHWAY 19 N": 7,
     "1300 BLOCK S BELCHER RD": 17,
     "200 BLOCK WINDWARD PSGE": 4,
@@ -280,7 +280,7 @@
     "-200 BLOCK 298 WINDWARD PSGE": 1,
     "2600 BLOCK LANDMARK DR": 3,
     "1400 BLOCK N BETTY LN": 6,
-    "CLEVELAND ST / S MADISON AVE": 3,
+    "CLEVELAND ST / S MADISON AVE": 4,
     "900 BLOCK BAY ESPLANADE": 2,
     "3000 BLOCK EASTLAND BLVD": 6,
     "-2300 BLOCK 2373 GULF TO BAY BLVD": 1,
@@ -1324,7 +1324,7 @@
     "6": 102,
     "7": 74,
     "8": 177,
-    "9": 189,
+    "9": 192,
     "10": 179,
     "11": 170,
     "12": 166,
@@ -1341,7 +1341,7 @@
     "23": 92
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-12T14:37:44.987948+00:00",
+  "last_updated": "2025-12-12T14:47:42.562221+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 976
+  "total_snapshots": 977
 }
