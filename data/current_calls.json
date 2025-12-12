@@ -1,6 +1,12 @@
 {
   "calls": [
     {
+      "Master_Incident_Number": "121225-00275",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "700 BLOCK ELDORADO AVE",
+      "Response_Date": "2025-12-12T11:34:03.263"
+    },
+    {
       "Master_Incident_Number": "121225-00211",
       "Online_Description": "BATTERY",
       "Address": "2000 BLOCK CHARTER OAKS DR",
@@ -37,12 +43,6 @@
       "Response_Date": "2025-12-12T10:52:44"
     },
     {
-      "Master_Incident_Number": "121225-00260",
-      "Online_Description": "911 HANG-UP",
-      "Address": "1000 BLOCK MCMULLEN BOOTH RD",
-      "Response_Date": "2025-12-12T11:00:47"
-    },
-    {
       "Master_Incident_Number": "121225-00261",
       "Online_Description": "DIRECTED PATROL",
       "Address": "-700 BLOCK 798 GROVE ST",
@@ -53,12 +53,6 @@
       "Online_Description": "ASSIST CITIZEN",
       "Address": "2500 BLOCK STAG RUN BLVD",
       "Response_Date": "2025-12-12T11:07:16"
-    },
-    {
-      "Master_Incident_Number": "121225-00267",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "1400 BLOCK LAURA ST",
-      "Response_Date": "2025-12-12T11:15:04"
     },
     {
       "Master_Incident_Number": "121225-00269",
@@ -73,6 +67,6 @@
       "Response_Date": "2025-12-12T11:21:43"
     }
   ],
-  "timestamp": "2025-12-12T16:51:09.201037+00:00",
-  "count": 12
+  "timestamp": "2025-12-12T16:59:10.938941+00:00",
+  "count": 11
 }

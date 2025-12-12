@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 2974,
-  "total_resolved": 2962,
+  "total_calls_tracked": 2975,
+  "total_resolved": 2964,
   "call_types": {
-    "DIRECTED PATROL": 961,
+    "DIRECTED PATROL": 962,
     "TRAFFIC STOP": 430,
     "DRUNK DRIVER": 8,
     "DISTURBANCE": 68,
@@ -349,7 +349,7 @@
     "0 BLOCK N NEPTUNE AVE": 3,
     "S MYRTLE AVE / COURT ST": 2,
     "OLD COACHMAN RD / GULF TO BAY BLVD": 2,
-    "700 BLOCK ELDORADO AVE": 5,
+    "700 BLOCK ELDORADO AVE": 6,
     "700 BLOCK COURT ST": 2,
     "2500 BLOCK DRUID RD": 1,
     "100 BLOCK S GULFVIEW BLVD": 2,
@@ -1336,7 +1336,7 @@
     "8": 177,
     "9": 202,
     "10": 192,
-    "11": 178,
+    "11": 179,
     "12": 166,
     "13": 166,
     "14": 194,
@@ -1351,7 +1351,7 @@
     "23": 92
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-12T16:51:09.204437+00:00",
+  "last_updated": "2025-12-12T16:59:10.942058+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 984
+  "total_snapshots": 985
 }
