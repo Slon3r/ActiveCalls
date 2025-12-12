@@ -1,15 +1,15 @@
 {
-  "total_calls_tracked": 2943,
-  "total_resolved": 2937,
+  "total_calls_tracked": 2946,
+  "total_resolved": 2940,
   "call_types": {
     "DIRECTED PATROL": 953,
-    "TRAFFIC STOP": 427,
+    "TRAFFIC STOP": 428,
     "DRUNK DRIVER": 8,
     "DISTURBANCE": 68,
     "BATTERY": 23,
     "CRIMINAL MISCHIEF": 17,
     "ALARM": 40,
-    "KEEP THE PEACE": 33,
+    "KEEP THE PEACE": 34,
     "WELFARE CHECK": 69,
     "PARK WALK AND TALK": 263,
     "SUSPICIOUS PERSON": 116,
@@ -17,7 +17,7 @@
     "PROPERTY FOUND/LOST": 23,
     "THEFT": 47,
     "NEIGHBOR CALL": 14,
-    "911 HANG-UP": 102,
+    "911 HANG-UP": 103,
     "SUSPICIOUS VEHICLE": 22,
     "PANHANDLER/SOLICITOR": 5,
     "VEHICLE ILLEGALLY PARKED": 6,
@@ -207,7 +207,7 @@
     "1000 BLOCK MCMULLEN BOOTH RD": 2,
     "1200 BLOCK S MARTIN LUTHER KING JR AVE": 2,
     "2000 BLOCK PARAGON CIR W": 1,
-    "1800 BLOCK GULF TO BAY BLVD": 4,
+    "1800 BLOCK GULF TO BAY BLVD": 5,
     "S MAIN AVE / RAINBOW DR": 5,
     "1000 BLOCK N MADISON AVE": 1,
     "2800 BLOCK DREW ST": 2,
@@ -897,7 +897,7 @@
     "CORONADO DR / HAMDEN DR": 1,
     "ENGMAN ST / FAIRBURN AVE": 1,
     "200 BLOCK MAGNOLIA DR": 1,
-    "ISLAND WAY / MEMORIAL CSWY": 1,
+    "ISLAND WAY / MEMORIAL CSWY": 2,
     "-800 BLOCK 899 FRANKLIN ST": 1,
     "-2400 BLOCK BLOCK GULF TO BAY BLVD": 1,
     "GRANT ST / ROOSEVELT AVE": 1,
@@ -1312,7 +1312,8 @@
     "GROVE ST / N MARTIN LUTHER KING JR AVE": 1,
     "DREW ST / NE COACHMAN RD": 1,
     "1300 BLOCK SPRINGDALE ST": 1,
-    "-1900 BLOCK 1998 SUN TREE BLVD": 1
+    "-1900 BLOCK 1998 SUN TREE BLVD": 1,
+    "1800 BLOCK RIDGEWAY DR": 1
   },
   "hourly_distribution": {
     "0": 106,
@@ -1324,7 +1325,7 @@
     "6": 102,
     "7": 74,
     "8": 177,
-    "9": 192,
+    "9": 195,
     "10": 179,
     "11": 170,
     "12": 166,
@@ -1341,7 +1342,7 @@
     "23": 92
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-12T14:47:42.562221+00:00",
+  "last_updated": "2025-12-12T14:56:17.297651+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 977
+  "total_snapshots": 978
 }
