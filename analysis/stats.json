@@ -1,11 +1,11 @@
 {
-  "total_calls_tracked": 2893,
-  "total_resolved": 2892,
+  "total_calls_tracked": 2894,
+  "total_resolved": 2893,
   "call_types": {
     "DIRECTED PATROL": 928,
     "TRAFFIC STOP": 419,
     "DRUNK DRIVER": 8,
-    "DISTURBANCE": 67,
+    "DISTURBANCE": 68,
     "BATTERY": 23,
     "CRIMINAL MISCHIEF": 17,
     "ALARM": 39,
@@ -1298,14 +1298,15 @@
     "S GULFVIEW BLVD / HAMDEN DR": 1,
     "-1100 BLOCK 1141 COURT ST": 1,
     "0 BLOCK SOMERSET ST": 1,
-    "-600 BLOCK 648 CARLTON ST": 1
+    "-600 BLOCK 648 CARLTON ST": 1,
+    "400 BLOCK S SATURN AVE": 1
   },
   "hourly_distribution": {
     "0": 106,
     "1": 98,
     "2": 62,
     "3": 47,
-    "4": 27,
+    "4": 28,
     "5": 71,
     "6": 94,
     "7": 70,
@@ -1327,7 +1328,7 @@
     "23": 92
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-12T09:17:07.093884+00:00",
+  "last_updated": "2025-12-12T09:41:51.162542+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 961
+  "total_snapshots": 962
 }
