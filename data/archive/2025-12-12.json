@@ -3066,6 +3066,72 @@
           "Response_Date": "2025-12-12T16:41:17"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-12T22:38:19.706461+00:00",
+      "call_count": 10,
+      "calls": [
+        {
+          "Master_Incident_Number": "121225-00388",
+          "Online_Description": "THEFT",
+          "Address": "900 BLOCK CLEVELAND ST",
+          "Response_Date": "2025-12-12T15:25:57"
+        },
+        {
+          "Master_Incident_Number": "121225-00409",
+          "Online_Description": "HIT & RUN",
+          "Address": "S FORT HARRISON AVE / TURNER ST",
+          "Response_Date": "2025-12-12T16:04:05"
+        },
+        {
+          "Master_Incident_Number": "121225-00413",
+          "Online_Description": "THEFT",
+          "Address": "2000 BLOCK ALPINE RD",
+          "Response_Date": "2025-12-12T16:14:22"
+        },
+        {
+          "Master_Incident_Number": "121225-00423",
+          "Online_Description": "SUSPICIOUS EVENT",
+          "Address": "500 BLOCK S FORT HARRISON AVE",
+          "Response_Date": "2025-12-12T16:33:46"
+        },
+        {
+          "Master_Incident_Number": "121225-00428",
+          "Online_Description": "BATTERY",
+          "Address": "900 BLOCK S MISSOURI AVE",
+          "Response_Date": "2025-12-12T16:37:12"
+        },
+        {
+          "Master_Incident_Number": "121225-00435",
+          "Online_Description": "PROPERTY FOUND/LOST",
+          "Address": "1900 BLOCK N BELCHER RD",
+          "Response_Date": "2025-12-12T16:46:37"
+        },
+        {
+          "Master_Incident_Number": "121225-00442",
+          "Online_Description": "DRUNK PEDESTRIAN",
+          "Address": "1100 BLOCK ENGMAN ST",
+          "Response_Date": "2025-12-12T17:00:19"
+        },
+        {
+          "Master_Incident_Number": "121225-00441",
+          "Online_Description": "PARK WALK AND TALK",
+          "Address": "-300 BLOCK 437 MANDALAY AVE",
+          "Response_Date": "2025-12-12T17:02:05"
+        },
+        {
+          "Master_Incident_Number": "121225-00444",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "MANDALAY AVE / PAPAYA ST",
+          "Response_Date": "2025-12-12T17:10:47"
+        },
+        {
+          "Master_Incident_Number": "121225-00449",
+          "Online_Description": "TRESPASS",
+          "Address": "2500 BLOCK ENTERPRISE RD",
+          "Response_Date": "2025-12-12T17:17:43"
+        }
+      ]
     }
   ]
 }
