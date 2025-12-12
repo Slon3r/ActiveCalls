@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 2877,
-  "total_resolved": 2871,
+  "total_calls_tracked": 2882,
+  "total_resolved": 2875,
   "call_types": {
     "DIRECTED PATROL": 922,
-    "TRAFFIC STOP": 416,
+    "TRAFFIC STOP": 418,
     "DRUNK DRIVER": 8,
     "DISTURBANCE": 66,
     "BATTERY": 23,
@@ -11,8 +11,8 @@
     "ALARM": 39,
     "KEEP THE PEACE": 33,
     "WELFARE CHECK": 66,
-    "PARK WALK AND TALK": 258,
-    "SUSPICIOUS PERSON": 113,
+    "PARK WALK AND TALK": 259,
+    "SUSPICIOUS PERSON": 114,
     "TRESPASS": 60,
     "PROPERTY FOUND/LOST": 23,
     "THEFT": 46,
@@ -32,7 +32,7 @@
     "JUVENILE CASE": 11,
     "HAZARD": 7,
     "UNKNOWN PROBLEM": 18,
-    "NOISE COMPLAINT": 12,
+    "NOISE COMPLAINT": 13,
     "CIVIL MATTER": 13,
     "DOMESTIC": 21,
     "ANIMAL CASE": 18,
@@ -348,7 +348,7 @@
     "1300 BLOCK GULF BLVD": 3,
     "0 BLOCK N NEPTUNE AVE": 3,
     "S MYRTLE AVE / COURT ST": 2,
-    "OLD COACHMAN RD / GULF TO BAY BLVD": 1,
+    "OLD COACHMAN RD / GULF TO BAY BLVD": 2,
     "700 BLOCK ELDORADO AVE": 5,
     "700 BLOCK COURT ST": 2,
     "2500 BLOCK DRUID RD": 1,
@@ -370,7 +370,7 @@
     "500 BLOCK MOSS AVE": 1,
     "-1000 BLOCK 1170 GULF BLVD": 2,
     "27000 BLOCK US 19": 1,
-    "500 BLOCK N BETTY LN": 17,
+    "500 BLOCK N BETTY LN": 18,
     "600 BLOCK ELDRIDGE ST": 1,
     "2100 BLOCK MONTCLAIR RD": 1,
     "700 BLOCK S KEENE RD": 3,
@@ -568,7 +568,7 @@
     "200 BLOCK BAYSIDE DR": 1,
     "2600 BLOCK ENTERPRISE RD E": 4,
     "-2300 BLOCK BLK STAG RUN BLVD": 1,
-    "400 BLOCK CLEVELAND ST": 5,
+    "400 BLOCK CLEVELAND ST": 6,
     "FRANKLIN ST / S HILLCREST AVE": 1,
     "600 BLOCK ALDEN AVE": 1,
     "-500 BLOCK 578 BAY ESPLANADE": 1,
@@ -969,7 +969,7 @@
     "700 BLOCK N GLENWOOD AVE": 1,
     "-300 BLOCK 499 DAVID AVE": 2,
     "JEFFERSON AVE / BELLEAIR RD": 1,
-    "PARK PLACE BLVD / GULF TO BAY BLVD": 3,
+    "PARK PLACE BLVD / GULF TO BAY BLVD": 4,
     "S SAN REMO AVE / BROWNING ST": 1,
     "N MISSOURI AVE / DREW ST": 1,
     "CLEVELAND ST / N GARDEN AVE": 3,
@@ -1293,11 +1293,12 @@
     "-1700 BLOCK 1748 S MISSOURI AVE": 1,
     "S SATURN AVE / GULF TO BAY BLVD": 1,
     "S LINCOLN AVE / JEFFORDS ST": 1,
-    "CLEVELAND ST / FORT HARRISON AVE": 1
+    "CLEVELAND ST / FORT HARRISON AVE": 1,
+    "600 BLOCK POINSETTIA AVE": 1
   },
   "hourly_distribution": {
     "0": 106,
-    "1": 90,
+    "1": 95,
     "2": 56,
     "3": 45,
     "4": 27,
@@ -1322,7 +1323,7 @@
     "23": 92
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-12T06:26:28.353313+00:00",
+  "last_updated": "2025-12-12T06:54:42.139954+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 953
+  "total_snapshots": 954
 }
