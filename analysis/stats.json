@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 2901,
-  "total_resolved": 2898,
+  "total_calls_tracked": 2904,
+  "total_resolved": 2900,
   "call_types": {
-    "DIRECTED PATROL": 934,
+    "DIRECTED PATROL": 936,
     "TRAFFIC STOP": 419,
     "DRUNK DRIVER": 8,
     "DISTURBANCE": 68,
@@ -12,7 +12,7 @@
     "KEEP THE PEACE": 33,
     "WELFARE CHECK": 67,
     "PARK WALK AND TALK": 260,
-    "SUSPICIOUS PERSON": 114,
+    "SUSPICIOUS PERSON": 115,
     "TRESPASS": 60,
     "PROPERTY FOUND/LOST": 23,
     "THEFT": 46,
@@ -399,7 +399,7 @@
     "S SAN REMO AVE/ GULF TO BAY BLVD": 1,
     "1300 BLOCK S HIGHLAND AVE": 4,
     "CLEVELAND ST / GULF TO BAY BLVD": 5,
-    "1400 BLOCK GULF TO BAY BLVD": 5,
+    "1400 BLOCK GULF TO BAY BLVD": 6,
     "2200 BLOCK BELLEAIR RD": 1,
     "1300 BLOCK PARK ST": 11,
     "DREW ST / US HIGHWAY 19 N": 5,
@@ -1301,7 +1301,9 @@
     "-600 BLOCK 648 CARLTON ST": 1,
     "400 BLOCK S SATURN AVE": 1,
     "-900 BLOCK 913 CHESTNUT ST": 1,
-    "0 BLOCK 59 ROYAL WAY": 1
+    "0 BLOCK 59 ROYAL WAY": 1,
+    "400 BLOCK D STREET": 1,
+    "600 BLOCK BAY ESPLANADE": 1
   },
   "hourly_distribution": {
     "0": 106,
@@ -1310,7 +1312,7 @@
     "3": 47,
     "4": 30,
     "5": 76,
-    "6": 94,
+    "6": 97,
     "7": 70,
     "8": 157,
     "9": 184,
@@ -1330,7 +1332,7 @@
     "23": 92
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-12T11:14:18.051162+00:00",
+  "last_updated": "2025-12-12T11:32:57.349827+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 967
+  "total_snapshots": 968
 }
