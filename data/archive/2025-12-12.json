@@ -630,6 +630,18 @@
           "Response_Date": "2025-12-12T03:20:13"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-12T09:17:07.091881+00:00",
+      "call_count": 1,
+      "calls": [
+        {
+          "Master_Incident_Number": "121225-00075",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "-600 BLOCK 648 CARLTON ST",
+          "Response_Date": "2025-12-12T03:50:48"
+        }
+      ]
     }
   ]
 }

@@ -13923,3 +13923,15 @@ TOTAL ACTIVE CALLS: 2
 
 --- RESOLVED CALLS (1) ---
 [RESOLVED] 121225-00056 | PARK WALK AND TALK | 1600 BLOCK GULF TO BAY BLVD | Response: 02:09 AM
+
+================================================================================
+TIMESTAMP: 2025-12-12T09:17:07.091881+00:00
+TOTAL ACTIVE CALLS: 1
+================================================================================
+
+--- NEW CALLS (1) ---
+[NEW] 121225-00075 | DIRECTED PATROL | -600 BLOCK 648 CARLTON ST | Response: 03:50 AM
+
+--- RESOLVED CALLS (2) ---
+[RESOLVED] 121225-00067 | DIRECTED PATROL | 1600 BLOCK GULF TO BAY BLVD | Response: 02:58 AM
+[RESOLVED] 121225-00070 | WELFARE CHECK | 600 BLOCK S GULFVIEW BLVD | Response: 03:20 AM

@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 2892,
-  "total_resolved": 2890,
+  "total_calls_tracked": 2893,
+  "total_resolved": 2892,
   "call_types": {
-    "DIRECTED PATROL": 927,
+    "DIRECTED PATROL": 928,
     "TRAFFIC STOP": 419,
     "DRUNK DRIVER": 8,
     "DISTURBANCE": 67,
@@ -1297,13 +1297,14 @@
     "600 BLOCK POINSETTIA AVE": 1,
     "S GULFVIEW BLVD / HAMDEN DR": 1,
     "-1100 BLOCK 1141 COURT ST": 1,
-    "0 BLOCK SOMERSET ST": 1
+    "0 BLOCK SOMERSET ST": 1,
+    "-600 BLOCK 648 CARLTON ST": 1
   },
   "hourly_distribution": {
     "0": 106,
     "1": 98,
     "2": 62,
-    "3": 46,
+    "3": 47,
     "4": 27,
     "5": 71,
     "6": 94,
@@ -1326,7 +1327,7 @@
     "23": 92
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-12T08:54:02.952069+00:00",
+  "last_updated": "2025-12-12T09:17:07.093884+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 960
+  "total_snapshots": 961
 }
