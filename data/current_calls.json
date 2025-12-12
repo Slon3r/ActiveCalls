@@ -13,12 +13,6 @@
       "Response_Date": "2025-12-12T15:25:57"
     },
     {
-      "Master_Incident_Number": "121225-00394",
-      "Online_Description": "SUSPICIOUS EVENT",
-      "Address": "2200 BLOCK SPRINGRAIN DR",
-      "Response_Date": "2025-12-12T15:36:58"
-    },
-    {
       "Master_Incident_Number": "121225-00401",
       "Online_Description": "DOMESTIC",
       "Address": "1900 BLOCK EDGEWATER DR",
@@ -37,18 +31,24 @@
       "Response_Date": "2025-12-12T16:14:22"
     },
     {
-      "Master_Incident_Number": "121225-00415",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "0 BLOCK BAY ESPLANADE",
-      "Response_Date": "2025-12-12T16:16:49"
+      "Master_Incident_Number": "121225-00414",
+      "Online_Description": "911 HANG-UP",
+      "Address": "N MARTIN LUTHER KING JR AVE / LA SALLE ST",
+      "Response_Date": "2025-12-12T16:14:40"
     },
     {
-      "Master_Incident_Number": "121225-00418",
-      "Online_Description": "TRAFFIC STOP",
-      "Address": "MEMORIAL CSWY / ISLAND WAY",
-      "Response_Date": "2025-12-12T16:21:15"
+      "Master_Incident_Number": "121225-00419",
+      "Online_Description": "ORDINANCE VIOLATION",
+      "Address": "3100 BLOCK LANDMARK DR",
+      "Response_Date": "2025-12-12T16:20:26"
+    },
+    {
+      "Master_Incident_Number": "121225-00421",
+      "Online_Description": "INJUNCTION VIOLATION",
+      "Address": "2500 BLOCK HARN BLVD",
+      "Response_Date": "2025-12-12T16:26:55"
     }
   ],
-  "timestamp": "2025-12-12T21:48:56.553414+00:00",
+  "timestamp": "2025-12-12T21:56:41.199216+00:00",
   "count": 8
 }
