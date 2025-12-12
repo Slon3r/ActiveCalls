@@ -1,52 +1,16 @@
 {
   "calls": [
     {
-      "Master_Incident_Number": "121225-00275",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "700 BLOCK ELDORADO AVE",
-      "Response_Date": "2025-12-12T11:34:03.263"
-    },
-    {
-      "Master_Incident_Number": "121225-00211",
-      "Online_Description": "BATTERY",
-      "Address": "2000 BLOCK CHARTER OAKS DR",
-      "Response_Date": "2025-12-12T09:26:16"
-    },
-    {
-      "Master_Incident_Number": "121225-00218",
-      "Online_Description": "TRAFFIC CRASH",
-      "Address": "24600 BLOCK US HIGHWAY 19 N",
-      "Response_Date": "2025-12-12T09:36:30"
-    },
-    {
-      "Master_Incident_Number": "121225-00244",
-      "Online_Description": "CHILD ABUSE",
-      "Address": "1600 BLOCK N MADISON AVE",
-      "Response_Date": "2025-12-12T10:18:31"
-    },
-    {
       "Master_Incident_Number": "121225-00243",
       "Online_Description": "TRAFFIC CRASH",
       "Address": "2100 BLOCK GULF TO BAY BLVD",
       "Response_Date": "2025-12-12T10:22:16"
     },
     {
-      "Master_Incident_Number": "121225-00253",
-      "Online_Description": "ASSAULT",
-      "Address": "2000 BLOCK PALMETTO ST",
-      "Response_Date": "2025-12-12T10:41:04"
-    },
-    {
-      "Master_Incident_Number": "121225-00257",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "400 BLOCK TURNER ST",
-      "Response_Date": "2025-12-12T10:52:44"
-    },
-    {
-      "Master_Incident_Number": "121225-00261",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "-700 BLOCK 798 GROVE ST",
-      "Response_Date": "2025-12-12T11:06:11"
+      "Master_Incident_Number": "121225-00245",
+      "Online_Description": "ABANDONED VEHICLE",
+      "Address": "800 BLOCK AUDUBON ST",
+      "Response_Date": "2025-12-12T10:22:52"
     },
     {
       "Master_Incident_Number": "121225-00263",
@@ -55,18 +19,24 @@
       "Response_Date": "2025-12-12T11:07:16"
     },
     {
-      "Master_Incident_Number": "121225-00269",
-      "Online_Description": "NEIGHBOR CALL",
-      "Address": "600 BLOCK OAK AVE",
-      "Response_Date": "2025-12-12T11:20:07"
-    },
-    {
       "Master_Incident_Number": "121225-00272",
       "Online_Description": "FRAUD",
       "Address": "100 BLOCK N BETTY LN",
       "Response_Date": "2025-12-12T11:21:43"
+    },
+    {
+      "Master_Incident_Number": "121225-00279",
+      "Online_Description": "ASSIST CITIZEN",
+      "Address": "600 BLOCK PIERCE ST",
+      "Response_Date": "2025-12-12T11:43:22"
+    },
+    {
+      "Master_Incident_Number": "121225-00283",
+      "Online_Description": "SHOTS FIRED",
+      "Address": "900 BLOCK SEMINOLE ST",
+      "Response_Date": "2025-12-12T11:54:13"
     }
   ],
-  "timestamp": "2025-12-12T16:59:10.938941+00:00",
-  "count": 11
+  "timestamp": "2025-12-12T17:23:12.941198+00:00",
+  "count": 6
 }

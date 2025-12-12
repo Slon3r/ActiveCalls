@@ -1740,6 +1740,48 @@
           "Response_Date": "2025-12-12T11:21:43"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-12T17:23:12.941198+00:00",
+      "call_count": 6,
+      "calls": [
+        {
+          "Master_Incident_Number": "121225-00243",
+          "Online_Description": "TRAFFIC CRASH",
+          "Address": "2100 BLOCK GULF TO BAY BLVD",
+          "Response_Date": "2025-12-12T10:22:16"
+        },
+        {
+          "Master_Incident_Number": "121225-00245",
+          "Online_Description": "ABANDONED VEHICLE",
+          "Address": "800 BLOCK AUDUBON ST",
+          "Response_Date": "2025-12-12T10:22:52"
+        },
+        {
+          "Master_Incident_Number": "121225-00263",
+          "Online_Description": "ASSIST CITIZEN",
+          "Address": "2500 BLOCK STAG RUN BLVD",
+          "Response_Date": "2025-12-12T11:07:16"
+        },
+        {
+          "Master_Incident_Number": "121225-00272",
+          "Online_Description": "FRAUD",
+          "Address": "100 BLOCK N BETTY LN",
+          "Response_Date": "2025-12-12T11:21:43"
+        },
+        {
+          "Master_Incident_Number": "121225-00279",
+          "Online_Description": "ASSIST CITIZEN",
+          "Address": "600 BLOCK PIERCE ST",
+          "Response_Date": "2025-12-12T11:43:22"
+        },
+        {
+          "Master_Incident_Number": "121225-00283",
+          "Online_Description": "SHOTS FIRED",
+          "Address": "900 BLOCK SEMINOLE ST",
+          "Response_Date": "2025-12-12T11:54:13"
+        }
+      ]
     }
   ]
 }
