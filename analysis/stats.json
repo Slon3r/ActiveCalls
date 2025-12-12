@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 2895,
+  "total_calls_tracked": 2896,
   "total_resolved": 2894,
   "call_types": {
-    "DIRECTED PATROL": 928,
+    "DIRECTED PATROL": 929,
     "TRAFFIC STOP": 419,
     "DRUNK DRIVER": 8,
     "DISTURBANCE": 68,
@@ -1299,14 +1299,15 @@
     "-1100 BLOCK 1141 COURT ST": 1,
     "0 BLOCK SOMERSET ST": 1,
     "-600 BLOCK 648 CARLTON ST": 1,
-    "400 BLOCK S SATURN AVE": 1
+    "400 BLOCK S SATURN AVE": 1,
+    "-900 BLOCK 913 CHESTNUT ST": 1
   },
   "hourly_distribution": {
     "0": 106,
     "1": 98,
     "2": 62,
     "3": 47,
-    "4": 29,
+    "4": 30,
     "5": 71,
     "6": 94,
     "7": 70,
@@ -1328,7 +1329,7 @@
     "23": 92
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-12T09:54:15.176149+00:00",
+  "last_updated": "2025-12-12T10:13:53.971839+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 963
+  "total_snapshots": 964
 }

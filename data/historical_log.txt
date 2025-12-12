@@ -13957,3 +13957,11 @@ TOTAL ACTIVE CALLS: 1
 
 --- RESOLVED CALLS (1) ---
 [RESOLVED] 121225-00078 | DISTURBANCE | 400 BLOCK S SATURN AVE | Response: 04:00 AM
+
+================================================================================
+TIMESTAMP: 2025-12-12T10:13:53.970002+00:00
+TOTAL ACTIVE CALLS: 2
+================================================================================
+
+--- NEW CALLS (1) ---
+[NEW] 121225-00081 | DIRECTED PATROL | -900 BLOCK 913 CHESTNUT ST | Response: 04:37 AM
