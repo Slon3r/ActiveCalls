@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 2905,
+  "total_calls_tracked": 2907,
   "total_resolved": 2902,
   "call_types": {
-    "DIRECTED PATROL": 936,
+    "DIRECTED PATROL": 938,
     "TRAFFIC STOP": 419,
     "DRUNK DRIVER": 8,
     "DISTURBANCE": 68,
@@ -87,7 +87,7 @@
     "100 BLOCK S MYRTLE AVE": 3,
     "0 BLOCK CAUSEWAY BLVD": 22,
     "400 BLOCK FAIRWOOD AVE": 4,
-    "500 BLOCK S FORT HARRISON AVE": 10,
+    "500 BLOCK S FORT HARRISON AVE": 11,
     "26000 BLOCK US HIGHWAY 19 N": 6,
     "1300 BLOCK S BELCHER RD": 17,
     "200 BLOCK WINDWARD PSGE": 4,
@@ -177,7 +177,7 @@
     "FIFTH ST & HAMDEN DR": 1,
     "FIFTH ST / HAMDEN DR": 1,
     "E WORLD PARKWAY BLVD / BELCHER RD": 1,
-    "300 BLOCK CLEVELAND ST": 20,
+    "300 BLOCK CLEVELAND ST": 21,
     "GULF TO BAY BLVD / S LAKE DR": 1,
     "-400 BLOCK BLK BLANCHE B LITTLEJOHN TRL": 1,
     "2600 BLOCK GULF TO BAY BLVD": 16,
@@ -1312,7 +1312,7 @@
     "3": 47,
     "4": 30,
     "5": 77,
-    "6": 97,
+    "6": 99,
     "7": 70,
     "8": 157,
     "9": 184,
@@ -1332,7 +1332,7 @@
     "23": 92
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-12T11:45:37.059412+00:00",
+  "last_updated": "2025-12-12T11:53:34.303424+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 969
+  "total_snapshots": 970
 }

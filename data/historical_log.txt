@@ -14027,3 +14027,12 @@ TOTAL ACTIVE CALLS: 3
 --- RESOLVED CALLS (2) ---
 [RESOLVED] 121225-00088 | DIRECTED PATROL | 200 BLOCK DREW ST | Response: 05:11 AM
 [RESOLVED] 121225-00115 | DIRECTED PATROL | 1400 BLOCK GULF TO BAY BLVD | Response: 06:11 AM
+
+================================================================================
+TIMESTAMP: 2025-12-12T11:53:34.301273+00:00
+TOTAL ACTIVE CALLS: 5
+================================================================================
+
+--- NEW CALLS (2) ---
+[NEW] 121225-00118 | DIRECTED PATROL | 300 BLOCK CLEVELAND ST | Response: 06:26 AM
+[NEW] 121225-00121 | DIRECTED PATROL | 500 BLOCK S FORT HARRISON AVE | Response: 06:31 AM
