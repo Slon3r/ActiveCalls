@@ -1,12 +1,6 @@
 {
   "calls": [
     {
-      "Master_Incident_Number": "121225-00083",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "200 BLOCK S GLENWOOD AVE",
-      "Response_Date": "2025-12-12T08:25:32.883"
-    },
-    {
       "Master_Incident_Number": "121225-00151",
       "Online_Description": "PARK WALK AND TALK",
       "Address": "1300 BLOCK PARK ST",
@@ -25,54 +19,54 @@
       "Response_Date": "2025-12-12T08:00:56"
     },
     {
-      "Master_Incident_Number": "121225-00162",
-      "Online_Description": "SUSPICIOUS PERSON",
-      "Address": "700 BLOCK S FORT HARRISON AVE",
-      "Response_Date": "2025-12-12T08:26:44"
-    },
-    {
-      "Master_Incident_Number": "121225-00161",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "GROVE ST / N MARTIN LUTHER KING JR AVE",
-      "Response_Date": "2025-12-12T08:27:02"
-    },
-    {
-      "Master_Incident_Number": "121225-00164",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "FLUSHING AVE / HARN BLVD",
-      "Response_Date": "2025-12-12T08:28:17"
-    },
-    {
-      "Master_Incident_Number": "121225-00166",
-      "Online_Description": "TRAFFIC STOP",
-      "Address": "26200 BLOCK US HIGHWAY 19 N",
-      "Response_Date": "2025-12-12T08:33:30"
-    },
-    {
-      "Master_Incident_Number": "121225-00167",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "HARN BLVD / FLUSHING AVE",
-      "Response_Date": "2025-12-12T08:33:49"
-    },
-    {
-      "Master_Incident_Number": "121225-00168",
-      "Online_Description": "TRAFFIC STOP",
-      "Address": "HARN BLVD / FLUSHING AVE",
-      "Response_Date": "2025-12-12T08:34:56"
-    },
-    {
       "Master_Incident_Number": "121225-00169",
       "Online_Description": "DIRECTED PATROL",
       "Address": "1400 BLOCK GULF TO BAY BLVD",
       "Response_Date": "2025-12-12T08:35:13"
     },
     {
-      "Master_Incident_Number": "121225-00170",
+      "Master_Incident_Number": "121225-00177",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "900 BLOCK S FORT HARRISON AVE",
+      "Response_Date": "2025-12-12T08:43:20"
+    },
+    {
+      "Master_Incident_Number": "121225-00178",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "DREW ST / NE COACHMAN RD",
+      "Response_Date": "2025-12-12T08:43:25"
+    },
+    {
+      "Master_Incident_Number": "121225-00182",
+      "Online_Description": "WELFARE CHECK",
+      "Address": "1300 BLOCK SPRINGDALE ST",
+      "Response_Date": "2025-12-12T08:44:12"
+    },
+    {
+      "Master_Incident_Number": "121225-00183",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "-1900 BLOCK 1998 SUN TREE BLVD",
+      "Response_Date": "2025-12-12T08:48:35"
+    },
+    {
+      "Master_Incident_Number": "121225-00184",
       "Online_Description": "TRAFFIC STOP",
-      "Address": "ENTERPRISE RD E / VILLAGE DR",
-      "Response_Date": "2025-12-12T08:35:30"
+      "Address": "26200 BLOCK US HIGHWAY 19 N",
+      "Response_Date": "2025-12-12T08:49:40"
+    },
+    {
+      "Master_Incident_Number": "121225-00188",
+      "Online_Description": "TRAFFIC STOP",
+      "Address": "OLD COACHMAN RD / DREW ST",
+      "Response_Date": "2025-12-12T08:57:47"
+    },
+    {
+      "Master_Incident_Number": "121225-00189",
+      "Online_Description": "TRAFFIC STOP",
+      "Address": "26300 BLOCK US HIGHWAY 19 N",
+      "Response_Date": "2025-12-12T08:58:47"
     }
   ],
-  "timestamp": "2025-12-12T13:57:48.276516+00:00",
-  "count": 12
+  "timestamp": "2025-12-12T14:20:22.154482+00:00",
+  "count": 11
 }

@@ -1,16 +1,16 @@
 {
-  "total_calls_tracked": 2928,
-  "total_resolved": 2916,
+  "total_calls_tracked": 2935,
+  "total_resolved": 2924,
   "call_types": {
-    "DIRECTED PATROL": 948,
-    "TRAFFIC STOP": 422,
+    "DIRECTED PATROL": 951,
+    "TRAFFIC STOP": 425,
     "DRUNK DRIVER": 8,
     "DISTURBANCE": 68,
     "BATTERY": 23,
     "CRIMINAL MISCHIEF": 17,
     "ALARM": 40,
     "KEEP THE PEACE": 33,
-    "WELFARE CHECK": 68,
+    "WELFARE CHECK": 69,
     "PARK WALK AND TALK": 261,
     "SUSPICIOUS PERSON": 116,
     "TRESPASS": 60,
@@ -289,7 +289,7 @@
     "200 BLOCK LARBOARD WAY": 2,
     "COURT ST / S MISSOURI AVE": 4,
     "-500 BLOCK 1068 GULF BLVD": 1,
-    "26300 BLOCK US HIGHWAY 19 N": 2,
+    "26300 BLOCK US HIGHWAY 19 N": 3,
     "DREW ST / BAYVIEW AVE": 4,
     "2800 BLOCK APPLEWOOD DRIVE": 1,
     "1500 BLOCK EXCALIBER DR": 1,
@@ -481,7 +481,7 @@
     "800 BLOCK CHESTNUT ST": 3,
     "1500 BLOCK MURRAY AVE": 2,
     "300 BLOCK S HIGHLAND AVE": 1,
-    "26200 BLOCK US HIGHWAY 19 N": 5,
+    "26200 BLOCK US HIGHWAY 19 N": 6,
     "N KEENE RD / DREW ST": 2,
     "100 BLOCK N JEFFERSON AVE": 1,
     "1500 BLOCK JEFFORDS ST": 6,
@@ -649,7 +649,7 @@
     "800 BLOCK HARBOR IS": 2,
     "RIDGE TOP WAY / MISTY PLATEAU TRL": 1,
     "800 BLOCK DREW ST": 3,
-    "OLD COACHMAN RD / DREW ST": 6,
+    "OLD COACHMAN RD / DREW ST": 7,
     "900 BLOCK CARLTON ST": 1,
     "1200 BLOCK S MYRTLE AVE": 1,
     "1300 BLOCK S MARTIN LUTHER KING JR AVE": 3,
@@ -876,7 +876,7 @@
     "-300 BLOCK 499 S MAIN AVE": 3,
     "1100 BLOCK BELLEAIR RD": 2,
     "0 BLOCK 45 DEVON DR": 1,
-    "900 BLOCK S FORT HARRISON AVE": 1,
+    "900 BLOCK S FORT HARRISON AVE": 2,
     "ENTERPRISE RD E / SPLITWOOD WAY": 1,
     "1400 BLOCK N MYRTLE AVE": 1,
     "SUNSET POINT RD / N HIGHLAND AVE": 2,
@@ -1309,7 +1309,10 @@
     "OLD COACHMAN RD": 1,
     "VINE AVE / MAPLE ST": 1,
     "700 BLOCK S FORT HARRISON AVE": 1,
-    "GROVE ST / N MARTIN LUTHER KING JR AVE": 1
+    "GROVE ST / N MARTIN LUTHER KING JR AVE": 1,
+    "DREW ST / NE COACHMAN RD": 1,
+    "1300 BLOCK SPRINGDALE ST": 1,
+    "-1900 BLOCK 1998 SUN TREE BLVD": 1
   },
   "hourly_distribution": {
     "0": 106,
@@ -1320,7 +1323,7 @@
     "5": 78,
     "6": 102,
     "7": 74,
-    "8": 170,
+    "8": 177,
     "9": 184,
     "10": 179,
     "11": 170,
@@ -1338,7 +1341,7 @@
     "23": 92
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-12T13:57:48.278781+00:00",
+  "last_updated": "2025-12-12T14:20:22.156891+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 974
+  "total_snapshots": 975
 }

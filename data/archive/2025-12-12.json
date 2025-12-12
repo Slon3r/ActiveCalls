@@ -1020,6 +1020,78 @@
           "Response_Date": "2025-12-12T08:35:30"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-12T14:20:22.154482+00:00",
+      "call_count": 11,
+      "calls": [
+        {
+          "Master_Incident_Number": "121225-00151",
+          "Online_Description": "PARK WALK AND TALK",
+          "Address": "1300 BLOCK PARK ST",
+          "Response_Date": "2025-12-12T08:19:28.33"
+        },
+        {
+          "Master_Incident_Number": "121225-00142",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "26000 BLOCK US HIGHWAY 19 N",
+          "Response_Date": "2025-12-12T07:47:10"
+        },
+        {
+          "Master_Incident_Number": "121225-00153",
+          "Online_Description": "WELFARE CHECK",
+          "Address": "OLD COACHMAN RD",
+          "Response_Date": "2025-12-12T08:00:56"
+        },
+        {
+          "Master_Incident_Number": "121225-00169",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "1400 BLOCK GULF TO BAY BLVD",
+          "Response_Date": "2025-12-12T08:35:13"
+        },
+        {
+          "Master_Incident_Number": "121225-00177",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "900 BLOCK S FORT HARRISON AVE",
+          "Response_Date": "2025-12-12T08:43:20"
+        },
+        {
+          "Master_Incident_Number": "121225-00178",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "DREW ST / NE COACHMAN RD",
+          "Response_Date": "2025-12-12T08:43:25"
+        },
+        {
+          "Master_Incident_Number": "121225-00182",
+          "Online_Description": "WELFARE CHECK",
+          "Address": "1300 BLOCK SPRINGDALE ST",
+          "Response_Date": "2025-12-12T08:44:12"
+        },
+        {
+          "Master_Incident_Number": "121225-00183",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "-1900 BLOCK 1998 SUN TREE BLVD",
+          "Response_Date": "2025-12-12T08:48:35"
+        },
+        {
+          "Master_Incident_Number": "121225-00184",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "26200 BLOCK US HIGHWAY 19 N",
+          "Response_Date": "2025-12-12T08:49:40"
+        },
+        {
+          "Master_Incident_Number": "121225-00188",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "OLD COACHMAN RD / DREW ST",
+          "Response_Date": "2025-12-12T08:57:47"
+        },
+        {
+          "Master_Incident_Number": "121225-00189",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "26300 BLOCK US HIGHWAY 19 N",
+          "Response_Date": "2025-12-12T08:58:47"
+        }
+      ]
     }
   ]
 }
