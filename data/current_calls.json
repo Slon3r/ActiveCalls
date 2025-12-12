@@ -7,66 +7,60 @@
       "Response_Date": "2025-12-11T15:34:05"
     },
     {
-      "Master_Incident_Number": "121125-00353",
-      "Online_Description": "CHILD PROTECTION INVESTIGATION",
-      "Address": "100 BLOCK FERNWOOD AVE",
-      "Response_Date": "2025-12-11T15:48:55"
-    },
-    {
-      "Master_Incident_Number": "121125-00400",
-      "Online_Description": "CHILD PROTECTION INVESTIGATION",
-      "Address": "2000 BLOCK SUNSET MEADOW DR",
-      "Response_Date": "2025-12-11T17:33:39"
-    },
-    {
-      "Master_Incident_Number": "121125-00419",
-      "Online_Description": "ASSIST CITIZEN",
-      "Address": "600 BLOCK PIERCE ST",
-      "Response_Date": "2025-12-11T17:58:32"
-    },
-    {
-      "Master_Incident_Number": "121125-00431",
+      "Master_Incident_Number": "121125-00447",
       "Online_Description": "PARK WALK AND TALK",
-      "Address": "1000 BLOCK S MISSOURI AVE",
-      "Response_Date": "2025-12-11T18:03:11"
+      "Address": "CLEVELAND ST / N GARDEN AVE",
+      "Response_Date": "2025-12-11T18:38:15"
     },
     {
-      "Master_Incident_Number": "121125-00432",
+      "Master_Incident_Number": "121125-00461",
+      "Online_Description": "SUSPICIOUS PERSON",
+      "Address": "LA SALLE ST / N MARTIN LUTHER KING JR AVE",
+      "Response_Date": "2025-12-11T18:52:21"
+    },
+    {
+      "Master_Incident_Number": "121125-00468",
+      "Online_Description": "DECEASED PERSON",
+      "Address": "2600 BLOCK TEAKWOOD DR",
+      "Response_Date": "2025-12-11T18:59:00"
+    },
+    {
+      "Master_Incident_Number": "121125-00480",
       "Online_Description": "PARK WALK AND TALK",
-      "Address": "1000 BLOCK S MISSOURI AVE",
-      "Response_Date": "2025-12-11T18:10:17"
+      "Address": "1300 BLOCK N MARTIN LUTHER KING JR AVE",
+      "Response_Date": "2025-12-11T19:15:22"
     },
     {
-      "Master_Incident_Number": "121125-00433",
-      "Online_Description": "PARK WALK AND TALK",
-      "Address": "-1200 BLOCK 1241 MAGNOLIA DR",
-      "Response_Date": "2025-12-11T18:12:02"
+      "Master_Incident_Number": "121125-00487",
+      "Online_Description": "RECKLESS VEHICLE",
+      "Address": "US HIGHWAY 19 N / COUNTRYSIDE BLVD",
+      "Response_Date": "2025-12-11T19:17:07"
     },
     {
-      "Master_Incident_Number": "121125-00434",
+      "Master_Incident_Number": "121125-00482",
       "Online_Description": "TRAFFIC CRASH",
-      "Address": "CLEVELAND ST / MCMULLEN BOOTH RD",
-      "Response_Date": "2025-12-11T18:13:45"
+      "Address": "US HIGHWAY 19 N / COUNTRYSIDE BLVD",
+      "Response_Date": "2025-12-11T19:17:51"
     },
     {
-      "Master_Incident_Number": "121125-00435",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "1300 BLOCK N MYRTLE AVE",
-      "Response_Date": "2025-12-11T18:20:02"
+      "Master_Incident_Number": "121125-00486",
+      "Online_Description": "TRAFFIC STOP",
+      "Address": "MEMORIAL CSWY / ISLAND WAY",
+      "Response_Date": "2025-12-11T19:20:56"
     },
     {
-      "Master_Incident_Number": "121125-00440",
-      "Online_Description": "THEFT",
-      "Address": "23100 BLOCK US HIGHWAY 19 N",
-      "Response_Date": "2025-12-11T18:22:47"
+      "Master_Incident_Number": "121125-00490",
+      "Online_Description": "ASSIST OTHER AGENCY",
+      "Address": "1100 BLOCK MCMULLEN BOOTH RD",
+      "Response_Date": "2025-12-11T19:29:02"
     },
     {
-      "Master_Incident_Number": "121125-00442",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "1600 BLOCK N BELCHER RD",
-      "Response_Date": "2025-12-11T18:26:27"
+      "Master_Incident_Number": "121125-00491",
+      "Online_Description": "DISTURBANCE",
+      "Address": "COUNTRYSIDE BLVD / OAK NECK RD",
+      "Response_Date": "2025-12-11T19:29:31"
     }
   ],
-  "timestamp": "2025-12-11T23:53:43.040027+00:00",
-  "count": 11
+  "timestamp": "2025-12-12T00:53:35.615149+00:00",
+  "count": 10
 }
