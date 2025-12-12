@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 2907,
-  "total_resolved": 2902,
+  "total_calls_tracked": 2910,
+  "total_resolved": 2906,
   "call_types": {
-    "DIRECTED PATROL": 938,
+    "DIRECTED PATROL": 939,
     "TRAFFIC STOP": 419,
     "DRUNK DRIVER": 8,
     "DISTURBANCE": 68,
@@ -25,7 +25,7 @@
     "TRAFFIC CRASH": 129,
     "DISABLED VEHICLE": 22,
     "ASSIST CITIZEN": 74,
-    "ASSIST OTHER AGENCY": 62,
+    "ASSIST OTHER AGENCY": 63,
     "FIRE": 3,
     "FRAUD": 16,
     "RECKLESS VEHICLE": 9,
@@ -55,7 +55,7 @@
     "ROBBERY": 2,
     "INJUNCTION VIOLATION": 2,
     "STALKING": 1,
-    "TRAFFIC CONTROL": 5,
+    "TRAFFIC CONTROL": 6,
     "WIRES DOWN": 1,
     "PROTEST/DEMONSTRATION": 2,
     "SHOOTING": 1,
@@ -427,7 +427,7 @@
     "18900 BLOCK US HIGHWAY 19 N": 2,
     "400 BLOCK BAY AVE": 3,
     "GULF TO BAY BLVD / US HIGHWAY 19 N": 8,
-    "1400 BLOCK GULF BLVD": 7,
+    "1400 BLOCK GULF BLVD": 8,
     "900 BLOCK NARCISSUS AVE": 1,
     "GARDEN AVE/ CLEVELAND ST": 1,
     "S MARTIN LUTHER KING JR AVE / KINGSLEY ST": 1,
@@ -932,7 +932,7 @@
     "1300 BLOCK MARY L RD": 1,
     "1700 BLOCK ALGONQUIN DR": 1,
     "-2300 BLOCK 2408 DREW ST": 1,
-    "600 BLOCK LAURA ST": 1,
+    "600 BLOCK LAURA ST": 2,
     "DRUID RD / US HIGHWAY 19 N": 1,
     "1700 BLOCK HARBOR DR": 1,
     "NE COACHMAN/BELCHER": 1,
@@ -1303,7 +1303,8 @@
     "-900 BLOCK 913 CHESTNUT ST": 1,
     "0 BLOCK 59 ROYAL WAY": 1,
     "400 BLOCK D STREET": 1,
-    "600 BLOCK BAY ESPLANADE": 1
+    "600 BLOCK BAY ESPLANADE": 1,
+    "28000 BLOCK US HIGHWAY 19 N": 1
   },
   "hourly_distribution": {
     "0": 106,
@@ -1311,8 +1312,8 @@
     "2": 62,
     "3": 47,
     "4": 30,
-    "5": 77,
-    "6": 99,
+    "5": 78,
+    "6": 101,
     "7": 70,
     "8": 157,
     "9": 184,
@@ -1332,7 +1333,7 @@
     "23": 92
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-12T11:53:34.303424+00:00",
+  "last_updated": "2025-12-12T12:21:50.035860+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 970
+  "total_snapshots": 971
 }
