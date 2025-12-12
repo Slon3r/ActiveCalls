@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 2889,
-  "total_resolved": 2886,
+  "total_calls_tracked": 2890,
+  "total_resolved": 2887,
   "call_types": {
-    "DIRECTED PATROL": 925,
+    "DIRECTED PATROL": 926,
     "TRAFFIC STOP": 419,
     "DRUNK DRIVER": 8,
     "DISTURBANCE": 67,
@@ -1296,12 +1296,13 @@
     "CLEVELAND ST / FORT HARRISON AVE": 1,
     "600 BLOCK POINSETTIA AVE": 1,
     "S GULFVIEW BLVD / HAMDEN DR": 1,
-    "-1100 BLOCK 1141 COURT ST": 1
+    "-1100 BLOCK 1141 COURT ST": 1,
+    "0 BLOCK SOMERSET ST": 1
   },
   "hourly_distribution": {
     "0": 106,
     "1": 98,
-    "2": 60,
+    "2": 61,
     "3": 45,
     "4": 27,
     "5": 71,
@@ -1325,7 +1326,7 @@
     "23": 92
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-12T07:48:45.372696+00:00",
+  "last_updated": "2025-12-12T07:57:07.012751+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 957
+  "total_snapshots": 958
 }

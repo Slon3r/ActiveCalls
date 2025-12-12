@@ -13889,3 +13889,14 @@ TOTAL ACTIVE CALLS: 3
 [RESOLVED] 121225-00048 | DIRECTED PATROL | 21400 BLOCK US HIGHWAY 19 N | Response: 01:39 AM
 [RESOLVED] 121225-00053 | DIRECTED PATROL | 0 BLOCK TH ST | Response: 02:05 AM
 [RESOLVED] 121225-00058 | DIRECTED PATROL | -1100 BLOCK 1141 COURT ST | Response: 02:12 AM
+
+================================================================================
+TIMESTAMP: 2025-12-12T07:57:07.010914+00:00
+TOTAL ACTIVE CALLS: 3
+================================================================================
+
+--- NEW CALLS (1) ---
+[NEW] 121225-00059 | DIRECTED PATROL | 0 BLOCK SOMERSET ST | Response: 02:32 AM
+
+--- RESOLVED CALLS (1) ---
+[RESOLVED] 121225-00036 | DIRECTED PATROL | S LINCOLN AVE / JEFFORDS ST | Response: 01:00 AM
