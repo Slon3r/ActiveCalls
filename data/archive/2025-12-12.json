@@ -1920,6 +1920,90 @@
           "Response_Date": "2025-12-12T12:27:47"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-12T17:58:59.888814+00:00",
+      "call_count": 13,
+      "calls": [
+        {
+          "Master_Incident_Number": "121225-00243",
+          "Online_Description": "TRAFFIC CRASH",
+          "Address": "2100 BLOCK GULF TO BAY BLVD",
+          "Response_Date": "2025-12-12T10:22:16"
+        },
+        {
+          "Master_Incident_Number": "121225-00272",
+          "Online_Description": "FRAUD",
+          "Address": "100 BLOCK N BETTY LN",
+          "Response_Date": "2025-12-12T11:21:43"
+        },
+        {
+          "Master_Incident_Number": "121225-00283",
+          "Online_Description": "SHOTS FIRED",
+          "Address": "900 BLOCK SEMINOLE ST",
+          "Response_Date": "2025-12-12T11:54:13"
+        },
+        {
+          "Master_Incident_Number": "121225-00286",
+          "Online_Description": "ASSIST CITIZEN",
+          "Address": "2300 BLOCK LANDMARK DR",
+          "Response_Date": "2025-12-12T12:02:30"
+        },
+        {
+          "Master_Incident_Number": "121225-00287",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "0 BLOCK CAUSEWAY BLVD",
+          "Response_Date": "2025-12-12T12:05:55"
+        },
+        {
+          "Master_Incident_Number": "121225-00289",
+          "Online_Description": "ASSIST OTHER AGENCY",
+          "Address": "1900 BLOCK GULF TO BAY BLVD",
+          "Response_Date": "2025-12-12T12:08:00"
+        },
+        {
+          "Master_Incident_Number": "121225-00294",
+          "Online_Description": "SUSPICIOUS PERSON",
+          "Address": "2500 BLOCK COUNTRYSIDE BLVD",
+          "Response_Date": "2025-12-12T12:18:01"
+        },
+        {
+          "Master_Incident_Number": "121225-00293",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "2800 BLOCK PARK TRAIL LN",
+          "Response_Date": "2025-12-12T12:19:15"
+        },
+        {
+          "Master_Incident_Number": "121225-00298",
+          "Online_Description": "TRAFFIC CRASH",
+          "Address": "2000 BLOCK GULF TO BAY BLVD",
+          "Response_Date": "2025-12-12T12:21:37"
+        },
+        {
+          "Master_Incident_Number": "121225-00297",
+          "Online_Description": "PARK WALK AND TALK",
+          "Address": "THIRD ST / HAMDEN DR",
+          "Response_Date": "2025-12-12T12:22:15"
+        },
+        {
+          "Master_Incident_Number": "121225-00300",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "-1900 BLOCK 1998 SUN TREE BLVD",
+          "Response_Date": "2025-12-12T12:25:47"
+        },
+        {
+          "Master_Incident_Number": "121225-00302",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "3400 BLOCK COUNTRYSIDE BLVD",
+          "Response_Date": "2025-12-12T12:27:47"
+        },
+        {
+          "Master_Incident_Number": "121225-00304",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "S MADISON AVE / PIERCE ST",
+          "Response_Date": "2025-12-12T12:37:13"
+        }
+      ]
     }
   ]
 }

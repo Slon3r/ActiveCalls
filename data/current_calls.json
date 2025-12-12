@@ -25,22 +25,28 @@
       "Response_Date": "2025-12-12T12:02:30"
     },
     {
+      "Master_Incident_Number": "121225-00287",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "0 BLOCK CAUSEWAY BLVD",
+      "Response_Date": "2025-12-12T12:05:55"
+    },
+    {
       "Master_Incident_Number": "121225-00289",
       "Online_Description": "ASSIST OTHER AGENCY",
       "Address": "1900 BLOCK GULF TO BAY BLVD",
       "Response_Date": "2025-12-12T12:08:00"
     },
     {
+      "Master_Incident_Number": "121225-00294",
+      "Online_Description": "SUSPICIOUS PERSON",
+      "Address": "2500 BLOCK COUNTRYSIDE BLVD",
+      "Response_Date": "2025-12-12T12:18:01"
+    },
+    {
       "Master_Incident_Number": "121225-00293",
       "Online_Description": "DIRECTED PATROL",
       "Address": "2800 BLOCK PARK TRAIL LN",
       "Response_Date": "2025-12-12T12:19:15"
-    },
-    {
-      "Master_Incident_Number": "121225-00296",
-      "Online_Description": "ANIMAL CASE",
-      "Address": "LANDRY AVE / SHELLEY ST",
-      "Response_Date": "2025-12-12T12:20:13"
     },
     {
       "Master_Incident_Number": "121225-00298",
@@ -65,8 +71,14 @@
       "Online_Description": "TRAFFIC STOP",
       "Address": "3400 BLOCK COUNTRYSIDE BLVD",
       "Response_Date": "2025-12-12T12:27:47"
+    },
+    {
+      "Master_Incident_Number": "121225-00304",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "S MADISON AVE / PIERCE ST",
+      "Response_Date": "2025-12-12T12:37:13"
     }
   ],
-  "timestamp": "2025-12-12T17:50:58.244824+00:00",
-  "count": 11
+  "timestamp": "2025-12-12T17:58:59.888814+00:00",
+  "count": 13
 }

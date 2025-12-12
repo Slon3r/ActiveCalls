@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 2988,
-  "total_resolved": 2977,
+  "total_calls_tracked": 2991,
+  "total_resolved": 2978,
   "call_types": {
-    "DIRECTED PATROL": 966,
+    "DIRECTED PATROL": 968,
     "TRAFFIC STOP": 431,
     "DRUNK DRIVER": 8,
     "DISTURBANCE": 68,
@@ -12,7 +12,7 @@
     "KEEP THE PEACE": 34,
     "WELFARE CHECK": 70,
     "PARK WALK AND TALK": 266,
-    "SUSPICIOUS PERSON": 117,
+    "SUSPICIOUS PERSON": 118,
     "TRESPASS": 61,
     "PROPERTY FOUND/LOST": 23,
     "THEFT": 47,
@@ -85,7 +85,7 @@
     "US HIGHWAY 19 N / SR 580": 3,
     "400 BLOCK S GULFVIEW BLVD": 8,
     "100 BLOCK S MYRTLE AVE": 3,
-    "0 BLOCK CAUSEWAY BLVD": 22,
+    "0 BLOCK CAUSEWAY BLVD": 23,
     "400 BLOCK FAIRWOOD AVE": 4,
     "500 BLOCK S FORT HARRISON AVE": 12,
     "26000 BLOCK US HIGHWAY 19 N": 7,
@@ -232,7 +232,7 @@
     "1300 BLOCK S FORT HARRISON AVE": 1,
     "HOLT AVE / RUSSELL ST": 2,
     "S GULFVIEW BLVD / SECOND ST": 1,
-    "2500 BLOCK COUNTRYSIDE BLVD": 15,
+    "2500 BLOCK COUNTRYSIDE BLVD": 16,
     "-300 BLOCK 339 CORONADO DR": 2,
     "-600 BLOCK 698 CLEVELAND ST": 1,
     "1500 BLOCK S HIGHLAND AVE": 5,
@@ -442,7 +442,7 @@
     "1400 BLOCK S MARTIN LUTHER KING JR AVE": 13,
     "OTIS C GREEN DR / N BETTY LN": 1,
     "2600 BLOCK MCMULLEN BOOTH RD": 6,
-    "S MADISON AVE / PIERCE ST": 3,
+    "S MADISON AVE / PIERCE ST": 4,
     "1000 BLOCK VINE AVE": 1,
     "2200 BLOCK MORNINGSIDE DR": 2,
     "400 BLOCK S MARTIN LUTHER KING JR AVE": 2,
@@ -1340,7 +1340,7 @@
     "9": 202,
     "10": 193,
     "11": 181,
-    "12": 176,
+    "12": 179,
     "13": 166,
     "14": 194,
     "15": 194,
@@ -1354,7 +1354,7 @@
     "23": 92
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-12T17:50:58.248191+00:00",
+  "last_updated": "2025-12-12T17:58:59.892241+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 988
+  "total_snapshots": 989
 }
