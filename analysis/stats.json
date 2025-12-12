@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 3044,
-  "total_resolved": 3035,
+  "total_calls_tracked": 3047,
+  "total_resolved": 3039,
   "call_types": {
-    "DIRECTED PATROL": 981,
-    "TRAFFIC STOP": 443,
+    "DIRECTED PATROL": 982,
+    "TRAFFIC STOP": 444,
     "DRUNK DRIVER": 8,
     "DISTURBANCE": 69,
     "BATTERY": 24,
@@ -15,7 +15,7 @@
     "SUSPICIOUS PERSON": 119,
     "TRESPASS": 61,
     "PROPERTY FOUND/LOST": 23,
-    "THEFT": 50,
+    "THEFT": 51,
     "NEIGHBOR CALL": 15,
     "911 HANG-UP": 106,
     "SUSPICIOUS VEHICLE": 23,
@@ -133,7 +133,7 @@
     "1200 BLOCK DREW ST": 3,
     "2400 BLOCK DREW ST": 7,
     "-1100 BLOCK 1582 GULF BLVD": 5,
-    "3300 BLOCK COURTNEY CAMPBELL CSWY": 12,
+    "3300 BLOCK COURTNEY CAMPBELL CSWY": 13,
     "1200 BLOCK COURT ST": 5,
     "1400 BLOCK OWEN DR": 1,
     "200 BLOCK ISLAND WAY": 9,
@@ -163,7 +163,7 @@
     "2000 BLOCK N HERCULES AVE": 2,
     "1300 BLOCK FRANKLIN ST": 2,
     "SUNSET MEADOW DR / COLONY REED LN": 1,
-    "0 BLOCK BAY ESPLANADE": 7,
+    "0 BLOCK BAY ESPLANADE": 8,
     "200 BLOCK S GLENWOOD AVE": 31,
     "S KEENE RD / DRUID RD": 2,
     "GULF TO BAY BLVD / BAMBOO LN": 2,
@@ -941,7 +941,7 @@
     "1500 BLOCK TILLEY AVE": 1,
     "3100 BLOCK LANDMARK DR": 1,
     "1900 BLOCK LAKEVIEW RD": 1,
-    "2000 BLOCK ALPINE RD": 4,
+    "2000 BLOCK ALPINE RD": 5,
     "MONTCLAIR RD / SETON DR": 1,
     "-2600 BLOCK 2625 SOUTH DR": 2,
     "0 BLOCK 27 N FORT HARRISON AVE": 1,
@@ -1365,7 +1365,7 @@
     "13": 186,
     "14": 203,
     "15": 211,
-    "16": 191,
+    "16": 194,
     "17": 186,
     "18": 147,
     "19": 51,
@@ -1375,7 +1375,7 @@
     "23": 92
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-12T21:29:44.060005+00:00",
+  "last_updated": "2025-12-12T21:40:33.344071+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 1001
+  "total_snapshots": 1002
 }
