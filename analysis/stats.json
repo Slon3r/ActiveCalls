@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 3018,
-  "total_resolved": 3006,
+  "total_calls_tracked": 3020,
+  "total_resolved": 3007,
   "call_types": {
     "DIRECTED PATROL": 975,
-    "TRAFFIC STOP": 434,
+    "TRAFFIC STOP": 435,
     "DRUNK DRIVER": 8,
     "DISTURBANCE": 68,
     "BATTERY": 24,
@@ -23,7 +23,7 @@
     "VEHICLE ILLEGALLY PARKED": 6,
     "SUSPICIOUS EVENT": 57,
     "TRAFFIC CRASH": 136,
-    "DISABLED VEHICLE": 22,
+    "DISABLED VEHICLE": 23,
     "ASSIST CITIZEN": 78,
     "ASSIST OTHER AGENCY": 66,
     "FIRE": 3,
@@ -146,7 +146,7 @@
     "1300 BLOCK ADMIRAL WOODSON LN": 1,
     "DREW ST / N SATURN AVE": 2,
     "GULF TO BAY BLVD / THORTON RD": 1,
-    "COUNTRYSIDE BLVD / ENDICOTT CT": 4,
+    "COUNTRYSIDE BLVD / ENDICOTT CT": 5,
     "3000 BLOCK DREW ST": 4,
     "2400 BLOCK COUNTRYSIDE BLVD": 13,
     "1200 BLOCK S MISSOURI AVE": 12,
@@ -1335,7 +1335,8 @@
     "WINDWARD PSGE / ISLAND WAY": 1,
     "2500 BLOCK ENTERPRISE RD": 1,
     "FAIRMONT ST / KINGS HWY": 1,
-    "24400 BLOCK US HIGHWAY 19 N": 1
+    "24400 BLOCK US HIGHWAY 19 N": 1,
+    "JEFFORDS ST / HAMLET AVE": 1
   },
   "hourly_distribution": {
     "0": 106,
@@ -1352,7 +1353,7 @@
     "11": 182,
     "12": 182,
     "13": 185,
-    "14": 198,
+    "14": 200,
     "15": 194,
     "16": 188,
     "17": 186,
@@ -1364,7 +1365,7 @@
     "23": 92
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-12T19:42:38.491301+00:00",
+  "last_updated": "2025-12-12T19:51:01.927221+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 994
+  "total_snapshots": 995
 }

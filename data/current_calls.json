@@ -67,12 +67,18 @@
       "Response_Date": "2025-12-12T14:14:46"
     },
     {
-      "Master_Incident_Number": "121225-00343",
-      "Online_Description": "PARK WALK AND TALK",
-      "Address": "0 BLOCK CAUSEWAY BLVD",
-      "Response_Date": "2025-12-12T14:20:13"
+      "Master_Incident_Number": "121225-00346",
+      "Online_Description": "TRAFFIC STOP",
+      "Address": "COUNTRYSIDE BLVD / ENDICOTT CT",
+      "Response_Date": "2025-12-12T14:23:50"
+    },
+    {
+      "Master_Incident_Number": "121225-00347",
+      "Online_Description": "DISABLED VEHICLE",
+      "Address": "JEFFORDS ST / HAMLET AVE",
+      "Response_Date": "2025-12-12T14:26:47"
     }
   ],
-  "timestamp": "2025-12-12T19:42:38.487449+00:00",
-  "count": 12
+  "timestamp": "2025-12-12T19:51:01.923320+00:00",
+  "count": 13
 }
