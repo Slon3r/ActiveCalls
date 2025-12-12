@@ -25,18 +25,42 @@
       "Response_Date": "2025-12-12T11:21:43"
     },
     {
-      "Master_Incident_Number": "121225-00279",
-      "Online_Description": "ASSIST CITIZEN",
-      "Address": "600 BLOCK PIERCE ST",
-      "Response_Date": "2025-12-12T11:43:22"
-    },
-    {
       "Master_Incident_Number": "121225-00283",
       "Online_Description": "SHOTS FIRED",
       "Address": "900 BLOCK SEMINOLE ST",
       "Response_Date": "2025-12-12T11:54:13"
+    },
+    {
+      "Master_Incident_Number": "121225-00286",
+      "Online_Description": "ASSIST CITIZEN",
+      "Address": "2300 BLOCK LANDMARK DR",
+      "Response_Date": "2025-12-12T12:02:30"
+    },
+    {
+      "Master_Incident_Number": "121225-00289",
+      "Online_Description": "ASSIST OTHER AGENCY",
+      "Address": "1900 BLOCK GULF TO BAY BLVD",
+      "Response_Date": "2025-12-12T12:08:00"
+    },
+    {
+      "Master_Incident_Number": "121225-00291",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "DREW ST / OLD COACHMAN RD",
+      "Response_Date": "2025-12-12T12:14:34"
+    },
+    {
+      "Master_Incident_Number": "121225-00292",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "DREW ST / BAYVIEW AVE",
+      "Response_Date": "2025-12-12T12:19:04"
+    },
+    {
+      "Master_Incident_Number": "121225-00293",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "2800 BLOCK PARK TRAIL LN",
+      "Response_Date": "2025-12-12T12:19:15"
     }
   ],
-  "timestamp": "2025-12-12T17:23:12.941198+00:00",
-  "count": 6
+  "timestamp": "2025-12-12T17:40:53.765932+00:00",
+  "count": 10
 }

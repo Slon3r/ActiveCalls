@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 2978,
-  "total_resolved": 2972,
+  "total_calls_tracked": 2983,
+  "total_resolved": 2973,
   "call_types": {
-    "DIRECTED PATROL": 962,
+    "DIRECTED PATROL": 965,
     "TRAFFIC STOP": 430,
     "DRUNK DRIVER": 8,
     "DISTURBANCE": 68,
@@ -24,8 +24,8 @@
     "SUSPICIOUS EVENT": 57,
     "TRAFFIC CRASH": 132,
     "DISABLED VEHICLE": 22,
-    "ASSIST CITIZEN": 77,
-    "ASSIST OTHER AGENCY": 64,
+    "ASSIST CITIZEN": 78,
+    "ASSIST OTHER AGENCY": 65,
     "FIRE": 3,
     "FRAUD": 17,
     "RECKLESS VEHICLE": 9,
@@ -202,7 +202,7 @@
     "1700 BLOCK KINGS HWY": 2,
     "500 BLOCK MANDALAY AVE": 12,
     "3000 BLOCK HAVERFORD DR": 2,
-    "DREW ST / OLD COACHMAN RD": 3,
+    "DREW ST / OLD COACHMAN RD": 4,
     "2500 BLOCK HARN BLVD": 30,
     "1000 BLOCK MCMULLEN BOOTH RD": 3,
     "1200 BLOCK S MARTIN LUTHER KING JR AVE": 2,
@@ -290,7 +290,7 @@
     "COURT ST / S MISSOURI AVE": 4,
     "-500 BLOCK 1068 GULF BLVD": 1,
     "26300 BLOCK US HIGHWAY 19 N": 3,
-    "DREW ST / BAYVIEW AVE": 4,
+    "DREW ST / BAYVIEW AVE": 5,
     "2800 BLOCK APPLEWOOD DRIVE": 1,
     "1500 BLOCK EXCALIBER DR": 1,
     "300 BLOCK PINELLAS ST": 15,
@@ -412,7 +412,7 @@
     "1400 BLOCK FAIRMONT ST": 1,
     "DREW ST / N BETTY LN": 3,
     "600 BLOCK MANDALAY AVE": 8,
-    "1900 BLOCK GULF TO BAY BLVD": 8,
+    "1900 BLOCK GULF TO BAY BLVD": 9,
     "22100 BLOCK US HIGHWAY 19 N": 2,
     "SEVILLE BLVD / US HIGHWAY 19 N": 2,
     "COUNTRYSIDE BLVD / WINDING WOOD DR": 3,
@@ -777,7 +777,7 @@
     "1600 BLOCK N BETTY LN": 1,
     "2500 BLOCK BRENTWOOD DR": 1,
     "1200 BLOCK N MARTIN LUTHER KING JR AVE": 1,
-    "2300 BLOCK LANDMARK DR": 4,
+    "2300 BLOCK LANDMARK DR": 5,
     "US HIGHWAY 19 N / NE COACHMAN RD": 5,
     "600 BLOCK WOODLAWN ST": 1,
     "US HIGHWAY 19 N / ENTERPRISE RD": 1,
@@ -1322,7 +1322,8 @@
     "1300 BLOCK S HILLCREST AVE": 1,
     "1100 BLOCK N MARTIN LUTHER KING JR AVE": 1,
     "-700 BLOCK 798 GROVE ST": 1,
-    "100 BLOCK N BETTY LN": 1
+    "100 BLOCK N BETTY LN": 1,
+    "2800 BLOCK PARK TRAIL LN": 1
   },
   "hourly_distribution": {
     "0": 106,
@@ -1337,7 +1338,7 @@
     "9": 202,
     "10": 193,
     "11": 181,
-    "12": 166,
+    "12": 171,
     "13": 166,
     "14": 194,
     "15": 194,
@@ -1351,7 +1352,7 @@
     "23": 92
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-12T17:23:12.944498+00:00",
+  "last_updated": "2025-12-12T17:40:53.769173+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 986
+  "total_snapshots": 987
 }
