@@ -1296,6 +1296,72 @@
           "Response_Date": "2025-12-12T09:52:10"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-12T15:40:32.343415+00:00",
+      "call_count": 10,
+      "calls": [
+        {
+          "Master_Incident_Number": "121225-00151",
+          "Online_Description": "PARK WALK AND TALK",
+          "Address": "1300 BLOCK PARK ST",
+          "Response_Date": "2025-12-12T08:19:28.33"
+        },
+        {
+          "Master_Incident_Number": "121225-00214",
+          "Online_Description": "ASSIST CITIZEN",
+          "Address": "800 BLOCK TURNER ST",
+          "Response_Date": "2025-12-12T09:24:43"
+        },
+        {
+          "Master_Incident_Number": "121225-00211",
+          "Online_Description": "BATTERY",
+          "Address": "2000 BLOCK CHARTER OAKS DR",
+          "Response_Date": "2025-12-12T09:26:16"
+        },
+        {
+          "Master_Incident_Number": "121225-00218",
+          "Online_Description": "TRAFFIC CRASH",
+          "Address": "24600 BLOCK US HIGHWAY 19 N",
+          "Response_Date": "2025-12-12T09:36:30"
+        },
+        {
+          "Master_Incident_Number": "121225-00228",
+          "Online_Description": "HIT & RUN",
+          "Address": "S MISSOURI AVE / COURT ST",
+          "Response_Date": "2025-12-12T09:58:41"
+        },
+        {
+          "Master_Incident_Number": "121225-00235",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "200 BLOCK LARBOARD WAY",
+          "Response_Date": "2025-12-12T10:13:01"
+        },
+        {
+          "Master_Incident_Number": "121225-00237",
+          "Online_Description": "SUSPICIOUS PERSON",
+          "Address": "2400 BLOCK COUNTRYSIDE BLVD",
+          "Response_Date": "2025-12-12T10:14:21"
+        },
+        {
+          "Master_Incident_Number": "121225-00238",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "1300 BLOCK S BELCHER RD",
+          "Response_Date": "2025-12-12T10:16:06"
+        },
+        {
+          "Master_Incident_Number": "121225-00239",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "BRIGHTWATER DR / HAMDEN DR",
+          "Response_Date": "2025-12-12T10:17:29"
+        },
+        {
+          "Master_Incident_Number": "121225-00240",
+          "Online_Description": "SUSPICIOUS VEHICLE",
+          "Address": "26900 BLOCK US HIGHWAY 19 N",
+          "Response_Date": "2025-12-12T10:19:33"
+        }
+      ]
     }
   ]
 }

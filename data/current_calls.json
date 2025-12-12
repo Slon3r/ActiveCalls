@@ -7,22 +7,16 @@
       "Response_Date": "2025-12-12T08:19:28.33"
     },
     {
-      "Master_Incident_Number": "121225-00197",
-      "Online_Description": "KEEP THE PEACE",
-      "Address": "1800 BLOCK RIDGEWAY DR",
-      "Response_Date": "2025-12-12T09:04:27"
-    },
-    {
-      "Master_Incident_Number": "121225-00202",
-      "Online_Description": "TRESPASS",
-      "Address": "2100 BLOCK GULF TO BAY BLVD",
-      "Response_Date": "2025-12-12T09:13:36"
-    },
-    {
       "Master_Incident_Number": "121225-00214",
       "Online_Description": "ASSIST CITIZEN",
       "Address": "800 BLOCK TURNER ST",
       "Response_Date": "2025-12-12T09:24:43"
+    },
+    {
+      "Master_Incident_Number": "121225-00211",
+      "Online_Description": "BATTERY",
+      "Address": "2000 BLOCK CHARTER OAKS DR",
+      "Response_Date": "2025-12-12T09:26:16"
     },
     {
       "Master_Incident_Number": "121225-00218",
@@ -31,24 +25,42 @@
       "Response_Date": "2025-12-12T09:36:30"
     },
     {
-      "Master_Incident_Number": "121225-00220",
-      "Online_Description": "TRAFFIC CRASH",
-      "Address": "S MISSOURI AVE / KINGSLEY ST",
-      "Response_Date": "2025-12-12T09:44:30"
+      "Master_Incident_Number": "121225-00228",
+      "Online_Description": "HIT & RUN",
+      "Address": "S MISSOURI AVE / COURT ST",
+      "Response_Date": "2025-12-12T09:58:41"
     },
     {
-      "Master_Incident_Number": "121225-00222",
-      "Online_Description": "TRAFFIC STOP",
-      "Address": "GULF TO BAY BLVD / S KEYSTONE AVE",
-      "Response_Date": "2025-12-12T09:51:18"
-    },
-    {
-      "Master_Incident_Number": "121225-00224",
+      "Master_Incident_Number": "121225-00235",
       "Online_Description": "DIRECTED PATROL",
-      "Address": "GULF TO BAY BLVD / US HIGHWAY 19 N",
-      "Response_Date": "2025-12-12T09:52:10"
+      "Address": "200 BLOCK LARBOARD WAY",
+      "Response_Date": "2025-12-12T10:13:01"
+    },
+    {
+      "Master_Incident_Number": "121225-00237",
+      "Online_Description": "SUSPICIOUS PERSON",
+      "Address": "2400 BLOCK COUNTRYSIDE BLVD",
+      "Response_Date": "2025-12-12T10:14:21"
+    },
+    {
+      "Master_Incident_Number": "121225-00238",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "1300 BLOCK S BELCHER RD",
+      "Response_Date": "2025-12-12T10:16:06"
+    },
+    {
+      "Master_Incident_Number": "121225-00239",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "BRIGHTWATER DR / HAMDEN DR",
+      "Response_Date": "2025-12-12T10:17:29"
+    },
+    {
+      "Master_Incident_Number": "121225-00240",
+      "Online_Description": "SUSPICIOUS VEHICLE",
+      "Address": "26900 BLOCK US HIGHWAY 19 N",
+      "Response_Date": "2025-12-12T10:19:33"
     }
   ],
-  "timestamp": "2025-12-12T15:19:27.015785+00:00",
-  "count": 8
+  "timestamp": "2025-12-12T15:40:32.343415+00:00",
+  "count": 10
 }
