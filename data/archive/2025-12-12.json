@@ -2004,6 +2004,90 @@
           "Response_Date": "2025-12-12T12:37:13"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-12T18:36:34.702204+00:00",
+      "call_count": 13,
+      "calls": [
+        {
+          "Master_Incident_Number": "121225-00243",
+          "Online_Description": "TRAFFIC CRASH",
+          "Address": "2100 BLOCK GULF TO BAY BLVD",
+          "Response_Date": "2025-12-12T10:22:16"
+        },
+        {
+          "Master_Incident_Number": "121225-00283",
+          "Online_Description": "SHOTS FIRED",
+          "Address": "900 BLOCK SEMINOLE ST",
+          "Response_Date": "2025-12-12T11:54:13"
+        },
+        {
+          "Master_Incident_Number": "121225-00294",
+          "Online_Description": "SUSPICIOUS PERSON",
+          "Address": "2500 BLOCK COUNTRYSIDE BLVD",
+          "Response_Date": "2025-12-12T12:18:01"
+        },
+        {
+          "Master_Incident_Number": "121225-00298",
+          "Online_Description": "TRAFFIC CRASH",
+          "Address": "2000 BLOCK GULF TO BAY BLVD",
+          "Response_Date": "2025-12-12T12:21:37"
+        },
+        {
+          "Master_Incident_Number": "121225-00297",
+          "Online_Description": "PARK WALK AND TALK",
+          "Address": "THIRD ST / HAMDEN DR",
+          "Response_Date": "2025-12-12T12:22:15"
+        },
+        {
+          "Master_Incident_Number": "121225-00305",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "0 BLOCK 99 THIRD ST",
+          "Response_Date": "2025-12-12T12:38:14"
+        },
+        {
+          "Master_Incident_Number": "121225-00308",
+          "Online_Description": "ASSIST OTHER AGENCY",
+          "Address": "1600 BLOCK PINE PL",
+          "Response_Date": "2025-12-12T12:51:22"
+        },
+        {
+          "Master_Incident_Number": "121225-00309",
+          "Online_Description": "911 HANG-UP",
+          "Address": "2000 BLOCK ALPINE RD",
+          "Response_Date": "2025-12-12T12:55:35"
+        },
+        {
+          "Master_Incident_Number": "121225-00310",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "1300 BLOCK S BELCHER RD",
+          "Response_Date": "2025-12-12T13:01:13"
+        },
+        {
+          "Master_Incident_Number": "121225-00311",
+          "Online_Description": "911 HANG-UP",
+          "Address": "18100 BLOCK US HIGHWAY 19 N",
+          "Response_Date": "2025-12-12T13:02:42"
+        },
+        {
+          "Master_Incident_Number": "121225-00313",
+          "Online_Description": "OPEN DOOR/WINDOW",
+          "Address": "1300 BLOCK PARK ST",
+          "Response_Date": "2025-12-12T13:08:23"
+        },
+        {
+          "Master_Incident_Number": "121225-00312",
+          "Online_Description": "PARK WALK AND TALK",
+          "Address": "200 BLOCK DOLPHIN PT",
+          "Response_Date": "2025-12-12T13:09:31"
+        },
+        {
+          "Master_Incident_Number": "121225-00315",
+          "Online_Description": "KEEP THE PEACE",
+          "Address": "2600 BLOCK SEVILLE BLVD",
+          "Response_Date": "2025-12-12T13:12:22"
+        }
+      ]
     }
   ]
 }
