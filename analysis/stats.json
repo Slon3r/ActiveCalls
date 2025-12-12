@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 3034,
-  "total_resolved": 3027,
+  "total_calls_tracked": 3038,
+  "total_resolved": 3030,
   "call_types": {
-    "DIRECTED PATROL": 978,
-    "TRAFFIC STOP": 440,
+    "DIRECTED PATROL": 979,
+    "TRAFFIC STOP": 442,
     "DRUNK DRIVER": 8,
     "DISTURBANCE": 69,
     "BATTERY": 24,
@@ -21,7 +21,7 @@
     "SUSPICIOUS VEHICLE": 23,
     "PANHANDLER/SOLICITOR": 5,
     "VEHICLE ILLEGALLY PARKED": 6,
-    "SUSPICIOUS EVENT": 57,
+    "SUSPICIOUS EVENT": 58,
     "TRAFFIC CRASH": 137,
     "DISABLED VEHICLE": 23,
     "ASSIST CITIZEN": 78,
@@ -146,7 +146,7 @@
     "1300 BLOCK ADMIRAL WOODSON LN": 1,
     "DREW ST / N SATURN AVE": 2,
     "GULF TO BAY BLVD / THORTON RD": 1,
-    "COUNTRYSIDE BLVD / ENDICOTT CT": 7,
+    "COUNTRYSIDE BLVD / ENDICOTT CT": 8,
     "3000 BLOCK DREW ST": 5,
     "2400 BLOCK COUNTRYSIDE BLVD": 13,
     "1200 BLOCK S MISSOURI AVE": 12,
@@ -1176,7 +1176,7 @@
     "100 BLOCK S GARDEN AVE": 1,
     "900 BLOCK JONES ST": 1,
     "MADISON AVE/CLEVELAND ST": 1,
-    "400 BLOCK S OLD COACHMAN RD": 1,
+    "400 BLOCK S OLD COACHMAN RD": 2,
     "1400 BLOCK LAKEVIEW RD": 1,
     "2000 BLOCK EDGEWATER DR": 2,
     "S FORT HARRISON AVE / CLEVELAND ST": 1,
@@ -1341,7 +1341,9 @@
     "1200 BLOCK MELONWOOD AVE": 1,
     "WOODLAWN ST / S MARTIN LUTHER KING JR AVE": 1,
     "LANDMARK DR / SR 580": 1,
-    "WINDING WOOD DR / COUNTRYSIDE BLVD": 1
+    "WINDING WOOD DR / COUNTRYSIDE BLVD": 1,
+    "2200 BLOCK SPRINGRAIN DR": 1,
+    "ENTERPRISE RD E / FRISCO DR": 1
   },
   "hourly_distribution": {
     "0": 106,
@@ -1359,7 +1361,7 @@
     "12": 182,
     "13": 186,
     "14": 203,
-    "15": 204,
+    "15": 208,
     "16": 188,
     "17": 186,
     "18": 147,
@@ -1370,7 +1372,7 @@
     "23": 92
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-12T20:54:10.182804+00:00",
+  "last_updated": "2025-12-12T21:10:43.592447+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 999
+  "total_snapshots": 1000
 }

@@ -2736,6 +2736,60 @@
           "Response_Date": "2025-12-12T15:28:09"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-12T21:10:43.588174+00:00",
+      "call_count": 8,
+      "calls": [
+        {
+          "Master_Incident_Number": "121225-00283",
+          "Online_Description": "SHOTS FIRED",
+          "Address": "900 BLOCK SEMINOLE ST",
+          "Response_Date": "2025-12-12T11:54:13"
+        },
+        {
+          "Master_Incident_Number": "121225-00374",
+          "Online_Description": "THEFT",
+          "Address": "500 BLOCK PARK ST",
+          "Response_Date": "2025-12-12T15:04:07"
+        },
+        {
+          "Master_Incident_Number": "121225-00375",
+          "Online_Description": "TRAFFIC CRASH",
+          "Address": "LANDMARK DR / SR 580",
+          "Response_Date": "2025-12-12T15:08:32"
+        },
+        {
+          "Master_Incident_Number": "121225-00383",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "3000 BLOCK DREW ST",
+          "Response_Date": "2025-12-12T15:25:27"
+        },
+        {
+          "Master_Incident_Number": "121225-00392",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "COUNTRYSIDE BLVD / ENDICOTT CT",
+          "Response_Date": "2025-12-12T15:35:29"
+        },
+        {
+          "Master_Incident_Number": "121225-00394",
+          "Online_Description": "SUSPICIOUS EVENT",
+          "Address": "2200 BLOCK SPRINGRAIN DR",
+          "Response_Date": "2025-12-12T15:36:58"
+        },
+        {
+          "Master_Incident_Number": "121225-00395",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "ENTERPRISE RD E / FRISCO DR",
+          "Response_Date": "2025-12-12T15:40:15"
+        },
+        {
+          "Master_Incident_Number": "121225-00397",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "400 BLOCK S OLD COACHMAN RD",
+          "Response_Date": "2025-12-12T15:44:49"
+        }
+      ]
     }
   ]
 }
