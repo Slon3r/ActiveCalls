@@ -3294,6 +3294,66 @@
           "Response_Date": "2025-12-12T17:34:25"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-12T23:19:16.671725+00:00",
+      "call_count": 9,
+      "calls": [
+        {
+          "Master_Incident_Number": "121225-00388",
+          "Online_Description": "THEFT",
+          "Address": "900 BLOCK CLEVELAND ST",
+          "Response_Date": "2025-12-12T15:25:57"
+        },
+        {
+          "Master_Incident_Number": "121225-00409",
+          "Online_Description": "HIT & RUN",
+          "Address": "S FORT HARRISON AVE / TURNER ST",
+          "Response_Date": "2025-12-12T16:04:05"
+        },
+        {
+          "Master_Incident_Number": "121225-00413",
+          "Online_Description": "THEFT",
+          "Address": "2000 BLOCK ALPINE RD",
+          "Response_Date": "2025-12-12T16:14:22"
+        },
+        {
+          "Master_Incident_Number": "121225-00423",
+          "Online_Description": "SUSPICIOUS EVENT",
+          "Address": "500 BLOCK S FORT HARRISON AVE",
+          "Response_Date": "2025-12-12T16:33:46"
+        },
+        {
+          "Master_Incident_Number": "121225-00435",
+          "Online_Description": "PROPERTY FOUND/LOST",
+          "Address": "1900 BLOCK N BELCHER RD",
+          "Response_Date": "2025-12-12T16:46:37"
+        },
+        {
+          "Master_Incident_Number": "121225-00454",
+          "Online_Description": "HIT & RUN",
+          "Address": "2700 BLOCK SR 580",
+          "Response_Date": "2025-12-12T17:22:53"
+        },
+        {
+          "Master_Incident_Number": "121225-00456",
+          "Online_Description": "PANHANDLER/SOLICITOR",
+          "Address": "2500 BLOCK COUNTRYSIDE BLVD",
+          "Response_Date": "2025-12-12T17:25:34"
+        },
+        {
+          "Master_Incident_Number": "121225-00459",
+          "Online_Description": "PANHANDLER/SOLICITOR",
+          "Address": "2600 BLOCK GULF TO BAY BLVD",
+          "Response_Date": "2025-12-12T17:31:26"
+        },
+        {
+          "Master_Incident_Number": "121225-00468",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "-2100 BLOCK 2158 GULF TO BAY BLVD",
+          "Response_Date": "2025-12-12T17:53:37"
+        }
+      ]
     }
   ]
 }

@@ -19,22 +19,10 @@
       "Response_Date": "2025-12-12T16:14:22"
     },
     {
-      "Master_Incident_Number": "121225-00421",
-      "Online_Description": "INJUNCTION VIOLATION",
-      "Address": "2500 BLOCK HARN BLVD",
-      "Response_Date": "2025-12-12T16:26:55"
-    },
-    {
       "Master_Incident_Number": "121225-00423",
       "Online_Description": "SUSPICIOUS EVENT",
       "Address": "500 BLOCK S FORT HARRISON AVE",
       "Response_Date": "2025-12-12T16:33:46"
-    },
-    {
-      "Master_Incident_Number": "121225-00428",
-      "Online_Description": "BATTERY",
-      "Address": "900 BLOCK S MISSOURI AVE",
-      "Response_Date": "2025-12-12T16:37:12"
     },
     {
       "Master_Incident_Number": "121225-00435",
@@ -55,30 +43,18 @@
       "Response_Date": "2025-12-12T17:25:34"
     },
     {
-      "Master_Incident_Number": "121225-00457",
-      "Online_Description": "911 HANG-UP",
-      "Address": "300 BLOCK PENNSYLVANIA AVE",
-      "Response_Date": "2025-12-12T17:26:15"
-    },
-    {
       "Master_Incident_Number": "121225-00459",
       "Online_Description": "PANHANDLER/SOLICITOR",
       "Address": "2600 BLOCK GULF TO BAY BLVD",
       "Response_Date": "2025-12-12T17:31:26"
     },
     {
-      "Master_Incident_Number": "121225-00460",
-      "Online_Description": "TRAFFIC STOP",
-      "Address": "MCMULLEN BOOTH RD / SR 590",
-      "Response_Date": "2025-12-12T17:33:22"
-    },
-    {
-      "Master_Incident_Number": "121225-00461",
-      "Online_Description": "TRAFFIC STOP",
-      "Address": "CORONADO DR / S GULFVIEW BLVD",
-      "Response_Date": "2025-12-12T17:34:25"
+      "Master_Incident_Number": "121225-00468",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "-2100 BLOCK 2158 GULF TO BAY BLVD",
+      "Response_Date": "2025-12-12T17:53:37"
     }
   ],
-  "timestamp": "2025-12-12T22:57:30.010310+00:00",
-  "count": 13
+  "timestamp": "2025-12-12T23:19:16.671725+00:00",
+  "count": 9
 }
