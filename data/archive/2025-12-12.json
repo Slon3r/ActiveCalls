@@ -2556,6 +2556,72 @@
           "Response_Date": "2025-12-12T14:33:24"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-12T20:27:01.304714+00:00",
+      "call_count": 10,
+      "calls": [
+        {
+          "Master_Incident_Number": "121225-00349",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "3300 BLOCK SAN GABRIEL ST",
+          "Response_Date": "2025-12-12T14:54:47.047"
+        },
+        {
+          "Master_Incident_Number": "121225-00280",
+          "Online_Description": "CRIMINAL MISCHIEF",
+          "Address": "2500 BLOCK ENTERPRISE RD",
+          "Response_Date": "2025-12-12T11:43:04"
+        },
+        {
+          "Master_Incident_Number": "121225-00283",
+          "Online_Description": "SHOTS FIRED",
+          "Address": "900 BLOCK SEMINOLE ST",
+          "Response_Date": "2025-12-12T11:54:13"
+        },
+        {
+          "Master_Incident_Number": "121225-00326",
+          "Online_Description": "CIVIL MATTER",
+          "Address": "100 BLOCK N MARTIN LUTHER KING JR AVE",
+          "Response_Date": "2025-12-12T13:27:16"
+        },
+        {
+          "Master_Incident_Number": "121225-00338",
+          "Online_Description": "HIT & RUN",
+          "Address": "24400 BLOCK US HIGHWAY 19 N",
+          "Response_Date": "2025-12-12T14:04:30"
+        },
+        {
+          "Master_Incident_Number": "121225-00356",
+          "Online_Description": "WELFARE CHECK",
+          "Address": "1200 BLOCK MELONWOOD AVE",
+          "Response_Date": "2025-12-12T14:38:20"
+        },
+        {
+          "Master_Incident_Number": "121225-00371",
+          "Online_Description": "SUSPICIOUS PERSON",
+          "Address": "WOODLAWN ST / S MARTIN LUTHER KING JR AVE",
+          "Response_Date": "2025-12-12T15:02:27"
+        },
+        {
+          "Master_Incident_Number": "121225-00372",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "COUNTRYSIDE BLVD / ENDICOTT CT",
+          "Response_Date": "2025-12-12T15:03:06"
+        },
+        {
+          "Master_Incident_Number": "121225-00373",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "3200 BLOCK COURTNEY CAMPBELL CSWY",
+          "Response_Date": "2025-12-12T15:04:06"
+        },
+        {
+          "Master_Incident_Number": "121225-00374",
+          "Online_Description": "THEFT",
+          "Address": "500 BLOCK PARK ST",
+          "Response_Date": "2025-12-12T15:04:07"
+        }
+      ]
     }
   ]
 }
