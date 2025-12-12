@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 2885,
-  "total_resolved": 2881,
+  "total_calls_tracked": 2889,
+  "total_resolved": 2883,
   "call_types": {
-    "DIRECTED PATROL": 923,
+    "DIRECTED PATROL": 925,
     "TRAFFIC STOP": 419,
     "DRUNK DRIVER": 8,
     "DISTURBANCE": 67,
@@ -11,14 +11,14 @@
     "ALARM": 39,
     "KEEP THE PEACE": 33,
     "WELFARE CHECK": 66,
-    "PARK WALK AND TALK": 259,
+    "PARK WALK AND TALK": 260,
     "SUSPICIOUS PERSON": 114,
     "TRESPASS": 60,
     "PROPERTY FOUND/LOST": 23,
     "THEFT": 46,
     "NEIGHBOR CALL": 14,
     "911 HANG-UP": 102,
-    "SUSPICIOUS VEHICLE": 21,
+    "SUSPICIOUS VEHICLE": 22,
     "PANHANDLER/SOLICITOR": 5,
     "VEHICLE ILLEGALLY PARKED": 6,
     "SUSPICIOUS EVENT": 57,
@@ -99,7 +99,7 @@
     "1400 BLOCK LAURA ST": 5,
     "ENTERPRISE RD E / VILLAGE DR": 3,
     "GULF TO BAY BLVD / HAMPTON RD": 1,
-    "2100 BLOCK GULF TO BAY BLVD": 26,
+    "2100 BLOCK GULF TO BAY BLVD": 27,
     "1300 BLOCK CLEVELAND ST": 14,
     "2100 BLOCK BELCHER RD": 1,
     "SAND KEY PARK ENTRANCE": 7,
@@ -216,7 +216,7 @@
     "23600 BLOCK US HIGHWAY 19 N": 7,
     "300 BLOCK MANDALAY AVE": 3,
     "JONES ST / FERN AVE": 1,
-    "1600 BLOCK GULF TO BAY BLVD": 25,
+    "1600 BLOCK GULF TO BAY BLVD": 26,
     "1600 BLOCK DARTMOUTH ST": 1,
     "HAMDEN DR / BRIGHTWATER DR": 3,
     "HAMPTON RD / GULF TO BAY BLVD": 2,
@@ -1238,7 +1238,7 @@
     "N MARTIN LUTHER KING JR AVE / CARLTON ST": 1,
     "1200 BLOCK BELLEAIR RD": 1,
     "200 BLOCK BRIGHTWATER DR": 1,
-    "0 BLOCK TH ST": 1,
+    "0 BLOCK TH ST": 2,
     "0 BLOCK 98 CORONADO DR": 2,
     "-500 BLOCK 989 GULF BLVD": 1,
     "500 BLOCK DRUID RD": 1,
@@ -1295,12 +1295,13 @@
     "S LINCOLN AVE / JEFFORDS ST": 1,
     "CLEVELAND ST / FORT HARRISON AVE": 1,
     "600 BLOCK POINSETTIA AVE": 1,
-    "S GULFVIEW BLVD / HAMDEN DR": 1
+    "S GULFVIEW BLVD / HAMDEN DR": 1,
+    "-1100 BLOCK 1141 COURT ST": 1
   },
   "hourly_distribution": {
     "0": 106,
     "1": 98,
-    "2": 56,
+    "2": 60,
     "3": 45,
     "4": 27,
     "5": 71,
@@ -1324,7 +1325,7 @@
     "23": 92
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-12T07:17:31.491817+00:00",
+  "last_updated": "2025-12-12T07:37:41.087732+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 955
+  "total_snapshots": 956
 }

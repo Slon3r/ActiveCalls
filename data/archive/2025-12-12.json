@@ -504,6 +504,48 @@
           "Response_Date": "2025-12-12T01:53:49"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-12T07:37:41.085867+00:00",
+      "call_count": 6,
+      "calls": [
+        {
+          "Master_Incident_Number": "121225-00036",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "S LINCOLN AVE / JEFFORDS ST",
+          "Response_Date": "2025-12-12T01:00:31"
+        },
+        {
+          "Master_Incident_Number": "121225-00048",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "21400 BLOCK US HIGHWAY 19 N",
+          "Response_Date": "2025-12-12T01:39:35"
+        },
+        {
+          "Master_Incident_Number": "121225-00053",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "0 BLOCK TH ST",
+          "Response_Date": "2025-12-12T02:05:06"
+        },
+        {
+          "Master_Incident_Number": "121225-00056",
+          "Online_Description": "PARK WALK AND TALK",
+          "Address": "1600 BLOCK GULF TO BAY BLVD",
+          "Response_Date": "2025-12-12T02:09:23"
+        },
+        {
+          "Master_Incident_Number": "121225-00057",
+          "Online_Description": "SUSPICIOUS VEHICLE",
+          "Address": "2100 BLOCK GULF TO BAY BLVD",
+          "Response_Date": "2025-12-12T02:09:43"
+        },
+        {
+          "Master_Incident_Number": "121225-00058",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "-1100 BLOCK 1141 COURT ST",
+          "Response_Date": "2025-12-12T02:12:58"
+        }
+      ]
     }
   ]
 }
