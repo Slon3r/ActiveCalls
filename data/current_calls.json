@@ -1,6 +1,12 @@
 {
   "calls": [
     {
+      "Master_Incident_Number": "121225-00280",
+      "Online_Description": "CRIMINAL MISCHIEF",
+      "Address": "2500 BLOCK ENTERPRISE RD",
+      "Response_Date": "2025-12-12T11:43:04"
+    },
+    {
       "Master_Incident_Number": "121225-00283",
       "Online_Description": "SHOTS FIRED",
       "Address": "900 BLOCK SEMINOLE ST",
@@ -49,34 +55,10 @@
       "Response_Date": "2025-12-12T13:38:08"
     },
     {
-      "Master_Incident_Number": "121225-00329",
-      "Online_Description": "TRAFFIC CRASH",
-      "Address": "1400 BLOCK S BELCHER RD",
-      "Response_Date": "2025-12-12T13:40:55"
-    },
-    {
-      "Master_Incident_Number": "121225-00331",
-      "Online_Description": "ROAD RAGE",
-      "Address": "3300 BLOCK COURTNEY CAMPBELL CSWY",
-      "Response_Date": "2025-12-12T13:45:54"
-    },
-    {
       "Master_Incident_Number": "121225-00330",
       "Online_Description": "DIRECTED PATROL",
       "Address": "MEMORIAL CSWY",
       "Response_Date": "2025-12-12T13:45:58"
-    },
-    {
-      "Master_Incident_Number": "121225-00332",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "1000 BLOCK APPLEWOOD DR",
-      "Response_Date": "2025-12-12T13:46:46"
-    },
-    {
-      "Master_Incident_Number": "121225-00333",
-      "Online_Description": "TRAFFIC STOP",
-      "Address": "WINDWARD PSGE / ISLAND WAY",
-      "Response_Date": "2025-12-12T13:50:23"
     },
     {
       "Master_Incident_Number": "121225-00334",
@@ -85,12 +67,12 @@
       "Response_Date": "2025-12-12T13:51:46"
     },
     {
-      "Master_Incident_Number": "121225-00336",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "27000 BLOCK US HIGHWAY 19 N",
-      "Response_Date": "2025-12-12T13:54:26"
+      "Master_Incident_Number": "121225-00337",
+      "Online_Description": "TRAFFIC STOP",
+      "Address": "FAIRMONT ST / KINGS HWY",
+      "Response_Date": "2025-12-12T14:00:56"
     }
   ],
-  "timestamp": "2025-12-12T19:15:53.812949+00:00",
-  "count": 15
+  "timestamp": "2025-12-12T19:31:17.083282+00:00",
+  "count": 12
 }

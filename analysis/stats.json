@@ -1,13 +1,13 @@
 {
-  "total_calls_tracked": 3013,
-  "total_resolved": 2998,
+  "total_calls_tracked": 3015,
+  "total_resolved": 3003,
   "call_types": {
     "DIRECTED PATROL": 974,
-    "TRAFFIC STOP": 433,
+    "TRAFFIC STOP": 434,
     "DRUNK DRIVER": 8,
     "DISTURBANCE": 68,
     "BATTERY": 24,
-    "CRIMINAL MISCHIEF": 17,
+    "CRIMINAL MISCHIEF": 18,
     "ALARM": 40,
     "KEEP THE PEACE": 35,
     "WELFARE CHECK": 70,
@@ -1332,7 +1332,9 @@
     "23900 BLOCK US HIGHWAY 19 N": 1,
     "100 BLOCK S MARTIN LUTHER KING JR AVE": 1,
     "1000 BLOCK APPLEWOOD DR": 1,
-    "WINDWARD PSGE / ISLAND WAY": 1
+    "WINDWARD PSGE / ISLAND WAY": 1,
+    "2500 BLOCK ENTERPRISE RD": 1,
+    "FAIRMONT ST / KINGS HWY": 1
   },
   "hourly_distribution": {
     "0": 106,
@@ -1346,10 +1348,10 @@
     "8": 177,
     "9": 202,
     "10": 193,
-    "11": 181,
+    "11": 182,
     "12": 182,
     "13": 185,
-    "14": 194,
+    "14": 195,
     "15": 194,
     "16": 188,
     "17": 186,
@@ -1361,7 +1363,7 @@
     "23": 92
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-12T19:15:53.816703+00:00",
+  "last_updated": "2025-12-12T19:31:17.087149+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 992
+  "total_snapshots": 993
 }

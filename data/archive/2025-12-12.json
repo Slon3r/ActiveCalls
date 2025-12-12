@@ -2256,6 +2256,84 @@
           "Response_Date": "2025-12-12T13:54:26"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-12T19:31:17.083282+00:00",
+      "call_count": 12,
+      "calls": [
+        {
+          "Master_Incident_Number": "121225-00280",
+          "Online_Description": "CRIMINAL MISCHIEF",
+          "Address": "2500 BLOCK ENTERPRISE RD",
+          "Response_Date": "2025-12-12T11:43:04"
+        },
+        {
+          "Master_Incident_Number": "121225-00283",
+          "Online_Description": "SHOTS FIRED",
+          "Address": "900 BLOCK SEMINOLE ST",
+          "Response_Date": "2025-12-12T11:54:13"
+        },
+        {
+          "Master_Incident_Number": "121225-00310",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "1300 BLOCK S BELCHER RD",
+          "Response_Date": "2025-12-12T13:01:13"
+        },
+        {
+          "Master_Incident_Number": "121225-00315",
+          "Online_Description": "KEEP THE PEACE",
+          "Address": "2600 BLOCK SEVILLE BLVD",
+          "Response_Date": "2025-12-12T13:12:22"
+        },
+        {
+          "Master_Incident_Number": "121225-00316",
+          "Online_Description": "TRAFFIC CRASH",
+          "Address": "1200 BLOCK S HIGHLAND AVE",
+          "Response_Date": "2025-12-12T13:12:27"
+        },
+        {
+          "Master_Incident_Number": "121225-00317",
+          "Online_Description": "THEFT",
+          "Address": "23900 BLOCK US HIGHWAY 19 N",
+          "Response_Date": "2025-12-12T13:14:24"
+        },
+        {
+          "Master_Incident_Number": "121225-00326",
+          "Online_Description": "CIVIL MATTER",
+          "Address": "100 BLOCK S MARTIN LUTHER KING JR AVE",
+          "Response_Date": "2025-12-12T13:27:16"
+        },
+        {
+          "Master_Incident_Number": "121225-00323",
+          "Online_Description": "TRAFFIC CRASH",
+          "Address": "27000 BLOCK US HIGHWAY 19 N",
+          "Response_Date": "2025-12-12T13:30:23"
+        },
+        {
+          "Master_Incident_Number": "121225-00328",
+          "Online_Description": "CHILD PROTECTION INVESTIGATION",
+          "Address": "2000 BLOCK SUNSET MEADOW DR",
+          "Response_Date": "2025-12-12T13:38:08"
+        },
+        {
+          "Master_Incident_Number": "121225-00330",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "MEMORIAL CSWY",
+          "Response_Date": "2025-12-12T13:45:58"
+        },
+        {
+          "Master_Incident_Number": "121225-00334",
+          "Online_Description": "PARK WALK AND TALK",
+          "Address": "900 BLOCK N MARTIN LUTHER KING JR AVE",
+          "Response_Date": "2025-12-12T13:51:46"
+        },
+        {
+          "Master_Incident_Number": "121225-00337",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "FAIRMONT ST / KINGS HWY",
+          "Response_Date": "2025-12-12T14:00:56"
+        }
+      ]
     }
   ]
 }
