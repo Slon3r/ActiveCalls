@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 2866,
-  "total_resolved": 2862,
+  "total_calls_tracked": 2871,
+  "total_resolved": 2864,
   "call_types": {
-    "DIRECTED PATROL": 917,
-    "TRAFFIC STOP": 414,
+    "DIRECTED PATROL": 919,
+    "TRAFFIC STOP": 415,
     "DRUNK DRIVER": 8,
     "DISTURBANCE": 66,
     "BATTERY": 23,
@@ -11,11 +11,11 @@
     "ALARM": 39,
     "KEEP THE PEACE": 33,
     "WELFARE CHECK": 66,
-    "PARK WALK AND TALK": 255,
+    "PARK WALK AND TALK": 256,
     "SUSPICIOUS PERSON": 113,
     "TRESPASS": 60,
     "PROPERTY FOUND/LOST": 23,
-    "THEFT": 45,
+    "THEFT": 46,
     "NEIGHBOR CALL": 14,
     "911 HANG-UP": 102,
     "SUSPICIOUS VEHICLE": 21,
@@ -106,7 +106,7 @@
     "S MISSOURI AVE / LAKEVIEW RD": 6,
     "23100 BLOCK US HIGHWAY 19 N": 15,
     "1200 BLOCK N BETTY LN": 1,
-    "MCMULLEN BOOTH RD / SR 590": 4,
+    "MCMULLEN BOOTH RD / SR 590": 5,
     "LAKEVIEW RD / S MISSOURI AVE": 2,
     "2400 BLOCK MELLOW LN": 1,
     "1200 BLOCK GULF BLVD": 12,
@@ -203,7 +203,7 @@
     "500 BLOCK MANDALAY AVE": 12,
     "3000 BLOCK HAVERFORD DR": 2,
     "DREW ST / OLD COACHMAN RD": 3,
-    "2500 BLOCK HARN BLVD": 29,
+    "2500 BLOCK HARN BLVD": 30,
     "1000 BLOCK MCMULLEN BOOTH RD": 2,
     "1200 BLOCK S MARTIN LUTHER KING JR AVE": 2,
     "2000 BLOCK PARAGON CIR W": 1,
@@ -1140,7 +1140,7 @@
     "0 BLOCK S MYRTLE AVE": 1,
     "100 BLOCK S OSCEOLA AVE": 1,
     "1500 BLOCK S MISSOURI AVE": 1,
-    "PALMETTO ST / PALM TERRACE DR": 1,
+    "PALMETTO ST / PALM TERRACE DR": 2,
     "N HIGHLAND AVE / FAIRMONT ST": 1,
     "DIMMITT DR / CHAUTAUQUA AVE": 1,
     "-26300 BLOCK 26498 US HIGHWAY 19 N": 1,
@@ -1288,10 +1288,12 @@
     "GULF TO BAY BLVD/ S HERCULES AVE": 1,
     "1500 BLOCK FLOURNOY LOOP": 1,
     "600 BLOCK OAK AVE": 1,
-    "N HIGHLAND AVE / OTTEN ST": 1
+    "N HIGHLAND AVE / OTTEN ST": 1,
+    "-1000 BLOCK 1004 PALM TERRACE DR": 1,
+    "-1700 BLOCK 1748 S MISSOURI AVE": 1
   },
   "hourly_distribution": {
-    "0": 97,
+    "0": 102,
     "1": 88,
     "2": 56,
     "3": 45,
@@ -1317,7 +1319,7 @@
     "23": 92
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-12T05:47:30.168772+00:00",
+  "last_updated": "2025-12-12T05:55:52.976433+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 951
+  "total_snapshots": 952
 }

@@ -13,18 +13,36 @@
       "Response_Date": "2025-12-12T00:11:26"
     },
     {
-      "Master_Incident_Number": "121225-00017",
-      "Online_Description": "TRAFFIC STOP",
-      "Address": "N HIGHLAND AVE / OTTEN ST",
-      "Response_Date": "2025-12-12T00:18:56"
+      "Master_Incident_Number": "121225-00021",
+      "Online_Description": "THEFT",
+      "Address": "2500 BLOCK HARN BLVD",
+      "Response_Date": "2025-12-12T00:27:54"
     },
     {
-      "Master_Incident_Number": "121225-00020",
-      "Online_Description": "ALARM",
-      "Address": "2500 BLOCK COUNTRYSIDE BLVD",
-      "Response_Date": "2025-12-12T00:22:58"
+      "Master_Incident_Number": "121225-00022",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "-1000 BLOCK 1004 PALM TERRACE DR",
+      "Response_Date": "2025-12-12T00:29:46"
+    },
+    {
+      "Master_Incident_Number": "121225-00023",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "PALMETTO ST / PALM TERRACE DR",
+      "Response_Date": "2025-12-12T00:29:47"
+    },
+    {
+      "Master_Incident_Number": "121225-00024",
+      "Online_Description": "PARK WALK AND TALK",
+      "Address": "-1700 BLOCK 1748 S MISSOURI AVE",
+      "Response_Date": "2025-12-12T00:33:06"
+    },
+    {
+      "Master_Incident_Number": "121225-00025",
+      "Online_Description": "TRAFFIC STOP",
+      "Address": "MCMULLEN BOOTH RD / SR 590",
+      "Response_Date": "2025-12-12T00:35:00"
     }
   ],
-  "timestamp": "2025-12-12T05:47:30.167239+00:00",
-  "count": 4
+  "timestamp": "2025-12-12T05:55:52.974841+00:00",
+  "count": 7
 }
