@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 2839,
-  "total_resolved": 2833,
+  "total_calls_tracked": 2845,
+  "total_resolved": 2838,
   "call_types": {
-    "DIRECTED PATROL": 906,
+    "DIRECTED PATROL": 910,
     "TRAFFIC STOP": 410,
     "DRUNK DRIVER": 8,
     "DISTURBANCE": 65,
@@ -11,7 +11,7 @@
     "ALARM": 38,
     "KEEP THE PEACE": 33,
     "WELFARE CHECK": 66,
-    "PARK WALK AND TALK": 251,
+    "PARK WALK AND TALK": 253,
     "SUSPICIOUS PERSON": 111,
     "TRESPASS": 60,
     "PROPERTY FOUND/LOST": 23,
@@ -370,7 +370,7 @@
     "500 BLOCK MOSS AVE": 1,
     "-1000 BLOCK 1170 GULF BLVD": 2,
     "27000 BLOCK US 19": 1,
-    "500 BLOCK N BETTY LN": 15,
+    "500 BLOCK N BETTY LN": 16,
     "600 BLOCK ELDRIDGE ST": 1,
     "2100 BLOCK MONTCLAIR RD": 1,
     "700 BLOCK S KEENE RD": 3,
@@ -722,7 +722,7 @@
     "3400 BLOCK MCMULLEN BOOTH RD": 1,
     "S BELCHER RD / DRUID RD": 4,
     "1600 BLOCK GULF BLVD": 1,
-    "N GARDEN AVE / DREW ST": 2,
+    "N GARDEN AVE / DREW ST": 3,
     "-400 BLOCK 499 POINSETTIA AVE": 1,
     "BAYVIEW AVE / GULF TO BAY BLVD": 1,
     "N BELCHER RD / DREW ST": 2,
@@ -977,7 +977,7 @@
     "-1100 BLOCK 1199 S FORT HARRISON AVE": 1,
     "S FORT HARRISON AVE / CHESTNUT ST": 1,
     "500 BLOCK CLEVELAND ST": 2,
-    "1200 BLOCK HOLT AVE": 2,
+    "1200 BLOCK HOLT AVE": 3,
     "NORTH PARKING GARAGE": 2,
     "BAYSHORE BLVD / COURTNEY CAMPBELL CSWY": 1,
     "25100 BLOCK US HIGHWAY 19 N": 1,
@@ -985,7 +985,7 @@
     "0 BLOCK 37 LAUREL ST": 1,
     "1800 BLOCK WASHINGTON AVE": 1,
     "-19000 BLOCK 19128 US HIGHWAY 19 N": 1,
-    "-800 BLOCK 899 S MISSOURI AVE": 2,
+    "-800 BLOCK 899 S MISSOURI AVE": 3,
     "COURT STREET/ MYRTLE AVE": 1,
     "2500 BLOCK NURSERY RD": 1,
     "0 BLOCK S GARDEN AVE": 1,
@@ -1278,7 +1278,9 @@
     "-2800 BLOCK 2864 MEADOW HILL DR S": 1,
     "LA SALLE ST / N MARTIN LUTHER KING JR AVE": 1,
     "2600 BLOCK TEAKWOOD DR": 1,
-    "COUNTRYSIDE BLVD / OAK NECK RD": 1
+    "COUNTRYSIDE BLVD / OAK NECK RD": 1,
+    "-900 BLOCK 999 S MISSOURI AVE": 1,
+    "N BETTY LN / JACKSON RD": 1
   },
   "hourly_distribution": {
     "0": 93,
@@ -1302,12 +1304,12 @@
     "18": 147,
     "19": 51,
     "20": 52,
-    "21": 64,
-    "22": 116,
+    "21": 66,
+    "22": 120,
     "23": 81
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-12T02:46:52.366199+00:00",
+  "last_updated": "2025-12-12T03:48:42.745128+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 946
+  "total_snapshots": 947
 }
