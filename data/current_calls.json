@@ -25,24 +25,24 @@
       "Response_Date": "2025-12-12T16:46:37"
     },
     {
-      "Master_Incident_Number": "121225-00479",
-      "Online_Description": "WELFARE CHECK",
-      "Address": "1200 BLOCK S HIGHLAND AVE",
-      "Response_Date": "2025-12-12T18:04:33"
-    },
-    {
       "Master_Incident_Number": "121225-00481",
       "Online_Description": "DIRECTED PATROL",
       "Address": "HAMDEN DR / FIFTH ST",
       "Response_Date": "2025-12-12T18:09:57"
     },
     {
-      "Master_Incident_Number": "121225-00482",
-      "Online_Description": "911 HANG-UP",
-      "Address": "1200 BLOCK DOUGLAS AVE",
-      "Response_Date": "2025-12-12T18:12:09"
+      "Master_Incident_Number": "121225-00485",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "-500 BLOCK 989 GULF BLVD",
+      "Response_Date": "2025-12-12T18:24:07"
+    },
+    {
+      "Master_Incident_Number": "121225-00488",
+      "Online_Description": "BATTERY",
+      "Address": "1200 BLOCK JEFFORDS ST",
+      "Response_Date": "2025-12-12T18:26:54"
     }
   ],
-  "timestamp": "2025-12-12T23:44:10.508230+00:00",
+  "timestamp": "2025-12-12T23:52:31.681495+00:00",
   "count": 7
 }

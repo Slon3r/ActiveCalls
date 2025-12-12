@@ -1,12 +1,12 @@
 {
-  "total_calls_tracked": 3076,
-  "total_resolved": 3069,
+  "total_calls_tracked": 3078,
+  "total_resolved": 3071,
   "call_types": {
-    "DIRECTED PATROL": 986,
+    "DIRECTED PATROL": 987,
     "TRAFFIC STOP": 449,
     "DRUNK DRIVER": 8,
     "DISTURBANCE": 69,
-    "BATTERY": 25,
+    "BATTERY": 26,
     "CRIMINAL MISCHIEF": 18,
     "ALARM": 40,
     "KEEP THE PEACE": 35,
@@ -1241,7 +1241,7 @@
     "200 BLOCK BRIGHTWATER DR": 1,
     "0 BLOCK TH ST": 2,
     "0 BLOCK 98 CORONADO DR": 2,
-    "-500 BLOCK 989 GULF BLVD": 1,
+    "-500 BLOCK 989 GULF BLVD": 2,
     "500 BLOCK DRUID RD": 1,
     "500 BLOCK GILBERT ST": 2,
     "600 BLOCK DRUID RD W": 1,
@@ -1352,7 +1352,8 @@
     "MANDALAY AVE / PAPAYA ST": 1,
     "300 BLOCK PENNSYLVANIA AVE": 1,
     "-2100 BLOCK 2158 GULF TO BAY BLVD": 1,
-    "HAMDEN DR / FIFTH ST": 1
+    "HAMDEN DR / FIFTH ST": 1,
+    "1200 BLOCK JEFFORDS ST": 1
   },
   "hourly_distribution": {
     "0": 106,
@@ -1373,7 +1374,7 @@
     "15": 211,
     "16": 205,
     "17": 200,
-    "18": 151,
+    "18": 153,
     "19": 51,
     "20": 52,
     "21": 66,
@@ -1381,7 +1382,7 @@
     "23": 92
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-12T23:44:10.513246+00:00",
+  "last_updated": "2025-12-12T23:52:31.686518+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 1011
+  "total_snapshots": 1012
 }
