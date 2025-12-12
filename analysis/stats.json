@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 2899,
-  "total_resolved": 2897,
+  "total_calls_tracked": 2901,
+  "total_resolved": 2898,
   "call_types": {
-    "DIRECTED PATROL": 932,
+    "DIRECTED PATROL": 934,
     "TRAFFIC STOP": 419,
     "DRUNK DRIVER": 8,
     "DISTURBANCE": 68,
@@ -81,7 +81,7 @@
     "1900 BLOCK UNION ST": 3,
     "200 BLOCK DREW ST": 10,
     "-800 BLOCK 819 NARCISSUS AVE": 2,
-    "0 BLOCK ISLAND WAY": 8,
+    "0 BLOCK ISLAND WAY": 9,
     "US HIGHWAY 19 N / SR 580": 3,
     "400 BLOCK S GULFVIEW BLVD": 8,
     "100 BLOCK S MYRTLE AVE": 3,
@@ -1098,7 +1098,7 @@
     "1100 BLOCK MARSHALL ST": 2,
     "200 BLOCK S OSCEOLA AVE": 1,
     "600 BLOCK ERMINE ST": 1,
-    "-800 BLOCK 818 NARCISSUS AVE": 1,
+    "-800 BLOCK 818 NARCISSUS AVE": 2,
     "0 BLOCK 99 ISLAND WAY": 1,
     "800 BLOCK S GULFVIEW BLVD": 1,
     "UNION ST / DOUGLAS AVE": 1,
@@ -1309,7 +1309,7 @@
     "2": 62,
     "3": 47,
     "4": 30,
-    "5": 74,
+    "5": 76,
     "6": 94,
     "7": 70,
     "8": 157,
@@ -1330,7 +1330,7 @@
     "23": 92
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-12T10:55:01.130824+00:00",
+  "last_updated": "2025-12-12T11:14:18.051162+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 966
+  "total_snapshots": 967
 }

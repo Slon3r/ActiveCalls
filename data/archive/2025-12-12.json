@@ -726,6 +726,30 @@
           "Response_Date": "2025-12-12T05:25:05"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-12T11:14:18.049127+00:00",
+      "call_count": 3,
+      "calls": [
+        {
+          "Master_Incident_Number": "121225-00088",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "200 BLOCK DREW ST",
+          "Response_Date": "2025-12-12T05:11:37"
+        },
+        {
+          "Master_Incident_Number": "121225-00100",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "-800 BLOCK 818 NARCISSUS AVE",
+          "Response_Date": "2025-12-12T05:39:05"
+        },
+        {
+          "Master_Incident_Number": "121225-00101",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "0 BLOCK ISLAND WAY",
+          "Response_Date": "2025-12-12T05:41:08"
+        }
+      ]
     }
   ]
 }
