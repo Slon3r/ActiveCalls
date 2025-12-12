@@ -13,18 +13,6 @@
       "Response_Date": "2025-12-12T07:47:10"
     },
     {
-      "Master_Incident_Number": "121225-00153",
-      "Online_Description": "WELFARE CHECK",
-      "Address": "OLD COACHMAN RD",
-      "Response_Date": "2025-12-12T08:00:56"
-    },
-    {
-      "Master_Incident_Number": "121225-00169",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "1400 BLOCK GULF TO BAY BLVD",
-      "Response_Date": "2025-12-12T08:35:13"
-    },
-    {
       "Master_Incident_Number": "121225-00177",
       "Online_Description": "DIRECTED PATROL",
       "Address": "900 BLOCK S FORT HARRISON AVE",
@@ -43,30 +31,36 @@
       "Response_Date": "2025-12-12T08:44:12"
     },
     {
-      "Master_Incident_Number": "121225-00183",
+      "Master_Incident_Number": "121225-00192",
+      "Online_Description": "PARK WALK AND TALK",
+      "Address": "900 BLOCK S FORT HARRISON AVE",
+      "Response_Date": "2025-12-12T09:00:51"
+    },
+    {
+      "Master_Incident_Number": "121225-00198",
       "Online_Description": "DIRECTED PATROL",
-      "Address": "-1900 BLOCK 1998 SUN TREE BLVD",
-      "Response_Date": "2025-12-12T08:48:35"
+      "Address": "21400 BLOCK US HIGHWAY 19 N",
+      "Response_Date": "2025-12-12T09:08:43"
     },
     {
-      "Master_Incident_Number": "121225-00184",
-      "Online_Description": "TRAFFIC STOP",
-      "Address": "26200 BLOCK US HIGHWAY 19 N",
-      "Response_Date": "2025-12-12T08:49:40"
+      "Master_Incident_Number": "121225-00201",
+      "Online_Description": "JUVENILE CASE",
+      "Address": "1900 BLOCK GULF TO BAY BLVD",
+      "Response_Date": "2025-12-12T09:12:38"
     },
     {
-      "Master_Incident_Number": "121225-00188",
-      "Online_Description": "TRAFFIC STOP",
-      "Address": "OLD COACHMAN RD / DREW ST",
-      "Response_Date": "2025-12-12T08:57:47"
+      "Master_Incident_Number": "121225-00202",
+      "Online_Description": "TRESPASS",
+      "Address": "2100 BLOCK GULF TO BAY BLVD",
+      "Response_Date": "2025-12-12T09:13:36"
     },
     {
-      "Master_Incident_Number": "121225-00189",
+      "Master_Incident_Number": "121225-00204",
       "Online_Description": "TRAFFIC STOP",
-      "Address": "26300 BLOCK US HIGHWAY 19 N",
-      "Response_Date": "2025-12-12T08:58:47"
+      "Address": "MEMORIAL CSWY / ISLAND WAY",
+      "Response_Date": "2025-12-12T09:16:37"
     }
   ],
-  "timestamp": "2025-12-12T14:20:22.154482+00:00",
-  "count": 11
+  "timestamp": "2025-12-12T14:37:44.985444+00:00",
+  "count": 10
 }
