@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 2845,
-  "total_resolved": 2838,
+  "total_calls_tracked": 2850,
+  "total_resolved": 2844,
   "call_types": {
-    "DIRECTED PATROL": 910,
+    "DIRECTED PATROL": 912,
     "TRAFFIC STOP": 410,
     "DRUNK DRIVER": 8,
     "DISTURBANCE": 65,
@@ -11,13 +11,13 @@
     "ALARM": 38,
     "KEEP THE PEACE": 33,
     "WELFARE CHECK": 66,
-    "PARK WALK AND TALK": 253,
-    "SUSPICIOUS PERSON": 111,
+    "PARK WALK AND TALK": 254,
+    "SUSPICIOUS PERSON": 112,
     "TRESPASS": 60,
     "PROPERTY FOUND/LOST": 23,
     "THEFT": 44,
     "NEIGHBOR CALL": 14,
-    "911 HANG-UP": 101,
+    "911 HANG-UP": 102,
     "SUSPICIOUS VEHICLE": 21,
     "PANHANDLER/SOLICITOR": 5,
     "VEHICLE ILLEGALLY PARKED": 6,
@@ -154,7 +154,7 @@
     "1100 BLOCK COURT ST": 4,
     "-1300 BLOCK BLK ADMIRAL WOODSON LN": 1,
     "19300 BLOCK US HIGHWAY 19 N": 2,
-    "600 BLOCK PIERCE ST": 28,
+    "600 BLOCK PIERCE ST": 29,
     "0 BLOCK 99 THIRD ST": 7,
     "0 BLOCK 98 THIRD ST": 5,
     "100 BLOCK HAMPTON RD": 6,
@@ -502,7 +502,7 @@
     "700 BLOCK DREW ST": 2,
     "0 BLOCK 98 N MYRTLE AVE": 1,
     "2000 BLOCK GULF TO BAY BLVD": 8,
-    "-3100 BLOCK 3195 SANDY RIDGE DR": 4,
+    "-3100 BLOCK 3195 SANDY RIDGE DR": 5,
     "COURT ST / S HILLCREST AVE ": 1,
     "700 BLOCK BRUCE AVE": 1,
     "1500 BLOCK SADLON AVE": 1,
@@ -879,7 +879,7 @@
     "900 BLOCK S FORT HARRISON AVE": 1,
     "ENTERPRISE RD E / SPLITWOOD WAY": 1,
     "1400 BLOCK N MYRTLE AVE": 1,
-    "SUNSET POINT RD / N HIGHLAND AVE": 1,
+    "SUNSET POINT RD / N HIGHLAND AVE": 2,
     "700 BLOCK PENNSYLVANIA AVE": 1,
     "300 BLOCK TURNER ST": 1,
     "1700 BLOCK APACHE TRL": 1,
@@ -1280,7 +1280,9 @@
     "2600 BLOCK TEAKWOOD DR": 1,
     "COUNTRYSIDE BLVD / OAK NECK RD": 1,
     "-900 BLOCK 999 S MISSOURI AVE": 1,
-    "N BETTY LN / JACKSON RD": 1
+    "N BETTY LN / JACKSON RD": 1,
+    "N MARTIN LUTHER KING JR AVE / LA SALLE ST": 1,
+    "-100 BLOCK 178 N BELCHER RD": 1
   },
   "hourly_distribution": {
     "0": 93,
@@ -1305,11 +1307,11 @@
     "19": 51,
     "20": 52,
     "21": 66,
-    "22": 120,
+    "22": 125,
     "23": 81
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-12T03:48:42.745128+00:00",
+  "last_updated": "2025-12-12T04:22:18.934690+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 947
+  "total_snapshots": 948
 }
