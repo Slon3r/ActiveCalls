@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 2946,
-  "total_resolved": 2940,
+  "total_calls_tracked": 2951,
+  "total_resolved": 2943,
   "call_types": {
-    "DIRECTED PATROL": 953,
-    "TRAFFIC STOP": 428,
+    "DIRECTED PATROL": 954,
+    "TRAFFIC STOP": 429,
     "DRUNK DRIVER": 8,
     "DISTURBANCE": 68,
     "BATTERY": 23,
@@ -22,9 +22,9 @@
     "PANHANDLER/SOLICITOR": 5,
     "VEHICLE ILLEGALLY PARKED": 6,
     "SUSPICIOUS EVENT": 57,
-    "TRAFFIC CRASH": 129,
+    "TRAFFIC CRASH": 131,
     "DISABLED VEHICLE": 22,
-    "ASSIST CITIZEN": 74,
+    "ASSIST CITIZEN": 75,
     "ASSIST OTHER AGENCY": 63,
     "FIRE": 3,
     "FRAUD": 16,
@@ -113,7 +113,7 @@
     "1900 BLOCK N BELCHER RD": 3,
     "20100 BLOCK US HIGHWAY 19 N": 1,
     "CLEVELAND ST / N MAIN AVE": 1,
-    "S MISSOURI AVE / KINGSLEY ST": 2,
+    "S MISSOURI AVE / KINGSLEY ST": 3,
     "2200 BLOCK GULF TO BAY BLVD": 9,
     "CLEVELAND ST/S MADISON AVE": 2,
     "2700 BLOCK GULF TO BAY BLVD": 23,
@@ -426,7 +426,7 @@
     "US HIGHWAY 19 N / NURSERY RD": 4,
     "18900 BLOCK US HIGHWAY 19 N": 2,
     "400 BLOCK BAY AVE": 3,
-    "GULF TO BAY BLVD / US HIGHWAY 19 N": 8,
+    "GULF TO BAY BLVD / US HIGHWAY 19 N": 9,
     "1400 BLOCK GULF BLVD": 8,
     "900 BLOCK NARCISSUS AVE": 1,
     "GARDEN AVE/ CLEVELAND ST": 1,
@@ -1313,7 +1313,10 @@
     "DREW ST / NE COACHMAN RD": 1,
     "1300 BLOCK SPRINGDALE ST": 1,
     "-1900 BLOCK 1998 SUN TREE BLVD": 1,
-    "1800 BLOCK RIDGEWAY DR": 1
+    "1800 BLOCK RIDGEWAY DR": 1,
+    "800 BLOCK TURNER ST": 1,
+    "24600 BLOCK US HIGHWAY 19 N": 1,
+    "GULF TO BAY BLVD / S KEYSTONE AVE": 1
   },
   "hourly_distribution": {
     "0": 106,
@@ -1325,7 +1328,7 @@
     "6": 102,
     "7": 74,
     "8": 177,
-    "9": 195,
+    "9": 200,
     "10": 179,
     "11": 170,
     "12": 166,
@@ -1342,7 +1345,7 @@
     "23": 92
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-12T14:56:17.297651+00:00",
+  "last_updated": "2025-12-12T15:19:27.018557+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 978
+  "total_snapshots": 979
 }

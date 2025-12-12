@@ -19,24 +19,36 @@
       "Response_Date": "2025-12-12T09:13:36"
     },
     {
-      "Master_Incident_Number": "121225-00207",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "CLEVELAND ST / S MADISON AVE",
-      "Response_Date": "2025-12-12T09:18:50"
+      "Master_Incident_Number": "121225-00214",
+      "Online_Description": "ASSIST CITIZEN",
+      "Address": "800 BLOCK TURNER ST",
+      "Response_Date": "2025-12-12T09:24:43"
     },
     {
-      "Master_Incident_Number": "121225-00209",
-      "Online_Description": "911 HANG-UP",
-      "Address": "1800 BLOCK GULF TO BAY BLVD",
-      "Response_Date": "2025-12-12T09:24:19"
+      "Master_Incident_Number": "121225-00218",
+      "Online_Description": "TRAFFIC CRASH",
+      "Address": "24600 BLOCK US HIGHWAY 19 N",
+      "Response_Date": "2025-12-12T09:36:30"
     },
     {
-      "Master_Incident_Number": "121225-00216",
+      "Master_Incident_Number": "121225-00220",
+      "Online_Description": "TRAFFIC CRASH",
+      "Address": "S MISSOURI AVE / KINGSLEY ST",
+      "Response_Date": "2025-12-12T09:44:30"
+    },
+    {
+      "Master_Incident_Number": "121225-00222",
       "Online_Description": "TRAFFIC STOP",
-      "Address": "ISLAND WAY / MEMORIAL CSWY",
-      "Response_Date": "2025-12-12T09:34:28"
+      "Address": "GULF TO BAY BLVD / S KEYSTONE AVE",
+      "Response_Date": "2025-12-12T09:51:18"
+    },
+    {
+      "Master_Incident_Number": "121225-00224",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "GULF TO BAY BLVD / US HIGHWAY 19 N",
+      "Response_Date": "2025-12-12T09:52:10"
     }
   ],
-  "timestamp": "2025-12-12T14:56:17.294829+00:00",
-  "count": 6
+  "timestamp": "2025-12-12T15:19:27.015785+00:00",
+  "count": 8
 }
