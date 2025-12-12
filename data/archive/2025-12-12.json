@@ -1506,6 +1506,90 @@
           "Response_Date": "2025-12-12T10:39:44"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-12T16:36:19.013107+00:00",
+      "call_count": 13,
+      "calls": [
+        {
+          "Master_Incident_Number": "121225-00211",
+          "Online_Description": "BATTERY",
+          "Address": "2000 BLOCK CHARTER OAKS DR",
+          "Response_Date": "2025-12-12T09:26:16"
+        },
+        {
+          "Master_Incident_Number": "121225-00218",
+          "Online_Description": "TRAFFIC CRASH",
+          "Address": "24600 BLOCK US HIGHWAY 19 N",
+          "Response_Date": "2025-12-12T09:36:30"
+        },
+        {
+          "Master_Incident_Number": "121225-00238",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "1300 BLOCK S BELCHER RD",
+          "Response_Date": "2025-12-12T10:16:06"
+        },
+        {
+          "Master_Incident_Number": "121225-00244",
+          "Online_Description": "CHILD ABUSE",
+          "Address": "1600 BLOCK N MADISON AVE",
+          "Response_Date": "2025-12-12T10:18:31"
+        },
+        {
+          "Master_Incident_Number": "121225-00243",
+          "Online_Description": "TRAFFIC CRASH",
+          "Address": "2100 BLOCK GULF TO BAY BLVD",
+          "Response_Date": "2025-12-12T10:22:16"
+        },
+        {
+          "Master_Incident_Number": "121225-00249",
+          "Online_Description": "PARK WALK AND TALK",
+          "Address": "1100 BLOCK N MARTIN LUTHER KING JR AVE",
+          "Response_Date": "2025-12-12T10:30:53"
+        },
+        {
+          "Master_Incident_Number": "121225-00253",
+          "Online_Description": "ASSAULT",
+          "Address": "2000 BLOCK PALMETTO ST",
+          "Response_Date": "2025-12-12T10:41:04"
+        },
+        {
+          "Master_Incident_Number": "121225-00257",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "400 BLOCK TURNER ST",
+          "Response_Date": "2025-12-12T10:52:44"
+        },
+        {
+          "Master_Incident_Number": "121225-00258",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "GULF TO BAY BLVD / MCMULLEN BOOTH RD S SERVICE RD",
+          "Response_Date": "2025-12-12T10:56:51"
+        },
+        {
+          "Master_Incident_Number": "121225-00261",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "-700 BLOCK 798 GROVE ST",
+          "Response_Date": "2025-12-12T11:06:11"
+        },
+        {
+          "Master_Incident_Number": "121225-00264",
+          "Online_Description": "PARK WALK AND TALK",
+          "Address": "-500 BLOCK BLK CLEVELAND ST",
+          "Response_Date": "2025-12-12T11:10:12"
+        },
+        {
+          "Master_Incident_Number": "121225-00265",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "2500 BLOCK COUNTRYSIDE BLVD",
+          "Response_Date": "2025-12-12T11:11:13"
+        },
+        {
+          "Master_Incident_Number": "121225-00267",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "1400 BLOCK LAURA ST",
+          "Response_Date": "2025-12-12T11:15:04"
+        }
+      ]
     }
   ]
 }
