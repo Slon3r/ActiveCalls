@@ -7,12 +7,6 @@
       "Response_Date": "2025-12-12T15:25:57"
     },
     {
-      "Master_Incident_Number": "121225-00409",
-      "Online_Description": "HIT & RUN",
-      "Address": "S FORT HARRISON AVE / TURNER ST",
-      "Response_Date": "2025-12-12T16:04:05"
-    },
-    {
       "Master_Incident_Number": "121225-00413",
       "Online_Description": "THEFT",
       "Address": "2000 BLOCK ALPINE RD",
@@ -43,18 +37,30 @@
       "Response_Date": "2025-12-12T17:25:34"
     },
     {
-      "Master_Incident_Number": "121225-00459",
-      "Online_Description": "PANHANDLER/SOLICITOR",
-      "Address": "2600 BLOCK GULF TO BAY BLVD",
-      "Response_Date": "2025-12-12T17:31:26"
+      "Master_Incident_Number": "121225-00462",
+      "Online_Description": "MISSING PERSON",
+      "Address": "GULF TO BAY BLVD / S BELCHER RD",
+      "Response_Date": "2025-12-12T17:34:38"
     },
     {
-      "Master_Incident_Number": "121225-00468",
+      "Master_Incident_Number": "121225-00479",
+      "Online_Description": "WELFARE CHECK",
+      "Address": "1200 BLOCK S HIGHLAND AVE",
+      "Response_Date": "2025-12-12T18:04:33"
+    },
+    {
+      "Master_Incident_Number": "121225-00478",
       "Online_Description": "DIRECTED PATROL",
-      "Address": "-2100 BLOCK 2158 GULF TO BAY BLVD",
-      "Response_Date": "2025-12-12T17:53:37"
+      "Address": "-1100 BLOCK 1582 GULF BLVD",
+      "Response_Date": "2025-12-12T18:08:46"
+    },
+    {
+      "Master_Incident_Number": "121225-00481",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "HAMDEN DR / FIFTH ST",
+      "Response_Date": "2025-12-12T18:09:57"
     }
   ],
-  "timestamp": "2025-12-12T23:19:16.671725+00:00",
-  "count": 9
+  "timestamp": "2025-12-12T23:33:32.027696+00:00",
+  "count": 10
 }

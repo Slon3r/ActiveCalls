@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 3071,
-  "total_resolved": 3062,
+  "total_calls_tracked": 3075,
+  "total_resolved": 3065,
   "call_types": {
-    "DIRECTED PATROL": 984,
+    "DIRECTED PATROL": 986,
     "TRAFFIC STOP": 449,
     "DRUNK DRIVER": 8,
     "DISTURBANCE": 69,
@@ -10,7 +10,7 @@
     "CRIMINAL MISCHIEF": 18,
     "ALARM": 40,
     "KEEP THE PEACE": 35,
-    "WELFARE CHECK": 71,
+    "WELFARE CHECK": 72,
     "PARK WALK AND TALK": 270,
     "SUSPICIOUS PERSON": 119,
     "TRESPASS": 62,
@@ -36,7 +36,7 @@
     "CIVIL MATTER": 15,
     "DOMESTIC": 22,
     "ANIMAL CASE": 19,
-    "MISSING PERSON": 29,
+    "MISSING PERSON": 30,
     "BUILDING CHECK": 8,
     "SHOPLIFTING": 13,
     "DECEASED PERSON": 3,
@@ -67,7 +67,7 @@
   },
   "addresses": {
     "MEMORIAL CSWY / ISLAND WAY": 33,
-    "GULF TO BAY BLVD / S BELCHER RD": 6,
+    "GULF TO BAY BLVD / S BELCHER RD": 7,
     "1900 BLOCK N BETTY LN": 1,
     "1400 BLOCK CLEVELAND ST": 2,
     "1000 BLOCK WEST AVE": 2,
@@ -132,7 +132,7 @@
     "1600 BLOCK N MCMULLEN BOOTH RD": 1,
     "1200 BLOCK DREW ST": 3,
     "2400 BLOCK DREW ST": 7,
-    "-1100 BLOCK 1582 GULF BLVD": 5,
+    "-1100 BLOCK 1582 GULF BLVD": 6,
     "3300 BLOCK COURTNEY CAMPBELL CSWY": 13,
     "1200 BLOCK COURT ST": 5,
     "1400 BLOCK OWEN DR": 1,
@@ -320,7 +320,7 @@
     "DREW ST / PINEWOOD AVE": 1,
     "2800 BLOCK GULF TO BAY BLVD": 8,
     "19100 BLOCK US HIGHWAY 19 N": 3,
-    "1200 BLOCK S HIGHLAND AVE": 13,
+    "1200 BLOCK S HIGHLAND AVE": 14,
     "1200 BLOCK TURNER ST": 3,
     "THIRD ST / CORONADO DR": 1,
     "900 BLOCK N MCMULLEN BOOTH RD": 1,
@@ -1351,7 +1351,8 @@
     "1200 BLOCK OTIS C GREEN DR": 1,
     "MANDALAY AVE / PAPAYA ST": 1,
     "300 BLOCK PENNSYLVANIA AVE": 1,
-    "-2100 BLOCK 2158 GULF TO BAY BLVD": 1
+    "-2100 BLOCK 2158 GULF TO BAY BLVD": 1,
+    "HAMDEN DR / FIFTH ST": 1
   },
   "hourly_distribution": {
     "0": 106,
@@ -1371,8 +1372,8 @@
     "14": 203,
     "15": 211,
     "16": 205,
-    "17": 199,
-    "18": 147,
+    "17": 200,
+    "18": 150,
     "19": 51,
     "20": 52,
     "21": 66,
@@ -1380,7 +1381,7 @@
     "23": 92
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-12T23:19:16.676531+00:00",
+  "last_updated": "2025-12-12T23:33:32.032698+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 1009
+  "total_snapshots": 1010
 }
