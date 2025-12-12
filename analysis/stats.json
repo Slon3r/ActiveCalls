@@ -1,6 +1,6 @@
 {
-  "total_calls_tracked": 2962,
-  "total_resolved": 2950,
+  "total_calls_tracked": 2963,
+  "total_resolved": 2953,
   "call_types": {
     "DIRECTED PATROL": 957,
     "TRAFFIC STOP": 429,
@@ -25,7 +25,7 @@
     "TRAFFIC CRASH": 132,
     "DISABLED VEHICLE": 22,
     "ASSIST CITIZEN": 75,
-    "ASSIST OTHER AGENCY": 63,
+    "ASSIST OTHER AGENCY": 64,
     "FIRE": 3,
     "FRAUD": 16,
     "RECKLESS VEHICLE": 9,
@@ -127,7 +127,7 @@
     "27000 BLOCK US HIGHWAY 19 N": 32,
     "DRIVEWAY PARKING": 2,
     "1100 BLOCK GULF BLVD": 6,
-    "2500 BLOCK GULF TO BAY BLVD": 12,
+    "2500 BLOCK GULF TO BAY BLVD": 13,
     "1600 BLOCK N MCMULLEN BOOTH RD": 1,
     "1200 BLOCK DREW ST": 3,
     "2400 BLOCK DREW ST": 6,
@@ -1333,7 +1333,7 @@
     "7": 74,
     "8": 177,
     "9": 202,
-    "10": 188,
+    "10": 189,
     "11": 170,
     "12": 166,
     "13": 166,
@@ -1349,7 +1349,7 @@
     "23": 92
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-12T15:52:42.958640+00:00",
+  "last_updated": "2025-12-12T16:01:40.323552+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 981
+  "total_snapshots": 982
 }

@@ -25,34 +25,16 @@
       "Response_Date": "2025-12-12T09:58:41"
     },
     {
-      "Master_Incident_Number": "121225-00235",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "200 BLOCK LARBOARD WAY",
-      "Response_Date": "2025-12-12T10:13:01"
-    },
-    {
       "Master_Incident_Number": "121225-00238",
       "Online_Description": "DIRECTED PATROL",
       "Address": "1300 BLOCK S BELCHER RD",
       "Response_Date": "2025-12-12T10:16:06"
     },
     {
-      "Master_Incident_Number": "121225-00239",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "BRIGHTWATER DR / HAMDEN DR",
-      "Response_Date": "2025-12-12T10:17:29"
-    },
-    {
       "Master_Incident_Number": "121225-00244",
       "Online_Description": "CHILD ABUSE",
       "Address": "1600 BLOCK N MADISON AVE",
       "Response_Date": "2025-12-12T10:18:31"
-    },
-    {
-      "Master_Incident_Number": "121225-00240",
-      "Online_Description": "SUSPICIOUS VEHICLE",
-      "Address": "26900 BLOCK US HIGHWAY 19 N",
-      "Response_Date": "2025-12-12T10:19:33"
     },
     {
       "Master_Incident_Number": "121225-00243",
@@ -71,8 +53,14 @@
       "Online_Description": "PARK WALK AND TALK",
       "Address": "1100 BLOCK N MARTIN LUTHER KING JR AVE",
       "Response_Date": "2025-12-12T10:30:53"
+    },
+    {
+      "Master_Incident_Number": "121225-00250",
+      "Online_Description": "ASSIST OTHER AGENCY",
+      "Address": "2500 BLOCK GULF TO BAY BLVD",
+      "Response_Date": "2025-12-12T10:39:44"
     }
   ],
-  "timestamp": "2025-12-12T15:52:42.954288+00:00",
-  "count": 12
+  "timestamp": "2025-12-12T16:01:40.320781+00:00",
+  "count": 10
 }
