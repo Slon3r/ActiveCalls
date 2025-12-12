@@ -1,12 +1,12 @@
 {
-  "total_calls_tracked": 3051,
-  "total_resolved": 3043,
+  "total_calls_tracked": 3055,
+  "total_resolved": 3047,
   "call_types": {
     "DIRECTED PATROL": 982,
     "TRAFFIC STOP": 445,
     "DRUNK DRIVER": 8,
     "DISTURBANCE": 69,
-    "BATTERY": 24,
+    "BATTERY": 25,
     "CRIMINAL MISCHIEF": 18,
     "ALARM": 40,
     "KEEP THE PEACE": 35,
@@ -21,7 +21,7 @@
     "SUSPICIOUS VEHICLE": 23,
     "PANHANDLER/SOLICITOR": 5,
     "VEHICLE ILLEGALLY PARKED": 6,
-    "SUSPICIOUS EVENT": 58,
+    "SUSPICIOUS EVENT": 60,
     "TRAFFIC CRASH": 138,
     "DISABLED VEHICLE": 23,
     "ASSIST CITIZEN": 78,
@@ -36,7 +36,7 @@
     "CIVIL MATTER": 15,
     "DOMESTIC": 22,
     "ANIMAL CASE": 19,
-    "MISSING PERSON": 28,
+    "MISSING PERSON": 29,
     "BUILDING CHECK": 8,
     "SHOPLIFTING": 13,
     "DECEASED PERSON": 3,
@@ -88,7 +88,7 @@
     "100 BLOCK S MYRTLE AVE": 3,
     "0 BLOCK CAUSEWAY BLVD": 24,
     "400 BLOCK FAIRWOOD AVE": 4,
-    "500 BLOCK S FORT HARRISON AVE": 12,
+    "500 BLOCK S FORT HARRISON AVE": 13,
     "26000 BLOCK US HIGHWAY 19 N": 7,
     "1300 BLOCK S BELCHER RD": 19,
     "200 BLOCK WINDWARD PSGE": 4,
@@ -706,7 +706,7 @@
     "2300 BLOCK DRUID RD": 3,
     "BAY ESPLANADE / MANDALAY AVE": 1,
     "ALLEN AVE / MCMULLEN BOOTH RD": 1,
-    "1700 BLOCK W MANOR AVE": 2,
+    "1700 BLOCK W MANOR AVE": 3,
     "S MARTIN LUTHER KING JR AVE / TURNER ST": 1,
     "100 BLOCK DEVON DR": 1,
     "MEADOW WOOD DR / COUNTRYSIDE BLVD": 1,
@@ -1346,7 +1346,9 @@
     "ENTERPRISE RD E / FRISCO DR": 1,
     "900 BLOCK CLEVELAND ST": 1,
     "1900 BLOCK EDGEWATER DR": 1,
-    "S BELCHER RD / HARN BLVD": 1
+    "S BELCHER RD / HARN BLVD": 1,
+    "900 BLOCK S MISSOURI AVE": 1,
+    "1200 BLOCK OTIS C GREEN DR": 1
   },
   "hourly_distribution": {
     "0": 106,
@@ -1365,7 +1367,7 @@
     "13": 186,
     "14": 203,
     "15": 211,
-    "16": 198,
+    "16": 202,
     "17": 186,
     "18": 147,
     "19": 51,
@@ -1375,7 +1377,7 @@
     "23": 92
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-12T21:56:41.203781+00:00",
+  "last_updated": "2025-12-12T22:17:58.447022+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 1004
+  "total_snapshots": 1005
 }
