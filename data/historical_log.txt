@@ -13900,3 +13900,15 @@ TOTAL ACTIVE CALLS: 3
 
 --- RESOLVED CALLS (1) ---
 [RESOLVED] 121225-00036 | DIRECTED PATROL | S LINCOLN AVE / JEFFORDS ST | Response: 01:00 AM
+
+================================================================================
+TIMESTAMP: 2025-12-12T08:28:28.931183+00:00
+TOTAL ACTIVE CALLS: 2
+================================================================================
+
+--- NEW CALLS (1) ---
+[NEW] 121225-00067 | DIRECTED PATROL | 1600 BLOCK GULF TO BAY BLVD | Response: 02:58 AM
+
+--- RESOLVED CALLS (2) ---
+[RESOLVED] 121225-00057 | SUSPICIOUS VEHICLE | 2100 BLOCK GULF TO BAY BLVD | Response: 02:09 AM
+[RESOLVED] 121225-00059 | DIRECTED PATROL | 0 BLOCK SOMERSET ST | Response: 02:32 AM
