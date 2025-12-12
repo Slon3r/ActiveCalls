@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 2871,
-  "total_resolved": 2864,
+  "total_calls_tracked": 2877,
+  "total_resolved": 2871,
   "call_types": {
-    "DIRECTED PATROL": 919,
-    "TRAFFIC STOP": 415,
+    "DIRECTED PATROL": 922,
+    "TRAFFIC STOP": 416,
     "DRUNK DRIVER": 8,
     "DISTURBANCE": 66,
     "BATTERY": 23,
@@ -11,7 +11,7 @@
     "ALARM": 39,
     "KEEP THE PEACE": 33,
     "WELFARE CHECK": 66,
-    "PARK WALK AND TALK": 256,
+    "PARK WALK AND TALK": 258,
     "SUSPICIOUS PERSON": 113,
     "TRESPASS": 60,
     "PROPERTY FOUND/LOST": 23,
@@ -147,7 +147,7 @@
     "GULF TO BAY BLVD / THORTON RD": 1,
     "COUNTRYSIDE BLVD / ENDICOTT CT": 4,
     "3000 BLOCK DREW ST": 4,
-    "2400 BLOCK COUNTRYSIDE BLVD": 10,
+    "2400 BLOCK COUNTRYSIDE BLVD": 11,
     "1200 BLOCK S MISSOURI AVE": 12,
     "2000 BLOCK N HIGHLAND AVE": 12,
     "N DUNCAN AVE / DREW ST": 1,
@@ -446,7 +446,7 @@
     "1000 BLOCK VINE AVE": 1,
     "2200 BLOCK MORNINGSIDE DR": 2,
     "400 BLOCK S MARTIN LUTHER KING JR AVE": 1,
-    "600 BLOCK BAYWAY BLVD": 5,
+    "600 BLOCK BAYWAY BLVD": 6,
     "1600 BLOCK N BELCHER RD": 3,
     "-1100 BLOCK 1148 PIERCE ST": 1,
     "FERNWOOD AVE / GULF TO BAY BLVD": 2,
@@ -1234,7 +1234,7 @@
     "DREW ST / ANNA AVE": 1,
     "S MISSOURI AVE/CLEVELAND ST": 1,
     "2400 BLOCK DRUID RD": 1,
-    "LAKE SHORE DR / FOURTH AVE S": 1,
+    "LAKE SHORE DR / FOURTH AVE S": 2,
     "N MARTIN LUTHER KING JR AVE / CARLTON ST": 1,
     "1200 BLOCK BELLEAIR RD": 1,
     "200 BLOCK BRIGHTWATER DR": 1,
@@ -1290,11 +1290,14 @@
     "600 BLOCK OAK AVE": 1,
     "N HIGHLAND AVE / OTTEN ST": 1,
     "-1000 BLOCK 1004 PALM TERRACE DR": 1,
-    "-1700 BLOCK 1748 S MISSOURI AVE": 1
+    "-1700 BLOCK 1748 S MISSOURI AVE": 1,
+    "S SATURN AVE / GULF TO BAY BLVD": 1,
+    "S LINCOLN AVE / JEFFORDS ST": 1,
+    "CLEVELAND ST / FORT HARRISON AVE": 1
   },
   "hourly_distribution": {
-    "0": 102,
-    "1": 88,
+    "0": 106,
+    "1": 90,
     "2": 56,
     "3": 45,
     "4": 27,
@@ -1319,7 +1322,7 @@
     "23": 92
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-12T05:55:52.976433+00:00",
+  "last_updated": "2025-12-12T06:26:28.353313+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 952
+  "total_snapshots": 953
 }

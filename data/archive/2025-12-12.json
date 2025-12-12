@@ -384,6 +384,48 @@
           "Response_Date": "2025-12-12T00:35:00"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-12T06:26:28.351588+00:00",
+      "call_count": 6,
+      "calls": [
+        {
+          "Master_Incident_Number": "121225-00026",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "2400 BLOCK COUNTRYSIDE BLVD",
+          "Response_Date": "2025-12-12T00:38:35"
+        },
+        {
+          "Master_Incident_Number": "121225-00029",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "LAKE SHORE DR / FOURTH AVE S",
+          "Response_Date": "2025-12-12T00:47:21"
+        },
+        {
+          "Master_Incident_Number": "121225-00034",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "S SATURN AVE / GULF TO BAY BLVD",
+          "Response_Date": "2025-12-12T00:54:00"
+        },
+        {
+          "Master_Incident_Number": "121225-00035",
+          "Online_Description": "PARK WALK AND TALK",
+          "Address": "600 BLOCK BAYWAY BLVD",
+          "Response_Date": "2025-12-12T00:57:57"
+        },
+        {
+          "Master_Incident_Number": "121225-00036",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "S LINCOLN AVE / JEFFORDS ST",
+          "Response_Date": "2025-12-12T01:00:31"
+        },
+        {
+          "Master_Incident_Number": "121225-00038",
+          "Online_Description": "PARK WALK AND TALK",
+          "Address": "CLEVELAND ST / FORT HARRISON AVE",
+          "Response_Date": "2025-12-12T01:05:55"
+        }
+      ]
     }
   ]
 }
