@@ -13946,3 +13946,14 @@ TOTAL ACTIVE CALLS: 1
 
 --- RESOLVED CALLS (1) ---
 [RESOLVED] 121225-00075 | DIRECTED PATROL | -600 BLOCK 648 CARLTON ST | Response: 03:50 AM
+
+================================================================================
+TIMESTAMP: 2025-12-12T09:54:15.174352+00:00
+TOTAL ACTIVE CALLS: 1
+================================================================================
+
+--- NEW CALLS (1) ---
+[NEW] 121225-00080 | ASSIST OTHER AGENCY | 100 BLOCK HAMPTON RD | Response: 04:25 AM
+
+--- RESOLVED CALLS (1) ---
+[RESOLVED] 121225-00078 | DISTURBANCE | 400 BLOCK S SATURN AVE | Response: 04:00 AM
