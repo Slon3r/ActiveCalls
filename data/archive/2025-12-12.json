@@ -942,6 +942,84 @@
           "Response_Date": "2025-12-12T08:23:52"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-12T13:57:48.276516+00:00",
+      "call_count": 12,
+      "calls": [
+        {
+          "Master_Incident_Number": "121225-00083",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "200 BLOCK S GLENWOOD AVE",
+          "Response_Date": "2025-12-12T08:25:32.883"
+        },
+        {
+          "Master_Incident_Number": "121225-00151",
+          "Online_Description": "PARK WALK AND TALK",
+          "Address": "1300 BLOCK PARK ST",
+          "Response_Date": "2025-12-12T08:19:28.33"
+        },
+        {
+          "Master_Incident_Number": "121225-00142",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "26000 BLOCK US HIGHWAY 19 N",
+          "Response_Date": "2025-12-12T07:47:10"
+        },
+        {
+          "Master_Incident_Number": "121225-00153",
+          "Online_Description": "WELFARE CHECK",
+          "Address": "OLD COACHMAN RD",
+          "Response_Date": "2025-12-12T08:00:56"
+        },
+        {
+          "Master_Incident_Number": "121225-00162",
+          "Online_Description": "SUSPICIOUS PERSON",
+          "Address": "700 BLOCK S FORT HARRISON AVE",
+          "Response_Date": "2025-12-12T08:26:44"
+        },
+        {
+          "Master_Incident_Number": "121225-00161",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "GROVE ST / N MARTIN LUTHER KING JR AVE",
+          "Response_Date": "2025-12-12T08:27:02"
+        },
+        {
+          "Master_Incident_Number": "121225-00164",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "FLUSHING AVE / HARN BLVD",
+          "Response_Date": "2025-12-12T08:28:17"
+        },
+        {
+          "Master_Incident_Number": "121225-00166",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "26200 BLOCK US HIGHWAY 19 N",
+          "Response_Date": "2025-12-12T08:33:30"
+        },
+        {
+          "Master_Incident_Number": "121225-00167",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "HARN BLVD / FLUSHING AVE",
+          "Response_Date": "2025-12-12T08:33:49"
+        },
+        {
+          "Master_Incident_Number": "121225-00168",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "HARN BLVD / FLUSHING AVE",
+          "Response_Date": "2025-12-12T08:34:56"
+        },
+        {
+          "Master_Incident_Number": "121225-00169",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "1400 BLOCK GULF TO BAY BLVD",
+          "Response_Date": "2025-12-12T08:35:13"
+        },
+        {
+          "Master_Incident_Number": "121225-00170",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "ENTERPRISE RD E / VILLAGE DR",
+          "Response_Date": "2025-12-12T08:35:30"
+        }
+      ]
     }
   ]
 }
