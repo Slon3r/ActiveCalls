@@ -7,34 +7,10 @@
       "Response_Date": "2025-12-12T11:54:13"
     },
     {
-      "Master_Incident_Number": "121225-00298",
-      "Online_Description": "TRAFFIC CRASH",
-      "Address": "2000 BLOCK GULF TO BAY BLVD",
-      "Response_Date": "2025-12-12T12:21:37"
-    },
-    {
-      "Master_Incident_Number": "121225-00305",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "0 BLOCK 99 THIRD ST",
-      "Response_Date": "2025-12-12T12:38:14"
-    },
-    {
-      "Master_Incident_Number": "121225-00308",
-      "Online_Description": "ASSIST OTHER AGENCY",
-      "Address": "1600 BLOCK PINE PL",
-      "Response_Date": "2025-12-12T12:51:22"
-    },
-    {
       "Master_Incident_Number": "121225-00310",
       "Online_Description": "DIRECTED PATROL",
       "Address": "1300 BLOCK S BELCHER RD",
       "Response_Date": "2025-12-12T13:01:13"
-    },
-    {
-      "Master_Incident_Number": "121225-00313",
-      "Online_Description": "OPEN DOOR/WINDOW",
-      "Address": "1300 BLOCK PARK ST",
-      "Response_Date": "2025-12-12T13:08:23"
     },
     {
       "Master_Incident_Number": "121225-00315",
@@ -43,16 +19,22 @@
       "Response_Date": "2025-12-12T13:12:22"
     },
     {
+      "Master_Incident_Number": "121225-00316",
+      "Online_Description": "TRAFFIC CRASH",
+      "Address": "1200 BLOCK S HIGHLAND AVE",
+      "Response_Date": "2025-12-12T13:12:27"
+    },
+    {
       "Master_Incident_Number": "121225-00317",
       "Online_Description": "THEFT",
       "Address": "23900 BLOCK US HIGHWAY 19 N",
       "Response_Date": "2025-12-12T13:14:24"
     },
     {
-      "Master_Incident_Number": "121225-00320",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "0 BLOCK SAND KEY PARKING",
-      "Response_Date": "2025-12-12T13:25:41"
+      "Master_Incident_Number": "121225-00326",
+      "Online_Description": "CIVIL MATTER",
+      "Address": "100 BLOCK S MARTIN LUTHER KING JR AVE",
+      "Response_Date": "2025-12-12T13:27:16"
     },
     {
       "Master_Incident_Number": "121225-00323",
@@ -61,12 +43,54 @@
       "Response_Date": "2025-12-12T13:30:23"
     },
     {
-      "Master_Incident_Number": "121225-00322",
+      "Master_Incident_Number": "121225-00328",
+      "Online_Description": "CHILD PROTECTION INVESTIGATION",
+      "Address": "2000 BLOCK SUNSET MEADOW DR",
+      "Response_Date": "2025-12-12T13:38:08"
+    },
+    {
+      "Master_Incident_Number": "121225-00329",
+      "Online_Description": "TRAFFIC CRASH",
+      "Address": "1400 BLOCK S BELCHER RD",
+      "Response_Date": "2025-12-12T13:40:55"
+    },
+    {
+      "Master_Incident_Number": "121225-00331",
+      "Online_Description": "ROAD RAGE",
+      "Address": "3300 BLOCK COURTNEY CAMPBELL CSWY",
+      "Response_Date": "2025-12-12T13:45:54"
+    },
+    {
+      "Master_Incident_Number": "121225-00330",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "MEMORIAL CSWY",
+      "Response_Date": "2025-12-12T13:45:58"
+    },
+    {
+      "Master_Incident_Number": "121225-00332",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "1000 BLOCK APPLEWOOD DR",
+      "Response_Date": "2025-12-12T13:46:46"
+    },
+    {
+      "Master_Incident_Number": "121225-00333",
       "Online_Description": "TRAFFIC STOP",
-      "Address": "2400 BLOCK DREW ST",
-      "Response_Date": "2025-12-12T13:30:41"
+      "Address": "WINDWARD PSGE / ISLAND WAY",
+      "Response_Date": "2025-12-12T13:50:23"
+    },
+    {
+      "Master_Incident_Number": "121225-00334",
+      "Online_Description": "PARK WALK AND TALK",
+      "Address": "900 BLOCK N MARTIN LUTHER KING JR AVE",
+      "Response_Date": "2025-12-12T13:51:46"
+    },
+    {
+      "Master_Incident_Number": "121225-00336",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "27000 BLOCK US HIGHWAY 19 N",
+      "Response_Date": "2025-12-12T13:54:26"
     }
   ],
-  "timestamp": "2025-12-12T18:56:46.613308+00:00",
-  "count": 11
+  "timestamp": "2025-12-12T19:15:53.812949+00:00",
+  "count": 15
 }
