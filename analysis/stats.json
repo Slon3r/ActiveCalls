@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 2983,
-  "total_resolved": 2973,
+  "total_calls_tracked": 2988,
+  "total_resolved": 2977,
   "call_types": {
-    "DIRECTED PATROL": 965,
-    "TRAFFIC STOP": 430,
+    "DIRECTED PATROL": 966,
+    "TRAFFIC STOP": 431,
     "DRUNK DRIVER": 8,
     "DISTURBANCE": 68,
     "BATTERY": 24,
@@ -11,7 +11,7 @@
     "ALARM": 40,
     "KEEP THE PEACE": 34,
     "WELFARE CHECK": 70,
-    "PARK WALK AND TALK": 265,
+    "PARK WALK AND TALK": 266,
     "SUSPICIOUS PERSON": 117,
     "TRESPASS": 61,
     "PROPERTY FOUND/LOST": 23,
@@ -22,7 +22,7 @@
     "PANHANDLER/SOLICITOR": 5,
     "VEHICLE ILLEGALLY PARKED": 6,
     "SUSPICIOUS EVENT": 57,
-    "TRAFFIC CRASH": 132,
+    "TRAFFIC CRASH": 133,
     "DISABLED VEHICLE": 22,
     "ASSIST CITIZEN": 78,
     "ASSIST OTHER AGENCY": 65,
@@ -35,7 +35,7 @@
     "NOISE COMPLAINT": 13,
     "CIVIL MATTER": 13,
     "DOMESTIC": 21,
-    "ANIMAL CASE": 18,
+    "ANIMAL CASE": 19,
     "MISSING PERSON": 28,
     "BUILDING CHECK": 8,
     "SHOPLIFTING": 13,
@@ -476,7 +476,7 @@
     "COUNTRYSIDE BLVD / US HIGHWAY 19 N": 2,
     "CLEARWATER PASS": 1,
     "1100 BLOCK MANDALAY POINT RD": 1,
-    "THIRD ST / HAMDEN DR": 2,
+    "THIRD ST / HAMDEN DR": 3,
     "PUBLIX": 1,
     "800 BLOCK CHESTNUT ST": 3,
     "1500 BLOCK MURRAY AVE": 2,
@@ -501,7 +501,7 @@
     "-600 BLOCK 804 SNUG IS": 2,
     "700 BLOCK DREW ST": 2,
     "0 BLOCK 98 N MYRTLE AVE": 1,
-    "2000 BLOCK GULF TO BAY BLVD": 8,
+    "2000 BLOCK GULF TO BAY BLVD": 9,
     "-3100 BLOCK 3195 SANDY RIDGE DR": 5,
     "COURT ST / S HILLCREST AVE ": 1,
     "700 BLOCK BRUCE AVE": 1,
@@ -1312,7 +1312,7 @@
     "GROVE ST / N MARTIN LUTHER KING JR AVE": 1,
     "DREW ST / NE COACHMAN RD": 1,
     "1300 BLOCK SPRINGDALE ST": 1,
-    "-1900 BLOCK 1998 SUN TREE BLVD": 1,
+    "-1900 BLOCK 1998 SUN TREE BLVD": 2,
     "1800 BLOCK RIDGEWAY DR": 1,
     "800 BLOCK TURNER ST": 1,
     "24600 BLOCK US HIGHWAY 19 N": 1,
@@ -1323,7 +1323,9 @@
     "1100 BLOCK N MARTIN LUTHER KING JR AVE": 1,
     "-700 BLOCK 798 GROVE ST": 1,
     "100 BLOCK N BETTY LN": 1,
-    "2800 BLOCK PARK TRAIL LN": 1
+    "2800 BLOCK PARK TRAIL LN": 1,
+    "LANDRY AVE / SHELLEY ST": 1,
+    "3400 BLOCK COUNTRYSIDE BLVD": 1
   },
   "hourly_distribution": {
     "0": 106,
@@ -1338,7 +1340,7 @@
     "9": 202,
     "10": 193,
     "11": 181,
-    "12": 171,
+    "12": 176,
     "13": 166,
     "14": 194,
     "15": 194,
@@ -1352,7 +1354,7 @@
     "23": 92
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-12T17:40:53.769173+00:00",
+  "last_updated": "2025-12-12T17:50:58.248191+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 987
+  "total_snapshots": 988
 }
