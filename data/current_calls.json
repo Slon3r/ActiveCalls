@@ -13,12 +13,6 @@
       "Response_Date": "2025-12-12T11:54:13"
     },
     {
-      "Master_Incident_Number": "121225-00315",
-      "Online_Description": "KEEP THE PEACE",
-      "Address": "2600 BLOCK SEVILLE BLVD",
-      "Response_Date": "2025-12-12T13:12:22"
-    },
-    {
       "Master_Incident_Number": "121225-00316",
       "Online_Description": "TRAFFIC CRASH",
       "Address": "1200 BLOCK S HIGHLAND AVE",
@@ -29,12 +23,6 @@
       "Online_Description": "THEFT",
       "Address": "23900 BLOCK US HIGHWAY 19 N",
       "Response_Date": "2025-12-12T13:14:24"
-    },
-    {
-      "Master_Incident_Number": "121225-00326",
-      "Online_Description": "CIVIL MATTER",
-      "Address": "100 BLOCK S MARTIN LUTHER KING JR AVE",
-      "Response_Date": "2025-12-12T13:27:16"
     },
     {
       "Master_Incident_Number": "121225-00323",
@@ -49,12 +37,6 @@
       "Response_Date": "2025-12-12T13:38:08"
     },
     {
-      "Master_Incident_Number": "121225-00330",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "MEMORIAL CSWY",
-      "Response_Date": "2025-12-12T13:45:58"
-    },
-    {
       "Master_Incident_Number": "121225-00338",
       "Online_Description": "HIT & RUN",
       "Address": "24400 BLOCK US HIGHWAY 19 N",
@@ -67,18 +49,12 @@
       "Response_Date": "2025-12-12T14:14:46"
     },
     {
-      "Master_Incident_Number": "121225-00346",
+      "Master_Incident_Number": "121225-00351",
       "Online_Description": "TRAFFIC STOP",
       "Address": "COUNTRYSIDE BLVD / ENDICOTT CT",
-      "Response_Date": "2025-12-12T14:23:50"
-    },
-    {
-      "Master_Incident_Number": "121225-00347",
-      "Online_Description": "DISABLED VEHICLE",
-      "Address": "JEFFORDS ST / HAMLET AVE",
-      "Response_Date": "2025-12-12T14:26:47"
+      "Response_Date": "2025-12-12T14:33:24"
     }
   ],
-  "timestamp": "2025-12-12T19:51:01.923320+00:00",
-  "count": 13
+  "timestamp": "2025-12-12T19:58:51.051191+00:00",
+  "count": 9
 }
