@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 3028,
-  "total_resolved": 3018,
+  "total_calls_tracked": 3032,
+  "total_resolved": 3022,
   "call_types": {
     "DIRECTED PATROL": 977,
-    "TRAFFIC STOP": 437,
+    "TRAFFIC STOP": 440,
     "DRUNK DRIVER": 8,
     "DISTURBANCE": 68,
     "BATTERY": 24,
@@ -22,7 +22,7 @@
     "PANHANDLER/SOLICITOR": 5,
     "VEHICLE ILLEGALLY PARKED": 6,
     "SUSPICIOUS EVENT": 57,
-    "TRAFFIC CRASH": 136,
+    "TRAFFIC CRASH": 137,
     "DISABLED VEHICLE": 23,
     "ASSIST CITIZEN": 78,
     "ASSIST OTHER AGENCY": 66,
@@ -66,7 +66,7 @@
     "ROAD RAGE": 1
   },
   "addresses": {
-    "MEMORIAL CSWY / ISLAND WAY": 31,
+    "MEMORIAL CSWY / ISLAND WAY": 32,
     "GULF TO BAY BLVD / S BELCHER RD": 6,
     "1900 BLOCK N BETTY LN": 1,
     "1400 BLOCK CLEVELAND ST": 2,
@@ -537,7 +537,7 @@
     "N KEENE RD / FLAGLER DR": 3,
     "23200 BLOCK US HIGHWAY 19 N": 6,
     "900 BLOCK COURT ST": 2,
-    "GULF TO BAY BLVD / THORNTON RD": 3,
+    "GULF TO BAY BLVD / THORNTON RD": 4,
     "1100 BLOCK WOODLAWN ST": 3,
     "200 BLOCK S STARCREST DR": 2,
     "3000 BLOCK GULF TO BAY BLVD": 2,
@@ -1339,7 +1339,9 @@
     "JEFFORDS ST / HAMLET AVE": 1,
     "100 BLOCK N MARTIN LUTHER KING JR AVE": 1,
     "1200 BLOCK MELONWOOD AVE": 1,
-    "WOODLAWN ST / S MARTIN LUTHER KING JR AVE": 1
+    "WOODLAWN ST / S MARTIN LUTHER KING JR AVE": 1,
+    "LANDMARK DR / SR 580": 1,
+    "WINDING WOOD DR / COUNTRYSIDE BLVD": 1
   },
   "hourly_distribution": {
     "0": 106,
@@ -1357,7 +1359,7 @@
     "12": 182,
     "13": 186,
     "14": 203,
-    "15": 198,
+    "15": 202,
     "16": 188,
     "17": 186,
     "18": 147,
@@ -1368,7 +1370,7 @@
     "23": 92
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-12T20:27:01.308912+00:00",
+  "last_updated": "2025-12-12T20:43:36.720735+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 997
+  "total_snapshots": 998
 }
