@@ -870,6 +870,36 @@
           "Response_Date": "2025-12-12T06:50:55"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-12T13:07:01.095017+00:00",
+      "call_count": 4,
+      "calls": [
+        {
+          "Master_Incident_Number": "121225-00128",
+          "Online_Description": "THEFT",
+          "Address": "N KEENE RD / FLAGLER DR",
+          "Response_Date": "2025-12-12T06:59:08"
+        },
+        {
+          "Master_Incident_Number": "121225-00132",
+          "Online_Description": "TRAFFIC CONTROL",
+          "Address": "1700 BLOCK N KEENE RD",
+          "Response_Date": "2025-12-12T07:27:00"
+        },
+        {
+          "Master_Incident_Number": "121225-00135",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "600 BLOCK CLEVELAND ST",
+          "Response_Date": "2025-12-12T07:33:04"
+        },
+        {
+          "Master_Incident_Number": "121225-00140",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "3000 BLOCK SR 580",
+          "Response_Date": "2025-12-12T07:45:54"
+        }
+      ]
     }
   ]
 }
