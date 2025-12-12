@@ -1,6 +1,6 @@
 {
-  "total_calls_tracked": 2970,
-  "total_resolved": 2957,
+  "total_calls_tracked": 2974,
+  "total_resolved": 2962,
   "call_types": {
     "DIRECTED PATROL": 961,
     "TRAFFIC STOP": 430,
@@ -16,18 +16,18 @@
     "TRESPASS": 61,
     "PROPERTY FOUND/LOST": 23,
     "THEFT": 47,
-    "NEIGHBOR CALL": 14,
-    "911 HANG-UP": 103,
+    "NEIGHBOR CALL": 15,
+    "911 HANG-UP": 104,
     "SUSPICIOUS VEHICLE": 23,
     "PANHANDLER/SOLICITOR": 5,
     "VEHICLE ILLEGALLY PARKED": 6,
     "SUSPICIOUS EVENT": 57,
     "TRAFFIC CRASH": 132,
     "DISABLED VEHICLE": 22,
-    "ASSIST CITIZEN": 75,
+    "ASSIST CITIZEN": 76,
     "ASSIST OTHER AGENCY": 64,
     "FIRE": 3,
-    "FRAUD": 16,
+    "FRAUD": 17,
     "RECKLESS VEHICLE": 9,
     "JUVENILE CASE": 12,
     "HAZARD": 7,
@@ -204,7 +204,7 @@
     "3000 BLOCK HAVERFORD DR": 2,
     "DREW ST / OLD COACHMAN RD": 3,
     "2500 BLOCK HARN BLVD": 30,
-    "1000 BLOCK MCMULLEN BOOTH RD": 2,
+    "1000 BLOCK MCMULLEN BOOTH RD": 3,
     "1200 BLOCK S MARTIN LUTHER KING JR AVE": 2,
     "2000 BLOCK PARAGON CIR W": 1,
     "1800 BLOCK GULF TO BAY BLVD": 5,
@@ -739,7 +739,7 @@
     "100 BLOCK S GLENWOOD AVE": 1,
     "KENDALL ST / MANDALAY AVE": 1,
     "100 BLOCK S FERNWOOD AVE": 1,
-    "2500 BLOCK STAG RUN BLVD": 1,
+    "2500 BLOCK STAG RUN BLVD": 2,
     "400 BLOCK CORBETT ST": 2,
     "S MADISON AVE/CLEVELAND ST": 1,
     "900 BLOCK MCMULLEN BOOTH RD": 2,
@@ -1287,7 +1287,7 @@
     "MLK ROUNDABOUT / PALMETTO ST": 1,
     "GULF TO BAY BLVD/ S HERCULES AVE": 1,
     "1500 BLOCK FLOURNOY LOOP": 1,
-    "600 BLOCK OAK AVE": 1,
+    "600 BLOCK OAK AVE": 2,
     "N HIGHLAND AVE / OTTEN ST": 1,
     "-1000 BLOCK 1004 PALM TERRACE DR": 1,
     "-1700 BLOCK 1748 S MISSOURI AVE": 1,
@@ -1321,7 +1321,8 @@
     "1600 BLOCK N MADISON AVE": 1,
     "1300 BLOCK S HILLCREST AVE": 1,
     "1100 BLOCK N MARTIN LUTHER KING JR AVE": 1,
-    "-700 BLOCK 798 GROVE ST": 1
+    "-700 BLOCK 798 GROVE ST": 1,
+    "100 BLOCK N BETTY LN": 1
   },
   "hourly_distribution": {
     "0": 106,
@@ -1335,7 +1336,7 @@
     "8": 177,
     "9": 202,
     "10": 192,
-    "11": 174,
+    "11": 178,
     "12": 166,
     "13": 166,
     "14": 194,
@@ -1350,7 +1351,7 @@
     "23": 92
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-12T16:36:19.016210+00:00",
+  "last_updated": "2025-12-12T16:51:09.204437+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 983
+  "total_snapshots": 984
 }
