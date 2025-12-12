@@ -1,17 +1,17 @@
 {
-  "total_calls_tracked": 2914,
-  "total_resolved": 2910,
+  "total_calls_tracked": 2919,
+  "total_resolved": 2913,
   "call_types": {
-    "DIRECTED PATROL": 941,
+    "DIRECTED PATROL": 943,
     "TRAFFIC STOP": 419,
     "DRUNK DRIVER": 8,
     "DISTURBANCE": 68,
     "BATTERY": 23,
     "CRIMINAL MISCHIEF": 17,
-    "ALARM": 39,
+    "ALARM": 40,
     "KEEP THE PEACE": 33,
-    "WELFARE CHECK": 67,
-    "PARK WALK AND TALK": 260,
+    "WELFARE CHECK": 68,
+    "PARK WALK AND TALK": 261,
     "SUSPICIOUS PERSON": 115,
     "TRESPASS": 60,
     "PROPERTY FOUND/LOST": 23,
@@ -88,7 +88,7 @@
     "0 BLOCK CAUSEWAY BLVD": 22,
     "400 BLOCK FAIRWOOD AVE": 4,
     "500 BLOCK S FORT HARRISON AVE": 11,
-    "26000 BLOCK US HIGHWAY 19 N": 6,
+    "26000 BLOCK US HIGHWAY 19 N": 7,
     "1300 BLOCK S BELCHER RD": 17,
     "200 BLOCK WINDWARD PSGE": 4,
     "2700 BLOCK DREW ST": 1,
@@ -401,7 +401,7 @@
     "CLEVELAND ST / GULF TO BAY BLVD": 5,
     "1400 BLOCK GULF TO BAY BLVD": 6,
     "2200 BLOCK BELLEAIR RD": 1,
-    "1300 BLOCK PARK ST": 11,
+    "1300 BLOCK PARK ST": 12,
     "DREW ST / US HIGHWAY 19 N": 5,
     "1300 BLOCK N MARTIN LUTHER KING JR AVE": 8,
     "N BELCHER RD / OLD COACHMAN RD": 1,
@@ -445,7 +445,7 @@
     "S MADISON AVE / PIERCE ST": 3,
     "1000 BLOCK VINE AVE": 1,
     "2200 BLOCK MORNINGSIDE DR": 2,
-    "400 BLOCK S MARTIN LUTHER KING JR AVE": 1,
+    "400 BLOCK S MARTIN LUTHER KING JR AVE": 2,
     "600 BLOCK BAYWAY BLVD": 6,
     "1600 BLOCK N BELCHER RD": 3,
     "-1100 BLOCK 1148 PIERCE ST": 1,
@@ -1305,7 +1305,9 @@
     "400 BLOCK D STREET": 1,
     "600 BLOCK BAY ESPLANADE": 1,
     "28000 BLOCK US HIGHWAY 19 N": 1,
-    "1700 BLOCK N KEENE RD": 1
+    "1700 BLOCK N KEENE RD": 1,
+    "OLD COACHMAN RD": 1,
+    "VINE AVE / MAPLE ST": 1
   },
   "hourly_distribution": {
     "0": 106,
@@ -1315,8 +1317,8 @@
     "4": 30,
     "5": 78,
     "6": 102,
-    "7": 73,
-    "8": 157,
+    "7": 74,
+    "8": 161,
     "9": 184,
     "10": 179,
     "11": 170,
@@ -1334,7 +1336,7 @@
     "23": 92
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-12T13:07:01.097239+00:00",
+  "last_updated": "2025-12-12T13:45:21.621631+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 972
+  "total_snapshots": 973
 }
