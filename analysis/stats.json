@@ -1,6 +1,6 @@
 {
-  "total_calls_tracked": 2891,
-  "total_resolved": 2889,
+  "total_calls_tracked": 2892,
+  "total_resolved": 2890,
   "call_types": {
     "DIRECTED PATROL": 927,
     "TRAFFIC STOP": 419,
@@ -10,7 +10,7 @@
     "CRIMINAL MISCHIEF": 17,
     "ALARM": 39,
     "KEEP THE PEACE": 33,
-    "WELFARE CHECK": 66,
+    "WELFARE CHECK": 67,
     "PARK WALK AND TALK": 260,
     "SUSPICIOUS PERSON": 114,
     "TRESPASS": 60,
@@ -70,7 +70,7 @@
     "1900 BLOCK N BETTY LN": 1,
     "1400 BLOCK CLEVELAND ST": 2,
     "1000 BLOCK WEST AVE": 2,
-    "600 BLOCK S GULFVIEW BLVD": 10,
+    "600 BLOCK S GULFVIEW BLVD": 11,
     "-800 BLOCK 1099 MARSHALL ST": 1,
     "US HIGHWAY 19 N / DREW ST": 23,
     "US HIGHWAY 19 N / SR 590": 8,
@@ -1303,7 +1303,7 @@
     "0": 106,
     "1": 98,
     "2": 62,
-    "3": 45,
+    "3": 46,
     "4": 27,
     "5": 71,
     "6": 94,
@@ -1326,7 +1326,7 @@
     "23": 92
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-12T08:28:28.933105+00:00",
+  "last_updated": "2025-12-12T08:54:02.952069+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 959
+  "total_snapshots": 960
 }

@@ -13912,3 +13912,14 @@ TOTAL ACTIVE CALLS: 2
 --- RESOLVED CALLS (2) ---
 [RESOLVED] 121225-00057 | SUSPICIOUS VEHICLE | 2100 BLOCK GULF TO BAY BLVD | Response: 02:09 AM
 [RESOLVED] 121225-00059 | DIRECTED PATROL | 0 BLOCK SOMERSET ST | Response: 02:32 AM
+
+================================================================================
+TIMESTAMP: 2025-12-12T08:54:02.950199+00:00
+TOTAL ACTIVE CALLS: 2
+================================================================================
+
+--- NEW CALLS (1) ---
+[NEW] 121225-00070 | WELFARE CHECK | 600 BLOCK S GULFVIEW BLVD | Response: 03:20 AM
+
+--- RESOLVED CALLS (1) ---
+[RESOLVED] 121225-00056 | PARK WALK AND TALK | 1600 BLOCK GULF TO BAY BLVD | Response: 02:09 AM
