@@ -1,11 +1,11 @@
 {
-  "total_calls_tracked": 3032,
-  "total_resolved": 3022,
+  "total_calls_tracked": 3034,
+  "total_resolved": 3027,
   "call_types": {
-    "DIRECTED PATROL": 977,
+    "DIRECTED PATROL": 978,
     "TRAFFIC STOP": 440,
     "DRUNK DRIVER": 8,
-    "DISTURBANCE": 68,
+    "DISTURBANCE": 69,
     "BATTERY": 24,
     "CRIMINAL MISCHIEF": 18,
     "ALARM": 40,
@@ -147,7 +147,7 @@
     "DREW ST / N SATURN AVE": 2,
     "GULF TO BAY BLVD / THORTON RD": 1,
     "COUNTRYSIDE BLVD / ENDICOTT CT": 7,
-    "3000 BLOCK DREW ST": 4,
+    "3000 BLOCK DREW ST": 5,
     "2400 BLOCK COUNTRYSIDE BLVD": 13,
     "1200 BLOCK S MISSOURI AVE": 12,
     "2000 BLOCK N HIGHLAND AVE": 13,
@@ -1277,7 +1277,7 @@
     "CLEVELAND ST / MCMULLEN BOOTH RD": 1,
     "1300 BLOCK N MYRTLE AVE": 1,
     "-2800 BLOCK 2864 MEADOW HILL DR S": 1,
-    "LA SALLE ST / N MARTIN LUTHER KING JR AVE": 1,
+    "LA SALLE ST / N MARTIN LUTHER KING JR AVE": 2,
     "2600 BLOCK TEAKWOOD DR": 1,
     "COUNTRYSIDE BLVD / OAK NECK RD": 1,
     "-900 BLOCK 999 S MISSOURI AVE": 1,
@@ -1359,7 +1359,7 @@
     "12": 182,
     "13": 186,
     "14": 203,
-    "15": 202,
+    "15": 204,
     "16": 188,
     "17": 186,
     "18": 147,
@@ -1370,7 +1370,7 @@
     "23": 92
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-12T20:43:36.720735+00:00",
+  "last_updated": "2025-12-12T20:54:10.182804+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 998
+  "total_snapshots": 999
 }

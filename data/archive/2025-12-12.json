@@ -2688,6 +2688,54 @@
           "Response_Date": "2025-12-12T15:22:35"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-12T20:54:10.178658+00:00",
+      "call_count": 7,
+      "calls": [
+        {
+          "Master_Incident_Number": "121225-00280",
+          "Online_Description": "CRIMINAL MISCHIEF",
+          "Address": "2500 BLOCK ENTERPRISE RD",
+          "Response_Date": "2025-12-12T11:43:04"
+        },
+        {
+          "Master_Incident_Number": "121225-00283",
+          "Online_Description": "SHOTS FIRED",
+          "Address": "900 BLOCK SEMINOLE ST",
+          "Response_Date": "2025-12-12T11:54:13"
+        },
+        {
+          "Master_Incident_Number": "121225-00338",
+          "Online_Description": "HIT & RUN",
+          "Address": "24400 BLOCK US HIGHWAY 19 N",
+          "Response_Date": "2025-12-12T14:04:30"
+        },
+        {
+          "Master_Incident_Number": "121225-00374",
+          "Online_Description": "THEFT",
+          "Address": "500 BLOCK PARK ST",
+          "Response_Date": "2025-12-12T15:04:07"
+        },
+        {
+          "Master_Incident_Number": "121225-00375",
+          "Online_Description": "TRAFFIC CRASH",
+          "Address": "LANDMARK DR / SR 580",
+          "Response_Date": "2025-12-12T15:08:32"
+        },
+        {
+          "Master_Incident_Number": "121225-00383",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "3000 BLOCK DREW ST",
+          "Response_Date": "2025-12-12T15:25:27"
+        },
+        {
+          "Master_Incident_Number": "121225-00389",
+          "Online_Description": "DISTURBANCE",
+          "Address": "LA SALLE ST / N MARTIN LUTHER KING JR AVE",
+          "Response_Date": "2025-12-12T15:28:09"
+        }
+      ]
     }
   ]
 }
