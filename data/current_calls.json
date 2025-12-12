@@ -49,12 +49,6 @@
       "Response_Date": "2025-12-12T17:22:53"
     },
     {
-      "Master_Incident_Number": "121225-00453",
-      "Online_Description": "TRAFFIC STOP",
-      "Address": "400 BLOCK MANDALAY AVE",
-      "Response_Date": "2025-12-12T17:23:19"
-    },
-    {
       "Master_Incident_Number": "121225-00456",
       "Online_Description": "PANHANDLER/SOLICITOR",
       "Address": "2500 BLOCK COUNTRYSIDE BLVD",
@@ -67,12 +61,24 @@
       "Response_Date": "2025-12-12T17:26:15"
     },
     {
-      "Master_Incident_Number": "121225-00458",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "1600 BLOCK N HIGHLAND AVE",
-      "Response_Date": "2025-12-12T17:27:02"
+      "Master_Incident_Number": "121225-00459",
+      "Online_Description": "PANHANDLER/SOLICITOR",
+      "Address": "2600 BLOCK GULF TO BAY BLVD",
+      "Response_Date": "2025-12-12T17:31:26"
+    },
+    {
+      "Master_Incident_Number": "121225-00460",
+      "Online_Description": "TRAFFIC STOP",
+      "Address": "MCMULLEN BOOTH RD / SR 590",
+      "Response_Date": "2025-12-12T17:33:22"
+    },
+    {
+      "Master_Incident_Number": "121225-00461",
+      "Online_Description": "TRAFFIC STOP",
+      "Address": "CORONADO DR / S GULFVIEW BLVD",
+      "Response_Date": "2025-12-12T17:34:25"
     }
   ],
-  "timestamp": "2025-12-12T22:49:13.903571+00:00",
-  "count": 12
+  "timestamp": "2025-12-12T22:57:30.010310+00:00",
+  "count": 13
 }
