@@ -5,20 +5,8 @@
       "Online_Description": "WEAPONS VIOLATION",
       "Address": "300 BLOCK CORONADO DR",
       "Response_Date": "2025-12-13T02:20:03"
-    },
-    {
-      "Master_Incident_Number": "121325-00069",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "500 BLOCK N BETTY LN",
-      "Response_Date": "2025-12-13T03:28:44"
-    },
-    {
-      "Master_Incident_Number": "121325-00072",
-      "Online_Description": "DISTURBANCE",
-      "Address": "2900 BLOCK DREW ST",
-      "Response_Date": "2025-12-13T03:36:55"
     }
   ],
-  "timestamp": "2025-12-13T09:10:41.031004+00:00",
-  "count": 3
+  "timestamp": "2025-12-13T09:42:25.218234+00:00",
+  "count": 1
 }
