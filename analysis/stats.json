@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 3189,
-  "total_resolved": 3182,
+  "total_calls_tracked": 3192,
+  "total_resolved": 3185,
   "call_types": {
-    "DIRECTED PATROL": 1023,
-    "TRAFFIC STOP": 480,
+    "DIRECTED PATROL": 1024,
+    "TRAFFIC STOP": 482,
     "DRUNK DRIVER": 9,
     "DISTURBANCE": 73,
     "BATTERY": 26,
@@ -482,7 +482,7 @@
     "800 BLOCK CHESTNUT ST": 3,
     "1500 BLOCK MURRAY AVE": 2,
     "300 BLOCK S HIGHLAND AVE": 1,
-    "26200 BLOCK US HIGHWAY 19 N": 6,
+    "26200 BLOCK US HIGHWAY 19 N": 7,
     "N KEENE RD / DREW ST": 2,
     "100 BLOCK N JEFFERSON AVE": 1,
     "1500 BLOCK JEFFORDS ST": 6,
@@ -547,7 +547,7 @@
     "3000 BLOCK WOODSONG LN": 1,
     "2500 BLOCK MCMULLEN BOOTH RD": 4,
     "2600 BLOCK SR 590": 3,
-    "2400 BLOCK GULF TO BAY BLVD": 7,
+    "2400 BLOCK GULF TO BAY BLVD": 8,
     "2800 BLOCK MCMULLEN BOOTH RD": 1,
     "SABAL SPRINGS CIR / SR 580": 1,
     "300 BLOCK DREW ST": 1,
@@ -1376,7 +1376,8 @@
     "27000 BLOCK US HWY 19": 1,
     "-2000 BLOCK 2048 TODD RD": 1,
     "-1300 BLOCK 1338 FAIRMONT ST": 1,
-    "PALMETTO ST / KINGS HWY": 1
+    "PALMETTO ST / KINGS HWY": 1,
+    "N BELCHER RD / PALMETTO ST": 1
   },
   "hourly_distribution": {
     "0": 115,
@@ -1388,7 +1389,7 @@
     "6": 112,
     "7": 81,
     "8": 186,
-    "9": 202,
+    "9": 205,
     "10": 193,
     "11": 182,
     "12": 182,
@@ -1405,7 +1406,7 @@
     "23": 104
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-13T14:10:10.521933+00:00",
+  "last_updated": "2025-12-13T14:31:29.909997+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 1051
+  "total_snapshots": 1052
 }

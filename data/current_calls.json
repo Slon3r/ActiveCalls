@@ -19,30 +19,30 @@
       "Response_Date": "2025-12-13T06:58:39"
     },
     {
-      "Master_Incident_Number": "121325-00145",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "1400 BLOCK S BELCHER RD",
-      "Response_Date": "2025-12-13T07:55:32"
-    },
-    {
-      "Master_Incident_Number": "121325-00155",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "-1300 BLOCK 1338 FAIRMONT ST",
-      "Response_Date": "2025-12-13T08:30:14"
-    },
-    {
       "Master_Incident_Number": "121325-00159",
       "Online_Description": "DIRECTED PATROL",
       "Address": "PALMETTO ST / KINGS HWY",
       "Response_Date": "2025-12-13T08:41:49"
     },
     {
-      "Master_Incident_Number": "121325-00161",
+      "Master_Incident_Number": "121325-00167",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "2400 BLOCK GULF TO BAY BLVD",
+      "Response_Date": "2025-12-13T09:00:16"
+    },
+    {
+      "Master_Incident_Number": "121325-00170",
       "Online_Description": "TRAFFIC STOP",
-      "Address": "ENTERPRISE RD E / VILLAGE DR",
-      "Response_Date": "2025-12-13T08:49:43"
+      "Address": "26200 BLOCK US HIGHWAY 19 N",
+      "Response_Date": "2025-12-13T09:06:51"
+    },
+    {
+      "Master_Incident_Number": "121325-00171",
+      "Online_Description": "TRAFFIC STOP",
+      "Address": "N BELCHER RD / PALMETTO ST",
+      "Response_Date": "2025-12-13T09:07:21"
     }
   ],
-  "timestamp": "2025-12-13T14:10:10.518945+00:00",
+  "timestamp": "2025-12-13T14:31:29.906938+00:00",
   "count": 7
 }
