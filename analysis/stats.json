@@ -1,11 +1,11 @@
 {
-  "total_calls_tracked": 3142,
+  "total_calls_tracked": 3144,
   "total_resolved": 3140,
   "call_types": {
-    "DIRECTED PATROL": 1001,
+    "DIRECTED PATROL": 1002,
     "TRAFFIC STOP": 472,
     "DRUNK DRIVER": 9,
-    "DISTURBANCE": 71,
+    "DISTURBANCE": 72,
     "BATTERY": 26,
     "CRIMINAL MISCHIEF": 18,
     "ALARM": 40,
@@ -555,7 +555,7 @@
     "LAKEVIEW RD / S WASHINGTON AVE": 1,
     "1300 BLOCK FAIRMONT ST": 1,
     "MCMULLEN BOOTH RD / CHAMBLEE LN": 1,
-    "900 BLOCK ELDRIDGE ST": 1,
+    "900 BLOCK ELDRIDGE ST": 2,
     "2800 BLOCK CURLEW RD": 4,
     "0 BLOCK 299 S GLENWOOD AVE": 1,
     "US HIGHWAY 19 N / SUNSET POINT RD": 2,
@@ -1365,13 +1365,14 @@
     "-500 BLOCK 799 S HERCULES AVE": 1,
     "600 BLOCK MCMULLEN BOOTH RD": 1,
     "1100 BLOCK PINE ST N": 1,
-    "1000 BLOCK CALUMET ST": 1
+    "1000 BLOCK CALUMET ST": 1,
+    "3000 BLOCK UNION ST": 1
   },
   "hourly_distribution": {
     "0": 115,
     "1": 107,
     "2": 69,
-    "3": 47,
+    "3": 49,
     "4": 30,
     "5": 78,
     "6": 102,
@@ -1394,7 +1395,7 @@
     "23": 104
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-13T08:17:09.020227+00:00",
+  "last_updated": "2025-12-13T08:41:01.778252+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 1031
+  "total_snapshots": 1032
 }

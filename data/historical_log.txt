@@ -15054,3 +15054,12 @@ TOTAL ACTIVE CALLS: 2
 --- RESOLVED CALLS (2) ---
 [RESOLVED] 121325-00041 | NOISE COMPLAINT | 600 BLOCK MCMULLEN BOOTH RD | Response: 01:53 AM
 [RESOLVED] 121325-00047 | NOISE COMPLAINT | 1000 BLOCK CALUMET ST | Response: 02:10 AM
+
+================================================================================
+TIMESTAMP: 2025-12-13T08:41:01.776003+00:00
+TOTAL ACTIVE CALLS: 4
+================================================================================
+
+--- NEW CALLS (2) ---
+[NEW] 121325-00065 | DISTURBANCE | 900 BLOCK ELDRIDGE ST | Response: 03:00 AM
+[NEW] 121325-00067 | DIRECTED PATROL | 3000 BLOCK UNION ST | Response: 03:16 AM
