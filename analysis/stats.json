@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 3229,
-  "total_resolved": 3221,
+  "total_calls_tracked": 3230,
+  "total_resolved": 3224,
   "call_types": {
     "DIRECTED PATROL": 1039,
-    "TRAFFIC STOP": 493,
+    "TRAFFIC STOP": 494,
     "DRUNK DRIVER": 9,
     "DISTURBANCE": 73,
     "BATTERY": 26,
@@ -117,7 +117,7 @@
     "S MISSOURI AVE / KINGSLEY ST": 3,
     "2200 BLOCK GULF TO BAY BLVD": 9,
     "CLEVELAND ST/S MADISON AVE": 2,
-    "2700 BLOCK GULF TO BAY BLVD": 24,
+    "2700 BLOCK GULF TO BAY BLVD": 25,
     "1400 BLOCK N HIBISCUS ST": 3,
     "2900 BLOCK DREW ST": 8,
     "21200 BLOCK US HIGHWAY 19 N": 6,
@@ -1404,7 +1404,7 @@
     "8": 186,
     "9": 217,
     "10": 207,
-    "11": 193,
+    "11": 194,
     "12": 182,
     "13": 186,
     "14": 203,
@@ -1419,7 +1419,7 @@
     "23": 104
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-13T16:52:57.881798+00:00",
+  "last_updated": "2025-12-13T17:07:51.034941+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 1062
+  "total_snapshots": 1063
 }
