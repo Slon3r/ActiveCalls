@@ -1,6 +1,6 @@
 {
-  "total_calls_tracked": 3204,
-  "total_resolved": 3199,
+  "total_calls_tracked": 3207,
+  "total_resolved": 3200,
   "call_types": {
     "DIRECTED PATROL": 1032,
     "TRAFFIC STOP": 485,
@@ -11,18 +11,18 @@
     "ALARM": 42,
     "KEEP THE PEACE": 35,
     "WELFARE CHECK": 72,
-    "PARK WALK AND TALK": 275,
+    "PARK WALK AND TALK": 276,
     "SUSPICIOUS PERSON": 124,
     "TRESPASS": 64,
     "PROPERTY FOUND/LOST": 24,
     "THEFT": 51,
     "NEIGHBOR CALL": 15,
-    "911 HANG-UP": 111,
+    "911 HANG-UP": 112,
     "SUSPICIOUS VEHICLE": 27,
     "PANHANDLER/SOLICITOR": 7,
     "VEHICLE ILLEGALLY PARKED": 6,
     "SUSPICIOUS EVENT": 60,
-    "TRAFFIC CRASH": 141,
+    "TRAFFIC CRASH": 142,
     "DISABLED VEHICLE": 24,
     "ASSIST CITIZEN": 81,
     "ASSIST OTHER AGENCY": 69,
@@ -178,7 +178,7 @@
     "FIFTH ST & HAMDEN DR": 1,
     "FIFTH ST / HAMDEN DR": 2,
     "E WORLD PARKWAY BLVD / BELCHER RD": 1,
-    "300 BLOCK CLEVELAND ST": 21,
+    "300 BLOCK CLEVELAND ST": 22,
     "GULF TO BAY BLVD / S LAKE DR": 1,
     "-400 BLOCK BLK BLANCHE B LITTLEJOHN TRL": 1,
     "2600 BLOCK GULF TO BAY BLVD": 17,
@@ -1380,7 +1380,9 @@
     "N BELCHER RD / PALMETTO ST": 1,
     "2500 BLOCK VILLAGE DR": 1,
     "N BELCHER RD / CALUMET ST": 1,
-    "N MADISON AVE / TANGERINE ST": 1
+    "N MADISON AVE / TANGERINE ST": 1,
+    "19900 BLOCK US HIGHWAY 19 N": 1,
+    "900 BLOCK DRUID RD": 1
   },
   "hourly_distribution": {
     "0": 115,
@@ -1393,7 +1395,7 @@
     "7": 81,
     "8": 186,
     "9": 217,
-    "10": 193,
+    "10": 196,
     "11": 182,
     "12": 182,
     "13": 186,
@@ -1409,7 +1411,7 @@
     "23": 104
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-13T15:25:47.395010+00:00",
+  "last_updated": "2025-12-13T15:37:39.785063+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 1056
+  "total_snapshots": 1057
 }
