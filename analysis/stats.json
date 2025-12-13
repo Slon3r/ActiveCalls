@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 3192,
-  "total_resolved": 3185,
+  "total_calls_tracked": 3193,
+  "total_resolved": 3189,
   "call_types": {
-    "DIRECTED PATROL": 1024,
+    "DIRECTED PATROL": 1025,
     "TRAFFIC STOP": 482,
     "DRUNK DRIVER": 9,
     "DISTURBANCE": 73,
@@ -100,7 +100,7 @@
     "1400 BLOCK LAURA ST": 6,
     "ENTERPRISE RD E / VILLAGE DR": 6,
     "GULF TO BAY BLVD / HAMPTON RD": 1,
-    "2100 BLOCK GULF TO BAY BLVD": 29,
+    "2100 BLOCK GULF TO BAY BLVD": 30,
     "1300 BLOCK CLEVELAND ST": 14,
     "2100 BLOCK BELCHER RD": 1,
     "SAND KEY PARK ENTRANCE": 7,
@@ -1389,7 +1389,7 @@
     "6": 112,
     "7": 81,
     "8": 186,
-    "9": 205,
+    "9": 206,
     "10": 193,
     "11": 182,
     "12": 182,
@@ -1406,7 +1406,7 @@
     "23": 104
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-13T14:31:29.909997+00:00",
+  "last_updated": "2025-12-13T14:44:12.250317+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 1052
+  "total_snapshots": 1053
 }
