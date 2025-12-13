@@ -1986,6 +1986,60 @@
           "Response_Date": "2025-12-13T10:32:52"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-13T16:14:05.308834+00:00",
+      "call_count": 8,
+      "calls": [
+        {
+          "Master_Incident_Number": "121325-00208",
+          "Online_Description": "PARK WALK AND TALK",
+          "Address": "300 BLOCK CLEVELAND ST",
+          "Response_Date": "2025-12-13T10:12:34"
+        },
+        {
+          "Master_Incident_Number": "121325-00209",
+          "Online_Description": "911 HANG-UP",
+          "Address": "900 BLOCK DRUID RD",
+          "Response_Date": "2025-12-13T10:13:48"
+        },
+        {
+          "Master_Incident_Number": "121325-00213",
+          "Online_Description": "PARK WALK AND TALK",
+          "Address": "200 BLOCK PIERCE ST",
+          "Response_Date": "2025-12-13T10:20:26"
+        },
+        {
+          "Master_Incident_Number": "121325-00216",
+          "Online_Description": "PARK WALK AND TALK",
+          "Address": "-200 BLOCK 398 PIERCE ST",
+          "Response_Date": "2025-12-13T10:21:18"
+        },
+        {
+          "Master_Incident_Number": "121325-00220",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "1600 BLOCK GULF TO BAY BLVD",
+          "Response_Date": "2025-12-13T10:30:48"
+        },
+        {
+          "Master_Incident_Number": "121325-00222",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "0 BLOCK N STARCREST DR",
+          "Response_Date": "2025-12-13T10:35:37"
+        },
+        {
+          "Master_Incident_Number": "121325-00225",
+          "Online_Description": "SUSPICIOUS PERSON",
+          "Address": "DRUID RD / S MISSOURI AVE",
+          "Response_Date": "2025-12-13T10:40:59"
+        },
+        {
+          "Master_Incident_Number": "121325-00226",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "MEMORIAL CSWY / ISLAND WAY",
+          "Response_Date": "2025-12-13T10:45:39"
+        }
+      ]
     }
   ]
 }

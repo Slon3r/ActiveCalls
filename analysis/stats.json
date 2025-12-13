@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 3215,
-  "total_resolved": 3205,
+  "total_calls_tracked": 3218,
+  "total_resolved": 3210,
   "call_types": {
-    "DIRECTED PATROL": 1035,
-    "TRAFFIC STOP": 486,
+    "DIRECTED PATROL": 1036,
+    "TRAFFIC STOP": 487,
     "DRUNK DRIVER": 9,
     "DISTURBANCE": 73,
     "BATTERY": 26,
@@ -12,7 +12,7 @@
     "KEEP THE PEACE": 35,
     "WELFARE CHECK": 72,
     "PARK WALK AND TALK": 279,
-    "SUSPICIOUS PERSON": 124,
+    "SUSPICIOUS PERSON": 125,
     "TRESPASS": 65,
     "PROPERTY FOUND/LOST": 24,
     "THEFT": 51,
@@ -66,7 +66,7 @@
     "ROAD RAGE": 1
   },
   "addresses": {
-    "MEMORIAL CSWY / ISLAND WAY": 34,
+    "MEMORIAL CSWY / ISLAND WAY": 35,
     "GULF TO BAY BLVD / S BELCHER RD": 8,
     "1900 BLOCK N BETTY LN": 1,
     "1400 BLOCK CLEVELAND ST": 3,
@@ -1073,7 +1073,7 @@
     "KINGS HWY / HIBISCUS ST": 1,
     "-1400 BLOCK 1479 SUNSET POINT RD": 1,
     "CAUSEWAY BLVD/ ISLAND WAY": 1,
-    "DRUID RD / S MISSOURI AVE": 1,
+    "DRUID RD / S MISSOURI AVE": 2,
     "SUN DOWN DR / COLONY REED LN": 1,
     "COURTNEY CAMPBELL CSWY": 1,
     "19800 BLOCK US HIGHWAY 19 N": 1,
@@ -1384,7 +1384,8 @@
     "19900 BLOCK US HIGHWAY 19 N": 1,
     "900 BLOCK DRUID RD": 1,
     "1000 BLOCK S FORT HARRISON AVE": 1,
-    "-200 BLOCK 398 PIERCE ST": 1
+    "-200 BLOCK 398 PIERCE ST": 1,
+    "0 BLOCK N STARCREST DR": 1
   },
   "hourly_distribution": {
     "0": 115,
@@ -1397,7 +1398,7 @@
     "7": 81,
     "8": 186,
     "9": 217,
-    "10": 204,
+    "10": 207,
     "11": 182,
     "12": 182,
     "13": 186,
@@ -1413,7 +1414,7 @@
     "23": 104
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-13T15:54:12.212502+00:00",
+  "last_updated": "2025-12-13T16:14:05.312374+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 1059
+  "total_snapshots": 1060
 }
