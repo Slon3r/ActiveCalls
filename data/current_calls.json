@@ -13,12 +13,6 @@
       "Response_Date": "2025-12-12T22:17:42"
     },
     {
-      "Master_Incident_Number": "121225-00609",
-      "Online_Description": "INJUNCTION VIOLATION",
-      "Address": "1900 BLOCK GULF TO BAY BLVD",
-      "Response_Date": "2025-12-12T22:33:27"
-    },
-    {
       "Master_Incident_Number": "121225-00617",
       "Online_Description": "PARK WALK AND TALK",
       "Address": "-300 BLOCK 339 CORONADO DR",
@@ -37,24 +31,24 @@
       "Response_Date": "2025-12-12T23:12:17"
     },
     {
-      "Master_Incident_Number": "121225-00637",
-      "Online_Description": "TRAFFIC STOP",
-      "Address": "0 BLOCK MEMORIAL CSWY",
-      "Response_Date": "2025-12-12T23:18:05"
+      "Master_Incident_Number": "121225-00641",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "600 BLOCK MANDALAY AVE",
+      "Response_Date": "2025-12-12T23:30:24"
     },
     {
-      "Master_Incident_Number": "121225-00638",
+      "Master_Incident_Number": "121225-00642",
       "Online_Description": "TRAFFIC STOP",
-      "Address": "COURT ST / S HILLCREST AVE",
-      "Response_Date": "2025-12-12T23:21:24"
+      "Address": "1800 BLOCK N HIGHLAND AVE",
+      "Response_Date": "2025-12-12T23:31:25"
     },
     {
-      "Master_Incident_Number": "121225-00639",
+      "Master_Incident_Number": "121225-00644",
       "Online_Description": "TRAFFIC STOP",
-      "Address": "0 BLOCK MEMORIAL CSWY",
-      "Response_Date": "2025-12-12T23:23:29"
+      "Address": "US HIGHWAY 19 N / DREW ST",
+      "Response_Date": "2025-12-12T23:33:43"
     }
   ],
-  "timestamp": "2025-12-13T04:46:27.465140+00:00",
-  "count": 9
+  "timestamp": "2025-12-13T04:55:46.804091+00:00",
+  "count": 8
 }

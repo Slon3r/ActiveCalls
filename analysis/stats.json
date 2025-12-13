@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 3111,
-  "total_resolved": 3102,
+  "total_calls_tracked": 3114,
+  "total_resolved": 3106,
   "call_types": {
-    "DIRECTED PATROL": 995,
-    "TRAFFIC STOP": 461,
+    "DIRECTED PATROL": 996,
+    "TRAFFIC STOP": 463,
     "DRUNK DRIVER": 8,
     "DISTURBANCE": 70,
     "BATTERY": 26,
@@ -73,7 +73,7 @@
     "1000 BLOCK WEST AVE": 2,
     "600 BLOCK S GULFVIEW BLVD": 11,
     "-800 BLOCK 1099 MARSHALL ST": 1,
-    "US HIGHWAY 19 N / DREW ST": 24,
+    "US HIGHWAY 19 N / DREW ST": 25,
     "US HIGHWAY 19 N / SR 590": 8,
     "1100 BLOCK DRUID RD": 9,
     "2100 BLOCK RANGE RD": 1,
@@ -271,7 +271,7 @@
     "S MISSOURI AVE/COURT ST": 1,
     "1500 BLOCK S MARTIN LUTHER KING JR AVE": 1,
     "3100 BLOCK GULF TO BAY BLVD": 5,
-    "1800 BLOCK N HIGHLAND AVE": 19,
+    "1800 BLOCK N HIGHLAND AVE": 20,
     "BELLEAIR BLVD / US HIGHWAY 19 N": 1,
     "-1200 BLOCK 1353 COURT ST": 3,
     "-500 BLOCK 642 BAY ESPLANADE": 1,
@@ -412,7 +412,7 @@
     "GULF TO BAY BLVD / MCMULLEN BOOTH RD S": 5,
     "1400 BLOCK FAIRMONT ST": 1,
     "DREW ST / N BETTY LN": 3,
-    "600 BLOCK MANDALAY AVE": 8,
+    "600 BLOCK MANDALAY AVE": 9,
     "1900 BLOCK GULF TO BAY BLVD": 10,
     "22100 BLOCK US HIGHWAY 19 N": 2,
     "SEVILLE BLVD / US HIGHWAY 19 N": 2,
@@ -1384,10 +1384,10 @@
     "20": 57,
     "21": 73,
     "22": 137,
-    "23": 98
+    "23": 101
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-13T04:46:27.466828+00:00",
+  "last_updated": "2025-12-13T04:55:46.805756+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 1018
+  "total_snapshots": 1019
 }

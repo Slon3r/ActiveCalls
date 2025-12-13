@@ -318,6 +318,60 @@
           "Response_Date": "2025-12-12T23:23:29"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-13T04:55:46.804091+00:00",
+      "call_count": 8,
+      "calls": [
+        {
+          "Master_Incident_Number": "121225-00583",
+          "Online_Description": "SHOPLIFTING",
+          "Address": "27000 BLOCK US HIGHWAY 19 N",
+          "Response_Date": "2025-12-12T21:47:05"
+        },
+        {
+          "Master_Incident_Number": "121225-00591",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "MEMORIAL CSWY / ISLAND WAY",
+          "Response_Date": "2025-12-12T22:17:42"
+        },
+        {
+          "Master_Incident_Number": "121225-00617",
+          "Online_Description": "PARK WALK AND TALK",
+          "Address": "-300 BLOCK 339 CORONADO DR",
+          "Response_Date": "2025-12-12T22:52:32"
+        },
+        {
+          "Master_Incident_Number": "121225-00628",
+          "Online_Description": "ASSIST CITIZEN",
+          "Address": "900 BLOCK SEMINOLE ST",
+          "Response_Date": "2025-12-12T23:10:20"
+        },
+        {
+          "Master_Incident_Number": "121225-00632",
+          "Online_Description": "SUSPICIOUS PERSON",
+          "Address": "1400 BLOCK CLEVELAND ST",
+          "Response_Date": "2025-12-12T23:12:17"
+        },
+        {
+          "Master_Incident_Number": "121225-00641",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "600 BLOCK MANDALAY AVE",
+          "Response_Date": "2025-12-12T23:30:24"
+        },
+        {
+          "Master_Incident_Number": "121225-00642",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "1800 BLOCK N HIGHLAND AVE",
+          "Response_Date": "2025-12-12T23:31:25"
+        },
+        {
+          "Master_Incident_Number": "121225-00644",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "US HIGHWAY 19 N / DREW ST",
+          "Response_Date": "2025-12-12T23:33:43"
+        }
+      ]
     }
   ]
 }
