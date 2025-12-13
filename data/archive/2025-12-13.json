@@ -102,6 +102,60 @@
           "Response_Date": "2025-12-12T20:42:19"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-13T03:21:44.955139+00:00",
+      "call_count": 8,
+      "calls": [
+        {
+          "Master_Incident_Number": "121225-00563",
+          "Online_Description": "ASSIST OTHER AGENCY",
+          "Address": "1100 BLOCK MCMULLEN BOOTH RD",
+          "Response_Date": "2025-12-12T21:01:26"
+        },
+        {
+          "Master_Incident_Number": "121225-00568",
+          "Online_Description": "TRAFFIC CRASH",
+          "Address": "SUNSET POINT RD / US HIGHWAY 19 N",
+          "Response_Date": "2025-12-12T21:23:36"
+        },
+        {
+          "Master_Incident_Number": "121225-00570",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "1600 BLOCK GULF TO BAY BLVD",
+          "Response_Date": "2025-12-12T21:25:59"
+        },
+        {
+          "Master_Incident_Number": "121225-00576",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "S MISSOURI AVE / COURT ST",
+          "Response_Date": "2025-12-12T21:35:10"
+        },
+        {
+          "Master_Incident_Number": "121225-00581",
+          "Online_Description": "ASSIST CITIZEN",
+          "Address": "19300 BLOCK US HIGHWAY 19 N",
+          "Response_Date": "2025-12-12T21:42:37"
+        },
+        {
+          "Master_Incident_Number": "121225-00583",
+          "Online_Description": "SHOPLIFTING",
+          "Address": "27000 BLOCK US HIGHWAY 19 N",
+          "Response_Date": "2025-12-12T21:47:05"
+        },
+        {
+          "Master_Incident_Number": "121225-00586",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "COURT ST / S MISSOURI AVE",
+          "Response_Date": "2025-12-12T21:53:37"
+        },
+        {
+          "Master_Incident_Number": "121225-00587",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "COURT ST / S HILLCREST AVE",
+          "Response_Date": "2025-12-12T22:00:17"
+        }
+      ]
     }
   ]
 }
