@@ -1,14 +1,14 @@
 {
-  "total_calls_tracked": 3170,
-  "total_resolved": 3164,
+  "total_calls_tracked": 3173,
+  "total_resolved": 3169,
   "call_types": {
-    "DIRECTED PATROL": 1014,
+    "DIRECTED PATROL": 1015,
     "TRAFFIC STOP": 475,
     "DRUNK DRIVER": 9,
     "DISTURBANCE": 73,
     "BATTERY": 26,
     "CRIMINAL MISCHIEF": 18,
-    "ALARM": 41,
+    "ALARM": 42,
     "KEEP THE PEACE": 35,
     "WELFARE CHECK": 72,
     "PARK WALK AND TALK": 274,
@@ -23,7 +23,7 @@
     "VEHICLE ILLEGALLY PARKED": 6,
     "SUSPICIOUS EVENT": 60,
     "TRAFFIC CRASH": 141,
-    "DISABLED VEHICLE": 23,
+    "DISABLED VEHICLE": 24,
     "ASSIST CITIZEN": 81,
     "ASSIST OTHER AGENCY": 68,
     "FIRE": 3,
@@ -1100,7 +1100,7 @@
     "200 BLOCK S OSCEOLA AVE": 1,
     "600 BLOCK ERMINE ST": 1,
     "-800 BLOCK 818 NARCISSUS AVE": 3,
-    "0 BLOCK 99 ISLAND WAY": 1,
+    "0 BLOCK 99 ISLAND WAY": 2,
     "800 BLOCK S GULFVIEW BLVD": 1,
     "UNION ST / DOUGLAS AVE": 1,
     "1400 BLOCK BLOCK S BELCHER": 1,
@@ -1369,7 +1369,9 @@
     "3000 BLOCK UNION ST": 1,
     "900 BLOCK PARK ST": 2,
     "S HIGHLAND AVE / DE LEON ST": 1,
-    "-600 BLOCK 688 BAY ESPLANADE": 1
+    "-600 BLOCK 688 BAY ESPLANADE": 1,
+    "700 BLOCK TUSKAWILLA ST": 1,
+    "MANDALAY AVE / CAUSEWAY BLVD": 1
   },
   "hourly_distribution": {
     "0": 115,
@@ -1378,7 +1380,7 @@
     "3": 52,
     "4": 34,
     "5": 90,
-    "6": 109,
+    "6": 112,
     "7": 74,
     "8": 177,
     "9": 202,
@@ -1398,7 +1400,7 @@
     "23": 104
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-13T11:54:48.261518+00:00",
+  "last_updated": "2025-12-13T12:24:50.047222+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 1045
+  "total_snapshots": 1046
 }
