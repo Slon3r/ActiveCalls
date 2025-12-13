@@ -13,22 +13,10 @@
       "Response_Date": "2025-12-13T01:53:33"
     },
     {
-      "Master_Incident_Number": "121325-00046",
-      "Online_Description": "TRAFFIC STOP",
-      "Address": "2900 BLOCK GULF TO BAY BLVD",
-      "Response_Date": "2025-12-13T02:10:37"
-    },
-    {
       "Master_Incident_Number": "121325-00047",
       "Online_Description": "NOISE COMPLAINT",
       "Address": "1000 BLOCK CALUMET ST",
       "Response_Date": "2025-12-13T02:10:47"
-    },
-    {
-      "Master_Incident_Number": "121325-00048",
-      "Online_Description": "SUSPICIOUS PERSON",
-      "Address": "24000 BLOCK US HIGHWAY 19 N",
-      "Response_Date": "2025-12-13T02:14:01"
     },
     {
       "Master_Incident_Number": "121325-00050",
@@ -37,6 +25,6 @@
       "Response_Date": "2025-12-13T02:20:03"
     }
   ],
-  "timestamp": "2025-12-13T07:47:05.130488+00:00",
-  "count": 6
+  "timestamp": "2025-12-13T07:54:44.424501+00:00",
+  "count": 4
 }
