@@ -19,42 +19,24 @@
       "Response_Date": "2025-12-12T22:17:42"
     },
     {
-      "Master_Incident_Number": "121225-00604",
-      "Online_Description": "911 HANG-UP",
-      "Address": "0 BLOCK N BELCHER RD",
-      "Response_Date": "2025-12-12T22:30:07"
+      "Master_Incident_Number": "121225-00617",
+      "Online_Description": "PARK WALK AND TALK",
+      "Address": "-300 BLOCK 339 CORONADO DR",
+      "Response_Date": "2025-12-12T22:52:32"
     },
     {
-      "Master_Incident_Number": "121225-00601",
+      "Master_Incident_Number": "121225-00619",
       "Online_Description": "TRAFFIC STOP",
-      "Address": "S LINCOLN AVE / PARK ST",
-      "Response_Date": "2025-12-12T22:30:07"
+      "Address": "US HIGHWAY 19 N / DREW ST",
+      "Response_Date": "2025-12-12T22:58:44"
     },
     {
-      "Master_Incident_Number": "121225-00602",
+      "Master_Incident_Number": "121225-00622",
       "Online_Description": "TRAFFIC STOP",
-      "Address": "0 BLOCK MEMORIAL CSWY",
-      "Response_Date": "2025-12-12T22:31:27"
-    },
-    {
-      "Master_Incident_Number": "121225-00606",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "600 BLOCK DRUID RD E",
-      "Response_Date": "2025-12-12T22:35:02"
-    },
-    {
-      "Master_Incident_Number": "121225-00607",
-      "Online_Description": "TRAFFIC STOP",
-      "Address": "COURT ST / S HIGHLAND AVE",
-      "Response_Date": "2025-12-12T22:35:44"
-    },
-    {
-      "Master_Incident_Number": "121225-00608",
-      "Online_Description": "TRAFFIC STOP",
-      "Address": "GULF TO BAY BLVD / S HIGHLAND AVE",
-      "Response_Date": "2025-12-12T22:36:06"
+      "Address": "GULF TO BAY BLVD / S KEENE RD",
+      "Response_Date": "2025-12-12T23:01:51"
     }
   ],
-  "timestamp": "2025-12-13T03:57:27.435961+00:00",
-  "count": 9
+  "timestamp": "2025-12-13T04:26:27.454771+00:00",
+  "count": 6
 }
