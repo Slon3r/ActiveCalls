@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 3162,
-  "total_resolved": 3156,
+  "total_calls_tracked": 3163,
+  "total_resolved": 3159,
   "call_types": {
     "DIRECTED PATROL": 1009,
-    "TRAFFIC STOP": 474,
+    "TRAFFIC STOP": 475,
     "DRUNK DRIVER": 9,
     "DISTURBANCE": 73,
     "BATTERY": 26,
@@ -110,7 +110,7 @@
     "MCMULLEN BOOTH RD / SR 590": 6,
     "LAKEVIEW RD / S MISSOURI AVE": 2,
     "2400 BLOCK MELLOW LN": 1,
-    "1200 BLOCK GULF BLVD": 12,
+    "1200 BLOCK GULF BLVD": 13,
     "1900 BLOCK N BELCHER RD": 4,
     "20100 BLOCK US HIGHWAY 19 N": 1,
     "CLEVELAND ST / N MAIN AVE": 1,
@@ -1377,7 +1377,7 @@
     "2": 69,
     "3": 52,
     "4": 34,
-    "5": 89,
+    "5": 90,
     "6": 102,
     "7": 74,
     "8": 177,
@@ -1398,7 +1398,7 @@
     "23": 104
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-13T10:57:17.965076+00:00",
+  "last_updated": "2025-12-13T11:15:23.290902+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 1040
+  "total_snapshots": 1041
 }

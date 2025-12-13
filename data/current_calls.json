@@ -1,24 +1,6 @@
 {
   "calls": [
     {
-      "Master_Incident_Number": "121325-00081",
-      "Online_Description": "JUVENILE CASE",
-      "Address": "1300 BLOCK N MARTIN LUTHER KING JR AVE",
-      "Response_Date": "2025-12-13T04:44:11"
-    },
-    {
-      "Master_Incident_Number": "121325-00093",
-      "Online_Description": "NOISE COMPLAINT",
-      "Address": "900 BLOCK PARK ST",
-      "Response_Date": "2025-12-13T05:16:35"
-    },
-    {
-      "Master_Incident_Number": "121325-00094",
-      "Online_Description": "TRAFFIC STOP",
-      "Address": "COURT ST / S LINCOLN AVE",
-      "Response_Date": "2025-12-13T05:30:55"
-    },
-    {
       "Master_Incident_Number": "121325-00095",
       "Online_Description": "DIRECTED PATROL",
       "Address": "200 BLOCK DREW ST",
@@ -35,8 +17,14 @@
       "Online_Description": "SUSPICIOUS VEHICLE",
       "Address": "300 BLOCK S GULFVIEW BLVD",
       "Response_Date": "2025-12-13T05:34:34"
+    },
+    {
+      "Master_Incident_Number": "121325-00104",
+      "Online_Description": "TRAFFIC STOP",
+      "Address": "1200 BLOCK GULF BLVD",
+      "Response_Date": "2025-12-13T05:54:43"
     }
   ],
-  "timestamp": "2025-12-13T10:57:17.962604+00:00",
-  "count": 6
+  "timestamp": "2025-12-13T11:15:23.288379+00:00",
+  "count": 4
 }
