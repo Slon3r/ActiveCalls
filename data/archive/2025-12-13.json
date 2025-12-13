@@ -1920,6 +1920,72 @@
           "Response_Date": "2025-12-13T10:22:30"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-13T15:54:12.209094+00:00",
+      "call_count": 10,
+      "calls": [
+        {
+          "Master_Incident_Number": "121325-00176",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "2500 BLOCK VILLAGE DR",
+          "Response_Date": "2025-12-13T09:24:41"
+        },
+        {
+          "Master_Incident_Number": "121325-00184",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "GULF TO BAY BLVD / S BELCHER RD",
+          "Response_Date": "2025-12-13T09:35:42"
+        },
+        {
+          "Master_Incident_Number": "121325-00207",
+          "Online_Description": "TRAFFIC CRASH",
+          "Address": "19900 BLOCK US HIGHWAY 19 N",
+          "Response_Date": "2025-12-13T10:08:39"
+        },
+        {
+          "Master_Incident_Number": "121325-00208",
+          "Online_Description": "PARK WALK AND TALK",
+          "Address": "300 BLOCK CLEVELAND ST",
+          "Response_Date": "2025-12-13T10:12:34"
+        },
+        {
+          "Master_Incident_Number": "121325-00209",
+          "Online_Description": "911 HANG-UP",
+          "Address": "900 BLOCK DRUID RD",
+          "Response_Date": "2025-12-13T10:13:48"
+        },
+        {
+          "Master_Incident_Number": "121325-00213",
+          "Online_Description": "PARK WALK AND TALK",
+          "Address": "200 BLOCK PIERCE ST",
+          "Response_Date": "2025-12-13T10:20:26"
+        },
+        {
+          "Master_Incident_Number": "121325-00216",
+          "Online_Description": "PARK WALK AND TALK",
+          "Address": "-200 BLOCK 398 PIERCE ST",
+          "Response_Date": "2025-12-13T10:21:18"
+        },
+        {
+          "Master_Incident_Number": "121325-00218",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "NE COACHMAN RD / MARILYN ST",
+          "Response_Date": "2025-12-13T10:22:30"
+        },
+        {
+          "Master_Incident_Number": "121325-00220",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "1600 BLOCK GULF TO BAY BLVD",
+          "Response_Date": "2025-12-13T10:30:48"
+        },
+        {
+          "Master_Incident_Number": "121325-00221",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "200 BLOCK LARBOARD WAY",
+          "Response_Date": "2025-12-13T10:32:52"
+        }
+      ]
     }
   ]
 }

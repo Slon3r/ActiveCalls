@@ -31,28 +31,10 @@
       "Response_Date": "2025-12-13T10:13:48"
     },
     {
-      "Master_Incident_Number": "121325-00211",
-      "Online_Description": "PARK WALK AND TALK",
-      "Address": "0 BLOCK 98 THIRD ST",
-      "Response_Date": "2025-12-13T10:18:09"
-    },
-    {
-      "Master_Incident_Number": "121325-00214",
-      "Online_Description": "TRESPASS",
-      "Address": "1000 BLOCK S FORT HARRISON AVE",
-      "Response_Date": "2025-12-13T10:19:47"
-    },
-    {
       "Master_Incident_Number": "121325-00213",
       "Online_Description": "PARK WALK AND TALK",
       "Address": "200 BLOCK PIERCE ST",
       "Response_Date": "2025-12-13T10:20:26"
-    },
-    {
-      "Master_Incident_Number": "121325-00215",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "1600 BLOCK RAINBOW DR",
-      "Response_Date": "2025-12-13T10:20:45"
     },
     {
       "Master_Incident_Number": "121325-00216",
@@ -65,8 +47,20 @@
       "Online_Description": "DIRECTED PATROL",
       "Address": "NE COACHMAN RD / MARILYN ST",
       "Response_Date": "2025-12-13T10:22:30"
+    },
+    {
+      "Master_Incident_Number": "121325-00220",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "1600 BLOCK GULF TO BAY BLVD",
+      "Response_Date": "2025-12-13T10:30:48"
+    },
+    {
+      "Master_Incident_Number": "121325-00221",
+      "Online_Description": "TRAFFIC STOP",
+      "Address": "200 BLOCK LARBOARD WAY",
+      "Response_Date": "2025-12-13T10:32:52"
     }
   ],
-  "timestamp": "2025-12-13T15:46:12.152721+00:00",
-  "count": 11
+  "timestamp": "2025-12-13T15:54:12.209094+00:00",
+  "count": 10
 }
