@@ -7,24 +7,36 @@
       "Response_Date": "2025-12-13T08:08:49.453"
     },
     {
+      "Master_Incident_Number": "121325-00181",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "0 BLOCK N NEPTUNE AVE",
+      "Response_Date": "2025-12-13T09:31:56"
+    },
+    {
       "Master_Incident_Number": "121325-00117",
       "Online_Description": "DECEASED PERSON",
       "Address": "1300 BLOCK FRIEND AVE",
       "Response_Date": "2025-12-13T06:25:09"
     },
     {
-      "Master_Incident_Number": "121325-00127",
+      "Master_Incident_Number": "121325-00176",
       "Online_Description": "DIRECTED PATROL",
-      "Address": "0 BLOCK 99 ISLAND WAY",
-      "Response_Date": "2025-12-13T06:58:39"
+      "Address": "2500 BLOCK VILLAGE DR",
+      "Response_Date": "2025-12-13T09:24:41"
     },
     {
-      "Master_Incident_Number": "121325-00175",
+      "Master_Incident_Number": "121325-00177",
       "Online_Description": "DIRECTED PATROL",
-      "Address": "2100 BLOCK GULF TO BAY BLVD",
-      "Response_Date": "2025-12-13T09:22:00"
+      "Address": "S MADISON AVE/CLEVELAND ST",
+      "Response_Date": "2025-12-13T09:25:06"
+    },
+    {
+      "Master_Incident_Number": "121325-00179",
+      "Online_Description": "TRAFFIC STOP",
+      "Address": "N BELCHER RD / CALUMET ST",
+      "Response_Date": "2025-12-13T09:29:01"
     }
   ],
-  "timestamp": "2025-12-13T14:44:12.247191+00:00",
-  "count": 4
+  "timestamp": "2025-12-13T14:52:23.039922+00:00",
+  "count": 6
 }

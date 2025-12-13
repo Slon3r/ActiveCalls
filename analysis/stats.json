@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 3193,
-  "total_resolved": 3189,
+  "total_calls_tracked": 3197,
+  "total_resolved": 3191,
   "call_types": {
-    "DIRECTED PATROL": 1025,
-    "TRAFFIC STOP": 482,
+    "DIRECTED PATROL": 1028,
+    "TRAFFIC STOP": 483,
     "DRUNK DRIVER": 9,
     "DISTURBANCE": 73,
     "BATTERY": 26,
@@ -347,7 +347,7 @@
     "400 BLOCK S MISSOURI AVE": 1,
     "-1700 BLOCK 1748 WESTON DR": 1,
     "1300 BLOCK GULF BLVD": 3,
-    "0 BLOCK N NEPTUNE AVE": 3,
+    "0 BLOCK N NEPTUNE AVE": 4,
     "S MYRTLE AVE / COURT ST": 2,
     "OLD COACHMAN RD / GULF TO BAY BLVD": 2,
     "700 BLOCK ELDORADO AVE": 7,
@@ -742,7 +742,7 @@
     "100 BLOCK S FERNWOOD AVE": 1,
     "2500 BLOCK STAG RUN BLVD": 2,
     "400 BLOCK CORBETT ST": 2,
-    "S MADISON AVE/CLEVELAND ST": 1,
+    "S MADISON AVE/CLEVELAND ST": 2,
     "900 BLOCK MCMULLEN BOOTH RD": 2,
     "2700 BLOCK UNION ST": 1,
     "LANDMARK DR / SANDY RIDGE DR": 1,
@@ -1377,7 +1377,9 @@
     "-2000 BLOCK 2048 TODD RD": 1,
     "-1300 BLOCK 1338 FAIRMONT ST": 1,
     "PALMETTO ST / KINGS HWY": 1,
-    "N BELCHER RD / PALMETTO ST": 1
+    "N BELCHER RD / PALMETTO ST": 1,
+    "2500 BLOCK VILLAGE DR": 1,
+    "N BELCHER RD / CALUMET ST": 1
   },
   "hourly_distribution": {
     "0": 115,
@@ -1389,7 +1391,7 @@
     "6": 112,
     "7": 81,
     "8": 186,
-    "9": 206,
+    "9": 210,
     "10": 193,
     "11": 182,
     "12": 182,
@@ -1406,7 +1408,7 @@
     "23": 104
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-13T14:44:12.250317+00:00",
+  "last_updated": "2025-12-13T14:52:23.043110+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 1053
+  "total_snapshots": 1054
 }
