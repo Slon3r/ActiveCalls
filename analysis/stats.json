@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 3207,
-  "total_resolved": 3200,
+  "total_calls_tracked": 3213,
+  "total_resolved": 3202,
   "call_types": {
-    "DIRECTED PATROL": 1032,
+    "DIRECTED PATROL": 1034,
     "TRAFFIC STOP": 485,
     "DRUNK DRIVER": 9,
     "DISTURBANCE": 73,
@@ -11,9 +11,9 @@
     "ALARM": 42,
     "KEEP THE PEACE": 35,
     "WELFARE CHECK": 72,
-    "PARK WALK AND TALK": 276,
+    "PARK WALK AND TALK": 279,
     "SUSPICIOUS PERSON": 124,
-    "TRESPASS": 64,
+    "TRESPASS": 65,
     "PROPERTY FOUND/LOST": 24,
     "THEFT": 51,
     "NEIGHBOR CALL": 15,
@@ -157,7 +157,7 @@
     "19300 BLOCK US HIGHWAY 19 N": 3,
     "600 BLOCK PIERCE ST": 31,
     "0 BLOCK 99 THIRD ST": 8,
-    "0 BLOCK 98 THIRD ST": 5,
+    "0 BLOCK 98 THIRD ST": 6,
     "100 BLOCK HAMPTON RD": 7,
     "GULF TO BAY BLVD / PARK PLACE BLVD": 2,
     "2000 BLOCK N HERCULES AVE": 2,
@@ -311,7 +311,7 @@
     "700 BLOCK S MADISON AVE": 2,
     "N MYRTLE AVE / ELDRIDGE ST": 2,
     "GRANGER DR / N BELCHER RD": 2,
-    "NE COACHMAN RD / MARILYN ST": 1,
+    "NE COACHMAN RD / MARILYN ST": 2,
     "26500 BLOCK US HIGHWAY 19 N": 4,
     "600 BLOCK DREW ST": 6,
     "200 BLOCK DOLPHIN PT": 2,
@@ -359,7 +359,7 @@
     "NE CLEVELAND ST / GROVE ST": 1,
     "18400 BLOCK US HIGHWAY 19 N": 1,
     "MCMULLEN BOOTH RD / MARSHALL ST": 1,
-    "200 BLOCK PIERCE ST": 1,
+    "200 BLOCK PIERCE ST": 2,
     "GULF TO BAY BLVD / BYPASS DR": 1,
     "1800 BLOCK N BELCHER RD": 1,
     "-100 BLOCK 129 ISLAND WAY": 1,
@@ -1030,7 +1030,7 @@
     "BRIGHTWATER DR / HAMDEN DR": 3,
     "-3300 BLOCK 3334 HYDE PARK DR": 1,
     "ENT/INVER": 1,
-    "1600 BLOCK RAINBOW DR": 1,
+    "1600 BLOCK RAINBOW DR": 2,
     "-1300 BLOCK 1398 N MARTIN LUTHER KING JR AVE": 1,
     "-2600 BLOCK 2699 GLENEAGLES DR": 1,
     "900 BLOCK ENGMAN ST": 1,
@@ -1382,7 +1382,9 @@
     "N BELCHER RD / CALUMET ST": 1,
     "N MADISON AVE / TANGERINE ST": 1,
     "19900 BLOCK US HIGHWAY 19 N": 1,
-    "900 BLOCK DRUID RD": 1
+    "900 BLOCK DRUID RD": 1,
+    "1000 BLOCK S FORT HARRISON AVE": 1,
+    "-200 BLOCK 398 PIERCE ST": 1
   },
   "hourly_distribution": {
     "0": 115,
@@ -1395,7 +1397,7 @@
     "7": 81,
     "8": 186,
     "9": 217,
-    "10": 196,
+    "10": 202,
     "11": 182,
     "12": 182,
     "13": 186,
@@ -1411,7 +1413,7 @@
     "23": 104
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-13T15:37:39.785063+00:00",
+  "last_updated": "2025-12-13T15:46:12.156129+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 1057
+  "total_snapshots": 1058
 }
