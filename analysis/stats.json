@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 3144,
-  "total_resolved": 3140,
+  "total_calls_tracked": 3146,
+  "total_resolved": 3141,
   "call_types": {
-    "DIRECTED PATROL": 1002,
+    "DIRECTED PATROL": 1004,
     "TRAFFIC STOP": 472,
     "DRUNK DRIVER": 9,
     "DISTURBANCE": 72,
@@ -90,7 +90,7 @@
     "400 BLOCK FAIRWOOD AVE": 4,
     "500 BLOCK S FORT HARRISON AVE": 13,
     "26000 BLOCK US HIGHWAY 19 N": 7,
-    "1300 BLOCK S BELCHER RD": 19,
+    "1300 BLOCK S BELCHER RD": 20,
     "200 BLOCK WINDWARD PSGE": 4,
     "2700 BLOCK DREW ST": 1,
     "FLUSHING AVE / HARN BLVD": 3,
@@ -371,7 +371,7 @@
     "500 BLOCK MOSS AVE": 1,
     "-1000 BLOCK 1170 GULF BLVD": 2,
     "27000 BLOCK US 19": 1,
-    "500 BLOCK N BETTY LN": 19,
+    "500 BLOCK N BETTY LN": 20,
     "600 BLOCK ELDRIDGE ST": 1,
     "2100 BLOCK MONTCLAIR RD": 1,
     "700 BLOCK S KEENE RD": 3,
@@ -1372,7 +1372,7 @@
     "0": 115,
     "1": 107,
     "2": 69,
-    "3": 49,
+    "3": 51,
     "4": 30,
     "5": 78,
     "6": 102,
@@ -1395,7 +1395,7 @@
     "23": 104
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-13T08:41:01.778252+00:00",
+  "last_updated": "2025-12-13T08:53:46.404830+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 1032
+  "total_snapshots": 1033
 }
