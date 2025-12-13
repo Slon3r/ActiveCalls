@@ -1188,6 +1188,48 @@
           "Response_Date": "2025-12-13T06:03:58"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-13T11:38:21.220547+00:00",
+      "call_count": 6,
+      "calls": [
+        {
+          "Master_Incident_Number": "121325-00082",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "200 BLOCK S GLENWOOD AVE",
+          "Response_Date": "2025-12-13T06:06:04.743"
+        },
+        {
+          "Master_Incident_Number": "121325-00095",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "200 BLOCK DREW ST",
+          "Response_Date": "2025-12-13T05:32:08"
+        },
+        {
+          "Master_Incident_Number": "121325-00096",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "-800 BLOCK 818 NARCISSUS AVE",
+          "Response_Date": "2025-12-13T05:33:00"
+        },
+        {
+          "Master_Incident_Number": "121325-00112",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "0 BLOCK ISLAND WAY",
+          "Response_Date": "2025-12-13T06:03:58"
+        },
+        {
+          "Master_Incident_Number": "121325-00113",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "FIFTH ST / HAMDEN DR",
+          "Response_Date": "2025-12-13T06:10:25"
+        },
+        {
+          "Master_Incident_Number": "121325-00116",
+          "Online_Description": "SUSPICIOUS PERSON",
+          "Address": "800 BLOCK CLEVELAND ST",
+          "Response_Date": "2025-12-13T06:17:51"
+        }
+      ]
     }
   ]
 }

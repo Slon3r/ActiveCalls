@@ -23,8 +23,20 @@
       "Online_Description": "DIRECTED PATROL",
       "Address": "0 BLOCK ISLAND WAY",
       "Response_Date": "2025-12-13T06:03:58"
+    },
+    {
+      "Master_Incident_Number": "121325-00113",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "FIFTH ST / HAMDEN DR",
+      "Response_Date": "2025-12-13T06:10:25"
+    },
+    {
+      "Master_Incident_Number": "121325-00116",
+      "Online_Description": "SUSPICIOUS PERSON",
+      "Address": "800 BLOCK CLEVELAND ST",
+      "Response_Date": "2025-12-13T06:17:51"
     }
   ],
-  "timestamp": "2025-12-13T11:28:31.086372+00:00",
-  "count": 4
+  "timestamp": "2025-12-13T11:38:21.220547+00:00",
+  "count": 6
 }
