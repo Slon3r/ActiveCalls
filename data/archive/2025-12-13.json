@@ -1230,6 +1230,36 @@
           "Response_Date": "2025-12-13T06:17:51"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-13T11:46:42.051190+00:00",
+      "call_count": 4,
+      "calls": [
+        {
+          "Master_Incident_Number": "121325-00082",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "200 BLOCK S GLENWOOD AVE",
+          "Response_Date": "2025-12-13T06:06:04.743"
+        },
+        {
+          "Master_Incident_Number": "121325-00095",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "200 BLOCK DREW ST",
+          "Response_Date": "2025-12-13T05:32:08"
+        },
+        {
+          "Master_Incident_Number": "121325-00112",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "0 BLOCK ISLAND WAY",
+          "Response_Date": "2025-12-13T06:03:58"
+        },
+        {
+          "Master_Incident_Number": "121325-00116",
+          "Online_Description": "TRESPASS",
+          "Address": "800 BLOCK CLEVELAND ST",
+          "Response_Date": "2025-12-13T06:17:51"
+        }
+      ]
     }
   ]
 }
