@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 3183,
-  "total_resolved": 3176,
+  "total_calls_tracked": 3185,
+  "total_resolved": 3177,
   "call_types": {
-    "DIRECTED PATROL": 1020,
-    "TRAFFIC STOP": 477,
+    "DIRECTED PATROL": 1021,
+    "TRAFFIC STOP": 478,
     "DRUNK DRIVER": 9,
     "DISTURBANCE": 73,
     "BATTERY": 26,
@@ -98,7 +98,7 @@
     "-1400 BLOCK 1417 S MISSOURI AVE": 1,
     "1000 BLOCK GULF BLVD": 28,
     "1400 BLOCK LAURA ST": 6,
-    "ENTERPRISE RD E / VILLAGE DR": 4,
+    "ENTERPRISE RD E / VILLAGE DR": 5,
     "GULF TO BAY BLVD / HAMPTON RD": 1,
     "2100 BLOCK GULF TO BAY BLVD": 29,
     "1300 BLOCK CLEVELAND ST": 14,
@@ -1373,7 +1373,8 @@
     "700 BLOCK TUSKAWILLA ST": 1,
     "MANDALAY AVE / CAUSEWAY BLVD": 1,
     "VILLAGE DR / ENTERPRISE RD E": 1,
-    "27000 BLOCK US HWY 19": 1
+    "27000 BLOCK US HWY 19": 1,
+    "-2000 BLOCK 2048 TODD RD": 1
   },
   "hourly_distribution": {
     "0": 115,
@@ -1384,7 +1385,7 @@
     "5": 90,
     "6": 112,
     "7": 81,
-    "8": 180,
+    "8": 182,
     "9": 202,
     "10": 193,
     "11": 182,
@@ -1402,7 +1403,7 @@
     "23": 104
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-13T13:33:37.381838+00:00",
+  "last_updated": "2025-12-13T13:45:31.239699+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 1048
+  "total_snapshots": 1049
 }

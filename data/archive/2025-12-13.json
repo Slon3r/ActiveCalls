@@ -1434,6 +1434,60 @@
           "Response_Date": "2025-12-13T08:12:57"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-13T13:45:31.236802+00:00",
+      "call_count": 8,
+      "calls": [
+        {
+          "Master_Incident_Number": "121325-00146",
+          "Online_Description": "PARK WALK AND TALK",
+          "Address": "1300 BLOCK PARK ST",
+          "Response_Date": "2025-12-13T08:08:49.453"
+        },
+        {
+          "Master_Incident_Number": "121325-00117",
+          "Online_Description": "DECEASED PERSON",
+          "Address": "1300 BLOCK FRIEND AVE",
+          "Response_Date": "2025-12-13T06:25:09"
+        },
+        {
+          "Master_Incident_Number": "121325-00127",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "0 BLOCK 99 ISLAND WAY",
+          "Response_Date": "2025-12-13T06:58:39"
+        },
+        {
+          "Master_Incident_Number": "121325-00142",
+          "Online_Description": "TRESPASS",
+          "Address": "600 BLOCK TURNER ST",
+          "Response_Date": "2025-12-13T07:50:31"
+        },
+        {
+          "Master_Incident_Number": "121325-00145",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "1400 BLOCK S BELCHER RD",
+          "Response_Date": "2025-12-13T07:55:32"
+        },
+        {
+          "Master_Incident_Number": "121325-00149",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "27000 BLOCK US HIGHWAY 19 N",
+          "Response_Date": "2025-12-13T08:12:57"
+        },
+        {
+          "Master_Incident_Number": "121325-00151",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "-2000 BLOCK 2048 TODD RD",
+          "Response_Date": "2025-12-13T08:17:18"
+        },
+        {
+          "Master_Incident_Number": "121325-00154",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "ENTERPRISE RD E / VILLAGE DR",
+          "Response_Date": "2025-12-13T08:23:30"
+        }
+      ]
     }
   ]
 }
