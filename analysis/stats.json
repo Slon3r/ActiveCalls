@@ -1,10 +1,10 @@
 {
-  "total_calls_tracked": 3117,
-  "total_resolved": 3109,
+  "total_calls_tracked": 3120,
+  "total_resolved": 3115,
   "call_types": {
     "DIRECTED PATROL": 996,
-    "TRAFFIC STOP": 465,
-    "DRUNK DRIVER": 8,
+    "TRAFFIC STOP": 466,
+    "DRUNK DRIVER": 9,
     "DISTURBANCE": 70,
     "BATTERY": 26,
     "CRIMINAL MISCHIEF": 18,
@@ -18,7 +18,7 @@
     "THEFT": 51,
     "NEIGHBOR CALL": 15,
     "911 HANG-UP": 110,
-    "SUSPICIOUS VEHICLE": 23,
+    "SUSPICIOUS VEHICLE": 24,
     "PANHANDLER/SOLICITOR": 7,
     "VEHICLE ILLEGALLY PARKED": 6,
     "SUSPICIOUS EVENT": 60,
@@ -84,7 +84,7 @@
     "-800 BLOCK 819 NARCISSUS AVE": 2,
     "0 BLOCK ISLAND WAY": 9,
     "US HIGHWAY 19 N / SR 580": 3,
-    "400 BLOCK S GULFVIEW BLVD": 8,
+    "400 BLOCK S GULFVIEW BLVD": 9,
     "100 BLOCK S MYRTLE AVE": 3,
     "0 BLOCK CAUSEWAY BLVD": 24,
     "400 BLOCK FAIRWOOD AVE": 4,
@@ -133,7 +133,7 @@
     "1200 BLOCK DREW ST": 3,
     "2400 BLOCK DREW ST": 7,
     "-1100 BLOCK 1582 GULF BLVD": 6,
-    "3300 BLOCK COURTNEY CAMPBELL CSWY": 13,
+    "3300 BLOCK COURTNEY CAMPBELL CSWY": 14,
     "1200 BLOCK COURT ST": 5,
     "1400 BLOCK OWEN DR": 1,
     "200 BLOCK ISLAND WAY": 9,
@@ -792,7 +792,7 @@
     "-1900 BLOCK 1998 MAGNOLIA DR": 1,
     "GULF TO BAY BLVD / MEADOW LARK LN": 1,
     "GULF TO BAY BLVD / MCMULLEN BOOTH RD S SERVICE RD": 2,
-    "US HIGHWAY 19 N / SOUTH DR": 1,
+    "US HIGHWAY 19 N / SOUTH DR": 2,
     "2100 BLOCK DREW ST": 3,
     "1300 BLOCK YOUNG AVE": 4,
     "-1700 BLOCK 1718 DRUID RD": 1,
@@ -1362,7 +1362,7 @@
     "1500 BLOCK DREW ST": 1
   },
   "hourly_distribution": {
-    "0": 106,
+    "0": 109,
     "1": 98,
     "2": 62,
     "3": 47,
@@ -1388,7 +1388,7 @@
     "23": 104
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-13T05:16:12.152348+00:00",
+  "last_updated": "2025-12-13T05:38:17.149874+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 1020
+  "total_snapshots": 1021
 }
