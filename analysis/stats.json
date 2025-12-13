@@ -1,6 +1,6 @@
 {
-  "total_calls_tracked": 3123,
-  "total_resolved": 3116,
+  "total_calls_tracked": 3124,
+  "total_resolved": 3117,
   "call_types": {
     "DIRECTED PATROL": 998,
     "TRAFFIC STOP": 466,
@@ -18,7 +18,7 @@
     "THEFT": 51,
     "NEIGHBOR CALL": 15,
     "911 HANG-UP": 110,
-    "SUSPICIOUS VEHICLE": 24,
+    "SUSPICIOUS VEHICLE": 25,
     "PANHANDLER/SOLICITOR": 7,
     "VEHICLE ILLEGALLY PARKED": 6,
     "SUSPICIOUS EVENT": 60,
@@ -1359,10 +1359,11 @@
     "MCMULLEN BOOTH RD / ALLEN AVE": 1,
     "S LINCOLN AVE / PARK ST": 1,
     "600 BLOCK DRUID RD E": 1,
-    "1500 BLOCK DREW ST": 1
+    "1500 BLOCK DREW ST": 1,
+    "20700 BLOCK US HIGHWAY 19 N": 1
   },
   "hourly_distribution": {
-    "0": 112,
+    "0": 113,
     "1": 98,
     "2": 62,
     "3": 47,
@@ -1388,7 +1389,7 @@
     "23": 104
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-13T05:49:31.879145+00:00",
+  "last_updated": "2025-12-13T05:57:09.604732+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 1022
+  "total_snapshots": 1023
 }

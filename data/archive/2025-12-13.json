@@ -510,6 +510,54 @@
           "Response_Date": "2025-12-13T00:26:11"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-13T05:57:09.602851+00:00",
+      "call_count": 7,
+      "calls": [
+        {
+          "Master_Incident_Number": "121225-00591",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "MEMORIAL CSWY / ISLAND WAY",
+          "Response_Date": "2025-12-12T22:17:42"
+        },
+        {
+          "Master_Incident_Number": "121225-00645",
+          "Online_Description": "TRAFFIC CRASH",
+          "Address": "DREW ST / FAIRWOOD AVE",
+          "Response_Date": "2025-12-12T23:36:39"
+        },
+        {
+          "Master_Incident_Number": "121325-00002",
+          "Online_Description": "DRUNK DRIVER",
+          "Address": "3300 BLOCK COURTNEY CAMPBELL CSWY",
+          "Response_Date": "2025-12-13T00:01:27"
+        },
+        {
+          "Master_Incident_Number": "121325-00003",
+          "Online_Description": "SUSPICIOUS VEHICLE",
+          "Address": "400 BLOCK S GULFVIEW BLVD",
+          "Response_Date": "2025-12-13T00:05:54"
+        },
+        {
+          "Master_Incident_Number": "121325-00011",
+          "Online_Description": "TRESPASS",
+          "Address": "300 BLOCK CORONADO DR",
+          "Response_Date": "2025-12-13T00:20:48"
+        },
+        {
+          "Master_Incident_Number": "121325-00012",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "22000 BLOCK US HIGHWAY 19 N",
+          "Response_Date": "2025-12-13T00:21:11"
+        },
+        {
+          "Master_Incident_Number": "121325-00015",
+          "Online_Description": "SUSPICIOUS VEHICLE",
+          "Address": "20700 BLOCK US HIGHWAY 19 N",
+          "Response_Date": "2025-12-13T00:24:20"
+        }
+      ]
     }
   ]
 }
