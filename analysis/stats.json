@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 3149,
-  "total_resolved": 3148,
+  "total_calls_tracked": 3153,
+  "total_resolved": 3149,
   "call_types": {
-    "DIRECTED PATROL": 1004,
-    "TRAFFIC STOP": 472,
+    "DIRECTED PATROL": 1005,
+    "TRAFFIC STOP": 473,
     "DRUNK DRIVER": 9,
     "DISTURBANCE": 73,
     "BATTERY": 26,
@@ -31,8 +31,8 @@
     "RECKLESS VEHICLE": 9,
     "JUVENILE CASE": 12,
     "HAZARD": 7,
-    "UNKNOWN PROBLEM": 18,
-    "NOISE COMPLAINT": 16,
+    "UNKNOWN PROBLEM": 19,
+    "NOISE COMPLAINT": 17,
     "CIVIL MATTER": 15,
     "DOMESTIC": 22,
     "ANIMAL CASE": 19,
@@ -350,7 +350,7 @@
     "0 BLOCK N NEPTUNE AVE": 3,
     "S MYRTLE AVE / COURT ST": 2,
     "OLD COACHMAN RD / GULF TO BAY BLVD": 2,
-    "700 BLOCK ELDORADO AVE": 6,
+    "700 BLOCK ELDORADO AVE": 7,
     "700 BLOCK COURT ST": 2,
     "2500 BLOCK DRUID RD": 1,
     "100 BLOCK S GULFVIEW BLVD": 2,
@@ -404,7 +404,7 @@
     "2200 BLOCK BELLEAIR RD": 1,
     "1300 BLOCK PARK ST": 13,
     "DREW ST / US HIGHWAY 19 N": 5,
-    "1300 BLOCK N MARTIN LUTHER KING JR AVE": 8,
+    "1300 BLOCK N MARTIN LUTHER KING JR AVE": 9,
     "N BELCHER RD / OLD COACHMAN RD": 1,
     "600 BLOCK S FORT HARRISON AVE": 10,
     "MONTCLAIR RD / N BELCHER RD": 1,
@@ -1366,15 +1366,17 @@
     "600 BLOCK MCMULLEN BOOTH RD": 1,
     "1100 BLOCK PINE ST N": 1,
     "1000 BLOCK CALUMET ST": 1,
-    "3000 BLOCK UNION ST": 1
+    "3000 BLOCK UNION ST": 1,
+    "900 BLOCK PARK ST": 1,
+    "S HIGHLAND AVE / DE LEON ST": 1
   },
   "hourly_distribution": {
     "0": 115,
     "1": 107,
     "2": 69,
     "3": 52,
-    "4": 32,
-    "5": 78,
+    "4": 34,
+    "5": 80,
     "6": 102,
     "7": 74,
     "8": 177,
@@ -1395,7 +1397,7 @@
     "23": 104
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-13T09:58:32.689725+00:00",
+  "last_updated": "2025-12-13T10:22:07.029357+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 1037
+  "total_snapshots": 1038
 }

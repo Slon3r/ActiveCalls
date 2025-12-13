@@ -1014,6 +1014,36 @@
           "Response_Date": "2025-12-13T04:33:28"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-13T10:22:07.026948+00:00",
+      "call_count": 4,
+      "calls": [
+        {
+          "Master_Incident_Number": "121325-00077",
+          "Online_Description": "NOISE COMPLAINT",
+          "Address": "900 BLOCK PARK ST",
+          "Response_Date": "2025-12-13T04:28:29"
+        },
+        {
+          "Master_Incident_Number": "121325-00081",
+          "Online_Description": "UNKNOWN PROBLEM",
+          "Address": "1300 BLOCK N MARTIN LUTHER KING JR AVE",
+          "Response_Date": "2025-12-13T04:44:11"
+        },
+        {
+          "Master_Incident_Number": "121325-00085",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "700 BLOCK ELDORADO AVE",
+          "Response_Date": "2025-12-13T05:01:14"
+        },
+        {
+          "Master_Incident_Number": "121325-00086",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "S HIGHLAND AVE / DE LEON ST",
+          "Response_Date": "2025-12-13T05:01:51"
+        }
+      ]
     }
   ]
 }
