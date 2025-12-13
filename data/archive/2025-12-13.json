@@ -2040,6 +2040,48 @@
           "Response_Date": "2025-12-13T10:45:39"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-13T16:39:47.061759+00:00",
+      "call_count": 6,
+      "calls": [
+        {
+          "Master_Incident_Number": "121325-00209",
+          "Online_Description": "911 HANG-UP",
+          "Address": "900 BLOCK DRUID RD",
+          "Response_Date": "2025-12-13T10:13:48"
+        },
+        {
+          "Master_Incident_Number": "121325-00232",
+          "Online_Description": "PARK WALK AND TALK",
+          "Address": "-500 BLOCK BLK CLEVELAND ST",
+          "Response_Date": "2025-12-13T11:00:29"
+        },
+        {
+          "Master_Incident_Number": "121325-00234",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "PARKWAY DR / S GULFVIEW BLVD",
+          "Response_Date": "2025-12-13T11:12:24"
+        },
+        {
+          "Master_Incident_Number": "121325-00236",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "500 BLOCK LAKEVIEW RD",
+          "Response_Date": "2025-12-13T11:13:20"
+        },
+        {
+          "Master_Incident_Number": "121325-00239",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "COUNTRYSIDE BLVD / ENDICOTT CT",
+          "Response_Date": "2025-12-13T11:17:29"
+        },
+        {
+          "Master_Incident_Number": "121325-00240",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "-1700 BLOCK 1755 KINGS HWY",
+          "Response_Date": "2025-12-13T11:18:56"
+        }
+      ]
     }
   ]
 }

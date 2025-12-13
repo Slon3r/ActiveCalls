@@ -1,54 +1,42 @@
 {
   "calls": [
     {
-      "Master_Incident_Number": "121325-00208",
-      "Online_Description": "PARK WALK AND TALK",
-      "Address": "300 BLOCK CLEVELAND ST",
-      "Response_Date": "2025-12-13T10:12:34"
-    },
-    {
       "Master_Incident_Number": "121325-00209",
       "Online_Description": "911 HANG-UP",
       "Address": "900 BLOCK DRUID RD",
       "Response_Date": "2025-12-13T10:13:48"
     },
     {
-      "Master_Incident_Number": "121325-00213",
+      "Master_Incident_Number": "121325-00232",
       "Online_Description": "PARK WALK AND TALK",
-      "Address": "200 BLOCK PIERCE ST",
-      "Response_Date": "2025-12-13T10:20:26"
+      "Address": "-500 BLOCK BLK CLEVELAND ST",
+      "Response_Date": "2025-12-13T11:00:29"
     },
     {
-      "Master_Incident_Number": "121325-00216",
-      "Online_Description": "PARK WALK AND TALK",
-      "Address": "-200 BLOCK 398 PIERCE ST",
-      "Response_Date": "2025-12-13T10:21:18"
-    },
-    {
-      "Master_Incident_Number": "121325-00220",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "1600 BLOCK GULF TO BAY BLVD",
-      "Response_Date": "2025-12-13T10:30:48"
-    },
-    {
-      "Master_Incident_Number": "121325-00222",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "0 BLOCK N STARCREST DR",
-      "Response_Date": "2025-12-13T10:35:37"
-    },
-    {
-      "Master_Incident_Number": "121325-00225",
-      "Online_Description": "SUSPICIOUS PERSON",
-      "Address": "DRUID RD / S MISSOURI AVE",
-      "Response_Date": "2025-12-13T10:40:59"
-    },
-    {
-      "Master_Incident_Number": "121325-00226",
+      "Master_Incident_Number": "121325-00234",
       "Online_Description": "TRAFFIC STOP",
-      "Address": "MEMORIAL CSWY / ISLAND WAY",
-      "Response_Date": "2025-12-13T10:45:39"
+      "Address": "PARKWAY DR / S GULFVIEW BLVD",
+      "Response_Date": "2025-12-13T11:12:24"
+    },
+    {
+      "Master_Incident_Number": "121325-00236",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "500 BLOCK LAKEVIEW RD",
+      "Response_Date": "2025-12-13T11:13:20"
+    },
+    {
+      "Master_Incident_Number": "121325-00239",
+      "Online_Description": "TRAFFIC STOP",
+      "Address": "COUNTRYSIDE BLVD / ENDICOTT CT",
+      "Response_Date": "2025-12-13T11:17:29"
+    },
+    {
+      "Master_Incident_Number": "121325-00240",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "-1700 BLOCK 1755 KINGS HWY",
+      "Response_Date": "2025-12-13T11:18:56"
     }
   ],
-  "timestamp": "2025-12-13T16:14:05.308834+00:00",
-  "count": 8
+  "timestamp": "2025-12-13T16:39:47.061759+00:00",
+  "count": 6
 }

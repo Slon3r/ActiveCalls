@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 3218,
-  "total_resolved": 3210,
+  "total_calls_tracked": 3223,
+  "total_resolved": 3217,
   "call_types": {
-    "DIRECTED PATROL": 1036,
-    "TRAFFIC STOP": 487,
+    "DIRECTED PATROL": 1038,
+    "TRAFFIC STOP": 489,
     "DRUNK DRIVER": 9,
     "DISTURBANCE": 73,
     "BATTERY": 26,
@@ -11,7 +11,7 @@
     "ALARM": 42,
     "KEEP THE PEACE": 35,
     "WELFARE CHECK": 72,
-    "PARK WALK AND TALK": 279,
+    "PARK WALK AND TALK": 280,
     "SUSPICIOUS PERSON": 125,
     "TRESPASS": 65,
     "PROPERTY FOUND/LOST": 24,
@@ -137,7 +137,7 @@
     "1200 BLOCK COURT ST": 5,
     "1400 BLOCK OWEN DR": 1,
     "200 BLOCK ISLAND WAY": 9,
-    "-500 BLOCK BLK CLEVELAND ST": 4,
+    "-500 BLOCK BLK CLEVELAND ST": 5,
     "0 BLOCK MEMORIAL CSWY": 25,
     "COUNTRYSIDE BLVD / NORTHRIDGE DR": 1,
     "NE COACHMAN RD / US HIGHWAY 19 N": 2,
@@ -146,7 +146,7 @@
     "1300 BLOCK ADMIRAL WOODSON LN": 1,
     "DREW ST / N SATURN AVE": 2,
     "GULF TO BAY BLVD / THORTON RD": 1,
-    "COUNTRYSIDE BLVD / ENDICOTT CT": 8,
+    "COUNTRYSIDE BLVD / ENDICOTT CT": 9,
     "3000 BLOCK DREW ST": 5,
     "2400 BLOCK COUNTRYSIDE BLVD": 14,
     "1200 BLOCK S MISSOURI AVE": 12,
@@ -1385,7 +1385,10 @@
     "900 BLOCK DRUID RD": 1,
     "1000 BLOCK S FORT HARRISON AVE": 1,
     "-200 BLOCK 398 PIERCE ST": 1,
-    "0 BLOCK N STARCREST DR": 1
+    "0 BLOCK N STARCREST DR": 1,
+    "PARKWAY DR / S GULFVIEW BLVD": 1,
+    "500 BLOCK LAKEVIEW RD": 1,
+    "-1700 BLOCK 1755 KINGS HWY": 1
   },
   "hourly_distribution": {
     "0": 115,
@@ -1399,7 +1402,7 @@
     "8": 186,
     "9": 217,
     "10": 207,
-    "11": 182,
+    "11": 187,
     "12": 182,
     "13": 186,
     "14": 203,
@@ -1414,7 +1417,7 @@
     "23": 104
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-13T16:14:05.312374+00:00",
+  "last_updated": "2025-12-13T16:39:47.065296+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 1060
+  "total_snapshots": 1061
 }
