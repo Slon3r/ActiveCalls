@@ -7,12 +7,6 @@
       "Response_Date": "2025-12-13T06:25:09"
     },
     {
-      "Master_Incident_Number": "121325-00123",
-      "Online_Description": "ALARM",
-      "Address": "700 BLOCK TUSKAWILLA ST",
-      "Response_Date": "2025-12-13T06:38:14"
-    },
-    {
       "Master_Incident_Number": "121325-00126",
       "Online_Description": "DISABLED VEHICLE",
       "Address": "MANDALAY AVE / CAUSEWAY BLVD",
@@ -23,8 +17,38 @@
       "Online_Description": "DIRECTED PATROL",
       "Address": "0 BLOCK 99 ISLAND WAY",
       "Response_Date": "2025-12-13T06:58:39"
+    },
+    {
+      "Master_Incident_Number": "121325-00129",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "1300 BLOCK S BELCHER RD",
+      "Response_Date": "2025-12-13T07:20:38"
+    },
+    {
+      "Master_Incident_Number": "121325-00131",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "700 BLOCK N SATURN AVE",
+      "Response_Date": "2025-12-13T07:28:32"
+    },
+    {
+      "Master_Incident_Number": "121325-00132",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "2600 BLOCK LANDMARK DR",
+      "Response_Date": "2025-12-13T07:28:36"
+    },
+    {
+      "Master_Incident_Number": "121325-00133",
+      "Online_Description": "OPEN DOOR/WINDOW",
+      "Address": "500 BLOCK S FORT HARRISON AVE",
+      "Response_Date": "2025-12-13T07:33:15"
+    },
+    {
+      "Master_Incident_Number": "121325-00135",
+      "Online_Description": "TRAFFIC STOP",
+      "Address": "PARK PLACE BLVD / GULF TO BAY BLVD",
+      "Response_Date": "2025-12-13T07:35:38"
     }
   ],
-  "timestamp": "2025-12-13T12:24:50.044664+00:00",
-  "count": 4
+  "timestamp": "2025-12-13T13:03:11.364958+00:00",
+  "count": 8
 }
