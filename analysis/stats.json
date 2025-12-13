@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 3201,
-  "total_resolved": 3193,
+  "total_calls_tracked": 3204,
+  "total_resolved": 3199,
   "call_types": {
-    "DIRECTED PATROL": 1030,
+    "DIRECTED PATROL": 1032,
     "TRAFFIC STOP": 485,
     "DRUNK DRIVER": 9,
     "DISTURBANCE": 73,
@@ -25,7 +25,7 @@
     "TRAFFIC CRASH": 141,
     "DISABLED VEHICLE": 24,
     "ASSIST CITIZEN": 81,
-    "ASSIST OTHER AGENCY": 68,
+    "ASSIST OTHER AGENCY": 69,
     "FIRE": 3,
     "FRAUD": 17,
     "RECKLESS VEHICLE": 9,
@@ -123,7 +123,7 @@
     "21200 BLOCK US HIGHWAY 19 N": 6,
     "1700 BLOCK SUNSET POINT RD": 1,
     "2300 BLOCK GULF TO BAY BLVD": 4,
-    "1200 BLOCK CLEVELAND ST": 13,
+    "1200 BLOCK CLEVELAND ST": 14,
     "-500 BLOCK 549 MANDALAY AVE": 1,
     "27000 BLOCK US HIGHWAY 19 N": 35,
     "DRIVEWAY PARKING": 2,
@@ -217,7 +217,7 @@
     "23600 BLOCK US HIGHWAY 19 N": 7,
     "300 BLOCK MANDALAY AVE": 4,
     "JONES ST / FERN AVE": 1,
-    "1600 BLOCK GULF TO BAY BLVD": 28,
+    "1600 BLOCK GULF TO BAY BLVD": 29,
     "1600 BLOCK DARTMOUTH ST": 1,
     "HAMDEN DR / BRIGHTWATER DR": 3,
     "HAMPTON RD / GULF TO BAY BLVD": 2,
@@ -1379,7 +1379,8 @@
     "PALMETTO ST / KINGS HWY": 1,
     "N BELCHER RD / PALMETTO ST": 1,
     "2500 BLOCK VILLAGE DR": 1,
-    "N BELCHER RD / CALUMET ST": 1
+    "N BELCHER RD / CALUMET ST": 1,
+    "N MADISON AVE / TANGERINE ST": 1
   },
   "hourly_distribution": {
     "0": 115,
@@ -1391,7 +1392,7 @@
     "6": 112,
     "7": 81,
     "8": 186,
-    "9": 214,
+    "9": 217,
     "10": 193,
     "11": 182,
     "12": 182,
@@ -1408,7 +1409,7 @@
     "23": 104
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-13T15:00:29.292574+00:00",
+  "last_updated": "2025-12-13T15:25:47.395010+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 1055
+  "total_snapshots": 1056
 }
