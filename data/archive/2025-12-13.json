@@ -1710,6 +1710,60 @@
           "Response_Date": "2025-12-13T09:29:01"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-13T15:00:29.289402+00:00",
+      "call_count": 8,
+      "calls": [
+        {
+          "Master_Incident_Number": "121325-00146",
+          "Online_Description": "PARK WALK AND TALK",
+          "Address": "1300 BLOCK PARK ST",
+          "Response_Date": "2025-12-13T08:08:49.453"
+        },
+        {
+          "Master_Incident_Number": "121325-00117",
+          "Online_Description": "DECEASED PERSON",
+          "Address": "1300 BLOCK FRIEND AVE",
+          "Response_Date": "2025-12-13T06:25:09"
+        },
+        {
+          "Master_Incident_Number": "121325-00176",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "2500 BLOCK VILLAGE DR",
+          "Response_Date": "2025-12-13T09:24:41"
+        },
+        {
+          "Master_Incident_Number": "121325-00177",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "S MADISON AVE / CLEVELAND ST",
+          "Response_Date": "2025-12-13T09:25:06"
+        },
+        {
+          "Master_Incident_Number": "121325-00183",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "GULF TO BAY BLVD / LANDRY AVE",
+          "Response_Date": "2025-12-13T09:35:16"
+        },
+        {
+          "Master_Incident_Number": "121325-00184",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "GULF TO BAY BLVD / S BELCHER RD",
+          "Response_Date": "2025-12-13T09:35:42"
+        },
+        {
+          "Master_Incident_Number": "121325-00185",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "500 BLOCK MANDALAY AVE",
+          "Response_Date": "2025-12-13T09:38:27"
+        },
+        {
+          "Master_Incident_Number": "121325-00186",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "200 BLOCK LARBOARD WAY",
+          "Response_Date": "2025-12-13T09:39:08"
+        }
+      ]
     }
   ]
 }
