@@ -42,6 +42,66 @@
           "Response_Date": "2025-12-12T18:34:57"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-13T02:04:00.332696+00:00",
+      "call_count": 9,
+      "calls": [
+        {
+          "Master_Incident_Number": "121225-00474",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "500 BLOCK CLEVELAND ST",
+          "Response_Date": "2025-12-12T18:00:33"
+        },
+        {
+          "Master_Incident_Number": "121225-00488",
+          "Online_Description": "BATTERY",
+          "Address": "1200 BLOCK JEFFORDS ST",
+          "Response_Date": "2025-12-12T18:26:54"
+        },
+        {
+          "Master_Incident_Number": "121225-00501",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "1900 BLOCK GRAND AVE",
+          "Response_Date": "2025-12-12T18:58:25"
+        },
+        {
+          "Master_Incident_Number": "121225-00502",
+          "Online_Description": "DISTURBANCE",
+          "Address": "1100 BLOCK ALMA ST",
+          "Response_Date": "2025-12-12T18:59:33"
+        },
+        {
+          "Master_Incident_Number": "121225-00525",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "1900 BLOCK N HERCULES AVE",
+          "Response_Date": "2025-12-12T20:03:10"
+        },
+        {
+          "Master_Incident_Number": "121225-00538",
+          "Online_Description": "ASSIST CITIZEN",
+          "Address": "600 BLOCK PIERCE ST",
+          "Response_Date": "2025-12-12T20:30:27"
+        },
+        {
+          "Master_Incident_Number": "121225-00537",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "500 BLOCK N BETTY LN",
+          "Response_Date": "2025-12-12T20:29:55"
+        },
+        {
+          "Master_Incident_Number": "121225-00542",
+          "Online_Description": "TRAFFIC CRASH",
+          "Address": "MCMULLEN BOOTH RD / ALLEN AVE",
+          "Response_Date": "2025-12-12T20:36:13"
+        },
+        {
+          "Master_Incident_Number": "121225-00546",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "US HIGHWAY 19 N / SEVILLE BLVD",
+          "Response_Date": "2025-12-12T20:42:19"
+        }
+      ]
     }
   ]
 }

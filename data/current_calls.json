@@ -1,28 +1,10 @@
 {
   "calls": [
     {
-      "Master_Incident_Number": "121225-00388",
-      "Online_Description": "THEFT",
-      "Address": "900 BLOCK CLEVELAND ST",
-      "Response_Date": "2025-12-12T15:25:57"
-    },
-    {
-      "Master_Incident_Number": "121225-00413",
-      "Online_Description": "THEFT",
-      "Address": "2000 BLOCK ALPINE RD",
-      "Response_Date": "2025-12-12T16:14:22"
-    },
-    {
-      "Master_Incident_Number": "121225-00423",
-      "Online_Description": "THEFT",
-      "Address": "500 BLOCK S FORT HARRISON AVE",
-      "Response_Date": "2025-12-12T16:33:46"
-    },
-    {
-      "Master_Incident_Number": "121225-00435",
-      "Online_Description": "PROPERTY FOUND/LOST",
-      "Address": "1900 BLOCK N BELCHER RD",
-      "Response_Date": "2025-12-12T16:46:37"
+      "Master_Incident_Number": "121225-00474",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "500 BLOCK CLEVELAND ST",
+      "Response_Date": "2025-12-12T18:00:33"
     },
     {
       "Master_Incident_Number": "121225-00488",
@@ -31,12 +13,48 @@
       "Response_Date": "2025-12-12T18:26:54"
     },
     {
-      "Master_Incident_Number": "121225-00492",
-      "Online_Description": "PARK WALK AND TALK",
-      "Address": "600 BLOCK BAYWAY BLVD",
-      "Response_Date": "2025-12-12T18:34:57"
+      "Master_Incident_Number": "121225-00501",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "1900 BLOCK GRAND AVE",
+      "Response_Date": "2025-12-12T18:58:25"
+    },
+    {
+      "Master_Incident_Number": "121225-00502",
+      "Online_Description": "DISTURBANCE",
+      "Address": "1100 BLOCK ALMA ST",
+      "Response_Date": "2025-12-12T18:59:33"
+    },
+    {
+      "Master_Incident_Number": "121225-00525",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "1900 BLOCK N HERCULES AVE",
+      "Response_Date": "2025-12-12T20:03:10"
+    },
+    {
+      "Master_Incident_Number": "121225-00538",
+      "Online_Description": "ASSIST CITIZEN",
+      "Address": "600 BLOCK PIERCE ST",
+      "Response_Date": "2025-12-12T20:30:27"
+    },
+    {
+      "Master_Incident_Number": "121225-00537",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "500 BLOCK N BETTY LN",
+      "Response_Date": "2025-12-12T20:29:55"
+    },
+    {
+      "Master_Incident_Number": "121225-00542",
+      "Online_Description": "TRAFFIC CRASH",
+      "Address": "MCMULLEN BOOTH RD / ALLEN AVE",
+      "Response_Date": "2025-12-12T20:36:13"
+    },
+    {
+      "Master_Incident_Number": "121225-00546",
+      "Online_Description": "TRAFFIC STOP",
+      "Address": "US HIGHWAY 19 N / SEVILLE BLVD",
+      "Response_Date": "2025-12-12T20:42:19"
     }
   ],
-  "timestamp": "2025-12-13T00:00:25.450605+00:00",
-  "count": 6
+  "timestamp": "2025-12-13T02:04:00.332696+00:00",
+  "count": 9
 }
