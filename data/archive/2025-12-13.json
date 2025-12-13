@@ -1260,6 +1260,48 @@
           "Response_Date": "2025-12-13T06:17:51"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-13T11:54:48.215298+00:00",
+      "call_count": 6,
+      "calls": [
+        {
+          "Master_Incident_Number": "121325-00082",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "200 BLOCK S GLENWOOD AVE",
+          "Response_Date": "2025-12-13T06:06:04.743"
+        },
+        {
+          "Master_Incident_Number": "121325-00095",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "200 BLOCK DREW ST",
+          "Response_Date": "2025-12-13T05:32:08"
+        },
+        {
+          "Master_Incident_Number": "121325-00112",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "0 BLOCK ISLAND WAY",
+          "Response_Date": "2025-12-13T06:03:58"
+        },
+        {
+          "Master_Incident_Number": "121325-00117",
+          "Online_Description": "DECEASED PERSON",
+          "Address": "1300 BLOCK FRIEND AVE",
+          "Response_Date": "2025-12-13T06:25:09"
+        },
+        {
+          "Master_Incident_Number": "121325-00118",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "100 BLOCK S MYRTLE AVE",
+          "Response_Date": "2025-12-13T06:27:54"
+        },
+        {
+          "Master_Incident_Number": "121325-00121",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "-1000 BLOCK 1170 GULF BLVD",
+          "Response_Date": "2025-12-13T06:32:15"
+        }
+      ]
     }
   ]
 }

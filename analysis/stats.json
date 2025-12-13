@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 3167,
-  "total_resolved": 3163,
+  "total_calls_tracked": 3170,
+  "total_resolved": 3164,
   "call_types": {
-    "DIRECTED PATROL": 1012,
+    "DIRECTED PATROL": 1014,
     "TRAFFIC STOP": 475,
     "DRUNK DRIVER": 9,
     "DISTURBANCE": 73,
@@ -39,7 +39,7 @@
     "MISSING PERSON": 30,
     "BUILDING CHECK": 8,
     "SHOPLIFTING": 14,
-    "DECEASED PERSON": 3,
+    "DECEASED PERSON": 4,
     "BURGLARY": 16,
     "SHOTS FIRED": 3,
     "HIT & RUN": 27,
@@ -85,7 +85,7 @@
     "0 BLOCK ISLAND WAY": 10,
     "US HIGHWAY 19 N / SR 580": 3,
     "400 BLOCK S GULFVIEW BLVD": 9,
-    "100 BLOCK S MYRTLE AVE": 3,
+    "100 BLOCK S MYRTLE AVE": 4,
     "0 BLOCK CAUSEWAY BLVD": 24,
     "400 BLOCK FAIRWOOD AVE": 4,
     "500 BLOCK S FORT HARRISON AVE": 13,
@@ -369,7 +369,7 @@
     "0 BLOCK 69 BAY ESPLANADE": 1,
     "GULF TO BAY BLVD / BAYVIEW AVE": 1,
     "500 BLOCK MOSS AVE": 1,
-    "-1000 BLOCK 1170 GULF BLVD": 2,
+    "-1000 BLOCK 1170 GULF BLVD": 3,
     "27000 BLOCK US 19": 1,
     "500 BLOCK N BETTY LN": 20,
     "600 BLOCK ELDRIDGE ST": 1,
@@ -575,7 +575,7 @@
     "-500 BLOCK 578 BAY ESPLANADE": 1,
     "US HIGHWAY 19 N / NORTHSIDE DR": 1,
     "COURT ST / CHESTNUT ST": 1,
-    "1300 BLOCK FRIEND AVE": 1,
+    "1300 BLOCK FRIEND AVE": 2,
     "S MADISON AVE / CLEVELAND ST ": 1,
     "WOODBINE ST / CARLOS AVE": 1,
     "ISLAND WAY/MEMORIAL CSWY": 1,
@@ -1378,7 +1378,7 @@
     "3": 52,
     "4": 34,
     "5": 90,
-    "6": 106,
+    "6": 109,
     "7": 74,
     "8": 177,
     "9": 202,
@@ -1398,7 +1398,7 @@
     "23": 104
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-13T11:46:42.053843+00:00",
+  "last_updated": "2025-12-13T11:54:48.261518+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 1044
+  "total_snapshots": 1045
 }
