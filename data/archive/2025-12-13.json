@@ -2082,6 +2082,60 @@
           "Response_Date": "2025-12-13T11:18:56"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-13T16:52:57.878309+00:00",
+      "call_count": 8,
+      "calls": [
+        {
+          "Master_Incident_Number": "121325-00209",
+          "Online_Description": "911 HANG-UP",
+          "Address": "900 BLOCK DRUID RD",
+          "Response_Date": "2025-12-13T10:13:48"
+        },
+        {
+          "Master_Incident_Number": "121325-00249",
+          "Online_Description": "FRAUD",
+          "Address": "2000 BLOCK PALMETTO ST",
+          "Response_Date": "2025-12-13T11:04:36"
+        },
+        {
+          "Master_Incident_Number": "121325-00236",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "500 BLOCK LAKEVIEW RD",
+          "Response_Date": "2025-12-13T11:13:20"
+        },
+        {
+          "Master_Incident_Number": "121325-00248",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "3100 BLOCK GULF TO BAY BLVD",
+          "Response_Date": "2025-12-13T11:22:56"
+        },
+        {
+          "Master_Incident_Number": "121325-00250",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "RAINBOW DR / S NEPTUNE AVE",
+          "Response_Date": "2025-12-13T11:27:50"
+        },
+        {
+          "Master_Incident_Number": "121325-00251",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "MEMORIAL CSWY / ISLAND WAY",
+          "Response_Date": "2025-12-13T11:29:00"
+        },
+        {
+          "Master_Incident_Number": "121325-00252",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "COUNTRYSIDE BLVD / ENDICOTT CT",
+          "Response_Date": "2025-12-13T11:29:37"
+        },
+        {
+          "Master_Incident_Number": "121325-00253",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "500 BLOCK S DUNCAN AVE",
+          "Response_Date": "2025-12-13T11:30:17"
+        }
+      ]
     }
   ]
 }

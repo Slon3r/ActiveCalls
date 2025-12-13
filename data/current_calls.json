@@ -7,16 +7,10 @@
       "Response_Date": "2025-12-13T10:13:48"
     },
     {
-      "Master_Incident_Number": "121325-00232",
-      "Online_Description": "PARK WALK AND TALK",
-      "Address": "-500 BLOCK BLK CLEVELAND ST",
-      "Response_Date": "2025-12-13T11:00:29"
-    },
-    {
-      "Master_Incident_Number": "121325-00234",
-      "Online_Description": "TRAFFIC STOP",
-      "Address": "PARKWAY DR / S GULFVIEW BLVD",
-      "Response_Date": "2025-12-13T11:12:24"
+      "Master_Incident_Number": "121325-00249",
+      "Online_Description": "FRAUD",
+      "Address": "2000 BLOCK PALMETTO ST",
+      "Response_Date": "2025-12-13T11:04:36"
     },
     {
       "Master_Incident_Number": "121325-00236",
@@ -25,18 +19,36 @@
       "Response_Date": "2025-12-13T11:13:20"
     },
     {
-      "Master_Incident_Number": "121325-00239",
+      "Master_Incident_Number": "121325-00248",
       "Online_Description": "TRAFFIC STOP",
-      "Address": "COUNTRYSIDE BLVD / ENDICOTT CT",
-      "Response_Date": "2025-12-13T11:17:29"
+      "Address": "3100 BLOCK GULF TO BAY BLVD",
+      "Response_Date": "2025-12-13T11:22:56"
     },
     {
-      "Master_Incident_Number": "121325-00240",
+      "Master_Incident_Number": "121325-00250",
+      "Online_Description": "TRAFFIC STOP",
+      "Address": "RAINBOW DR / S NEPTUNE AVE",
+      "Response_Date": "2025-12-13T11:27:50"
+    },
+    {
+      "Master_Incident_Number": "121325-00251",
+      "Online_Description": "TRAFFIC STOP",
+      "Address": "MEMORIAL CSWY / ISLAND WAY",
+      "Response_Date": "2025-12-13T11:29:00"
+    },
+    {
+      "Master_Incident_Number": "121325-00252",
+      "Online_Description": "TRAFFIC STOP",
+      "Address": "COUNTRYSIDE BLVD / ENDICOTT CT",
+      "Response_Date": "2025-12-13T11:29:37"
+    },
+    {
+      "Master_Incident_Number": "121325-00253",
       "Online_Description": "DIRECTED PATROL",
-      "Address": "-1700 BLOCK 1755 KINGS HWY",
-      "Response_Date": "2025-12-13T11:18:56"
+      "Address": "500 BLOCK S DUNCAN AVE",
+      "Response_Date": "2025-12-13T11:30:17"
     }
   ],
-  "timestamp": "2025-12-13T16:39:47.061759+00:00",
-  "count": 6
+  "timestamp": "2025-12-13T16:52:57.878309+00:00",
+  "count": 8
 }

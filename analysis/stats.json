@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 3223,
-  "total_resolved": 3217,
+  "total_calls_tracked": 3229,
+  "total_resolved": 3221,
   "call_types": {
-    "DIRECTED PATROL": 1038,
-    "TRAFFIC STOP": 489,
+    "DIRECTED PATROL": 1039,
+    "TRAFFIC STOP": 493,
     "DRUNK DRIVER": 9,
     "DISTURBANCE": 73,
     "BATTERY": 26,
@@ -27,7 +27,7 @@
     "ASSIST CITIZEN": 81,
     "ASSIST OTHER AGENCY": 69,
     "FIRE": 3,
-    "FRAUD": 17,
+    "FRAUD": 18,
     "RECKLESS VEHICLE": 9,
     "JUVENILE CASE": 12,
     "HAZARD": 7,
@@ -66,7 +66,7 @@
     "ROAD RAGE": 1
   },
   "addresses": {
-    "MEMORIAL CSWY / ISLAND WAY": 35,
+    "MEMORIAL CSWY / ISLAND WAY": 36,
     "GULF TO BAY BLVD / S BELCHER RD": 8,
     "1900 BLOCK N BETTY LN": 1,
     "1400 BLOCK CLEVELAND ST": 3,
@@ -146,7 +146,7 @@
     "1300 BLOCK ADMIRAL WOODSON LN": 1,
     "DREW ST / N SATURN AVE": 2,
     "GULF TO BAY BLVD / THORTON RD": 1,
-    "COUNTRYSIDE BLVD / ENDICOTT CT": 9,
+    "COUNTRYSIDE BLVD / ENDICOTT CT": 10,
     "3000 BLOCK DREW ST": 5,
     "2400 BLOCK COUNTRYSIDE BLVD": 14,
     "1200 BLOCK S MISSOURI AVE": 12,
@@ -270,7 +270,7 @@
     "US HIGHWAY 19 N / DRUID RD": 2,
     "S MISSOURI AVE/COURT ST": 1,
     "1500 BLOCK S MARTIN LUTHER KING JR AVE": 1,
-    "3100 BLOCK GULF TO BAY BLVD": 6,
+    "3100 BLOCK GULF TO BAY BLVD": 7,
     "1800 BLOCK N HIGHLAND AVE": 20,
     "BELLEAIR BLVD / US HIGHWAY 19 N": 1,
     "-1200 BLOCK 1353 COURT ST": 3,
@@ -920,7 +920,7 @@
     "900 BLOCK LOTUS PATH": 2,
     "GULF TO BAY BLVD/S KEENE RD": 1,
     "400 BLOCK N BELCHER RD": 1,
-    "2000 BLOCK PALMETTO ST": 2,
+    "2000 BLOCK PALMETTO ST": 3,
     "300 BLOCK SEMINOLE ST": 1,
     "2500 BLOCK ALEXANDER PL": 1,
     "2600 BLOCK SABAL SPRINGS DR": 6,
@@ -1388,7 +1388,9 @@
     "0 BLOCK N STARCREST DR": 1,
     "PARKWAY DR / S GULFVIEW BLVD": 1,
     "500 BLOCK LAKEVIEW RD": 1,
-    "-1700 BLOCK 1755 KINGS HWY": 1
+    "-1700 BLOCK 1755 KINGS HWY": 1,
+    "RAINBOW DR / S NEPTUNE AVE": 1,
+    "500 BLOCK S DUNCAN AVE": 1
   },
   "hourly_distribution": {
     "0": 115,
@@ -1402,7 +1404,7 @@
     "8": 186,
     "9": 217,
     "10": 207,
-    "11": 187,
+    "11": 193,
     "12": 182,
     "13": 186,
     "14": 203,
@@ -1417,7 +1419,7 @@
     "23": 104
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-13T16:39:47.065296+00:00",
+  "last_updated": "2025-12-13T16:52:57.881798+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 1061
+  "total_snapshots": 1062
 }
