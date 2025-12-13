@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 3153,
-  "total_resolved": 3149,
+  "total_calls_tracked": 3157,
+  "total_resolved": 3151,
   "call_types": {
-    "DIRECTED PATROL": 1005,
+    "DIRECTED PATROL": 1007,
     "TRAFFIC STOP": 473,
     "DRUNK DRIVER": 9,
     "DISTURBANCE": 73,
@@ -11,8 +11,8 @@
     "ALARM": 41,
     "KEEP THE PEACE": 35,
     "WELFARE CHECK": 72,
-    "PARK WALK AND TALK": 273,
-    "SUSPICIOUS PERSON": 122,
+    "PARK WALK AND TALK": 274,
+    "SUSPICIOUS PERSON": 123,
     "TRESPASS": 63,
     "PROPERTY FOUND/LOST": 24,
     "THEFT": 51,
@@ -148,7 +148,7 @@
     "GULF TO BAY BLVD / THORTON RD": 1,
     "COUNTRYSIDE BLVD / ENDICOTT CT": 8,
     "3000 BLOCK DREW ST": 5,
-    "2400 BLOCK COUNTRYSIDE BLVD": 13,
+    "2400 BLOCK COUNTRYSIDE BLVD": 14,
     "1200 BLOCK S MISSOURI AVE": 12,
     "2000 BLOCK N HIGHLAND AVE": 13,
     "N DUNCAN AVE / DREW ST": 1,
@@ -1333,7 +1333,7 @@
     "100 BLOCK S MARTIN LUTHER KING JR AVE": 1,
     "1000 BLOCK APPLEWOOD DR": 1,
     "WINDWARD PSGE / ISLAND WAY": 1,
-    "2500 BLOCK ENTERPRISE RD": 2,
+    "2500 BLOCK ENTERPRISE RD": 4,
     "FAIRMONT ST / KINGS HWY": 1,
     "24400 BLOCK US HIGHWAY 19 N": 1,
     "JEFFORDS ST / HAMLET AVE": 1,
@@ -1368,7 +1368,8 @@
     "1000 BLOCK CALUMET ST": 1,
     "3000 BLOCK UNION ST": 1,
     "900 BLOCK PARK ST": 1,
-    "S HIGHLAND AVE / DE LEON ST": 1
+    "S HIGHLAND AVE / DE LEON ST": 1,
+    "-600 BLOCK 688 BAY ESPLANADE": 1
   },
   "hourly_distribution": {
     "0": 115,
@@ -1376,7 +1377,7 @@
     "2": 69,
     "3": 52,
     "4": 34,
-    "5": 80,
+    "5": 84,
     "6": 102,
     "7": 74,
     "8": 177,
@@ -1397,7 +1398,7 @@
     "23": 104
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-13T10:22:07.029357+00:00",
+  "last_updated": "2025-12-13T10:39:22.744897+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 1038
+  "total_snapshots": 1039
 }
