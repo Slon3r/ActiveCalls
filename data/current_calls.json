@@ -7,24 +7,12 @@
       "Response_Date": "2025-12-13T00:01:27"
     },
     {
-      "Master_Incident_Number": "121325-00041",
-      "Online_Description": "NOISE COMPLAINT",
-      "Address": "600 BLOCK MCMULLEN BOOTH RD",
-      "Response_Date": "2025-12-13T01:53:33"
-    },
-    {
-      "Master_Incident_Number": "121325-00047",
-      "Online_Description": "NOISE COMPLAINT",
-      "Address": "1000 BLOCK CALUMET ST",
-      "Response_Date": "2025-12-13T02:10:47"
-    },
-    {
       "Master_Incident_Number": "121325-00050",
-      "Online_Description": "DISTURBANCE",
+      "Online_Description": "WEAPONS VIOLATION",
       "Address": "300 BLOCK CORONADO DR",
       "Response_Date": "2025-12-13T02:20:03"
     }
   ],
-  "timestamp": "2025-12-13T07:54:44.424501+00:00",
-  "count": 4
+  "timestamp": "2025-12-13T08:17:09.018034+00:00",
+  "count": 2
 }
