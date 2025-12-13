@@ -25,12 +25,24 @@
       "Response_Date": "2025-12-13T00:05:54"
     },
     {
-      "Master_Incident_Number": "121325-00009",
-      "Online_Description": "TRAFFIC STOP",
-      "Address": "US HIGHWAY 19 N / SOUTH DR",
-      "Response_Date": "2025-12-13T00:14:13"
+      "Master_Incident_Number": "121325-00011",
+      "Online_Description": "TRESPASS",
+      "Address": "300 BLOCK CORONADO DR",
+      "Response_Date": "2025-12-13T00:20:48"
+    },
+    {
+      "Master_Incident_Number": "121325-00012",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "22000 BLOCK US HIGHWAY 19 N",
+      "Response_Date": "2025-12-13T00:21:11"
+    },
+    {
+      "Master_Incident_Number": "121325-00014",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "1400 BLOCK S MARTIN LUTHER KING JR AVE",
+      "Response_Date": "2025-12-13T00:26:11"
     }
   ],
-  "timestamp": "2025-12-13T05:38:17.148096+00:00",
-  "count": 5
+  "timestamp": "2025-12-13T05:49:31.877276+00:00",
+  "count": 7
 }

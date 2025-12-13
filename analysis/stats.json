@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 3120,
-  "total_resolved": 3115,
+  "total_calls_tracked": 3123,
+  "total_resolved": 3116,
   "call_types": {
-    "DIRECTED PATROL": 996,
+    "DIRECTED PATROL": 998,
     "TRAFFIC STOP": 466,
     "DRUNK DRIVER": 9,
     "DISTURBANCE": 70,
@@ -13,7 +13,7 @@
     "WELFARE CHECK": 72,
     "PARK WALK AND TALK": 272,
     "SUSPICIOUS PERSON": 120,
-    "TRESPASS": 62,
+    "TRESPASS": 63,
     "PROPERTY FOUND/LOST": 24,
     "THEFT": 51,
     "NEIGHBOR CALL": 15,
@@ -213,7 +213,7 @@
     "1000 BLOCK N MADISON AVE": 1,
     "2800 BLOCK DREW ST": 2,
     "US HIGHWAY 19 N / GULF TO BAY BLVD": 8,
-    "300 BLOCK CORONADO DR": 24,
+    "300 BLOCK CORONADO DR": 25,
     "23600 BLOCK US HIGHWAY 19 N": 7,
     "300 BLOCK MANDALAY AVE": 4,
     "JONES ST / FERN AVE": 1,
@@ -440,7 +440,7 @@
     "600 BLOCK N FORT HARRISON AVE": 1,
     "200 BLOCK S BETTY LN": 1,
     "2400 BLOCK HARN BLVD": 5,
-    "1400 BLOCK S MARTIN LUTHER KING JR AVE": 13,
+    "1400 BLOCK S MARTIN LUTHER KING JR AVE": 14,
     "OTIS C GREEN DR / N BETTY LN": 1,
     "2600 BLOCK MCMULLEN BOOTH RD": 6,
     "S MADISON AVE / PIERCE ST": 4,
@@ -590,7 +590,7 @@
     "SUNSET POINT RD/US HWY 19": 1,
     "600 BLOCK ENGMAN ST": 1,
     "-200 BLOCK 299 FAIRWOOD AVE": 1,
-    "22000 BLOCK US HIGHWAY 19 N": 1,
+    "22000 BLOCK US HIGHWAY 19 N": 2,
     "2000 BLOCK GLASS LOOP": 1,
     "500 BLOCK WOODLAWN ST": 1,
     "900 BLOCK SEMINOLE ST": 8,
@@ -1362,7 +1362,7 @@
     "1500 BLOCK DREW ST": 1
   },
   "hourly_distribution": {
-    "0": 109,
+    "0": 112,
     "1": 98,
     "2": 62,
     "3": 47,
@@ -1388,7 +1388,7 @@
     "23": 104
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-13T05:38:17.149874+00:00",
+  "last_updated": "2025-12-13T05:49:31.879145+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 1021
+  "total_snapshots": 1022
 }
