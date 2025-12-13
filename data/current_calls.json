@@ -31,24 +31,24 @@
       "Response_Date": "2025-12-13T07:55:32"
     },
     {
-      "Master_Incident_Number": "121325-00149",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "27000 BLOCK US HIGHWAY 19 N",
-      "Response_Date": "2025-12-13T08:12:57"
-    },
-    {
       "Master_Incident_Number": "121325-00151",
       "Online_Description": "DIRECTED PATROL",
       "Address": "-2000 BLOCK 2048 TODD RD",
       "Response_Date": "2025-12-13T08:17:18"
     },
     {
-      "Master_Incident_Number": "121325-00154",
+      "Master_Incident_Number": "121325-00155",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "-1300 BLOCK 1338 FAIRMONT ST",
+      "Response_Date": "2025-12-13T08:30:14"
+    },
+    {
+      "Master_Incident_Number": "121325-00156",
       "Online_Description": "TRAFFIC STOP",
-      "Address": "ENTERPRISE RD E / VILLAGE DR",
-      "Response_Date": "2025-12-13T08:23:30"
+      "Address": "26300 BLOCK US HIGHWAY 19 N",
+      "Response_Date": "2025-12-13T08:31:17"
     }
   ],
-  "timestamp": "2025-12-13T13:45:31.236802+00:00",
+  "timestamp": "2025-12-13T13:53:48.854134+00:00",
   "count": 8
 }

@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 3185,
-  "total_resolved": 3177,
+  "total_calls_tracked": 3187,
+  "total_resolved": 3179,
   "call_types": {
-    "DIRECTED PATROL": 1021,
-    "TRAFFIC STOP": 478,
+    "DIRECTED PATROL": 1022,
+    "TRAFFIC STOP": 479,
     "DRUNK DRIVER": 9,
     "DISTURBANCE": 73,
     "BATTERY": 26,
@@ -290,7 +290,7 @@
     "200 BLOCK LARBOARD WAY": 3,
     "COURT ST / S MISSOURI AVE": 5,
     "-500 BLOCK 1068 GULF BLVD": 1,
-    "26300 BLOCK US HIGHWAY 19 N": 3,
+    "26300 BLOCK US HIGHWAY 19 N": 4,
     "DREW ST / BAYVIEW AVE": 5,
     "2800 BLOCK APPLEWOOD DRIVE": 1,
     "1500 BLOCK EXCALIBER DR": 1,
@@ -1374,7 +1374,8 @@
     "MANDALAY AVE / CAUSEWAY BLVD": 1,
     "VILLAGE DR / ENTERPRISE RD E": 1,
     "27000 BLOCK US HWY 19": 1,
-    "-2000 BLOCK 2048 TODD RD": 1
+    "-2000 BLOCK 2048 TODD RD": 1,
+    "-1300 BLOCK 1338 FAIRMONT ST": 1
   },
   "hourly_distribution": {
     "0": 115,
@@ -1385,7 +1386,7 @@
     "5": 90,
     "6": 112,
     "7": 81,
-    "8": 182,
+    "8": 184,
     "9": 202,
     "10": 193,
     "11": 182,
@@ -1403,7 +1404,7 @@
     "23": 104
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-13T13:45:31.239699+00:00",
+  "last_updated": "2025-12-13T13:53:48.856995+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 1049
+  "total_snapshots": 1050
 }

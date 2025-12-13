@@ -15288,3 +15288,16 @@ TOTAL ACTIVE CALLS: 8
 
 --- RESOLVED CALLS (1) ---
 [RESOLVED] 121325-00148 | TRAFFIC STOP | VILLAGE DR / ENTERPRISE RD E | Response: 08:11 AM
+
+================================================================================
+TIMESTAMP: 2025-12-13T13:53:48.854134+00:00
+TOTAL ACTIVE CALLS: 8
+================================================================================
+
+--- NEW CALLS (2) ---
+[NEW] 121325-00155 | DIRECTED PATROL | -1300 BLOCK 1338 FAIRMONT ST | Response: 08:30 AM
+[NEW] 121325-00156 | TRAFFIC STOP | 26300 BLOCK US HIGHWAY 19 N | Response: 08:31 AM
+
+--- RESOLVED CALLS (2) ---
+[RESOLVED] 121325-00149 | DIRECTED PATROL | 27000 BLOCK US HIGHWAY 19 N | Response: 08:12 AM
+[RESOLVED] 121325-00154 | TRAFFIC STOP | ENTERPRISE RD E / VILLAGE DR | Response: 08:23 AM
