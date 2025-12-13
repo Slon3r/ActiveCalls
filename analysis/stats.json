@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 3129,
-  "total_resolved": 3121,
+  "total_calls_tracked": 3131,
+  "total_resolved": 3125,
   "call_types": {
     "DIRECTED PATROL": 1000,
-    "TRAFFIC STOP": 467,
+    "TRAFFIC STOP": 469,
     "DRUNK DRIVER": 9,
     "DISTURBANCE": 70,
     "BATTERY": 26,
@@ -265,7 +265,7 @@
     "0 BLOCK BAYMONT ST": 1,
     "1500 BLOCK ROSEMERE RD": 2,
     "-3400 BLOCK BLK COURTNEY CAMPBELL CSWY": 2,
-    "500 BLOCK S GULFVIEW BLVD": 2,
+    "500 BLOCK S GULFVIEW BLVD": 3,
     "S FORT HARRISON AVE / PINELLAS ST": 4,
     "US HIGHWAY 19 N / DRUID RD": 2,
     "S MISSOURI AVE/COURT ST": 1,
@@ -792,7 +792,7 @@
     "-1900 BLOCK 1998 MAGNOLIA DR": 1,
     "GULF TO BAY BLVD / MEADOW LARK LN": 1,
     "GULF TO BAY BLVD / MCMULLEN BOOTH RD S SERVICE RD": 2,
-    "US HIGHWAY 19 N / SOUTH DR": 2,
+    "US HIGHWAY 19 N / SOUTH DR": 3,
     "2100 BLOCK DREW ST": 3,
     "1300 BLOCK YOUNG AVE": 4,
     "-1700 BLOCK 1718 DRUID RD": 1,
@@ -1364,7 +1364,7 @@
   },
   "hourly_distribution": {
     "0": 115,
-    "1": 101,
+    "1": 103,
     "2": 62,
     "3": 47,
     "4": 30,
@@ -1389,7 +1389,7 @@
     "23": 104
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-13T06:28:47.410829+00:00",
+  "last_updated": "2025-12-13T06:52:11.373398+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 1024
+  "total_snapshots": 1025
 }

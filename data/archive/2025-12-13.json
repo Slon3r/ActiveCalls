@@ -612,6 +612,48 @@
           "Response_Date": "2025-12-13T01:06:56"
         }
       ]
+    },
+    {
+      "timestamp": "2025-12-13T06:52:11.371453+00:00",
+      "call_count": 6,
+      "calls": [
+        {
+          "Master_Incident_Number": "121225-00645",
+          "Online_Description": "TRAFFIC CRASH",
+          "Address": "DREW ST / FAIRWOOD AVE",
+          "Response_Date": "2025-12-12T23:36:39"
+        },
+        {
+          "Master_Incident_Number": "121325-00002",
+          "Online_Description": "DRUNK DRIVER",
+          "Address": "3300 BLOCK COURTNEY CAMPBELL CSWY",
+          "Response_Date": "2025-12-13T00:01:27"
+        },
+        {
+          "Master_Incident_Number": "121325-00012",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "22000 BLOCK US HIGHWAY 19 N",
+          "Response_Date": "2025-12-13T00:21:11"
+        },
+        {
+          "Master_Incident_Number": "121325-00029",
+          "Online_Description": "DIRECTED PATROL",
+          "Address": "600 BLOCK S GULFVIEW BLVD",
+          "Response_Date": "2025-12-13T01:06:10"
+        },
+        {
+          "Master_Incident_Number": "121325-00032",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "US HIGHWAY 19 N / SOUTH DR",
+          "Response_Date": "2025-12-13T01:18:21"
+        },
+        {
+          "Master_Incident_Number": "121325-00033",
+          "Online_Description": "TRAFFIC STOP",
+          "Address": "500 BLOCK S GULFVIEW BLVD",
+          "Response_Date": "2025-12-13T01:25:33"
+        }
+      ]
     }
   ]
 }
