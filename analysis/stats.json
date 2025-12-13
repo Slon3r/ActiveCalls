@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 3178,
-  "total_resolved": 3170,
+  "total_calls_tracked": 3183,
+  "total_resolved": 3176,
   "call_types": {
-    "DIRECTED PATROL": 1018,
-    "TRAFFIC STOP": 476,
+    "DIRECTED PATROL": 1020,
+    "TRAFFIC STOP": 477,
     "DRUNK DRIVER": 9,
     "DISTURBANCE": 73,
     "BATTERY": 26,
@@ -11,9 +11,9 @@
     "ALARM": 42,
     "KEEP THE PEACE": 35,
     "WELFARE CHECK": 72,
-    "PARK WALK AND TALK": 274,
+    "PARK WALK AND TALK": 275,
     "SUSPICIOUS PERSON": 124,
-    "TRESPASS": 63,
+    "TRESPASS": 64,
     "PROPERTY FOUND/LOST": 24,
     "THEFT": 51,
     "NEIGHBOR CALL": 15,
@@ -329,7 +329,7 @@
     "2900 BLOCK GULF TO BAY BLVD": 10,
     "MONTCLAIR RD / N HERCULES AVE": 1,
     "1000 BLOCK S MISSOURI AVE": 4,
-    "1400 BLOCK S BELCHER RD": 10,
+    "1400 BLOCK S BELCHER RD": 11,
     "-500 BLOCK BLK ISLAND WAY": 1,
     "3200 BLOCK COURTNEY CAMPBELL CSWY": 9,
     "300 BLOCK N HIGHLAND AVE": 1,
@@ -402,7 +402,7 @@
     "CLEVELAND ST / GULF TO BAY BLVD": 5,
     "1400 BLOCK GULF TO BAY BLVD": 7,
     "2200 BLOCK BELLEAIR RD": 1,
-    "1300 BLOCK PARK ST": 13,
+    "1300 BLOCK PARK ST": 14,
     "DREW ST / US HIGHWAY 19 N": 5,
     "1300 BLOCK N MARTIN LUTHER KING JR AVE": 9,
     "N BELCHER RD / OLD COACHMAN RD": 1,
@@ -813,7 +813,7 @@
     "1300 BLOCK S HERCULES AVE": 1,
     "500 BLOCK N FORT HARRISON AVE": 2,
     "3000 BLOCK COUNTRYSIDE BLVD": 3,
-    "600 BLOCK TURNER ST": 2,
+    "600 BLOCK TURNER ST": 3,
     "2500 BLOCK SEA WIND WAY": 1,
     "S MISSOURI AVE / BELLEVUE BLVD": 1,
     "3200 BLOCK MCMULLEN BOOTH RD": 2,
@@ -1371,7 +1371,9 @@
     "S HIGHLAND AVE / DE LEON ST": 1,
     "-600 BLOCK 688 BAY ESPLANADE": 1,
     "700 BLOCK TUSKAWILLA ST": 1,
-    "MANDALAY AVE / CAUSEWAY BLVD": 1
+    "MANDALAY AVE / CAUSEWAY BLVD": 1,
+    "VILLAGE DR / ENTERPRISE RD E": 1,
+    "27000 BLOCK US HWY 19": 1
   },
   "hourly_distribution": {
     "0": 115,
@@ -1381,8 +1383,8 @@
     "4": 34,
     "5": 90,
     "6": 112,
-    "7": 79,
-    "8": 177,
+    "7": 81,
+    "8": 180,
     "9": 202,
     "10": 193,
     "11": 182,
@@ -1400,7 +1402,7 @@
     "23": 104
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-13T13:03:11.367768+00:00",
+  "last_updated": "2025-12-13T13:33:37.381838+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 1047
+  "total_snapshots": 1048
 }
