@@ -1,34 +1,10 @@
 {
   "calls": [
     {
-      "Master_Incident_Number": "121225-00563",
-      "Online_Description": "ASSIST OTHER AGENCY",
-      "Address": "1100 BLOCK MCMULLEN BOOTH RD",
-      "Response_Date": "2025-12-12T21:01:26"
-    },
-    {
-      "Master_Incident_Number": "121225-00568",
-      "Online_Description": "TRAFFIC CRASH",
-      "Address": "SUNSET POINT RD / US HIGHWAY 19 N",
-      "Response_Date": "2025-12-12T21:23:36"
-    },
-    {
       "Master_Incident_Number": "121225-00570",
       "Online_Description": "DIRECTED PATROL",
       "Address": "1600 BLOCK GULF TO BAY BLVD",
       "Response_Date": "2025-12-12T21:25:59"
-    },
-    {
-      "Master_Incident_Number": "121225-00576",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "S MISSOURI AVE / COURT ST",
-      "Response_Date": "2025-12-12T21:35:10"
-    },
-    {
-      "Master_Incident_Number": "121225-00581",
-      "Online_Description": "ASSIST CITIZEN",
-      "Address": "19300 BLOCK US HIGHWAY 19 N",
-      "Response_Date": "2025-12-12T21:42:37"
     },
     {
       "Master_Incident_Number": "121225-00583",
@@ -37,18 +13,48 @@
       "Response_Date": "2025-12-12T21:47:05"
     },
     {
-      "Master_Incident_Number": "121225-00586",
-      "Online_Description": "TRAFFIC STOP",
-      "Address": "COURT ST / S MISSOURI AVE",
-      "Response_Date": "2025-12-12T21:53:37"
+      "Master_Incident_Number": "121225-00591",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "MEMORIAL CSWY / ISLAND WAY",
+      "Response_Date": "2025-12-12T22:17:42"
     },
     {
-      "Master_Incident_Number": "121225-00587",
+      "Master_Incident_Number": "121225-00604",
+      "Online_Description": "911 HANG-UP",
+      "Address": "0 BLOCK N BELCHER RD",
+      "Response_Date": "2025-12-12T22:30:07"
+    },
+    {
+      "Master_Incident_Number": "121225-00601",
       "Online_Description": "TRAFFIC STOP",
-      "Address": "COURT ST / S HILLCREST AVE",
-      "Response_Date": "2025-12-12T22:00:17"
+      "Address": "S LINCOLN AVE / PARK ST",
+      "Response_Date": "2025-12-12T22:30:07"
+    },
+    {
+      "Master_Incident_Number": "121225-00602",
+      "Online_Description": "TRAFFIC STOP",
+      "Address": "0 BLOCK MEMORIAL CSWY",
+      "Response_Date": "2025-12-12T22:31:27"
+    },
+    {
+      "Master_Incident_Number": "121225-00606",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "600 BLOCK DRUID RD E",
+      "Response_Date": "2025-12-12T22:35:02"
+    },
+    {
+      "Master_Incident_Number": "121225-00607",
+      "Online_Description": "TRAFFIC STOP",
+      "Address": "COURT ST / S HIGHLAND AVE",
+      "Response_Date": "2025-12-12T22:35:44"
+    },
+    {
+      "Master_Incident_Number": "121225-00608",
+      "Online_Description": "TRAFFIC STOP",
+      "Address": "GULF TO BAY BLVD / S HIGHLAND AVE",
+      "Response_Date": "2025-12-12T22:36:06"
     }
   ],
-  "timestamp": "2025-12-13T03:21:44.955139+00:00",
-  "count": 8
+  "timestamp": "2025-12-13T03:57:27.435961+00:00",
+  "count": 9
 }

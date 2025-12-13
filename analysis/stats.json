@@ -1,9 +1,9 @@
 {
-  "total_calls_tracked": 3095,
-  "total_resolved": 3087,
+  "total_calls_tracked": 3102,
+  "total_resolved": 3093,
   "call_types": {
-    "DIRECTED PATROL": 993,
-    "TRAFFIC STOP": 452,
+    "DIRECTED PATROL": 995,
+    "TRAFFIC STOP": 456,
     "DRUNK DRIVER": 8,
     "DISTURBANCE": 70,
     "BATTERY": 26,
@@ -17,7 +17,7 @@
     "PROPERTY FOUND/LOST": 24,
     "THEFT": 51,
     "NEIGHBOR CALL": 15,
-    "911 HANG-UP": 109,
+    "911 HANG-UP": 110,
     "SUSPICIOUS VEHICLE": 23,
     "PANHANDLER/SOLICITOR": 7,
     "VEHICLE ILLEGALLY PARKED": 6,
@@ -66,7 +66,7 @@
     "ROAD RAGE": 1
   },
   "addresses": {
-    "MEMORIAL CSWY / ISLAND WAY": 33,
+    "MEMORIAL CSWY / ISLAND WAY": 34,
     "GULF TO BAY BLVD / S BELCHER RD": 7,
     "1900 BLOCK N BETTY LN": 1,
     "1400 BLOCK CLEVELAND ST": 2,
@@ -138,7 +138,7 @@
     "1400 BLOCK OWEN DR": 1,
     "200 BLOCK ISLAND WAY": 9,
     "-500 BLOCK BLK CLEVELAND ST": 4,
-    "0 BLOCK MEMORIAL CSWY": 22,
+    "0 BLOCK MEMORIAL CSWY": 23,
     "COUNTRYSIDE BLVD / NORTHRIDGE DR": 1,
     "NE COACHMAN RD / US HIGHWAY 19 N": 2,
     "LOTUS PATH / BAY AVE": 1,
@@ -388,7 +388,7 @@
     "700 BLOCK BAYVIEW AVE": 1,
     "-1100 BLOCK 1198 N MARTIN LUTHER KING JR AVE": 2,
     "1500 BLOCK DRUID RD": 2,
-    "GULF TO BAY BLVD / S HIGHLAND AVE": 2,
+    "GULF TO BAY BLVD / S HIGHLAND AVE": 3,
     "1600 BLOCK N HIGHLAND AVE": 10,
     "1700 BLOCK FLAGLER DR": 1,
     "20000 BLOCK US HIGHWAY 19 N": 2,
@@ -628,7 +628,7 @@
     "0 BLOCK 48 BAY ESPLANADE": 2,
     "-3100 BLOCK 3160 MASTERS DR": 1,
     "-2700 BLOCK 2748 DREW ST": 1,
-    "COURT ST / S HIGHLAND AVE": 3,
+    "COURT ST / S HIGHLAND AVE": 4,
     "GULF TO BAY BLVD / S KEENE RD": 2,
     "-2500 BLOCK 2528 DRIVEWAY PARKING": 2,
     "S MISSOURI AVE / JEFFORDS ST": 1,
@@ -638,7 +638,7 @@
     "100 BLOCK N BELCHER RD": 2,
     "S SAN REMO AVE / GULF TO BAY BLVD": 3,
     "S BELCHER RD / GULF TO BAY BLVD": 7,
-    "0 BLOCK N BELCHER RD": 2,
+    "0 BLOCK N BELCHER RD": 3,
     "HARN BLVD / FLUSHING AVE": 4,
     "2800 BLOCK MEADOW HILL DR S": 2,
     "700 BLOCK N SATURN AVE": 2,
@@ -1356,7 +1356,9 @@
     "1200 BLOCK JEFFORDS ST": 1,
     "1900 BLOCK GRAND AVE": 1,
     "1100 BLOCK ALMA ST": 1,
-    "MCMULLEN BOOTH RD / ALLEN AVE": 1
+    "MCMULLEN BOOTH RD / ALLEN AVE": 1,
+    "S LINCOLN AVE / PARK ST": 1,
+    "600 BLOCK DRUID RD E": 1
   },
   "hourly_distribution": {
     "0": 106,
@@ -1381,11 +1383,11 @@
     "19": 51,
     "20": 57,
     "21": 73,
-    "22": 127,
+    "22": 134,
     "23": 92
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-13T03:21:44.956637+00:00",
+  "last_updated": "2025-12-13T03:57:27.437682+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 1015
+  "total_snapshots": 1016
 }
