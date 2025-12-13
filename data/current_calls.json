@@ -19,30 +19,18 @@
       "Response_Date": "2025-12-13T01:06:10"
     },
     {
-      "Master_Incident_Number": "121325-00033",
-      "Online_Description": "TRAFFIC STOP",
-      "Address": "500 BLOCK S GULFVIEW BLVD",
-      "Response_Date": "2025-12-13T01:25:33"
+      "Master_Incident_Number": "121325-00041",
+      "Online_Description": "NOISE COMPLAINT",
+      "Address": "600 BLOCK MCMULLEN BOOTH RD",
+      "Response_Date": "2025-12-13T01:53:33"
     },
     {
-      "Master_Incident_Number": "121325-00035",
-      "Online_Description": "TRAFFIC STOP",
-      "Address": "MCMULLEN BOOTH RD / MEASE DR",
-      "Response_Date": "2025-12-13T01:33:39"
-    },
-    {
-      "Master_Incident_Number": "121325-00036",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "-500 BLOCK 799 S HERCULES AVE",
-      "Response_Date": "2025-12-13T01:35:11"
-    },
-    {
-      "Master_Incident_Number": "121325-00037",
-      "Online_Description": "TRAFFIC STOP",
-      "Address": "3100 BLOCK GULF TO BAY BLVD",
-      "Response_Date": "2025-12-13T01:36:35"
+      "Master_Incident_Number": "121325-00043",
+      "Online_Description": "NOISE COMPLAINT",
+      "Address": "YELVINGTON AVE / GULF TO BAY BLVD",
+      "Response_Date": "2025-12-13T02:01:36"
     }
   ],
-  "timestamp": "2025-12-13T07:00:00.146014+00:00",
-  "count": 7
+  "timestamp": "2025-12-13T07:26:28.264459+00:00",
+  "count": 5
 }
