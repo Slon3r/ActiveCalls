@@ -7,30 +7,18 @@
       "Response_Date": "2025-12-13T02:20:03"
     },
     {
-      "Master_Incident_Number": "121325-00065",
-      "Online_Description": "DISTURBANCE",
-      "Address": "900 BLOCK ELDRIDGE ST",
-      "Response_Date": "2025-12-13T03:00:01"
-    },
-    {
-      "Master_Incident_Number": "121325-00067",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "3000 BLOCK UNION ST",
-      "Response_Date": "2025-12-13T03:16:02"
-    },
-    {
-      "Master_Incident_Number": "121325-00068",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "1300 BLOCK S BELCHER RD",
-      "Response_Date": "2025-12-13T03:25:37"
-    },
-    {
       "Master_Incident_Number": "121325-00069",
       "Online_Description": "DIRECTED PATROL",
       "Address": "500 BLOCK N BETTY LN",
       "Response_Date": "2025-12-13T03:28:44"
+    },
+    {
+      "Master_Incident_Number": "121325-00072",
+      "Online_Description": "DISTURBANCE",
+      "Address": "2900 BLOCK DREW ST",
+      "Response_Date": "2025-12-13T03:36:55"
     }
   ],
-  "timestamp": "2025-12-13T08:53:46.402539+00:00",
-  "count": 5
+  "timestamp": "2025-12-13T09:10:41.031004+00:00",
+  "count": 3
 }
