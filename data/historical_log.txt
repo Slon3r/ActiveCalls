@@ -15108,3 +15108,14 @@ TOTAL ACTIVE CALLS: 1
 
 --- RESOLVED CALLS (1) ---
 [RESOLVED] 121325-00050 | WEAPONS VIOLATION | 300 BLOCK CORONADO DR | Response: 02:20 AM
+
+================================================================================
+TIMESTAMP: 2025-12-13T09:58:32.687384+00:00
+TOTAL ACTIVE CALLS: 1
+================================================================================
+
+--- NEW CALLS (1) ---
+[NEW] 121325-00078 | ALARM | 1400 BLOCK S MARTIN LUTHER KING JR AVE | Response: 04:33 AM
+
+--- RESOLVED CALLS (1) ---
+[RESOLVED] 121325-00075 | 911 HANG-UP | 1200 BLOCK SANTA ROSA ST | Response: 04:19 AM
