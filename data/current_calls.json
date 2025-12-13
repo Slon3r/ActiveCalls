@@ -19,22 +19,10 @@
       "Response_Date": "2025-12-13T06:58:39"
     },
     {
-      "Master_Incident_Number": "121325-00142",
-      "Online_Description": "TRESPASS",
-      "Address": "600 BLOCK TURNER ST",
-      "Response_Date": "2025-12-13T07:50:31"
-    },
-    {
       "Master_Incident_Number": "121325-00145",
       "Online_Description": "DIRECTED PATROL",
       "Address": "1400 BLOCK S BELCHER RD",
       "Response_Date": "2025-12-13T07:55:32"
-    },
-    {
-      "Master_Incident_Number": "121325-00151",
-      "Online_Description": "DIRECTED PATROL",
-      "Address": "-2000 BLOCK 2048 TODD RD",
-      "Response_Date": "2025-12-13T08:17:18"
     },
     {
       "Master_Incident_Number": "121325-00155",
@@ -43,12 +31,18 @@
       "Response_Date": "2025-12-13T08:30:14"
     },
     {
-      "Master_Incident_Number": "121325-00156",
+      "Master_Incident_Number": "121325-00159",
+      "Online_Description": "DIRECTED PATROL",
+      "Address": "PALMETTO ST / KINGS HWY",
+      "Response_Date": "2025-12-13T08:41:49"
+    },
+    {
+      "Master_Incident_Number": "121325-00161",
       "Online_Description": "TRAFFIC STOP",
-      "Address": "26300 BLOCK US HIGHWAY 19 N",
-      "Response_Date": "2025-12-13T08:31:17"
+      "Address": "ENTERPRISE RD E / VILLAGE DR",
+      "Response_Date": "2025-12-13T08:49:43"
     }
   ],
-  "timestamp": "2025-12-13T13:53:48.854134+00:00",
-  "count": 8
+  "timestamp": "2025-12-13T14:10:10.518945+00:00",
+  "count": 7
 }
