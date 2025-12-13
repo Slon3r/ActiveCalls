@@ -1,8 +1,8 @@
 {
-  "total_calls_tracked": 3163,
-  "total_resolved": 3159,
+  "total_calls_tracked": 3165,
+  "total_resolved": 3161,
   "call_types": {
-    "DIRECTED PATROL": 1009,
+    "DIRECTED PATROL": 1011,
     "TRAFFIC STOP": 475,
     "DRUNK DRIVER": 9,
     "DISTURBANCE": 73,
@@ -82,7 +82,7 @@
     "1900 BLOCK UNION ST": 3,
     "200 BLOCK DREW ST": 11,
     "-800 BLOCK 819 NARCISSUS AVE": 2,
-    "0 BLOCK ISLAND WAY": 9,
+    "0 BLOCK ISLAND WAY": 10,
     "US HIGHWAY 19 N / SR 580": 3,
     "400 BLOCK S GULFVIEW BLVD": 9,
     "100 BLOCK S MYRTLE AVE": 3,
@@ -164,7 +164,7 @@
     "1300 BLOCK FRANKLIN ST": 2,
     "SUNSET MEADOW DR / COLONY REED LN": 1,
     "0 BLOCK BAY ESPLANADE": 8,
-    "200 BLOCK S GLENWOOD AVE": 32,
+    "200 BLOCK S GLENWOOD AVE": 33,
     "S KEENE RD / DRUID RD": 2,
     "GULF TO BAY BLVD / BAMBOO LN": 2,
     "GULF TO BAY BLVD / BROOKSIDE DR": 1,
@@ -1378,7 +1378,7 @@
     "3": 52,
     "4": 34,
     "5": 90,
-    "6": 102,
+    "6": 104,
     "7": 74,
     "8": 177,
     "9": 202,
@@ -1398,7 +1398,7 @@
     "23": 104
   },
   "first_tracked": "2025-11-29T06:12:23.431655+00:00",
-  "last_updated": "2025-12-13T11:15:23.290902+00:00",
+  "last_updated": "2025-12-13T11:28:31.088852+00:00",
   "peak_active_calls": 18,
-  "total_snapshots": 1041
+  "total_snapshots": 1042
 }
